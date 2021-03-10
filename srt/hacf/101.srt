@@ -1,0 +1,3820 @@
+1
+00:00:08,342 --> 00:00:09,510
+<i>( keyboard keys clicking )</i>
+
+2
+00:00:26,777 --> 00:00:30,489
+( claws clicking )
+
+3
+00:00:36,620 --> 00:00:39,373
+<i>( engine roaring )</i>
+
+4
+00:00:49,717 --> 00:00:52,427
+-<i> ( crunches ) </i>
+-<i> ( tires screech )</i>
+
+5
+00:00:55,305 --> 00:00:56,557
+<i>( engine stops )</i>
+
+6
+00:01:08,903 --> 00:01:11,071
+Professor:
+<i>Today's discussion</i>
+<i>is postponed,</i>
+
+7
+00:01:11,112 --> 00:01:13,657
+<i>as we have</i>
+<i>a very special guest.</i>
+
+8
+00:01:13,699 --> 00:01:15,534
+<i>He's played</i>
+<i>an instrumental part</i>
+
+9
+00:01:15,576 --> 00:01:17,870
+in the world debut
+of the IBM PC,
+
+10
+00:01:17,912 --> 00:01:19,580
+which is now
+on the verge of becoming
+
+11
+00:01:19,621 --> 00:01:22,875
+<i>the</i> industry standard
+for corporate America.
+
+12
+00:01:22,917 --> 00:01:25,794
+Please welcome
+Mr. Joseph MacMillan.
+
+13
+00:01:25,836 --> 00:01:30,089
+( students applauding )
+
+14
+00:01:30,131 --> 00:01:33,385
+Let me start
+by asking a question.
+
+15
+00:01:33,427 --> 00:01:36,388
+How many
+of you desire to be
+computer engineers?
+
+16
+00:01:36,430 --> 00:01:37,598
+Hmm.
+
+17
+00:01:37,639 --> 00:01:39,224
+<i>( music playing</i>
+<i>faintly )</i>
+
+18
+00:01:39,266 --> 00:01:41,309
+Oh-- I'm glad
+you could join us.
+
+19
+00:01:43,311 --> 00:01:45,188
+<i>Keep your hands up,</i>
+<i>keep your hands up.</i>
+
+20
+00:01:45,230 --> 00:01:47,482
+Now I'm going to list off
+several categories.
+
+21
+00:01:47,524 --> 00:01:49,568
+When you hear a category
+you don't have hands-on
+experience in...
+
+22
+00:01:49,610 --> 00:01:51,445
+-<i> ( music stops ) </i>
+- Put your hand down.
+
+23
+00:01:51,486 --> 00:01:53,113
+<i>Software design.</i>
+
+24
+00:01:53,154 --> 00:01:55,741
+<i>Hardware/software</i>
+<i>integration.</i>
+
+25
+00:01:55,783 --> 00:01:58,326
+Circuit design.
+Microprocessing.
+
+26
+00:01:58,368 --> 00:02:02,372
+Firmware design.
+Very large-scale integration.
+
+27
+00:02:02,414 --> 00:02:04,374
+- ( chuckles )
+- Something funny?
+
+28
+00:02:04,416 --> 00:02:06,752
+I don't think you really
+know what that is.
+
+29
+00:02:06,794 --> 00:02:08,921
+Why?
+
+30
+00:02:08,963 --> 00:02:10,881
+Because nobody who knows
+what it is calls it that.
+
+31
+00:02:10,923 --> 00:02:13,341
+"VLSI."
+How's that?
+
+32
+00:02:15,594 --> 00:02:17,846
+Operating systems.
+
+33
+00:02:17,888 --> 00:02:21,892
+P-ROM configuration
+and PLC design.
+
+34
+00:02:23,226 --> 00:02:27,648
+Personal computer design.
+Very good.
+
+35
+00:02:27,689 --> 00:02:29,608
+Now, tell me one thing
+that will be true
+
+36
+00:02:29,650 --> 00:02:31,110
+about computers
+10 years from now.
+
+37
+00:02:31,151 --> 00:02:34,113
+Well, fully
+intelligent machines
+
+38
+00:02:34,154 --> 00:02:36,782
+will simulate the actions
+of neurons more closely,
+replicate--
+
+39
+00:02:36,824 --> 00:02:40,119
+Okay, thanks.
+You.
+
+40
+00:02:40,160 --> 00:02:44,748
+Uh, computers
+will be connected together
+across one network
+
+41
+00:02:44,790 --> 00:02:46,125
+with a standard
+protocol.
+
+42
+00:02:46,166 --> 00:02:49,336
+- Like phone lines.
+- Obviously phone lines.
+
+43
+00:02:49,377 --> 00:02:52,756
+- What's your name?
+- Cameron.
+
+44
+00:02:52,798 --> 00:02:54,842
+Cameron Howe.
+
+45
+00:02:54,883 --> 00:02:57,052
+<i>( music playing )</i>
+
+46
+00:02:57,094 --> 00:02:59,346
+So, you graduate
+this year.
+
+47
+00:02:59,387 --> 00:03:02,099
+You land a job,
+become a programmer for what,
+
+48
+00:03:02,141 --> 00:03:05,519
+what do you wanna do?
+Microcode? PCs? Video games?
+
+49
+00:03:05,560 --> 00:03:06,770
+Do you need
+a quarter?
+
+50
+00:03:07,980 --> 00:03:09,982
+- Got it.
+- Nice.
+
+51
+00:03:14,569 --> 00:03:17,781
+I want to work
+for Reagan's Strategic
+Defense Initiative
+
+52
+00:03:17,823 --> 00:03:19,366
+and put missiles
+in space.
+
+53
+00:03:19,407 --> 00:03:21,827
+Are you afraid to give me
+a straight answer?
+
+54
+00:03:21,869 --> 00:03:25,497
+-<i> ( video game rumbles ) </i>
+- A straight answer?
+Uh, let's see.
+
+55
+00:03:25,539 --> 00:03:28,750
+Everything I'm studying here
+is so totally 10 years ago
+
+56
+00:03:28,792 --> 00:03:31,003
+that no one who matters
+pays attention to anything I do.
+
+57
+00:03:31,045 --> 00:03:33,005
+- I'm paying attention.
+- Yeah, but do you matter?
+
+58
+00:03:33,047 --> 00:03:36,050
+Hey, can we get
+two more?
+
+59
+00:03:36,091 --> 00:03:37,926
+Would you know
+if I did?
+
+60
+00:03:37,968 --> 00:03:41,346
+What is this anyway,
+some kind of job interview?
+
+61
+00:03:41,388 --> 00:03:43,932
+Maybe, maybe not.
+Depends on you.
+
+62
+00:03:44,975 --> 00:03:47,268
+<i>( machine clattering )</i>
+
+63
+00:03:47,310 --> 00:03:48,687
+You still haven't
+answered my question.
+
+64
+00:03:48,729 --> 00:03:50,814
+Does it even matter
+what I want to do?
+
+65
+00:03:50,856 --> 00:03:52,649
+God, this is an industry
+built on people
+
+66
+00:03:52,691 --> 00:03:54,860
+ripping off each other's
+boring-ass ideas.
+
+67
+00:03:54,902 --> 00:03:58,405
+SCP rips off CP/M,
+Microsoft rips off SCP.
+
+68
+00:03:58,446 --> 00:03:59,948
+Oh, IBM rips off
+everybody, right?
+
+69
+00:03:59,990 --> 00:04:01,449
+You've got
+a lot of excuses.
+
+70
+00:04:01,491 --> 00:04:03,202
+And you work for IBM.
+
+71
+00:04:03,243 --> 00:04:06,621
+Hey, computers could be more.
+They should be.
+
+72
+00:04:06,663 --> 00:04:10,500
+You build counting machines,
+the same thing you've done
+for the last 70 years.
+
+73
+00:04:10,542 --> 00:04:13,253
+I don't work for IBM.
+
+74
+00:04:21,553 --> 00:04:23,055
+( bangs )
+
+75
+00:04:27,601 --> 00:04:30,478
+( moaning )
+
+76
+00:04:52,126 --> 00:04:53,585
+Uh!
+
+77
+00:04:55,629 --> 00:04:56,922
+( thumps )
+
+78
+00:04:56,964 --> 00:04:59,382
+( panting )
+
+79
+00:05:13,147 --> 00:05:15,607
+( grunting )
+
+80
+00:05:17,276 --> 00:05:20,403
+This doesn't mean
+you get the job.
+
+81
+00:05:25,033 --> 00:05:27,577
+Wow.
+
+82
+00:05:28,745 --> 00:05:31,039
+You mean
+we're not in love?
+
+83
+00:05:39,173 --> 00:05:40,966
+<i>( theme music playing )</i>
+
+84
+00:06:11,663 --> 00:06:13,040
+-<i> ( keys jingle ) </i>
+-<i> ( lock clicks )</i>
+
+85
+00:06:13,081 --> 00:06:15,209
+Guard:
+<i>Clark.</i>
+
+86
+00:06:22,716 --> 00:06:26,594
+-<i> ( two-way radio chatter ) </i>
+-<i> ( gate buzzes )</i>
+
+87
+00:06:30,974 --> 00:06:32,391
+Man on radio: 
+<i>Clear the gate.</i>
+
+88
+00:06:39,774 --> 00:06:41,735
+Ain't no jail cell
+can hold me.
+
+89
+00:06:43,028 --> 00:06:45,906
+Come on.
+
+90
+00:06:49,659 --> 00:06:51,703
+You didn't have to
+bring the kids.
+
+91
+00:06:51,745 --> 00:06:53,872
+I think I did.
+
+92
+00:07:04,174 --> 00:07:07,635
+Look, I had
+one too many drinks.
+
+93
+00:07:07,677 --> 00:07:10,013
+It got away from me.
+
+94
+00:07:10,055 --> 00:07:13,850
+It won't happen again.
+
+95
+00:07:13,892 --> 00:07:16,270
+Sorry.
+
+96
+00:07:18,980 --> 00:07:21,858
+You still
+have a job?
+
+97
+00:07:21,900 --> 00:07:24,361
+Of course I do.
+
+98
+00:07:24,403 --> 00:07:27,197
+They could care less
+about me anyway.
+
+99
+00:07:31,118 --> 00:07:33,412
+Remember at the demo
+
+100
+00:07:33,453 --> 00:07:35,956
+when we went to turn it on
+and it wouldn't turn on?
+
+101
+00:07:35,997 --> 00:07:38,250
+Gordon...
+
+102
+00:07:38,292 --> 00:07:43,838
+It's like, 1979 was good,
+but then 1980 came
+
+103
+00:07:43,880 --> 00:07:47,717
+and it was like, whoa...
+
+104
+00:07:47,759 --> 00:07:51,221
+what happened,
+you know?
+
+105
+00:07:51,263 --> 00:07:55,309
+What I know is that
+you need to be at work
+in four hours.
+
+106
+00:07:55,350 --> 00:07:57,894
+Four.
+
+107
+00:07:59,479 --> 00:08:03,233
+Then your dad--
+your dad said,
+
+108
+00:08:03,275 --> 00:08:05,860
+"We can't lend you
+any more."
+
+109
+00:08:05,902 --> 00:08:08,280
+And he wasn't
+being mean.
+
+110
+00:08:08,322 --> 00:08:12,200
+He was just
+in his kitchen
+looking at me,
+
+111
+00:08:12,242 --> 00:08:16,371
+and I said,
+"Okay, Gary."
+
+112
+00:08:16,413 --> 00:08:18,081
+You're drunk,
+so the best thing
+
+113
+00:08:18,123 --> 00:08:21,418
+you could do right now
+is to shut up.
+
+114
+00:08:25,255 --> 00:08:27,715
+- ( clicks )
+- I know what IBM is.
+
+115
+00:08:29,426 --> 00:08:31,803
+I also know
+what IBM ain't,
+
+116
+00:08:31,845 --> 00:08:33,972
+and everything
+that ain't IBM is cheaper,
+faster, and better,
+
+117
+00:08:34,014 --> 00:08:35,640
+and that's what
+this company lives by.
+
+118
+00:08:35,682 --> 00:08:37,225
+Well, John, that's
+what Hitachi thought.
+
+119
+00:08:37,267 --> 00:08:38,893
+And Burroughs and NCR
+
+120
+00:08:38,935 --> 00:08:40,812
+and Honeywell
+and Control Data.
+
+121
+00:08:40,854 --> 00:08:42,897
+No, I know
+all the companies
+that IBM has crushed,
+
+122
+00:08:42,939 --> 00:08:44,649
+and Cardiff Electric
+ain't one of 'em.
+It won't be.
+
+123
+00:08:44,691 --> 00:08:46,318
+You sound pretty sure
+about that.
+
+124
+00:08:46,360 --> 00:08:48,987
+( laughs )
+Look at you.
+
+125
+00:08:49,029 --> 00:08:53,241
+Same suit,
+different tie.
+
+126
+00:08:53,283 --> 00:08:56,995
+You know, Dallas is a long way
+from Armonk, New York, son.
+
+127
+00:08:57,037 --> 00:08:59,039
+- That's no accident.
+- I couldn't agree
+with you more.
+
+128
+00:08:59,080 --> 00:09:01,875
+Maybe I'm a guy who's done
+doing business like that.
+
+129
+00:09:01,916 --> 00:09:03,960
+Maybe I see Cardiff Electric
+as a mid-major
+
+130
+00:09:04,002 --> 00:09:05,337
+ready to take the jump
+
+131
+00:09:05,379 --> 00:09:07,381
+and myself as the
+heavy hitter you need
+
+132
+00:09:07,422 --> 00:09:11,176
+to legitimize your sales force,
+this company, this region.
+
+133
+00:09:11,218 --> 00:09:14,804
+I just need somebone
+to come in here and blow
+the balls off the numbers, Joe.
+
+134
+00:09:14,846 --> 00:09:17,682
+I will tell you this--
+it's systems software,
+straight up.
+
+135
+00:09:17,724 --> 00:09:20,060
+No application,
+no next-gen PC garbage.
+
+136
+00:09:20,101 --> 00:09:22,312
+It ain't sexy, but it
+sure as hell makes us
+some serious money.
+
+137
+00:09:22,354 --> 00:09:24,898
+- Then I'm your guy.
+- ( scoffs )
+Don't know if I see it.
+
+138
+00:09:24,939 --> 00:09:27,067
+You got East Coast corporate
+written all over ya.
+
+139
+00:09:27,108 --> 00:09:29,861
+Don't like
+East Coast corporate.
+
+140
+00:09:29,903 --> 00:09:32,989
+Hell, hotshot, you didn't
+bring in a damn resume.
+
+141
+00:09:36,826 --> 00:09:38,495
+<i>( briefcase</i>
+<i>latches click )</i>
+
+142
+00:09:41,122 --> 00:09:43,958
+- And what is this?
+What am I looking at?
+- My W-2.
+
+143
+00:09:44,000 --> 00:09:47,295
+- Box one is my last
+reported income at IBM.
+- Whoo-hoo.
+
+144
+00:09:47,337 --> 00:09:50,382
+It's also what 200%
+of quota looks like.
+
+145
+00:09:51,841 --> 00:09:53,510
+The golden circle.
+
+146
+00:09:53,552 --> 00:09:57,680
+I'll break numbers.
+I always do.
+
+147
+00:09:58,890 --> 00:10:02,060
+( laughs )
+
+148
+00:10:02,102 --> 00:10:05,063
+You answer to me.
+I'm SVP of sales,
+
+149
+00:10:05,105 --> 00:10:09,234
+so you're dog shit around here
+until you close a deal.
+
+150
+00:10:09,276 --> 00:10:11,528
+- Do you understand?
+- I do.
+
+151
+00:10:11,570 --> 00:10:15,282
+"I do."
+Good.
+
+152
+00:10:15,323 --> 00:10:18,034
+Well, we're married.
+
+153
+00:10:20,328 --> 00:10:22,539
+You may now go break
+your numbers, darlin'.
+
+154
+00:10:52,152 --> 00:10:54,488
+Woman on radio:
+<i>...free and clear through</i>
+<i>Lewisville and Carrollton,</i>
+
+155
+00:10:54,529 --> 00:10:55,489
+<i>but starting to slow down...</i>
+
+156
+00:10:55,530 --> 00:10:58,241
+<i>( engine belt squeaking )</i>
+
+157
+00:10:58,283 --> 00:11:00,243
+Hey.
+
+158
+00:11:00,285 --> 00:11:02,370
+( honks horn )
+
+159
+00:11:02,412 --> 00:11:04,247
+A-16.
+
+160
+00:11:06,333 --> 00:11:09,669
+Hey, that's me.
+That's my spot, A-16.
+
+161
+00:11:16,009 --> 00:11:18,261
+Woman on radio:
+<i>...high from Love Field today</i>
+<i>is 86...</i>
+
+162
+00:11:37,489 --> 00:11:39,574
+( clicks )
+
+163
+00:11:43,370 --> 00:11:46,122
+MacMillan:
+A-16!
+
+164
+00:11:46,164 --> 00:11:49,209
+A-16.
+
+165
+00:11:49,250 --> 00:11:53,588
+- You're my SE
+for this sales call.
+- Oh, fantastic.
+
+166
+00:11:53,630 --> 00:11:57,842
+We'll take my car,
+it's closer.
+
+167
+00:11:57,884 --> 00:11:59,594
+MacMillan:
+The truth is, our systems
+
+168
+00:11:59,636 --> 00:12:02,347
+are outperforming
+every top seller
+in the market.
+
+169
+00:12:02,389 --> 00:12:04,307
+- What about IBM?
+- IBM is IBM,
+
+170
+00:12:04,349 --> 00:12:06,017
+but we're neck and neck
+and we're cheaper.
+
+171
+00:12:06,059 --> 00:12:09,187
+Technically.
+The difference in cost
+is negligible.
+
+172
+00:12:09,229 --> 00:12:12,357
+It just seems you guys
+at Cardiff think you've built
+yourselves a fancy race car
+
+173
+00:12:12,399 --> 00:12:13,858
+that deserves
+an outrageous price tag.
+
+174
+00:12:13,900 --> 00:12:16,152
+And we get no
+Big Blue guarantee.
+
+175
+00:12:16,194 --> 00:12:17,612
+I don't think
+there is such a thing.
+
+176
+00:12:17,654 --> 00:12:19,906
+Well, they
+had me fooled.
+
+177
+00:12:19,947 --> 00:12:21,991
+- ( man laughs )
+- Me, too.
+
+178
+00:12:24,369 --> 00:12:25,995
+I worked here.
+
+179
+00:12:27,372 --> 00:12:29,165
+I grew up there.
+
+180
+00:12:29,207 --> 00:12:33,127
+And I was
+brought up to believe
+that the work we did,
+
+181
+00:12:33,169 --> 00:12:35,963
+the things we built were
+the singular contribution
+to computers
+
+182
+00:12:36,005 --> 00:12:37,882
+that history
+would remember.
+
+183
+00:12:37,924 --> 00:12:40,051
+And I believed it
+for a long time.
+
+184
+00:12:40,093 --> 00:12:43,513
+For a long time,
+it was true.
+
+185
+00:12:45,098 --> 00:12:48,727
+Nobody ever got fired
+for buying an IBM, right?
+
+186
+00:12:49,977 --> 00:12:53,398
+What a fearful way
+to do business.
+
+187
+00:12:53,440 --> 00:12:55,900
+You've made
+just enough safe choices
+
+188
+00:12:55,942 --> 00:12:59,237
+to stay alive,
+but not enough to matter.
+
+189
+00:12:59,279 --> 00:13:01,740
+Is that
+what you want?
+
+190
+00:13:01,780 --> 00:13:04,909
+You can be more.
+
+191
+00:13:04,951 --> 00:13:07,995
+You want to be more,
+don't you?
+
+192
+00:13:09,830 --> 00:13:12,417
+The window of opportunity
+is closing.
+
+193
+00:13:12,459 --> 00:13:15,169
+This is your chance.
+
+194
+00:13:15,211 --> 00:13:17,756
+<i>This is not</i>
+<i>about not losing.</i>
+
+195
+00:13:17,796 --> 00:13:22,510
+This is about you
+finally having the confidence
+
+196
+00:13:22,552 --> 00:13:27,014
+to walk out on the ledge
+and know that you're
+not going to fall.
+
+197
+00:13:28,807 --> 00:13:32,103
+Are we still talking about
+systems software here?
+
+198
+00:13:32,145 --> 00:13:34,230
+Amen, let's get
+this guy another drink.
+
+199
+00:13:34,272 --> 00:13:37,609
+I'm not going to apologize
+for caring about your business,
+
+200
+00:13:37,651 --> 00:13:39,444
+even if the people
+who work for you don't.
+
+201
+00:13:41,154 --> 00:13:43,698
+I'll ask you
+one more time.
+
+202
+00:13:43,740 --> 00:13:47,034
+Are you ready
+to be more?
+
+203
+00:14:00,298 --> 00:14:04,678
+- There's also free install--
+- Gordon, please.
+
+204
+00:14:10,350 --> 00:14:12,560
+I'll think about it.
+
+205
+00:14:23,822 --> 00:14:26,407
+Look, it's better
+than a flat-out no.
+
+206
+00:14:29,661 --> 00:14:33,331
+Hey, man, look,
+Applied Data hasn't bought
+jack-all from anyone in years.
+
+207
+00:14:33,373 --> 00:14:35,082
+You did a solid job
+explaining the software,
+
+208
+00:14:35,124 --> 00:14:37,335
+but I need you
+to do me one favor.
+
+209
+00:14:37,377 --> 00:14:39,086
+Okay.
+
+210
+00:14:39,128 --> 00:14:41,047
+Next time I move to close,
+this is what you do.
+
+211
+00:14:41,088 --> 00:14:45,134
+- Okay, what?
+- You<i> shut up!</i>
+
+212
+00:14:47,428 --> 00:14:48,763
+<i>"Lodi" playing</i>
+
+213
+00:14:48,805 --> 00:14:52,559
+<i>♪ The man</i>
+<i>from the magazine ♪</i>
+
+214
+00:14:52,600 --> 00:14:54,060
+<i>♪ Said I was</i>
+<i>on my way... ♪</i>
+
+215
+00:14:54,101 --> 00:14:57,146
+- Hey.
+- Hey, Mom.
+
+216
+00:14:57,188 --> 00:14:58,898
+Come here,
+you little monkeys.
+Give me my kisses.
+
+217
+00:15:01,693 --> 00:15:03,403
+Thank you.
+Go play.
+
+218
+00:15:03,444 --> 00:15:07,365
+<i>♪ Came into town,</i>
+<i>a one-night stand ♪</i>
+
+219
+00:15:07,407 --> 00:15:11,244
+-<i> ♪ Looks like my plans</i>
+<i>fell through... ♪ </i>
+- It's soda.
+
+220
+00:15:11,285 --> 00:15:13,371
+<i>♪ Oh, Lord ♪</i>
+
+221
+00:15:13,413 --> 00:15:16,332
+<i>♪ Stuck in Lodi again... ♪</i>
+
+222
+00:15:18,459 --> 00:15:20,795
+Daughter:
+<i>Mom, Speak &amp; Spell's</i>
+<i>not working.</i>
+
+223
+00:15:20,837 --> 00:15:22,463
+Well, what's wrong
+with it?
+
+224
+00:15:22,505 --> 00:15:24,465
+- It won't turn on.
+- Joanie did it.
+
+225
+00:15:24,507 --> 00:15:27,385
+Uh-uh, Haley did it.
+She was playing with
+her blocks--
+
+226
+00:15:27,427 --> 00:15:29,220
+Let's see.
+
+227
+00:15:29,262 --> 00:15:33,057
+<i>♪ ...had a dollar</i>
+<i>for every song I've sung... ♪</i>
+
+228
+00:15:33,099 --> 00:15:35,059
+Joanie's Speak &amp; Spell
+won't turn on.
+
+229
+00:15:35,101 --> 00:15:38,897
+Joanie:
+Pressing "on"
+makes it go.
+
+230
+00:15:38,938 --> 00:15:41,148
+Okay.
+
+231
+00:15:41,190 --> 00:15:44,151
+- Are you gonna fix it?
+- I'm gonna try.
+
+232
+00:15:44,193 --> 00:15:46,780
+<i>Did it give you</i>
+<i>any good words?</i>
+
+233
+00:15:46,821 --> 00:15:48,656
+Did it stump you
+at all?
+
+234
+00:15:48,698 --> 00:15:50,700
+No.
+
+235
+00:15:50,742 --> 00:15:52,493
+Okay.
+
+236
+00:15:52,535 --> 00:15:54,829
+Joanie: 
+<i>She was throwing</i>
+<i>her blocks at it.</i>
+
+237
+00:15:54,871 --> 00:15:57,540
+Haley:
+<i>But you did it.</i>
+<i>You were pressing "on."</i>
+
+238
+00:15:57,582 --> 00:15:59,292
+- I don't care who broke it.
+-<i> That probably breaked it.</i>
+
+239
+00:15:59,333 --> 00:16:01,502
+I'm just gonna
+get it fixed, okay?
+
+240
+00:16:01,544 --> 00:16:05,590
+( sighs )
+Okay, girls,
+other room, please.
+
+241
+00:16:05,632 --> 00:16:08,509
+- ( both grumble )
+- Please? Thank you.
+
+242
+00:16:24,275 --> 00:16:26,026
+( sighs )
+
+243
+00:16:27,821 --> 00:16:30,030
+You want to
+take a look and see
+what's wrong with that?
+
+244
+00:16:30,072 --> 00:16:32,283
+They make that
+where you work,
+not where I do.
+
+245
+00:16:32,325 --> 00:16:35,453
+Okay, Gordon, do you want
+to maybe get me the salt?
+
+246
+00:16:35,495 --> 00:16:36,996
+Maybe you could reach
+into the cabinet
+
+247
+00:16:37,037 --> 00:16:38,456
+about seven inches
+from your head,
+
+248
+00:16:38,498 --> 00:16:40,541
+take out the salt,
+and put it in my hand
+
+249
+00:16:40,583 --> 00:16:42,251
+so I can finish
+cooking this.
+
+250
+00:16:42,293 --> 00:16:44,712
+Do you think you could
+at least get me the salt?
+
+251
+00:16:47,841 --> 00:16:50,217
+Here's the salt.
+
+252
+00:16:51,761 --> 00:16:53,053
+Thank you.
+
+253
+00:17:12,198 --> 00:17:14,074
+- ( object slaps )
+- A-16.
+
+254
+00:17:16,494 --> 00:17:19,330
+- What is this?
+- Page 33.
+
+255
+00:17:19,372 --> 00:17:22,000
+- Man, if you think
+it's funny--
+- Page 33.
+
+256
+00:17:22,041 --> 00:17:24,293
+I'm not in the mood,
+all right?
+
+257
+00:17:24,335 --> 00:17:27,005
+Why don't you go blow-dry
+your hair some more
+or something?
+
+258
+00:17:27,046 --> 00:17:28,798
+Don't you realize
+what you wrote?
+
+259
+00:17:31,509 --> 00:17:34,470
+You wrote
+a treasure map.
+
+260
+00:17:35,889 --> 00:17:38,683
+If you see him around,
+I wanna meet that guy.
+
+261
+00:17:38,725 --> 00:17:42,311
+There's a project
+I want to discuss with him.
+
+262
+00:17:43,479 --> 00:17:44,605
+Hey, hey.
+
+263
+00:17:46,733 --> 00:17:48,401
+What are you doing?
+Why are you doing this?
+
+264
+00:17:48,442 --> 00:17:50,945
+"This puts the future
+squarely in the hands
+
+265
+00:17:50,987 --> 00:17:53,280
+of those who know computers
+not for what they are,
+
+266
+00:17:53,322 --> 00:17:56,534
+but for everything
+they have the potential to be."
+
+267
+00:17:56,576 --> 00:17:57,785
+What?
+
+268
+00:17:57,827 --> 00:17:59,579
+You know who said that?
+
+269
+00:17:59,620 --> 00:18:01,539
+No, no, I don't.
+
+270
+00:18:01,581 --> 00:18:03,290
+You did.
+
+271
+00:18:04,625 --> 00:18:08,004
+Page 36,
+closing paragraph.
+
+272
+00:18:08,046 --> 00:18:12,132
+Computers
+aren't the thing.
+
+273
+00:18:12,174 --> 00:18:16,596
+They're the thing
+that gets us<i> to</i> the thing.
+
+274
+00:18:44,457 --> 00:18:46,125
+Over here
+on the circuit board,
+you've got the ROM chip.
+
+275
+00:18:46,166 --> 00:18:48,294
+That's like the brain
+that remembers all the words--
+
+276
+00:18:48,335 --> 00:18:51,923
+128 kilobits worth.
+That is a lot of words.
+
+277
+00:18:51,965 --> 00:18:54,801
+<i>( phone ringing )</i>
+
+278
+00:18:54,842 --> 00:18:58,054
+And then you've got
+your VFD display right here.
+
+279
+00:18:58,096 --> 00:19:00,389
+That's the part
+that shows you the words.
+
+280
+00:19:00,431 --> 00:19:03,559
+And the speech synthesizer
+chip right here,
+
+281
+00:19:03,601 --> 00:19:07,021
+that is the extra-special one
+they make where Mommy works.
+
+282
+00:19:07,063 --> 00:19:09,189
+I got it.
+
+283
+00:19:10,066 --> 00:19:12,568
+<i>( ringing continues )</i>
+
+284
+00:19:12,610 --> 00:19:14,988
+Hello?
+
+285
+00:19:15,029 --> 00:19:17,740
+It's somebody
+named Joe MacMillan.
+
+286
+00:19:17,782 --> 00:19:19,659
+We're headed
+out the door to a movie.
+
+287
+00:19:19,700 --> 00:19:20,868
+-<i> Can I have him call you back? </i>
+- What does the special chip do?
+
+288
+00:19:20,910 --> 00:19:25,414
+Oh, um, the chip
+makes it talk.
+
+289
+00:19:25,456 --> 00:19:27,125
+You know,
+like you and me.
+
+290
+00:19:27,166 --> 00:19:29,669
+- Can you make it talk?
+- Not right now, kiddo.
+
+291
+00:19:29,710 --> 00:19:32,588
+Hey, Joanie,
+why don't you go get ready
+for the movie, 'kay?
+
+292
+00:19:40,138 --> 00:19:43,390
+He wanted to know
+if you thought about
+what he said.
+
+293
+00:19:43,432 --> 00:19:45,768
+That article
+I wrote in "Byte."
+
+294
+00:19:45,810 --> 00:19:47,895
+What about it?
+
+295
+00:19:47,937 --> 00:19:49,856
+He had some ideas
+about it.
+
+296
+00:19:49,897 --> 00:19:52,817
+Oh, yeah?
+What kind of ideas?
+
+297
+00:19:52,859 --> 00:19:54,568
+I don't know.
+
+298
+00:19:54,610 --> 00:19:56,070
+It doesn't
+really matter.
+
+299
+00:19:59,699 --> 00:20:02,035
+...go home and watch
+the other two "Star Wars"?
+
+300
+00:20:02,076 --> 00:20:04,495
+- You wanna do that tonight?
+-<i> Hi, Joe MacMillan.</i>
+
+301
+00:20:04,537 --> 00:20:06,956
+We spoke
+on the phone earlier.
+
+302
+00:20:06,998 --> 00:20:08,541
+( chuckles )
+
+303
+00:20:08,582 --> 00:20:10,043
+Did you
+follow me here?
+
+304
+00:20:10,084 --> 00:20:11,878
+Your husband
+is the best SE
+
+305
+00:20:11,919 --> 00:20:13,504
+I've worked with
+at Cardiff Electric.
+
+306
+00:20:13,546 --> 00:20:15,506
+Now, granted,
+I've only been
+there a week.
+
+307
+00:20:15,548 --> 00:20:17,925
+Do you mind if I borrow
+Gordon for one second?
+
+308
+00:20:19,969 --> 00:20:22,388
+- Donna: Come on.
+- Hey, I'll see
+you guys outside.
+
+309
+00:20:22,429 --> 00:20:25,141
+Donna:
+Yeah, maybe,
+if Daddy lets us.
+
+310
+00:20:25,183 --> 00:20:27,018
+( chuckles )
+
+311
+00:20:27,060 --> 00:20:29,562
+Reverse engineer
+an IBM PC with me.
+
+312
+00:20:29,603 --> 00:20:32,481
+What? Why?
+What would be the point?
+
+313
+00:20:32,523 --> 00:20:33,858
+Because I want to
+build a machine
+
+314
+00:20:33,900 --> 00:20:36,152
+that nobody else
+has the balls to build.
+
+315
+00:20:37,028 --> 00:20:40,907
+Wow, you're serious.
+
+316
+00:20:40,948 --> 00:20:43,034
+Look, that's
+a terrible idea.
+
+317
+00:20:43,076 --> 00:20:46,787
+- Why?
+- For such a multitude
+of reasons
+
+318
+00:20:46,829 --> 00:20:50,499
+that I--
+because it's illegal.
+
+319
+00:20:50,541 --> 00:20:54,045
+Worst-case scenario,
+IBM sues us into the ground.
+
+320
+00:20:54,087 --> 00:20:57,339
+Uh, Cardiff finds out,
+then both of us would
+be on the street.
+
+321
+00:20:57,381 --> 00:21:00,885
+Apple, IBM, they have
+the market sewn up.
+
+322
+00:21:00,927 --> 00:21:05,556
+Plus, you got Commodore,
+Tandy, Texas Instruments.
+
+323
+00:21:05,598 --> 00:21:09,769
+I'm sorry,
+but you missed it.
+We all did.
+
+324
+00:21:11,645 --> 00:21:14,732
+Gordon, wait, wait.
+
+325
+00:21:14,774 --> 00:21:16,734
+That's why we do it
+as Cardiff Electric.
+
+326
+00:21:16,776 --> 00:21:18,069
+Scale up instantly.
+
+327
+00:21:18,111 --> 00:21:19,987
+Are you
+out of your mind?
+
+328
+00:21:20,029 --> 00:21:22,031
+Buzzards like Bosworth
+and Cardiff would never
+go for something--
+
+329
+00:21:22,073 --> 00:21:24,075
+- So we force their hand.
+- Force their hand?
+
+330
+00:21:24,117 --> 00:21:26,035
+How are you gonna
+force their hand?
+
+331
+00:21:26,077 --> 00:21:28,079
+Let me worry
+about that part.
+
+332
+00:21:30,123 --> 00:21:31,457
+Haley, Joanie:
+<i>Dad!</i>
+
+333
+00:21:31,498 --> 00:21:33,709
+- Come on, Dad!
+- Hurry!
+
+334
+00:21:37,004 --> 00:21:38,631
+Do you have
+a family, Joe?
+
+335
+00:21:41,050 --> 00:21:43,177
+That's what I thought.
+
+336
+00:21:43,219 --> 00:21:45,596
+Look, thanks,
+but no thanks.
+
+337
+00:21:51,018 --> 00:21:53,729
+<i>( car horn honks )</i>
+
+338
+00:21:58,692 --> 00:22:01,279
+So, that was
+Joe MacMillan, huh?
+
+339
+00:22:05,741 --> 00:22:08,202
+He stalked our family
+to the movies, Gordon.
+
+340
+00:22:08,244 --> 00:22:10,121
+Could you
+please acknowledge
+how crazy that is?
+
+341
+00:22:10,163 --> 00:22:11,956
+He's just keyed up
+about something.
+
+342
+00:22:11,998 --> 00:22:13,791
+What does he want?
+
+343
+00:22:15,251 --> 00:22:17,586
+He wants to build
+a computer.
+
+344
+00:22:17,628 --> 00:22:21,548
+And what does that
+have to do with you?
+
+345
+00:22:25,845 --> 00:22:27,680
+Gordon?
+
+346
+00:22:27,721 --> 00:22:30,266
+Gordon, we can't
+do this again.
+You know we can't.
+
+347
+00:22:30,308 --> 00:22:31,851
+Look, I know, okay?
+I know.
+
+348
+00:22:31,892 --> 00:22:34,145
+Do you know?
+Because I just had
+to spread the payments
+
+349
+00:22:34,187 --> 00:22:37,439
+- for Joanie's next dental visit
+over three credit cards.
+- Oh, my God, Donna.
+
+350
+00:22:41,194 --> 00:22:44,488
+It's just literally
+a mistake that we can't
+afford to make again.
+
+351
+00:22:44,530 --> 00:22:47,574
+Look, the Symphonic
+was a good idea.
+
+352
+00:22:47,616 --> 00:22:49,702
+I know you
+still think so.
+
+353
+00:22:49,743 --> 00:22:52,205
+- What's a Symphonic?
+- Donna:<i> It's a silly computer</i>
+
+354
+00:22:52,246 --> 00:22:54,165
+<i>Mommy and Daddy built</i>
+<i>that didn't work.</i>
+
+355
+00:22:54,207 --> 00:22:57,168
+The Symphonic...
+
+356
+00:22:57,210 --> 00:23:01,047
+was the best thing
+your dad ever did.
+
+357
+00:23:07,136 --> 00:23:09,055
+<i>"Complicated Game" plays</i>
+
+358
+00:23:09,096 --> 00:23:12,683
+<i>( engine starts )</i>
+
+359
+00:23:12,725 --> 00:23:15,686
+<i>♪ It's always been the same ♪</i>
+
+360
+00:23:15,728 --> 00:23:18,564
+<i>♪ It's just</i>
+<i>a complicated game ♪</i>
+
+361
+00:23:18,605 --> 00:23:20,316
+-<i> ♪ Yeah ♪ </i>
+- ( clattering )
+
+362
+00:23:24,028 --> 00:23:28,324
+<i>♪ A little girl asked me</i>
+<i>should she part her hair</i>
+<i>upon the left ♪</i>
+
+363
+00:23:28,366 --> 00:23:31,035
+<i>♪ No ♪</i>
+
+364
+00:23:31,077 --> 00:23:35,831
+<i>♪ A little girl asked me</i>
+<i>should she part her hair</i>
+<i>upon the right ♪</i>
+
+365
+00:23:35,873 --> 00:23:38,167
+<i>♪ No ♪</i>
+
+366
+00:23:38,209 --> 00:23:41,337
+<i>♪ I said, "It really</i>
+<i>doesn't matter where you</i>
+<i>part your hair ♪</i>
+
+367
+00:23:41,379 --> 00:23:43,421
+<i>♪ Someone else will come along</i>
+<i>and move it ♪</i>
+
+368
+00:23:43,463 --> 00:23:47,009
+<i>♪ And it's</i>
+<i>always been the same ♪</i>
+
+369
+00:23:47,051 --> 00:23:50,637
+<i>♪ It's just</i>
+<i>a complicated game" ♪</i>
+
+370
+00:23:54,267 --> 00:23:56,310
+<i>♪ It's just</i>
+<i>a complicated game... ♪</i>
+
+371
+00:23:56,352 --> 00:23:58,771
+( sizzling )
+
+372
+00:24:01,190 --> 00:24:03,734
+( shatters )
+
+373
+00:24:03,776 --> 00:24:08,697
+<i>♪ A little boy asks me</i>
+<i>should he put his vote</i>
+<i>upon the left... ♪</i>
+
+374
+00:24:08,739 --> 00:24:11,033
+( cracks )
+
+375
+00:24:11,075 --> 00:24:15,371
+<i>♪ A little boy asks me</i>
+<i>should he put his vote</i>
+<i>upon the right ♪</i>
+
+376
+00:24:17,998 --> 00:24:20,918
+<i>♪ I said, "It really</i>
+<i>doesn't matter where you</i>
+<i>put your vote ♪</i>
+
+377
+00:24:20,960 --> 00:24:23,421
+<i>♪ 'Cause someone else</i>
+<i>will come along</i>
+<i>and move it ♪</i>
+
+378
+00:24:23,461 --> 00:24:26,882
+<i>♪ And it's always been</i>
+<i>the same ♪</i>
+
+379
+00:24:26,924 --> 00:24:30,261
+<i>♪ It's just</i>
+<i>a complicated game." ♪</i>
+
+380
+00:24:41,814 --> 00:24:44,108
+Do you have any idea
+how expensive this thing was?
+
+381
+00:24:44,150 --> 00:24:47,361
+Donna took the kids
+to see her brother
+for the three-day weekend.
+
+382
+00:24:47,403 --> 00:24:50,072
+I faked a fever, so...
+
+383
+00:24:50,114 --> 00:24:52,450
+let's turn this thing
+inside out.
+
+384
+00:24:57,163 --> 00:24:59,457
+<i>( engine roars )</i>
+
+385
+00:25:04,003 --> 00:25:06,130
+Gordon:
+<i>A personal computer,</i>
+<i>like any other computer,</i>
+
+386
+00:25:06,172 --> 00:25:07,923
+<i>is just a nothing box</i>
+<i>full of electronic switches</i>
+<i>and hardware.</i>
+
+387
+00:25:07,965 --> 00:25:10,926
+<i>You know, the IBM,</i>
+<i>the Altair, the Apple II--</i>
+
+388
+00:25:10,968 --> 00:25:12,886
+it's all the same junk.
+
+389
+00:25:12,928 --> 00:25:15,389
+<i>Anyone can buy all this stuff</i>
+<i>off the shelf right now.</i>
+
+390
+00:25:15,431 --> 00:25:17,350
+It's called
+"open architecture."
+
+391
+00:25:17,391 --> 00:25:21,812
+I mean, IBM,
+they basically don't own
+anything inside the machine.
+
+392
+00:25:21,854 --> 00:25:25,191
+- Except the chip.
+- Yeah, well, except
+what's on the chip.
+
+393
+00:25:25,232 --> 00:25:26,442
+The BIOS is on
+one of these chips,
+
+394
+00:25:26,484 --> 00:25:28,777
+we just don't know
+which one.
+
+395
+00:25:28,819 --> 00:25:32,656
+The ROM BIOS is the
+only part of the machine
+IBM actually designed.
+
+396
+00:25:32,698 --> 00:25:37,036
+I mean, it is the program,
+it is the magic.
+
+397
+00:25:37,077 --> 00:25:39,038
+The bad news is
+they copyrighted it
+
+398
+00:25:39,079 --> 00:25:40,831
+and they own
+how it works.
+
+399
+00:25:40,873 --> 00:25:44,877
+The good news is
+there's a way around
+that, sort of.
+
+400
+00:25:44,918 --> 00:25:47,963
+- Reverse engineering.
+- Right, grab me
+the oscilloscope.
+
+401
+00:25:48,005 --> 00:25:51,842
+And a pen and paper.
+We need to record
+these pin voltages.
+
+402
+00:25:51,884 --> 00:25:53,719
+( pops )
+
+403
+00:25:53,760 --> 00:25:57,097
+I am a little rusty
+at this.
+
+404
+00:25:57,139 --> 00:25:59,517
+<i>( puffing )</i>
+
+405
+00:25:59,557 --> 00:26:01,185
+<i>Yeah.</i>
+
+406
+00:26:01,227 --> 00:26:04,397
+- Plus five?
+- Yeah.
+
+407
+00:26:04,438 --> 00:26:06,357
+-<i> Zero? </i>
+- Mm-hmm.
+
+408
+00:26:06,399 --> 00:26:09,109
+- Zero.
+-<i> Mm-hmm.</i>
+
+409
+00:26:09,151 --> 00:26:10,403
+- Plus five.
+- Yeah.
+
+410
+00:26:10,444 --> 00:26:11,737
+-<i> Zero. </i>
+-<i> Mm-hmm.</i>
+
+411
+00:26:11,778 --> 00:26:13,072
+- Plus five.
+-<i> No.</i>
+
+412
+00:26:13,113 --> 00:26:14,365
+- Zero.
+-<i> Yeah.</i>
+
+413
+00:26:14,407 --> 00:26:15,699
+-<i> Plus five? Zero. </i>
+- Yeah.
+
+414
+00:26:15,741 --> 00:26:17,410
+- Minus five?
+- Yeah, yeah.
+
+415
+00:26:17,451 --> 00:26:18,744
+-<i> Zero. </i>
+- Yeah.
+
+416
+00:26:18,785 --> 00:26:20,079
+- Minus five.
+- Yeah.
+
+417
+00:26:20,120 --> 00:26:22,998
+- Zero.
+- ( sighs )
+
+418
+00:26:23,040 --> 00:26:25,543
+- Yeah.
+-<i> Plus five?</i>
+
+419
+00:26:28,170 --> 00:26:30,172
+( sizzling )
+
+420
+00:26:43,102 --> 00:26:46,105
+That's it.
+Let's get to work.
+
+421
+00:26:47,356 --> 00:26:49,442
+All right, write
+these numbers down.
+
+422
+00:26:49,483 --> 00:26:51,110
+2-8-0-0...
+
+423
+00:26:51,151 --> 00:26:53,904
+1-3-1-6...
+
+424
+00:26:53,946 --> 00:26:55,573
+0-4-5-6...
+
+425
+00:26:55,613 --> 00:26:57,533
+Wait, wait, wait,
+what am I doing here?
+
+426
+00:26:57,575 --> 00:27:00,411
+We're writing down the contents
+of the addresses, all right?
+
+427
+00:27:00,453 --> 00:27:03,581
+So each group of four lights
+represents a hex digit.
+
+428
+00:27:03,621 --> 00:27:05,040
+I understand
+hexadecimal code.
+
+429
+00:27:05,082 --> 00:27:07,543
+How are you getting
+this from that?
+
+430
+00:27:07,585 --> 00:27:10,379
+This first line,
+that's a B.
+
+431
+00:27:10,421 --> 00:27:13,840
+Two on, one off, one on.
+
+432
+00:27:13,882 --> 00:27:15,593
+Okay, second line here, E.
+
+433
+00:27:15,633 --> 00:27:18,262
+- Three on, one off--
+- Oh, I get it, I get it.
+
+434
+00:27:18,304 --> 00:27:20,514
+How many of these addresses
+do we need to transcribe?
+
+435
+00:27:22,057 --> 00:27:24,851
+65,536.
+
+436
+00:27:27,645 --> 00:27:29,440
+<i>E-4-2-1.</i>
+
+437
+00:27:29,482 --> 00:27:34,278
+<i>8-0... C-4...</i>
+<i>C-2-7-2...</i>
+
+438
+00:27:34,320 --> 00:27:35,946
+<i>3-8-7-9...</i>
+
+439
+00:27:35,988 --> 00:27:38,115
+<i>C-9-1-0...</i>
+
+440
+00:27:38,157 --> 00:27:40,159
+<i>4-C...</i>
+
+441
+00:27:40,200 --> 00:27:42,369
+1-9-2-1...
+
+442
+00:27:42,411 --> 00:27:46,499
+<i>( reciting continues )</i>
+
+443
+00:27:52,254 --> 00:27:55,715
+...6-C-9-4.
+
+444
+00:28:01,347 --> 00:28:03,349
+All right, fire up
+the monitor.
+
+445
+00:28:03,390 --> 00:28:06,059
+-<i> I'm gonna go</i>
+<i>put on some coffee. </i>
+- Are we done?
+
+446
+00:28:06,101 --> 00:28:10,147
+( gulps )
+With this part.
+
+447
+00:28:10,189 --> 00:28:12,899
+-<i> ( footsteps fade ) </i>
+- ( sighs )
+
+448
+00:28:18,322 --> 00:28:20,449
+All right-- ahem...
+
+449
+00:28:20,491 --> 00:28:23,285
+let's see if
+we got it right.
+
+450
+00:28:23,327 --> 00:28:24,537
+-<i> ( clicks ) </i>
+- ( pops )
+
+451
+00:28:34,505 --> 00:28:35,922
+( clicks )
+
+452
+00:28:37,633 --> 00:28:40,177
+( whirring )
+
+453
+00:28:40,219 --> 00:28:43,222
+There's a prompt.
+That's a good sign.
+
+454
+00:28:43,263 --> 00:28:45,558
+<i>( keyboard keys clicking )</i>
+
+455
+00:28:53,691 --> 00:28:55,484
+You found a needle
+in a haystack.
+
+456
+00:28:55,526 --> 00:28:57,277
+Now, hold on.
+Let's fire up the printer.
+
+457
+00:28:57,319 --> 00:28:59,946
+We still have
+a lot to do.
+
+458
+00:28:59,988 --> 00:29:03,158
+( whirring, beeping )
+
+459
+00:29:18,465 --> 00:29:21,677
+The IBM PC-ROM BIOS.
+
+460
+00:29:21,719 --> 00:29:23,970
+That's the assembly
+language code.
+
+461
+00:29:31,604 --> 00:29:33,063
+Now we do
+our own chip.
+
+462
+00:29:33,105 --> 00:29:35,065
+Well, I mean...
+
+463
+00:29:35,107 --> 00:29:37,317
+I told you.
+
+464
+00:29:37,359 --> 00:29:38,694
+It's a treasure map.
+
+465
+00:29:38,736 --> 00:29:41,238
+Yeah, maybe, but look--
+
+466
+00:29:41,280 --> 00:29:42,989
+( laughs )
+
+467
+00:29:43,031 --> 00:29:45,701
+Oh, this definitely
+calls for a toast--
+
+468
+00:29:45,743 --> 00:29:47,494
+( rattling )
+
+469
+00:29:51,081 --> 00:29:52,625
+Gordon:
+Oh, shit.
+
+470
+00:29:56,128 --> 00:29:58,756
+I-I thought you weren't
+gonna be back till Monday.
+
+471
+00:29:58,797 --> 00:30:02,092
+It is Monday.
+
+472
+00:30:02,134 --> 00:30:04,762
+Haley's sick.
+I figured she caught
+whatever you had,
+
+473
+00:30:04,803 --> 00:30:07,806
+but looking at you now,
+I can tell that you're
+not sick at all.
+
+474
+00:30:09,391 --> 00:30:12,728
+Would you please tell me
+that you didn't buy all this?
+
+475
+00:30:12,770 --> 00:30:15,731
+- Maybe I can help explain--
+- I'd like to speak
+to my husband...
+
+476
+00:30:15,773 --> 00:30:17,107
+privately.
+
+477
+00:30:27,409 --> 00:30:29,662
+- Gordon:<i> Honey,</i>
+<i>just let me explain-- </i>
+-<i> I really don't understand.</i>
+
+478
+00:30:29,703 --> 00:30:31,705
+- Let me just
+defend myself here.
+- Why would you lie to me?
+
+479
+00:30:31,747 --> 00:30:34,458
+- Hold on, I did not lie
+to you about anything.
+- You did, you lied.
+
+480
+00:30:34,500 --> 00:30:36,293
+- No, I did not lie to you.
+- Gordon, this is going
+backwards.
+
+481
+00:30:36,335 --> 00:30:38,128
+This right here,
+this is what I want
+to do with my life!
+
+482
+00:30:38,170 --> 00:30:41,256
+Yes, but don't you realize
+what you're risking?
+
+483
+00:30:41,298 --> 00:30:43,634
+Don't you realize
+what you have now?
+
+484
+00:30:46,178 --> 00:30:48,639
+Well, it's
+not enough.
+
+485
+00:30:48,681 --> 00:30:51,350
+Okay? I'm sorry,
+it's not enough.
+
+486
+00:30:54,436 --> 00:30:57,481
+Okay.
+
+487
+00:30:57,523 --> 00:31:00,233
+Well, it always
+has been enough for me.
+
+488
+00:31:00,275 --> 00:31:01,860
+Come on, Donna,
+don't be like that.
+
+489
+00:31:01,901 --> 00:31:03,529
+But I guess I never
+had the burden of believing
+
+490
+00:31:03,570 --> 00:31:06,072
+that I was some
+misunderstood genius.
+
+491
+00:31:08,116 --> 00:31:09,451
+<i>( car door closes )</i>
+
+492
+00:31:12,245 --> 00:31:14,665
+Donna:
+<i>Let's put you to bed.</i>
+
+493
+00:31:14,707 --> 00:31:17,626
+- John?
+- Nope.
+
+494
+00:31:17,668 --> 00:31:19,753
+I'm sorry, but I think
+you'll wanna take this.
+
+495
+00:31:19,795 --> 00:31:21,338
+<i>Mama makin'</i>
+<i>pork chops tonight.</i>
+
+496
+00:31:21,380 --> 00:31:23,131
+It's IBM.
+
+497
+00:31:32,516 --> 00:31:34,518
+<i>( button clicks )</i>
+
+498
+00:31:34,560 --> 00:31:36,687
+Bosworth here.
+
+499
+00:31:36,729 --> 00:31:41,941
+John, it's Dale Butler,
+Senior Vice President of Sales,
+North America.
+
+500
+00:31:44,236 --> 00:31:46,572
+What can I
+do you for, Dale?
+
+501
+00:31:46,613 --> 00:31:51,535
+- You got one of
+my boys down there.
+- Why, yes, we do.
+
+502
+00:31:51,577 --> 00:31:53,203
+MacMillan.
+Uh-huh.
+
+503
+00:31:53,245 --> 00:31:55,539
+Interesting fella.
+
+504
+00:31:55,581 --> 00:31:58,876
+( Dale chuckles )
+I guess I can say it's
+good to know he's alive.
+
+505
+00:31:58,917 --> 00:32:00,878
+How so?
+
+506
+00:32:00,919 --> 00:32:04,339
+<i>Joe walked out the front door</i>
+<i>of our offices last March.</i>
+
+507
+00:32:04,381 --> 00:32:06,174
+And?
+
+508
+00:32:06,216 --> 00:32:07,593
+And he never came back.
+
+509
+00:32:12,723 --> 00:32:15,308
+You lost me, Dale.
+
+510
+00:32:15,350 --> 00:32:17,603
+No one has seen or heard
+from Joe MacMillan
+
+511
+00:32:17,644 --> 00:32:19,312
+in more than a year.
+
+512
+00:32:19,354 --> 00:32:20,898
+<i>We even filed</i>
+<i>police reports.</i>
+
+513
+00:32:20,939 --> 00:32:22,900
+<i>Up until we caught wind</i>
+<i>he was working for you,</i>
+
+514
+00:32:22,941 --> 00:32:26,737
+we believed the worst,
+but here we are.
+
+515
+00:32:26,779 --> 00:32:28,906
+<i>He's damaged goods, John.</i>
+
+516
+00:32:28,947 --> 00:32:32,409
+<i>I wish I could've warned you,</i>
+<i>but now it might be too late.</i>
+
+517
+00:32:32,451 --> 00:32:35,370
+How so?
+
+518
+00:32:35,412 --> 00:32:38,916
+I'm here with Rebecca Taylor,
+our in-house legal counsel.
+
+519
+00:32:41,334 --> 00:32:45,631
+Hi, John.
+We've got a problem.
+
+520
+00:32:59,394 --> 00:33:01,354
+- You two-- sit down.
+-<i> ( door closes )</i>
+
+521
+00:33:03,941 --> 00:33:05,442
+<i>This here</i>
+<i>is Nathan Cardiff.</i>
+
+522
+00:33:05,484 --> 00:33:07,235
+<i>He owns the company</i>
+<i>you destroyed.</i>
+
+523
+00:33:07,277 --> 00:33:09,279
+<i>We just got done with</i>
+<i>a two-and-a-half-hour jaw</i>
+
+524
+00:33:09,321 --> 00:33:10,739
+with IBM's legal team,
+
+525
+00:33:10,781 --> 00:33:12,491
+including your old boss,
+Dale Butler.
+
+526
+00:33:12,532 --> 00:33:13,700
+Oh, yeah?
+How's he doing?
+
+527
+00:33:15,911 --> 00:33:17,746
+Oh, he's doing
+pretty splendid,
+
+528
+00:33:17,788 --> 00:33:20,666
+given the fact
+that Big Blue is gonna
+liquidate this company
+
+529
+00:33:20,707 --> 00:33:23,794
+to the tune
+of several dozen million
+dollars in legal damages
+
+530
+00:33:23,836 --> 00:33:26,463
+because two
+idiot children
+in our employ
+
+531
+00:33:26,505 --> 00:33:28,757
+decided to rip off
+their flagship product.
+
+532
+00:33:28,799 --> 00:33:30,467
+Sir, that wasn't
+the idea.
+
+533
+00:33:30,509 --> 00:33:32,010
+We did this
+solely on our own.
+
+534
+00:33:32,051 --> 00:33:33,595
+It turns out
+that doesn't matter--
+
+535
+00:33:33,637 --> 00:33:36,556
+and, believe me,
+we tried to feed you
+to the wolves, boys.
+
+536
+00:33:36,598 --> 00:33:38,642
+But because
+MacMillan here
+worked at IBM
+
+537
+00:33:38,684 --> 00:33:41,060
+and you two were
+in our employ at the time
+of your little project,
+
+538
+00:33:41,102 --> 00:33:43,814
+that project is ours now,
+for better or worse.
+
+539
+00:33:43,856 --> 00:33:45,607
+Worse,
+in this case.
+
+540
+00:33:45,649 --> 00:33:48,443
+Butler and that woman Taylor
+are headed down here tomorrow.
+
+541
+00:33:48,485 --> 00:33:51,571
+Sir, how the hell
+did IBM find out
+about this?
+
+542
+00:33:51,613 --> 00:33:53,365
+I told them.
+
+543
+00:33:55,575 --> 00:33:57,661
+Hey! Hey!
+
+544
+00:33:57,703 --> 00:33:59,955
+That's how you
+force their hand?
+You call IBM?
+
+545
+00:33:59,997 --> 00:34:01,456
+Just let
+everybody cool off.
+
+546
+00:34:01,498 --> 00:34:04,001
+This is exactly what my wife--
+Joe, look at me.
+
+547
+00:34:04,042 --> 00:34:08,714
+I'm not like you, okay?
+I have a wife, kids,
+a mortgage, okay?
+
+548
+00:34:08,755 --> 00:34:12,300
+I was fine until you threw
+that stupid article in my face
+and gave me some--
+
+549
+00:34:12,342 --> 00:34:13,969
+What? What did
+I give you, Gordon?
+
+550
+00:34:14,011 --> 00:34:17,389
+- Oh, go to hell, Joe.
+- Good! Get angry, get angry!
+
+551
+00:34:17,430 --> 00:34:19,683
+Feel something,
+like you did in
+that garage,
+
+552
+00:34:19,725 --> 00:34:22,811
+because this
+is the only way
+we get what we want.
+
+553
+00:34:22,853 --> 00:34:25,605
+- There is no "we," Joe.
+- There is now.
+
+554
+00:34:25,647 --> 00:34:28,483
+I was at COMDEX
+two years ago.
+
+555
+00:34:28,525 --> 00:34:32,905
+I saw the Symphonic demo.
+It was ahead of its time.
+
+556
+00:34:32,946 --> 00:34:36,324
+That was then,
+this is now--
+and a year from now,
+
+557
+00:34:36,366 --> 00:34:38,911
+you're gonna thank me.
+You're a builder, Gordon.
+
+558
+00:34:38,952 --> 00:34:41,413
+No, I'm not, okay?
+Not anymore.
+
+559
+00:34:41,454 --> 00:34:43,540
+All right?
+Get that through
+your head.
+
+560
+00:34:51,506 --> 00:34:53,299
+Hey.
+
+561
+00:34:55,802 --> 00:34:58,346
+- Yeah.
+- Yes.
+
+562
+00:35:00,599 --> 00:35:02,768
+I figured
+you needed a break.
+
+563
+00:35:02,809 --> 00:35:04,561
+Joanie:
+<i>Daddy, you fixed it!</i>
+
+564
+00:35:04,603 --> 00:35:06,772
+Yeah, well, turn it on.
+
+565
+00:35:06,813 --> 00:35:10,275
+<i>( toy beeps )</i>
+<i>Hello, Joanie.</i>
+
+566
+00:35:10,316 --> 00:35:12,736
+How'd you get it
+to say my name?
+
+567
+00:35:12,778 --> 00:35:16,406
+Well, I programmed it.
+Now spell something for me.
+
+568
+00:35:16,448 --> 00:35:18,324
+( both giggle )
+
+569
+00:35:18,366 --> 00:35:22,746
+Electronic voice:
+<i>D-A-D-D-Y.</i>
+
+570
+00:35:22,788 --> 00:35:24,414
+What's that spell?
+
+571
+00:35:29,962 --> 00:35:32,380
+<i>( dishes clatter )</i>
+
+572
+00:35:32,422 --> 00:35:35,842
+Look, I've been awful.
+
+573
+00:35:35,884 --> 00:35:38,553
+I'm sorry.
+
+574
+00:35:40,472 --> 00:35:42,599
+I know you think
+you need this.
+
+575
+00:35:42,641 --> 00:35:46,269
+And whatever it is,
+I'm pretty sure
+I can't stop you.
+
+576
+00:35:46,311 --> 00:35:50,482
+Yeah, I know.
+I've already stopped, okay?
+
+577
+00:35:50,523 --> 00:35:56,362
+Computers, my job--
+none of that matters.
+
+578
+00:35:56,404 --> 00:35:58,573
+Not without you.
+
+579
+00:36:13,171 --> 00:36:14,965
+Build it.
+
+580
+00:36:16,508 --> 00:36:19,511
+Whatever it is you're
+dreaming of, build it.
+
+581
+00:36:19,552 --> 00:36:23,389
+I know you
+can make it great.
+
+582
+00:36:27,144 --> 00:36:30,063
+But here's the deal.
+
+583
+00:36:30,105 --> 00:36:32,774
+You wanna partner
+with Joe MacMillan...
+
+584
+00:36:35,527 --> 00:36:38,488
+then you partner
+with me and this family.
+
+585
+00:36:38,530 --> 00:36:40,699
+Yeah.
+
+586
+00:36:40,740 --> 00:36:42,408
+Deal.
+
+587
+00:36:49,958 --> 00:36:51,960
+Why can't we fire
+these peckerheads?
+
+588
+00:36:52,002 --> 00:36:53,503
+Because then you'll
+lose this lawsuit.
+
+589
+00:36:53,545 --> 00:36:55,088
+Fire them,
+shelve their work,
+
+590
+00:36:55,130 --> 00:36:56,589
+you're essentially
+admitting guilt.
+
+591
+00:36:56,631 --> 00:36:58,842
+Okay, so what's
+the solution, Barry?
+
+592
+00:36:58,884 --> 00:37:00,385
+We legitimize
+the project.
+
+593
+00:37:00,426 --> 00:37:02,387
+- What?
+- Go the other way.
+
+594
+00:37:02,428 --> 00:37:04,347
+We say Cardiff Electric
+as a company
+
+595
+00:37:04,389 --> 00:37:06,224
+has been pursuing
+PC development all along.
+
+596
+00:37:06,265 --> 00:37:07,851
+I don't see how the hell
+that'd solve any--
+
+597
+00:37:07,893 --> 00:37:09,686
+You take Clark's findings
+on the BIOS chip,
+
+598
+00:37:09,728 --> 00:37:11,855
+you tell an engineer
+to build a unit that operates
+and performs
+
+599
+00:37:11,897 --> 00:37:14,691
+in exactly the same way,
+but you don't tell him
+how to do it.
+
+600
+00:37:14,733 --> 00:37:16,359
+Hell, I don't think
+we have one engineer
+
+601
+00:37:16,401 --> 00:37:18,028
+capable of building
+a BIOS from scratch
+
+602
+00:37:18,070 --> 00:37:20,030
+other than "Sonny Bono"
+over here.
+
+603
+00:37:20,072 --> 00:37:22,866
+And you can't use him
+or any other engineer
+we currently employ.
+
+604
+00:37:22,908 --> 00:37:26,619
+- So we have to hire?
+- Yes, someone who doesn't
+know us or IBM
+
+605
+00:37:26,661 --> 00:37:29,039
+and certainly hasn't seen
+the contents of this binder.
+
+606
+00:37:29,081 --> 00:37:31,166
+Essentially,
+all the law stipulates
+
+607
+00:37:31,208 --> 00:37:33,752
+is that he can't be hands-on
+in the actual chip creation.
+
+608
+00:37:33,793 --> 00:37:35,712
+- And we can't fire them.
+- Barry:<i> No, not right now.</i>
+
+609
+00:37:35,754 --> 00:37:39,591
+So we get out of this
+by actually building
+a PC clone?
+
+610
+00:37:39,632 --> 00:37:42,719
+This is your brilliant idea
+to save our hides, Barry?
+
+611
+00:37:42,761 --> 00:37:44,721
+For God's sake, man!
+
+612
+00:37:44,763 --> 00:37:47,140
+No.
+
+613
+00:37:47,182 --> 00:37:50,560
+Actually,
+it was MacMillan's.
+
+614
+00:37:57,234 --> 00:37:59,819
+You son of a bitch.
+
+615
+00:37:59,861 --> 00:38:01,988
+Now, why didn't you tell me
+about this yesterday?
+
+616
+00:38:02,030 --> 00:38:04,074
+I needed you
+to exhaust your options
+
+617
+00:38:04,116 --> 00:38:06,076
+so that you would
+take this one seriously.
+
+618
+00:38:06,118 --> 00:38:08,912
+Do you know
+how many futures you're
+toying with here, son?
+
+619
+00:38:08,954 --> 00:38:12,707
+Selling systems software,
+I probably would've made you
+a couple hundred thousand--
+
+620
+00:38:12,749 --> 00:38:15,710
+( screams )
+You listen to me, boy!
+You listen to me!
+
+621
+00:38:17,837 --> 00:38:20,840
+I admire
+your tenacity,
+
+622
+00:38:20,882 --> 00:38:25,720
+but I draw the line
+at you claiming that
+you did me a favor.
+
+623
+00:38:29,015 --> 00:38:31,935
+Don't screw this up.
+
+624
+00:38:31,977 --> 00:38:35,772
+'Cause in Texas, you put
+a man's livelihood on the line
+and you don't follow through,
+
+625
+00:38:35,814 --> 00:38:37,941
+there's not gonna be
+another new job
+
+626
+00:38:37,983 --> 00:38:40,152
+'cause ain't nobody
+gonna be able to find
+where you're buried.
+
+627
+00:38:41,611 --> 00:38:43,863
+You've got something
+to say, Gordon?
+
+628
+00:38:44,990 --> 00:38:47,033
+No. No, sir.
+
+629
+00:38:47,075 --> 00:38:49,035
+Bosworth:
+<i>Where are we gonna find</i>
+<i>this new engineer?</i>
+
+630
+00:38:49,077 --> 00:38:51,871
+We needed him yesterday.
+IBM legal's here first
+thing tomorrow.
+
+631
+00:38:51,913 --> 00:38:53,832
+- I need time
+to vet a candidate.
+- Barry:<i> We don't have time.</i>
+
+632
+00:38:53,873 --> 00:38:55,959
+You think IBM
+is just sitting around
+on their asses?
+
+633
+00:38:56,001 --> 00:38:58,336
+Who do we have
+right now, huh?
+
+634
+00:38:58,377 --> 00:39:00,839
+<i>Who do we have right now?</i>
+<i>( slams desk )</i>
+
+635
+00:39:06,094 --> 00:39:08,180
+<i>"Wanna Be Manor" plays</i>
+
+636
+00:39:08,221 --> 00:39:10,015
+<i>♪ I ended up</i>
+<i>at the Wannabe Manor ♪</i>
+
+637
+00:39:10,056 --> 00:39:11,933
+<i>♪ Wannabe Manor,</i>
+<i>what a place to be ♪</i>
+
+638
+00:39:11,975 --> 00:39:15,103
+<i>♪ Wannabe Manor,</i>
+<i>is not for me... ♪</i>
+
+639
+00:39:15,145 --> 00:39:16,354
+( bangs )
+
+640
+00:39:18,064 --> 00:39:19,941
+<i>♪ I walked in the door,</i>
+<i>pee on the floor ♪</i>
+
+641
+00:39:19,983 --> 00:39:21,693
+<i>♪ Looked on the floor,</i>
+<i>spotted a whore ♪</i>
+
+642
+00:39:21,734 --> 00:39:23,569
+<i>♪ Drugs and filth</i>
+<i>are all around ♪</i>
+
+643
+00:39:23,611 --> 00:39:25,905
+<i>♪ No clean dishes</i>
+<i>can be found ♪</i>
+
+644
+00:39:25,947 --> 00:39:27,824
+<i>♪ If you thought</i>
+<i>your nightmares were scary ♪</i>
+
+645
+00:39:27,866 --> 00:39:29,868
+<i>♪ Wait till you meet</i>
+<i>the ho called Jeri... ♪</i>
+
+646
+00:39:29,909 --> 00:39:32,620
+Next game.
+
+647
+00:39:32,662 --> 00:39:35,207
+-<i> ♪ It's her spreading legs</i>
+<i>and her female perfume... ♪ </i>
+- ( game buzzes )
+
+648
+00:39:35,248 --> 00:39:37,834
+-<i> ( quarter clatters ) </i>
+- What the hell? You've
+been on for over an hour.
+
+649
+00:39:37,876 --> 00:39:39,836
+Hey.
+
+650
+00:39:39,878 --> 00:39:41,587
+Hey.
+
+651
+00:39:41,629 --> 00:39:43,173
+Get your hands
+off me, man.
+
+652
+00:39:43,215 --> 00:39:45,175
+We're getting complaints.
+
+653
+00:39:46,885 --> 00:39:49,179
+Unbelievable.
+You're gone.
+
+654
+00:39:49,221 --> 00:39:51,306
+Go!
+
+655
+00:39:51,348 --> 00:39:52,807
+Later, spooky bitch.
+
+656
+00:39:55,060 --> 00:39:58,271
+- Arcade employee:<i> Hey! </i>
+- What?
+
+657
+00:39:58,313 --> 00:40:01,774
+- That's enough!
+- Put me down!
+
+658
+00:40:01,816 --> 00:40:03,776
+- Come on!
+- Let go of me!
+
+659
+00:40:03,818 --> 00:40:04,986
+Go!
+
+660
+00:40:05,028 --> 00:40:06,321
+( yells )
+
+661
+00:40:08,240 --> 00:40:10,367
+- Fascist!
+- ( coins clatter )
+
+662
+00:40:12,994 --> 00:40:14,412
+God.
+
+663
+00:40:16,915 --> 00:40:19,251
+Oh, Jesus.
+
+664
+00:40:21,044 --> 00:40:22,879
+No.
+
+665
+00:40:24,881 --> 00:40:26,091
+What?
+
+666
+00:40:27,884 --> 00:40:29,344
+Great.
+
+667
+00:40:32,931 --> 00:40:35,392
+<i>( patrons chattering )</i>
+
+668
+00:40:38,436 --> 00:40:39,812
+You know
+I screwed him, right?
+
+669
+00:40:39,854 --> 00:40:42,565
+Let's be adult
+about this.
+
+670
+00:40:42,607 --> 00:40:44,234
+You love talking down
+to me, don't you?
+
+671
+00:40:44,276 --> 00:40:46,444
+Look, there are a thousand
+other engineers we can get.
+
+672
+00:40:46,485 --> 00:40:49,322
+Preferably one
+you haven't bedded down with.
+
+673
+00:40:49,364 --> 00:40:54,202
+- Who are you again?
+- I'm the guy who figured out
+the boot code in four days.
+
+674
+00:40:54,244 --> 00:40:57,247
+- What have you done?
+- You heard him-- a thousand
+other engineers.
+
+675
+00:40:57,289 --> 00:40:59,624
+No.
+
+676
+00:40:59,665 --> 00:41:01,918
+You need me, otherwise
+you wouldn't be here.
+
+677
+00:41:01,960 --> 00:41:04,045
+What do you want?
+
+678
+00:41:04,087 --> 00:41:07,424
+I want you to go dangle
+your little opportunity
+in someone else's face.
+
+679
+00:41:07,465 --> 00:41:10,927
+- Then why are you still here?
+- I wanted to see what I was so
+wrong about the first time.
+
+680
+00:41:10,969 --> 00:41:12,429
+I regret that happened.
+
+681
+00:41:12,470 --> 00:41:14,722
+I'm sorry you feel bad
+for hurting my feelings,
+
+682
+00:41:14,764 --> 00:41:16,808
+but don't worry,
+you didn't.
+
+683
+00:41:16,849 --> 00:41:18,935
+It wasn't
+supposed to be personal.
+I was scouting you.
+
+684
+00:41:18,977 --> 00:41:21,646
+Scouting you
+for this exact moment.
+
+685
+00:41:21,687 --> 00:41:22,855
+- Humph.
+- No, wait.
+
+686
+00:41:24,774 --> 00:41:28,111
+This is too important
+to get wrong.
+
+687
+00:41:28,153 --> 00:41:29,946
+"No one who matters
+pays attention," right?
+
+688
+00:41:29,988 --> 00:41:31,281
+Okay, stop selling me.
+
+689
+00:41:31,323 --> 00:41:33,116
+I don't need you.
+
+690
+00:41:33,158 --> 00:41:34,909
+You think
+I don't see it?
+
+691
+00:41:34,951 --> 00:41:36,453
+This takes off,
+I write my own ticket,
+
+692
+00:41:36,494 --> 00:41:39,831
+but if it goes wrong,
+I'm a college dropout
+
+693
+00:41:39,872 --> 00:41:42,208
+repairing VCRs
+for $3.25 an hour,
+
+694
+00:41:42,250 --> 00:41:44,336
+so forgive me
+for weighing my options.
+
+695
+00:41:44,377 --> 00:41:46,296
+See?
+
+696
+00:41:46,338 --> 00:41:48,006
+Now you're thinking
+like a professional.
+
+697
+00:41:51,468 --> 00:41:53,970
+How much money
+would you give me?
+
+698
+00:41:54,012 --> 00:41:57,807
+Junior engineer,
+no experience-- 20 grand.
+
+699
+00:41:59,309 --> 00:42:01,102
+Double it.
+
+700
+00:42:01,144 --> 00:42:03,104
+My wife makes 15 at TI.
+
+701
+00:42:03,146 --> 00:42:04,730
+Well, then I feel
+sorry for her.
+
+702
+00:42:08,401 --> 00:42:09,735
+So?
+
+703
+00:42:11,363 --> 00:42:12,822
+What's it
+gonna be, Joe?
+
+704
+00:42:15,325 --> 00:42:17,452
+<i>"The Magnificent Seven"</i>
+<i>playing</i>
+
+705
+00:42:29,506 --> 00:42:31,674
+<i>♪ You lot! What? ♪</i>
+
+706
+00:42:31,716 --> 00:42:33,801
+<i>♪ Don't stop,</i>
+<i>give it all you got ♪</i>
+
+707
+00:42:33,843 --> 00:42:35,345
+<i>♪ You lot! What? ♪</i>
+
+708
+00:42:35,387 --> 00:42:37,930
+<i>♪ Don't stop, yeah! ♪</i>
+
+709
+00:42:37,972 --> 00:42:39,849
+<i>♪ You lot! What? ♪</i>
+
+710
+00:42:39,891 --> 00:42:41,934
+<i>♪ Don't stop, yeah! ♪</i>
+
+711
+00:42:41,976 --> 00:42:43,978
+<i>♪ Working for a rise,</i>
+<i>better my station ♪</i>
+
+712
+00:42:44,020 --> 00:42:45,938
+<i>♪ Take my baby</i>
+<i>to sophistication ♪</i>
+
+713
+00:42:45,980 --> 00:42:47,857
+<i>♪ She's seen the ads,</i>
+<i>she thinks it's nice ♪</i>
+
+714
+00:42:47,899 --> 00:42:49,859
+<i>♪ Better work hard,</i>
+<i>I seen the price ♪</i>
+
+715
+00:42:49,901 --> 00:42:51,986
+<i>♪ Never mind that,</i>
+<i>it's time for the bus ♪</i>
+
+716
+00:42:52,028 --> 00:42:54,489
+<i>♪ We got to work</i>
+<i>and you're one of us ♪</i>
+
+717
+00:42:54,531 --> 00:42:56,533
+<i>♪ Clocks go slow</i>
+<i>in a place of work ♪</i>
+
+718
+00:42:56,574 --> 00:42:59,160
+<i>♪ Minutes drag</i>
+<i>and the hours jerk... ♪</i>
+
+719
+00:42:59,202 --> 00:43:00,995
+Answer honestly.
+
+720
+00:43:01,037 --> 00:43:02,539
+<i>This is</i>
+<i>for legal record.</i>
+
+721
+00:43:02,580 --> 00:43:05,875
+False answers put you
+at risk of perjury,
+you understand?
+
+722
+00:43:07,919 --> 00:43:09,962
+I'm sorry,
+you have to answer
+"yes" or "I do."
+
+723
+00:43:10,004 --> 00:43:12,173
+Cameron:
+<i>Oh, yes, I do.</i>
+
+724
+00:43:16,177 --> 00:43:19,138
+Barry:
+<i>Have you ever attempted</i>
+<i>to disassemble or deconstruct</i>
+
+725
+00:43:19,180 --> 00:43:22,392
+any product manufactured
+by International Business
+Machines,
+
+726
+00:43:22,434 --> 00:43:24,352
+more commonly known
+as IBM?
+
+727
+00:43:28,106 --> 00:43:30,567
+Uh, no, I have not.
+
+728
+00:43:30,608 --> 00:43:33,111
+Barry:
+<i>Have you ever attempted</i>
+<i>to reverse engineer</i>
+
+729
+00:43:33,152 --> 00:43:35,905
+any product or equipment
+made by IBM?
+
+730
+00:43:37,240 --> 00:43:38,991
+No, I have not.
+
+731
+00:43:39,033 --> 00:43:40,993
+Barry:
+<i>Have you ever attempted</i>
+<i>to reverse engineer</i>
+
+732
+00:43:41,035 --> 00:43:44,205
+<i>any microchips, microcode,</i>
+<i>or any computer hardware</i>
+
+733
+00:43:44,247 --> 00:43:47,417
+<i>while under the employ</i>
+<i>of a business or corporation?</i>
+
+734
+00:43:47,459 --> 00:43:49,377
+No, I have not.
+
+735
+00:43:52,004 --> 00:43:53,923
+Bosworth:
+<i>Well, welcome...</i>
+
+736
+00:43:53,965 --> 00:43:59,929
+to the tiniest,
+leakiest lifeboat...
+
+737
+00:43:59,971 --> 00:44:02,181
+you ever tried
+to paddle to shore in.
+
+738
+00:44:04,183 --> 00:44:06,978
+I had some numbers run,
+looks like this PC business
+
+739
+00:44:07,019 --> 00:44:10,773
+is gonna cost us upwards
+of a couple million dollars
+just to get in the door.
+
+740
+00:44:10,815 --> 00:44:12,775
+So, in order to reach
+that perfect world
+
+741
+00:44:12,817 --> 00:44:14,319
+where we actually
+start selling things
+
+742
+00:44:14,360 --> 00:44:15,694
+rather than running
+from the bogeyman,
+
+743
+00:44:15,736 --> 00:44:19,949
+there will be some rules.
+One, no bullshit.
+
+744
+00:44:19,991 --> 00:44:22,494
+- Sorry, what constitutes bull--
+- Whatever I damn say it is.
+
+745
+00:44:22,535 --> 00:44:27,415
+Two, hours are now
+from when this meeting is done
+until when you die.
+
+746
+00:44:27,457 --> 00:44:32,211
+And three, I know I can't
+fire any of you yet,
+
+747
+00:44:32,253 --> 00:44:34,130
+but that also means
+you can't leave,
+
+748
+00:44:34,172 --> 00:44:35,632
+so if I need to stomp
+on one of y'all's heads
+
+749
+00:44:35,673 --> 00:44:37,509
+to feel better
+about my morning shave,
+
+750
+00:44:37,550 --> 00:44:42,013
+whoa, you're gonna
+have to find a way
+to deal with that.
+
+751
+00:44:42,054 --> 00:44:44,474
+Do you understand?
+
+752
+00:44:47,685 --> 00:44:50,021
+So, who's my boss
+or whatever?
+
+753
+00:44:50,062 --> 00:44:51,272
+Both:
+Me.
+
+754
+00:44:51,314 --> 00:44:52,940
+<i>( door opens )</i>
+
+755
+00:44:52,982 --> 00:44:54,691
+IBM is here.
+
+756
+00:44:56,444 --> 00:44:58,321
+Listen, keep
+your stories straight.
+
+757
+00:44:58,363 --> 00:45:01,115
+You're gonna be
+reciting them all day.
+
+758
+00:45:01,157 --> 00:45:02,783
+Joe, one more thing.
+
+759
+00:45:06,703 --> 00:45:09,290
+According to IBM,
+you've been on the side
+of a milk carton
+
+760
+00:45:09,332 --> 00:45:11,376
+for about a year.
+
+761
+00:45:11,417 --> 00:45:15,171
+Yeah, I hired you.
+I didn't check
+your references,
+
+762
+00:45:15,213 --> 00:45:19,676
+so whatever this is, son,
+I'm on the hook for it.
+
+763
+00:45:19,716 --> 00:45:22,261
+You understand?
+
+764
+00:45:22,303 --> 00:45:23,762
+Yeah.
+
+765
+00:45:27,642 --> 00:45:31,354
+I've worked here
+for 22 years.
+
+766
+00:45:31,396 --> 00:45:34,607
+I helped build this company
+into what it is.
+
+767
+00:45:36,317 --> 00:45:40,196
+And you backed me into
+a corner in my own home?
+
+768
+00:45:40,238 --> 00:45:46,118
+I'm never-- I'm never
+gonna forget that.
+
+769
+00:45:47,412 --> 00:45:49,455
+Never.
+
+770
+00:45:51,123 --> 00:45:53,585
+I'm gonna root through
+your closets, boy.
+
+771
+00:45:53,626 --> 00:45:57,296
+Oh, I'm gonna pull
+every loose thread.
+
+772
+00:46:20,445 --> 00:46:21,613
+- How are you? Dale.
+- Good to see ya.
+
+773
+00:46:21,654 --> 00:46:23,406
+Good to see you.
+
+774
+00:46:23,448 --> 00:46:26,075
+John Bosworth, Miss Taylor.
+We spoke on the phone.
+
+775
+00:46:26,117 --> 00:46:27,368
+This way.
+
+776
+00:46:35,293 --> 00:46:37,754
+Holy shit.
+
+777
+00:46:41,340 --> 00:46:44,135
+What are you trying
+to prove with all this?
+
+778
+00:47:13,665 --> 00:47:16,167
+<i>( theme music playing )</i>

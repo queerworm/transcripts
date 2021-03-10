@@ -1,0 +1,4864 @@
+1
+00:00:06,173 --> 00:00:07,758
+♪ Uh, uh, uh, uh ♪
+
+2
+00:00:07,800 --> 00:00:09,718
+Joe:
+It still feels random.
+
+3
+00:00:09,760 --> 00:00:11,679
+I searched
+"Dallas plus Cowboys,"
+
+4
+00:00:11,720 --> 00:00:14,348
+I'm sure the first hit
+is a crappy NFL fan site,
+
+5
+00:00:14,389 --> 00:00:16,391
+but the second site
+that comes up?
+
+6
+00:00:16,433 --> 00:00:18,268
+Yeah, well,
+maybe Rover knows
+
+7
+00:00:18,310 --> 00:00:19,645
+you don't give a shit
+about football?
+
+8
+00:00:19,687 --> 00:00:20,688
+Yeah, I forgot you were
+
+9
+00:00:20,729 --> 00:00:22,021
+an all-American running back
+at Cal.
+
+10
+00:00:22,063 --> 00:00:24,232
+Hey,
+I went to a game once.
+
+11
+00:00:24,274 --> 00:00:27,611
+I'm just saying,
+Rover has a relevance problem.
+
+12
+00:00:27,653 --> 00:00:31,281
+Hey, is Scientology
+a religion or a cult?
+Cult.
+
+13
+00:00:31,323 --> 00:00:33,784
+They obtained
+non-profit status in October.
+
+14
+00:00:33,826 --> 00:00:35,202
+♪ With the bad-ass style ♪
+
+15
+00:00:35,243 --> 00:00:36,495
+♪ Straightforward... ♪
+
+16
+00:00:36,537 --> 00:00:37,997
+Never mind,
+I'll figure out where it goes.
+
+17
+00:00:38,038 --> 00:00:40,290
+These results
+are mediocre at best.
+
+18
+00:00:40,332 --> 00:00:44,461
+Final grade for Rover's
+"genius" search engine -- C-.
+
+19
+00:00:44,503 --> 00:00:46,630
+[Scoffs] D-.
+[Motorcycle engine revs]
+
+20
+00:00:46,672 --> 00:00:48,256
+Is that really necessary?
+
+21
+00:00:48,298 --> 00:00:49,884
+That doesn't sound right.
+
+22
+00:00:49,925 --> 00:00:52,302
+Sounds like
+the, uh, gas line is --
+I got it!
+
+23
+00:00:52,344 --> 00:00:53,929
+Okay.
+
+24
+00:00:53,971 --> 00:00:56,891
+Not like I literally grew up
+in an auto shop or anything.
+
+25
+00:00:56,932 --> 00:00:59,560
+It's just
+until the rain stops.
+
+26
+00:00:59,601 --> 00:01:01,269
+Gordon: Well,
+I can't hear myself think.
+
+27
+00:01:01,311 --> 00:01:03,230
+Listen, if they fix
+the relevance problem,
+
+28
+00:01:03,271 --> 00:01:04,857
+we could have a competition
+on our hands.
+
+29
+00:01:04,899 --> 00:01:07,609
+Gordon: You know,
+hit search for, um...
+
+30
+00:01:07,651 --> 00:01:08,861
+Cameron: Is that Rover?
+
+31
+00:01:08,903 --> 00:01:10,738
+We give it a C-.
+
+32
+00:01:10,779 --> 00:01:12,072
+That bad?
+
+33
+00:01:12,113 --> 00:01:13,699
+You really
+haven't seen it?
+
+34
+00:01:13,741 --> 00:01:15,158
+No, I really haven't.
+
+35
+00:01:16,577 --> 00:01:18,037
+Wait, uh...
+
+36
+00:01:18,078 --> 00:01:21,331
+[Keyboard clacking]
+
+37
+00:01:21,373 --> 00:01:25,084
+Oh, yeah.
+I see what you mean.
+
+38
+00:01:25,126 --> 00:01:26,628
+Even with
+the basic rules engine,
+
+39
+00:01:26,670 --> 00:01:29,297
+the results are garbage,
+the crawler's too static.
+
+40
+00:01:29,339 --> 00:01:31,508
+Mm.
+Still, the way
+they grabbed the titles
+
+41
+00:01:31,550 --> 00:01:33,134
+is actually kind of clever.
+
+42
+00:01:33,176 --> 00:01:35,262
+Okay, thanks for this --
+Hey, I'm just gonna
+check the HTML,
+
+43
+00:01:35,303 --> 00:01:36,931
+it takes one second.
+
+44
+00:01:36,972 --> 00:01:40,017
+<i>♪♪</i>
+
+45
+00:01:40,059 --> 00:01:41,685
+Oh, yeah.
+
+46
+00:01:41,727 --> 00:01:43,186
+The algorithm's
+too stupid to know
+
+47
+00:01:43,228 --> 00:01:45,522
+that there are
+equivalent synonyms
+for a search phrase,
+
+48
+00:01:45,564 --> 00:01:47,066
+or different spellings.
+
+49
+00:01:47,106 --> 00:01:49,234
+Like "color, c-o-l-o-r,"
+
+50
+00:01:49,276 --> 00:01:51,319
+the English spelling,
+with a "u."
+
+51
+00:01:53,572 --> 00:01:55,532
+Still, I'd give it a B-.
+
+52
+00:01:55,574 --> 00:01:58,452
+Gordon: [Groans] Pbht!
+No, a solid B
+for concept,
+
+53
+00:01:58,493 --> 00:02:00,370
+but demerits
+for poor execution.
+
+54
+00:02:00,412 --> 00:02:01,580
+Hmm.
+You asked.
+
+55
+00:02:01,622 --> 00:02:03,331
+Actually, we didn't.
+No, we didn't.
+
+56
+00:02:03,373 --> 00:02:04,666
+Neither one of us asked.
+
+57
+00:02:04,708 --> 00:02:06,126
+This wouldn't be hard to beat,
+you know?
+
+58
+00:02:06,167 --> 00:02:07,044
+You just
+have to come up with
+
+59
+00:02:07,086 --> 00:02:08,336
+a more sophisticated
+algorithm.
+
+60
+00:02:08,378 --> 00:02:09,922
+That's not really
+our approach.
+
+61
+00:02:09,964 --> 00:02:11,882
+People need
+a curated list,
+
+62
+00:02:11,924 --> 00:02:14,885
+a guide through
+the disorganized
+maze of the web --
+
+63
+00:02:14,927 --> 00:02:16,344
+not a bunch of
+impersonal math.
+
+64
+00:02:16,386 --> 00:02:18,388
+First of all,
+math is very personal to me.
+
+65
+00:02:18,430 --> 00:02:20,515
+Of course.
+I just mean that --
+And second,
+
+66
+00:02:20,557 --> 00:02:23,518
+curation is fine
+if you guys have 500 websites,
+
+67
+00:02:23,560 --> 00:02:25,062
+or 5000.
+
+68
+00:02:25,104 --> 00:02:26,897
+But what are you guys gonna do
+when you have 5 million?
+
+69
+00:02:28,231 --> 00:02:29,608
+How are you gonna guide people
+through that?
+
+70
+00:02:29,650 --> 00:02:30,859
+<i>♪♪</i>
+
+71
+00:02:30,901 --> 00:02:33,320
+We tell you
+which site is best.
+
+72
+00:02:33,361 --> 00:02:36,281
+The whole company is built
+around a human approach.
+
+73
+00:02:36,323 --> 00:02:38,408
+Uh, porn alert.
+Yep. Yep. Coming.
+
+74
+00:02:38,450 --> 00:02:40,243
+Following
+company protocol
+
+75
+00:02:40,285 --> 00:02:42,496
+and stepping away
+from the machine.
+Coming. Coming.
+
+76
+00:02:42,537 --> 00:02:44,372
+[Sighs]
+
+77
+00:02:44,414 --> 00:02:47,042
+You're mad.
+I'm not.
+
+78
+00:02:47,084 --> 00:02:49,128
+I'm not.
+I didn't think you wanted
+to work on this,
+
+79
+00:02:49,168 --> 00:02:50,378
+but if you do, then --
+
+80
+00:02:50,420 --> 00:02:52,631
+I don't.
+Okay.
+
+81
+00:02:52,673 --> 00:02:54,591
+I'm j--
+I'm just saying that
+
+82
+00:02:54,633 --> 00:02:57,176
+math can't tell
+a qualitative difference
+
+83
+00:02:57,218 --> 00:02:58,553
+between good and bad.
+
+84
+00:02:58,595 --> 00:03:01,098
+A computer can't tell me
+what I want.
+
+85
+00:03:01,890 --> 00:03:03,266
+Not yet.
+
+86
+00:03:04,225 --> 00:03:05,519
+Okay.
+
+87
+00:03:07,354 --> 00:03:09,230
+Tanya:
+We have functionality issues.
+
+88
+00:03:09,272 --> 00:03:12,233
+Users aren't getting
+something useful as
+their first return,
+
+89
+00:03:12,275 --> 00:03:13,819
+so they're
+leaving the site.
+
+90
+00:03:13,861 --> 00:03:15,737
+Frankly,
+we launched too early --
+
+91
+00:03:15,779 --> 00:03:17,447
+We had a major competitor
+in Comet --
+
+92
+00:03:17,489 --> 00:03:19,741
+Okay, let's try not
+to make this all about Comet.
+
+93
+00:03:19,783 --> 00:03:21,952
+There's
+the larger landscape of --
+Exactly.
+
+94
+00:03:21,994 --> 00:03:24,454
+We needed to get out there
+to have a presence.
+
+95
+00:03:24,496 --> 00:03:25,580
+Comet isn't competitive --
+
+96
+00:03:25,622 --> 00:03:27,541
+What did I just say?
+Sorry.
+
+97
+00:03:27,582 --> 00:03:29,668
+It seems like
+we were impatient.
+
+98
+00:03:29,710 --> 00:03:32,046
+No. No.
+No, it's good that we're live.
+
+99
+00:03:32,087 --> 00:03:33,047
+It is.
+
+100
+00:03:33,088 --> 00:03:34,506
+The growth will be there.
+
+101
+00:03:34,548 --> 00:03:36,967
+The Rover algorithm's
+gonna get better with usage.
+
+102
+00:03:37,009 --> 00:03:39,427
+We needed users to track,
+
+103
+00:03:39,469 --> 00:03:41,638
+the data is gonna help us
+refine this algorithm.
+
+104
+00:03:41,680 --> 00:03:43,264
+We've got to stay
+competitive --
+
+105
+00:03:43,306 --> 00:03:45,350
+I'm telling you,
+we have a leg up on Comet --
+
+106
+00:03:45,392 --> 00:03:46,434
+Excuse me.
+Index sites.
+
+107
+00:03:46,476 --> 00:03:47,644
+Thank you.
+
+108
+00:03:47,686 --> 00:03:49,312
+If we could just have faith
+in our system --
+
+109
+00:03:49,354 --> 00:03:50,480
+Hey, I do have faith.
+
+110
+00:03:50,522 --> 00:03:52,149
+That's why I launched
+the damn thing.
+
+111
+00:03:52,191 --> 00:03:53,441
+The site is live,
+
+112
+00:03:53,483 --> 00:03:56,361
+so the question of timing
+is a moot point.
+
+113
+00:03:56,403 --> 00:03:58,613
+Please don't come in here
+and argue at me.
+
+114
+00:03:58,655 --> 00:04:01,533
+I've got a lot of other things
+on my plate.
+All right.
+
+115
+00:04:01,575 --> 00:04:03,202
+How can you
+lead this effectively
+
+116
+00:04:03,243 --> 00:04:05,162
+if you're not
+speaking the same language?
+
+117
+00:04:05,204 --> 00:04:06,788
+Pull it together.
+
+118
+00:04:06,830 --> 00:04:08,498
+Thank you.
+Copy that.
+
+119
+00:04:15,255 --> 00:04:17,132
+Gordon: Search is a land grab,
+right now.
+
+120
+00:04:17,174 --> 00:04:18,717
+And once
+we grab all the land,
+
+121
+00:04:18,759 --> 00:04:21,011
+then we can think about
+incorporating more code.
+
+122
+00:04:21,053 --> 00:04:22,345
+Joe: Cam's got a point.
+
+123
+00:04:22,387 --> 00:04:23,972
+The current model
+isn't scalable.
+
+124
+00:04:24,014 --> 00:04:26,141
+The three of us can't keep up
+with the expansion.
+
+125
+00:04:26,183 --> 00:04:29,477
+But we shouldn't add
+more code.
+
+126
+00:04:29,519 --> 00:04:32,022
+We should add
+more people.
+How many?
+
+127
+00:04:32,064 --> 00:04:34,108
+I mean, we can't pay everybody
+in Necco Wafers.
+
+128
+00:04:34,149 --> 00:04:36,110
+You know, hiring an engineer
+is one thing...
+
+129
+00:04:36,151 --> 00:04:37,611
+What's our
+strongest section?
+
+130
+00:04:37,652 --> 00:04:39,905
+Probably comedy.
+Exactly.
+
+131
+00:04:39,947 --> 00:04:41,531
+Haley loves comedy,
+
+132
+00:04:41,573 --> 00:04:43,784
+so it's out most thorough,
+well-organized section.
+
+133
+00:04:43,825 --> 00:04:45,410
+Well, then,
+we need experts.
+
+134
+00:04:45,452 --> 00:04:46,745
+You know, someone --
+
+135
+00:04:46,787 --> 00:04:47,996
+someone who's obsessed with
+like...
+
+136
+00:04:48,038 --> 00:04:49,206
+Sports.
+...sports.
+
+137
+00:04:49,248 --> 00:04:50,958
+Exactly.
+
+138
+00:04:50,999 --> 00:04:52,667
+We need more Haleys.
+
+139
+00:04:52,709 --> 00:04:59,716
+♪♪
+
+140
+00:05:02,719 --> 00:05:09,726
+♪♪
+
+141
+00:05:11,228 --> 00:05:13,563
+[Engine sputters]
+
+142
+00:05:13,605 --> 00:05:19,820
+♪♪
+
+143
+00:05:19,861 --> 00:05:23,157
+[Exhales sharply]
+
+144
+00:05:23,198 --> 00:05:30,205
+♪♪
+
+145
+00:05:33,208 --> 00:05:36,544
+[Exhales sharply, coughs]
+
+146
+00:05:40,966 --> 00:05:42,801
+[Sizzles]
+Ow!
+
+147
+00:05:42,843 --> 00:05:44,678
+[Whimpers]
+
+148
+00:05:46,096 --> 00:05:47,597
+Damn it!
+
+149
+00:05:47,639 --> 00:05:52,102
+[Breathing shallowly]
+
+150
+00:05:52,144 --> 00:05:59,151
+♪♪
+
+151
+00:06:21,756 --> 00:06:28,763
+♪♪
+
+152
+00:06:52,954 --> 00:06:55,249
+Yeah,
+the -- the best thing
+
+153
+00:06:55,290 --> 00:06:57,042
+a-about
+a PhD in Library Science
+
+154
+00:06:57,084 --> 00:06:59,502
+is I get to call myself
+a "bibliothecographer."
+
+155
+00:06:59,544 --> 00:07:01,420
+So you were
+a photography archivist
+
+156
+00:07:01,462 --> 00:07:02,756
+at Chicago Art Institute.
+
+157
+00:07:02,797 --> 00:07:03,882
+Th-That sounds cool.
+
+158
+00:07:03,924 --> 00:07:05,800
+Eh, hypothermic,
+actually,
+
+159
+00:07:05,842 --> 00:07:08,345
+I survived
+exactly one winter.
+
+160
+00:07:08,387 --> 00:07:09,804
+I'm a California girl.
+
+161
+00:07:09,846 --> 00:07:12,432
+But not in the David Lee Roth
+kind of way.
+
+162
+00:07:12,473 --> 00:07:13,641
+Can you, uh --
+
+163
+00:07:13,683 --> 00:07:15,060
+Can you give us an example
+of your methodology?
+
+164
+00:07:15,102 --> 00:07:16,477
+For instance,
+
+165
+00:07:16,519 --> 00:07:18,188
+how do you organize
+your CDs?
+
+166
+00:07:18,230 --> 00:07:21,024
+Well, my, um --
+
+167
+00:07:21,066 --> 00:07:23,110
+my brother
+is really into metal,
+
+168
+00:07:23,151 --> 00:07:25,570
+and I helped him
+manage his collection.
+
+169
+00:07:25,612 --> 00:07:29,157
+I put all of the death metal CDs
+on one shelf,
+
+170
+00:07:29,199 --> 00:07:32,077
+from the simple bands like
+Obituary and Cannibal Corpse
+
+171
+00:07:32,119 --> 00:07:33,578
+on the left,
+
+172
+00:07:33,620 --> 00:07:36,623
+to melodic and technical death
+in the middle,
+
+173
+00:07:36,664 --> 00:07:38,208
+eh, followed by death/black
+
+174
+00:07:38,250 --> 00:07:39,918
+and grind/death
+and death crossovers,
+
+175
+00:07:39,960 --> 00:07:41,461
+and then I put
+the industrial death,
+
+176
+00:07:41,502 --> 00:07:44,047
+folk death, and barely-death,
+uh, at the end.
+
+177
+00:07:44,089 --> 00:07:46,341
+And -- And then, the next shelf
+was for black metal,
+
+178
+00:07:46,383 --> 00:07:48,135
+uh, through the whole
+Norwegian scene,
+
+179
+00:07:48,176 --> 00:07:49,886
+like Mayhem and Burzum,
+
+180
+00:07:49,928 --> 00:07:51,305
+through the un-black
+
+181
+00:07:51,346 --> 00:07:53,932
+and then the
+not-really-black-but-sorta-fits,
+
+182
+00:07:53,974 --> 00:07:55,392
+like Cradle of Filth.
+
+183
+00:07:55,434 --> 00:07:57,518
+And -- Oh, do --
+
+184
+00:07:57,560 --> 00:07:58,853
+Um, do you want me
+to keep going?
+
+185
+00:07:58,895 --> 00:08:00,397
+The-There's Raunchy Power --
+
+186
+00:08:00,439 --> 00:08:02,523
+No, that's perfect.
+Raunchy Power?
+
+187
+00:08:02,565 --> 00:08:04,151
+Most people
+just alphabetize.
+[Chuckles]
+
+188
+00:08:04,192 --> 00:08:05,944
+You sure this was
+your brother's collection?
+
+189
+00:08:05,986 --> 00:08:08,029
+Uh-huh.
+Okay,
+one final thing --
+
+190
+00:08:08,071 --> 00:08:11,574
+How would you list a website
+about "barks"?
+
+191
+00:08:11,616 --> 00:08:14,995
+Depends if you mean
+dog noise, tree layer,
+
+192
+00:08:15,036 --> 00:08:16,830
+root beer --
+that's Barq's with a "q" --
+
+193
+00:08:16,871 --> 00:08:18,248
+or boat.
+
+194
+00:08:18,290 --> 00:08:19,540
+[Laughs]
+Wait. "B-Bark"
+is a boat?
+
+195
+00:08:19,582 --> 00:08:20,792
+Mm-hmm.
+
+196
+00:08:20,834 --> 00:08:22,127
+Uh, technically,
+it's a sailing ship
+
+197
+00:08:22,169 --> 00:08:23,962
+with three or more masts.
+Huh.
+
+198
+00:08:24,004 --> 00:08:26,256
+We don't even know the answer
+to our own trick question.
+
+199
+00:08:26,298 --> 00:08:28,342
+Dr. Katie Herman,
+you are officially hired
+
+200
+00:08:28,383 --> 00:08:30,260
+as Comet's
+Chief Ontologist.
+
+201
+00:08:30,302 --> 00:08:32,553
+Perfect. [Laughs]
+
+202
+00:08:32,595 --> 00:08:34,431
+Let's introduce you
+to the obsessives.
+
+203
+00:08:34,473 --> 00:08:37,184
+Or, as we like
+to call them...
+
+204
+00:08:37,225 --> 00:08:38,977
+the surfers.
+
+205
+00:08:39,019 --> 00:08:41,355
+Every day, we receive
+hundreds of e-mails from people
+
+206
+00:08:41,396 --> 00:08:43,357
+asking us to add their websites
+to our index.
+
+207
+00:08:43,398 --> 00:08:45,066
+Plus, we're constantly
+on the look-out
+
+208
+00:08:45,108 --> 00:08:46,360
+for new sites
+to catalogue.
+
+209
+00:08:46,401 --> 00:08:48,445
+When a surfer finds a site,
+they categorize it
+
+210
+00:08:48,487 --> 00:08:50,071
+and add it
+to Comet's master list.
+
+211
+00:08:50,113 --> 00:08:52,366
+Each group is responsible
+for growing the index
+
+212
+00:08:52,407 --> 00:08:53,783
+and writing descriptions
+
+213
+00:08:53,825 --> 00:08:55,535
+for the top five sites
+in each category.
+
+214
+00:08:55,576 --> 00:08:56,870
+Yeah, but the problem is,
+
+215
+00:08:56,911 --> 00:08:58,830
+is that we started out
+with five main topics.
+
+216
+00:08:58,872 --> 00:09:00,374
+As new sites pop up,
+you know,
+
+217
+00:09:00,415 --> 00:09:02,459
+categorizing them becomes
+more and more...complicated.
+
+218
+00:09:02,501 --> 00:09:04,878
+Yeah, there's
+an ontological term for that.
+Yeah -- "shit-show."
+
+219
+00:09:04,919 --> 00:09:06,087
+[Laughs]
+[Clears throat]
+
+220
+00:09:06,129 --> 00:09:07,088
+All right, let's start
+with Entertainment.
+
+221
+00:09:07,130 --> 00:09:09,174
+This is Reggie
+from Le Video --
+
+222
+00:09:09,216 --> 00:09:10,133
+Katie: [Laughs]
+Hi.
+
+223
+00:09:10,175 --> 00:09:11,468
+He, uh, impressed Joe
+
+224
+00:09:11,510 --> 00:09:13,094
+with his vast knowledge
+of French New Wave
+
+225
+00:09:13,136 --> 00:09:15,805
+as well as
+the canon of John Candy.
+Reggie: Yeah.
+
+226
+00:09:15,847 --> 00:09:18,225
+Oh, did you know
+that he played Cliff Murdoch,
+
+227
+00:09:18,266 --> 00:09:20,935
+the Announcer in "Rookie of the
+Year" -- uncredited?
+Joe:  Really?
+
+228
+00:09:20,977 --> 00:09:22,479
+-Huh.
+-Yeah.
+
+229
+00:09:22,521 --> 00:09:23,604
+That's amazing.
+Really cool, Reggie.
+Take care, all right?
+
+230
+00:09:23,646 --> 00:09:26,358
+See,
+enthusiasm feeds them.
+Yeah.
+
+231
+00:09:26,400 --> 00:09:28,193
+So this is
+Lorraine and Po,
+
+232
+00:09:28,235 --> 00:09:30,404
+from Tower Records
+and City Lights, respectively.
+
+233
+00:09:30,445 --> 00:09:32,072
+-Hey. Yo.
+-Hi.
+
+234
+00:09:32,113 --> 00:09:34,115
+Hey,
+where is your comedy geek?
+
+235
+00:09:34,157 --> 00:09:35,534
+That section rocks.
+Good choice.
+
+236
+00:09:35,575 --> 00:09:37,285
+Gordon: That is actually
+my daughter Haley,
+
+237
+00:09:37,327 --> 00:09:38,328
+who's part of the team.
+
+238
+00:09:38,370 --> 00:09:39,496
+When she's not at school.
+
+239
+00:09:39,538 --> 00:09:40,872
+And regional's over here.
+Okay.
+
+240
+00:09:40,914 --> 00:09:42,249
+You need a restaurant
+recommendation?
+
+241
+00:09:42,290 --> 00:09:44,084
+These are your guys.
+Risa: Ahem.
+
+242
+00:09:44,125 --> 00:09:45,502
+Not just guys.
+
+243
+00:09:45,544 --> 00:09:48,547
+Oh, Risa.
+We met on a bus.
+
+244
+00:09:48,588 --> 00:09:50,215
+She launched into
+a list of restaurant ratings
+
+245
+00:09:50,257 --> 00:09:51,425
+that would put Zagat's
+to shame.
+
+246
+00:09:51,466 --> 00:09:54,511
+FYI, Zagat's
+has a new website,
+
+247
+00:09:54,553 --> 00:09:56,679
+but the Biz team
+scooped us --
+
+248
+00:09:56,721 --> 00:09:58,432
+Zagat's is big business,
+
+249
+00:09:58,473 --> 00:09:59,933
+it's international,
+not regional.
+
+250
+00:09:59,974 --> 00:10:01,642
+Joe: That's Macky
+from Gold's Gym.
+
+251
+00:10:01,684 --> 00:10:03,228
+You wouldn't believe it,
+but this guy's got an MBA.
+
+252
+00:10:03,270 --> 00:10:04,396
+Hmm.
+Marketing honcho.
+
+253
+00:10:04,438 --> 00:10:06,189
+I told Gold's
+to launch a website --
+
+254
+00:10:06,231 --> 00:10:07,399
+And when
+they finally did --
+
+255
+00:10:07,441 --> 00:10:08,525
+we scooped it up
+from regional.
+
+256
+00:10:08,567 --> 00:10:10,068
+Whoo!
+
+257
+00:10:10,110 --> 00:10:11,528
+Guys.
+Well, you could
+cross-reference it.
+
+258
+00:10:11,570 --> 00:10:13,863
+Joe: Yes. Do that.
+So, you see our quandary.
+
+259
+00:10:13,905 --> 00:10:15,532
+Yeah.
+Business, Sports...
+
+260
+00:10:15,574 --> 00:10:17,700
+I'm with ya.
+Gordon:
+This is our head coder. Ted.
+
+261
+00:10:17,742 --> 00:10:19,660
+Oh.
+He manages
+the whole site for us.
+
+262
+00:10:19,702 --> 00:10:21,580
+Ted: [Snores]
+Sorry to interrupt,
+
+263
+00:10:21,621 --> 00:10:23,540
+you have a call from
+Michael Houseman at AOL.
+
+264
+00:10:23,582 --> 00:10:25,041
+Gordon: Oh, perfect.
+Feel free to, uh...
+
+265
+00:10:25,083 --> 00:10:26,293
+I'm just -- Yeah, I got it.
+...work your magic.
+
+266
+00:10:26,334 --> 00:10:27,502
+I got it covered, yeah.
+
+267
+00:10:27,544 --> 00:10:29,796
+[Indistinct conversations]
+
+268
+00:10:29,837 --> 00:10:35,260
+♪♪
+
+269
+00:10:35,302 --> 00:10:37,720
+Joe: Hey, Mike.
+Mike, it's Gordon.
+
+270
+00:10:37,762 --> 00:10:39,680
+If you're calling to bust
+my balls about CalNect,
+
+271
+00:10:39,722 --> 00:10:41,057
+you're a little bit late,
+
+272
+00:10:41,099 --> 00:10:42,725
+they've already been
+busted into oblivion.
+
+273
+00:10:42,767 --> 00:10:44,852
+Mike: [Chuckles]
+I'm sorry to hear that.
+
+274
+00:10:44,894 --> 00:10:46,062
+Hey, I wanted
+to let you know --
+
+275
+00:10:46,104 --> 00:10:48,356
+AOL is in the market
+for a search play.
+
+276
+00:10:48,398 --> 00:10:50,150
+Oh. We're listening.
+
+277
+00:10:50,191 --> 00:10:52,193
+Frankly, we're impressed
+by what you've got going on
+
+278
+00:10:52,235 --> 00:10:53,320
+over there at Comet.
+
+279
+00:10:53,361 --> 00:10:54,529
+Smart, lean.
+
+280
+00:10:54,571 --> 00:10:56,197
+I don't want to be too forward,
+
+281
+00:10:56,239 --> 00:10:59,451
+but are you guys entertaining
+acquisition offers?
+
+282
+00:10:59,493 --> 00:11:01,953
+[Indistinct conversations]
+
+283
+00:11:01,995 --> 00:11:05,540
+♪ Let me take you
+for a ride ♪
+
+284
+00:11:08,835 --> 00:11:10,128
+♪ Let me take you
+for a ride ♪
+
+285
+00:11:10,170 --> 00:11:12,255
+[Chuckles]
+
+286
+00:11:12,297 --> 00:11:13,381
+[Laughs]
+
+287
+00:11:13,423 --> 00:11:15,925
+♪♪
+
+288
+00:11:15,967 --> 00:11:19,678
+♪ Let me take you
+for a ride ♪
+
+289
+00:11:19,720 --> 00:11:22,182
+♪ Elevator ♪
+
+290
+00:11:22,223 --> 00:11:24,309
+Vera: God, they've added
+editorial descriptions.
+
+291
+00:11:24,351 --> 00:11:26,603
+Jeez Louise,
+that was fast...
+
+292
+00:11:26,645 --> 00:11:28,271
+How're they doing
+their algorithm?
+
+293
+00:11:28,313 --> 00:11:30,148
+Cecil: It's not an algorithm,
+it's people.
+
+294
+00:11:30,190 --> 00:11:31,441
+Well,
+why can't we do that?
+
+295
+00:11:31,483 --> 00:11:32,691
+Give me Series A,
+
+296
+00:11:32,733 --> 00:11:34,319
+I'll hire 40 grunts
+to write blurbs.
+
+297
+00:11:34,361 --> 00:11:35,945
+Tanya: We're not ready
+for Series A.
+
+298
+00:11:35,987 --> 00:11:38,657
+Don't jump the gun.
+
+299
+00:11:38,697 --> 00:11:39,949
+You sure you need
+more of that?
+
+300
+00:11:39,991 --> 00:11:41,660
+It's the only thing
+keeping me alive.
+
+301
+00:11:45,830 --> 00:11:48,375
+Isn't it a weird coincidence
+that we launched
+
+302
+00:11:48,416 --> 00:11:50,835
+just as Donna's ex-husband
+unveiled Comet?
+
+303
+00:11:50,877 --> 00:11:52,629
+Search was in the ether.
+
+304
+00:11:52,671 --> 00:11:54,172
+We don't even know
+how much they talk
+to each other.
+
+305
+00:11:54,214 --> 00:11:55,882
+She just seems tweaked
+about the whole thing,
+
+306
+00:11:55,923 --> 00:11:57,758
+like she's got a bug
+up her ass.
+[Door opens]
+
+307
+00:11:57,800 --> 00:12:00,094
+All right.
+
+308
+00:12:00,136 --> 00:12:03,515
+Give me the update.
+I want specifics.
+
+309
+00:12:03,557 --> 00:12:06,184
+Vera's been working on
+natural language queries,
+
+310
+00:12:06,226 --> 00:12:08,353
+trying to make
+the computer understand
+
+311
+00:12:08,395 --> 00:12:09,770
+how humans ask questions.
+
+312
+00:12:09,812 --> 00:12:11,105
+We only have one coder.
+
+313
+00:12:11,147 --> 00:12:12,899
+Cecil's the best --
+but he's overworked.
+
+314
+00:12:12,940 --> 00:12:14,901
+Elliot --
+Dude, it's true.
+It's not your fault.
+
+315
+00:12:14,942 --> 00:12:16,611
+But if we could
+get him some help --
+
+316
+00:12:16,653 --> 00:12:18,655
+He's essentially trying to
+refine the search algorithm
+
+317
+00:12:18,697 --> 00:12:20,156
+and improve the crawler.
+
+318
+00:12:20,198 --> 00:12:22,075
+He can't do both
+simultaneously.
+
+319
+00:12:22,116 --> 00:12:24,661
+Pick which horrible
+problem you want me
+to attack first.
+
+320
+00:12:24,703 --> 00:12:25,870
+Yeah, hey, the truth is,
+
+321
+00:12:25,912 --> 00:12:27,288
+we could use
+a few more bodies.
+
+322
+00:12:27,330 --> 00:12:28,915
+Our man here
+can do the heavy lifting,
+
+323
+00:12:28,956 --> 00:12:30,375
+but he's gonna need
+some support.
+
+324
+00:12:30,417 --> 00:12:32,502
+What we need
+is Series A --
+Elliot --
+
+325
+00:12:32,544 --> 00:12:34,337
+[Laughs]
+You guys are not getting
+
+326
+00:12:34,379 --> 00:12:36,631
+a Series A term sheet
+anytime soon.
+
+327
+00:12:38,550 --> 00:12:41,595
+Oh, this is exactly
+what I was hoping for!
+
+328
+00:12:41,636 --> 00:12:43,638
+My friend Tori Lowman
+had an Airstream,
+
+329
+00:12:43,680 --> 00:12:44,805
+we used to play in it.
+
+330
+00:12:44,847 --> 00:12:46,182
+Yeah?
+
+331
+00:12:46,224 --> 00:12:47,517
+What would you play?
+
+332
+00:12:48,351 --> 00:12:49,810
+Airstream.
+
+333
+00:12:49,852 --> 00:12:52,105
+So you're planning on
+a cross-country trip?
+
+334
+00:12:52,146 --> 00:12:54,148
+No, I just bought
+a-a piece of land,
+
+335
+00:12:54,190 --> 00:12:56,025
+and I need
+something over my head
+
+336
+00:12:56,067 --> 00:12:58,236
+before I build something
+more permanent.
+
+337
+00:12:58,278 --> 00:13:00,447
+Oh!
+Yeah?
+Where's the land?
+
+338
+00:13:00,488 --> 00:13:02,823
+Uh, just west of Bonny Doon.
+Ooh, that's so pretty.
+
+339
+00:13:02,865 --> 00:13:05,410
+I know.
+Yeah.
+
+340
+00:13:05,452 --> 00:13:07,161
+Um, well, my husband,
+Lenny, and I,
+
+341
+00:13:07,203 --> 00:13:09,205
+we bought this old sweetheart
+for our honeymoon.
+
+342
+00:13:09,247 --> 00:13:11,374
+And, uh,
+she's a real jewel.
+
+343
+00:13:11,416 --> 00:13:12,667
+Cameron: Mm-hmm.
+
+344
+00:13:12,709 --> 00:13:14,544
+So, how often
+do you get up there?
+
+345
+00:13:14,586 --> 00:13:16,588
+We've only been once.
+Mm-hmm.
+
+346
+00:13:16,630 --> 00:13:19,966
+But we're hoping
+to make it more often.
+Yeah.
+
+347
+00:13:20,007 --> 00:13:21,676
+Okay.
+
+348
+00:13:21,718 --> 00:13:23,428
+Well, go on.
+
+349
+00:13:23,470 --> 00:13:26,139
+Go on inside.
+It's nice and cozy.
+
+350
+00:13:26,180 --> 00:13:28,182
+And the bed's
+pretty comfortable, too.
+
+351
+00:13:29,016 --> 00:13:31,144
+Oh, my God!
+
+352
+00:13:31,185 --> 00:13:33,354
+[Exhales sharply,
+inhales deeply]
+
+353
+00:13:33,396 --> 00:13:35,231
+This is perfect!
+
+354
+00:13:35,273 --> 00:13:37,484
+It's...uh --
+
+355
+00:13:37,525 --> 00:13:39,152
+It's "cozy."
+
+356
+00:13:42,863 --> 00:13:44,198
+Yeah.
+
+357
+00:13:49,078 --> 00:13:51,706
+So...AOL, huh?
+
+358
+00:13:51,748 --> 00:13:53,750
+Yeah.
+
+359
+00:13:53,792 --> 00:13:57,044
+You really ready to be
+a company man again?
+
+360
+00:13:57,086 --> 00:13:58,713
+If the money --
+money's good enough,
+
+361
+00:13:58,755 --> 00:13:59,838
+I might take the buy-out.
+
+362
+00:13:59,880 --> 00:14:01,508
+Do something else.
+
+363
+00:14:01,549 --> 00:14:03,802
+You might.
+Yeah.
+
+364
+00:14:05,804 --> 00:14:07,221
+Lydia said
+to try it out...
+[Laughs]
+
+365
+00:14:07,263 --> 00:14:10,433
+...so let's try it out.
+[Giggles]
+
+366
+00:14:10,475 --> 00:14:11,892
+Oh.
+
+367
+00:14:15,438 --> 00:14:16,981
+Promise me that,
+
+368
+00:14:17,023 --> 00:14:20,401
+whatever the offer is,
+you'll consider it.
+
+369
+00:14:20,443 --> 00:14:23,321
+I kinda think
+you should take it.
+
+370
+00:14:24,739 --> 00:14:28,493
+Because our business model
+won't scale?
+
+371
+00:14:28,535 --> 00:14:30,911
+What?
+No.
+
+372
+00:14:30,953 --> 00:14:33,080
+Because...
+
+373
+00:14:33,122 --> 00:14:36,167
+then you can spend
+all that free time with me.
+
+374
+00:14:37,585 --> 00:14:40,129
+Besides, I know you're all about
+the human touch.
+
+375
+00:14:42,215 --> 00:14:44,967
+Does this "long, long trailer"
+mean you're moving out?
+
+376
+00:14:45,009 --> 00:14:46,845
+[Laughs]
+
+377
+00:14:46,886 --> 00:14:48,054
+No.
+
+378
+00:14:48,095 --> 00:14:49,556
+This is for us.
+
+379
+00:14:49,597 --> 00:14:52,392
+We'll have all this room
+to just...
+
+380
+00:14:52,433 --> 00:14:54,310
+do whatever we want.
+
+381
+00:14:54,352 --> 00:14:58,272
+♪♪
+
+382
+00:14:58,314 --> 00:15:00,608
+Mmmmm.
+
+383
+00:15:00,650 --> 00:15:06,947
+♪♪
+
+384
+00:15:06,989 --> 00:15:08,867
+I know what I want to do.
+[Laughing] Okay, let's stop.
+
+385
+00:15:08,908 --> 00:15:10,660
+[Laughs]
+
+386
+00:15:10,702 --> 00:15:13,371
+All right, Lydia.
+
+387
+00:15:13,413 --> 00:15:15,665
+And it worked
+for her and Lenny
+
+388
+00:15:15,707 --> 00:15:17,041
+for all these years.
+
+389
+00:15:17,083 --> 00:15:19,669
+♪♪
+
+390
+00:15:19,711 --> 00:15:22,422
+Are you trying to make
+an honest Lenny out of me?
+
+391
+00:15:22,463 --> 00:15:24,883
+♪♪
+
+392
+00:15:24,924 --> 00:15:30,680
+I am trying to buy
+this, here, jewel...
+
+393
+00:15:30,722 --> 00:15:35,184
+and sweep you away
+to a magical land.
+
+394
+00:15:35,226 --> 00:15:37,687
+I'm gonna make an offer.
+
+395
+00:15:37,729 --> 00:15:39,898
+♪♪
+
+396
+00:15:39,980 --> 00:15:41,357
+[Squeals]
+
+397
+00:15:41,399 --> 00:15:43,276
+[Door opens, closes]
+
+398
+00:15:45,945 --> 00:15:52,952
+♪♪
+
+399
+00:16:10,052 --> 00:16:14,557
+♪ Spitting in a wishing well ♪
+
+400
+00:16:14,599 --> 00:16:15,809
+♪ Blown to hell ♪
+
+401
+00:16:15,850 --> 00:16:17,101
+♪ Crash ♪
+
+402
+00:16:17,143 --> 00:16:18,018
+♪ On the last splash ♪
+
+403
+00:16:18,060 --> 00:16:22,064
+♪♪
+
+404
+00:16:22,106 --> 00:16:23,023
+♪ Want you ♪
+
+405
+00:16:23,065 --> 00:16:24,233
+♪ Koo koo ♪
+
+406
+00:16:24,275 --> 00:16:25,151
+♪ Cannonball ♪
+
+407
+00:16:25,192 --> 00:16:26,360
+♪♪
+
+408
+00:16:26,402 --> 00:16:27,403
+♪ Want you ♪
+
+409
+00:16:27,445 --> 00:16:28,613
+♪ Koo koo ♪
+
+410
+00:16:28,655 --> 00:16:30,573
+♪ Cannonball ♪
+
+411
+00:16:30,615 --> 00:16:32,158
+♪ Hey now ♪
+♪ In the shade ♪
+
+412
+00:16:32,199 --> 00:16:34,619
+♪ In the shade ♪
+
+413
+00:16:34,661 --> 00:16:41,668
+♪♪
+
+414
+00:16:46,756 --> 00:16:48,382
+Mom...? Are we going?
+
+415
+00:16:49,843 --> 00:16:51,177
+Mom?
+
+416
+00:16:51,218 --> 00:16:57,934
+<i>[Speaking indistinctly</i>
+<i>on TV]</i>
+
+417
+00:16:57,976 --> 00:16:59,310
+You don't look ready.
+
+418
+00:16:59,352 --> 00:17:00,436
+I know, baby.
+
+419
+00:17:00,478 --> 00:17:02,313
+I just --
+
+420
+00:17:02,355 --> 00:17:04,607
+I don't know
+if I'm up for it tonight.
+
+421
+00:17:04,649 --> 00:17:06,943
+But you love
+girls' night out.
+I do love it.
+
+422
+00:17:06,985 --> 00:17:09,069
+I just thought maybe
+
+423
+00:17:09,111 --> 00:17:11,364
+we could have
+girls' night in this time?
+
+424
+00:17:11,405 --> 00:17:13,199
+Is it work?
+
+425
+00:17:14,659 --> 00:17:16,744
+I know it's weird
+to talk about it.
+
+426
+00:17:16,786 --> 00:17:18,454
+Uh, no, honey.
+
+427
+00:17:18,496 --> 00:17:20,790
+We can talk about
+whatever you want.
+
+428
+00:17:22,542 --> 00:17:25,294
+And, yeah,
+
+429
+00:17:25,336 --> 00:17:28,130
+we've been
+having some trouble.
+
+430
+00:17:28,172 --> 00:17:29,757
+With Rover?
+
+431
+00:17:29,799 --> 00:17:32,385
+Uh-huh.
+
+432
+00:17:32,426 --> 00:17:33,803
+Well,
+I'm sure it'll be awesome.
+
+433
+00:17:33,845 --> 00:17:35,555
+I mean,
+Cam said she liked it.
+
+434
+00:17:35,596 --> 00:17:39,392
+When did Cameron say
+she liked Rover?
+
+435
+00:17:39,433 --> 00:17:42,228
+Um, I don't know,
+like a couple months ago?
+
+436
+00:17:42,269 --> 00:17:44,689
+Uh, she said the algorithm
+was "clever."
+
+437
+00:17:46,190 --> 00:17:48,234
+You know what's
+really clever
+
+438
+00:17:48,275 --> 00:17:50,695
+is your
+Richard Pryor blurb.
+
+439
+00:17:50,737 --> 00:17:52,321
+[Chuckles] Thanks.
+
+440
+00:17:56,325 --> 00:18:00,872
+The truth is, baby,
+you are kicking our ass.
+
+441
+00:18:00,914 --> 00:18:02,790
+[Chuckles]
+Well, you're right,
+
+442
+00:18:02,832 --> 00:18:04,667
+work is just so exhausting.
+
+443
+00:18:04,709 --> 00:18:06,377
+So, we should just relax.
+
+444
+00:18:06,419 --> 00:18:07,837
+Yes.
+
+445
+00:18:07,879 --> 00:18:09,589
+How about
+we order take-out?
+
+446
+00:18:09,630 --> 00:18:11,049
+Oh, yeah,
+can we get Chinese?
+
+447
+00:18:11,090 --> 00:18:12,675
+Yeah.
+I love potstickers!
+
+448
+00:18:12,717 --> 00:18:14,301
+Joanie:
+Why are you wearing that?
+
+449
+00:18:14,343 --> 00:18:15,720
+We're gonna order
+Chinese food.
+
+450
+00:18:15,762 --> 00:18:18,014
+Oh. Hella gross.
+
+451
+00:18:18,056 --> 00:18:20,016
+MSG makes me bloat,
+
+452
+00:18:20,058 --> 00:18:21,517
+just order pizza.
+
+453
+00:18:21,559 --> 00:18:22,769
+Hey, Joanie!
+
+454
+00:18:22,810 --> 00:18:24,062
+Your sister
+was watching cartoons --
+
+455
+00:18:24,103 --> 00:18:26,439
+Mom, Jesus,
+it's not just cartoons --
+
+456
+00:18:26,480 --> 00:18:29,442
+She doesn't mind.
+Right?
+
+457
+00:18:29,483 --> 00:18:31,110
+Yeah.
+
+458
+00:18:31,151 --> 00:18:33,279
+Watch whatever you want.
+And pizza's fine.
+
+459
+00:18:33,320 --> 00:18:36,282
+No, well, honey, what about,
+you know, potstickers?
+
+460
+00:18:36,323 --> 00:18:37,742
+I'm actually
+not that hungry.
+
+461
+00:18:41,328 --> 00:18:42,329
+♪♪
+
+462
+00:18:42,371 --> 00:18:43,623
+[Sighs]
+
+463
+00:18:43,664 --> 00:18:46,417
+♪♪
+
+464
+00:18:46,459 --> 00:18:47,835
+Bosworth:
+Cameron "Howe-to" --
+
+465
+00:18:47,877 --> 00:18:49,629
+[Laughs]
+
+466
+00:18:49,670 --> 00:18:50,797
+♪♪
+
+467
+00:18:50,838 --> 00:18:52,090
+Cameron: Mm.
+
+468
+00:18:52,131 --> 00:18:53,382
+Go! Go!
+
+469
+00:18:53,424 --> 00:18:54,675
+I don't get it.
+
+470
+00:18:54,717 --> 00:18:56,176
+Well,
+it's not one of my best.
+
+471
+00:18:56,218 --> 00:18:57,678
+♪♪
+
+472
+00:18:57,720 --> 00:18:59,263
+[Electricity buzzes]
+♪ After the glow ♪
+
+473
+00:18:59,305 --> 00:19:00,723
+Ta-da!
+♪ The scene, the stage,
+the set ♪
+
+474
+00:19:00,765 --> 00:19:02,475
+Hey!
+
+475
+00:19:02,516 --> 00:19:04,560
+♪ Talk becomes slow ♪
+
+476
+00:19:04,602 --> 00:19:06,020
+♪ But there's one thing
+I'll never forget ♪
+Cool.
+
+477
+00:19:06,062 --> 00:19:07,313
+Looks good.
+
+478
+00:19:07,354 --> 00:19:10,858
+♪ Hey,
+you gotta pay your dues ♪
+
+479
+00:19:10,900 --> 00:19:12,986
+♪ Before you pay the rent ♪
+Joe, will you help me
+with the food?
+
+480
+00:19:13,027 --> 00:19:14,528
+Yeah.
+
+481
+00:19:15,571 --> 00:19:17,031
+♪ Over the turnstile ♪
+Yeah.
+
+482
+00:19:17,073 --> 00:19:20,034
+♪<i> Turn out in the traffic</i> ♪
+
+483
+00:19:20,076 --> 00:19:21,535
+Hey,
+I'm sorry we're so late.
+
+484
+00:19:21,577 --> 00:19:24,163
+The traffic was --
+Did the number come in?
+
+485
+00:19:24,204 --> 00:19:25,915
+Uh, three million.
+
+486
+00:19:25,957 --> 00:19:28,167
+Um...
+
+487
+00:19:28,208 --> 00:19:30,003
+That's...pretty good.
+
+488
+00:19:31,838 --> 00:19:33,213
+We passed.
+
+489
+00:19:34,590 --> 00:19:36,050
+I-It's, uh, encouraging
+
+490
+00:19:36,092 --> 00:19:37,426
+to get the interest
+so early on, you know.
+
+491
+00:19:37,468 --> 00:19:39,762
+We're gonna try
+the VC route.
+
+492
+00:19:39,804 --> 00:19:41,722
+A couple firms
+are poking around.
+
+493
+00:19:42,389 --> 00:19:44,809
+Hey, listen, are you still
+sleeping over tonight,
+
+494
+00:19:44,851 --> 00:19:46,853
+or do you have
+to take Gordon home now?
+
+495
+00:19:46,894 --> 00:19:49,438
+No, Bos is gonna
+drive him back.
+
+496
+00:19:49,480 --> 00:19:51,482
+Okay.
+
+497
+00:19:51,524 --> 00:19:53,484
+Okay?
+Okay.
+
+498
+00:19:53,526 --> 00:19:56,779
+♪<i> If I could settle down</i> ♪
+
+499
+00:19:56,821 --> 00:19:58,656
+I wouldn't miss
+my first night
+
+500
+00:19:58,698 --> 00:20:01,659
+in Lydia and Lenny's
+Honeymoon Hotbed.
+
+501
+00:20:01,701 --> 00:20:04,578
+[Laughs]
+
+502
+00:20:04,620 --> 00:20:06,246
+♪♪
+
+503
+00:20:06,288 --> 00:20:08,290
+[Chuckles] Yeah, well...
+
+504
+00:20:08,332 --> 00:20:10,543
+[Laughs]
+They seem to be doing
+all right.
+
+505
+00:20:10,584 --> 00:20:12,837
+Well...
+
+506
+00:20:12,879 --> 00:20:15,297
+as of tonight,
+
+507
+00:20:15,339 --> 00:20:19,010
+I'm officially giving them
+the benefit of the doubt.
+
+508
+00:20:19,052 --> 00:20:21,137
+So how you doin'?
+
+509
+00:20:21,179 --> 00:20:24,306
+Well, Rover's comin' along.
+
+510
+00:20:24,348 --> 00:20:26,266
+♪♪
+
+511
+00:20:26,308 --> 00:20:28,227
+Yeah, and that other thing?
+
+512
+00:20:28,268 --> 00:20:30,437
+♪♪
+
+513
+00:20:30,479 --> 00:20:33,149
+Yeah, well,
+I'm happy to report
+
+514
+00:20:33,191 --> 00:20:35,860
+I'm digging myself
+out of that particular hole.
+
+515
+00:20:35,902 --> 00:20:38,946
+Probably sounded
+a lot worse than it was.
+
+516
+00:20:38,988 --> 00:20:42,282
+Gordon, I -- I didn't mean
+to come at you like that,
+
+517
+00:20:42,324 --> 00:20:44,160
+and I feel shitty
+about the whole thing.
+
+518
+00:20:44,202 --> 00:20:46,829
+Bos, Bos, come on.
+Don't sweat it.
+
+519
+00:20:46,871 --> 00:20:49,916
+♪<i> Out on my skateboard,</i>
+<i>the night is just hummin'</i> ♪
+
+520
+00:20:49,957 --> 00:20:52,793
+Well,
+I heard AOL is gonna --
+
+521
+00:20:52,835 --> 00:20:54,461
+gonna make you an offer.
+
+522
+00:20:54,503 --> 00:20:56,380
+♪<i> I'll follow</i>
+<i>if my Walkman fades</i> ♪
+
+523
+00:20:56,422 --> 00:20:58,424
+Are you gonna take it?
+
+524
+00:20:58,465 --> 00:21:01,052
+Now, how did you hear
+about that?
+
+525
+00:21:01,094 --> 00:21:02,261
+Cam.
+
+526
+00:21:02,302 --> 00:21:03,888
+Oh.
+
+527
+00:21:03,930 --> 00:21:05,431
+Yeah, right.
+
+528
+00:21:05,472 --> 00:21:07,349
+Eh...
+
+529
+00:21:07,391 --> 00:21:10,144
+turns out they low-balled
+the hell out of us at three mil.
+
+530
+00:21:10,186 --> 00:21:13,397
+They're in a buying frenzy
+right now.
+
+531
+00:21:13,439 --> 00:21:16,859
+Me and Joe want to play
+this thing out, so...
+
+532
+00:21:16,901 --> 00:21:18,236
+Yeah.
+
+533
+00:21:18,277 --> 00:21:20,905
+<i>♪♪</i>
+
+534
+00:21:20,947 --> 00:21:22,656
+[Laughter]
+
+535
+00:21:22,698 --> 00:21:24,784
+So when did you go
+all Hells Angels on us?
+
+536
+00:21:24,825 --> 00:21:26,493
+Oh, come on.
+It was a baby Honda!
+
+537
+00:21:26,535 --> 00:21:28,454
+Hmm.
+It was technically
+a dirt bike.
+
+538
+00:21:28,495 --> 00:21:30,248
+Hmm.
+More like a Space Bike.
+
+539
+00:21:30,289 --> 00:21:31,457
+[Laughing]
+"A Space Bike."
+
+540
+00:21:31,498 --> 00:21:33,000
+Shut up!
+
+541
+00:21:33,042 --> 00:21:34,460
+Anyway,
+I don't have one anymore.
+
+542
+00:21:34,501 --> 00:21:37,130
+I drive a truck now,
+so...
+Yeah. A Space Truck.
+
+543
+00:21:37,171 --> 00:21:41,050
+[Laughter]
+
+544
+00:21:41,092 --> 00:21:43,302
+Okay.
+Bosworth:
+[Laughing] Space Truck.
+
+545
+00:21:43,343 --> 00:21:45,846
+Cameron:
+You guys want another beer?
+Let's have one more.
+
+546
+00:21:45,888 --> 00:21:49,267
+No,
+some of us gotta drive.
+Come on.
+
+547
+00:21:49,308 --> 00:21:51,936
+Gordon,
+you don't have to drive.
+[Grumbles] I wish...
+
+548
+00:21:51,978 --> 00:21:54,147
+Come on.
+...but I'm beat.
+
+549
+00:21:54,188 --> 00:21:55,982
+[Sighs]
+Shall we, Bos?
+
+550
+00:21:56,023 --> 00:21:58,985
+I think we gotta roll.
+
+551
+00:21:59,026 --> 00:22:01,487
+Come on. [Grunts]
+
+552
+00:22:01,528 --> 00:22:03,656
+Joe: Well, All right,
+this was good to see you, man.
+
+553
+00:22:03,697 --> 00:22:06,242
+Good to see you, too.
+
+554
+00:22:06,284 --> 00:22:08,119
+Joe: Yeah.
+
+555
+00:22:08,161 --> 00:22:09,578
+Cameron:
+Yeah, I'll walk you out.
+
+556
+00:22:09,620 --> 00:22:11,371
+Gordon: Okay.
+Joe: All right, Gordon.
+
+557
+00:22:11,413 --> 00:22:13,457
+Thanks for the lift out.
+Yeah, yeah.
+I'll see you soon.
+
+558
+00:22:13,499 --> 00:22:16,002
+-Well, thanks for coming by.
+-Sure. Yep. Yep.
+
+559
+00:22:16,043 --> 00:22:17,628
+Good to see you.
+
+560
+00:22:17,670 --> 00:22:19,421
+Cameron: [Laughs]
+
+561
+00:22:19,463 --> 00:22:21,548
+Thanks for the help
+with the lights!
+Bosworth: Yeah.
+
+562
+00:22:21,590 --> 00:22:24,093
+[Car door shuts]
+
+563
+00:22:24,135 --> 00:22:26,179
+[Engine starts]
+
+564
+00:22:38,191 --> 00:22:39,441
+Joe?
+
+565
+00:22:39,483 --> 00:22:46,490
+[Insects chirping]
+
+566
+00:22:48,784 --> 00:22:50,161
+♪♪
+
+567
+00:22:50,203 --> 00:22:52,205
+[Sighs]
+
+568
+00:22:52,246 --> 00:22:56,125
+♪♪
+
+569
+00:22:56,167 --> 00:22:57,084
+[Door closes]
+
+570
+00:22:57,126 --> 00:23:04,133
+♪♪
+
+571
+00:23:06,177 --> 00:23:08,012
+[Bottle opens]
+
+572
+00:23:08,054 --> 00:23:15,061
+♪♪
+
+573
+00:23:40,586 --> 00:23:43,756
+Bosworth:
+Hey, this girl here,
+this Tanya,
+
+574
+00:23:43,797 --> 00:23:45,549
+much nicer
+than that Harding girl.
+
+575
+00:23:45,591 --> 00:23:47,676
+My name has been
+forever sullied
+
+576
+00:23:47,718 --> 00:23:49,511
+by a man named
+"Gillooly."
+
+577
+00:23:49,553 --> 00:23:52,390
+Hey, let's get a little
+adventurous, shall we?
+
+578
+00:23:52,430 --> 00:23:55,309
+Um...let's try some uni?
+
+579
+00:23:55,351 --> 00:23:57,811
+Yes.
+Woman: Yes.
+
+580
+00:23:57,853 --> 00:24:00,522
+I wanted
+to talk to you about Cecil.
+
+581
+00:24:00,564 --> 00:24:03,401
+He's still having trouble
+with whole pages.
+
+582
+00:24:03,441 --> 00:24:04,860
+He's had a month.
+
+583
+00:24:04,902 --> 00:24:06,695
+Maybe he's not the guy.
+
+584
+00:24:06,737 --> 00:24:08,446
+Well, it's gonna
+be a little hard to
+get rid of him.
+
+585
+00:24:08,488 --> 00:24:10,699
+He's a founding member
+of the team,
+
+586
+00:24:10,741 --> 00:24:12,785
+CTO and all.
+
+587
+00:24:12,826 --> 00:24:14,745
+So the new kid's helping out
+with the grunt work,
+
+588
+00:24:14,787 --> 00:24:18,456
+but Cecil still can't handle
+the programming challenge.
+
+589
+00:24:19,708 --> 00:24:21,001
+Ooh!
+Enjoy.
+
+590
+00:24:21,043 --> 00:24:22,878
+Here.
+
+591
+00:24:22,920 --> 00:24:24,964
+You're gonna
+want to try this, dude.
+
+592
+00:24:25,005 --> 00:24:26,340
+Yeah.
+
+593
+00:24:26,382 --> 00:24:28,134
+This is some old
+Japanese soul food.
+
+594
+00:24:28,175 --> 00:24:30,094
+You're gonna like this.
+
+595
+00:24:30,386 --> 00:24:32,846
+[Chuckles]
+
+596
+00:24:32,888 --> 00:24:36,100
+I wanted to ask you
+about something, too.
+
+597
+00:24:36,142 --> 00:24:39,186
+Um, I heard that AOL
+
+598
+00:24:39,228 --> 00:24:40,938
+is interested
+in a search play.
+
+599
+00:24:41,772 --> 00:24:44,400
+It might be a way
+outta this whole mess.
+
+600
+00:24:44,442 --> 00:24:47,320
+Look,
+I-I'll be the first to admit
+
+601
+00:24:47,361 --> 00:24:50,239
+that I don't know
+the ins and the outs
+of the code.
+
+602
+00:24:50,281 --> 00:24:52,616
+But when it comes to buying
+and selling companies,
+
+603
+00:24:52,658 --> 00:24:54,452
+you could say
+that's my bailiwick.
+
+604
+00:24:56,203 --> 00:24:57,955
+How much do you think
+we could get?
+
+605
+00:24:57,997 --> 00:25:01,834
+My man says upwards
+of three million.
+
+606
+00:25:01,875 --> 00:25:05,796
+Okay, we have to pay off
+the angel investors --
+
+607
+00:25:05,838 --> 00:25:07,173
+Yeah, we'll do all right.
+
+608
+00:25:07,214 --> 00:25:09,342
+We'll do all right,
+about 400K apiece.
+
+609
+00:25:09,383 --> 00:25:12,052
+But the team --
+
+610
+00:25:12,094 --> 00:25:14,054
+They split almost
+$1 million in cash.
+
+611
+00:25:14,096 --> 00:25:16,807
+Now that's pretty good
+for a bunch of young upstarts.
+
+612
+00:25:16,849 --> 00:25:18,600
+But there's three of them.
+No, I know.
+
+613
+00:25:18,642 --> 00:25:19,601
+This idea --
+I really just don't think --
+It's -- Look, it's --
+
+614
+00:25:19,643 --> 00:25:21,103
+i-it's still
+nothing to sneeze at.
+
+615
+00:25:21,145 --> 00:25:23,105
+Hell, it's a win for you,
+
+616
+00:25:23,147 --> 00:25:26,359
+it sets you up great
+for your next thing.
+
+617
+00:25:26,400 --> 00:25:28,526
+Besides, the sad truth is,
+
+618
+00:25:28,568 --> 00:25:30,946
+anyone done a search with us
+leaves underwhelmed.
+
+619
+00:25:30,988 --> 00:25:31,864
+Huh?
+
+620
+00:25:33,199 --> 00:25:35,034
+The top search on Rover
+is "sex."
+
+621
+00:25:35,075 --> 00:25:39,038
+The second most
+popular search...is "Comet."
+
+622
+00:25:39,079 --> 00:25:41,957
+[Indistinct conversations]
+
+623
+00:25:41,999 --> 00:25:45,211
+The most popular word being
+searched on Rover is "sex."
+
+624
+00:25:45,252 --> 00:25:47,421
+The second most popular word
+is "Comet."
+
+625
+00:25:47,463 --> 00:25:50,548
+You should get a call
+in the next day.
+
+626
+00:25:50,590 --> 00:25:53,386
+Expect the offer
+to be around $3 million.
+
+627
+00:25:57,014 --> 00:26:00,684
+Can I assume that
+Bos speaks for the both of you?
+
+628
+00:26:02,853 --> 00:26:05,523
+Bos,
+you have a lot of wisdom
+
+629
+00:26:05,563 --> 00:26:07,149
+when it comes to sales.
+
+630
+00:26:08,566 --> 00:26:10,819
+But we can't get out now.
+
+631
+00:26:10,861 --> 00:26:12,988
+We have
+a winning play here.
+
+632
+00:26:13,030 --> 00:26:15,782
+Our algorithm-based system
+has a half dozen copycats.
+
+633
+00:26:15,824 --> 00:26:17,743
+Comet doesn't. Why?
+
+634
+00:26:17,784 --> 00:26:19,453
+Because web growth
+is projected to double
+
+635
+00:26:19,495 --> 00:26:20,454
+by the end of this year,
+
+636
+00:26:20,496 --> 00:26:22,289
+triple by the close of '95.
+
+637
+00:26:22,331 --> 00:26:24,624
+The competition is exactly
+the reason to get out now.
+
+638
+00:26:24,666 --> 00:26:26,544
+We don't have
+the right damn programmer --
+
+639
+00:26:26,584 --> 00:26:28,879
+You said
+we don't make "small plays."
+
+640
+00:26:28,921 --> 00:26:31,006
+We take "big swings."
+
+641
+00:26:31,048 --> 00:26:33,759
+What I know, in my gut,
+
+642
+00:26:33,800 --> 00:26:35,428
+is that search is poised
+
+643
+00:26:35,469 --> 00:26:37,513
+to be
+a billion-dollar business.
+
+644
+00:26:45,438 --> 00:26:49,816
+I don't care who you
+run into on the golf course,
+
+645
+00:26:49,858 --> 00:26:53,904
+you don't discuss my assets
+with anyone but me.
+
+646
+00:26:53,946 --> 00:26:55,197
+If the path to victory
+
+647
+00:26:55,239 --> 00:26:56,823
+requires a change
+in the Rover leadership,
+
+648
+00:26:56,865 --> 00:26:58,200
+we can discuss that.
+
+649
+00:26:58,242 --> 00:27:01,619
+But, in the meantime,
+have some grit.
+
+650
+00:27:04,873 --> 00:27:08,835
+I told you to come in here
+and present a united front.
+
+651
+00:27:08,877 --> 00:27:12,172
+Don't come
+whining to the boss.
+
+652
+00:27:12,214 --> 00:27:17,136
+This is 101 bullshit.
+
+653
+00:27:17,177 --> 00:27:19,305
+Do better. Both of you.
+
+654
+00:27:19,346 --> 00:27:22,308
+And when you
+walk out that door,
+
+655
+00:27:22,349 --> 00:27:25,936
+I want to see you head
+in the same damn direction.
+
+656
+00:27:32,276 --> 00:27:35,070
+[Indistinct conversations]
+
+657
+00:27:35,112 --> 00:27:37,030
+Well, thanks for
+having my back in there.
+
+658
+00:27:37,072 --> 00:27:40,534
+You owe $326,000
+to First National Bank.
+
+659
+00:27:40,576 --> 00:27:42,953
+Hey.
+I've known
+since November.
+
+660
+00:27:42,995 --> 00:27:44,997
+You've been running
+off bank paperwork
+in the copy room
+
+661
+00:27:45,038 --> 00:27:46,457
+like it's your home office.
+
+662
+00:27:46,499 --> 00:27:48,584
+You missed a sheet.
+Hey, wait a minute --
+
+663
+00:27:48,626 --> 00:27:50,544
+Hey, listen,
+I see what you're up to.
+
+664
+00:27:50,586 --> 00:27:52,630
+You want to unload Rover
+to the first buyer
+
+665
+00:27:52,670 --> 00:27:54,298
+so you can get
+a quick windfall.
+
+666
+00:27:54,340 --> 00:27:57,176
+Oh, but you --
+The long-game,
+Series A --
+
+667
+00:27:57,217 --> 00:27:59,512
+that won't
+solve your problem.
+
+668
+00:27:59,553 --> 00:28:02,264
+I haven't breathed a word
+about this.
+
+669
+00:28:02,306 --> 00:28:03,807
+And I'm not going to.
+
+670
+00:28:03,849 --> 00:28:05,976
+Because I have your back.
+
+671
+00:28:06,018 --> 00:28:08,354
+I just wish you had ours.
+
+672
+00:28:11,649 --> 00:28:12,983
+Man: Dudes, got one!
+
+673
+00:28:13,025 --> 00:28:14,527
+-Whoo!
+-Aooga!!
+
+674
+00:28:14,568 --> 00:28:15,819
+[Scoffs]
+
+675
+00:28:15,861 --> 00:28:17,488
+Seriously, guys,
+
+676
+00:28:17,530 --> 00:28:21,033
+Gladwell, Bristol
+is the perfect fit.
+
+677
+00:28:21,074 --> 00:28:23,285
+-Got one!
+-Yay, us!
+
+678
+00:28:23,327 --> 00:28:25,287
+Davis: What is up?
+
+679
+00:28:25,329 --> 00:28:27,456
+It's our weekly
+website indexing contest,
+
+680
+00:28:27,498 --> 00:28:29,833
+the team with the most sites
+by the end of Friday wins.
+
+681
+00:28:29,875 --> 00:28:31,460
+Man: Go, go, go!
+Hey. 2-minute warning.
+
+682
+00:28:31,502 --> 00:28:33,420
+We're close?
+Neck and neck.
+Haley's in the mix.
+
+683
+00:28:33,462 --> 00:28:35,047
+Joe: We should get down there.
+Come on.
+
+684
+00:28:36,006 --> 00:28:38,551
+So we used to cluster
+the groups by topic,
+
+685
+00:28:38,592 --> 00:28:40,135
+but our Chief Ontologist
+found that it
+
+686
+00:28:40,177 --> 00:28:42,262
+boosted productivity
+to share info,
+
+687
+00:28:42,304 --> 00:28:44,682
+so she's put the teams
+into seven master groups.
+
+688
+00:28:44,723 --> 00:28:46,766
+-Got one!
+-Aooga!!
+
+689
+00:28:46,808 --> 00:28:49,353
+Katie: Oh! All right!
+
+690
+00:28:49,395 --> 00:28:51,230
+All right,
+they're inching up.
+
+691
+00:28:51,271 --> 00:28:53,482
+Come on, Mrs. Doubtfire,
+you know what's at stake.
+
+692
+00:28:53,524 --> 00:28:55,150
+Research the web
+like it's 1989!
+
+693
+00:28:55,192 --> 00:28:57,361
+-I got one!
+-Yay us!
+
+694
+00:28:57,403 --> 00:28:59,655
+Yes!
+Step it up, burners.
+
+695
+00:28:59,697 --> 00:29:00,864
+Make Fonda proud.
+
+696
+00:29:00,906 --> 00:29:01,990
+Dudes, got one!
+
+697
+00:29:02,032 --> 00:29:03,867
+All: Aooga!!
+
+698
+00:29:03,909 --> 00:29:05,952
+Oh, it is on, burners!
+
+699
+00:29:05,994 --> 00:29:07,996
+Davis:
+They seem pretty fired up.
+What's the grand prize?
+
+700
+00:29:08,038 --> 00:29:09,831
+Olympic Gold?
+Better.
+
+701
+00:29:09,873 --> 00:29:11,333
+Katie:
+Okay, we don't have much time.
+
+702
+00:29:11,375 --> 00:29:12,668
+We're almost there.
+
+703
+00:29:12,710 --> 00:29:13,960
+We almost find out
+who the victor is.
+
+704
+00:29:14,002 --> 00:29:15,921
+-Oh!
+-Yay, us!
+
+705
+00:29:15,962 --> 00:29:17,339
+Katie:
+Oh! It is so close.
+
+706
+00:29:17,381 --> 00:29:19,758
+-Got one!
+-Aooga!!
+
+707
+00:29:19,799 --> 00:29:21,635
+Go! Oh! Okay, we're there!
+
+708
+00:29:21,677 --> 00:29:24,555
+Go! Go! Go! Go! Go!
+
+709
+00:29:24,597 --> 00:29:26,306
+I just logged
+a Rosie O'Donnell site!
+
+710
+00:29:26,348 --> 00:29:30,436
+[All cheering]
+
+711
+00:29:30,477 --> 00:29:31,729
+♪♪
+
+712
+00:29:31,770 --> 00:29:33,313
+Katie: All right!
+
+713
+00:29:33,355 --> 00:29:35,566
+Wait. No. No, no, no.
+Put me down.
+
+714
+00:29:35,608 --> 00:29:38,485
+All right. Surfboard!
+
+715
+00:29:38,527 --> 00:29:39,653
+Yay! Surfboard!
+
+716
+00:29:39,695 --> 00:29:41,905
+Whoo!
+
+717
+00:29:41,947 --> 00:29:43,699
+Thank you very much.
+
+718
+00:29:43,741 --> 00:29:45,909
+Hey, Dad -- Hey, Dad --
+come over here!
+
+719
+00:29:45,951 --> 00:29:47,745
+Are you sure
+it's not your turn?
+
+720
+00:29:47,786 --> 00:29:48,787
+Definitely not.
+
+721
+00:29:48,828 --> 00:29:51,290
+<i>♪♪</i>
+
+722
+00:29:51,331 --> 00:29:52,958
+All right.
+
+723
+00:29:52,999 --> 00:29:54,627
+Katie: All right!
+
+724
+00:29:54,668 --> 00:29:56,002
+You ready?
+
+725
+00:29:56,044 --> 00:29:58,130
+[All clapping rhythmically]
+
+726
+00:29:58,171 --> 00:30:00,424
+Gordon:
+All right, calm down!
+
+727
+00:30:00,466 --> 00:30:03,009
+<i>♪♪</i>
+
+728
+00:30:03,051 --> 00:30:04,136
+Aah!
+
+729
+00:30:04,177 --> 00:30:06,346
+[All cheering]
+[Laughs]
+
+730
+00:30:06,388 --> 00:30:12,144
+[Laughter, all cheering]
+
+731
+00:30:12,185 --> 00:30:15,981
+<i>♪♪</i>
+
+732
+00:30:16,022 --> 00:30:18,191
+[Thunder rumbles]
+
+733
+00:30:18,233 --> 00:30:20,110
+♪ That girl thinks she's
+the queen of the neighborhood ♪
+
+734
+00:30:20,152 --> 00:30:21,945
+[Gurgling]
+
+735
+00:30:21,987 --> 00:30:25,532
+♪ She's got
+the hottest trike in town ♪
+
+736
+00:30:25,574 --> 00:30:28,868
+♪ That girl,
+she holds her head up so high ♪
+
+737
+00:30:28,910 --> 00:30:32,539
+♪ I think I want to be
+her best friend, yeah ♪
+
+738
+00:30:32,581 --> 00:30:35,709
+♪ Rebel girl, rebel girl ♪
+
+739
+00:30:35,751 --> 00:30:37,336
+Stupid piece of shit.
+
+740
+00:30:37,377 --> 00:30:39,254
+♪ Rebel girl,
+you are the queen of my world ♪
+
+741
+00:30:39,296 --> 00:30:41,089
+♪ Rebel girl, rebel girl ♪
+
+742
+00:30:41,131 --> 00:30:42,924
+Turn off!
+
+743
+00:30:42,966 --> 00:30:45,469
+[Clatter]
+
+744
+00:30:45,511 --> 00:30:47,095
+Ohh!
+
+745
+00:30:48,681 --> 00:30:50,098
+[Glass rattling, metal creaking]
+
+746
+00:30:50,140 --> 00:30:51,517
+[Whimpers]
+
+747
+00:30:51,558 --> 00:30:53,769
+♪ When she walks,
+the revolution's coming ♪
+
+748
+00:30:53,811 --> 00:30:57,105
+♪ In her kiss,
+I taste the revolution! ♪
+
+749
+00:30:57,147 --> 00:31:00,693
+♪ Rebel girl, rebel girl ♪
+
+750
+00:31:00,734 --> 00:31:04,070
+♪ Rebel girl,
+you are the queen of my world ♪
+
+751
+00:31:04,112 --> 00:31:06,990
+♪ Rebel girl, rebel girl ♪
+
+752
+00:31:07,032 --> 00:31:08,742
+♪ I know
+I want to take you home ♪
+
+753
+00:31:08,784 --> 00:31:12,204
+♪ I wanna
+try on your clothes, uh ♪
+
+754
+00:31:12,245 --> 00:31:16,625
+♪♪
+
+755
+00:31:16,667 --> 00:31:20,045
+[Screams]
+♪ Rebel girl, rebel girl ♪
+
+756
+00:31:20,086 --> 00:31:22,673
+♪ Rebel girl,
+you are the queen of my world ♪
+
+757
+00:31:22,715 --> 00:31:24,591
+♪ Love you like a sister
+always ♪
+
+758
+00:31:24,633 --> 00:31:26,719
+♪ Soul sister, rebel girl ♪
+
+759
+00:31:26,760 --> 00:31:28,345
+♪ Come and be my best friend ♪
+
+760
+00:31:28,387 --> 00:31:30,347
+♪ Really, rebel girl ♪
+
+761
+00:31:30,389 --> 00:31:31,557
+[Grunts]
+♪ I really like you ♪
+
+762
+00:31:31,598 --> 00:31:33,225
+God damn!
+
+763
+00:31:33,266 --> 00:31:35,060
+♪ I really wanna be
+your best friend ♪
+
+764
+00:31:35,101 --> 00:31:37,771
+♪ Be my rebel girl ♪
+[Screams]
+
+765
+00:31:42,484 --> 00:31:49,491
+<i>[Man speaking indistinctly</i>
+<i>on TV]</i>
+
+766
+00:31:52,494 --> 00:31:53,787
+What are you doing?
+
+767
+00:31:53,829 --> 00:31:55,497
+Skating is coming on.
+
+768
+00:31:55,539 --> 00:31:57,374
+It's Tonya and Nancy,
+and all of America is watching,
+
+769
+00:31:57,416 --> 00:31:59,501
+so I want to see
+what happens.
+I was watching "Real World,"
+
+770
+00:31:59,543 --> 00:32:01,169
+and it's the episode
+where David gets kicked off
+
+771
+00:32:01,211 --> 00:32:02,546
+for pulling the sheets
+off of Tami--
+Oh, my God. Who cares?
+
+772
+00:32:02,588 --> 00:32:03,922
+It's not even "real."
+Girls, can you please?
+
+773
+00:32:03,963 --> 00:32:05,298
+I read something online
+
+774
+00:32:05,340 --> 00:32:06,550
+that said they generate
+all the drama.
+
+775
+00:32:06,592 --> 00:32:07,676
+Kind of like you.
+
+776
+00:32:07,718 --> 00:32:09,720
+What is that?
+
+777
+00:32:09,762 --> 00:32:12,013
+It's a golden surfboard.
+
+778
+00:32:12,055 --> 00:32:13,432
+Yeah,
+why do you have that?
+
+779
+00:32:13,473 --> 00:32:15,975
+Honey,
+where did you get that?
+
+780
+00:32:16,017 --> 00:32:17,477
+Well, it's from Comet.
+
+781
+00:32:17,519 --> 00:32:19,396
+And I know it's weird
+to have a Comet trophy
+
+782
+00:32:19,438 --> 00:32:21,481
+when you're working so hard
+on Rover --
+
+783
+00:32:21,523 --> 00:32:22,691
+No.
+
+784
+00:32:22,733 --> 00:32:24,150
+Why does it say
+"Potstickers"?
+
+785
+00:32:24,192 --> 00:32:25,360
+Because I won it!
+
+786
+00:32:26,695 --> 00:32:29,072
+Risa was doing a write-up
+for the Benihana website,
+
+787
+00:32:29,114 --> 00:32:30,866
+and I told her
+that I love potstickers
+
+788
+00:32:30,908 --> 00:32:33,368
+so she named our
+team Potstickers,
+and today we won.
+
+789
+00:32:33,410 --> 00:32:35,412
+And we kicked
+Feel the Burn's ass!
+
+790
+00:32:35,454 --> 00:32:37,873
+And everyone cheered,
+and they played this
+crazy surfer music,
+
+791
+00:32:37,915 --> 00:32:39,625
+and I got to throw
+the ceremonial pie
+in Dad's face!
+
+792
+00:32:39,666 --> 00:32:40,876
+What?!
+
+793
+00:32:40,918 --> 00:32:42,419
+I know! It was amazing!
+
+794
+00:32:42,461 --> 00:32:43,796
+[Laughing]
+
+795
+00:32:43,837 --> 00:32:45,881
+Okay,
+Nancy's about to warm up.
+
+796
+00:32:45,923 --> 00:32:48,258
+You're my sister,
+and I know deep in your heart
+
+797
+00:32:48,300 --> 00:32:51,386
+you want to watch this
+major cultural event
+and eat ice cream
+
+798
+00:32:51,428 --> 00:32:53,847
+and not just smoke
+disgusting cigarettes...
+Shut up!
+
+799
+00:32:53,889 --> 00:32:55,432
+...and scowl at everyone.
+Um...
+
+800
+00:32:55,474 --> 00:32:57,058
+Come on. Mom, come on.
+Okay.
+
+801
+00:32:57,100 --> 00:33:00,479
+Man:<i> And nothing is going to</i>
+<i>hold her back.</i>
+
+802
+00:33:00,520 --> 00:33:03,440
+Well, all right.
+Okay.
+
+803
+00:33:03,482 --> 00:33:05,692
+I-I wish I got to throw a pie
+in Dad's face.
+
+804
+00:33:05,734 --> 00:33:08,194
+Yeah, you and me both.
+[Giggles]
+
+805
+00:33:08,236 --> 00:33:10,489
+-Ooh, sassy.
+-All right.
+
+806
+00:33:10,530 --> 00:33:13,450
+What'd I miss?
+-Go, Nancy.
+
+807
+00:33:13,492 --> 00:33:16,077
+How fast do you think
+they're going?
+
+808
+00:33:16,119 --> 00:33:18,371
+Hey, can you see okay?
+Yeah.
+
+809
+00:33:18,413 --> 00:33:19,790
+I've got a perfect view
+of the crust of Cool Whip
+
+810
+00:33:19,832 --> 00:33:22,125
+behind your ear.
+What?
+
+811
+00:33:22,835 --> 00:33:24,252
+Here.
+
+812
+00:33:24,294 --> 00:33:26,087
+I got it. I got it.
+Don't worry about it.
+
+813
+00:33:26,129 --> 00:33:27,380
+-Who is gonna top that?
+-It's good.
+
+814
+00:33:27,422 --> 00:33:28,882
+Katie:
+Now I'm even more nervous.
+
+815
+00:33:28,924 --> 00:33:30,467
+Oh, hey! I didn't know
+you were coming home.
+
+816
+00:33:30,509 --> 00:33:32,302
+You wanna join us?
+
+817
+00:33:32,344 --> 00:33:35,013
+Uh...
+Man:<i> Now this first jump</i>
+<i>is a triple flip.</i>
+
+818
+00:33:35,054 --> 00:33:37,390
+<i>Oh, she doubles.</i>
+...I got to take a shower.
+
+819
+00:33:37,432 --> 00:33:38,934
+-Hi.
+-Bye.
+
+820
+00:33:38,976 --> 00:33:40,226
+Uh...
+[Clears throat]
+
+821
+00:33:40,268 --> 00:33:41,979
+<i>You know what?</i>
+<i>She's a fighter.</i>
+
+822
+00:33:42,020 --> 00:33:43,522
+<i>If I know her, she's gonna</i>
+<i>fight for every triple</i>
+
+823
+00:33:43,563 --> 00:33:45,106
+<i>from here on out.</i>
+Hey, what happened?
+
+824
+00:33:45,148 --> 00:33:46,566
+I'm sorry.
+
+825
+00:33:46,608 --> 00:33:47,818
+I...
+
+826
+00:33:47,860 --> 00:33:49,987
+I'll tell you later.
+
+827
+00:33:50,028 --> 00:33:51,822
+I didn't mean to barge in.
+
+828
+00:33:51,864 --> 00:33:53,573
+No, not at all.
+I, um...
+
+829
+00:33:53,615 --> 00:33:55,617
+I wanted to introduce you
+to everyone.
+
+830
+00:33:55,659 --> 00:33:58,244
+Katie:
+Hey, we need a tie-breaker.
+
+831
+00:33:58,286 --> 00:34:00,288
+Are you Team Nancy
+or Team Tonya?
+
+832
+00:34:00,330 --> 00:34:01,623
+Man:
+<i>A very difficult combination.</i>
+
+833
+00:34:01,665 --> 00:34:03,124
+<i>Triple toe loop.</i>
+Are those skater people?
+
+834
+00:34:03,166 --> 00:34:04,793
+<i>And another!</i>
+[All shouting]
+
+835
+00:34:04,835 --> 00:34:06,753
+[Scoffs]
+
+836
+00:34:06,795 --> 00:34:08,380
+I'm just gonna go to bed.
+
+837
+00:34:08,421 --> 00:34:11,383
+Man:<i> Into the program</i>
+<i>only three minutes.</i>
+
+838
+00:34:11,424 --> 00:34:12,759
+<i>Now going into</i>
+<i>the hardest triple --</i>
+
+839
+00:34:12,801 --> 00:34:14,845
+<i>a triple lutz.</i>
+
+840
+00:34:14,887 --> 00:34:16,805
+[All shouting]
+
+841
+00:34:20,433 --> 00:34:22,728
+You know, the next time
+you hear a drip...
+
+842
+00:34:22,769 --> 00:34:24,521
+Damn it!
+
+843
+00:34:24,563 --> 00:34:25,981
+...you might want to try
+a gentler approach.
+
+844
+00:34:26,023 --> 00:34:28,025
+[Chuckles]
+
+845
+00:34:28,066 --> 00:34:30,360
+[Groans]
+
+846
+00:34:30,402 --> 00:34:32,070
+Ow! Ow.
+
+847
+00:34:32,111 --> 00:34:35,114
+I know how this looks,
+by the way.
+
+848
+00:34:35,156 --> 00:34:39,870
+Like I'm having some pathetic,
+early mid-life crisis.
+
+849
+00:34:39,912 --> 00:34:43,289
+Got the bike, the truck,
+the trailer.
+
+850
+00:34:43,331 --> 00:34:44,917
+[Laughs]
+
+851
+00:34:44,958 --> 00:34:47,085
+No. No, on the contrary.
+
+852
+00:34:47,126 --> 00:34:51,715
+Actually, no,
+you took a risk,
+
+853
+00:34:51,757 --> 00:34:53,967
+you got out of your
+"comfort zone."
+
+854
+00:34:54,009 --> 00:34:55,260
+I'm proud of you.
+
+855
+00:34:55,301 --> 00:34:56,762
+[Both chuckle]
+
+856
+00:34:56,803 --> 00:34:58,179
+Right.
+
+857
+00:34:58,221 --> 00:35:00,139
+My new home
+got stuck in the mud.
+
+858
+00:35:00,181 --> 00:35:02,100
+Yeah, well,
+happens to the best of us.
+
+859
+00:35:02,141 --> 00:35:04,352
+There's no shame
+in asking for a little help
+
+860
+00:35:04,394 --> 00:35:05,437
+now and again.
+
+861
+00:35:10,859 --> 00:35:13,445
+How do you know
+how to do all this anyway?
+
+862
+00:35:13,486 --> 00:35:16,073
+You come from a long line
+of trailer folk?
+
+863
+00:35:16,114 --> 00:35:17,657
+[Chuckles]
+
+864
+00:35:17,699 --> 00:35:22,454
+Well, truly,
+that ain't far off.
+
+865
+00:35:22,495 --> 00:35:24,414
+Here.
+Why don't you keep this.
+
+866
+00:35:24,456 --> 00:35:26,332
+You never know
+when it's gonna come in handy.
+
+867
+00:35:26,374 --> 00:35:27,876
+[Exhales deeply]
+
+868
+00:35:30,712 --> 00:35:32,297
+You want a drink?
+
+869
+00:35:32,338 --> 00:35:34,091
+Nope. [Grunts]
+
+870
+00:35:34,132 --> 00:35:35,634
+I'm good.
+
+871
+00:35:35,675 --> 00:35:37,677
+But you could
+run out to my truck
+
+872
+00:35:37,719 --> 00:35:41,180
+and, on the seat,
+there's my tool bag.
+
+873
+00:35:41,222 --> 00:35:43,058
+Grab me the plumber's putty
+out of there.
+
+874
+00:35:43,100 --> 00:35:44,476
+Little can.
+Okay.
+
+875
+00:35:44,517 --> 00:35:46,019
+Thanks.
+
+876
+00:35:48,730 --> 00:35:49,731
+[Spits]
+
+877
+00:35:54,360 --> 00:35:56,613
+[Insect buzzes]
+
+878
+00:36:00,325 --> 00:36:02,869
+[Birds chirping]
+
+879
+00:36:18,301 --> 00:36:21,346
+I'm dirtying up
+your nail file...
+
+880
+00:36:21,387 --> 00:36:22,681
+[Laughs]
+
+881
+00:36:22,722 --> 00:36:25,142
+...or brush thing...
+[Door opens, closes]
+
+882
+00:36:25,183 --> 00:36:26,810
+or whatever you...
+
+883
+00:36:27,978 --> 00:36:29,938
+I couldn't find it.
+
+884
+00:36:31,356 --> 00:36:33,441
+Hey, how's your boat?
+
+885
+00:36:33,483 --> 00:36:35,610
+[Sighs]
+
+886
+00:36:37,070 --> 00:36:40,323
+[Sighs heavily]
+
+887
+00:36:40,365 --> 00:36:43,869
+Well, I liquidated
+whatever I could,
+
+888
+00:36:43,910 --> 00:36:46,454
+zeroed out my IRA.
+
+889
+00:36:46,496 --> 00:36:48,081
+I was ready to auction off
+all the furniture.
+
+890
+00:36:48,123 --> 00:36:49,624
+But I thought --
+
+891
+00:36:49,666 --> 00:36:51,168
+well,
+I thought Diane might notice
+
+892
+00:36:51,209 --> 00:36:55,421
+if her antique buffet
+turned up missing.
+
+893
+00:36:58,133 --> 00:37:01,427
+Cameron:
+It could work out.
+
+894
+00:37:01,469 --> 00:37:04,014
+Rover might succeed.
+
+895
+00:37:04,056 --> 00:37:05,891
+No, I looked at it
+a couple months ago,
+
+896
+00:37:05,932 --> 00:37:06,892
+it wasn't there yet.
+
+897
+00:37:06,933 --> 00:37:09,435
+But I liked the model.
+
+898
+00:37:09,477 --> 00:37:12,147
+Our programmer's been
+banging his head against
+the wall for months
+
+899
+00:37:12,189 --> 00:37:15,025
+trying to refine
+that algorithm.
+
+900
+00:37:15,067 --> 00:37:16,860
+And Donna won't sell it.
+
+901
+00:37:16,902 --> 00:37:19,320
+[Scoffs]
+
+902
+00:37:19,362 --> 00:37:21,114
+I recognize the signs,
+
+903
+00:37:21,156 --> 00:37:23,158
+this thing
+is gonna die on the vine.
+
+904
+00:37:23,200 --> 00:37:24,617
+I mean...
+
+905
+00:37:25,785 --> 00:37:27,162
+[Sighs]
+
+906
+00:37:27,204 --> 00:37:28,496
+We're screwed.
+
+907
+00:37:29,831 --> 00:37:31,249
+We're so screwed,
+
+908
+00:37:31,290 --> 00:37:32,500
+the light from screwed
+
+909
+00:37:32,542 --> 00:37:34,711
+gonna take a thousand years
+to reach us.
+
+910
+00:37:35,962 --> 00:37:37,505
+Wait, how screwed are you?
+
+911
+00:37:39,507 --> 00:37:40,884
+[Scoffs]
+
+912
+00:37:40,926 --> 00:37:42,677
+♪♪
+
+913
+00:37:42,719 --> 00:37:44,971
+We don't got the leadership,
+
+914
+00:37:45,013 --> 00:37:47,348
+we don't got that algorithm,
+
+915
+00:37:47,390 --> 00:37:50,560
+and we don't got that talent.
+
+916
+00:37:50,602 --> 00:37:53,563
+In a word, darlin',
+
+917
+00:37:53,605 --> 00:37:55,107
+we don't got you.
+
+918
+00:37:55,148 --> 00:38:01,529
+♪♪
+
+919
+00:38:01,571 --> 00:38:03,489
+What part is he stuck on?
+
+920
+00:38:08,078 --> 00:38:10,455
+I'm just saying,
+Dr. Katie Herman
+
+921
+00:38:10,496 --> 00:38:13,125
+gives you a lot of
+ontological attention.
+
+922
+00:38:13,833 --> 00:38:15,627
+Yeah. She's friendly.
+
+923
+00:38:15,668 --> 00:38:18,421
+Oh-ho!
+Nice scratch.
+
+924
+00:38:18,463 --> 00:38:20,257
+She's not friendly
+with me.
+
+925
+00:38:20,298 --> 00:38:21,841
+Yeah, well,
+
+926
+00:38:21,883 --> 00:38:24,094
+how are things with you
+and Dr. Cameron Howe?
+
+927
+00:38:24,136 --> 00:38:26,512
+Must be pretty snug out there
+in that Airstream.
+
+928
+00:38:26,554 --> 00:38:29,348
+Like two giants
+living in a thimble.
+
+929
+00:38:35,396 --> 00:38:36,982
+[Sighs] So close.
+
+930
+00:38:37,023 --> 00:38:38,483
+Excellent try.
+
+931
+00:38:38,524 --> 00:38:40,693
+So, it's -- it's good.
+She's, um...
+
+932
+00:38:40,735 --> 00:38:42,154
+[Chuckles]
+
+933
+00:38:42,195 --> 00:38:43,738
+She's looking for something,
+
+934
+00:38:43,780 --> 00:38:45,824
+and I don't think
+she's gonna find it
+in no man's land.
+
+935
+00:38:45,865 --> 00:38:47,784
+But, um....
+
+936
+00:38:47,826 --> 00:38:53,539
+I feel bad,
+because she's so into it, but...
+
+937
+00:38:55,374 --> 00:38:58,128
+...I hate it out there.
+
+938
+00:38:58,170 --> 00:39:00,630
+And I can't stop thinking about
+click beetles.
+
+939
+00:39:00,672 --> 00:39:02,381
+[Snickers, clears throat]
+
+940
+00:39:02,423 --> 00:39:03,842
+What's a click beetle?
+
+941
+00:39:03,883 --> 00:39:06,344
+You call yourself
+an outdoorsman.
+
+942
+00:39:06,385 --> 00:39:07,637
+So, you're in the wild,
+
+943
+00:39:07,679 --> 00:39:10,307
+and you hear
+this clicking sound.
+
+944
+00:39:10,348 --> 00:39:11,850
+And you think
+you're going crazy
+
+945
+00:39:11,891 --> 00:39:13,351
+or have sudden
+onset tinnitus,
+
+946
+00:39:13,392 --> 00:39:15,312
+but in fact,
+there's an ear-dwelling beetle
+
+947
+00:39:15,353 --> 00:39:16,938
+in your cochlea --
+
+948
+00:39:16,980 --> 00:39:19,649
+I'm serious --
+and you turn up dead.
+
+949
+00:39:19,691 --> 00:39:22,485
+With a beetle
+next to your head.
+
+950
+00:39:22,527 --> 00:39:24,737
+Because, you know,
+it crawls out.
+
+951
+00:39:24,779 --> 00:39:26,572
+When you die.
+
+952
+00:39:26,614 --> 00:39:29,117
+Joe,
+that was in "Star Trek II."
+
+953
+00:39:29,159 --> 00:39:30,910
+Never seen it.
+Yes, you have.
+
+954
+00:39:30,952 --> 00:39:32,329
+And click beetles
+are real.
+
+955
+00:39:32,370 --> 00:39:33,663
+Mm-hmm.
+
+956
+00:39:36,208 --> 00:39:37,625
+Yes!
+Nice!
+
+957
+00:39:37,667 --> 00:39:39,585
+Wasn't aiming for that one,
+but it counts.
+
+958
+00:39:39,627 --> 00:39:41,838
+So what do you think
+of Gladwell, Bristol
+
+959
+00:39:41,880 --> 00:39:44,132
+and their smokin'
+VC operation?
+
+960
+00:39:44,174 --> 00:39:46,425
+Well, you know, I was excited
+about the AOL offer.
+
+961
+00:39:46,467 --> 00:39:47,886
+Until I wasn't.
+
+962
+00:39:47,927 --> 00:39:49,846
+And then I was excited
+about the VC route.
+
+963
+00:39:49,888 --> 00:39:51,681
+Until I wasn't, so...
+
+964
+00:39:51,723 --> 00:39:55,935
+What are you...
+really excited about?
+
+965
+00:39:55,977 --> 00:39:57,687
+This.
+
+966
+00:39:59,147 --> 00:40:00,357
+You and me.
+
+967
+00:40:00,398 --> 00:40:02,400
+Here.
+
+968
+00:40:02,441 --> 00:40:05,195
+Okay...
+
+969
+00:40:07,989 --> 00:40:09,824
+If you make this shot,
+
+970
+00:40:09,866 --> 00:40:11,368
+we're taking
+the VC money.
+
+971
+00:40:13,452 --> 00:40:15,580
+Fine.
+
+972
+00:40:22,420 --> 00:40:24,047
+Ugh!
+Ooh!
+
+973
+00:40:24,089 --> 00:40:26,632
+[Laughs]
+
+974
+00:40:26,674 --> 00:40:29,010
+We're not taking the money.
+Okay, okay. Rack 'em.
+
+975
+00:40:31,096 --> 00:40:33,390
+Hey. Here we go.
+
+976
+00:40:33,431 --> 00:40:34,974
+Okay, okay.
+[Cheers and applause]
+
+977
+00:40:35,016 --> 00:40:38,519
+So...[chuckles] Wow!
+
+978
+00:40:38,561 --> 00:40:40,813
+So, uh, as you all know,
+
+979
+00:40:40,855 --> 00:40:44,401
+we got off to
+kind of a rocky start --
+
+980
+00:40:44,442 --> 00:40:48,405
+but last month, suddenly,
+you really turned it around.
+
+981
+00:40:48,446 --> 00:40:51,866
+Huh? Just...Wow!
+
+982
+00:40:51,908 --> 00:40:54,244
+Uh, credit goes to Cecil
+
+983
+00:40:54,286 --> 00:40:55,954
+for his breakthrough
+with the algorithm.
+
+984
+00:40:55,995 --> 00:40:57,538
+-Yay!
+-Cecil!
+
+985
+00:40:57,580 --> 00:41:03,502
+We are so proud to offer you
+Series A financing.
+
+986
+00:41:03,544 --> 00:41:04,879
+To Rover.
+
+987
+00:41:04,921 --> 00:41:07,548
+All: To Rover!
+
+988
+00:41:09,467 --> 00:41:10,551
+Good job.
+Thank you.
+
+989
+00:41:10,593 --> 00:41:13,096
+Donna, hey.
+Hey.
+
+990
+00:41:13,138 --> 00:41:14,889
+I owe you an apology.
+
+991
+00:41:14,931 --> 00:41:18,476
+I didn't see it at first,
+but this thing is killer.
+
+992
+00:41:18,517 --> 00:41:20,395
+I mean,
+your guy nailed it.
+
+993
+00:41:20,437 --> 00:41:22,855
+Yeah. He really did.
+Yeah.
+
+994
+00:41:22,897 --> 00:41:24,774
+To perseverance --
+Ah.
+
+995
+00:41:24,816 --> 00:41:26,151
+Hi.
+[Chuckles]
+
+996
+00:41:26,192 --> 00:41:27,193
+Congratulations.
+
+997
+00:41:29,321 --> 00:41:31,656
+Well, that must feel
+really good.
+
+998
+00:41:32,365 --> 00:41:34,033
+Look, I know
+it's been a tough one,
+
+999
+00:41:34,075 --> 00:41:35,785
+and given where we were
+a month ago,
+
+1000
+00:41:35,827 --> 00:41:37,370
+it must feel like
+a curve ball.
+
+1001
+00:41:37,412 --> 00:41:39,622
+But it will pay off,
+you'll see.
+
+1002
+00:41:39,664 --> 00:41:42,375
+[Laughs]
+
+1003
+00:41:42,417 --> 00:41:43,584
+Hey.
+
+1004
+00:41:45,337 --> 00:41:46,963
+You really pulled this off.
+
+1005
+00:41:47,005 --> 00:41:48,465
+And just in the nick.
+
+1006
+00:41:49,674 --> 00:41:51,050
+About a month ago,
+
+1007
+00:41:51,092 --> 00:41:53,552
+Donna was gonna dump
+the whole thing to AOL.
+
+1008
+00:41:53,594 --> 00:41:56,222
+-It's been good for all of us.
+-Oh, I agree.
+
+1009
+00:41:56,264 --> 00:41:58,183
+Man: Oh, you know
+each other, right?
+
+1010
+00:41:58,224 --> 00:42:00,268
+Elias: So you really cracked
+the whole thing wide open.
+
+1011
+00:42:00,310 --> 00:42:01,644
+How'd you do it?
+
+1012
+00:42:01,686 --> 00:42:04,147
+Cecil: Uh, Bos actually
+had the initial idea,
+
+1013
+00:42:04,189 --> 00:42:07,650
+what we call the, uh,
+the "waiting room" concept --
+
+1014
+00:42:07,692 --> 00:42:09,235
+Yeah, people wait around
+all the time,
+
+1015
+00:42:09,277 --> 00:42:10,569
+they're used to it.
+
+1016
+00:42:10,611 --> 00:42:14,157
+In -- In real life.
+On the web.
+
+1017
+00:42:14,199 --> 00:42:16,909
+Um, I, uh, came up with
+a "queuing program."
+
+1018
+00:42:16,951 --> 00:42:21,206
+Um, Now we're the first site
+to, uh, index entire pages.
+
+1019
+00:42:21,247 --> 00:42:24,667
+Um, you know, um,
+we had a crawler,
+
+1020
+00:42:24,709 --> 00:42:26,378
+but it was a rude one...
+
+1021
+00:42:26,419 --> 00:42:28,880
+Sure, we had to teach that
+little sucker some manners.
+
+1022
+00:42:28,921 --> 00:42:30,631
+[Laughter]
+
+1023
+00:42:30,673 --> 00:42:32,258
+Tanya: Excuse me.
+
+1024
+00:42:32,300 --> 00:42:34,552
+I just wanted to thank you.
+For not giving up on us.
+
+1025
+00:42:34,593 --> 00:42:36,054
+Uh, you steered the ship.
+
+1026
+00:42:36,095 --> 00:42:37,930
+You should be
+proud of yourself.
+
+1027
+00:42:37,972 --> 00:42:39,224
+Hey.
+
+1028
+00:42:39,265 --> 00:42:41,267
+So, you're
+the star of the show.
+
+1029
+00:42:41,309 --> 00:42:42,852
+Y-Yeah.
+
+1030
+00:42:42,894 --> 00:42:45,480
+The, uh -- the growth
+has been incredible.
+Yeah.
+
+1031
+00:42:45,522 --> 00:42:47,606
+Well, I was just
+a little bit surprised.
+
+1032
+00:42:47,648 --> 00:42:50,235
+Because, well, you know,
+you'd struggled for so long.
+
+1033
+00:42:50,276 --> 00:42:53,612
+So I just --
+I have to ask...
+
+1034
+00:42:53,654 --> 00:42:55,573
+Who wrote
+the new algorithm?
+
+1035
+00:42:55,614 --> 00:42:58,910
+♪♪
+
+1036
+00:42:58,951 --> 00:43:00,412
+I cannot believe
+
+1037
+00:43:00,453 --> 00:43:02,621
+that Rover is getting
+a Series A term sheet.
+
+1038
+00:43:02,663 --> 00:43:04,123
+Now, all of a sudden,
+
+1039
+00:43:04,165 --> 00:43:05,833
+we're up against this
+capitalized nightmare.
+
+1040
+00:43:05,875 --> 00:43:11,256
+Some new "crawler" interacting
+with the data indexing,
+
+1041
+00:43:11,297 --> 00:43:12,798
+it could kill us...
+
+1042
+00:43:12,840 --> 00:43:15,885
+We've got to divide our focus
+just to compete.
+
+1043
+00:43:15,927 --> 00:43:18,513
+But our whole approach,
+the human touch,
+
+1044
+00:43:18,555 --> 00:43:21,140
+it's -- it's now completely
+and totally f--
+
+1045
+00:43:23,393 --> 00:43:30,400
+♪♪

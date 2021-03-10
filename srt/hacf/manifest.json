@@ -1,0 +1,166 @@
+{
+  "title": "Halt and Catch Fire",
+  "netflix": "70302182",
+  "episodes": {
+    "101": {
+      "title": "I/O",
+      "netflix": "70307887"
+    },
+    "102": {
+      "title": "FUD",
+      "netflix": "70307888"
+    },
+    "103": {
+      "title": "High Plains Hardware",
+      "netflix": "70307889"
+    },
+    "104": {
+      "title": "Close to the Metal",
+      "netflix": "70307890"
+    },
+    "105": {
+      "title": "Adventure",
+      "netflix": "70307891"
+    },
+    "106": {
+      "title": "Landfall",
+      "netflix": "70307892"
+    },
+    "107": {
+      "title": "Giant",
+      "netflix": "70307893"
+    },
+    "108": {
+      "title": "The 214s",
+      "netflix": "70307894"
+    },
+    "109": {
+      "title": "Up Helly Aa",
+      "netflix": "70307895"
+    },
+    "110": {
+      "title": "1984",
+      "netflix": "70307896"
+    },
+    "201": {
+      "title": "SETI",
+      "netflix": "80032168"
+    },
+    "202": {
+      "title": "New Coke",
+      "netflix": "80032169"
+    },
+    "203": {
+      "title": "The Way In",
+      "netflix": "80032170"
+    },
+    "204": {
+      "title": "Play with Friends",
+      "netflix": "80032171"
+    },
+    "205": {
+      "title": "Extract and Defend",
+      "netflix": "80032172"
+    },
+    "206": {
+      "title": "10Broad36",
+      "netflix": "80032173"
+    },
+    "207": {
+      "title": "Working for the Clampdown",
+      "netflix": "80032174"
+    },
+    "208": {
+      "title": "Limbo",
+      "netflix": "80032175"
+    },
+    "209": {
+      "title": "Kali",
+      "netflix": "80032176"
+    },
+    "210": {
+      "title": "Heaven Is a Place",
+      "netflix": "80032177"
+    },
+    "301": {
+      "title": "Valley of the Heart's Delight",
+      "netflix": "80117770"
+    },
+    "302": {
+      "title": "One Way or Another",
+      "netflix": "80117771"
+    },
+    "303": {
+      "title": "Flipping the Switch",
+      "netflix": "80117772"
+    },
+    "304": {
+      "title": "Rules of Honorable Play",
+      "netflix": "80117773"
+    },
+    "305": {
+      "title": "Yerba Buena",
+      "netflix": "80117774"
+    },
+    "306": {
+      "title": "And She Was",
+      "netflix": "80117775"
+    },
+    "307": {
+      "title": "The Threshold",
+      "netflix": "80117776"
+    },
+    "308": {
+      "title": "You Are Not Safe",
+      "netflix": "80117777"
+    },
+    "309": {
+      "title": "NIM",
+      "netflix": "80117778"
+    },
+    "310": {
+      "title": "NeXT",
+      "netflix": "80117779"
+    },
+    "401": {
+      "title": "So It Goes",
+      "netflix": "80176357"
+    },
+    "402": {
+      "title": "Signal to Noise",
+      "netflix": "80176358"
+    },
+    "403": {
+      "title": "Miscellaneous",
+      "netflix": "80176359"
+    },
+    "404": {
+      "title": "Tonya and Nancy",
+      "netflix": "80176360"
+    },
+    "405": {
+      "title": "Nowhere Man",
+      "netflix": "80176361"
+    },
+    "406": {
+      "title": "A Connection Is Made",
+      "netflix": "80176362"
+    },
+    "407": {
+      "title": "Who Needs a Guy",
+      "netflix": "80176363"
+    },
+    "408": {
+      "title": "Goodwill",
+      "netflix": "80176364"
+    },
+    "409": {
+      "title": "Search",
+      "netflix": "80176365"
+    },
+    "410": {
+      "title": "Ten of Swords",
+      "netflix": "80176366"
+    }
+  }
+}

@@ -26,5 +26,7 @@ async function process(seasons) {
       i++;
     }
   }
-  return JSON.stringify(data);
+  let str = JSON.stringify(data);
+  console.log(str);
+  return str;
 }
