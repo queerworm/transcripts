@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+  <title>Linked TV Transcripts</title>
+  <link href="/assets/document.css" rel="stylesheet" type="text/css" />
+  <meta charset="UTF-8">
+</head>
+<body>
+<article>
+  <h1>Linked TV Transcripts</h1>
+  <h4>About</h4>
+  <p>
+    This site contains transcripts for some TV shows with links to each
+    timestamp in Netflix. This allows you search for a particular line
+    and then start watching an episode from that scene.
+  </p>
+  <h4>Shows</h4>
+  <ul>
+    <li><a href='atla'>Avatar: The Last Airbender</a></li>
+    <li><a href='lok'>The Legend of Korra</a></li>
+    <li><a href='ds9'>Star Trek: Deep Space Nine</a></li>
+  </ul>
+  <h4>FAQ</h4>
+  <b>Can you add my favorite show here?</b>
+  <p>
+    I only really plan to add shows I personally watch here, but if it's a
+    particularly popular show (especially a very quotable one), there's a
+    good chance I'll get to it eventually. I'll add instructions for how to
+    get all the necessary files for a show soon, and then anyone can submit a
+    pull request to add one.
+  </p>
+  <br/>
+  <b>Why do the episode numbers not match Netflix's?</b>
+  <p>
+    Netflix numbers episodes sequentially, but they sometimes combine multiple
+    episodes into one. For my numbering here, I give the combined episode the
+    episode number that its first part would have, and then skip the numbers
+    that subsequent parts would have if they were separate.
+  </p>
+  <br/>
+  <b>Will this site work if I'm outside the US?</b>
+  <p>
+    If a show on this site isn't available on your country's Netflix, it
+    definitely won't work. I think it's also possible that some shows may have
+    separate listings in some countries, which could also break these links for
+    you.
+  </p>
+  <br/>
+  <b>Why is the timing on this link wrong?</b>
+  <p>
+    There are a few possible culprits. For one, if you link too late into an
+    episode (usually the last few minutes), Netflix ignores the timestamp and
+    just starts the episode from the beginning.
+  </p>
+  <p>
+    It's also possible that the subtitles are out of sync with Netflix's video.
+    For shows like Avatar, where Netflix's video differs from all the home media
+    releases (they added a "previously on" segment to episodes that didn't have
+    one on the DVDs), I ripped the subtitles directly from Netflix, so the match
+    should be exact, but for shows where Netflix's video generally matches the
+    DVDs/Blu-rays I used existing SRT files.
+  </p>
+  <p>
+    This was less tedious for me, but it does mean there may be sync issues.
+    Sometimes this can be fixed with a constant offset, but other times the best
+    solution is just to rip Netflix's subtitles instead. Note: Netflix's *own*
+    subtitles can sometimes be incorrect, so using them doesn't guarantee good
+    timings.
+  </p>
+</article>
+</body>
+</html>
