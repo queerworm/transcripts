@@ -1,0 +1,310 @@
+{
+  "title": "BoJack Horseman",
+  "netflix": "70300800",
+  "episodes": {
+    "101": {
+      "title": "BoJack Horseman: The BoJack Horseman Story, Chapter One",
+      "netflix": "70298930"
+    },
+    "102": {
+      "title": "BoJack Hates the Troops",
+      "netflix": "70298931"
+    },
+    "103": {
+      "title": "Prickly-Muffin",
+      "netflix": "70298932"
+    },
+    "104": {
+      "title": "Zoës and Zeldas",
+      "netflix": "70298933"
+    },
+    "105": {
+      "title": "Live Fast, Diane Nguyen",
+      "netflix": "70298934"
+    },
+    "106": {
+      "title": "Our A-Story Is a 'D' Story",
+      "netflix": "70298935"
+    },
+    "107": {
+      "title": "Say Anything",
+      "netflix": "70298936"
+    },
+    "108": {
+      "title": "The Telescope",
+      "netflix": "70298937"
+    },
+    "109": {
+      "title": "Horse Majeure",
+      "netflix": "70298938"
+    },
+    "110": {
+      "title": "One Trick Pony",
+      "netflix": "70298939"
+    },
+    "111": {
+      "title": "Downer Ending",
+      "netflix": "70298940"
+    },
+    "112": {
+      "title": "Later",
+      "netflix": "70298941"
+    },
+    "201": {
+      "title": "Brand New Couch",
+      "netflix": "80048076"
+    },
+    "202": {
+      "title": "Yesterdayland",
+      "netflix": "80048077"
+    },
+    "203": {
+      "title": "Still Broken",
+      "netflix": "80048078"
+    },
+    "204": {
+      "title": "After the Party",
+      "netflix": "80048079"
+    },
+    "205": {
+      "title": "Chickens",
+      "netflix": "80048080"
+    },
+    "206": {
+      "title": "Higher Love",
+      "netflix": "80048081"
+    },
+    "207": {
+      "title": "Hank After Dark",
+      "netflix": "80048082"
+    },
+    "208": {
+      "title": "Let's Find Out",
+      "netflix": "80048083"
+    },
+    "209": {
+      "title": "The Shot",
+      "netflix": "80048084"
+    },
+    "210": {
+      "title": "Yes And",
+      "netflix": "80048085"
+    },
+    "211": {
+      "title": "Escape from L.A.",
+      "netflix": "80048086"
+    },
+    "212": {
+      "title": "Out to Sea",
+      "netflix": "80048087"
+    },
+    "301": {
+      "title": "Start Spreading the News",
+      "netflix": "80073217"
+    },
+    "302": {
+      "title": "The BoJack Horseman Show",
+      "netflix": "80073218"
+    },
+    "303": {
+      "title": "BoJack Kills",
+      "netflix": "80073219"
+    },
+    "304": {
+      "title": "Fish Out Of Water",
+      "netflix": "80073220"
+    },
+    "305": {
+      "title": "Love And/Or Marriage",
+      "netflix": "80073221"
+    },
+    "306": {
+      "title": "Brrap Brrap Pew Pew",
+      "netflix": "80073222"
+    },
+    "307": {
+      "title": "Stop the Presses",
+      "netflix": "80073223"
+    },
+    "308": {
+      "title": "Old Acquaintance",
+      "netflix": "80073224"
+    },
+    "309": {
+      "title": "Best Thing That Ever Happened",
+      "netflix": "80073225"
+    },
+    "310": {
+      "title": "It's You",
+      "netflix": "80073226"
+    },
+    "311": {
+      "title": "That's Too Much, Man!",
+      "netflix": "80073227"
+    },
+    "312": {
+      "title": "That Went Well",
+      "netflix": "80073228"
+    },
+    "401": {
+      "title": "See Mr. Peanutbutter Run",
+      "netflix": "80117548"
+    },
+    "402": {
+      "title": "The Old Sugarman Place",
+      "netflix": "80125581"
+    },
+    "403": {
+      "title": "Hooray! Todd Episode!",
+      "netflix": "80125582"
+    },
+    "404": {
+      "title": "Commence Fracking",
+      "netflix": "80125583"
+    },
+    "405": {
+      "title": "Thoughts and Prayers",
+      "netflix": "80125584"
+    },
+    "406": {
+      "title": "Stupid Piece of Sh*t",
+      "netflix": "80125585"
+    },
+    "407": {
+      "title": "Underground",
+      "netflix": "80125586"
+    },
+    "408": {
+      "title": "The Judge",
+      "netflix": "80125587"
+    },
+    "409": {
+      "title": "Ruthie",
+      "netflix": "80125588"
+    },
+    "410": {
+      "title": "lovin that cali lifestyle!!",
+      "netflix": "80125589"
+    },
+    "411": {
+      "title": "Time's Arrow",
+      "netflix": "80125590"
+    },
+    "412": {
+      "title": "What Time Is It Right Now",
+      "netflix": "80125591"
+    },
+    "501": {
+      "title": "The Light Bulb Scene",
+      "netflix": "80200242"
+    },
+    "502": {
+      "title": "The Dog Days Are Over",
+      "netflix": "80200243"
+    },
+    "503": {
+      "title": "Planned Obsolescence",
+      "netflix": "80200244"
+    },
+    "504": {
+      "title": "BoJack the Feminist",
+      "netflix": "80200245"
+    },
+    "505": {
+      "title": "The Amelia Earhart Story",
+      "netflix": "80200246"
+    },
+    "506": {
+      "title": "Free Churro",
+      "netflix": "80200247"
+    },
+    "507": {
+      "title": "INT. SUB",
+      "netflix": "80200248"
+    },
+    "508": {
+      "title": "Mr. Peanutbutter's Boos",
+      "netflix": "80200249"
+    },
+    "509": {
+      "title": "Ancient History",
+      "netflix": "80200250"
+    },
+    "510": {
+      "title": "Head in the Clouds",
+      "netflix": "80200251"
+    },
+    "511": {
+      "title": "The Showstopper",
+      "netflix": "80200252"
+    },
+    "512": {
+      "title": "The Stopped Show",
+      "netflix": "80200253"
+    },
+    "601": {
+      "title": "A Horse Walks into a Rehab",
+      "netflix": "80223868"
+    },
+    "602": {
+      "title": "The New Client",
+      "netflix": "81026960"
+    },
+    "603": {
+      "title": "Feel-Good Story",
+      "netflix": "81026961"
+    },
+    "604": {
+      "title": "Surprise!",
+      "netflix": "81026962"
+    },
+    "605": {
+      "title": "A Little Uneven, Is All",
+      "netflix": "81026963"
+    },
+    "606": {
+      "title": "The Kidney Stays in the Picture",
+      "netflix": "81026964"
+    },
+    "607": {
+      "title": "The Face of Depression",
+      "netflix": "81026965"
+    },
+    "608": {
+      "title": "A Quick One, While He's Away",
+      "netflix": "81026966"
+    },
+    "609": {
+      "title": "Intermediate Scene Study w/ BoJack Horseman",
+      "netflix": "81026967"
+    },
+    "610": {
+      "title": "Good Damage",
+      "netflix": "81026968"
+    },
+    "611": {
+      "title": "Sunk Cost and All That",
+      "netflix": "81026969"
+    },
+    "612": {
+      "title": "Xerox of a Xerox",
+      "netflix": "81026970"
+    },
+    "613": {
+      "title": "The Horny Unicorn",
+      "netflix": "81043628"
+    },
+    "614": {
+      "title": "Angela",
+      "netflix": "81043629"
+    },
+    "615": {
+      "title": "The View from Halfway Down",
+      "netflix": "81043630"
+    },
+    "616": {
+      "title": "Nice While It Lasted",
+      "netflix": "81043631"
+    }
+  }
+}

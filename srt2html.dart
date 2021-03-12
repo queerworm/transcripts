@@ -21,8 +21,13 @@ main() async {
       manifests[showId] = Manifest.fromFile(File('srt/$showId/manifest.json'));
     }
   }
-
-  await File('templates/index.html').copy('build/index.html');
+  var indexTemplate = await File('templates/index.html').readAsString();
+  await File('build/index.html').writeAsString(indexTemplate.replaceAll(
+      '{{shows}}',
+      [
+        for (var entry in manifests.entries.toList()..sort(compareTitles))
+          "<li><a href='${entry.key}'>${entry.value.title}</a></li>"
+      ].join('\n  ')));
 
   var template = await File('templates/transcript.html').readAsString();
   var showTemplate = await File('templates/show.html').readAsString();
@@ -51,6 +56,14 @@ main() async {
 }
 
 final manifests = <String, Manifest>{};
+
+int compareTitles(MapEntry<String, Manifest> a, MapEntry<String, Manifest> b) {
+  var titleA = a.value.title;
+  var titleB = b.value.title;
+  if (titleA.startsWith('The ')) titleA = titleA.substring(4);
+  if (titleB.startsWith('The ')) titleB = titleB.substring(4);
+  return titleA.compareTo(titleB);
+}
 
 class Manifest {
   final String title;
