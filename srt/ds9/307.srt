@@ -1,3605 +1,3847 @@
-﻿1
-00:00:14,094 --> 00:00:15,461
+1
+00:00:12,429 --> 00:00:14,765
 How's it going, Jake?
 
 2
-00:00:15,498 --> 00:00:16,592
+00:00:14,765 --> 00:00:17,852
 Fine. I've deleted
-
-3
-00:00:16,634 --> 00:00:19,334
 half the Cardassian files
 from the computer.
 
-4
-00:00:19,374 --> 00:00:21,345
+3
+00:00:17,852 --> 00:00:19,895
 I can't believe how many
 subroutines it took
 
-5
-00:00:21,379 --> 00:00:22,746
-just to run this ore processor.
+4
+00:00:19,895 --> 00:00:21,939
+just to run
+this ore processor.
 
-6
-00:00:22,783 --> 00:00:25,689
+5
+00:00:21,939 --> 00:00:24,817
 Well, it used to be
 a pretty large operation.
 
-7
-00:00:25,724 --> 00:00:27,592
+6
+00:00:24,817 --> 00:00:26,694
 When the Cardassians
 were in charge
 
-8
-00:00:27,629 --> 00:00:30,193
+7
+00:00:26,694 --> 00:00:29,237
 I understand they processed
 20,000 tons a day.
 
-9
-00:00:30,235 --> 00:00:31,602
+8
+00:00:29,237 --> 00:00:30,656
 That's a lot of ore.
 
-10
-00:00:31,640 --> 00:00:33,634
-It must've been hell in here.
+9
+00:00:30,656 --> 00:00:32,616
+It must've been
+hell in here.
 
-11
-00:00:33,678 --> 00:00:34,942
+10
+00:00:32,616 --> 00:00:34,159
 I heard stories
 
-12
-00:00:34,981 --> 00:00:37,681
+11
+00:00:34,159 --> 00:00:36,787
 the temperature
 reached 55 degrees Celsius.
 
-13
-00:00:37,721 --> 00:00:40,057
+12
+00:00:36,787 --> 00:00:38,664
 How could the Bajoran
 workers survive that?
 
-14
-00:00:40,094 --> 00:00:42,532
+13
+00:00:38,664 --> 00:00:41,082
 Oh, a lot of them didn't.
 
-15
-00:00:43,771 --> 00:00:45,366
+14
+00:00:42,459 --> 00:00:44,378
 When you've deleted
-all those files
+all those files,
 
-16
-00:00:45,409 --> 00:00:48,143
+15
+00:00:44,378 --> 00:00:46,797
 I'll show you how to download
 the new operating system.
 
-17
-00:00:48,216 --> 00:00:50,586
+16
+00:00:46,797 --> 00:00:48,924
 You really think
 we can convert this place
 
-18
-00:00:50,622 --> 00:00:52,114
+17
+00:00:48,924 --> 00:00:50,551
 into a deuterium refinery?
 
-19
-00:00:52,159 --> 00:00:53,150
+18
+00:00:50,551 --> 00:00:53,012
 Absolutely.
+It'll take
+us three...
+
+19
+00:00:53,012 --> 00:00:54,555
+maybe four
+weeks at most.
 
 20
-00:00:53,195 --> 00:00:54,391
-It'll take us three...
+00:00:54,555 --> 00:00:56,891
+I hope you're
+planning on eating
 
 21
-00:00:54,432 --> 00:00:56,062
-maybe four weeks at most.
-
-22
-00:00:56,103 --> 00:00:58,165
-I hope you're planning on eating
-
-23
-00:00:58,275 --> 00:01:00,770
+00:00:56,891 --> 00:00:59,393
 during the next
 three or four weeks.
 
-24
-00:01:00,815 --> 00:01:03,983
-Commander, I guess I lost track
+22
+00:00:59,393 --> 00:01:02,688
+Commander, I guess
+I lost track
 of the time.
 
-25
-00:01:04,023 --> 00:01:06,291
-We're almost finished, Dad.
+23
+00:01:02,688 --> 00:01:04,773
+JAKE:
+We're almost
+finished, Dad.
 
-26
-00:01:06,329 --> 00:01:08,801
+24
+00:01:04,773 --> 00:01:07,568
 Chief, I'm having a problem
 deleting one of these files.
 
-27
-00:01:08,836 --> 00:01:12,038
+25
+00:01:07,568 --> 00:01:10,654
 Have you tried reformatting
 the data cluster?
 
-28
-00:01:12,077 --> 00:01:14,139
-Yeah, but the file's still here.
+26
+00:01:10,654 --> 00:01:12,948
+Yeah, but the file's
+still here.
 
-29
-00:01:14,250 --> 00:01:15,776
+27
+00:01:12,948 --> 00:01:14,408
 Here, let me see.
 
-30
-00:01:17,692 --> 00:01:19,059
+28
+00:01:16,410 --> 00:01:17,661
 Well, that's odd.
 
-31
-00:01:19,095 --> 00:01:21,363
+29
+00:01:17,661 --> 00:01:19,872
 What's that, Chief?
 
-32
-00:01:21,402 --> 00:01:24,433
+30
+00:01:19,872 --> 00:01:22,708
 Well, the file has no name,
 no indication what it is.
 
+31
+00:01:22,708 --> 00:01:25,293
+I better set it
+aside for now.
+
+32
+00:01:25,293 --> 00:01:27,212
+I can transfer it to the
+central database in Ops,
+
 33
-00:01:24,476 --> 00:01:26,710
-I better set it aside for now.
+00:01:27,212 --> 00:01:28,547
+and analyze it
+in the morning.
 
 34
-00:01:26,749 --> 00:01:28,845
-I can transfer it
-to the central database in Ops
-
-35
-00:01:28,888 --> 00:01:30,221
-and analyze it in the morning.
-
-36
-00:01:32,898 --> 00:01:34,026
+00:01:30,007 --> 00:01:32,426
+(<i> console beeping</i> )
 Wait a minute.
 
-37
-00:01:34,068 --> 00:01:35,971
+35
+00:01:32,426 --> 00:01:34,386
+COMPUTER:
 Unauthorized computer entry
 
-38
-00:01:36,006 --> 00:01:39,174
+36
+00:01:34,386 --> 00:01:37,431
 detected
 in Ore Processing Unit 5.
 
-39
-00:01:39,214 --> 00:01:40,649
+37
+00:01:37,431 --> 00:01:38,807
 Enter access code.
 
-40
-00:01:42,757 --> 00:01:44,090
+38
+00:01:40,434 --> 00:01:42,477
+(<i> keyboard beeping</i> )
 Incorrect code.
 
-41
-00:01:44,127 --> 00:01:47,864
+39
+00:01:42,477 --> 00:01:45,689
 You have five seconds
 to enter correct access code.
 
-42
-00:01:47,903 --> 00:01:48,894
+40
+00:01:45,689 --> 00:01:47,190
 Or what?
 
-43
-00:01:48,940 --> 00:01:52,278
+41
+00:01:47,190 --> 00:01:50,569
 I don't know,
 but I better stop it.
 
-44
-00:01:57,729 --> 00:01:59,255
+42
+00:01:51,486 --> 00:01:53,280
+(<i> alarm sounding</i> )
+
+43
+00:01:55,991 --> 00:01:57,743
+COMPUTER:
 Warning.
 
-45
-00:01:59,367 --> 00:02:02,865
+44
+00:01:57,743 --> 00:02:01,288
 Worker revolt in progress
 in Ore Processing Unit 5.
 
-46
-00:02:02,909 --> 00:02:05,347
+45
+00:02:01,288 --> 00:02:03,665
 Security countermeasures
 initiated.
 
-47
-00:02:05,382 --> 00:02:07,410
+46
+00:02:03,665 --> 00:02:06,668
 What the hell?
 
-48
-00:02:08,457 --> 00:02:11,898
+47
+00:02:06,668 --> 00:02:10,338
 Bajoran workers,
 your attention, please.
 
-49
-00:02:11,933 --> 00:02:14,964
+48
+00:02:10,338 --> 00:02:13,174
 Your attempt to seize
 control of this facility
 
-50
-00:02:15,008 --> 00:02:16,375
+49
+00:02:13,174 --> 00:02:14,843
 is going to fail.
 
-51
-00:02:16,411 --> 00:02:19,681
+50
+00:02:14,843 --> 00:02:17,972
 You are valuable workers,
 and we wish you no harm.
 
-52
-00:02:19,720 --> 00:02:22,694
+51
+00:02:17,972 --> 00:02:20,975
 However, if you do not
 return control of this unit
 
-53
-00:02:22,728 --> 00:02:24,596
-to your Cardassian supervisors
+52
+00:02:20,975 --> 00:02:22,851
+to your Cardassian
+supervisors,
 
-54
-00:02:24,632 --> 00:02:26,660
+53
+00:02:22,851 --> 00:02:24,937
 we will be forced
 to take action.
 
-55
-00:02:26,704 --> 00:02:30,237
+54
+00:02:24,937 --> 00:02:28,523
 You have eight minutes
 to make your decision.
 
-56
-00:04:31,006 --> 00:04:33,444
+55
+00:04:30,145 --> 00:04:32,606
 The computer's engaged
 the magnetic seal.
 
-57
-00:04:33,479 --> 00:04:34,812
+56
+00:04:32,606 --> 00:04:33,982
 I can't override it.
 
-58
-00:04:34,849 --> 00:04:36,011
+57
+00:04:33,982 --> 00:04:35,067
+KIRA:
 Ops to Sisko.
 
-59
-00:04:36,052 --> 00:04:37,180
+58
+00:04:35,067 --> 00:04:36,443
 Go ahead.
 
-60
-00:04:37,222 --> 00:04:39,022
+59
+00:04:36,443 --> 00:04:38,319
 Commander, what is
 going on down there?
 
-61
-00:04:39,060 --> 00:04:42,057
+60
+00:04:38,319 --> 00:04:41,406
 We just got a recorded message
 from Gul Dukat
 
-62
-00:04:42,102 --> 00:04:44,096
+61
+00:04:41,406 --> 00:04:43,242
 regarding some worker revolt
 in the ore processing facility?
 
-63
-00:04:44,140 --> 00:04:46,202
+62
+00:04:43,242 --> 00:04:45,869
 We saw the same message.
 
-64
-00:04:46,245 --> 00:04:47,805
+63
+00:04:45,869 --> 00:04:47,871
 It seems we've tripped
 
-65
-00:04:47,850 --> 00:04:50,949
+64
+00:04:47,871 --> 00:04:50,624
 some kind of automated security
 program the Cardassians left.
 
-66
-00:04:50,991 --> 00:04:52,221
+65
+00:04:50,624 --> 00:04:52,084
 We're locked in.
 
-67
-00:04:52,261 --> 00:04:54,255
-Oh, we'll beam you out of there.
+66
+00:04:52,084 --> 00:04:54,169
+Oh, we'll beam you
+out of there.
 
-68
-00:04:54,299 --> 00:04:56,395
+67
+00:04:54,169 --> 00:04:56,130
+COMPUTER:
 Enter access code.
 
-69
-00:04:56,439 --> 00:04:58,467
+68
+00:04:56,130 --> 00:04:58,423
 What?
 
-70
-00:04:58,511 --> 00:05:00,983
+69
+00:04:58,423 --> 00:05:00,759
 If this security program
 thinks there's been
 
-71
-00:05:01,017 --> 00:05:02,715
+70
+00:05:00,759 --> 00:05:02,552
 some kind of worker's revolt,
 then it must think
 
-72
-00:05:02,755 --> 00:05:04,419
+71
+00:05:02,552 --> 00:05:04,429
 this station is still
 under Cardassian rule.
 
-73
-00:05:04,459 --> 00:05:06,727
+72
+00:05:04,429 --> 00:05:06,640
 So it's probably waiting for us
 to enter an emergency code.
 
-74
-00:05:06,765 --> 00:05:09,431
+73
+00:05:06,640 --> 00:05:09,268
 One that the Cardassians
 never bothered to give us
 
-75
-00:05:09,472 --> 00:05:10,600
+74
+00:05:09,268 --> 00:05:10,351
 when they left.
 
-76
-00:05:10,642 --> 00:05:11,702
+75
+00:05:10,351 --> 00:05:12,854
 Odo to Ops.
-
-77
-00:05:11,745 --> 00:05:12,941
 Kira here.
 
-78
-00:05:12,981 --> 00:05:15,681
+76
+00:05:12,854 --> 00:05:15,440
 My Cardassian access codes
 are still valid.
 
-79
-00:05:15,721 --> 00:05:18,695
+77
+00:05:15,440 --> 00:05:18,443
 I'm attempting to override
-the security program
+the security program,
 
-80
-00:05:18,729 --> 00:05:20,096
+78
+00:05:18,443 --> 00:05:20,028
 but it's going
 to take some time.
 
-81
-00:05:20,133 --> 00:05:22,833
+79
+00:05:20,028 --> 00:05:22,239
 I'm not sure my clearance level
 is high enough.
 
-82
-00:05:22,874 --> 00:05:23,865
+80
+00:05:22,239 --> 00:05:24,032
+KIRA:
 Well, keep at it.
 
-83
-00:05:23,909 --> 00:05:25,709
+81
+00:05:24,032 --> 00:05:25,533
 We'll try to do the same thing
 from up here.
 
-84
-00:05:25,747 --> 00:05:26,909
+82
+00:05:25,533 --> 00:05:27,702
 Acknowledged.
 
-85
-00:05:28,455 --> 00:05:31,554
-Odo, do you mind telling me
+83
+00:05:27,702 --> 00:05:29,746
+Odo, do you
+mind telling me
+
+84
+00:05:29,746 --> 00:05:31,623
 what this is all about?
 
-86
-00:05:31,597 --> 00:05:34,365
-That message from Dukat
-is making my customers nervous.
+85
+00:05:31,623 --> 00:05:34,209
+That message from
+Dukat is making my
+customers nervous.
 
-87
-00:05:34,403 --> 00:05:36,169
+86
+00:05:34,209 --> 00:05:35,919
 And when they're nervous,
 they're not...
 
-88
-00:05:36,242 --> 00:05:37,175
+87
+00:05:35,919 --> 00:05:36,878
 Not now, Quark.
 
-89
-00:05:37,245 --> 00:05:39,113
+88
+00:05:36,878 --> 00:05:38,964
 I'm busy.
 
-90
-00:05:39,149 --> 00:05:41,017
+89
+00:05:38,964 --> 00:05:40,924
 Well, is there anything
 I can do to help?
 
-91
-00:05:41,054 --> 00:05:42,387
+90
+00:05:40,924 --> 00:05:42,383
 Not unless you have
 
-92
-00:05:42,424 --> 00:05:45,694
+91
+00:05:42,383 --> 00:05:45,179
 a level 9 Cardassian
 security clearance.
 
-93
-00:05:45,733 --> 00:05:47,100
+92
+00:05:45,179 --> 00:05:46,972
 Let's see.
 
-94
-00:05:47,137 --> 00:05:50,202
+93
+00:05:46,972 --> 00:05:50,017
 I think I have everything
 from levels 1 through 7.
 
-95
-00:05:50,279 --> 00:05:54,051
-I only have levels 1 through 6.
+94
+00:05:50,017 --> 00:05:53,520
+I only have
+levels 1 through 6.
 
-96
-00:05:54,088 --> 00:05:56,059
+95
+00:05:53,520 --> 00:05:55,522
 Well.
 If you'd like a level 7
 
-97
-00:05:56,093 --> 00:05:58,793
+96
+00:05:55,522 --> 00:05:58,317
 I'm sure we can make
 some kind of arrangement.
 
-98
-00:05:58,833 --> 00:06:00,200
+97
+00:05:58,317 --> 00:05:59,526
 Leave me alone, Quark.
 
-99
-00:06:00,237 --> 00:06:02,401
+98
+00:05:59,526 --> 00:06:01,987
 Oh, no.
 
-100
-00:06:02,443 --> 00:06:05,007
+99
+00:06:01,987 --> 00:06:04,531
 There's something
-very wrong going on
+very wrong going on,
 
-101
-00:06:05,050 --> 00:06:08,183
+100
+00:06:04,531 --> 00:06:07,826
 and this is the safest place
 in the whole station.
 
-102
-00:06:08,258 --> 00:06:11,756
+101
+00:06:07,826 --> 00:06:11,288
 I think I'll stay right here.
 
-103
-00:06:11,801 --> 00:06:12,861
+102
+00:06:11,288 --> 00:06:13,332
 Any luck?
 
-104
-00:06:12,904 --> 00:06:14,203
+103
+00:06:13,332 --> 00:06:15,000
 Nothing.
 
-105
-00:06:14,240 --> 00:06:18,080
+104
+00:06:15,000 --> 00:06:17,544
 It's probably magnetically
 sealed, like the door.
 
-106
-00:06:18,117 --> 00:06:20,749
+105
+00:06:17,544 --> 00:06:20,255
 We'd need a phaser
 to blast it open.
 
-107
-00:06:20,790 --> 00:06:22,350
+106
+00:06:20,255 --> 00:06:22,007
 Well, there's no way
 
-108
-00:06:22,395 --> 00:06:25,061
+107
+00:06:22,007 --> 00:06:24,592
 I can disable
 the program from here.
 
-109
-00:06:25,102 --> 00:06:26,537
-Bajoran workers
+108
+00:06:24,592 --> 00:06:26,553
+DUKAT:
+Bajoran workers,
 
-110
-00:06:26,573 --> 00:06:29,672
+109
+00:06:26,553 --> 00:06:29,348
 your time is running out,
 but it's not too late.
 
-111
-00:06:29,714 --> 00:06:33,155
+110
+00:06:29,348 --> 00:06:32,517
 You can still surrender
 and save your lives.
 
-112
-00:06:37,567 --> 00:06:43,607
+111
+00:06:37,147 --> 00:06:43,028
 Computer, this is the leader
 of the Bajoran workers.
 
-113
-00:06:43,650 --> 00:06:45,280
+112
+00:06:43,028 --> 00:06:44,654
 We surrender.
 
-114
-00:06:46,992 --> 00:06:51,493
+113
+00:06:46,365 --> 00:06:48,825
+DUKAT:
 I'm glad to see
+
+114
+00:06:48,825 --> 00:06:50,869
 you've come to your senses.
 
 115
-00:06:51,537 --> 00:06:53,508
+00:06:50,869 --> 00:06:52,871
 Stay where you are.
 
 116
-00:06:53,543 --> 00:06:55,103
-When Cardassian Security arrives
+00:06:52,871 --> 00:06:54,539
+When Cardassian Security
+arrives,
 
 117
-00:06:55,146 --> 00:06:57,208
-they will place you into custody
+00:06:54,539 --> 00:06:56,750
+they will place you
+into custody,
 
 118
-00:06:57,252 --> 00:06:59,416
+00:06:56,750 --> 00:06:58,752
 but you will not be harmed.
 
 119
-00:06:59,458 --> 00:07:01,588
+00:06:58,752 --> 00:07:01,004
 You have my word.
 
 120
-00:07:01,630 --> 00:07:03,533
+00:07:01,004 --> 00:07:02,964
 For whatever that's worth.
 
 121
-00:07:03,569 --> 00:07:04,560
+00:07:02,964 --> 00:07:04,007
 Now what?
 
 122
-00:07:04,604 --> 00:07:06,700
+00:07:04,007 --> 00:07:06,093
+SISKO:
 Well, it sounds like
 
 123
-00:07:06,743 --> 00:07:10,115
+00:07:06,093 --> 00:07:09,596
 the program is going to wait
 for Cardassian security
 
 124
-00:07:10,152 --> 00:07:12,020
-to enter the all-clear protocol.
+00:07:09,596 --> 00:07:11,472
+to enter the
+all-clear protocol.
 
 125
-00:07:12,057 --> 00:07:15,555
+00:07:11,472 --> 00:07:13,808
 That'll give us
 a few minutes anyway.
 
 126
-00:07:19,075 --> 00:07:20,271
+00:07:18,563 --> 00:07:19,856
 What's in here?
 
 127
-00:07:20,311 --> 00:07:21,975
-Nothing at the moment.
+00:07:19,856 --> 00:07:21,482
+Nothing at
+the moment.
 
 128
-00:07:22,016 --> 00:07:24,454
+00:07:21,482 --> 00:07:23,985
 Processed uridium used
 to pour down that pipe
 
 129
-00:07:24,489 --> 00:07:28,865
-to a secondary refining facility
-in Level 33 and be purified.
+00:07:23,985 --> 00:07:25,862
+to a secondary
+refining facility
 
 130
-00:07:30,605 --> 00:07:31,631
-It's not locked.
+00:07:25,862 --> 00:07:28,115
+in Level 33
+and be purified.
 
 131
-00:07:31,675 --> 00:07:33,737
-Since that pipe was filled
-with molten uridium
+00:07:29,657 --> 00:07:31,201
+It's not locked.
 
 132
-00:07:33,780 --> 00:07:35,580
+00:07:31,201 --> 00:07:33,287
+Since that pipe was filled
+with molten uridium,
+
+133
+00:07:33,287 --> 00:07:35,080
 there wasn't any need
 for security measures.
 
-133
-00:07:35,618 --> 00:07:38,090
+134
+00:07:35,080 --> 00:07:37,582
 Well, it's too narrow
 for anyone to escape through.
 
-134
-00:07:38,125 --> 00:07:39,594
+135
+00:07:37,582 --> 00:07:40,043
 I can get in there.
 
-135
-00:07:40,765 --> 00:07:43,603
-Chief, if he can crawl
-up this pipe into the machine
-
 136
-00:07:43,639 --> 00:07:47,844
-can he get to the ore shoot
-and open that hatch from inside?
+00:07:40,043 --> 00:07:42,963
+Chief, if he can crawl
+up this pipe into the machine,
 
 137
-00:07:49,855 --> 00:07:52,761
+00:07:42,963 --> 00:07:44,672
+can he get
+to the ore chute
+
+138
+00:07:44,672 --> 00:07:47,050
+and open that hatch
+from inside?
+
+139
+00:07:49,136 --> 00:07:51,930
+DUKAT:
 Bajoran workers,
 you have not surrendered
 
-138
-00:07:52,796 --> 00:07:54,197
+140
+00:07:51,930 --> 00:07:53,348
 to Cardassian security.
 
-139
-00:07:54,233 --> 00:07:57,766
+141
+00:07:53,348 --> 00:07:56,893
 If you do not do so
-in the next three minutes
+in the next three minutes,
 
-140
-00:07:57,809 --> 00:08:00,977
+142
+00:07:56,893 --> 00:08:00,105
 I will be forced
 to release neurocine gas
 
-141
-00:08:01,017 --> 00:08:03,855
+143
+00:08:00,105 --> 00:08:03,108
 into the ore processing
 facility.
 
-142
-00:08:03,891 --> 00:08:06,021
+144
+00:08:03,108 --> 00:08:05,068
 I can do it.
 
-143
-00:08:15,354 --> 00:08:16,846
-Bajoran workers
+145
+00:08:14,577 --> 00:08:16,204
+DUKAT:
+Bajoran workers,
 
-144
-00:08:16,892 --> 00:08:21,199
+146
+00:08:16,204 --> 00:08:20,375
 you have two minutes left
 to give yourselves up
 
-145
-00:08:21,237 --> 00:08:24,804
+147
+00:08:20,375 --> 00:08:23,962
 to your Cardassian overseers
 and save your lives.
 
-146
-00:08:24,845 --> 00:08:26,405
+148
+00:08:23,962 --> 00:08:25,588
 Can you hear me, Jake?
 
-147
-00:08:26,450 --> 00:08:28,649
+149
+00:08:25,588 --> 00:08:27,966
+JAKE:
 Loud and clear,
 but I can't see a thing.
 
-148
-00:08:28,690 --> 00:08:31,721
+150
+00:08:27,966 --> 00:08:30,969
 There should be a large circular
 opening to your right.
 
-149
-00:08:31,764 --> 00:08:34,066
+151
+00:08:30,969 --> 00:08:33,221
+JAKE:
 Okay, let me see
 if I can find it.
 
-150
-00:08:34,103 --> 00:08:38,102
-Even if you were
-to escape this station...
-
-151
-00:08:39,116 --> 00:08:40,085
-Ow!
-
 152
-00:08:40,119 --> 00:08:41,452
-Jake-o, you all right?
+00:08:33,221 --> 00:08:35,098
+DUKAT:
+Even if you were
 
 153
-00:08:41,522 --> 00:08:44,462
+00:08:35,098 --> 00:08:37,267
+to escape this station...
+
+154
+00:08:37,267 --> 00:08:38,185
+(<i> metallic thud</i> )
+
+155
+00:08:38,185 --> 00:08:39,269
+JAKE:
+Ow!
+
+156
+00:08:39,269 --> 00:08:41,021
+SISKO:
+Jake-o, you all right?
+
+157
+00:08:41,021 --> 00:08:43,648
+JAKE:
 Yeah, I just banged
 my head on something.
 
-154
-00:08:44,497 --> 00:08:46,127
+158
+00:08:43,648 --> 00:08:45,233
+DUKAT:
 ...back to Bajor?
 
-155
-00:08:46,168 --> 00:08:47,194
+159
+00:08:45,233 --> 00:08:46,401
+JAKE:
 Wait a second.
 
-156
-00:08:47,237 --> 00:08:48,604
+160
+00:08:46,401 --> 00:08:47,819
 There's a junction here.
 
-157
-00:08:48,640 --> 00:08:51,340
+161
+00:08:47,819 --> 00:08:50,571
 It feels like it goes
 off in two directions.
 
-158
-00:08:51,381 --> 00:08:53,819
+162
+00:08:50,571 --> 00:08:52,907
 Which way do I go?
 
-159
-00:08:53,855 --> 00:08:55,381
-Follow this sound, Jake.
+163
+00:08:52,907 --> 00:08:54,617
+Follow this
+sound, Jake.
 
-160
-00:08:56,863 --> 00:08:59,392
+164
+00:08:54,617 --> 00:08:55,827
+(<i> banging</i> )
+
+165
+00:08:55,827 --> 00:08:58,621
+JAKE:
 Do it again, Dad.
 
-161
-00:09:01,374 --> 00:09:02,400
+166
+00:08:58,621 --> 00:09:00,499
+(<i> banging</i> )
+
+167
+00:09:00,499 --> 00:09:01,666
+JAKE:
 Got it.
 
-162
-00:09:02,444 --> 00:09:03,936
+168
+00:09:01,666 --> 00:09:03,126
 I'm in the chute.
 
-163
-00:09:03,981 --> 00:09:07,217
+169
+00:09:03,126 --> 00:09:05,962
 There should be
 a small access port
 
-164
-00:09:07,256 --> 00:09:08,691
+170
+00:09:05,962 --> 00:09:07,714
 on one of the walls.
 
-165
-00:09:08,727 --> 00:09:09,889
+171
+00:09:07,714 --> 00:09:09,341
+JAKE:
 Found it.
 
-166
-00:09:09,929 --> 00:09:14,134
+172
+00:09:09,341 --> 00:09:12,927
 Open the hatch
 and feel around inside
-
-167
-00:09:14,174 --> 00:09:15,143
 for a handle.
 
-168
-00:09:15,177 --> 00:09:16,578
+173
+00:09:12,927 --> 00:09:15,305
 It should be shaped
 like a stirrup.
 
-169
-00:09:18,185 --> 00:09:19,245
+174
+00:09:15,305 --> 00:09:17,598
+(<i> Dukat continues speaking</i> )
+
+175
+00:09:17,598 --> 00:09:20,101
 You know, I never knew
+how much this man's
+voice annoyed me.
 
-170
-00:09:19,287 --> 00:09:21,087
-how much this man's voice
-annoyed me.
-
-171
-00:09:21,125 --> 00:09:24,999
+176
+00:09:20,101 --> 00:09:24,147
+JAKE:
 I can reach it,
-but I can't get ahold of it.
+but I can't get a hold of it.
 
-172
-00:09:25,036 --> 00:09:27,200
+177
+00:09:24,147 --> 00:09:26,358
 You have to pull
 the handle down, Jake.
 
-173
-00:09:27,241 --> 00:09:29,509
-It's the release for the hatch.
+178
+00:09:26,358 --> 00:09:28,693
+It's the release
+for the hatch.
 
-174
-00:09:29,614 --> 00:09:31,676
-I'm trying!
-I can't...
+179
+00:09:28,693 --> 00:09:30,945
+JAKE:
+I'm trying! I can't...
 
-175
-00:09:31,719 --> 00:09:33,120
-Don't, don't tense up.
+180
+00:09:30,945 --> 00:09:32,322
+SISKO:
+Don't tense up.
 
-176
-00:09:33,157 --> 00:09:34,490
+181
+00:09:32,322 --> 00:09:33,656
 Relax.
 
-177
-00:09:34,527 --> 00:09:37,831
-Now just take a deep breath
-and try again.
+182
+00:09:33,656 --> 00:09:37,035
+Now just take a deep
+breath and try again.
 
-178
-00:09:37,869 --> 00:09:41,641
+183
+00:09:37,035 --> 00:09:40,872
 I'm sorry,
 but your time has run out.
 
-179
-00:09:41,678 --> 00:09:45,279
+184
+00:09:40,872 --> 00:09:44,418
 I was hoping
 you would be reasonable.
 
-180
-00:09:45,321 --> 00:09:49,856
+185
+00:09:44,418 --> 00:09:49,130
 Rest assured that your deaths
 will serve as an example
 
-181
-00:09:49,900 --> 00:09:54,367
+186
+00:09:49,130 --> 00:09:53,343
 to prevent similar
 incidents in the future.
 
-182
-00:09:56,284 --> 00:09:58,152
+187
+00:09:55,387 --> 00:09:57,055
 I got it!
 
-183
-00:10:10,119 --> 00:10:11,281
+188
+00:10:09,192 --> 00:10:10,651
 Dax!
 
-184
-00:10:13,227 --> 00:10:16,326
+189
+00:10:12,195 --> 00:10:15,407
 Maybe if we bypass
 the primary command pathway
 
-185
-00:10:16,369 --> 00:10:18,363
+190
+00:10:15,407 --> 00:10:17,576
 and cross-connect
 the backup with the ODN.
 
-186
-00:10:18,407 --> 00:10:23,648
+191
+00:10:17,576 --> 00:10:22,789
+COMPUTER:
 Warning. Workers have escaped
 from Ore Processing Unit 5.
 
-187
-00:10:23,687 --> 00:10:25,749
+192
+00:10:22,789 --> 00:10:24,749
 Initiating station-wide
 counterinsurgency program.
 
-188
-00:10:30,740 --> 00:10:32,472
+193
+00:10:24,749 --> 00:10:26,626
+(<i> alarm blares</i> )
+
+194
+00:10:29,629 --> 00:10:31,381
 Now what?
 
-189
-00:10:33,813 --> 00:10:36,878
+195
+00:10:32,882 --> 00:10:36,052
+DUKAT:
 Attention, Bajoran workers.
 
-190
-00:10:36,921 --> 00:10:40,123
+196
+00:10:36,052 --> 00:10:39,055
 I will not allow
 this rebellion to succeed.
 
-191
-00:10:40,164 --> 00:10:42,796
+197
+00:10:39,055 --> 00:10:41,933
 If you do not
-surrender immediately
+surrender immediately,
 
-192
-00:10:42,837 --> 00:10:47,406
+198
+00:10:41,933 --> 00:10:46,271
 I will be forced to kill
 every Bajoran on this station.
 
-193
-00:11:07,535 --> 00:11:09,438
+199
+00:10:57,407 --> 00:11:01,244
+(<i> grunting and scuffling</i> )
+
+200
+00:11:06,707 --> 00:11:08,709
 Wait a second.
 I found something.
 
-194
-00:11:09,474 --> 00:11:10,534
+201
+00:11:08,709 --> 00:11:10,253
+SISKO:
 What is it?
 
-195
-00:11:10,577 --> 00:11:12,741
+202
+00:11:10,253 --> 00:11:13,089
 I don't know.
 Some kind of room.
 
-196
-00:11:14,153 --> 00:11:15,281
+203
+00:11:13,089 --> 00:11:15,216
 It sure is dirty.
 
-197
-00:11:16,926 --> 00:11:18,624
+204
+00:11:15,216 --> 00:11:18,637
 Doesn't smell too good either.
 
-198
-00:11:21,004 --> 00:11:23,499
-Looks like some kind
-of loading bay.
+205
+00:11:20,305 --> 00:11:23,391
+SISKO:
+Looks like some
+kind of loading bay.
 
-199
-00:11:28,122 --> 00:11:29,752
+206
+00:11:27,228 --> 00:11:28,896
 You're right.
 
-200
-00:11:29,860 --> 00:11:33,427
-This is where the uridium ore
-was separated from the rock.
+207
+00:11:28,896 --> 00:11:30,898
+This is where
+the uridium ore
 
-201
-00:11:33,470 --> 00:11:35,134
+208
+00:11:30,898 --> 00:11:32,567
+was separated
+from the rock.
+
+209
+00:11:32,567 --> 00:11:34,194
 Then it would be
 dumped down that chute
 
-202
-00:11:35,175 --> 00:11:36,770
-to the processing facility.
+210
+00:11:34,194 --> 00:11:36,737
+to the processing
+facility.
 
-203
-00:11:41,223 --> 00:11:42,419
+211
+00:11:38,448 --> 00:11:40,367
+(<i> banging</i> )
+
+212
+00:11:40,367 --> 00:11:41,618
 Locked.
 
-204
-00:11:42,460 --> 00:11:44,694
+213
+00:11:41,618 --> 00:11:43,953
 Chief, is there
 another way out of here?
 
-205
-00:11:44,732 --> 00:11:46,396
-Just back down that chute.
+214
+00:11:43,953 --> 00:11:45,580
+Just back down
+that chute.
 
-206
-00:11:46,436 --> 00:11:49,170
-You know where that leads to.
+215
+00:11:45,580 --> 00:11:48,291
+You know where
+that leads to.
 
-207
-00:11:49,211 --> 00:11:52,709
+216
+00:11:48,291 --> 00:11:51,710
 Sisko to Ops.
 
-208
-00:11:52,753 --> 00:11:54,017
+217
+00:11:51,710 --> 00:11:53,087
 Sisko to Security.
 
-209
-00:11:54,057 --> 00:11:55,026
+218
+00:11:53,087 --> 00:11:55,215
 Try yours.
 
-210
-00:11:55,059 --> 00:11:57,030
+219
+00:11:55,215 --> 00:11:57,175
 O'Brien to Ops.
 
-211
-00:11:57,064 --> 00:11:59,434
+220
+00:11:57,175 --> 00:11:59,594
 Jake Sisko to anyone
 who can hear me.
 
-212
-00:11:59,470 --> 00:12:02,342
-Something must be interfering
+221
+00:11:59,594 --> 00:12:02,556
+Something must
+be interfering
 with the signal.
 
-213
-00:12:06,489 --> 00:12:08,221
+222
+00:12:06,725 --> 00:12:09,396
 What do we do now?
 
-214
-00:12:09,496 --> 00:12:10,590
+223
+00:12:09,396 --> 00:12:11,064
 It's no good.
 
-215
-00:12:10,633 --> 00:12:12,935
+224
+00:12:11,064 --> 00:12:12,731
 We're completely cut off
 from the rest of the station.
 
-216
-00:12:12,972 --> 00:12:14,339
+225
+00:12:12,731 --> 00:12:14,234
+BASHIR:
 There must be some kind
 
-217
-00:12:14,376 --> 00:12:16,040
+226
+00:12:14,234 --> 00:12:15,943
 of general dampening field
 in place.
 
-218
-00:12:16,080 --> 00:12:18,142
+227
+00:12:15,943 --> 00:12:17,987
 It must be disrupting
 communications.
 
-219
-00:12:18,185 --> 00:12:19,586
+228
+00:12:17,987 --> 00:12:19,322
 All right.
 
-220
-00:12:21,093 --> 00:12:23,565
-It's time
-for a less subtle approach.
+229
+00:12:20,823 --> 00:12:23,284
+It's time for a less
+subtle approach.
 
-221
-00:12:27,677 --> 00:12:28,668
+230
+00:12:27,330 --> 00:12:28,415
 Doctor.
 
-222
-00:12:39,775 --> 00:12:42,613
-Ah, the Cardassians
-don't miss a trick, do they?
+231
+00:12:39,634 --> 00:12:42,429
+Ah, the Cardassians don't
+miss a trick, do they?
 
-223
-00:12:42,649 --> 00:12:44,381
+232
+00:12:42,429 --> 00:12:44,138
+DAX:
 The ironic thing is
 
-224
-00:12:44,420 --> 00:12:46,414
+233
+00:12:44,138 --> 00:12:46,224
 that field is probably there
 to protect Ops
 
-225
-00:12:46,459 --> 00:12:48,225
+234
+00:12:46,224 --> 00:12:47,934
 from the hordes
 of rebelling Bajorans.
 
-226
-00:12:48,263 --> 00:12:50,063
-Well, we've got to find a way
+235
+00:12:47,934 --> 00:12:49,810
+KIRA:
+Well, we've got
+to find a way
 
-227
-00:12:50,102 --> 00:12:51,571
+236
+00:12:49,810 --> 00:12:51,438
 of disabling
 the security program
 
-228
-00:12:51,606 --> 00:12:53,840
+237
+00:12:51,438 --> 00:12:53,772
 or a lot of people
 are going to get killed.
 
-229
-00:12:53,878 --> 00:12:56,544
+238
+00:12:53,772 --> 00:12:56,317
 If we can regain
-control of the main computer
+control of the main computer,
 
-230
-00:12:56,586 --> 00:12:59,388
+239
+00:12:56,317 --> 00:12:59,237
 we may be able to wipe
 the security program
 
-231
-00:12:59,426 --> 00:13:00,622
+240
+00:12:59,237 --> 00:13:00,821
 from its memory.
 
-232
-00:13:00,663 --> 00:13:04,298
+241
+00:13:00,821 --> 00:13:03,742
 Now, if I can reroute
 the APT relay
 
-233
-00:13:04,339 --> 00:13:05,672
-through the secondary buffer
+242
+00:13:03,742 --> 00:13:05,535
+through the secondary buffer,
 
-234
-00:13:05,709 --> 00:13:08,375
+243
+00:13:05,535 --> 00:13:08,204
 I might get an independent
 terminal working.
 
-235
-00:13:08,416 --> 00:13:10,650
+244
+00:13:08,204 --> 00:13:10,498
 You know, I've been here
-nearly three years
+nearly three years,
 
-236
-00:13:10,689 --> 00:13:12,888
+245
+00:13:10,498 --> 00:13:12,626
 and I was just finally
 starting to think
 
-237
-00:13:12,928 --> 00:13:14,488
+246
+00:13:12,626 --> 00:13:14,377
 of this place as home.
 
-238
-00:13:14,532 --> 00:13:17,232
+247
+00:13:14,377 --> 00:13:17,046
 Your "home" was built
 by Cardassians, Doctor.
 
-239
-00:13:17,273 --> 00:13:18,903
+248
+00:13:17,046 --> 00:13:18,757
 Don't ever forget that.
 
-240
-00:13:18,943 --> 00:13:21,643
+249
+00:13:18,757 --> 00:13:21,426
 Well, there's not much chance
 of that, is there?
 
-241
-00:13:21,684 --> 00:13:24,556
-What do you mean, we're trapped?
+250
+00:13:21,426 --> 00:13:24,387
+What do you mean,
+we're trapped?
 
-242
-00:13:24,591 --> 00:13:27,325
+251
+00:13:24,387 --> 00:13:27,140
 I mean, we're trapped.
 
-243
-00:13:27,365 --> 00:13:28,857
+252
+00:13:27,140 --> 00:13:28,767
 I wouldn't be surprised
 
-244
-00:13:28,902 --> 00:13:31,272
+253
+00:13:28,767 --> 00:13:30,977
 if the entire station
 is locked down.
 
-245
-00:13:31,309 --> 00:13:33,280
-But you're a shape-shifter.
+254
+00:13:30,977 --> 00:13:33,104
+QUARK:
+But you're
+a shape-shifter.
 
-246
-00:13:33,314 --> 00:13:36,379
+255
+00:13:33,104 --> 00:13:36,190
 Excuse me, a changeling.
 
-247
-00:13:36,422 --> 00:13:39,054
+256
+00:13:36,190 --> 00:13:38,901
 So change into something
 and get us out of here.
 
-248
-00:13:39,095 --> 00:13:42,536
+257
+00:13:38,901 --> 00:13:42,280
 This force field isn't
 just protecting the door.
 
-249
-00:13:42,571 --> 00:13:45,545
+258
+00:13:42,280 --> 00:13:45,032
 It goes through the bulkheads,
 the ceiling, the deck.
 
-250
-00:13:45,579 --> 00:13:46,912
-There's nowhere for me to go.
+259
+00:13:45,032 --> 00:13:46,660
+There's nowhere
+for me to go.
 
-251
-00:13:46,949 --> 00:13:48,977
+260
+00:13:46,660 --> 00:13:48,745
 You're telling me
 I'm stuck here...
 
-252
-00:13:49,088 --> 00:13:50,922
+261
+00:13:48,745 --> 00:13:50,622
 with you?
 
-253
-00:13:50,959 --> 00:13:52,223
+262
+00:13:50,622 --> 00:13:51,956
 No...
 
-254
-00:13:52,263 --> 00:13:54,997
-I'm stuck here with you.
+263
+00:13:51,956 --> 00:13:54,917
+I'm stuck here with<i> you.</i>
 
-255
-00:13:55,037 --> 00:13:57,635
+264
+00:13:54,917 --> 00:13:57,253
 Believe me, a far worse fate.
 
-256
-00:14:01,320 --> 00:14:04,488
+265
+00:13:59,880 --> 00:14:01,048
+(<i> keyboard beeping</i> )
+
+266
+00:14:01,048 --> 00:14:04,135
 And stay away from my computer!
 
-257
-00:14:14,321 --> 00:14:15,347
+267
+00:14:07,472 --> 00:14:08,807
+(<i> grunting</i> )
+
+268
+00:14:14,103 --> 00:14:15,689
 Again!
 
-258
-00:14:18,030 --> 00:14:19,625
+269
+00:14:17,691 --> 00:14:19,275
 Oh, okay. Hold on.
 
-259
-00:14:23,477 --> 00:14:25,003
+270
+00:14:23,237 --> 00:14:24,781
+JAKE:
 Anything?
 
-260
-00:14:25,082 --> 00:14:27,782
+271
+00:14:24,781 --> 00:14:27,575
 Not even a dent.
 
-261
-00:14:27,822 --> 00:14:30,921
+272
+00:14:27,575 --> 00:14:30,620
 There has to be something
 else we can do.
 
-262
-00:14:33,069 --> 00:14:34,869
-What about all this ore?
+273
+00:14:32,706 --> 00:14:34,541
+What about
+all this ore?
 
-263
-00:14:36,779 --> 00:14:39,912
+274
+00:14:36,501 --> 00:14:39,420
 As I understand it,
 uridium is very unstable.
 
-264
-00:14:39,954 --> 00:14:40,923
-That's true.
+275
+00:14:39,420 --> 00:14:41,881
+That's true,
+but in its raw form,
 
-265
-00:14:40,956 --> 00:14:42,050
-But in its raw form
-
-266
-00:14:42,092 --> 00:14:44,530
+276
+00:14:41,881 --> 00:14:44,342
 you need a strong electrical
 charge to detonate it.
 
-267
-00:14:44,565 --> 00:14:46,057
+277
+00:14:44,342 --> 00:14:46,469
 Can we use that?
 
-268
-00:14:46,102 --> 00:14:49,076
+278
+00:14:46,469 --> 00:14:48,929
 Well, if I had some tools,
 I might be able to get in there
 
-269
-00:14:49,144 --> 00:14:51,308
+279
+00:14:48,929 --> 00:14:51,057
 and yank out
 some electrical cable.
 
-270
-00:14:59,304 --> 00:15:00,466
+280
+00:14:58,690 --> 00:14:59,982
 Tools.
 
-271
-00:15:11,970 --> 00:15:12,939
+281
+00:15:11,411 --> 00:15:13,872
 How's it coming?
-
-272
-00:15:12,972 --> 00:15:14,100
+DAX:
 Almost done.
 
-273
-00:15:15,212 --> 00:15:16,408
+282
+00:15:13,872 --> 00:15:15,331
+(<i> electrical hissing,</i>
+<i>Dax yells</i> )
+
+283
+00:15:15,331 --> 00:15:16,875
 Jadzia!
 
-274
-00:15:18,553 --> 00:15:20,251
+284
+00:15:18,334 --> 00:15:20,002
 Get me a medkit.
 
-275
-00:15:20,291 --> 00:15:21,624
+285
+00:15:20,002 --> 00:15:21,462
 Easy, Jadzia.
 
-276
-00:15:21,661 --> 00:15:23,723
+286
+00:15:21,462 --> 00:15:23,464
 I have to take a look.
 
-277
-00:15:23,768 --> 00:15:27,106
+287
+00:15:23,464 --> 00:15:27,009
 I was reaching toward
-the ODN conduit
+the ODN conduit,
 
-278
-00:15:27,209 --> 00:15:30,342
-and a small force field went off
+288
+00:15:27,009 --> 00:15:28,803
+and a small force
+field went off,
+
+289
+00:15:28,803 --> 00:15:30,096
 and it caught my hands.
 
-279
-00:15:39,007 --> 00:15:40,567
+290
+00:15:38,772 --> 00:15:40,273
 Well, they're
-second degree burns
+second-degree burns,
 
-280
-00:15:40,611 --> 00:15:42,343
+291
+00:15:40,273 --> 00:15:42,066
 but I don't think
 there's any neural damage.
 
-281
-00:15:44,187 --> 00:15:45,919
-This should relieve the pain.
+292
+00:15:44,026 --> 00:15:46,320
+This should
+relieve the pain.
 
-282
-00:15:45,958 --> 00:15:49,364
+293
+00:15:46,320 --> 00:15:49,031
+COMPUTER:
 Warning. Security
 in the Operations Center
 
-283
-00:15:49,401 --> 00:15:50,768
+294
+00:15:49,031 --> 00:15:50,617
 has been compromised.
 
-284
-00:15:50,804 --> 00:15:53,174
+295
+00:15:50,617 --> 00:15:52,952
 Initiating counterinsurgency
 program level two.
 
-285
-00:15:53,211 --> 00:15:54,612
+296
+00:15:52,952 --> 00:15:54,328
+DUKAT:
 Attention, Bajoran workers.
 
-286
-00:15:54,647 --> 00:15:56,709
+297
+00:15:54,328 --> 00:15:56,372
 Your failure to surrender
 
-287
-00:15:56,752 --> 00:15:59,851
+298
+00:15:56,372 --> 00:15:59,584
 is forcing me
 to take stronger measures.
 
-288
-00:15:59,894 --> 00:16:04,601
+299
+00:15:59,584 --> 00:16:03,797
 In five minutes, we will
 begin pumping neurocine gas
 
-289
-00:16:04,640 --> 00:16:05,939
+300
+00:16:03,797 --> 00:16:05,799
 into the Habitat Ring.
 
-290
-00:16:05,977 --> 00:16:07,310
+301
+00:16:05,799 --> 00:16:07,216
 Think of your families
 
-291
-00:16:07,347 --> 00:16:10,344
+302
+00:16:07,216 --> 00:16:10,261
 as you consider
 your course of action.
 
-292
-00:16:10,388 --> 00:16:15,801
+303
+00:16:10,261 --> 00:16:15,391
 All Cardassian personnel should
 evacuate the area immediately.
 
-293
-00:16:17,541 --> 00:16:18,737
-Habitat Ring.
+304
+00:16:17,351 --> 00:16:19,771
+Habitat Ring. There have
+to be hundreds of people
 
-294
-00:16:18,777 --> 00:16:20,144
-There have to be
-hundreds of people
-
-295
-00:16:20,181 --> 00:16:21,616
+305
+00:16:19,771 --> 00:16:21,272
 trapped in their quarters
 out there.
 
-296
-00:16:21,651 --> 00:16:23,246
-I believe that's the point,
-Major.
+306
+00:16:21,272 --> 00:16:22,941
+GARAK:
+I believe that's
+the point, Major.
 
-297
-00:16:24,892 --> 00:16:28,230
+307
+00:16:24,609 --> 00:16:27,904
 Computer,
 access code: Garak 1359.
 
-298
-00:16:31,911 --> 00:16:33,107
+308
+00:16:31,532 --> 00:16:34,410
 Ironic, isn't it?
-
-299
-00:16:33,147 --> 00:16:34,480
 The only place
 
-300
-00:16:34,518 --> 00:16:37,356
+309
+00:16:34,410 --> 00:16:36,996
 in the galaxy that still
 recognizes my access code
 
-301
-00:16:37,391 --> 00:16:38,883
-is a Bajoran space station.
+310
+00:16:36,996 --> 00:16:38,581
+is a Bajoran
+space station.
 
-302
-00:16:38,929 --> 00:16:40,900
+311
+00:16:38,581 --> 00:16:40,541
 If you can get past
-the force fields
+the force fields,
 
-303
-00:16:40,934 --> 00:16:42,529
+312
+00:16:40,541 --> 00:16:42,376
 you've got to get out
 to the Habitat Ring
 
-304
-00:16:42,572 --> 00:16:44,566
+313
+00:16:42,376 --> 00:16:44,462
 and start evacuating
 those people before...
 
-305
-00:16:44,611 --> 00:16:46,810
+314
+00:16:44,462 --> 00:16:46,506
 I'd like nothing better
-than to help my loyal customers
+than to help my loyal customers,
 
-306
-00:16:46,849 --> 00:16:48,752
+315
+00:16:46,506 --> 00:16:48,633
 but it's not that simple.
 
-307
-00:16:48,787 --> 00:16:52,524
+316
+00:16:48,633 --> 00:16:52,303
 My access code enables me
-to move about the station
+to move about the station,
 
-308
-00:16:52,565 --> 00:16:54,867
-but, unfortunately,
-as you've just seen
+317
+00:16:52,303 --> 00:16:54,597
+but unfortunately,
+as you've just seen,
 
-309
-00:16:54,903 --> 00:16:56,669
+318
+00:16:54,597 --> 00:16:56,265
 the force fields reappear
 
-310
-00:16:56,708 --> 00:16:58,268
+319
+00:16:56,265 --> 00:16:58,100
 the moment I pass
 through a doorway.
 
-311
-00:16:58,313 --> 00:16:59,873
-Have you tried using your code
+320
+00:16:58,100 --> 00:16:59,602
+Have you tried
+using your code
 
-312
-00:16:59,916 --> 00:17:01,716
-to shut down
-the security program?
+321
+00:16:59,602 --> 00:17:01,729
+to shut down the
+security program?
 
-313
-00:17:01,755 --> 00:17:02,781
-Several times
+322
+00:17:01,729 --> 00:17:05,232
+Several times, but for some
+reason I can't begin to fathom,
 
-314
-00:17:02,824 --> 00:17:05,592
-but for some reason
-I can't begin to fathom
+323
+00:17:05,232 --> 00:17:07,777
+Gul Dukat
+chose not to trust me
 
-315
-00:17:05,631 --> 00:17:08,035
-Gul Dukat chose not to trust me
-
-316
-00:17:08,071 --> 00:17:11,808
+324
+00:17:07,777 --> 00:17:11,572
 with his top-level security
 codes during the occupation.
 
-317
-00:17:11,847 --> 00:17:16,086
+325
+00:17:11,572 --> 00:17:15,910
 Garak, do you know a way
 we can stop this neurocine gas?
 
-318
-00:17:16,125 --> 00:17:17,685
-The only way to do that
+326
+00:17:15,910 --> 00:17:17,370
+The only way
+to do that
 
-319
-00:17:17,730 --> 00:17:20,100
+327
+00:17:17,370 --> 00:17:19,246
 is to destroy
 the life support system.
 
-320
-00:17:20,136 --> 00:17:21,537
-What are you
-trying to do, Garak?
+328
+00:17:19,246 --> 00:17:21,290
+What are you trying to do,
+Garak, get us all killed?
 
-321
-00:17:21,573 --> 00:17:22,542
-Get us all killed?
-
-322
-00:17:22,575 --> 00:17:24,205
+329
+00:17:21,290 --> 00:17:23,543
 No, wait a minute.
 He's right.
 
-323
-00:17:24,246 --> 00:17:25,510
-The neurocine gas is released
-
-324
-00:17:25,550 --> 00:17:27,019
-through
+330
+00:17:23,543 --> 00:17:26,420
+The neurocine gas
+is released through
 the life support systems.
 
-325
-00:17:27,054 --> 00:17:29,926
+331
+00:17:26,420 --> 00:17:29,340
 Destroy it and we save everybody
 in the Habitat Ring.
 
-326
-00:17:29,961 --> 00:17:31,693
-For 12 hours
+332
+00:17:29,340 --> 00:17:30,967
+For 12 hours,
 
-327
-00:17:31,733 --> 00:17:33,293
-and then everyone on the station
+333
+00:17:30,967 --> 00:17:32,760
+and then everyone
+on the station
 
-328
-00:17:33,371 --> 00:17:35,467
+334
+00:17:32,760 --> 00:17:34,804
 will suffocate when
 we run out of oxygen.
 
-329
-00:17:35,509 --> 00:17:37,207
+335
+00:17:34,804 --> 00:17:36,681
 Well, that gives us 12 hours
 
-330
-00:17:37,247 --> 00:17:39,275
+336
+00:17:36,681 --> 00:17:38,516
 to regain control
 of this station.
 
-331
-00:17:39,319 --> 00:17:41,085
-Believe me, Major
+337
+00:17:38,516 --> 00:17:40,393
+Believe me, Major,
 
-332
-00:17:41,124 --> 00:17:45,123
+338
+00:17:40,393 --> 00:17:44,480
 it's the only way
 to save those people.
 
-333
-00:17:45,168 --> 00:17:48,472
+339
+00:17:44,480 --> 00:17:47,775
 I believe life support is
 controlled from over there.
 
-334
-00:17:53,423 --> 00:17:54,490
+340
+00:17:52,530 --> 00:17:53,990
 Get down.
 
-335
-00:18:02,978 --> 00:18:05,450
+341
+00:18:02,456 --> 00:18:05,001
+COMPUTER:
 Warning. Counterinsurgency
 program level two
 
-336
-00:18:05,484 --> 00:18:06,885
+342
+00:18:05,001 --> 00:18:06,836
 has been interrupted.
 
-337
-00:18:06,921 --> 00:18:10,829
+343
+00:18:06,836 --> 00:18:10,256
 Initiating counterinsurgency
 program level three.
 
-338
-00:18:12,169 --> 00:18:14,835
-My fellow Cardassians
+344
+00:18:11,758 --> 00:18:14,385
+DUKAT:
+My fellow Cardassians,
 
-339
-00:18:14,875 --> 00:18:17,313
+345
+00:18:14,385 --> 00:18:17,013
 I regret to inform you
 that Bajoran workers
 
-340
-00:18:17,349 --> 00:18:19,377
+346
+00:18:17,013 --> 00:18:19,057
 have gained control
 of this station.
 
-341
-00:18:19,420 --> 00:18:24,833
+347
+00:18:19,057 --> 00:18:24,478
 In all likelihood, I am dead
 or otherwise incapacitated.
 
-342
-00:18:24,868 --> 00:18:26,668
-But rest assured
+348
+00:18:24,478 --> 00:18:26,439
+But rest assured,
 
-343
-00:18:26,706 --> 00:18:31,013
+349
+00:18:26,439 --> 00:18:30,568
 this station will not be allowed
 to remain in Bajoran hands.
 
-344
-00:18:31,051 --> 00:18:34,584
+350
+00:18:30,568 --> 00:18:34,321
 However, it is
 my duty to inform you
 
-345
-00:18:34,627 --> 00:18:37,999
+351
+00:18:34,321 --> 00:18:37,617
 that if you do not regain
-control within two hours
+control within two hours,
 
-346
-00:18:38,035 --> 00:18:42,342
+352
+00:18:37,617 --> 00:18:41,871
 the station will be destroyed.
 
-347
-00:18:42,380 --> 00:18:45,320
+353
+00:18:41,871 --> 00:18:44,791
+COMPUTER:
 Self-destruct sequence
 initiated.
 
-348
-00:18:55,681 --> 00:18:56,843
+354
+00:18:54,383 --> 00:18:56,343
 Come on.
 
-349
-00:18:58,889 --> 00:19:00,188
+355
+00:18:58,387 --> 00:19:00,014
 Come on!
 
-350
-00:19:00,226 --> 00:19:03,667
+356
+00:19:00,014 --> 00:19:03,476
 Give me that before
 you hurt yourself.
 
-351
-00:19:05,507 --> 00:19:08,572
-I've checked
-the entire security complex.
+357
+00:19:03,476 --> 00:19:05,144
+(<i> sighs</i> )
 
-352
-00:19:08,615 --> 00:19:10,175
+358
+00:19:05,144 --> 00:19:08,355
+I've checked the entire
+security complex.
+
+359
+00:19:08,355 --> 00:19:09,941
 There's no way out.
 
-353
-00:19:10,219 --> 00:19:12,418
+360
+00:19:09,941 --> 00:19:12,110
 I should've listened
 to my father.
 
-354
-00:19:12,458 --> 00:19:15,124
+361
+00:19:12,110 --> 00:19:14,862
 He always warned me
 this was going to happen.
 
-355
-00:19:15,165 --> 00:19:18,537
+362
+00:19:14,862 --> 00:19:18,198
 What? That you'd spend
 your final hours in jail?
 
-356
-00:19:18,574 --> 00:19:20,204
+363
+00:19:18,198 --> 00:19:19,826
 I could've told you that.
 
-357
-00:19:20,245 --> 00:19:22,239
-No.
+364
+00:19:19,826 --> 00:19:22,036
+<i>No.</i>
 
-358
-00:19:22,284 --> 00:19:25,622
+365
+00:19:22,036 --> 00:19:25,247
 He warned me
 never to leave home.
 
-359
-00:19:25,659 --> 00:19:27,927
+366
+00:19:25,247 --> 00:19:27,708
 He said there were plenty
 of business opportunities
 
-360
-00:19:27,965 --> 00:19:29,195
+367
+00:19:27,708 --> 00:19:29,376
 right outside my door.
 
-361
-00:19:29,235 --> 00:19:32,641
+368
+00:19:29,376 --> 00:19:32,588
 But, no, I had to follow
 the 75th Rule of Acquisition:
 
-362
-00:19:32,677 --> 00:19:37,554
+369
+00:19:32,588 --> 00:19:37,010
 "Home is where the heart is, but
 the stars are made of latinum."
 
-363
-00:19:40,598 --> 00:19:45,099
-A lifetime of scheming
-and plotting
-
-364
-00:19:45,143 --> 00:19:47,205
-wheeling and dealing
-
-365
-00:19:47,249 --> 00:19:48,309
-and what has it got me?
-
-366
-00:19:48,351 --> 00:19:50,789
-One measly little bar.
-
-367
-00:19:50,824 --> 00:19:53,798
-My Uncle Frin owns 30.
-
-368
-00:19:53,832 --> 00:19:55,233
-And my Cousin Gaila...
-
-369
-00:19:55,269 --> 00:19:58,037
-I know... he owns a moon.
-
 370
-00:19:58,077 --> 00:19:59,980
-I told you that?
+00:19:40,220 --> 00:19:44,684
+A lifetime of scheming
+and plotting,
 
 371
-00:20:00,015 --> 00:20:01,314
-Many times.
+00:19:44,684 --> 00:19:46,811
+wheeling and dealing,
 
 372
-00:20:01,352 --> 00:20:04,885
+00:19:46,811 --> 00:19:47,937
+and what has it got me?
+
+373
+00:19:47,937 --> 00:19:50,564
+One measly little bar.
+
+374
+00:19:50,564 --> 00:19:53,067
+My Uncle Frin owns 30.
+
+375
+00:19:53,067 --> 00:19:54,777
+And my Cousin Gaila...
+
+376
+00:19:54,777 --> 00:19:57,571
+I know-- he
+owns a<i> moon.</i>
+
+377
+00:19:57,571 --> 00:19:59,448
+I told you that?
+
+378
+00:19:59,448 --> 00:20:01,283
+Many times.
+
+379
+00:20:01,283 --> 00:20:04,578
 It's a small moon,
 but it's enough to live on.
 
-373
-00:20:04,928 --> 00:20:06,295
+380
+00:20:04,578 --> 00:20:05,955
 Oh, come on, Quark.
 
-374
-00:20:06,331 --> 00:20:08,495
-You've done
-all right for yourself.
-
-375
-00:20:08,537 --> 00:20:09,870
-Oh, what do you know?
-
-376
-00:20:09,907 --> 00:20:14,112
-Quark, I've met
-a lot of Ferengis in my time
-
-377
-00:20:14,152 --> 00:20:15,621
-and the truth is
-
-378
-00:20:15,656 --> 00:20:19,929
-though some of them
-may have been more wealthy
-
-379
-00:20:19,967 --> 00:20:22,907
-I've never met one more devious.
-
-380
-00:20:22,941 --> 00:20:24,410
-Really?
-
 381
-00:20:24,445 --> 00:20:26,040
-Would I lie?
+00:20:05,955 --> 00:20:08,124
+You've done all
+right for yourself.
 
 382
-00:20:26,083 --> 00:20:27,713
-I guess not.
+00:20:08,124 --> 00:20:09,876
+Oh, what do you know?
 
 383
-00:20:29,491 --> 00:20:31,017
-Thank you, Odo.
+00:20:09,876 --> 00:20:13,587
+Quark, I've met a lot
+of Ferengis in my time,
 
 384
-00:20:31,063 --> 00:20:33,501
-That means a lot to me.
+00:20:13,587 --> 00:20:15,381
+and the truth is,
 
 385
-00:20:35,373 --> 00:20:37,276
-Now...
+00:20:15,381 --> 00:20:19,468
+though some of them may
+have been more wealthy,
 
 386
-00:20:37,312 --> 00:20:40,218
-can I have the phaser back?
+00:20:19,468 --> 00:20:22,346
+I've never met
+one more devious.
 
 387
-00:20:40,252 --> 00:20:41,882
-No.
+00:20:22,346 --> 00:20:23,973
+Really?
 
 388
-00:20:44,898 --> 00:20:46,424
-How do your hands feel?
+00:20:23,973 --> 00:20:25,516
+Would I lie?
 
 389
-00:20:46,469 --> 00:20:47,768
-A little better.
+00:20:25,516 --> 00:20:27,101
+I guess not.
 
 390
-00:20:47,805 --> 00:20:49,935
-Good. I wish
-I could have done more
+00:20:29,020 --> 00:20:30,730
+Thank you, Odo.
 
 391
-00:20:49,978 --> 00:20:52,975
-but I won't be able
-to repair the damaged tissue
+00:20:30,730 --> 00:20:33,066
+That means a lot to me.
 
 392
-00:20:53,019 --> 00:20:55,253
+00:20:34,859 --> 00:20:36,777
+Now...
+
+393
+00:20:36,777 --> 00:20:39,697
+can I have the phaser back?
+
+394
+00:20:39,697 --> 00:20:41,532
+No.
+
+395
+00:20:41,532 --> 00:20:42,825
+(<i> angry yell</i> )
+
+396
+00:20:42,825 --> 00:20:44,493
+(<i> frustrated sigh</i> )
+
+397
+00:20:44,493 --> 00:20:45,953
+How do your hands feel?
+
+398
+00:20:45,953 --> 00:20:47,246
+A little better.
+
+399
+00:20:47,246 --> 00:20:49,415
+Good. I wish I could
+have done more,
+
+400
+00:20:49,415 --> 00:20:52,501
+but I won't be able to
+repair the damaged tissue
+
+401
+00:20:52,501 --> 00:20:54,712
 until we can get you
 to the Infirmary.
 
-393
-00:20:55,291 --> 00:20:56,282
+402
+00:20:54,712 --> 00:20:55,755
 Any luck?
 
-394
-00:20:56,328 --> 00:20:57,354
+403
+00:20:55,755 --> 00:20:56,797
 Plenty, Major.
 
-395
-00:20:57,397 --> 00:20:59,095
-Unfortunately, all of it bad.
+404
+00:20:56,797 --> 00:20:58,925
+Unfortunately,
+all of it bad.
 
-396
-00:20:59,135 --> 00:21:02,599
-My personal code can activate
-any terminal on this station.
+405
+00:20:58,925 --> 00:21:02,053
+My personal code can
+activate any terminal
+on this station.
 
-397
-00:21:02,644 --> 00:21:04,946
-However, that's
-the extent of my access.
+406
+00:21:02,053 --> 00:21:04,597
+However, that's the
+extent of my access.
 
-398
-00:21:04,984 --> 00:21:06,921
-All I can do
-is just look around.
+407
+00:21:04,597 --> 00:21:06,473
+All I can do is
+just look around.
 
-399
-00:21:06,955 --> 00:21:10,453
-I can tell you
-exactly what's going on
+408
+00:21:06,473 --> 00:21:09,643
+I can tell you exactly
+what's going on,
 
-400
-00:21:10,498 --> 00:21:12,936
-but I can't
-do anything about it.
+409
+00:21:09,643 --> 00:21:12,063
+but I can't do
+anything about it.
 
-401
-00:21:12,970 --> 00:21:15,636
+410
+00:21:12,063 --> 00:21:14,941
 As far as I can see,
 the only person
 
-402
-00:21:15,678 --> 00:21:19,450
+411
+00:21:14,941 --> 00:21:18,611
 who can disable the security
 program is Gul Dukat.
 
-403
-00:21:19,488 --> 00:21:21,322
+412
+00:21:18,611 --> 00:21:20,529
 Maybe there's a way
 to fool the computer
 
-404
-00:21:21,359 --> 00:21:23,763
+413
+00:21:20,529 --> 00:21:22,865
 into thinking
 that you are Gul Dukat.
 
-405
-00:21:23,799 --> 00:21:26,830
+414
+00:21:22,865 --> 00:21:25,910
 You could try rewriting
 your code to match his.
 
-406
-00:21:26,874 --> 00:21:29,038
+415
+00:21:25,910 --> 00:21:28,204
 Even if I could,
 it wouldn't do any good.
 
-407
-00:21:29,079 --> 00:21:30,811
-If I were to input his code
+416
+00:21:28,204 --> 00:21:29,872
+If I were to input his code,
 
-408
-00:21:30,851 --> 00:21:33,255
+417
+00:21:29,872 --> 00:21:32,416
 the computer would scan
 my DNA pattern
 
-409
-00:21:33,290 --> 00:21:35,420
+418
+00:21:32,416 --> 00:21:34,501
 to determine
 if I really were Dukat.
 
-410
-00:21:35,462 --> 00:21:38,230
-But what if we disable
+419
+00:21:34,501 --> 00:21:36,129
+DAX:
+But what if
+we disable
+
+420
+00:21:36,129 --> 00:21:37,671
 the sensors in Ops
 
-411
-00:21:38,270 --> 00:21:40,504
+421
+00:21:37,671 --> 00:21:39,548
 so that the computer
 couldn't scan you?
 
-412
-00:21:41,813 --> 00:21:43,305
+422
+00:21:40,841 --> 00:21:42,218
 What a creative idea.
 
-413
-00:21:43,350 --> 00:21:46,688
-It certainly is worth a try.
+423
+00:21:42,218 --> 00:21:45,679
+It certainly is
+worth a try.
 
-414
-00:21:46,725 --> 00:21:49,699
+424
+00:21:45,679 --> 00:21:48,099
 The question is,
 can we disconnect the sensors
 
-415
-00:21:49,733 --> 00:21:51,100
+425
+00:21:48,099 --> 00:21:50,143
 without anyone else
 getting hurt?
 
-416
-00:21:51,136 --> 00:21:52,902
+426
+00:21:50,143 --> 00:21:51,894
 We're just going
 to have to take that chance.
 
-417
-00:21:52,941 --> 00:21:53,967
+427
+00:21:51,894 --> 00:21:53,980
+DAX:
 We could switch
 
-418
-00:21:54,011 --> 00:21:56,951
+428
+00:21:53,980 --> 00:21:57,357
 the sensor input
 from the primary scanners
-
-419
-00:21:56,985 --> 00:21:57,954
 to the backup scanners.
 
-420
-00:21:57,987 --> 00:22:00,927
-The computer shouldn't
-see that as a threat
+429
+00:21:57,357 --> 00:21:59,902
+The computer
+shouldn't see that
+as a threat
 
-421
-00:22:00,962 --> 00:22:02,830
-but it'll blind the system
-for a few seconds
+430
+00:21:59,902 --> 00:22:01,862
+but it'll blind
+the system for a few seconds
 
-422
-00:22:02,867 --> 00:22:04,166
+431
+00:22:01,862 --> 00:22:03,656
 while we make the changeover.
 
-423
-00:22:04,203 --> 00:22:07,906
+432
+00:22:03,656 --> 00:22:07,034
 If it works, a few seconds
 are all I'll need.
 
-424
-00:22:07,947 --> 00:22:10,715
+433
+00:22:07,034 --> 00:22:09,829
 Major, I'm going to need a hand.
 
-425
-00:22:17,438 --> 00:22:19,933
+434
+00:22:16,627 --> 00:22:19,005
 Well, tell me, Doctor,
 what is it exactly
 
-426
-00:22:19,979 --> 00:22:22,315
+435
+00:22:19,005 --> 00:22:21,257
 about this situation
 that's making you smile?
 
-427
-00:22:22,351 --> 00:22:23,320
+436
+00:22:21,257 --> 00:22:22,300
 You, Garak.
 
-428
-00:22:23,354 --> 00:22:24,380
+437
+00:22:22,300 --> 00:22:23,509
 Hmm?
 
-429
-00:22:24,423 --> 00:22:26,018
-Just wondering
-how many other tailors
+438
+00:22:23,509 --> 00:22:25,511
+Just wondering how
+many other tailors
 
-430
-00:22:26,060 --> 00:22:29,364
+439
+00:22:25,511 --> 00:22:28,514
 can rewrite Cardassian
 security protocols.
 
-431
-00:22:29,403 --> 00:22:31,237
-I wouldn't even venture a guess.
+440
+00:22:28,514 --> 00:22:30,183
+I wouldn't even
+venture a guess.
 
-432
-00:22:31,274 --> 00:22:32,470
-Which reminds me.
+441
+00:22:30,183 --> 00:22:31,517
+Which reminds me,
 
-433
-00:22:32,511 --> 00:22:36,009
-Those pants you wanted altered
+442
+00:22:31,517 --> 00:22:33,519
+those pants
+you wanted altered
+
+443
+00:22:33,519 --> 00:22:35,146
 are ready to be picked up.
 
-434
-00:22:36,053 --> 00:22:37,249
+444
+00:22:35,146 --> 00:22:36,354
 Oh, this is a problem.
 
-435
-00:22:37,289 --> 00:22:38,451
+445
+00:22:36,354 --> 00:22:38,107
 What's wrong?
 
-436
-00:22:38,493 --> 00:22:41,091
+446
+00:22:38,107 --> 00:22:40,151
 I always suspected that Dukat
 was a little paranoid.
 
-437
-00:22:41,133 --> 00:22:44,631
+447
+00:22:40,151 --> 00:22:43,696
 He's left a rather large number
 of interrogative subroutines
 
-438
-00:22:44,709 --> 00:22:46,612
+448
+00:22:43,696 --> 00:22:45,614
 imbedded in his access code.
 
-439
-00:22:46,647 --> 00:22:47,980
+449
+00:22:45,614 --> 00:22:47,407
 Meaning what?
 
-440
-00:22:48,017 --> 00:22:51,321
+450
+00:22:47,407 --> 00:22:50,286
 Meaning the computer is
 constantly challenging me
 
-441
-00:22:51,360 --> 00:22:53,594
+451
+00:22:50,286 --> 00:22:53,998
 to prove that I am
 who I say I am.
+Lieutenant,
 
-442
-00:22:53,632 --> 00:22:54,965
-Lieutenant
-
-443
-00:22:55,002 --> 00:22:58,067
+452
+00:22:53,998 --> 00:22:57,126
 how much longer before you can
 disable those sensors?
 
-444
-00:22:58,110 --> 00:22:59,602
+453
+00:22:57,126 --> 00:22:58,752
 Oh, at least
 another ten minutes.
 
-445
-00:22:59,648 --> 00:23:01,516
+454
+00:22:58,752 --> 00:23:00,504
 I'm not sure
 we have that much time.
 
-446
-00:23:01,553 --> 00:23:03,524
-In fact, I'm sure we don't.
+455
+00:23:00,504 --> 00:23:02,589
+In fact,
+I'm sure we don't.
 
-447
-00:23:03,558 --> 00:23:07,763
+456
+00:23:02,589 --> 00:23:05,343
+COMPUTER:
 Warning. Unauthorized use
+
+457
+00:23:05,343 --> 00:23:06,969
 of command code.
 
-448
-00:23:07,802 --> 00:23:10,604
+458
+00:23:06,969 --> 00:23:09,638
 Initiating counterinsurgency
 program level four.
 
-449
-00:23:20,502 --> 00:23:21,971
+459
+00:23:17,521 --> 00:23:19,481
+(<i> groaning</i> )
+
+460
+00:23:19,481 --> 00:23:21,067
 On three.
 
-450
-00:23:22,006 --> 00:23:23,840
-One, two
+461
+00:23:21,067 --> 00:23:22,902
+One, two,
 
-451
-00:23:23,878 --> 00:23:26,316
+462
+00:23:22,902 --> 00:23:25,196
 three.
 
-452
-00:23:26,351 --> 00:23:27,216
+463
+00:23:25,196 --> 00:23:26,322
 You did it.
 
-453
-00:23:27,253 --> 00:23:29,555
-Okay, we have the power cable.
+464
+00:23:26,322 --> 00:23:28,741
+Okay, we have
+the power cable.
 
-454
-00:23:29,592 --> 00:23:33,033
+465
+00:23:28,741 --> 00:23:30,243
 Now, we need to pack
-the uridium around the door.
+the uridium
 
-455
-00:23:42,357 --> 00:23:44,225
+466
+00:23:30,243 --> 00:23:31,869
+around the door.
+
+467
+00:23:41,879 --> 00:23:44,965
 My phaser's on the Ops table!
-
-456
-00:23:44,262 --> 00:23:45,458
 Can anyone get to it?
 
-457
-00:23:50,245 --> 00:23:52,079
+468
+00:23:49,845 --> 00:23:51,931
 The answer, Major, is no.
 
-458
-00:23:52,149 --> 00:23:55,180
+469
+00:23:51,931 --> 00:23:54,808
 Well, we can't stay here
 and do nothing.
 
-459
-00:23:55,224 --> 00:23:56,386
+470
+00:23:54,808 --> 00:23:57,728
 I respectfully disagree, Major.
-
-460
-00:23:56,427 --> 00:23:58,091
 Nothing is about all we can do.
 
-461
-00:24:02,209 --> 00:24:03,473
+471
+00:24:01,774 --> 00:24:03,234
 Let me guess.
 
-462
-00:24:03,512 --> 00:24:07,147
-Someone tried to duplicate
+472
+00:24:03,234 --> 00:24:05,361
+Someone tried
+to duplicate
+
+473
+00:24:05,361 --> 00:24:06,820
 my access code, hmm?
 
-463
-00:24:07,188 --> 00:24:08,350
+474
+00:24:06,820 --> 00:24:08,030
 Dukat!
 
-464
-00:24:08,392 --> 00:24:10,956
-What the hell
-are you doing here?!
+475
+00:24:08,030 --> 00:24:10,783
+What the hell are
+you doing here?!
 
-465
-00:24:10,998 --> 00:24:14,872
+476
+00:24:10,783 --> 00:24:14,661
 A short time ago, I had
 a very strange experience.
 
-466
-00:24:14,908 --> 00:24:18,543
+477
+00:24:14,661 --> 00:24:18,249
 There I was, patrolling
 the Demilitarized Zone
 
-467
-00:24:18,585 --> 00:24:22,083
+478
+00:24:18,249 --> 00:24:21,710
 when I received
-a distress signal... from me
+a distress signal... from me,
 
-468
-00:24:22,127 --> 00:24:24,725
-or at least a recording of me.
+479
+00:24:21,710 --> 00:24:24,422
+or at least
+a recording of me.
 
-469
-00:24:24,767 --> 00:24:30,077
+480
+00:24:24,422 --> 00:24:29,635
 It seems the Bajoran workers
 were rioting on Terok Nor.
 
-470
-00:24:31,952 --> 00:24:35,621
+481
+00:24:29,635 --> 00:24:31,678
+(<i> laughs</i> )
+
+482
+00:24:31,678 --> 00:24:35,141
 I must admit,
 it piqued my curiosity.
 
-471
-00:24:39,538 --> 00:24:41,737
+483
+00:24:39,186 --> 00:24:41,439
 I see.
 
-472
-00:24:41,778 --> 00:24:44,580
+484
+00:24:41,439 --> 00:24:44,275
 The autodestruct program
 has begun.
 
-473
-00:24:44,619 --> 00:24:46,818
-Well, well, well...
+485
+00:24:44,275 --> 00:24:46,360
+Well, well,
+well...
 
-474
-00:24:46,858 --> 00:24:49,022
+486
+00:24:46,360 --> 00:24:48,570
 you are in trouble.
 
-475
-00:24:49,064 --> 00:24:51,035
+487
+00:24:48,570 --> 00:24:50,781
 Where's Commander Sisko?
 
-476
-00:24:51,069 --> 00:24:53,165
+488
+00:24:50,781 --> 00:24:52,950
 I trust he wasn't vaporized
 
-477
-00:24:53,274 --> 00:24:57,981
+489
+00:24:52,950 --> 00:24:57,495
 while asking for one of those
 <i>raktajinos</i> he's so fond of.
 
-478
-00:24:58,020 --> 00:24:59,182
-No, last we heard
+490
+00:24:57,495 --> 00:24:58,956
+No, last we heard,
 
-479
-00:24:59,257 --> 00:25:01,752
+491
+00:24:58,956 --> 00:25:01,208
 he was trapped
 in the ore processing unit.
 
-480
-00:25:01,797 --> 00:25:03,266
+492
+00:25:01,208 --> 00:25:02,960
 Hmm.
 
-481
-00:25:03,300 --> 00:25:05,534
+493
+00:25:02,960 --> 00:25:05,254
 I wish him well.
 
-482
-00:25:05,573 --> 00:25:07,441
+494
+00:25:05,254 --> 00:25:07,131
 Well, can you help us or not?
 
-483
-00:25:07,478 --> 00:25:09,312
+495
+00:25:07,131 --> 00:25:09,133
 Oh, most certainly.
 
-484
-00:25:09,349 --> 00:25:13,291
-All I have to do
-is enter my command code
+496
+00:25:09,133 --> 00:25:12,928
+All I have to do is
+enter my command code
 
-485
-00:25:13,326 --> 00:25:15,890
+497
+00:25:12,928 --> 00:25:15,431
 and shut down the program.
 
-486
-00:25:15,934 --> 00:25:17,130
+498
+00:25:15,431 --> 00:25:16,723
 Well, then do it!
 
-487
-00:25:17,170 --> 00:25:19,972
+499
+00:25:16,723 --> 00:25:19,517
 All in good time, Major Kira.
 
-488
-00:25:20,010 --> 00:25:21,640
+500
+00:25:19,517 --> 00:25:21,270
 All in good time.
 
-489
-00:25:21,682 --> 00:25:27,653
-But, first, there are
-a few things we should discuss.
+501
+00:25:21,270 --> 00:25:27,360
+But, first, there are a few
+things we should discuss.
 
-490
-00:25:27,697 --> 00:25:30,865
+502
+00:25:27,360 --> 00:25:30,404
 Red leaf tea, please.
 
-491
-00:25:38,391 --> 00:25:40,419
+503
+00:25:37,995 --> 00:25:39,830
 Doctor.
 
-492
-00:25:42,101 --> 00:25:43,833
+504
+00:25:41,623 --> 00:25:43,625
 What do you want, Dukat?
 
-493
-00:25:43,872 --> 00:25:50,584
+505
+00:25:43,625 --> 00:25:50,007
 You'll find I don't react well
 to that tone of voice, Major.
 
-494
-00:25:54,600 --> 00:25:58,201
-Garak, groveling in a corner.
+506
+00:25:52,468 --> 00:25:54,178
+(<i> laughs</i> )
 
-495
-00:25:58,243 --> 00:26:01,149
+507
+00:25:54,178 --> 00:25:57,931
+Garak, groveling
+in a corner.
+
+508
+00:25:57,931 --> 00:26:00,684
 That alone makes
 my trip worthwhile.
 
-496
-00:26:02,221 --> 00:26:02,984
+509
+00:26:01,601 --> 00:26:04,021
 Garak!
-
-497
-00:26:03,022 --> 00:26:04,355
 Easy, Doctor.
 
-498
-00:26:04,392 --> 00:26:06,022
+510
+00:26:04,021 --> 00:26:05,772
 It would appear
 
-499
-00:26:06,064 --> 00:26:09,631
+511
+00:26:05,772 --> 00:26:09,485
 that the computer is
 only targeting non-Cardassians.
 
-500
-00:26:09,672 --> 00:26:13,239
+512
+00:26:09,485 --> 00:26:13,072
 If you had been on the station
-when I designed this program
+when I designed this program,
 
-501
-00:26:13,349 --> 00:26:15,252
+513
+00:26:13,072 --> 00:26:15,032
 I would have made an exception
 in your case.
 
-502
-00:26:15,355 --> 00:26:18,261
+514
+00:26:15,032 --> 00:26:18,077
 Well, you've always
 been shortsighted.
 
-503
-00:26:18,362 --> 00:26:21,028
+515
+00:26:18,077 --> 00:26:20,746
 It's held you back
 over the years.
 
-504
-00:26:21,069 --> 00:26:24,475
+516
+00:26:20,746 --> 00:26:23,790
 As I recall, your father
 had the same flaw.
 
-505
-00:26:24,511 --> 00:26:28,955
+517
+00:26:23,790 --> 00:26:28,254
 My father's only flaw
 was trusting you.
 
-506
-00:26:28,989 --> 00:26:30,253
-Funny, at his trial
+518
+00:26:28,254 --> 00:26:29,587
+Funny, at his trial,
 
-507
-00:26:30,293 --> 00:26:33,131
+519
+00:26:29,587 --> 00:26:32,425
 your father said
 that his biggest flaw was
 
-508
-00:26:33,167 --> 00:26:36,141
-that his ambition
-outweighed his patriotism.
+520
+00:26:32,425 --> 00:26:35,386
+that his ambition outweighed
+his patriotism.
 
-509
-00:26:36,175 --> 00:26:39,639
-Maybe you two could
-settle this at another time!
+521
+00:26:35,386 --> 00:26:39,056
+Maybe you two could settle
+this at another time!
 
-510
-00:26:39,684 --> 00:26:41,314
+522
+00:26:39,056 --> 00:26:40,682
 You're right, Major.
 
-511
-00:26:41,422 --> 00:26:46,265
-But believe me, Garak, that time
-is coming.
+523
+00:26:40,682 --> 00:26:45,645
+But believe me, Garak,
+that time is coming.
 
-512
-00:26:46,301 --> 00:26:47,600
+524
+00:26:45,645 --> 00:26:47,398
 Major!
 
-513
-00:26:47,638 --> 00:26:51,444
+525
+00:26:47,398 --> 00:26:50,817
 Why don't you join me
 in the Commander's office
 
-514
-00:26:51,481 --> 00:26:53,885
+526
+00:26:50,817 --> 00:26:53,153
 where we can talk in private?
 
-515
-00:26:55,993 --> 00:27:00,460
+527
+00:26:55,406 --> 00:26:59,868
 Oh! I forgot.
 The replicator.
 
-516
-00:27:02,310 --> 00:27:06,811
+528
+00:27:01,787 --> 00:27:06,125
 Well, it's the least I can do.
 
-517
-00:27:12,001 --> 00:27:13,904
+529
+00:27:11,547 --> 00:27:13,215
 You can all rise now.
 
-518
-00:27:15,343 --> 00:27:16,505
+530
+00:27:14,632 --> 00:27:15,968
 You're safe.
 
-519
-00:27:17,682 --> 00:27:19,174
+531
+00:27:17,136 --> 00:27:18,554
 For the moment.
 
-520
-00:27:27,542 --> 00:27:29,536
+532
+00:27:26,895 --> 00:27:28,981
 Major.
 
-521
-00:27:42,914 --> 00:27:46,252
-I know time is of the essence,
-Major...
+533
+00:27:38,491 --> 00:27:39,825
+(<i> sighs</i> )
 
-522
-00:27:47,594 --> 00:27:49,930
+534
+00:27:42,244 --> 00:27:45,581
+I know time is of
+the essence, Major...
+
+535
+00:27:46,873 --> 00:27:49,168
 so I'll be brief.
 
-523
-00:27:54,545 --> 00:27:55,912
+536
+00:27:53,422 --> 00:27:55,257
 I think it is time
 
-524
-00:27:55,948 --> 00:27:59,446
+537
+00:27:55,257 --> 00:27:58,718
 to reestablish a permanent
 Cardassian presence
 
-525
-00:27:59,525 --> 00:28:00,458
-aboard this station.
+538
+00:27:58,718 --> 00:27:59,761
+aboard
+this station.
 
-526
-00:28:00,561 --> 00:28:03,831
-Nothing too elaborate,
+539
+00:27:59,761 --> 00:28:01,430
+Nothing too
+elaborate,
+
+540
+00:28:01,430 --> 00:28:03,307
 mind you.
 
-527
-00:28:03,869 --> 00:28:06,273
+541
+00:28:03,307 --> 00:28:05,767
 A garrison would suffice.
 
-528
-00:28:06,309 --> 00:28:10,548
+542
+00:28:05,767 --> 00:28:10,063
 I can deploy troops
 from my ship immediately.
 
-529
-00:28:10,587 --> 00:28:14,928
+543
+00:28:10,063 --> 00:28:14,276
 And in return, I'll solve
 your current dilemma.
 
-530
-00:28:14,965 --> 00:28:17,837
+544
+00:28:14,276 --> 00:28:17,154
 Well, you know I'm never going
 to agree to that.
 
-531
-00:28:17,872 --> 00:28:20,674
+545
+00:28:17,154 --> 00:28:19,948
 I'm not sure you have
 much of a choice here.
 
-532
-00:28:20,713 --> 00:28:24,051
+546
+00:28:19,948 --> 00:28:23,494
 Dukat, you and I both know
 
-533
-00:28:24,088 --> 00:28:28,589
+547
+00:28:23,494 --> 00:28:27,956
 neither Bajor nor the Federation
 will ever honor an agreement
 
-534
-00:28:28,633 --> 00:28:30,159
-negotiated under a death threat.
+548
+00:28:27,956 --> 00:28:29,416
+negotiated under
+a death threat.
 
-535
-00:28:32,911 --> 00:28:35,611
+549
+00:28:29,416 --> 00:28:32,169
+(<i> laughs</i> )
+
+550
+00:28:32,169 --> 00:28:34,880
 I don't expect them
 to be happy about it.
 
-536
-00:28:35,652 --> 00:28:37,851
-But once my troops are in place
+551
+00:28:34,880 --> 00:28:37,424
+But once my troops
+are in place,
 
-537
-00:28:37,890 --> 00:28:42,027
+552
+00:28:37,424 --> 00:28:41,428
 I think you'll find it very
 difficult to get them to leave.
 
-538
-00:28:42,068 --> 00:28:44,336
+553
+00:28:41,428 --> 00:28:43,639
 Well, let me put
 this another way.
 
-539
-00:28:45,510 --> 00:28:48,039
+554
+00:28:44,764 --> 00:28:47,393
 I will destroy this station
 
-540
-00:28:48,084 --> 00:28:52,391
+555
+00:28:47,393 --> 00:28:51,564
 before I ever give it back
 to the Cardassians.
 
-541
-00:28:52,428 --> 00:28:56,872
+556
+00:28:51,564 --> 00:28:56,026
 Yes... I'm sure you would.
 
-542
-00:29:00,650 --> 00:29:08,866
-But... would you allow 2,000
+557
+00:29:00,698 --> 00:29:03,659
+But...
+
+558
+00:29:03,659 --> 00:29:08,163
+would you allow 2,000
 people aboard this station
 
-543
-00:29:08,905 --> 00:29:15,343
+559
+00:29:08,163 --> 00:29:14,545
 to die simply because
 you don't like... us?
 
-544
-00:29:23,376 --> 00:29:25,176
+560
+00:29:22,595 --> 00:29:24,430
 Hmm.
 
-545
-00:29:25,214 --> 00:29:26,706
+561
+00:29:24,430 --> 00:29:26,098
 Well...
 
-546
-00:29:28,054 --> 00:29:30,856
+562
+00:29:27,349 --> 00:29:30,143
 there's no need
 to decide just yet.
 
-547
-00:29:30,895 --> 00:29:34,564
+563
+00:29:30,143 --> 00:29:33,897
 We still have
 a little time left.
 
-548
-00:29:37,245 --> 00:29:40,709
+564
+00:29:36,442 --> 00:29:39,903
 30 minutes, in fact.
 
-549
-00:29:40,754 --> 00:29:42,988
-Why don't I return to my ship
+565
+00:29:39,903 --> 00:29:42,322
+Why don't I
+return to my ship
 
-550
-00:29:43,026 --> 00:29:46,398
+566
+00:29:42,322 --> 00:29:45,659
 so that you'll have time
 to think about it?
 
-551
-00:29:46,436 --> 00:29:48,100
+567
+00:29:45,659 --> 00:29:47,286
 Hmm?
 
-552
-00:29:57,130 --> 00:29:59,364
+568
+00:29:55,919 --> 00:29:58,589
 I'll be back...
 
-553
-00:29:59,402 --> 00:30:02,308
+569
+00:29:58,589 --> 00:30:01,508
 in, say, 25 minutes.
 
-554
-00:30:03,646 --> 00:30:06,312
-Dukat. One to transport.
+570
+00:30:02,842 --> 00:30:05,512
+Dukat. One
+to transport.
 
-555
-00:30:06,354 --> 00:30:07,482
+571
+00:30:05,512 --> 00:30:06,722
 Energize.
 
-556
-00:30:11,631 --> 00:30:13,967
+572
+00:30:11,059 --> 00:30:13,395
 Energize.
 
-557
-00:30:14,004 --> 00:30:16,670
+573
+00:30:13,395 --> 00:30:16,064
+CARDASSIAN:
 Dukat, if you are seeing
-this recording
+this recording,
 
-558
-00:30:16,711 --> 00:30:19,047
+574
+00:30:16,064 --> 00:30:18,150
 it means you tried
 to abandon your post
 
-559
-00:30:19,084 --> 00:30:22,490
-while the station's self-
-destruct sequence was engaged.
+575
+00:30:18,150 --> 00:30:19,526
+while the station's
 
-560
-00:30:22,526 --> 00:30:24,292
+576
+00:30:19,526 --> 00:30:21,903
+self- destruct sequence
+was engaged.
+
+577
+00:30:21,903 --> 00:30:23,656
 That will not be permitted.
 
-561
-00:30:24,330 --> 00:30:26,096
+578
+00:30:23,656 --> 00:30:25,616
 This is outrageous!
 
-562
-00:30:26,135 --> 00:30:29,599
+579
+00:30:25,616 --> 00:30:28,952
 You have lost control of Terok
 Nor, disgracing yourself
 
-563
-00:30:29,645 --> 00:30:30,944
+580
+00:30:28,952 --> 00:30:31,330
 and Cardassia.
-
-564
-00:30:30,981 --> 00:30:32,143
 Your attempt
 
-565
-00:30:32,184 --> 00:30:36,423
+581
+00:30:31,330 --> 00:30:35,959
 to escape is no doubt
 a final act of cowardice.
 
-566
-00:30:36,462 --> 00:30:39,368
+582
+00:30:35,959 --> 00:30:38,878
 All fail-safes
 have been eliminated.
 
-567
-00:30:39,403 --> 00:30:43,402
+583
+00:30:38,878 --> 00:30:42,966
 Your personal access codes
 have been rescinded.
 
-568
-00:30:43,447 --> 00:30:46,285
+584
+00:30:42,966 --> 00:30:45,761
 The destruct sequence
 can no longer be halted.
 
-569
-00:30:46,321 --> 00:30:48,953
+585
+00:30:45,761 --> 00:30:48,430
 All you can do now
 is contemplate
 
-570
-00:30:48,995 --> 00:30:51,433
-the depth of your disgrace
+586
+00:30:48,430 --> 00:30:50,932
+the depth of your disgrace,
 
-571
-00:30:51,468 --> 00:30:55,433
+587
+00:30:50,932 --> 00:30:54,812
 and try to die
 like a Cardassian.
 
-572
-00:31:03,231 --> 00:31:08,541
+588
+00:31:01,985 --> 00:31:07,658
+DUKAT:
 Computer, abort
 the self-destruct sequence.
 
-573
-00:31:08,646 --> 00:31:13,956
+589
+00:31:07,658 --> 00:31:13,038
 This is a priority one override,
 clearance level 9.
 
-574
-00:31:13,993 --> 00:31:21,207
+590
+00:31:13,038 --> 00:31:20,045
 Authorization:
 Dukat 5116 green.
 
-575
-00:31:21,245 --> 00:31:23,341
+591
+00:31:20,045 --> 00:31:22,297
+COMPUTER:
 Request denied.
 
-576
-00:31:23,384 --> 00:31:26,688
+592
+00:31:22,297 --> 00:31:25,676
 All authorization codes
 are void.
 
-577
-00:31:26,726 --> 00:31:28,994
+593
+00:31:25,676 --> 00:31:27,886
 Time to self-destruct:
 25 minutes.
 
-578
-00:31:30,201 --> 00:31:34,304
-Even your own computer program
-turns against you.
+594
+00:31:27,886 --> 00:31:30,305
+(<i> laughs</i> )
 
-579
-00:31:34,345 --> 00:31:37,410
+595
+00:31:30,305 --> 00:31:33,266
+Even your own computer
+program turns against you.
+
+596
+00:31:33,266 --> 00:31:36,269
 I always knew
 your shortsightedness
 
-580
-00:31:37,454 --> 00:31:39,550
+597
+00:31:36,269 --> 00:31:38,564
 would be your downfall.
 
-581
-00:31:39,592 --> 00:31:44,059
+598
+00:31:38,564 --> 00:31:42,942
 I don't see you coming up
 with any ideas, tailor.
 
-582
-00:31:44,105 --> 00:31:46,042
+599
+00:31:42,942 --> 00:31:44,986
 Look, if you two are
-finished with the insults
+finished with the insults,
 
-583
-00:31:46,076 --> 00:31:47,272
+600
+00:31:44,986 --> 00:31:47,113
 we could use some help here.
 
-584
-00:31:47,313 --> 00:31:49,877
+601
+00:31:47,113 --> 00:31:49,157
 Now, what can you tell us about
 the self-destruct sequence?
 
-585
-00:31:49,919 --> 00:31:51,081
+602
+00:31:49,157 --> 00:31:50,534
 It's very simple.
 
-586
-00:31:51,123 --> 00:31:53,425
-When the countdown is completed
+603
+00:31:50,534 --> 00:31:52,452
+When the countdown
+is completed,
 
-587
-00:31:53,462 --> 00:31:56,960
+604
+00:31:52,452 --> 00:31:55,789
 the computer will order
 the main fusion reactor
 
-588
-00:31:57,004 --> 00:31:59,134
-to disengage
-the reaction stabilizers
+605
+00:31:55,789 --> 00:31:57,833
+to disengage the
+reaction stabilizers,
 
-589
-00:31:59,177 --> 00:32:05,353
+606
+00:31:57,833 --> 00:32:04,381
 causing it to overload,
 destroying the station.
 
-590
-00:32:05,393 --> 00:32:06,589
+607
+00:32:04,381 --> 00:32:05,465
 What about the reactor?
 
-591
-00:32:06,630 --> 00:32:08,362
+608
+00:32:05,465 --> 00:32:07,092
 Is there any way
 to shut it down?
 
-592
-00:32:08,401 --> 00:32:12,104
+609
+00:32:07,092 --> 00:32:11,054
 It may be possible
 to manually disengage
 
-593
-00:32:12,143 --> 00:32:15,481
+610
+00:32:11,054 --> 00:32:14,224
 the laser fusion initiator,
-but in order to do that
+but in order to do that,
 
-594
-00:32:15,519 --> 00:32:17,753
+611
+00:32:14,224 --> 00:32:16,643
 we have to be
 in the reactor room.
 
-595
-00:32:17,792 --> 00:32:19,091
+612
+00:32:16,643 --> 00:32:18,061
+DAX:
 Not necessarily.
 
-596
-00:32:19,129 --> 00:32:20,759
+613
+00:32:18,061 --> 00:32:19,605
 We can disengage the initiator
 
-597
-00:32:20,799 --> 00:32:23,328
+614
+00:32:19,605 --> 00:32:22,274
 from one of the control
 junctions on level 34.
 
-598
-00:32:23,372 --> 00:32:26,210
+615
+00:32:22,274 --> 00:32:25,110
 But now the computer's
-wiped out the access codes
+wiped out the access codes,
 
-599
-00:32:26,247 --> 00:32:28,343
+616
+00:32:25,110 --> 00:32:27,320
 not even a Cardassian
 can get out of this room.
 
-600
-00:32:28,385 --> 00:32:29,980
+617
+00:32:27,320 --> 00:32:29,281
 Well, then maybe
 we should concentrate
 
-601
-00:32:30,023 --> 00:32:32,587
+618
+00:32:29,281 --> 00:32:31,366
 on trying to eliminate the force
 field protecting the door.
 
-602
-00:32:32,630 --> 00:32:33,963
+619
+00:32:31,366 --> 00:32:33,285
 We don't have time
 to eliminate
 
-603
-00:32:34,000 --> 00:32:36,838
+620
+00:32:33,285 --> 00:32:35,621
 every force field
 between here and level 34.
 
-604
-00:32:36,875 --> 00:32:40,213
+621
+00:32:35,621 --> 00:32:39,124
 What we need to do
 is find a way to deactivate
 
-605
-00:32:40,250 --> 00:32:43,190
+622
+00:32:39,124 --> 00:32:41,960
 all the force fields
 on the station at the same time.
 
-606
-00:32:48,572 --> 00:32:50,908
+623
+00:32:47,340 --> 00:32:49,760
 Okay, that should do it.
 
-607
-00:32:50,944 --> 00:32:52,436
+624
+00:32:49,760 --> 00:32:51,344
 If we use much more,
 we run the risk
 
-608
-00:32:52,482 --> 00:32:54,612
+625
+00:32:51,344 --> 00:32:53,430
 of bringing the whole room
 down around our ears.
 
-609
-00:33:08,256 --> 00:33:10,558
-All right,
-we'd better take cover.
+626
+00:33:07,026 --> 00:33:09,404
+SISKO:
+All right, we'd
+better take cover.
 
-610
-00:33:13,670 --> 00:33:17,442
-Would you...
-like to do the honors, sir?
+627
+00:33:12,365 --> 00:33:16,244
+Would you... like
+to do the honors, sir?
 
-611
-00:33:19,853 --> 00:33:21,517
+628
+00:33:18,705 --> 00:33:20,332
 Keep your heads down.
 
-612
-00:33:36,663 --> 00:33:38,497
+629
+00:33:35,305 --> 00:33:37,265
+JAKE:
 It worked!
 
-613
-00:33:59,255 --> 00:34:03,790
+630
+00:33:58,036 --> 00:34:02,541
 I set up this program,
-and I assure you, Major
+and I assure you, Major,
 
-614
-00:34:03,834 --> 00:34:07,070
-I will find a way to defeat it.
+631
+00:34:02,541 --> 00:34:05,878
+I will find a way
+to defeat it.
 
-615
-00:34:07,109 --> 00:34:09,673
+632
+00:34:05,878 --> 00:34:08,463
 There is no dilemma
 that cannot be solved
 
-616
-00:34:09,715 --> 00:34:10,741
+633
+00:34:08,463 --> 00:34:10,924
 by a disciplined
-
-617
-00:34:10,785 --> 00:34:12,152
 Cardassian mind.
 
-618
-00:34:12,188 --> 00:34:14,990
-It's not going to work,
-you know.
+634
+00:34:10,924 --> 00:34:13,844
+It's not going
+to work, you know.
 
-619
-00:34:15,029 --> 00:34:16,932
+635
+00:34:13,844 --> 00:34:15,721
 What are you
 babbling on about now?
 
-620
-00:34:16,968 --> 00:34:19,270
+636
+00:34:15,721 --> 00:34:17,931
 I'm talking about Major Kira.
 
-621
-00:34:19,307 --> 00:34:20,367
+637
+00:34:17,931 --> 00:34:20,017
 What about her?
 
-622
-00:34:20,409 --> 00:34:23,075
+638
+00:34:20,017 --> 00:34:21,894
 She's much too busy
 trying to save this station
 
-623
-00:34:23,117 --> 00:34:26,057
+639
+00:34:21,894 --> 00:34:24,688
 to be impressed
 with your incessant posturing.
 
-624
-00:34:26,091 --> 00:34:27,082
+640
+00:34:24,688 --> 00:34:25,814
 Garak!
 
-625
-00:34:27,127 --> 00:34:28,687
-And even if she weren't
+641
+00:34:25,814 --> 00:34:27,649
+And even
+if she weren't,
 
-626
-00:34:28,732 --> 00:34:31,570
+642
+00:34:27,649 --> 00:34:30,276
 she has much better taste
 than to be attracted to you.
 
-627
-00:34:31,605 --> 00:34:35,103
+643
+00:34:30,276 --> 00:34:33,947
 You, a married man.
 
-628
-00:34:35,148 --> 00:34:38,020
+644
+00:34:33,947 --> 00:34:36,783
 I should have executed you
 years ago.
 
-629
-00:34:38,056 --> 00:34:40,255
+645
+00:34:36,783 --> 00:34:38,869
 Oh, you tried, remember?
 
-630
-00:34:40,295 --> 00:34:41,491
+646
+00:34:38,869 --> 00:34:40,119
+BASHIR:
 Garak.
 
-631
-00:34:41,531 --> 00:34:42,795
+647
+00:34:40,119 --> 00:34:41,580
 This isn't helping.
 
-632
-00:34:42,834 --> 00:34:43,860
+648
+00:34:41,580 --> 00:34:42,622
 Wait a minute.
 
-633
-00:34:43,904 --> 00:34:46,878
-What about
-the power supply grid?
+649
+00:34:42,622 --> 00:34:45,625
+What about the
+power supply grid?
 
-634
-00:34:46,912 --> 00:34:50,649
+650
+00:34:45,625 --> 00:34:49,337
 If we could overload
 the grid, we might be able
 
-635
-00:34:50,689 --> 00:34:52,592
+651
+00:34:49,337 --> 00:34:51,506
 to cause a power surge
 and short out
 
-636
-00:34:52,627 --> 00:34:54,427
+652
+00:34:51,506 --> 00:34:53,132
 all the force fields
 on the station.
 
-637
-00:34:54,465 --> 00:34:55,627
-It might even be enough
+653
+00:34:53,132 --> 00:34:54,467
+KIRA:
+It might
+even be enough
 
-638
-00:34:55,668 --> 00:34:56,932
+654
+00:34:54,467 --> 00:34:56,302
 to eliminate
 the dampening field
 
-639
-00:34:57,005 --> 00:34:59,204
+655
+00:34:56,302 --> 00:34:58,055
 that's been keeping us
 from using our communicators.
 
-640
-00:34:59,244 --> 00:35:01,112
-Tell me something, Major
+656
+00:34:58,055 --> 00:34:59,890
+Tell me something, Major.
 
-641
-00:35:01,148 --> 00:35:04,988
-the Cardassian
+657
+00:34:59,890 --> 00:35:03,852
+The Cardassian
 neutralization emitters
 
-642
-00:35:05,026 --> 00:35:07,020
-that were under here...
+658
+00:35:03,852 --> 00:35:05,854
+that were under here--
 
-643
-00:35:07,064 --> 00:35:09,092
-I assume you deactivated them
+659
+00:35:05,854 --> 00:35:07,814
+I assume you
+deactivated them
 
-644
-00:35:09,136 --> 00:35:10,800
+660
+00:35:07,814 --> 00:35:10,776
 when you took control
 of this station?
-
-645
-00:35:10,841 --> 00:35:11,810
 That's right.
 
-646
-00:35:11,844 --> 00:35:14,078
-We prefer our containment fields
+661
+00:35:10,776 --> 00:35:12,903
+We prefer our
+containment fields
 to be nonlethal.
 
-647
-00:35:14,116 --> 00:35:16,918
+662
+00:35:12,903 --> 00:35:15,655
 But are the emitters
 still in place?
 
-648
-00:35:16,957 --> 00:35:17,926
+663
+00:35:15,655 --> 00:35:17,783
 As far as I know.
-
-649
-00:35:17,959 --> 00:35:19,053
 Excellent!
 
-650
-00:35:19,095 --> 00:35:21,693
+664
+00:35:17,783 --> 00:35:20,410
 That means that they
 have not been affected
 
-651
-00:35:21,735 --> 00:35:24,139
+665
+00:35:20,410 --> 00:35:22,955
 by the counterinsurgency
 program.
 
-652
-00:35:24,175 --> 00:35:27,581
+666
+00:35:22,955 --> 00:35:26,458
 That means, we still
 have control of them.
 
-653
-00:35:27,618 --> 00:35:28,848
+667
+00:35:26,458 --> 00:35:27,584
+DAX:
 Then, if we can get
 the emitters
 
-654
-00:35:28,888 --> 00:35:32,158
-back on line, we can use them
-to overload the power grid.
+668
+00:35:27,584 --> 00:35:29,168
+back on line,
+we can use them
 
-655
-00:35:32,196 --> 00:35:33,529
+669
+00:35:29,168 --> 00:35:32,297
+to overload
+the power grid.
 Exactly.
 
-656
-00:35:33,566 --> 00:35:35,970
+670
+00:35:32,297 --> 00:35:34,716
 Do you think it'll be enough
 to eliminate the force fields?
 
-657
-00:35:36,073 --> 00:35:37,372
+671
+00:35:34,716 --> 00:35:37,928
 Unfortunately, we'll lose
-
-658
-00:35:37,409 --> 00:35:39,175
 the turbolifts
 and the transporters
 
-659
-00:35:39,214 --> 00:35:41,709
+672
+00:35:37,928 --> 00:35:40,430
 but they aren't much use
 to us right now anyway.
 
-660
-00:35:42,857 --> 00:35:44,987
+673
+00:35:41,514 --> 00:35:43,683
 Let's give it a try.
 
-661
-00:35:45,063 --> 00:35:46,157
+674
+00:35:43,683 --> 00:35:44,935
+SISKO:
 Anything?
 
-662
-00:35:46,199 --> 00:35:47,429
+675
+00:35:44,935 --> 00:35:46,645
 I only got a couple
 a hundred meters
 
-663
-00:35:47,469 --> 00:35:48,665
+676
+00:35:46,645 --> 00:35:48,480
 and I was stopped
 by a force field.
-
-664
-00:35:48,705 --> 00:35:49,765
 How about you?
 
-665
-00:35:49,808 --> 00:35:51,334
-We didn't even get that far.
+677
+00:35:48,480 --> 00:35:50,107
+JAKE:
+We didn't even
+get that far.
 
-666
-00:35:51,380 --> 00:35:54,616
+678
+00:35:50,107 --> 00:35:53,234
 There's got to be
 some way up to Ops.
 
-667
-00:35:54,654 --> 00:35:57,126
+679
+00:35:53,234 --> 00:35:55,821
 The turbolift shaft!
 
-668
-00:35:57,161 --> 00:35:58,893
+680
+00:35:55,821 --> 00:35:57,739
 We can climb it
 all the way to Ops.
 
-669
-00:35:58,932 --> 00:36:00,835
+681
+00:35:57,739 --> 00:36:00,575
 Let's see if we can get
 these doors open.
 
-670
-00:36:01,839 --> 00:36:03,810
+682
+00:36:00,575 --> 00:36:02,452
 Dukat, we're running
 out of time.
 
-671
-00:36:03,845 --> 00:36:05,611
+683
+00:36:02,452 --> 00:36:04,203
 I am almost done.
 
-672
-00:36:05,650 --> 00:36:11,222
+684
+00:36:04,203 --> 00:36:09,751
 I've got the emitters wired
 into the control panel.
 
-673
-00:36:11,264 --> 00:36:15,674
+685
+00:36:09,751 --> 00:36:14,339
 Now, all I have to do
 is reattach them...
 
-674
-00:36:15,709 --> 00:36:19,013
-to the power grid, like so.
+686
+00:36:14,339 --> 00:36:17,801
+to the power grid,
+like so.
 
-675
-00:36:19,051 --> 00:36:21,683
-All right, I'm ready.
+687
+00:36:17,801 --> 00:36:18,927
+All right.
 
-676
-00:36:21,724 --> 00:36:23,695
+688
+00:36:18,927 --> 00:36:20,386
+I'm ready.
+
+689
+00:36:20,386 --> 00:36:22,388
 Brace yourselves.
 
-677
-00:36:40,005 --> 00:36:41,304
-Kira to Sisko.
+690
+00:36:24,182 --> 00:36:27,644
+(<i> prolonged explosions,</i>
+<i>electrical hissing</i> )
 
-678
-00:36:41,343 --> 00:36:43,007
+691
+00:36:36,402 --> 00:36:38,613
+(<i> machinery powering down</i> )
+
+692
+00:36:38,613 --> 00:36:41,491
+Kira to Sisko.
 Go ahead, Major.
 
-679
-00:36:43,046 --> 00:36:44,515
+693
+00:36:41,491 --> 00:36:44,077
 Oh, Commander,
 am I glad to hear you.
-
-680
-00:36:44,551 --> 00:36:45,520
 What's your location?
 
-681
-00:36:45,553 --> 00:36:47,045
+694
+00:36:44,077 --> 00:36:45,704
 Level 29, Section D.
 
-682
-00:36:47,091 --> 00:36:49,085
+695
+00:36:45,704 --> 00:36:47,956
 What's your status in Ops?
 
-683
-00:36:49,162 --> 00:36:51,030
+696
+00:36:47,956 --> 00:36:49,624
 We've got about ten minutes
 before the main reactor core
 
-684
-00:36:51,067 --> 00:36:52,867
+697
+00:36:49,624 --> 00:36:51,501
 overloads
 and destroys the station.
 
-685
-00:36:52,906 --> 00:36:54,968
+698
+00:36:51,501 --> 00:36:53,628
 The only way to stop it
 is to disengage
 
-686
-00:36:55,011 --> 00:36:56,310
+699
+00:36:53,628 --> 00:36:55,172
 the laser fusion initiator
 
-687
-00:36:56,347 --> 00:36:58,546
+700
+00:36:55,172 --> 00:36:57,256
 at one of the control
-junctions on level 34
+junctions on level 34,
 
-688
-00:36:58,587 --> 00:37:01,527
+701
+00:36:57,256 --> 00:37:00,177
 but the turbolifts
 and transporters are off-line.
 
-689
-00:37:01,562 --> 00:37:03,533
-They'll never get there in time.
+702
+00:37:00,177 --> 00:37:02,095
+They'll never
+get there in time.
 
-690
-00:37:03,567 --> 00:37:05,036
+703
+00:37:02,095 --> 00:37:03,889
 But we might.
 
-691
-00:37:05,070 --> 00:37:06,700
+704
+00:37:03,889 --> 00:37:05,348
 Major, Mr. O'Brien and I
 will handle the reactor.
 
-692
-00:37:06,741 --> 00:37:08,871
+705
+00:37:05,348 --> 00:37:07,142
 You begin evacuating
 the station.
 
-693
-00:37:08,914 --> 00:37:10,178
+706
+00:37:07,142 --> 00:37:08,852
 Get as many people as you can
 
-694
-00:37:10,217 --> 00:37:11,652
-to the <i>Defiant</i>
+707
+00:37:08,852 --> 00:37:10,436
+to the<i> Defiant</i>
 and the runabouts.
 
-695
-00:37:11,688 --> 00:37:13,556
+708
+00:37:10,436 --> 00:37:12,397
+KIRA:
 Understood. Good luck.
 
-696
-00:37:13,593 --> 00:37:15,861
+709
+00:37:12,397 --> 00:37:14,733
 Jake, I want you to head
 for Runabout Pad C.
 
-697
-00:37:15,899 --> 00:37:17,368
+710
+00:37:14,733 --> 00:37:16,484
 It's too far.
 I'll never make it.
 
-698
-00:37:17,402 --> 00:37:18,530
+711
+00:37:16,484 --> 00:37:18,695
 Listen to me, Jake!
-
-699
-00:37:18,572 --> 00:37:20,167
 I'm going with you.
 
-700
-00:37:23,117 --> 00:37:24,279
+712
+00:37:21,781 --> 00:37:22,991
 All right.
 
-701
-00:37:24,320 --> 00:37:26,519
+713
+00:37:22,991 --> 00:37:25,118
 Let's go.
 
-702
-00:37:33,845 --> 00:37:38,346
+714
+00:37:31,875 --> 00:37:36,295
+COMPUTER:
 Warning. Main fusion reactors
 will overload in seven minutes.
 
-703
-00:37:38,391 --> 00:37:40,157
+715
+00:37:36,295 --> 00:37:38,090
 Tell me something
 I don't already know.
 
-704
-00:37:40,195 --> 00:37:42,132
+716
+00:37:38,090 --> 00:37:40,175
+KIRA:
 Kira to Odo.
 
-705
-00:37:42,167 --> 00:37:43,797
+717
+00:37:40,175 --> 00:37:41,634
 Go ahead, Major.
 
-706
-00:37:43,837 --> 00:37:46,675
+718
+00:37:41,634 --> 00:37:44,763
 We're beginning
 evacuation procedures.
 
-707
-00:37:46,712 --> 00:37:48,376
+719
+00:37:44,763 --> 00:37:46,389
 The force fields
 have been deactivated
 
-708
-00:37:48,417 --> 00:37:51,391
+720
+00:37:46,389 --> 00:37:49,226
 and all the doors on the station
 should be operable.
 
-709
-00:37:53,295 --> 00:37:54,890
+721
+00:37:51,061 --> 00:37:52,812
 All except one.
 
-710
-00:37:54,933 --> 00:37:57,565
+722
+00:37:52,812 --> 00:37:55,440
 It seems the force field
 around my office
 
-711
-00:37:57,606 --> 00:37:59,075
+723
+00:37:55,440 --> 00:37:56,942
 is still in operation.
 
-712
-00:37:59,111 --> 00:38:01,606
+724
+00:37:56,942 --> 00:37:59,527
 I'll send a work team
 down immediately.
 
-713
-00:38:01,651 --> 00:38:06,152
+725
+00:37:59,527 --> 00:38:03,740
+COMPUTER:
 Warning. Main fusion reactors
 will overload in six minutes.
 
-714
-00:38:06,196 --> 00:38:08,498
-Are you telling me, we're
-the only ones still locked in?
+726
+00:38:03,740 --> 00:38:06,409
+Are you telling me
+we're the only ones
+still locked in?
 
-715
-00:38:08,535 --> 00:38:10,165
+727
+00:38:06,409 --> 00:38:08,245
 This force field must be
 
-716
-00:38:10,240 --> 00:38:12,735
+728
+00:38:08,245 --> 00:38:10,580
 on a separate system
-from the others
+from the others.
 
-717
-00:38:12,780 --> 00:38:14,181
-But why go to so much trouble
+729
+00:38:10,580 --> 00:38:12,207
+But why go to
+so much trouble
 
-718
-00:38:14,283 --> 00:38:16,517
-to keep people
-out of the security office?
+730
+00:38:12,207 --> 00:38:14,500
+to keep people out of
+the security office?
 
-719
-00:38:16,556 --> 00:38:17,582
-It's not to keep people out.
-
-720
-00:38:17,625 --> 00:38:19,562
+731
+00:38:14,500 --> 00:38:17,420
+It's not to
+keep people out.
 It's to keep me in.
 
-721
-00:38:19,597 --> 00:38:21,659
-I suppose,
-during the occupation
+732
+00:38:17,420 --> 00:38:19,589
+I suppose, during
+the occupation,
 
-722
-00:38:21,703 --> 00:38:23,104
+733
+00:38:19,589 --> 00:38:21,091
 the Cardassians considered
 
-723
-00:38:23,140 --> 00:38:25,134
+734
+00:38:21,091 --> 00:38:23,093
 their Security Chief
 a security risk.
 
-724
-00:38:25,178 --> 00:38:26,204
+735
+00:38:23,093 --> 00:38:25,595
 And I know why.
-
-725
-00:38:26,314 --> 00:38:27,613
 Oh, do you?
 
-726
-00:38:27,651 --> 00:38:30,351
+736
+00:38:25,595 --> 00:38:28,389
 It's because they knew you
-were an honorable man...
+were an honorable man--
 
-727
-00:38:30,392 --> 00:38:32,990
+737
+00:38:28,389 --> 00:38:30,850
 the kind of person who
 would do the right thing
 
-728
-00:38:33,032 --> 00:38:35,060
+738
+00:38:30,850 --> 00:38:33,019
 regardless of
 the circumstances.
 
-729
-00:38:35,104 --> 00:38:38,510
+739
+00:38:33,019 --> 00:38:36,481
 And now, your integrity...
 
-730
-00:38:38,547 --> 00:38:40,746
+740
+00:38:36,481 --> 00:38:38,608
 is going to get us
 both killed.
 
-731
-00:38:40,785 --> 00:38:42,653
+741
+00:38:38,608 --> 00:38:40,526
 I hope you're happy.
 
-732
-00:38:47,159 --> 00:38:51,968
+742
+00:38:45,824 --> 00:38:48,618
+COMPUTER:
 Warning. Main fusion reactors
+
+743
+00:38:48,618 --> 00:38:50,620
 will overload in five minutes.
 
-733
-00:38:52,004 --> 00:38:53,303
-Chief, did you ever finish
+744
+00:38:50,620 --> 00:38:52,371
+Chief, did you
+ever finish
 
-734
-00:38:53,341 --> 00:38:55,437
-those upgrades
-on the deflector shields?
+745
+00:38:52,371 --> 00:38:54,040
+those upgrades on
+the deflector shields?
 
-735
-00:38:55,480 --> 00:38:56,744
+746
+00:38:54,040 --> 00:38:55,208
 Yeah. Why?
 
-736
-00:38:56,783 --> 00:38:57,809
+747
+00:38:55,208 --> 00:38:56,417
 We may not have time
 
-737
-00:38:57,853 --> 00:38:59,483
-to disengage
-the fusion initiator.
+748
+00:38:56,417 --> 00:38:58,003
+to disengage the
+fusion initiator.
 
-738
-00:38:59,524 --> 00:39:00,993
+749
+00:38:58,003 --> 00:38:59,796
 What if we directed
 the explosion
 
-739
-00:39:01,028 --> 00:39:02,361
-into the shields?
-
-740
-00:39:02,398 --> 00:39:03,560
+750
+00:38:59,796 --> 00:39:02,132
+<i>into</i> the shields?
 That's not a bad idea.
 
-741
-00:39:03,635 --> 00:39:05,230
+751
+00:39:02,132 --> 00:39:03,800
 The shields are the only thing
 on the station
 
-742
-00:39:05,272 --> 00:39:06,468
+752
+00:39:03,800 --> 00:39:05,718
 that can absorb
 that much energy.
 
-743
-00:39:16,702 --> 00:39:18,970
+753
+00:39:15,312 --> 00:39:17,480
 That power surge we felt
 must have blown out
 
-744
-00:39:19,007 --> 00:39:20,567
+754
+00:39:17,480 --> 00:39:19,607
 one of the plasma conduits.
 
-745
-00:39:20,612 --> 00:39:22,880
+755
+00:39:19,607 --> 00:39:21,359
 The corridor's completely
 blocked for the next 50 meters.
 
-746
-00:39:22,918 --> 00:39:24,616
+756
+00:39:21,359 --> 00:39:23,528
 Can't we get around it?
 
-747
-00:39:24,655 --> 00:39:25,919
+757
+00:39:23,528 --> 00:39:24,737
 We don't have time.
 
-748
-00:39:27,330 --> 00:39:29,267
+758
+00:39:26,156 --> 00:39:28,241
 There might be a way.
 
-749
-00:39:29,301 --> 00:39:33,038
+759
+00:39:28,241 --> 00:39:31,786
 There's a maintenance conduit
 adjacent to this corridor.
 
-750
-00:39:33,078 --> 00:39:34,411
-If it's not blocked
+760
+00:39:31,786 --> 00:39:33,205
+If it's not blocked,
 
-751
-00:39:34,448 --> 00:39:37,786
-we might be able
-to get around the debris
+761
+00:39:33,205 --> 00:39:36,666
+we might be able to
+get around the debris
 
-752
-00:39:37,823 --> 00:39:39,657
-and get to the reactor
-control junction.
+762
+00:39:36,666 --> 00:39:38,626
+and get to
+the reactor control junction.
 
-753
-00:39:39,694 --> 00:39:40,856
+763
+00:39:38,626 --> 00:39:39,794
 Give me a hand.
 
-754
-00:39:53,063 --> 00:39:55,000
+764
+00:39:51,931 --> 00:39:53,766
 I can feel heat
 through the door.
 
-755
-00:40:02,587 --> 00:40:03,886
+765
+00:40:01,358 --> 00:40:02,567
 What's wrong?
 
-756
-00:40:03,924 --> 00:40:05,724
+766
+00:40:02,567 --> 00:40:04,402
 See for yourself.
 
-757
-00:40:12,347 --> 00:40:16,414
+767
+00:40:11,201 --> 00:40:15,247
+COMPUTER:
 Warning. Main fusion reactors
 will overload in three minutes.
 
-758
-00:40:16,457 --> 00:40:17,892
+768
+00:40:15,247 --> 00:40:16,539
 I want you to wait here.
 
-759
-00:40:17,928 --> 00:40:18,897
+769
+00:40:16,539 --> 00:40:17,790
 Ah, but...
 
-760
-00:40:18,930 --> 00:40:20,456
-I mean it this time.
+770
+00:40:17,790 --> 00:40:19,042
+I mean it
+this time.
 
-761
-00:40:27,586 --> 00:40:28,782
+771
+00:40:26,341 --> 00:40:27,717
 I'll go first.
 
-762
-00:40:28,889 --> 00:40:31,453
-Follow five meters behind me.
+772
+00:40:27,717 --> 00:40:30,220
+Follow five
+meters behind me.
 
-763
-00:40:31,496 --> 00:40:33,934
+773
+00:40:30,220 --> 00:40:32,555
 If one of us runs
 into trouble in here...
 
-764
-00:40:33,969 --> 00:40:35,268
+774
+00:40:32,555 --> 00:40:33,890
 I know, I know.
 
-765
-00:40:35,305 --> 00:40:37,834
-The other one keeps on going.
+775
+00:40:33,890 --> 00:40:36,475
+The other one
+keeps on going.
 
-766
-00:41:12,068 --> 00:41:14,062
+776
+00:40:52,575 --> 00:40:53,993
+(<i> cries out</i> )
+
+777
+00:41:04,212 --> 00:41:06,505
+(<i> yells</i> )
+
+778
+00:41:06,505 --> 00:41:09,217
+(<i> groaning</i> )
+
+779
+00:41:10,676 --> 00:41:12,762
 O'Brien!
 
-767
-00:41:45,354 --> 00:41:50,129
+780
+00:41:23,022 --> 00:41:24,732
+(<i> groaning</i> )
+
+781
+00:41:43,709 --> 00:41:48,673
+COMPUTER:
 Warning. Main fusion reactors
 will overload in 90 seconds.
 
-768
-00:41:50,167 --> 00:41:51,602
+782
+00:41:48,673 --> 00:41:50,342
 Sisko to O'Brien.
 
-769
-00:41:51,637 --> 00:41:54,007
+783
+00:41:50,342 --> 00:41:52,593
 Chief, can you hear me?
 
-770
-00:41:55,648 --> 00:41:58,486
+784
+00:41:54,304 --> 00:41:57,182
 Chief, answer me!
 
-771
-00:42:03,836 --> 00:42:08,280
+785
+00:42:02,603 --> 00:42:06,983
+COMPUTER:
 Warning. Main fusion reactors
 will overload in 60 seconds.
 
-772
-00:42:21,949 --> 00:42:25,948
+786
+00:42:11,112 --> 00:42:13,156
+(<i> groaning</i> )
+
+787
+00:42:20,621 --> 00:42:24,542
 Warning. Main fusion reactors
 will overload in 30 seconds.
 
-773
-00:42:47,315 --> 00:42:51,280
+788
+00:42:31,549 --> 00:42:33,468
+(<i> coughing</i> )
+
+789
+00:42:46,105 --> 00:42:49,901
 Jake... I thought
 your father told you
 
-774
-00:42:51,326 --> 00:42:53,798
+790
+00:42:49,901 --> 00:42:52,278
 to stay out of there.
 
-775
-00:42:56,472 --> 00:42:58,876
-If you don't tell him, I won't.
+791
+00:42:55,114 --> 00:42:57,367
+If you don't
+tell him, I won't.
 
-776
-00:43:03,524 --> 00:43:06,726
+792
+00:43:02,163 --> 00:43:05,250
+COMPUTER:
 Warning. Main fusion
 reactor overload.
 
-777
-00:43:30,594 --> 00:43:33,396
+793
+00:43:22,308 --> 00:43:24,852
+(<i> panting</i> )
+
+794
+00:43:24,852 --> 00:43:26,396
+(<i> sighs</i> )
+
+795
+00:43:29,148 --> 00:43:31,984
 O'Brien to Sisko.
 
-778
-00:43:33,435 --> 00:43:34,870
+796
+00:43:31,984 --> 00:43:33,361
 Chief, you're all right?
 
-779
-00:43:37,946 --> 00:43:40,248
+797
+00:43:36,655 --> 00:43:38,824
 Yeah, looks like we all are.
 
-780
-00:43:47,672 --> 00:43:48,902
+798
+00:43:46,249 --> 00:43:48,334
 Ah. It's about time.
 
-781
-00:43:48,942 --> 00:43:52,007
+799
+00:43:48,334 --> 00:43:50,628
 All right, Quark,
 you can leave now.
 
-782
-00:43:52,050 --> 00:43:54,522
-"A self-important con artist
+800
+00:43:50,628 --> 00:43:53,214
+"A self-important
+con artist
 
-783
-00:43:54,556 --> 00:43:58,521
-who's nowhere near as clever
+801
+00:43:53,214 --> 00:43:55,091
+"who's nowhere
+near as clever
+
+802
+00:43:55,091 --> 00:43:57,218
 as he thinks he is."
 
-784
-00:43:58,566 --> 00:44:01,972
+803
+00:43:57,218 --> 00:44:00,597
 That's your official
 security evaluation of me.
 
-785
-00:44:02,008 --> 00:44:04,674
+804
+00:44:00,597 --> 00:44:03,182
 Quark, I told you
-to stay away from the computer.
+to stay away
+from the computer.
 
-786
-00:44:04,716 --> 00:44:07,086
-Two hours ago, you told me
+805
+00:44:03,182 --> 00:44:05,893
+Two hours ago,
+you told me
 
-787
-00:44:07,156 --> 00:44:09,720
+806
+00:44:05,893 --> 00:44:08,354
 I was the most devious
 Ferengi you ever met.
 
-788
-00:44:09,762 --> 00:44:11,322
-I thought we were going to die.
-
-789
-00:44:11,366 --> 00:44:12,596
+807
+00:44:08,354 --> 00:44:11,149
+I thought we
+were going to die.
 I was trying to be nice.
 
-790
-00:44:12,636 --> 00:44:15,200
+808
+00:44:11,149 --> 00:44:13,776
 Name one Ferengi
-who's more devious than I am.
+who's more
+devious than I am.
 
-791
-00:44:15,243 --> 00:44:16,337
+809
+00:44:13,776 --> 00:44:14,902
 Grand Nagus.
 
-792
-00:44:16,379 --> 00:44:18,373
+810
+00:44:14,902 --> 00:44:16,946
 All right.
 Name another.
 
-793
-00:44:18,418 --> 00:44:19,409
+811
+00:44:16,946 --> 00:44:17,989
 DaiMon Tye.
 
-794
-00:44:19,454 --> 00:44:21,118
-One you personally know.
+812
+00:44:17,989 --> 00:44:19,865
+One you
+personally know.
 
-795
-00:44:21,158 --> 00:44:22,388
+813
+00:44:19,865 --> 00:44:20,992
 Your brother Rom.
 
-796
-00:44:22,428 --> 00:44:23,419
+814
+00:44:20,992 --> 00:44:22,034
 My brother?
 
-797
-00:44:23,465 --> 00:44:24,832
+815
+00:44:22,034 --> 00:44:23,536
 Your Uncle Frin.
 
-798
-00:44:24,868 --> 00:44:25,996
+816
+00:44:23,536 --> 00:44:24,703
 Frin?
 
-799
-00:44:26,038 --> 00:44:27,633
+817
+00:44:24,703 --> 00:44:26,247
 Your cousin, Gaila.
 
-800
-00:44:27,675 --> 00:44:29,646
-Gaila! The one with the moon?
-
+818
+00:44:26,247 --> 00:44:28,291
+Gaila! The one
+with the moon?

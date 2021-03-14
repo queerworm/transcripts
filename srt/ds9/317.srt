@@ -1,4008 +1,4000 @@
-﻿1
-00:00:04,971 --> 00:00:06,338
+1
+00:00:04,087 --> 00:00:07,341
 It's all right, Chief.
-
-2
-00:00:06,375 --> 00:00:08,175
 You're going to be just fine.
 
-3
-00:00:08,213 --> 00:00:09,341
+2
+00:00:08,759 --> 00:00:09,885
 What happened?
 
-4
-00:00:09,383 --> 00:00:11,787
+3
+00:00:09,885 --> 00:00:11,470
 You were rerouting
 a phase inducer
 
-5
-00:00:11,822 --> 00:00:14,090
-when one of the plasma conduits
-blew out.
+4
+00:00:11,470 --> 00:00:13,764
+when one of the plasma
+conduits blew out.
 
-6
-00:00:14,129 --> 00:00:15,530
+5
+00:00:13,764 --> 00:00:15,808
 Oh.
 
-7
-00:00:15,565 --> 00:00:16,534
+6
+00:00:15,808 --> 00:00:19,186
 Easy there, Chief.
-
-8
-00:00:16,567 --> 00:00:19,165
 You've got a mild case
 of radiation poisoning.
 
-9
-00:00:19,208 --> 00:00:21,008
-I'll give you some hyronalin
+7
+00:00:19,186 --> 00:00:22,230
+I'll give you some
+hyronalin which should
+counteract the effects,
 
-10
-00:00:21,047 --> 00:00:22,642
-which should
-counteract the effects
-
-11
-00:00:22,684 --> 00:00:24,119
+8
+00:00:22,230 --> 00:00:24,149
 but I do think
 he should be restricted
 
-12
-00:00:24,155 --> 00:00:25,522
+9
+00:00:24,149 --> 00:00:25,734
 to light duty
 for the next few days.
 
-13
-00:00:25,558 --> 00:00:27,027
+10
+00:00:25,734 --> 00:00:26,694
 Agreed.
 
-14
-00:00:27,062 --> 00:00:30,127
+11
+00:00:26,694 --> 00:00:28,153
 Commander,
+
+12
+00:00:28,153 --> 00:00:29,738
 the transport's arrived
 
-15
-00:00:30,170 --> 00:00:31,800
+13
+00:00:29,738 --> 00:00:31,448
 and they're requesting
 permission to dock.
 
-16
-00:00:31,841 --> 00:00:33,573
+14
+00:00:31,448 --> 00:00:33,200
 Route them to Docking Bay 12.
 
-17
-00:00:33,612 --> 00:00:37,179
+15
+00:00:33,200 --> 00:00:34,869
 Inform the Romulan Delegation
-we'll meet them there.
+
+16
+00:00:34,869 --> 00:00:36,829
+we'll meet
+them there.
+
+17
+00:00:36,829 --> 00:00:38,622
+(<i> groans</i> )
 
 18
-00:00:40,964 --> 00:00:43,961
-And Chief, "light duty"
+00:00:40,624 --> 00:00:43,335
+And, Chief, "light duty"
 means light.
 
 19
-00:00:44,005 --> 00:00:45,565
-I don't want to see you
-crawling around
+00:00:43,335 --> 00:00:45,713
+I don't want
+to see you crawling around
+the Jefferies tube tonight
 
 20
-00:00:45,610 --> 00:00:48,482
-the Jefferies tube tonight
+00:00:45,713 --> 00:00:47,923
 looking for power surges.
 
 21
-00:00:48,518 --> 00:00:52,255
+00:00:47,923 --> 00:00:50,300
 You won't get any arguments
 today, Commander.
 
 22
-00:00:52,294 --> 00:00:53,889
+00:00:52,845 --> 00:00:53,929
 Ready, Major?
 
 23
-00:01:06,164 --> 00:01:07,531
+00:01:05,774 --> 00:01:06,984
 Promenade.
 
 24
-00:01:15,588 --> 00:01:17,422
-<i>Du'cha KovaH!</i>
-
-25
-00:01:17,460 --> 00:01:19,694
+00:01:15,034 --> 00:01:19,287
+KLINGON:<i> Du'cha KovaH!</i>
 <i>EstaH! EstaH!</i>
 
-26
-00:01:19,731 --> 00:01:21,200
-Constable, I wasn't aware
+25
+00:01:19,287 --> 00:01:20,873
+Constable,
+I wasn't aware
 
-27
-00:01:21,236 --> 00:01:23,606
+26
+00:01:20,873 --> 00:01:22,624
 there were any Klingons
 on the station.
 
-28
-00:01:23,642 --> 00:01:26,444
+27
+00:01:22,624 --> 00:01:25,002
 They just arrived
 a few hours ago.
 
-29
-00:01:26,483 --> 00:01:29,582
+28
+00:01:25,002 --> 00:01:28,505
 It seems the main computer
 on their freighter was damaged
 
-30
-00:01:29,624 --> 00:01:31,720
+29
+00:01:28,505 --> 00:01:30,925
 and they need
 a complete overhaul
 
-31
-00:01:31,763 --> 00:01:34,999
+30
+00:01:30,925 --> 00:01:34,219
 before they can continue
 back to the Klingon Empire.
 
-32
-00:01:35,038 --> 00:01:36,507
+31
+00:01:34,219 --> 00:01:36,095
 How long is this overhaul
 going to take?
 
+32
+00:01:36,095 --> 00:01:38,766
+(<i> belches</i> )
+
 33
-00:01:39,215 --> 00:01:40,879
+00:01:38,766 --> 00:01:40,392
 Two days, at least.
 
 34
-00:01:43,126 --> 00:01:45,290
+00:01:42,770 --> 00:01:45,064
 The Romulan delegation
 has just arrived
 
 35
-00:01:45,331 --> 00:01:47,929
+00:01:45,064 --> 00:01:47,524
 and they're going to be here
 at least two days
 
 36
-00:01:47,971 --> 00:01:50,307
+00:01:47,524 --> 00:01:50,235
 while they study
 our intelligence reports
-
-37
-00:01:50,344 --> 00:01:51,711
 on the Dominion.
 
-38
-00:01:51,749 --> 00:01:53,845
+37
+00:01:50,235 --> 00:01:52,529
 I want you to keep a close eye
 on the Klingons.
 
-39
-00:01:53,887 --> 00:01:55,517
+38
+00:01:52,529 --> 00:01:54,615
 We don't need
 any trouble right now.
 
-40
-00:01:55,559 --> 00:01:56,528
+39
+00:01:54,615 --> 00:01:56,033
 Understood.
 
-41
-00:01:56,561 --> 00:01:57,825
+40
+00:01:56,033 --> 00:01:57,451
 Let's go.
 
-42
-00:01:57,864 --> 00:01:59,767
+41
+00:01:57,451 --> 00:01:58,911
 Come on.
 
-43
-00:02:22,862 --> 00:02:24,195
+42
+00:02:22,392 --> 00:02:25,104
 Welcome to Deep Space 9.
+I'm Commander Sisko,
+
+43
+00:02:25,104 --> 00:02:28,189
+and this is
+my first Officer,
+Major Kira.
 
 44
-00:02:24,232 --> 00:02:28,733
-I'm Commander Sisko, and this is
-my First Officer, Major Kira.
-
-45
-00:02:30,415 --> 00:02:32,249
+00:02:29,858 --> 00:02:32,569
 I am Ruwon.
 This is Karina.
 
-46
-00:02:32,286 --> 00:02:35,419
+45
+00:02:32,569 --> 00:02:34,863
 We are ready for your report
 on the Dominion.
 
-47
-00:02:35,461 --> 00:02:36,760
+46
+00:02:34,863 --> 00:02:36,657
 We have arranged
 quarters for you.
 
+47
+00:02:36,657 --> 00:02:38,700
+I know it's been
+a long trip, so
+perhaps you'd like...
+
 48
-00:02:36,798 --> 00:02:38,997
-I know it's been a long trip,
-so perhaps you'd like to...
-
-49
-00:02:39,038 --> 00:02:40,029
+00:02:38,700 --> 00:02:40,995
 We are not interested
-
-50
-00:02:40,074 --> 00:02:41,543
 in your accommodations,
 Commander.
 
-51
-00:02:41,577 --> 00:02:43,445
+49
+00:02:40,995 --> 00:02:44,372
 We are here for
-your intelligence briefing...
-
-52
-00:02:43,549 --> 00:02:44,950
+your intelligence briefing--
 nothing else.
 
-53
-00:02:48,529 --> 00:02:49,589
+50
+00:02:47,709 --> 00:02:48,919
 Very well.
 
-54
-00:02:49,632 --> 00:02:51,900
-If you'll come this way.
+51
+00:02:48,919 --> 00:02:50,712
+If you'll
+come this way.
 
-55
-00:03:00,259 --> 00:03:01,854
-This will be the foul line.
+52
+00:02:59,596 --> 00:03:01,180
+This will be
+the foul line.
 
-56
-00:03:01,897 --> 00:03:03,697
+53
+00:03:01,180 --> 00:03:03,266
 We need to put a marker
 here on the floor.
 
-57
-00:03:03,736 --> 00:03:04,864
-I still don't see
-
-58
-00:03:04,904 --> 00:03:07,068
-how this is going to help
+54
+00:03:03,266 --> 00:03:06,394
+I still don't see how
+this is going to help
 my business, Chief.
 
-59
-00:03:07,111 --> 00:03:09,413
+55
+00:03:06,394 --> 00:03:10,189
 No, that's not right.
-
-60
-00:03:09,450 --> 00:03:12,150
 The number 20 needs
 to be at the top.
 
-61
-00:03:12,190 --> 00:03:14,024
+56
+00:03:12,442 --> 00:03:16,321
 Trust me, Quark.
-
-62
-00:03:14,062 --> 00:03:16,968
 Darts and bars go together
 like bacon and eggs.
 
-63
-00:03:17,003 --> 00:03:19,167
-At least people order
+57
+00:03:16,321 --> 00:03:19,074
+At least people<i> order</i>
 bacon and eggs.
 
-64
-00:03:19,208 --> 00:03:21,042
+58
+00:03:19,074 --> 00:03:21,827
 In all the years
 I've been here,
-
-65
-00:03:21,080 --> 00:03:24,213
 no one has ever come
-and asked to see the dart board.
 
-66
-00:03:24,255 --> 00:03:25,485
+59
+00:03:21,827 --> 00:03:23,620
+and asked to see
+the dart board.
+
+60
+00:03:23,620 --> 00:03:25,164
 Trust me, they will.
 
-67
-00:03:25,558 --> 00:03:28,190
-I just don't see
-the appeal of this game.
+61
+00:03:25,164 --> 00:03:28,625
+I just don't see the
+appeal of this game.
 
-68
-00:03:29,268 --> 00:03:32,036
+62
+00:03:28,625 --> 00:03:31,419
 No lasers, no holograms.
 
-69
-00:03:32,075 --> 00:03:35,481
-Just steel tips and feathers.
+63
+00:03:31,419 --> 00:03:34,756
+Just steel tips
+and feathers.
 
-70
-00:03:35,517 --> 00:03:37,351
+64
+00:03:34,756 --> 00:03:37,968
 It's a game of skill, Quark.
-
-71
-00:03:37,389 --> 00:03:38,653
 And it's not easy.
 
-72
-00:03:38,692 --> 00:03:39,922
+65
+00:03:37,968 --> 00:03:39,928
 Go ahead.
 
-73
-00:03:41,065 --> 00:03:43,059
+66
+00:03:39,928 --> 00:03:42,430
 Try and get one
 in the bull's-eye.
 
-74
-00:03:45,243 --> 00:03:46,303
+67
+00:03:42,430 --> 00:03:44,641
+(<i> sighs</i> )
+
+68
+00:03:44,641 --> 00:03:45,642
 No!
 
-75
-00:03:50,389 --> 00:03:53,363
+69
+00:03:49,688 --> 00:03:52,858
 Now what if one of those darts
 had gotten into his eye?
 
-76
-00:03:53,397 --> 00:03:55,561
+70
+00:03:52,858 --> 00:03:54,860
 Do you realize
 I'd be liable for that?
 
-77
-00:03:55,669 --> 00:03:58,039
+71
+00:03:54,860 --> 00:03:56,945
 Do you know how much
 money an eye costs?
 
-78
-00:03:58,076 --> 00:04:00,275
-You're not supposed
-to throw them like that.
+72
+00:03:56,945 --> 00:03:59,614
+You're not supposed to
+throw them like that.
 
-79
-00:04:00,315 --> 00:04:03,221
+73
+00:03:59,614 --> 00:04:02,242
 You throw them gently.
 
-80
-00:04:03,257 --> 00:04:04,726
+74
+00:04:02,242 --> 00:04:04,036
 One at a time.
 
-81
-00:04:04,760 --> 00:04:05,990
+75
+00:04:04,036 --> 00:04:05,204
 Like this.
 
-82
-00:04:10,408 --> 00:04:11,377
-Chief O'Brien.
+76
+00:04:09,583 --> 00:04:12,044
+QUARK: Chief O'Brien.
+O'BRIEN: What is it, Quark?
 
-83
-00:04:11,411 --> 00:04:12,539
-What is it, Quark?
-
-84
-00:04:12,580 --> 00:04:13,549
+77
+00:04:12,044 --> 00:04:14,213
 The Klingons
+just destroyed two
+of my holosuites.
 
-85
-00:04:13,583 --> 00:04:15,247
-just destroyed
-two of my holosuites.
+78
+00:04:14,213 --> 00:04:16,381
+I need a maintenance
+crew immediately.
 
-86
-00:04:15,288 --> 00:04:17,054
-I need a maintenance crew
-immediately.
-
-87
-00:04:17,092 --> 00:04:18,254
+79
+00:04:16,381 --> 00:04:19,300
 Quark, this happens
-
-88
-00:04:18,296 --> 00:04:20,324
 every time the Klingons
 come aboard the station.
 
-89
-00:04:20,367 --> 00:04:22,531
+80
+00:04:19,300 --> 00:04:21,469
+O'BRIEN:
 Why don't you just keep
 them out of the holosuites?
 
-90
-00:04:22,572 --> 00:04:24,806
+81
+00:04:21,469 --> 00:04:26,183
 Did you ever say no
 to a Klingon?
-
-91
-00:04:24,845 --> 00:04:27,009
 Besides, they pay me double.
 
-92
-00:04:36,643 --> 00:04:37,942
+82
+00:04:36,110 --> 00:04:37,236
 Chief?
 
-93
-00:04:37,980 --> 00:04:39,142
+83
+00:04:37,236 --> 00:04:38,319
 Chief!
 
-94
-00:06:35,797 --> 00:06:39,101
-Well, the pain you experienced
-appears to be a muscle spasm
+84
+00:06:36,521 --> 00:06:38,690
+Well, the pain
+you experienced
 
-95
-00:06:39,140 --> 00:06:42,376
-caused by a sudden decrease
-in your serum calcium levels.
+85
+00:06:38,690 --> 00:06:40,399
+appears to be
+a muscle spasm
 
-96
-00:06:42,414 --> 00:06:45,820
-It's a common side effect
-of radiation poisoning.
+86
+00:06:40,399 --> 00:06:42,069
+caused by a
+sudden decrease
 
-97
-00:06:45,856 --> 00:06:48,328
+87
+00:06:42,069 --> 00:06:43,778
+in your serum
+calcium levels.
+
+88
+00:06:43,778 --> 00:06:45,197
+It's a common
+side effect
+
+89
+00:06:45,197 --> 00:06:46,907
+of radiation
+poisoning.
+
+90
+00:06:46,907 --> 00:06:49,576
 I'm giving you some
 asinolyathin for the pain.
 
-98
-00:06:48,363 --> 00:06:50,995
-What about the vision I had?
+91
+00:06:49,576 --> 00:06:52,204
+What about
+the vision I had?
 
-99
-00:06:51,037 --> 00:06:52,597
-Well, mild hallucinations
+92
+00:06:52,204 --> 00:06:54,039
+Well, mild
+hallucinations
 
-100
-00:06:52,641 --> 00:06:55,011
+93
+00:06:54,039 --> 00:06:55,749
 are also a fairly
 common side effect
 
-101
-00:06:55,047 --> 00:06:56,516
-of radiation poisoning.
+94
+00:06:55,749 --> 00:06:57,500
+of radiation
+poisoning.
 
-102
-00:06:56,551 --> 00:06:58,681
+95
+00:06:57,500 --> 00:06:59,920
 It was anything but mild.
 
-103
-00:06:58,723 --> 00:07:02,756
-I really felt
-I was standing on the Promenade
+96
+00:06:59,920 --> 00:07:03,715
+I really felt I was
+standing on the Promenade
 
-104
-00:07:02,800 --> 00:07:05,272
+97
+00:07:03,715 --> 00:07:05,967
 watching myself
 talking to Quark.
 
-105
-00:07:05,307 --> 00:07:06,867
-What was the conversation about?
+98
+00:07:05,967 --> 00:07:08,053
+What was the
+conversation about?
 
-106
-00:07:06,911 --> 00:07:09,475
+99
+00:07:08,053 --> 00:07:10,180
 He was complaining
 about some Klingons.
 
-107
-00:07:09,518 --> 00:07:13,460
+100
+00:07:10,180 --> 00:07:13,850
 He said they'd damaged
 two of his holosuites.
 
-108
-00:07:13,494 --> 00:07:16,366
-Well, you do have one problem.
+101
+00:07:13,850 --> 00:07:16,895
+Well, you do have
+<i>one</i> problem.
 
-109
-00:07:16,402 --> 00:07:18,897
-If all you can hallucinate about
-is Quark's maintenance problems
+102
+00:07:16,895 --> 00:07:19,356
+If all you can hallucinate
+about is Quark's
+maintenance problems,
 
-110
-00:07:18,942 --> 00:07:20,572
+103
+00:07:19,356 --> 00:07:21,316
 you have a sadly
 deficient fantasy life.
 
-111
-00:07:21,717 --> 00:07:24,850
-Well, thank you
-for your professional opinion.
+104
+00:07:21,316 --> 00:07:22,984
+(<i> chuckles</i> )
 
-112
-00:07:24,892 --> 00:07:26,122
+105
+00:07:22,984 --> 00:07:25,153
+Well, thank you for
+your professional opinion.
+
+106
+00:07:25,153 --> 00:07:28,198
 Oh, any time.
+My doors are always
+open to<i> you,</i> Chief.
 
-113
-00:07:26,161 --> 00:07:28,291
-My doors are always open to you,
-Chief.
-
-114
-00:07:29,804 --> 00:07:32,333
+107
+00:07:30,450 --> 00:07:32,411
+RUWON:
 The Dominion represents
 the greatest threat
 
-115
-00:07:32,378 --> 00:07:34,542
+108
+00:07:32,411 --> 00:07:35,205
 to the Alpha Quadrant
 in the last century.
 
-116
-00:07:34,583 --> 00:07:37,557
+109
+00:07:35,205 --> 00:07:38,333
 We need more information
-on its military capabilities.
+on its military
+capabilities.
 
-117
-00:07:37,658 --> 00:07:39,150
-How many ships do they have?
+110
+00:07:38,333 --> 00:07:39,751
+How many ships
+do they have?
 
-118
-00:07:39,195 --> 00:07:40,528
-Where are they deployed?
+111
+00:07:39,751 --> 00:07:41,128
+Where are they
+deployed?
 
-119
-00:07:40,565 --> 00:07:42,729
+112
+00:07:41,128 --> 00:07:43,171
 What are their plans
 for the future?
 
-120
-00:07:42,771 --> 00:07:44,263
-Are they planning an attack?
+113
+00:07:43,171 --> 00:07:44,672
+Are they planning
+an attack?
 
-121
-00:07:44,309 --> 00:07:45,869
-We don't know any of that yet.
+114
+00:07:44,672 --> 00:07:46,758
+We don't know
+any of that yet.
 
-122
-00:07:45,912 --> 00:07:47,142
+115
+00:07:46,758 --> 00:07:49,761
 You have one of Founders
-
-123
-00:07:47,182 --> 00:07:49,176
 of the Dominion
 on this very station.
 
-124
-00:07:49,221 --> 00:07:51,750
+116
+00:07:49,761 --> 00:07:53,473
 He should be able to tell us
 everything we need to know
-
-125
-00:07:51,795 --> 00:07:52,855
 about their intentions.
 
-126
-00:07:52,897 --> 00:07:54,959
-Odo is not one of the Founders.
+117
+00:07:53,473 --> 00:07:55,642
+Odo is not one
+of the Founders.
 
-127
-00:07:55,003 --> 00:07:56,199
+118
+00:07:55,642 --> 00:07:58,145
 Your own reports indicate
-
-128
-00:07:56,239 --> 00:07:58,142
 that a group of changelings
-are the real
 
-129
-00:07:58,178 --> 00:07:59,910
-source of power
+119
+00:07:58,145 --> 00:08:00,563
+are the real source of power
 behind the Dominion.
 
-130
-00:07:59,949 --> 00:08:00,940
-Yes.
-
-131
-00:08:00,985 --> 00:08:02,352
+120
+00:08:00,563 --> 00:08:02,899
+KIRA: Yes.
 And Odo is a changeling.
 
-132
-00:08:02,389 --> 00:08:04,223
-But he's not
-one of the Founders.
+121
+00:08:02,899 --> 00:08:04,818
+But he's not one
+of the Founders.
 
-133
-00:08:04,260 --> 00:08:07,325
-I fail to see the distinction.
+122
+00:08:04,818 --> 00:08:06,778
+I fail to see
+the distinction.
 
-134
-00:08:07,369 --> 00:08:10,069
+123
+00:08:06,778 --> 00:08:10,490
 Odo made a conscious choice
 to stay here with us.
 
-135
-00:08:10,109 --> 00:08:12,046
+124
+00:08:10,490 --> 00:08:12,826
 He has no loyalties
 to the Dominion
 
-136
-00:08:12,080 --> 00:08:14,746
+125
+00:08:12,826 --> 00:08:15,329
 and he has no information
 about their plans.
 
-137
-00:08:14,787 --> 00:08:16,781
-We find that hard to believe.
+126
+00:08:15,329 --> 00:08:17,247
+We find that
+hard to believe.
 
-138
-00:08:16,826 --> 00:08:20,232
+127
+00:08:17,247 --> 00:08:20,750
 It's the truth, whether you
 choose to believe it or not.
 
-139
-00:08:32,567 --> 00:08:33,934
+128
+00:08:32,929 --> 00:08:36,183
 Commander, we allowed you
-
-140
-00:08:33,970 --> 00:08:36,772
 to place one of our cloaking
-devices on the <i>Defiant</i>
+devices on the<i> Defiant</i>
 
-141
-00:08:36,812 --> 00:08:39,614
+129
+00:08:36,183 --> 00:08:38,935
 in exchange for information
 regarding the Dominion.
 
-142
-00:08:39,652 --> 00:08:45,156
-Now you have the cloaking device
+130
+00:08:41,313 --> 00:08:43,731
+Now you have
+the cloaking device,
+
+131
+00:08:43,731 --> 00:08:45,608
 and we have very little.
 
-143
-00:08:45,200 --> 00:08:48,436
+132
+00:08:45,608 --> 00:08:48,820
+KARINA:
 We shouldn't have to remind you
 of the importance
 
-144
-00:08:48,475 --> 00:08:50,139
+133
+00:08:48,820 --> 00:08:52,573
 both our governments place
-
-145
-00:08:50,179 --> 00:08:52,207
 on continuing to carry out
 this agreement.
 
-146
-00:08:52,251 --> 00:08:53,618
-It's the first treaty
+134
+00:08:52,573 --> 00:08:57,037
+It's the first treaty between
+Romulus and the Federation
+in many years.
 
-147
-00:08:53,654 --> 00:08:56,628
-between Romulus and
-the Federation in many years.
-
-148
-00:08:56,662 --> 00:08:57,995
-I'm aware of that
-
-149
-00:08:58,032 --> 00:09:01,200
+135
+00:08:57,037 --> 00:09:01,749
+I'm aware of that,
 and I'm willing to cooperate
 with you in any way I can.
 
-150
-00:09:01,242 --> 00:09:02,268
+136
+00:09:01,749 --> 00:09:03,377
 Very well, then.
 
-151
-00:09:02,310 --> 00:09:05,010
+137
+00:09:03,377 --> 00:09:05,504
 We want to see
 every piece of information
 
-152
-00:09:05,051 --> 00:09:09,016
+138
+00:09:05,504 --> 00:09:08,507
 Starfleet has on the Dominion,
 no matter how insignificant.
 
-153
-00:09:09,061 --> 00:09:10,587
+139
+00:09:08,507 --> 00:09:10,717
 That includes
 any classified reports
 
-154
-00:09:10,633 --> 00:09:12,331
+140
+00:09:10,717 --> 00:09:12,760
 you may have made
 to Starfleet Command.
 
-155
-00:09:12,370 --> 00:09:14,204
+141
+00:09:12,760 --> 00:09:14,679
 I'll have to clear that
 with Starfleet.
 
-156
-00:09:14,241 --> 00:09:15,733
+142
+00:09:14,679 --> 00:09:16,181
 Then do it.
 
-157
-00:09:29,180 --> 00:09:31,048
+143
+00:09:29,444 --> 00:09:31,238
+QUARK:
 Chief O'Brien.
 
-158
-00:09:31,085 --> 00:09:32,349
+144
+00:09:31,238 --> 00:09:33,114
 What is it, Quark?
 
-159
-00:09:32,388 --> 00:09:35,419
+145
+00:09:33,114 --> 00:09:35,867
 The Klingons just destroyed
 two of my holosuites.
 
-160
-00:09:35,463 --> 00:09:37,331
-I need a maintenance crew
-immediately.
+146
+00:09:35,867 --> 00:09:37,744
+I need a maintenance
+crew immediately.
 
-161
-00:09:37,368 --> 00:09:38,963
+147
+00:09:37,744 --> 00:09:39,371
 Quark, we go through this
 
-162
-00:09:39,006 --> 00:09:41,740
+148
+00:09:39,371 --> 00:09:42,082
 every time Klingons
 come aboard the station.
 
-163
-00:09:41,813 --> 00:09:43,716
-Why don't you ju?
+149
+00:09:42,082 --> 00:09:43,583
+Why don't you ju...?
 
-164
-00:09:49,366 --> 00:09:51,600
+150
+00:09:49,756 --> 00:09:52,259
 I think my holosuites
 can wait.
 
-165
-00:09:51,639 --> 00:09:54,545
+151
+00:09:52,259 --> 00:09:54,844
 It looks like you have
 bigger problems.
 
-166
-00:10:01,130 --> 00:10:02,964
+152
+00:10:01,435 --> 00:10:04,479
 I went over
 the internal sensor logs
-
-167
-00:10:03,001 --> 00:10:04,197
 and I did find evidence
 
-168
-00:10:04,238 --> 00:10:06,266
+153
+00:10:04,479 --> 00:10:06,606
 of a minor temporal
 disturbance in Quark's
 
-169
-00:10:06,311 --> 00:10:09,410
+154
+00:10:06,606 --> 00:10:08,983
 and another one later,
 on the Promenade.
 
-170
-00:10:09,452 --> 00:10:11,616
+155
+00:10:08,983 --> 00:10:11,403
 Both disturbances happened
 at about the same time
 
-171
-00:10:11,657 --> 00:10:12,751
+156
+00:10:11,403 --> 00:10:13,154
 as the Chief's experiences.
 
-172
-00:10:12,794 --> 00:10:14,024
+157
+00:10:13,154 --> 00:10:15,031
 So, it would seem
 
-173
-00:10:14,064 --> 00:10:16,194
-that you did travel
+158
+00:10:15,031 --> 00:10:17,033
+that you<i> did</i> travel
 into the future
 
-174
-00:10:16,235 --> 00:10:18,639
+159
+00:10:17,033 --> 00:10:20,579
 and then returned
 to the same moment
-
-175
-00:10:18,675 --> 00:10:20,110
 that you left.
 
-176
-00:10:20,146 --> 00:10:24,556
+160
+00:10:20,579 --> 00:10:24,958
 Have you any idea what might
 have caused this time shift?
 
-177
-00:10:24,591 --> 00:10:25,685
+161
+00:10:24,958 --> 00:10:26,960
 Not yet.
 
-178
-00:10:25,728 --> 00:10:27,562
+162
+00:10:26,960 --> 00:10:30,088
 I want to go over
 the medical scans
-
-179
-00:10:27,599 --> 00:10:29,034
 Julian took of you earlier.
 
-180
-00:10:29,069 --> 00:10:31,439
+163
+00:10:30,088 --> 00:10:32,549
 That dose of ionizing
 radiation you received
 
-181
-00:10:31,476 --> 00:10:33,971
+164
+00:10:32,549 --> 00:10:34,426
 might have something
 to do with it.
 
-182
-00:10:34,015 --> 00:10:35,211
+165
+00:10:34,426 --> 00:10:36,303
 How?
-
-183
-00:10:35,252 --> 00:10:37,690
 I'm not sure,
-but it's a good place to start.
 
-184
-00:10:37,725 --> 00:10:39,355
+166
+00:10:36,303 --> 00:10:38,012
+but it's a good
+place to start.
+
+167
+00:10:38,012 --> 00:10:39,680
 I have heard
 a couple of theories
 
-185
-00:10:39,396 --> 00:10:42,198
-that ambient low-level radiation
-could have a temporal...
+168
+00:10:39,680 --> 00:10:41,266
+that ambient
+low-level radiation
 
-186
-00:11:09,474 --> 00:11:10,465
+169
+00:10:41,266 --> 00:10:42,683
+could have
+a temporal...
+
+170
+00:10:42,683 --> 00:10:44,769
+(<i> people shouting</i> )
+
+171
+00:10:48,689 --> 00:10:49,941
+(<i> glass shattering</i> )
+
+172
+00:11:09,669 --> 00:11:10,711
 Look out!
 
-187
-00:11:11,947 --> 00:11:14,283
-...effect
-on radioactive isotopes.
+173
+00:11:12,297 --> 00:11:14,508
+DAX: ...effect on
+radioactive isotopes.
 
-188
-00:11:17,127 --> 00:11:18,791
+174
+00:11:14,508 --> 00:11:15,674
+(<i> O'Brien thuds to ground</i> )
+
+175
+00:11:17,427 --> 00:11:19,053
 Chief!
 
-189
-00:11:20,034 --> 00:11:21,594
+176
+00:11:20,430 --> 00:11:21,806
 Mr. O'Brien.
 
-190
-00:11:28,992 --> 00:11:31,191
+177
+00:11:30,023 --> 00:11:32,192
 I ran a microcellular scan
 
-191
-00:11:31,230 --> 00:11:32,358
+178
+00:11:32,192 --> 00:11:34,819
 and detected minute damage
+to his cerebrospinal nerve cells
 
-192
-00:11:32,400 --> 00:11:33,767
-to his cerebrospinal
-nerve cells
-
-193
-00:11:33,803 --> 00:11:35,967
+179
+00:11:34,819 --> 00:11:36,613
 which might have been caused
-by the timeshifting.
+by the time-shifting.
 
-194
-00:11:36,010 --> 00:11:37,138
+180
+00:11:36,613 --> 00:11:38,657
 Can you repair it?
+Yes.
 
-195
-00:11:37,179 --> 00:11:38,580
-Yes, but the effect
-is cumulative.
+181
+00:11:38,657 --> 00:11:40,950
+But the effect is cumulative.
+If you keep time-shifting,
 
-196
-00:11:38,616 --> 00:11:40,644
-If you keep timeshifting,
+182
+00:11:40,950 --> 00:11:42,994
 there may come a point
-
-197
-00:11:40,688 --> 00:11:42,248
 where the damage
 becomes irreparable.
 
-198
-00:11:42,293 --> 00:11:44,059
+183
+00:11:42,994 --> 00:11:44,621
 Eventually, it might
 even kill you.
 
-199
-00:11:45,301 --> 00:11:46,965
-Don't worry, Chief...
-Dax is using
+184
+00:11:44,621 --> 00:11:46,914
+(<i> sighs</i> )
+SISKO:
+Don't worry, Chief--
 
-200
-00:11:47,004 --> 00:11:48,337
+185
+00:11:46,914 --> 00:11:48,916
+Dax is using
 every scanner on the station
 
-201
-00:11:48,375 --> 00:11:50,278
-to hunt for any temporal
-abnormalities.
+186
+00:11:48,916 --> 00:11:50,960
+to hunt for
+any temporal abnormalities.
 
-202
-00:11:50,314 --> 00:11:53,152
+187
+00:11:50,960 --> 00:11:53,712
 Well, if anyone
 can find the cause
 
-203
-00:11:53,187 --> 00:11:55,682
+188
+00:11:53,712 --> 00:11:55,923
 of the time shifts, it's Dax.
 
-204
-00:11:55,727 --> 00:11:57,857
+189
+00:11:55,923 --> 00:11:59,927
 Chief, do you have any idea
 of how far into the future
-
-205
-00:11:57,900 --> 00:11:58,869
 you traveled?
 
-206
-00:11:58,902 --> 00:11:59,962
-No, sir.
+190
+00:11:59,927 --> 00:12:03,264
+No, sir. There was
+nothing to indicate
+that it was today,
 
-207
-00:12:00,005 --> 00:12:02,979
-There was nothing to indicate
-that it was today
-
-208
-00:12:03,046 --> 00:12:04,345
+191
+00:12:03,264 --> 00:12:05,141
 tomorrow, next week.
 
-209
-00:12:04,383 --> 00:12:06,719
+192
+00:12:05,141 --> 00:12:07,310
 Well, this conference
 with the Romulans
 
-210
-00:12:06,756 --> 00:12:09,524
+193
+00:12:07,310 --> 00:12:10,021
 is not supposed to last
 longer than three days.
 
-211
-00:12:09,563 --> 00:12:13,198
-In the meantime, I'll have Odo
-tighten security around Quark's.
+194
+00:12:10,021 --> 00:12:11,730
+In the meantime,
+I'll have Odo
 
-212
-00:12:13,239 --> 00:12:14,869
-How are you feeling, Chief?
+195
+00:12:11,730 --> 00:12:14,108
+tighten security
+around Quark's.
 
-213
-00:12:14,910 --> 00:12:15,879
+196
+00:12:14,108 --> 00:12:15,276
+How are you feeling,
+Chief?
+
+197
+00:12:15,276 --> 00:12:16,903
 Better.
-
-214
-00:12:15,913 --> 00:12:16,904
 Good.
 
-215
-00:12:16,949 --> 00:12:19,615
-Commander, may I speak with you
-for a minute?
+198
+00:12:16,903 --> 00:12:19,531
+Commander, may I speak
+with you for a minute?
 
-216
-00:12:19,657 --> 00:12:20,785
+199
+00:12:19,531 --> 00:12:20,739
 Of course.
 
-217
-00:12:25,571 --> 00:12:27,235
+200
+00:12:25,995 --> 00:12:28,540
 The Romulans want
 to debrief everyone
+who was on the<i> Defiant</i>
 
-218
-00:12:27,276 --> 00:12:28,245
-who was on the <i>Defiant</i>
-
-219
-00:12:28,278 --> 00:12:29,713
+201
+00:12:28,540 --> 00:12:31,668
 when it was captured
 by the Founders.
-
-220
-00:12:29,749 --> 00:12:31,048
 They're also still not happy
 
-221
-00:12:31,119 --> 00:12:33,591
+202
+00:12:31,668 --> 00:12:34,087
 with the sensor information
-collected by the <i>Defiant</i>
+collected by the<i> Defiant,</i>
 
-222
-00:12:33,626 --> 00:12:36,360
+203
+00:12:34,087 --> 00:12:37,006
 so they want unrestricted
-access to the <i>Defiant</i>
+access to the<i> Defiant</i>
 
-223
-00:12:36,399 --> 00:12:37,595
-and they also want
+204
+00:12:37,006 --> 00:12:40,343
+<i>and</i> they also want
+complete access to
+all our personal logs.
 
-224
-00:12:37,636 --> 00:12:39,504
-complete access
-to all our personal logs.
-
-225
-00:12:39,541 --> 00:12:41,478
+205
+00:12:40,343 --> 00:12:42,387
 Personal logs are
-out of the question
+out of the question,
 
-226
-00:12:41,512 --> 00:12:44,178
+206
+00:12:42,387 --> 00:12:44,681
 but they can have limited
-access to the <i>Defiant.</i>
+access to the<i> Defiant.</i>
 
-227
-00:12:44,220 --> 00:12:45,884
+207
+00:12:44,681 --> 00:12:47,183
 I'll let them
-debrief us, as well.
+debrief us as well.
+(<i> exasperated sigh</i> )
 
-228
-00:12:47,060 --> 00:12:48,724
-I know they're pushing us, Major
+208
+00:12:47,183 --> 00:12:48,893
+I know they're
+pushing us, Major,
 
-229
-00:12:48,765 --> 00:12:50,234
-but consider their position.
+209
+00:12:48,893 --> 00:12:51,020
+but consider
+their position.
 
-230
-00:12:50,268 --> 00:12:51,567
+210
+00:12:51,020 --> 00:12:53,732
 There have never been
-any Romulan ships
+any Romulan ships in
+the Gamma Quadrant
 
-231
-00:12:51,606 --> 00:12:52,577
-in the Gamma Quadrant
-
-232
-00:12:52,709 --> 00:12:54,339
+211
+00:12:53,732 --> 00:12:55,816
 so they've never
 encountered the Dominion.
 
-233
-00:12:54,381 --> 00:12:56,717
-So they're completely dependent
-on us for information.
+212
+00:12:55,816 --> 00:12:58,027
+So they're completely
+dependent on us
+for information.
 
-234
-00:12:56,754 --> 00:12:58,884
+213
+00:12:58,027 --> 00:13:00,071
 Well, then maybe they should
 send their own ships
 
-235
-00:12:58,925 --> 00:13:01,089
+214
+00:13:00,071 --> 00:13:01,822
 through the wormhole
 and find out for themselves.
 
-236
-00:13:01,132 --> 00:13:03,000
+215
+00:13:01,822 --> 00:13:04,117
 The Romulans generally
 prefer to sit back
 
-237
-00:13:03,037 --> 00:13:05,441
+216
+00:13:04,117 --> 00:13:06,244
 and pull the strings from
 a distance, if they can.
 
-238
-00:13:05,476 --> 00:13:07,447
+217
+00:13:06,244 --> 00:13:08,204
 This is one puppet who doesn't
 like her strings pulled.
 
-239
-00:13:07,481 --> 00:13:08,848
-I know, but like Ruwon said
+218
+00:13:08,204 --> 00:13:10,164
+I know, but
+like Ruwon said,
 
-240
-00:13:08,951 --> 00:13:11,515
-they've lived up
-to their part of the bargain.
+219
+00:13:10,164 --> 00:13:12,250
+they've lived up to their
+part of the bargain.
 
-241
-00:13:11,558 --> 00:13:14,360
-We have to do everything we can
+220
+00:13:12,250 --> 00:13:14,669
+We have to do
+everything we can
 to live up to ours.
 
-242
-00:13:14,399 --> 00:13:16,097
+221
+00:13:14,669 --> 00:13:16,546
 All right, I'll draw up
 a schedule of interviews
 
-243
-00:13:16,137 --> 00:13:17,436
+222
+00:13:16,546 --> 00:13:18,590
 and I'll tell everyone
 to cooperate.
 
-244
-00:13:17,474 --> 00:13:19,776
+223
+00:13:18,590 --> 00:13:21,092
 And, Major, when you're
 with the Romulans
 
-245
-00:13:19,814 --> 00:13:21,785
+224
+00:13:21,092 --> 00:13:23,052
 try to be diplomatic.
 
-246
-00:13:21,819 --> 00:13:23,653
-I'm always diplomatic.
+225
+00:13:23,052 --> 00:13:26,055
+I'm always
+diplomatic.
 
-247
-00:13:25,361 --> 00:13:27,595
+226
+00:13:26,055 --> 00:13:28,891
 That is the most ridiculous
-thing I ever heard
+thing I ever heard,
 
-248
-00:13:27,633 --> 00:13:29,068
+227
+00:13:28,891 --> 00:13:31,060
 and I resent the implication.
 
-249
-00:13:29,104 --> 00:13:30,368
+228
+00:13:31,060 --> 00:13:34,021
 You seem very agitated
-
-250
-00:13:30,408 --> 00:13:33,074
 for someone who's
 proclaiming her innocence.
 
-251
-00:13:33,115 --> 00:13:36,180
+229
+00:13:34,021 --> 00:13:36,566
 Indeed, your emotional state
 would seem to indicate
 
-252
-00:13:36,223 --> 00:13:37,783
+230
+00:13:36,566 --> 00:13:38,359
 that our theory is correct
 
-253
-00:13:37,826 --> 00:13:40,526
+231
+00:13:38,359 --> 00:13:40,445
 and you did abandon
-the <i>Defiant</i> prematurely
+the<i> Defiant</i> prematurely
 
-254
-00:13:40,567 --> 00:13:42,697
+232
+00:13:40,445 --> 00:13:42,905
 when it was attacked
 by the Jem'Hadar.
 
-255
-00:13:46,817 --> 00:13:48,651
-When the <i>Defiant</i> was attacked
+233
+00:13:42,905 --> 00:13:44,157
+(<i> sighs</i> )
 
-256
-00:13:48,688 --> 00:13:50,922
+234
+00:13:47,410 --> 00:13:49,496
+When the<i> Defiant</i>
+was attacked,
+
+235
+00:13:49,496 --> 00:13:52,373
 Odo and I were
 trapped below decks.
 
-257
-00:13:50,960 --> 00:13:53,957
+236
+00:13:52,373 --> 00:13:54,459
 There was a hand-to-hand
 fight in the corridor.
 
-258
-00:13:54,068 --> 00:13:56,597
+237
+00:13:54,459 --> 00:13:57,128
 I was wounded,
 and I lost consciousness.
 
-259
-00:13:56,642 --> 00:13:58,978
+238
+00:13:57,128 --> 00:13:59,172
 When I came to,
 Odo had already put me
 
-260
-00:13:59,081 --> 00:14:01,451
+239
+00:13:59,172 --> 00:14:01,007
 aboard the shuttle,
 and we'd escaped.
 
-261
-00:14:01,488 --> 00:14:04,290
+240
+00:14:01,007 --> 00:14:05,011
 I did not abandon
 the ship prematurely.
 
-262
-00:14:05,699 --> 00:14:08,730
+241
+00:14:06,220 --> 00:14:07,846
 Why didn't Odo try to help
-the rest of the <i>Defiant's</i> crew?
 
-263
-00:14:08,774 --> 00:14:10,175
-Well, I'm sure he wanted to
+242
+00:14:07,846 --> 00:14:09,432
+the rest of
+the<i> Defiant's</i> crew?
 
-264
-00:14:10,211 --> 00:14:12,706
+243
+00:14:09,432 --> 00:14:11,267
+Well, I'm sure he wanted to,
+
+244
+00:14:11,267 --> 00:14:13,186
 but there was no way
 to get to the Bridge, and...
 
-265
-00:14:12,750 --> 00:14:15,918
-Why were you in Odo's quarters
+245
+00:14:13,186 --> 00:14:14,937
+Why were you in
+Odo's quarters
+
+246
+00:14:14,937 --> 00:14:16,690
 when the ship was attacked?
 
-266
-00:14:15,959 --> 00:14:17,623
+247
+00:14:16,690 --> 00:14:18,065
 We were talking.
 
-267
-00:14:17,663 --> 00:14:18,825
+248
+00:14:18,065 --> 00:14:19,609
 About what?
 
-268
-00:14:18,867 --> 00:14:20,200
+249
+00:14:19,609 --> 00:14:20,819
 It's personal.
 
-269
-00:14:20,237 --> 00:14:21,763
-Do you often have
+250
+00:14:20,819 --> 00:14:22,403
+Do you
+often have
 
-270
-00:14:21,808 --> 00:14:23,836
+251
+00:14:22,403 --> 00:14:24,572
 personal talks
 with the changeling?
 
-271
-00:14:23,880 --> 00:14:27,286
+252
+00:14:24,572 --> 00:14:27,867
 What business is that of yours?
 
-272
-00:14:27,321 --> 00:14:29,725
+253
+00:14:27,867 --> 00:14:30,203
 We're trying to determine the
 nature of your relationship.
 
-273
-00:14:29,761 --> 00:14:31,230
-You are the only member
+254
+00:14:30,203 --> 00:14:32,831
+You are the only
+member of the
+<i>Defiant's</i> crew
 
-274
-00:14:31,266 --> 00:14:33,534
-of the <i>Defiant's</i> crew
-who was not taken prisoner.
+255
+00:14:32,831 --> 00:14:35,041
+who was not taken
+prisoner. Why?
 
-275
-00:14:33,571 --> 00:14:34,540
-Why?
+256
+00:14:35,041 --> 00:14:37,960
+Did the Founders
+believe Odo would
+react badly
 
-276
-00:14:34,574 --> 00:14:37,240
-Did the Founders believe
-Odo would react badly
-
-277
-00:14:37,281 --> 00:14:38,716
+257
+00:14:37,960 --> 00:14:39,838
 if you were harmed?
 
-278
-00:14:38,752 --> 00:14:41,920
+258
+00:14:39,838 --> 00:14:42,549
 Did they think you held
 some kind of attraction to him?
 
-279
-00:14:41,960 --> 00:14:45,230
-Has Odo ever shown any kind
-of physical interest
+259
+00:14:42,549 --> 00:14:47,261
+Has Odo ever shown
+any kind of physical
+interest in you, Major?
 
-280
-00:14:45,268 --> 00:14:46,635
-in you, Major?
-
-281
-00:14:48,878 --> 00:14:50,142
+260
+00:14:49,514 --> 00:14:53,059
 That's it.
-
-282
-00:14:50,181 --> 00:14:52,415
 You can rip the cloaking device
 
-283
-00:14:52,454 --> 00:14:54,152
-out of the <i>Defiant</i> right now!
+261
+00:14:53,059 --> 00:14:54,728
+out of the<i> Defiant</i>
+right now!
 
-284
-00:14:54,191 --> 00:14:57,029
+262
+00:14:54,728 --> 00:14:57,271
 I am not answering
 any more questions.
 
-285
-00:14:57,066 --> 00:14:59,938
+263
+00:14:57,271 --> 00:15:00,525
 And I suggest you avoid
 asking Odo those questions
 
-286
-00:14:59,974 --> 00:15:01,638
+264
+00:15:00,525 --> 00:15:05,154
 or you may just find yourself
+on the other side of
+that bulkhead, floating home.
 
-287
-00:15:01,677 --> 00:15:04,549
-on the other side
-of that bulkhead, floating home.
-
-288
-00:15:18,087 --> 00:15:20,058
+265
+00:15:18,668 --> 00:15:20,670
 There.
 That's the game.
 
-289
-00:15:20,159 --> 00:15:21,321
+266
+00:15:20,670 --> 00:15:23,256
 Had enough?
-
-290
-00:15:21,362 --> 00:15:22,957
 One more.
 
-291
-00:15:22,999 --> 00:15:26,064
+267
+00:15:23,256 --> 00:15:27,134
 Chief, that's the tenth game
 we've played in a row.
 
-292
-00:15:26,175 --> 00:15:27,303
+268
+00:15:27,134 --> 00:15:29,888
 Nothing's happening here
-
-293
-00:15:27,344 --> 00:15:29,543
 and I don't think anything
-is going to happen.
+is<i> going</i> to happen.
 
-294
-00:15:29,583 --> 00:15:31,953
-By telling us about the fight,
-you have changed the future.
+269
+00:15:29,888 --> 00:15:32,473
+By telling us about
+the fight, you have
+changed the future.
 
-295
-00:15:31,990 --> 00:15:33,550
-Security's here, and Quark says
+270
+00:15:32,473 --> 00:15:34,434
+Security's here,
+and Quark says
 
-296
-00:15:33,593 --> 00:15:35,257
+271
+00:15:34,434 --> 00:15:35,852
 he won't let the Klingons
 back in the bar.
 
-297
-00:15:35,298 --> 00:15:36,631
+272
+00:15:35,852 --> 00:15:38,020
 There is not going
 to be a fight.
 
-298
-00:15:36,668 --> 00:15:40,771
+273
+00:15:38,020 --> 00:15:41,023
 I know, I know, but...
 
-299
-00:15:40,813 --> 00:15:44,448
+274
+00:15:41,023 --> 00:15:44,736
 I've seen it, and I
 can't shake the feeling
 
-300
-00:15:44,489 --> 00:15:46,015
+275
+00:15:44,736 --> 00:15:47,405
 that it's going to happen
-
-301
-00:15:46,059 --> 00:15:47,893
 despite our precautions.
 
-302
-00:15:47,931 --> 00:15:49,663
+276
+00:15:47,405 --> 00:15:50,742
 Something about
-the way things look
-
-303
-00:15:49,702 --> 00:15:50,762
+the way things look,
 the number of people.
 
-304
-00:15:50,805 --> 00:15:52,673
+277
+00:15:50,742 --> 00:15:53,912
 There's something
 a little too familiar
-
-305
-00:15:52,710 --> 00:15:54,145
 about everything.
 
-306
-00:15:54,180 --> 00:15:56,652
+278
+00:15:53,912 --> 00:15:56,831
 All right, if it makes
-you feel any better
+you feel any better,
 
-307
-00:15:56,687 --> 00:15:58,783
+279
+00:15:56,831 --> 00:15:59,333
 I'll beat you
 at another ten games.
 
-308
-00:15:58,826 --> 00:16:00,318
+280
+00:15:59,333 --> 00:16:00,835
 But I can't help
 getting the feeling...
 
-309
-00:16:02,368 --> 00:16:04,567
+281
+00:16:00,835 --> 00:16:02,837
+(<i> loud laughter</i> )
+
+282
+00:16:04,004 --> 00:16:05,715
 <i>Ach'cho korvak bataH!</i>
 
-310
-00:16:04,608 --> 00:16:06,009
+283
+00:16:05,715 --> 00:16:07,216
 <i>Karagh, abeH.</i>
 
-311
-00:16:13,397 --> 00:16:14,593
+284
+00:16:07,216 --> 00:16:08,760
+(<i> laughter continues</i> )
+
+285
+00:16:13,723 --> 00:16:16,434
 You said you weren't
-going to let
+going to let the Klingons
+back in the bar!
 
-312
-00:16:14,634 --> 00:16:15,728
-the Klingons back in the bar!
-
-313
-00:16:15,770 --> 00:16:17,296
+286
+00:16:16,434 --> 00:16:17,811
 I didn't.
 
-314
-00:16:17,340 --> 00:16:18,900
-They were in the holosuites.
+287
+00:16:17,811 --> 00:16:19,604
+They were in
+the holosuites.
 
-315
-00:16:18,945 --> 00:16:22,386
+288
+00:16:19,604 --> 00:16:22,649
 Besides, now they're
 paying me triple.
 
-316
-00:16:36,891 --> 00:16:39,455
-Who let these filthy <i>pahtk</i>
-in here?
+289
+00:16:27,862 --> 00:16:29,697
+(<i> chuckling</i> )
 
-317
-00:16:39,498 --> 00:16:41,936
+290
+00:16:37,079 --> 00:16:39,916
+Who let these filthy
+<i>pahtk</i> in here?
+
+291
+00:16:39,916 --> 00:16:42,376
 Maybe we should
 show them the way out.
 
-318
-00:16:44,745 --> 00:16:46,477
+292
+00:16:45,212 --> 00:16:46,798
 And then...
 
-319
-00:16:46,516 --> 00:16:47,951
+293
+00:16:46,798 --> 00:16:49,091
 What's his name?
-
-320
-00:16:47,987 --> 00:16:49,320
 Ruwon?
 
-321
-00:16:49,357 --> 00:16:52,559
-Ruwon started to insinuate
-that...
+294
+00:16:49,091 --> 00:16:52,595
+Ruwon started
+to insinuate that...
 
-322
-00:16:52,599 --> 00:16:53,625
+295
+00:16:52,595 --> 00:16:54,138
 you were...
 
-323
-00:16:53,668 --> 00:16:55,434
+296
+00:16:54,138 --> 00:16:55,849
 That I was what?
 
-324
-00:16:55,473 --> 00:16:57,741
+297
+00:16:55,849 --> 00:16:59,811
 Interested in me.
-
-325
-00:16:57,779 --> 00:16:58,770
 He said that?
 
-326
-00:16:58,814 --> 00:17:00,910
+298
+00:16:59,811 --> 00:17:01,354
 Have you ever heard
 anything more...
 
-327
-00:17:00,954 --> 00:17:01,923
+299
+00:17:01,354 --> 00:17:02,772
 Ridiculous!
-
-328
-00:17:01,957 --> 00:17:02,926
 Exactly.
 
-329
-00:17:02,959 --> 00:17:03,928
+300
+00:17:02,772 --> 00:17:04,064
 Quark to Security.
 
-330
-00:17:03,962 --> 00:17:05,488
+301
+00:17:04,064 --> 00:17:05,483
 I've got a fight on my hands.
 
-331
-00:17:05,532 --> 00:17:07,230
+302
+00:17:05,483 --> 00:17:07,234
 They're tearing my place apart.
 
-332
-00:17:28,792 --> 00:17:30,422
+303
+00:17:10,404 --> 00:17:12,532
+(<i> people yelling</i> )
+
+304
+00:17:29,841 --> 00:17:31,342
 Watch the Romulan!
 
-333
-00:17:32,302 --> 00:17:34,034
+305
+00:17:32,635 --> 00:17:34,971
 All right, that's enough!
 
-334
-00:17:34,073 --> 00:17:35,042
-Get back!
+306
+00:17:34,971 --> 00:17:36,890
+Get back! Come on!
 
-335
-00:17:35,075 --> 00:17:36,544
-Come on!
-
-336
-00:17:37,750 --> 00:17:39,083
+307
+00:17:38,474 --> 00:17:39,726
+ODO:
 Move it.
 Move it.
 
-337
-00:17:39,120 --> 00:17:40,988
+308
+00:17:39,726 --> 00:17:41,435
 Let's go.
 Come on now.
 
-338
-00:17:47,976 --> 00:17:49,275
+309
+00:17:48,317 --> 00:17:50,653
 Miles?
 
-339
-00:18:15,747 --> 00:18:17,445
-Chief.
+310
+00:17:50,653 --> 00:17:52,530
+(<i> gasps</i> )
+(<i> groaning</i> )
 
-340
-00:18:17,486 --> 00:18:18,546
-It's all right.
+311
+00:18:15,970 --> 00:18:18,848
+Chief. It's all right.
 
-341
-00:18:18,589 --> 00:18:20,617
+312
+00:18:18,848 --> 00:18:21,017
 You collapsed outside Quark's
 about an hour ago.
 
-342
-00:18:20,660 --> 00:18:22,324
+313
+00:18:21,017 --> 00:18:22,685
 You're going to be fine.
 
-343
-00:18:22,398 --> 00:18:23,867
+314
+00:18:22,685 --> 00:18:25,063
 No, I'm not.
 
-344
-00:18:23,902 --> 00:18:27,366
+315
+00:18:25,063 --> 00:18:27,648
 In a few hours,
 I'm going to be dead.
 
-345
-00:18:34,396 --> 00:18:37,268
+316
+00:18:35,406 --> 00:18:37,951
 This is the panel
 I saw myself open.
 
-346
-00:18:37,304 --> 00:18:40,176
+317
+00:18:37,951 --> 00:18:40,703
 It looked like a phaser
 or high-energy laser
 
-347
-00:18:40,211 --> 00:18:42,079
-came out of the bulkhead.
+318
+00:18:40,703 --> 00:18:42,956
+came out
+of the bulkhead.
 
-348
-00:18:42,117 --> 00:18:43,484
-Nothing on the tricorder.
+319
+00:18:42,956 --> 00:18:44,999
+Nothing
+on the tricorder.
 
-349
-00:18:43,520 --> 00:18:46,551
+320
+00:18:44,999 --> 00:18:47,961
 Just the standard conduits
 and power juncture ports.
 
-350
-00:18:46,595 --> 00:18:49,067
+321
+00:18:47,961 --> 00:18:50,046
 If there is something
-dangerous in there
+dangerous in there,
 
-351
-00:18:49,101 --> 00:18:50,127
+322
+00:18:50,046 --> 00:18:53,049
 it could be cloaked
-
-352
-00:18:50,170 --> 00:18:52,734
 or have some dampening field
 around it.
 
-353
-00:18:52,778 --> 00:18:54,510
+323
+00:18:53,049 --> 00:18:55,843
 If you gentlemen will
 step down the corridor
 
-354
-00:18:54,548 --> 00:18:56,884
+324
+00:18:55,843 --> 00:18:57,845
 I'll open the panel
 and take a look.
 
-355
-00:18:56,921 --> 00:18:58,824
+325
+00:18:57,845 --> 00:18:59,430
 Don't worry.
 I'll be careful.
 
-356
-00:19:23,758 --> 00:19:25,661
+326
+00:19:24,246 --> 00:19:25,915
 It's all right.
 
-357
-00:19:25,696 --> 00:19:27,394
+327
+00:19:25,915 --> 00:19:27,750
 Nothing.
 
-358
-00:19:27,434 --> 00:19:29,736
-You're sure
-this is the right panel?
+328
+00:19:27,750 --> 00:19:30,128
+You're sure this
+is the right panel?
 
-359
-00:19:29,774 --> 00:19:30,834
+329
+00:19:30,128 --> 00:19:32,171
 Absolutely.
 
-360
-00:19:30,876 --> 00:19:33,212
+330
+00:19:32,171 --> 00:19:35,008
 Believe me,
 I've a pretty vivid memory
-
-361
-00:19:33,249 --> 00:19:34,479
 of the whole thing.
 
-362
-00:19:36,658 --> 00:19:40,931
-Well... since it appears
-that your first two time jumps
+331
+00:19:36,759 --> 00:19:39,846
+(<i> sighs</i> )
+Well... since
+it appears
 
-363
-00:19:40,969 --> 00:19:43,464
-each moved you to about
-five hours into the future
+332
+00:19:39,846 --> 00:19:41,973
+that your first
+two time jumps
 
-364
-00:19:43,509 --> 00:19:44,637
+333
+00:19:41,973 --> 00:19:44,475
+each moved you
+to about five hours
+into the future,
+
+334
+00:19:44,475 --> 00:19:48,228
 we could also assume
+that the incident you
+saw in this corridor
 
-365
-00:19:44,678 --> 00:19:47,310
-that the incident
-you saw in this corridor
+335
+00:19:48,228 --> 00:19:50,898
+moved you to about five
+hours into the future.
 
-366
-00:19:47,352 --> 00:19:50,258
-moved you to about five hours
-into the future.
-
-367
-00:19:50,293 --> 00:19:52,492
+336
+00:19:50,898 --> 00:19:53,067
+ODO:
 That means someone
 will place a device
 
-368
-00:19:52,532 --> 00:19:54,119
+337
+00:19:53,067 --> 00:19:55,235
 in this panel
 in the next few hours.
 
-369
-00:19:54,252 --> 00:19:57,716
+338
+00:19:55,235 --> 00:19:58,865
 All these quarters
-are vacant at the moment.
+are vacant
+at the moment.
 
-370
-00:19:57,761 --> 00:20:00,894
+339
+00:19:58,865 --> 00:20:01,993
 There are no vital power
 conduits in this area.
 
-371
-00:20:00,936 --> 00:20:02,736
-No crucial defense systems.
+340
+00:20:01,993 --> 00:20:03,953
+No crucial
+defense systems.
 
-372
-00:20:02,774 --> 00:20:04,768
+341
+00:20:03,953 --> 00:20:06,873
 Why would someone
 want to booby-trap
-
-373
-00:20:04,813 --> 00:20:05,839
 a wall panel here?
 
-374
-00:20:05,882 --> 00:20:08,947
+342
+00:20:06,873 --> 00:20:11,377
 I suggest we place
 a surveillance device
-
-375
-00:20:08,990 --> 00:20:10,323
 in this corridor.
 
-376
-00:20:10,360 --> 00:20:12,354
+343
+00:20:11,377 --> 00:20:15,965
 If anyone attempts
-to tamper with the panel
-
-377
-00:20:12,399 --> 00:20:13,732
+to tamper with the panel,
 we'll be able to detect it.
 
-378
-00:20:14,872 --> 00:20:16,809
+344
+00:20:15,965 --> 00:20:17,842
 Dax to Sisko.
 
-379
-00:20:16,844 --> 00:20:18,336
+345
+00:20:17,842 --> 00:20:19,343
 Sisko here.
 Go ahead, Lieutenant.
 
-380
-00:20:18,381 --> 00:20:20,215
+346
+00:20:19,343 --> 00:20:21,345
 Benjamin,
 can you come to Ops?
 
-381
-00:20:20,253 --> 00:20:23,990
-I think I've found a clue
-to Chief O'Brien's timeshifting.
+347
+00:20:21,345 --> 00:20:25,099
+I think I've found a clue to
+Chief O'Brien's time-shifting.
 
-382
-00:20:24,029 --> 00:20:25,498
+348
+00:20:25,099 --> 00:20:26,684
 We're on our way.
 
-383
-00:20:25,533 --> 00:20:27,059
+349
+00:20:26,684 --> 00:20:28,061
 Keep me informed.
 
-384
-00:20:31,916 --> 00:20:33,887
+350
+00:20:32,857 --> 00:20:34,942
+DAX:
 I've been scanning the area
 around the station
 
-385
-00:20:33,921 --> 00:20:35,653
+351
+00:20:34,942 --> 00:20:36,694
 out to a radius
 of two kilometers.
 
-386
-00:20:35,693 --> 00:20:37,391
+352
+00:20:36,694 --> 00:20:38,738
 I didn't find anything at first.
 
-387
-00:20:37,431 --> 00:20:41,305
+353
+00:20:38,738 --> 00:20:42,408
 Then I started to scan some of
 the lower subspace bandwidths.
 
-388
-00:20:41,341 --> 00:20:44,247
+354
+00:20:42,408 --> 00:20:45,494
 I found traces of low-level
 tetryon emissions.
 
-389
-00:20:44,282 --> 00:20:46,082
+355
+00:20:45,494 --> 00:20:47,705
 I've never seen
 an emission pattern
-
-390
-00:20:46,154 --> 00:20:48,091
 like that
-outside of a neutron star.
 
-391
-00:20:48,125 --> 00:20:49,720
+356
+00:20:47,705 --> 00:20:49,040
+outside
+of a neutron star.
+
+357
+00:20:49,040 --> 00:20:50,750
 Or a quantum singularity.
 
-392
-00:20:49,762 --> 00:20:51,824
+358
+00:20:50,750 --> 00:20:52,543
 And singularities are
 known to send out waves
 
-393
-00:20:51,868 --> 00:20:53,064
+359
+00:20:52,543 --> 00:20:54,253
 of temporal displacement.
 
-394
-00:20:53,105 --> 00:20:55,076
-But if there is
-a singularity nearby
+360
+00:20:54,253 --> 00:20:55,922
+But if there<i> is</i>
+a singularity nearby,
 
-395
-00:20:55,110 --> 00:20:56,340
+361
+00:20:55,922 --> 00:20:57,381
 why can't we find it?
 
-396
-00:20:56,380 --> 00:20:59,947
-It should also be affecting the
-gravimetric field signatures.
+362
+00:20:57,381 --> 00:20:58,966
+It should also
+be affecting
 
-397
-00:20:59,989 --> 00:21:00,980
+363
+00:20:58,966 --> 00:21:00,968
+the gravimetric
+field signatures.
+
+364
+00:21:00,968 --> 00:21:03,303
 I don't know.
-
-398
-00:21:01,025 --> 00:21:02,460
 Maybe it's buried so far down
 
-399
-00:21:02,496 --> 00:21:04,900
+365
+00:21:03,303 --> 00:21:06,015
 in the subspace layers
 that we can't detect it.
 
-400
-00:21:04,936 --> 00:21:06,462
-Assuming for the moment
+366
+00:21:06,015 --> 00:21:07,767
+Assuming
+for the moment
 
-401
-00:21:06,506 --> 00:21:08,910
+367
+00:21:07,767 --> 00:21:09,936
 that a singularity
-is responsible
+<i>is</i> responsible,
 
-402
-00:21:08,946 --> 00:21:11,248
+368
+00:21:09,936 --> 00:21:12,271
 how do we combat
 its effects on the Chief?
 
-403
-00:21:11,285 --> 00:21:14,726
+369
+00:21:12,271 --> 00:21:16,400
 Temporal displacement
 caused by a quantum singularity
 
-404
-00:21:14,761 --> 00:21:18,703
+370
+00:21:16,400 --> 00:21:19,570
 most commonly affects
-delta-series radioisotopes
+delta-series radioisotopes,
 
-405
-00:21:18,738 --> 00:21:20,230
+371
+00:21:19,570 --> 00:21:22,073
 which is exactly
 what the Chief absorbed
-
-406
-00:21:20,275 --> 00:21:21,301
 during the conduit breach.
 
-407
-00:21:21,345 --> 00:21:22,541
-So you're saying that it
+372
+00:21:22,073 --> 00:21:25,952
+So you're saying
+that it could be pulling
+O'Brien's body like a magnet?
 
-408
-00:21:22,581 --> 00:21:24,951
-could be pulling O'Brien's body
-like a magnet?
+373
+00:21:25,952 --> 00:21:29,663
+Exactly. I think I may
+know a way to neutralize
 
-409
-00:21:24,988 --> 00:21:26,287
-Exactly.
+374
+00:21:29,663 --> 00:21:31,749
+the remaining radioisotopes
+in your body.
 
-410
-00:21:26,324 --> 00:21:29,423
-I think I may know a way
-to neutralize the remaining
+375
+00:21:31,749 --> 00:21:33,375
+DAX: Without the radiation,
 
-411
-00:21:29,466 --> 00:21:30,696
-radioisotopes in your body.
-
-412
-00:21:30,736 --> 00:21:32,434
-Without the radiation
-
-413
-00:21:32,474 --> 00:21:34,411
+376
+00:21:33,375 --> 00:21:35,377
 the temporal displacement
 might stop.
 
-414
-00:21:34,446 --> 00:21:35,506
+377
+00:21:35,377 --> 00:21:37,546
 It's going to take time.
-
-415
-00:21:35,549 --> 00:21:38,113
 You may experience
-one or two more time shifts
 
-416
-00:21:38,155 --> 00:21:40,149
+378
+00:21:37,546 --> 00:21:39,090
+one or two
+more time shifts
+
+379
+00:21:39,090 --> 00:21:40,716
 before I can
 complete the process.
 
-417
-00:21:40,194 --> 00:21:41,163
+380
+00:21:40,716 --> 00:21:42,176
 When can we start?
 
-418
-00:21:41,197 --> 00:21:42,223
+381
+00:21:42,176 --> 00:21:43,219
 Right away.
 
-419
-00:21:48,181 --> 00:21:50,175
+382
+00:21:49,225 --> 00:21:51,685
 Keep trying to pinpoint
 the singularity.
 
-420
-00:21:50,220 --> 00:21:52,123
+383
+00:21:51,685 --> 00:21:53,813
 If it is out there,
 we need to locate it
 
-421
-00:21:52,158 --> 00:21:53,718
-and find a way to get rid of it.
-
-422
-00:21:53,762 --> 00:21:55,357
+384
+00:21:53,813 --> 00:21:56,315
+and find a way
+to get rid of it.
 Right.
 
-423
-00:21:58,039 --> 00:21:59,008
+385
+00:21:58,985 --> 00:22:02,029
 I wanted to let you know
-
-424
-00:21:59,042 --> 00:22:00,672
 I moved the Romulans
 to different quarters.
 
-425
-00:22:00,714 --> 00:22:01,683
+386
+00:22:02,029 --> 00:22:04,073
 Oh?
+It's the
+replicators again.
 
-426
-00:22:01,716 --> 00:22:02,844
-It's the replicators again.
+387
+00:22:04,073 --> 00:22:05,783
+I assigned
+a maintenance crew.
+But in the meantime,
 
-427
-00:22:02,886 --> 00:22:04,150
-I assigned a maintenance crew.
+388
+00:22:05,783 --> 00:22:07,994
+I moved the entire
+Romulan delegation
 
-428
-00:22:04,189 --> 00:22:06,319
-But in the meantime, I moved
-the entire Romulan delegation
-
-429
-00:22:06,362 --> 00:22:10,499
+389
+00:22:07,994 --> 00:22:11,038
 to section 47, level 2
 in the Habitat Ring.
 
-430
-00:22:10,539 --> 00:22:11,667
+390
+00:22:11,038 --> 00:22:12,581
 Section 47?
 
-431
-00:22:11,708 --> 00:22:12,870
-Yes.
-Is something wrong?
+391
+00:22:12,581 --> 00:22:14,708
+Yes. Is something wrong?
+The wall panel
 
-432
-00:22:12,912 --> 00:22:16,445
-The wall panel where O'Brien
-saw himself being killed
+392
+00:22:14,708 --> 00:22:16,836
+where O'Brien saw
+himself being killed
 
-433
-00:22:16,488 --> 00:22:18,687
-is right outside those quarters.
+393
+00:22:16,836 --> 00:22:19,379
+is right outside
+those quarters.
 
-434
-00:22:19,896 --> 00:22:21,924
+394
+00:22:19,379 --> 00:22:20,923
+(<i> sighs</i> )
+
+395
+00:22:20,923 --> 00:22:23,092
 Which means either the Romulans
 
-435
-00:22:21,969 --> 00:22:25,341
+396
+00:22:23,092 --> 00:22:25,761
 are going to put a device
 in the bulkhead themselves
 
-436
-00:22:25,377 --> 00:22:26,710
+397
+00:22:25,761 --> 00:22:27,596
 or someone else will
 
-437
-00:22:26,747 --> 00:22:29,151
+398
+00:22:27,596 --> 00:22:30,141
 possibly to be used
 against the Romulans.
 
-438
-00:22:29,187 --> 00:22:31,625
+399
+00:22:30,141 --> 00:22:31,725
 Should I move them
 to other quarters?
 
-439
-00:22:31,660 --> 00:22:33,962
+400
+00:22:31,725 --> 00:22:34,937
 No. That'll warn
 whoever is responsible.
 
-440
-00:22:34,000 --> 00:22:36,768
+401
+00:22:34,937 --> 00:22:38,065
 But inform Odo
 of the change in quarters.
 
-441
-00:22:36,807 --> 00:22:40,749
+402
+00:22:38,065 --> 00:22:41,152
 He already has that corridor
 under surveillance.
 
-442
-00:22:40,784 --> 00:22:42,755
-Let's see
-how this thing plays out
+403
+00:22:41,152 --> 00:22:43,279
+Let's see how
+this thing plays out
 
-443
-00:22:42,789 --> 00:22:44,760
+404
+00:22:43,279 --> 00:22:45,656
 before we make
 any further moves.
 
-444
-00:22:50,977 --> 00:22:52,503
-You have something, Constable?
+405
+00:22:51,662 --> 00:22:53,789
+You have something,
+Constable?
 
-445
-00:22:52,548 --> 00:22:55,954
-Someone has planted
-a class-3 surveillance device
+406
+00:22:53,789 --> 00:22:56,792
+Someone has
+planted a class-3
+surveillance device
 
-446
-00:22:55,990 --> 00:22:58,964
+407
+00:22:56,792 --> 00:22:59,670
 behind the wall panel
 we've been monitoring.
 
-447
-00:22:58,998 --> 00:23:01,402
-Were you able to see who it was?
+408
+00:22:59,670 --> 00:23:01,547
+Were you able
+to see who it was?
 
-448
-00:23:01,438 --> 00:23:04,138
+409
+00:23:01,547 --> 00:23:04,717
 No, we've been monitoring
 the corridor constantly
 
-449
-00:23:04,178 --> 00:23:05,613
+410
+00:23:04,717 --> 00:23:06,260
 for the past three hours.
 
-450
-00:23:05,648 --> 00:23:07,744
+411
+00:23:06,260 --> 00:23:08,846
 No one's come anywhere
 near the panel.
 
-451
-00:23:07,788 --> 00:23:10,352
-However, sensors did detect
+412
+00:23:08,846 --> 00:23:11,932
+However, sensors
+did detect
 
-452
-00:23:10,394 --> 00:23:14,929
-a low-energy transporter beam
+413
+00:23:11,932 --> 00:23:14,268
+a low-energy
+transporter beam
+
+414
+00:23:14,268 --> 00:23:16,270
 a short time ago.
 
-453
-00:23:14,972 --> 00:23:19,609
+415
+00:23:16,270 --> 00:23:21,150
 They beamed the device
 directly into the wall.
 
-454
-00:23:19,652 --> 00:23:23,219
+416
+00:23:21,150 --> 00:23:24,278
 That's a delicate piece
 of transporter work.
 
-455
-00:23:23,261 --> 00:23:25,061
+417
+00:23:24,278 --> 00:23:26,364
 Yes, it is.
 
-456
-00:23:25,100 --> 00:23:28,633
+418
+00:23:26,364 --> 00:23:29,325
 We haven't been able
 to trace the beam
 
-457
-00:23:28,675 --> 00:23:30,042
-to its point of origin
+419
+00:23:29,325 --> 00:23:30,868
+to its point of origin,
 
-458
-00:23:30,079 --> 00:23:32,073
+420
+00:23:30,868 --> 00:23:32,995
 but since there aren't
-any ships nearby
+any ships nearby,
 
-459
-00:23:32,118 --> 00:23:34,590
+421
+00:23:32,995 --> 00:23:35,497
 I believe it originated
 on the station.
 
-460
-00:23:34,624 --> 00:23:35,650
+422
+00:23:35,497 --> 00:23:36,456
 Any suspects?
 
-461
-00:23:36,696 --> 00:23:39,498
-Well, since it appears
+423
+00:23:37,791 --> 00:23:40,044
+Since it appears
 to be a device
 
-462
-00:23:39,537 --> 00:23:41,736
+424
+00:23:40,044 --> 00:23:42,296
 intended to conduct
 covert surveillance
 
-463
-00:23:41,776 --> 00:23:42,767
-of the Romulans
+425
+00:23:42,296 --> 00:23:43,881
+of the Romulans,
 
-464
-00:23:42,812 --> 00:23:45,216
+426
+00:23:43,881 --> 00:23:46,050
 my leading suspects
 would be the Klingons.
 
-465
-00:23:45,252 --> 00:23:46,346
+427
+00:23:46,050 --> 00:23:47,885
 Do you have any evidence
+besides the fact
 
-466
-00:23:46,455 --> 00:23:48,654
-besides the fact that Klingons
-hate Romulans?
+428
+00:23:47,885 --> 00:23:49,427
+that Klingons hate Romulans?
 
-467
-00:23:48,693 --> 00:23:51,029
-Well, not yet, but don't worry.
+429
+00:23:49,427 --> 00:23:51,889
+Well, not yet,
+but don't worry.
 
-468
-00:23:51,066 --> 00:23:54,040
+430
+00:23:51,889 --> 00:23:54,767
 I plan to investigate
 the Klingons
 
-469
-00:23:54,074 --> 00:23:57,641
+431
+00:23:54,767 --> 00:23:58,729
 the Bajorans, Quark,
 the visiting Terrellians...
 
-470
-00:23:57,684 --> 00:24:00,213
-You think Quark
-had something to do with this?
+432
+00:23:58,729 --> 00:24:00,981
+You think Quark had
+something to do with this?
 
-471
-00:24:01,460 --> 00:24:03,796
+433
+00:24:02,358 --> 00:24:04,568
 I always investigate Quark.
 
-472
-00:24:11,420 --> 00:24:14,086
+434
+00:24:12,159 --> 00:24:14,787
 Looks like you're going
 to cheat death, after all.
 
-473
-00:24:14,126 --> 00:24:16,792
+435
+00:24:14,787 --> 00:24:17,206
 Round about this time,
-you saw yourself being killed.
+you saw yourself
+being killed.
 
-474
-00:24:16,833 --> 00:24:21,106
-I feel like someone
-just walked over my grave.
+436
+00:24:19,208 --> 00:24:21,919
+I feel like someone just
+walked over my grave.
 
-475
-00:24:21,144 --> 00:24:24,084
+437
+00:24:21,919 --> 00:24:25,131
 I mean, I've had a few brushes
-with death in my career
+with death in my career,
 
-476
-00:24:24,119 --> 00:24:25,554
+438
+00:24:25,131 --> 00:24:29,093
 but there was something
+about watching myself
+being killed--
 
-477
-00:24:25,589 --> 00:24:27,823
-about watching
-myself being killed...
+439
+00:24:29,093 --> 00:24:32,138
+of feeling my own neck for
+a pulse that wasn't there.
 
-478
-00:24:27,862 --> 00:24:31,565
-of feeling my own neck
-for a pulse that wasn't there.
+440
+00:24:33,806 --> 00:24:36,434
+Well, could have
+been worse.
 
-479
-00:24:31,605 --> 00:24:35,570
-Well, could have been worse.
-
-480
-00:24:35,615 --> 00:24:37,415
+441
+00:24:36,434 --> 00:24:38,185
 Could have been me.
 
-481
-00:24:39,191 --> 00:24:41,185
+442
+00:24:38,185 --> 00:24:39,895
+(<i> chuckles</i> )
+
+443
+00:24:39,895 --> 00:24:41,355
 Here you are, gentlemen.
 
-482
-00:24:41,230 --> 00:24:45,640
+444
+00:24:42,982 --> 00:24:46,402
 And how is DS9's
 most famous fortune teller?
 
-483
-00:24:45,675 --> 00:24:47,441
+445
+00:24:46,402 --> 00:24:48,237
 Don't call me that.
 
-484
-00:24:47,479 --> 00:24:49,609
-I haven't told anyone's fortune.
+446
+00:24:48,237 --> 00:24:50,488
+I haven't told
+anyone's fortune.
 
-485
-00:24:49,652 --> 00:24:51,886
-Oh, just a figure of speech.
+447
+00:24:50,488 --> 00:24:53,159
+Oh, just a figure
+of speech.
 
-486
-00:24:51,924 --> 00:24:54,088
-On the other hand
+448
+00:24:53,159 --> 00:24:54,952
+On the other hand,
 
-487
-00:24:54,130 --> 00:24:57,036
+449
+00:24:54,952 --> 00:24:57,621
 if you should find yourself
-in the future again
+in the future again,
 
-488
-00:24:57,071 --> 00:25:00,170
+450
+00:24:57,621 --> 00:25:00,749
 and you find yourself
-passing by the dabo table
+passing by the dabo table,
 
-489
-00:25:00,213 --> 00:25:03,278
+451
+00:25:00,749 --> 00:25:03,961
 would it really hurt
 to take a look
 
-490
-00:25:03,320 --> 00:25:05,382
+452
+00:25:03,961 --> 00:25:06,005
 at the numbers
 coming up on the wheel?
 
-491
-00:25:05,426 --> 00:25:09,129
+453
+00:25:07,673 --> 00:25:10,134
 I could make it
 worth your while.
 
-492
-00:25:09,169 --> 00:25:11,733
-Let's get out of here.
+454
+00:25:10,134 --> 00:25:12,094
+Let's get
+out of here.
 
-493
-00:25:15,218 --> 00:25:16,778
+455
+00:25:15,931 --> 00:25:17,391
 Just a thought.
 
-494
-00:25:18,927 --> 00:25:20,625
+456
+00:25:19,352 --> 00:25:22,188
 Can you believe that?
+I'm being pulled
+into the future,
 
-495
-00:25:20,665 --> 00:25:22,864
-I'm being pulled into the future
-and all he can think about is...
+457
+00:25:22,188 --> 00:25:23,481
+and all he can
+think about is...
 
-496
-00:25:57,093 --> 00:25:58,562
+458
+00:25:57,973 --> 00:25:59,266
 Chief!
 
-497
-00:25:58,631 --> 00:26:01,001
-Oh, am I glad to see you.
+459
+00:25:59,266 --> 00:26:01,977
+Oh, am I glad
+to see you.
 
-498
-00:26:01,037 --> 00:26:02,701
+460
+00:26:01,977 --> 00:26:03,729
 What the hell
 happened to me, Julian?
 
-499
-00:26:02,741 --> 00:26:04,176
+461
+00:26:03,729 --> 00:26:06,023
 It was the, the radiation.
 
-500
-00:26:04,212 --> 00:26:07,050
+462
+00:26:06,023 --> 00:26:08,775
 I didn't realize it had
 damaged the basilar arteries
-
-501
-00:26:07,086 --> 00:26:09,285
 in your brain stem
-until it was too late.
 
-502
-00:26:09,325 --> 00:26:10,316
+463
+00:26:08,775 --> 00:26:10,986
+until it was too late.
 Well, why not?
 
-503
-00:26:10,362 --> 00:26:12,299
-It didn't show up
-on any of the diagnostics.
+464
+00:26:10,986 --> 00:26:13,280
+It didn't show up on
+any of the diagnostics.
 
-504
-00:26:12,333 --> 00:26:13,632
+465
+00:26:13,280 --> 00:26:15,991
 I couldn't tell
-what had happened
+what had happened until
+I was doing the autopsy.
 
-505
-00:26:13,670 --> 00:26:14,934
-until I was doing the autopsy.
-
-506
-00:26:14,973 --> 00:26:16,533
+466
+00:26:15,991 --> 00:26:17,575
 Autopsy.
 
-507
-00:26:16,577 --> 00:26:18,480
-Yeah, I just finished
-doing it a few moments ago.
+467
+00:26:17,575 --> 00:26:19,577
+I just finished doing it
+a few moments ago.
 
-508
-00:26:18,516 --> 00:26:20,042
+468
+00:26:19,577 --> 00:26:21,080
 Do you want me
 to show you the results?
 
-509
-00:26:20,086 --> 00:26:21,077
+469
+00:26:21,080 --> 00:26:24,083
 No, no, no!
-
-510
-00:26:21,123 --> 00:26:23,117
 That's, that's all right.
 
-511
-00:26:23,161 --> 00:26:25,725
+470
+00:26:24,083 --> 00:26:26,668
 Now, look, when you go
-back to the past
+back to the past,
 
-512
-00:26:25,768 --> 00:26:29,004
+471
+00:26:26,668 --> 00:26:29,922
 ask me to perform
-a basilar arterial scan
+a basilar arterial scan,
 
-513
-00:26:29,043 --> 00:26:30,946
+472
+00:26:29,922 --> 00:26:31,924
 and since you're going
 five hours back into the past
 
-514
-00:26:30,982 --> 00:26:32,212
+473
+00:26:31,924 --> 00:26:33,926
 I should have enough time
-
-515
-00:26:32,252 --> 00:26:34,382
 to find the damage
-and repair it before...
 
-516
-00:26:34,424 --> 00:26:36,224
+474
+00:26:33,926 --> 00:26:37,346
+and repair it before...
 this happens.
 
-517
-00:26:36,262 --> 00:26:37,926
+475
+00:26:37,346 --> 00:26:38,764
 Right.
 
-518
-00:26:40,974 --> 00:26:44,210
-How could you just let me die?
+476
+00:26:41,934 --> 00:26:45,229
+How could you
+just let me die?
 
-519
-00:26:44,250 --> 00:26:46,084
-I didn't just let you die.
+477
+00:26:45,229 --> 00:26:47,481
+I didn't just
+let you die.
 
-520
-00:26:46,121 --> 00:26:47,454
+478
+00:26:47,481 --> 00:26:50,109
 I did everything I could
-
-521
-00:26:47,491 --> 00:26:49,394
 to keep you alive
-for over an hour
+for over an hour,
 
-522
-00:26:49,429 --> 00:26:50,921
-but your body just gave up.
+479
+00:26:50,109 --> 00:26:51,944
+but your body
+just gave up.
 
-523
-00:26:50,966 --> 00:26:52,401
+480
+00:26:51,944 --> 00:26:54,113
 Gave up?
 
-524
-00:26:52,437 --> 00:26:54,909
+481
+00:26:54,113 --> 00:26:56,823
 I'm sorry, Chief.
-
-525
-00:26:54,944 --> 00:26:56,277
 But there comes a point
 
-526
-00:26:56,314 --> 00:26:58,285
+482
+00:26:56,823 --> 00:26:59,201
 when the human body
 just gives up.
 
-527
-00:26:58,319 --> 00:27:00,051
+483
+00:26:59,201 --> 00:27:00,953
 Yeah, well, maybe
 my Doctor wasn't...
 
-528
-00:27:01,962 --> 00:27:03,431
+484
+00:27:02,580 --> 00:27:04,498
 Bashir to Infirmary.
 
-529
-00:27:03,465 --> 00:27:06,462
+485
+00:27:04,498 --> 00:27:06,750
 I need a nurse and an emergency
 medkit here immediately.
 
-530
-00:27:08,312 --> 00:27:11,411
-We finally were able
-to localize the transporter beam
+486
+00:27:08,877 --> 00:27:11,629
+We finally were
+able to localize
+the transporter beam
 
-531
-00:27:11,453 --> 00:27:13,515
+487
+00:27:11,629 --> 00:27:14,674
 and trace it back
 to this location.
 
-532
-00:27:13,559 --> 00:27:15,929
+488
+00:27:14,674 --> 00:27:16,676
 These quarters have
 been vacant for weeks.
 
-533
-00:27:15,964 --> 00:27:17,490
+489
+00:27:16,676 --> 00:27:18,387
 Somehow they overrode
 
-534
-00:27:17,536 --> 00:27:20,874
-the security lock
-on the door to gain access.
+490
+00:27:18,387 --> 00:27:21,807
+the security lock on
+the door to gain access.
 
-535
-00:27:20,911 --> 00:27:22,039
+491
+00:27:21,807 --> 00:27:24,726
 So, what did they do?
+Bring in a portable
+transporter
 
-536
-00:27:22,081 --> 00:27:23,641
-Bring in a portable transporter
-
-537
-00:27:23,752 --> 00:27:25,586
-and beam
-the surveillance equipment
-
-538
-00:27:25,623 --> 00:27:26,614
+492
+00:27:24,726 --> 00:27:27,396
+and beam the
+surveillance equipment
 into the bulkhead?
 
-539
-00:27:26,659 --> 00:27:28,596
-That was my first thought
+493
+00:27:27,396 --> 00:27:29,773
+That was
+my first thought,
 
-540
-00:27:28,631 --> 00:27:32,266
-but then I realized
-that a portable transporter
+494
+00:27:29,773 --> 00:27:33,068
+but then I realized that
+a portable transporter
 
-541
-00:27:32,307 --> 00:27:33,740
-is a rather large
-and bulky piece of equipment
+495
+00:27:33,068 --> 00:27:35,904
+is a rather large and
+bulky piece of equipment
 
-542
-00:27:33,874 --> 00:27:35,811
-to be carrying around the halls.
+496
+00:27:35,904 --> 00:27:37,531
+to be carrying
+around the halls.
 
-543
-00:27:35,846 --> 00:27:36,837
+497
+00:27:37,531 --> 00:27:40,242
 That's true.
+So...
 
-544
-00:27:36,882 --> 00:27:41,759
-So, then I began thinking
-about...
+498
+00:27:40,242 --> 00:27:43,370
+then I began
+thinking about...
 
-545
-00:27:43,934 --> 00:27:45,267
+499
+00:27:45,372 --> 00:27:46,790
 the replicator.
 
-546
-00:27:47,877 --> 00:27:51,181
+500
+00:27:49,293 --> 00:27:52,796
 Ah... they realigned
 the matter-energy
 
-547
-00:27:51,220 --> 00:27:52,780
+501
+00:27:52,796 --> 00:27:54,298
 conversion matrix.
 
-548
-00:27:52,823 --> 00:27:55,591
-Turning it
-into a small transporter...
+502
+00:27:54,298 --> 00:27:57,217
+Turning it into
+a small transporter--
 
-549
-00:27:55,631 --> 00:28:00,474
+503
+00:27:57,217 --> 00:28:02,139
 a very sophisticated,
 very professional job.
 
-550
-00:28:00,510 --> 00:28:02,778
+504
+00:28:02,139 --> 00:28:04,057
 So now we know
-how they did it.
+<i>how</i> they did it.
 
-551
-00:28:02,816 --> 00:28:04,446
+505
+00:28:04,057 --> 00:28:05,976
 The next question is who.
 
-552
-00:28:04,487 --> 00:28:07,586
+506
+00:28:05,976 --> 00:28:08,646
 I think I have the answer
 to that as well.
 
-553
-00:28:10,637 --> 00:28:14,579
+507
+00:28:12,358 --> 00:28:16,028
 Now, this device is manufactured
-on Davlos Ill...
+on Davlos III--
 
-554
-00:28:14,613 --> 00:28:16,881
-a planet on the Klingon border.
+508
+00:28:16,028 --> 00:28:18,364
+a planet on
+the Klingon border.
 
-555
-00:28:16,920 --> 00:28:19,415
+509
+00:28:18,364 --> 00:28:20,866
+ODO:
 In fact, Davlos does
 over 90 percent
 
-556
-00:28:19,459 --> 00:28:21,293
+510
+00:28:20,866 --> 00:28:22,784
 of its trade
 with the Klingon Empire.
 
-557
-00:28:21,331 --> 00:28:24,898
+511
+00:28:22,784 --> 00:28:26,955
 Oh, that's still very little
 evidence to make an arrest.
 
-558
-00:28:24,941 --> 00:28:26,376
-Yes, it is
+512
+00:28:26,955 --> 00:28:32,336
+Yes, it is, but then
+I contacted a friend at
+Starfleet Intelligence
 
-559
-00:28:26,411 --> 00:28:30,251
-but then I contacted a friend
-at Starfleet Intelligence
-
-560
-00:28:30,287 --> 00:28:33,693
+513
+00:28:32,336 --> 00:28:35,130
 who used to be assigned
 to the Federation Embassy
 
-561
-00:28:33,730 --> 00:28:35,496
+514
+00:28:35,130 --> 00:28:36,882
 on the Klingon Homeworld.
 
-562
-00:28:35,534 --> 00:28:38,565
+515
+00:28:36,882 --> 00:28:38,925
 He put me in contact
-with a former Klingon operative
 
-563
-00:28:38,608 --> 00:28:42,072
+516
+00:28:38,925 --> 00:28:41,803
+with a former
+Klingon operative
 who is out of favor
-with the current administration.
 
-564
-00:28:42,118 --> 00:28:44,750
-This former operative
-sent me a series of reports...
+517
+00:28:41,803 --> 00:28:43,681
+with the current
+administration.
 
-565
-00:28:44,791 --> 00:28:45,760
-Odo...
+518
+00:28:43,681 --> 00:28:46,225
+This former operative sent
+me a series of reports...
 
-566
-00:28:45,794 --> 00:28:47,286
-cut to the chase.
+519
+00:28:46,225 --> 00:28:48,602
+Odo... cut to the chase.
 
-567
-00:28:47,331 --> 00:28:50,635
+520
+00:28:48,602 --> 00:28:52,231
 The three Klingons
 now on the station
 
-568
-00:28:50,674 --> 00:28:54,115
-are part
-of a covert strike force
+521
+00:28:52,231 --> 00:28:55,568
+are part of
+a covert strike force
 
-569
-00:28:54,149 --> 00:28:57,521
+522
+00:28:55,568 --> 00:28:58,945
 that reports directly
 to the Klingon High Council.
 
-570
-00:28:57,558 --> 00:28:59,084
+523
+00:28:58,945 --> 00:29:00,531
 Why didn't you just say so?
 
-571
-00:28:59,129 --> 00:29:01,761
+524
+00:29:00,531 --> 00:29:03,325
 Well, sometimes I have
 to remind you
 
-572
-00:29:01,802 --> 00:29:03,568
+525
+00:29:03,325 --> 00:29:04,951
 just how good I am.
 
-573
-00:29:03,607 --> 00:29:06,409
+526
+00:29:04,951 --> 00:29:09,289
 Mm. So, Gowron sent
 our three friends here
 
-574
-00:29:06,448 --> 00:29:08,647
+527
+00:29:09,289 --> 00:29:12,459
 and they're conducting
-surveillance
+surveillance on the
+Romulan delegation. Why?
 
-575
-00:29:08,686 --> 00:29:09,712
-on the Romulan delegation.
-
-576
-00:29:09,756 --> 00:29:10,782
-Why?
-
-577
-00:29:10,826 --> 00:29:12,524
+528
+00:29:12,459 --> 00:29:15,045
 Are they here to kill them?
-
-578
-00:29:12,564 --> 00:29:13,624
 Possibly.
 
-579
-00:29:13,666 --> 00:29:15,603
+529
+00:29:15,045 --> 00:29:16,714
 It's also possible
 that this is just
 
-580
-00:29:15,639 --> 00:29:18,077
+530
+00:29:16,714 --> 00:29:19,425
 a routine intelligence-
 gathering operation.
 
-581
-00:29:18,111 --> 00:29:21,085
+531
+00:29:19,425 --> 00:29:22,553
 The high-energy laser
 that killed O'Brien
 
-582
-00:29:21,119 --> 00:29:22,783
+532
+00:29:22,553 --> 00:29:27,099
 is simply a booby trap
-
-583
-00:29:22,824 --> 00:29:25,730
 to prevent someone from
 tampering with the device.
 
-584
-00:29:25,765 --> 00:29:27,668
+533
+00:29:27,099 --> 00:29:29,142
 It's not meant
 for assassination.
 
-585
-00:29:27,703 --> 00:29:30,871
+534
+00:29:29,142 --> 00:29:31,853
 Well, in either case,
-I think we have enough evidence
+I think we have
+enough evidence
 
-586
-00:29:30,911 --> 00:29:33,645
-to at least hold the Klingons
-for questioning, don't you?
+535
+00:29:31,853 --> 00:29:35,023
+to at least
+hold the Klingons for
+questioning, don't you?
 
-587
-00:29:33,685 --> 00:29:34,779
+536
+00:29:35,023 --> 00:29:38,736
 Absolutely.
+And I think I can
+question them
 
-588
-00:29:34,821 --> 00:29:36,883
-And I think I can question them
-
-589
-00:29:36,927 --> 00:29:40,163
+537
+00:29:38,736 --> 00:29:41,655
 until the Romulan delegation
 leaves the station.
 
-590
-00:29:40,269 --> 00:29:42,001
+538
+00:29:41,655 --> 00:29:44,116
 Just be careful.
 
-591
-00:29:43,210 --> 00:29:46,651
-Commander,
-there is no careful way
+539
+00:29:44,116 --> 00:29:47,994
+Commander, there
+is no careful way
 
-592
-00:29:46,685 --> 00:29:49,021
+540
+00:29:47,994 --> 00:29:50,372
 to question a Klingon.
 
-593
-00:29:53,068 --> 00:29:55,540
+541
+00:29:54,418 --> 00:29:56,878
 I have...
 I haven't given up.
 
-594
-00:29:56,711 --> 00:29:58,705
+542
+00:29:56,878 --> 00:29:58,297
+(<i> panting</i> )
+
+543
+00:29:58,297 --> 00:30:00,006
 I won't give up.
 
-595
-00:29:58,750 --> 00:30:00,185
+544
+00:30:00,006 --> 00:30:01,550
 It's all right, Chief.
 
-596
-00:30:00,221 --> 00:30:01,554
+545
+00:30:01,550 --> 00:30:02,676
 You're okay.
 
-597
-00:30:04,499 --> 00:30:05,934
+546
+00:30:05,679 --> 00:30:07,389
 No, I'm not.
 
-598
-00:30:08,442 --> 00:30:12,248
+547
+00:30:09,642 --> 00:30:13,646
 You need to run
 a basilar arterial scan.
 
-599
-00:30:12,319 --> 00:30:13,754
+548
+00:30:13,646 --> 00:30:14,896
 Why?
 
-600
-00:30:13,789 --> 00:30:15,088
-Because if you don't
+549
+00:30:14,896 --> 00:30:16,315
+Because if you don't,
 
-601
-00:30:15,126 --> 00:30:18,123
+550
+00:30:16,315 --> 00:30:19,485
 I'm going to die
 in less than five hours.
 
-602
-00:30:18,167 --> 00:30:19,636
+551
+00:30:19,485 --> 00:30:21,027
 Who told you that?
 
-603
-00:30:19,671 --> 00:30:22,509
+552
+00:30:21,027 --> 00:30:22,904
 You did.
 
-604
-00:30:22,545 --> 00:30:24,209
+553
+00:30:24,030 --> 00:30:25,324
 In the future.
 
-605
-00:30:25,319 --> 00:30:27,256
+554
+00:30:26,492 --> 00:30:28,034
 Oh.
 
-606
-00:30:27,291 --> 00:30:29,661
+555
+00:30:28,034 --> 00:30:30,954
 Well, who am I
 to argue with me?
 
-607
-00:30:31,569 --> 00:30:32,560
+556
+00:30:32,581 --> 00:30:34,374
 Let me go!
 
-608
-00:30:33,841 --> 00:30:35,276
+557
+00:30:34,374 --> 00:30:36,084
+KLINGON:
 This is an outrage.
 
-609
-00:30:35,312 --> 00:30:36,576
-We have done nothing.
+558
+00:30:36,084 --> 00:30:37,670
+We have
+done nothing.
 
-610
-00:30:39,389 --> 00:30:41,087
+559
+00:30:40,130 --> 00:30:42,675
 We will have our vengeance
 on all of you for this.
 
-611
-00:30:41,127 --> 00:30:43,291
+560
+00:30:42,675 --> 00:30:45,218
 You are treating us
 with dishonor.
 
-612
-00:30:43,333 --> 00:30:45,031
-We have done nothing wrong.
+561
+00:30:45,218 --> 00:30:47,346
+We have done
+nothing wrong.
 
-613
-00:30:45,070 --> 00:30:50,345
+562
+00:30:47,346 --> 00:30:51,183
 We take a very dim view of spies
 and saboteurs on this station.
 
-614
-00:30:50,451 --> 00:30:51,920
+563
+00:30:51,183 --> 00:30:53,310
 Now you slander us.
 
-615
-00:30:51,954 --> 00:30:55,122
+564
+00:30:53,310 --> 00:30:56,855
 When my family finds out
-what you have done
+what you have done,
 
-616
-00:30:55,164 --> 00:30:57,602
+565
+00:30:56,855 --> 00:30:58,940
 they will come here
 and kill you.
 
-617
-00:30:57,636 --> 00:30:59,162
+566
+00:30:58,940 --> 00:31:00,818
 I doubt that very much.
 
-618
-00:30:59,207 --> 00:31:01,839
+567
+00:31:00,818 --> 00:31:02,986
 The only people
 who will be coming here
 
-619
-00:31:01,880 --> 00:31:04,614
+568
+00:31:02,986 --> 00:31:06,615
 are your friends
 in Klingon Intelligence.
 
-620
-00:31:04,655 --> 00:31:06,455
-And from what I understand
+569
+00:31:06,615 --> 00:31:08,450
+And from what I understand,
 
-621
-00:31:06,493 --> 00:31:09,661
+570
+00:31:08,450 --> 00:31:11,495
 they don't like being
 embarrassed by operatives
 
-622
-00:31:09,701 --> 00:31:12,698
+571
+00:31:11,495 --> 00:31:13,372
 who fail in their missions.
 
-623
-00:31:12,743 --> 00:31:16,742
+572
+00:31:13,372 --> 00:31:17,876
 However, should you suddenly
-feel like cooperating
+feel like cooperating,
 
-624
-00:31:16,786 --> 00:31:19,281
+573
+00:31:17,876 --> 00:31:20,671
 I may be persuaded
 to let you go
 
-625
-00:31:19,326 --> 00:31:23,234
+574
+00:31:20,671 --> 00:31:24,424
 without contacting your friends
 in Intelligence.
 
-626
-00:31:28,483 --> 00:31:30,717
-May be.
+575
+00:31:29,680 --> 00:31:31,890
+Maybe.
 
-627
-00:31:43,121 --> 00:31:45,355
+576
+00:31:44,820 --> 00:31:46,946
 So how are you feeling, Chief?
 
-628
-00:31:45,394 --> 00:31:46,863
+577
+00:31:46,946 --> 00:31:48,782
 Better, sir.
 
-629
-00:31:46,897 --> 00:31:47,923
-I've eliminated
+578
+00:31:48,782 --> 00:31:51,076
+I've eliminated almost all
+the radioisotopes from his body.
 
-630
-00:31:47,967 --> 00:31:49,870
-almost all the radioisotopes
-from his body.
+579
+00:31:51,076 --> 00:31:52,952
+Have to wait
+a couple more hours
 
-631
-00:31:49,905 --> 00:31:51,306
-Have to wait a couple more hours
-
-632
-00:31:51,342 --> 00:31:52,972
+580
+00:31:52,952 --> 00:31:54,788
 before I give him
 the last treatment.
+But after that,
 
-633
-00:31:53,013 --> 00:31:55,383
-But after that, there should be
-no more timeshifting.
+581
+00:31:54,788 --> 00:31:56,540
+there should be no more
+time-shifting.
 
-634
-00:31:57,023 --> 00:31:58,755
-What about
-the quantum singularity?
+582
+00:31:58,124 --> 00:32:00,586
+SISKO:
+What about the
+quantum singularity?
 
-635
-00:31:58,795 --> 00:32:00,425
+583
+00:32:00,586 --> 00:32:04,214
 We've been able to track it
+by using its tetryon
+emissions as a guide.
 
-636
-00:32:00,466 --> 00:32:03,030
-by using its tetryon emissions
-as a guide.
-
-637
-00:32:03,073 --> 00:32:05,409
+584
+00:32:04,214 --> 00:32:06,466
 It seems to be orbiting
 Deep Space 9
 
-638
-00:32:05,513 --> 00:32:07,416
-in a roughly elliptical fashion.
+585
+00:32:06,466 --> 00:32:08,176
+in a roughly
+elliptical fashion.
 
-639
-00:32:07,518 --> 00:32:10,617
-At certain points in its orbit,
-the singularity radiates
+586
+00:32:08,176 --> 00:32:10,011
+At certain points
+in its orbit,
 
-640
-00:32:10,659 --> 00:32:13,188
+587
+00:32:10,011 --> 00:32:11,722
+the singularity
+radiates
+
+588
+00:32:11,722 --> 00:32:14,433
 temporal energy
 at a specific wavelength.
 
-641
-00:32:13,232 --> 00:32:16,034
+589
+00:32:14,433 --> 00:32:17,018
 That seems to be
 what triggers my time shifts.
 
-642
-00:32:16,073 --> 00:32:18,203
+590
+00:32:17,018 --> 00:32:19,730
 Is there any way
 to break it out of its orbit
-
-643
-00:32:18,245 --> 00:32:19,407
 and send it on its way?
 
-644
-00:32:19,448 --> 00:32:20,781
-Well, we were hoping
-to station...
+591
+00:32:19,730 --> 00:32:21,981
+Well, we were
+hoping to station...
 
-645
-00:32:22,657 --> 00:32:23,626
-Come on, come on.
+592
+00:32:21,981 --> 00:32:23,525
+(<i> alarm blaring</i> )
 
-646
-00:32:23,660 --> 00:32:25,027
-Hurry up.
+593
+00:32:23,525 --> 00:32:24,984
+O'BRIEN: Come on,
+come on. Hurry up.
+
+594
+00:32:24,984 --> 00:32:27,153
 We don't have much time!
 
-647
-00:32:26,133 --> 00:32:27,568
-Prepare to seal the hatch
+595
+00:32:27,153 --> 00:32:28,697
+Prepare to seal
+the hatch
 
-648
-00:32:27,603 --> 00:32:29,437
-and release the docking clamps.
+596
+00:32:28,697 --> 00:32:30,365
+and release the
+docking clamps.
 
-649
-00:32:30,911 --> 00:32:32,175
+597
+00:32:31,909 --> 00:32:34,035
+MAN:
 Move quickly.
 Let's go.
 
-650
-00:32:32,215 --> 00:32:34,813
+598
+00:32:34,035 --> 00:32:36,663
 All the way back.
-Move quickly.
+Move quickly. Come on.
 
-651
-00:32:34,855 --> 00:32:35,949
-Come on.
-
-652
-00:32:35,992 --> 00:32:38,989
+599
+00:32:36,663 --> 00:32:40,041
 Initiating emergency
 escape protocol.
 
-653
-00:32:39,032 --> 00:32:41,596
+600
+00:32:40,041 --> 00:32:42,669
 Hang on,
 I'm going to full impulse.
 
-654
-00:32:50,563 --> 00:32:52,089
+601
+00:32:51,804 --> 00:32:53,138
 Now what?
 
-655
-00:32:52,133 --> 00:32:53,625
+602
+00:32:53,138 --> 00:32:55,014
 You're here!
 
-656
-00:32:53,671 --> 00:32:55,539
+603
+00:32:55,014 --> 00:32:57,225
 Look, I don't know
 what happened.
 
-657
-00:32:55,576 --> 00:32:58,641
+604
+00:32:57,225 --> 00:33:00,646
 I was asleep in bed when
 the whole station was rocked
-
-658
-00:32:58,684 --> 00:32:59,880
 by an explosion.
 
-659
-00:32:59,920 --> 00:33:03,326
+605
+00:33:00,646 --> 00:33:04,357
 Before I could get to Ops,
 the evacuation alarm sounded.
 
-660
-00:33:03,362 --> 00:33:05,333
-And the com systems were down.
+606
+00:33:04,357 --> 00:33:06,192
+And the com systems
+were down.
 
-661
-00:33:05,368 --> 00:33:08,068
+607
+00:33:06,192 --> 00:33:09,070
+O'BRIEN:
 I got as many people
 as I could in here.
 
-662
-00:33:08,108 --> 00:33:10,740
+608
+00:33:09,070 --> 00:33:11,824
 I don't know what happened
 to the others.
 
-663
-00:33:10,782 --> 00:33:13,654
+609
+00:33:11,824 --> 00:33:14,743
 When you go back, you have
 to find out what happened
 
-664
-00:33:13,690 --> 00:33:15,057
+610
+00:33:14,743 --> 00:33:16,119
 and stop it.
 
-665
-00:33:27,325 --> 00:33:29,193
+611
+00:33:28,381 --> 00:33:29,716
 My God!
 
-666
-00:33:33,273 --> 00:33:36,543
+612
+00:33:34,471 --> 00:33:36,515
 Chief, what's wrong?
 
-667
-00:33:36,582 --> 00:33:39,282
+613
+00:33:38,183 --> 00:33:40,059
 We've got a new problem, sir.
 
-668
-00:33:43,466 --> 00:33:45,403
+614
+00:33:44,815 --> 00:33:46,650
 Did you see anything
 from the runabout
 
-669
-00:33:45,439 --> 00:33:48,037
+615
+00:33:46,650 --> 00:33:49,486
 that would indicate
 how the station was destroyed?
 
-670
-00:33:48,079 --> 00:33:50,175
+616
+00:33:49,486 --> 00:33:51,488
 There were a series
 of explosions
 
-671
-00:33:50,217 --> 00:33:52,621
+617
+00:33:51,488 --> 00:33:54,032
 that rippled across
 the Habitat Ring.
 
-672
-00:33:52,657 --> 00:33:54,252
-But it all happened so fast
+618
+00:33:54,032 --> 00:33:55,993
+But it all happened so fast,
 
-673
-00:33:54,295 --> 00:33:57,759
+619
+00:33:55,993 --> 00:33:59,120
 I couldn't get a clear sense
 of exactly what was going on.
 
-674
-00:33:57,804 --> 00:34:00,744
+620
+00:33:59,120 --> 00:34:01,540
 Could you tell if you were
-looking at internal explosions
+looking at internal explosions,
 
-675
-00:34:00,778 --> 00:34:03,546
+621
+00:34:01,540 --> 00:34:04,292
 which might indicate some kind
-of sabotage or accident
+of sabotage or accident,
 
-676
-00:34:03,586 --> 00:34:05,854
+622
+00:34:04,292 --> 00:34:07,253
 or external explosions,
 which might indicate
 
-677
-00:34:05,891 --> 00:34:07,087
-we were under attack?
+623
+00:34:07,253 --> 00:34:08,630
+we were
+under attack?
 
-678
-00:34:07,128 --> 00:34:09,258
+624
+00:34:08,630 --> 00:34:10,799
 No. No, I'm not sure.
 
-679
-00:34:09,301 --> 00:34:11,933
+625
+00:34:10,799 --> 00:34:13,259
 Do you remember seeing
 any other ships nearby?
 
-680
-00:34:11,974 --> 00:34:14,812
+626
+00:34:13,259 --> 00:34:16,179
 No, but I had a very limited
 view of the area.
 
-681
-00:34:14,849 --> 00:34:16,820
-Well, it looks
-like, at this point
+627
+00:34:16,179 --> 00:34:17,681
+Well, it looks like,
+at this point
 
-682
-00:34:16,854 --> 00:34:18,449
-we can't rule anything out.
+628
+00:34:17,681 --> 00:34:19,641
+we can't rule
+anything out.
 
-683
-00:34:18,490 --> 00:34:19,982
+629
+00:34:19,641 --> 00:34:20,976
 Agreed.
 
-684
-00:34:21,332 --> 00:34:23,827
+630
+00:34:22,561 --> 00:34:25,230
 Make preparations
 to evacuate the station.
 
-685
-00:34:23,872 --> 00:34:25,459
+631
+00:34:25,230 --> 00:34:27,315
 Do it quietly.
 
-686
-00:34:25,592 --> 00:34:27,426
+632
+00:34:27,315 --> 00:34:29,275
 If the destruction
 of the station
 
-687
-00:34:27,464 --> 00:34:29,800
+633
+00:34:29,275 --> 00:34:31,611
 is the result
-of an attack or sabotage
+of an attack or sabotage,
 
-688
-00:34:29,836 --> 00:34:31,739
+634
+00:34:31,611 --> 00:34:33,530
 we don't want
 to alarm our enemy
 
-689
-00:34:31,775 --> 00:34:36,151
+635
+00:34:33,530 --> 00:34:37,576
 and make him trigger events
 we're trying to avoid.
 
-690
-00:34:36,220 --> 00:34:38,624
-Begin a complete systems check
-of everything on the station
+636
+00:34:37,576 --> 00:34:39,327
+Begin a complete
+systems check
 
-691
-00:34:38,660 --> 00:34:40,824
+637
+00:34:39,327 --> 00:34:41,287
+of everything
+on the station
+
+638
+00:34:41,287 --> 00:34:43,122
 that could potentially
-cause this kind of explosion.
+cause this kind
+of explosion.
 
-692
-00:34:40,865 --> 00:34:42,061
+639
+00:34:43,122 --> 00:34:44,499
 Right.
 
-693
-00:34:42,101 --> 00:34:44,265
+640
+00:34:44,499 --> 00:34:46,084
+O'BRIEN:
 Commander...
 
-694
-00:34:44,308 --> 00:34:46,872
+641
+00:34:46,084 --> 00:34:47,377
 there might be another way
+
+642
+00:34:47,377 --> 00:34:49,170
 to find out what's going on.
 
-695
-00:34:46,914 --> 00:34:49,318
+643
+00:34:49,170 --> 00:34:51,130
 If I could travel
-into the future again...
+into the future again--
 
-696
-00:34:49,354 --> 00:34:52,658
+644
+00:34:51,130 --> 00:34:54,384
 this time just before
-the destruction of DS9...
+the destruction of DS9--
 
-697
-00:34:52,696 --> 00:34:54,930
+645
+00:34:54,384 --> 00:34:56,803
 I might be able to find out
-what's going to happen
+what's going to happen,
 
-698
-00:34:54,969 --> 00:34:56,529
+646
+00:34:56,803 --> 00:35:00,933
 then return to the present
-
-699
-00:34:56,572 --> 00:34:59,204
 in time for us to prevent it
 from happening.
 
-700
-00:34:59,313 --> 00:35:02,344
-If you could flood my body
-with high concentrations
+647
+00:35:00,933 --> 00:35:03,810
+If you could flood
+my body with high
+concentrations
 
-701
-00:35:02,387 --> 00:35:05,155
-of delta-series radioisotopes,
+648
+00:35:03,810 --> 00:35:05,771
+of delta-series
+radioisotopes,
+
+649
+00:35:05,771 --> 00:35:09,066
 it might trigger
+a time shift
+into the future.
 
-702
-00:35:05,261 --> 00:35:07,665
-a time shift into the future.
-
-703
-00:35:07,701 --> 00:35:10,401
+650
+00:35:09,066 --> 00:35:12,360
 Possibly,
 but those isotopes are toxic.
 
-704
-00:35:10,441 --> 00:35:12,913
+651
+00:35:12,360 --> 00:35:16,114
 It could cause permanent damage
 to your nervous system.
-
-705
-00:35:12,948 --> 00:35:14,349
 It might even kill you.
 
-706
-00:35:14,386 --> 00:35:18,158
+652
+00:35:16,114 --> 00:35:19,868
 Well, if the future happens
-the way I saw it happen
+the way I saw it happen,
 
-707
-00:35:18,195 --> 00:35:20,132
+653
+00:35:19,868 --> 00:35:21,327
 a lot of people are
 going to get killed
 
-708
-00:35:20,167 --> 00:35:21,431
-when the station explodes.
+654
+00:35:21,327 --> 00:35:23,162
+when the station
+explodes.
 
-709
-00:35:21,470 --> 00:35:23,100
+655
+00:35:23,162 --> 00:35:24,957
 It's a risk I'm willing to take.
 
-710
-00:35:23,142 --> 00:35:25,614
-Even if you're able
-to initiate a time jump
+656
+00:35:24,957 --> 00:35:27,375
+SISKO:
+Even if you're able to
+initiate a time jump,
 
-711
-00:35:25,648 --> 00:35:28,086
+657
+00:35:27,375 --> 00:35:29,753
 each time you traveled
-into the future
+into the future,
 
-712
-00:35:28,121 --> 00:35:30,115
+658
+00:35:29,753 --> 00:35:31,964
 you've always gone five hours.
 
-713
-00:35:30,160 --> 00:35:33,066
+659
+00:35:31,964 --> 00:35:34,758
 How do you propose to shorten
 the length of a jump?
 
-714
-00:35:33,101 --> 00:35:35,939
+660
+00:35:34,758 --> 00:35:37,719
 Well, there might be a link
 between the temporal frequency
 
-715
-00:35:35,974 --> 00:35:37,102
+661
+00:35:37,719 --> 00:35:39,345
 of the singularity
 
-716
-00:35:37,144 --> 00:35:39,240
+662
+00:35:39,345 --> 00:35:40,973
 and the length
 of the time shift.
 
-717
-00:35:39,283 --> 00:35:42,519
-We might be able to calibrate
+663
+00:35:40,973 --> 00:35:44,142
+We might be able
+to calibrate
 
-718
-00:35:42,559 --> 00:35:44,257
+664
+00:35:44,142 --> 00:35:47,312
 the decay constant
-of the isotope
+of the isotope that
+we inject you with
 
-719
-00:35:44,362 --> 00:35:45,661
-that we inject you with
-
-720
-00:35:45,700 --> 00:35:47,637
+665
+00:35:47,312 --> 00:35:49,481
 to match the frequency
 of the singularity.
 
-721
-00:35:47,672 --> 00:35:49,164
-And with a few minor adjustments
+666
+00:35:49,481 --> 00:35:51,274
+And with a few
+minor adjustments,
 
-722
-00:35:49,209 --> 00:35:50,644
+667
+00:35:51,274 --> 00:35:53,192
 we can control
 how far you jump
-
-723
-00:35:50,680 --> 00:35:51,649
 into the future.
 
-724
-00:35:51,682 --> 00:35:52,912
+668
+00:35:53,192 --> 00:35:54,569
 Exactly.
 
-725
-00:35:54,623 --> 00:35:55,785
+669
+00:35:56,071 --> 00:35:57,614
 All right.
 
-726
-00:35:55,826 --> 00:35:58,298
+670
+00:35:57,614 --> 00:35:59,950
 But if you can't do it
-within two hours
+within two hours,
 
-727
-00:35:58,366 --> 00:36:01,204
+671
+00:35:59,950 --> 00:36:02,911
 I'm going to begin
 to evacuate the station.
 
-728
-00:36:01,240 --> 00:36:02,607
+672
+00:36:02,911 --> 00:36:04,245
 Understood.
 
-729
-00:36:09,829 --> 00:36:12,165
+673
+00:36:11,503 --> 00:36:13,839
 Now, when you activate
-this device
+this device,
 
-730
-00:36:12,202 --> 00:36:15,199
+674
+00:36:13,839 --> 00:36:16,675
 it'll inject you with a two-rad
 dose of delta isotopes.
 
-731
-00:36:15,243 --> 00:36:16,405
+675
+00:36:16,675 --> 00:36:18,510
 Now, if our calculations
-are right
+are right,
 
-732
-00:36:16,446 --> 00:36:18,280
+676
+00:36:18,510 --> 00:36:19,928
 that should put you about
 three hours into the future.
 
-733
-00:36:18,385 --> 00:36:19,877
-What's the margin of error?
+677
+00:36:19,928 --> 00:36:21,513
+What's the margin
+of error?
 
-734
-00:36:19,922 --> 00:36:21,414
-Plus or minus half an hour,
-I'd say.
+678
+00:36:21,513 --> 00:36:22,973
+Plus or minus
+half an hour, I'd say.
 
-735
-00:36:21,459 --> 00:36:22,792
-But that's the best we could do.
+679
+00:36:22,973 --> 00:36:24,432
+But that's the best
+we could do.
 
-736
-00:36:22,830 --> 00:36:24,698
-Now, it's already set
+680
+00:36:24,432 --> 00:36:26,351
+It's already set
 for the return trip.
 
-737
-00:36:24,734 --> 00:36:26,671
-So all you have to do
-is activate it again
+681
+00:36:26,351 --> 00:36:29,104
+So all you have to do is
+activate it again to return
+to the present.
 
-738
-00:36:26,706 --> 00:36:28,073
-to return to the present.
-
-739
-00:36:28,109 --> 00:36:29,078
+682
+00:36:29,104 --> 00:36:33,316
 Right.
-
-740
-00:36:29,112 --> 00:36:31,914
 And remember,
 don't wait too long.
 
-741
-00:36:31,954 --> 00:36:33,423
+683
+00:36:33,316 --> 00:36:34,860
 Your body will be experiencing
 
-742
-00:36:33,457 --> 00:36:35,325
-symptoms
-of severe radiation poisoning.
+684
+00:36:34,860 --> 00:36:37,737
+symptoms of severe
+radiation poisoning.
 
-743
-00:36:35,362 --> 00:36:38,336
+685
+00:36:37,737 --> 00:36:39,990
 If you don't get treatment,
 it will kill you.
 
-744
-00:36:38,370 --> 00:36:40,307
+686
+00:36:39,990 --> 00:36:41,950
 I won't forget.
 
-745
-00:36:40,342 --> 00:36:41,436
+687
+00:36:41,950 --> 00:36:43,035
 Good.
 
-746
-00:36:43,250 --> 00:36:44,685
+688
+00:36:44,494 --> 00:36:46,371
 Julian, there's a...
 
-747
-00:36:44,720 --> 00:36:47,022
+689
+00:36:46,371 --> 00:36:48,665
 a message in my quarters
 for Keiko if...
 
-748
-00:36:47,059 --> 00:36:49,657
+690
+00:36:48,665 --> 00:36:51,250
 I understand, Miles.
 
-749
-00:37:16,569 --> 00:37:17,936
+691
+00:37:17,861 --> 00:37:19,404
 0200.
 
-750
-00:37:19,877 --> 00:37:22,645
+692
+00:37:21,073 --> 00:37:23,366
 That's three and a half hours
 into the future.
 
-751
-00:37:31,307 --> 00:37:33,278
+693
+00:37:32,918 --> 00:37:34,794
 Miles, Miles!
 
-752
-00:37:33,313 --> 00:37:34,373
+694
+00:37:34,794 --> 00:37:36,379
 Wake up!
-
-753
-00:37:34,415 --> 00:37:36,511
 What?
 
-754
-00:37:36,554 --> 00:37:38,046
+695
+00:37:37,756 --> 00:37:39,716
 Computer, lights.
 
-755
-00:37:43,238 --> 00:37:45,836
+696
+00:37:44,763 --> 00:37:47,348
 Oh, no, not you again.
 
-756
-00:37:47,315 --> 00:37:48,545
+697
+00:37:48,850 --> 00:37:51,103
 What is it now?
-
-757
-00:37:48,585 --> 00:37:49,679
 Listen to me.
 
-758
-00:37:49,722 --> 00:37:51,750
+698
+00:37:51,103 --> 00:37:53,188
 I've jumped ahead
 and seen your future.
 
-759
-00:37:51,794 --> 00:37:55,064
+699
+00:37:53,188 --> 00:37:56,482
 Don't ask me how,
 it'll take too long to explain.
 
-760
-00:37:55,102 --> 00:37:58,440
+700
+00:37:58,193 --> 00:38:00,237
 There's going to be a disaster.
 
-761
-00:37:58,478 --> 00:38:00,848
+701
+00:38:00,237 --> 00:38:02,321
 DS9 will be destroyed.
 
-762
-00:38:02,455 --> 00:38:03,754
+702
+00:38:03,698 --> 00:38:05,075
 Destroyed? How?
 
-763
-00:38:03,791 --> 00:38:04,953
+703
+00:38:05,075 --> 00:38:07,619
 I don't know.
-
-764
-00:38:04,994 --> 00:38:06,224
 That's why I'm here.
 
-765
-00:38:06,264 --> 00:38:09,136
+704
+00:38:07,619 --> 00:38:10,622
 I have to find out
 what's going to happen
 
-766
-00:38:09,172 --> 00:38:13,775
+705
+00:38:10,622 --> 00:38:15,210
 and then travel back
 into the past and prevent it.
 
-767
-00:38:16,792 --> 00:38:18,193
+706
+00:38:18,337 --> 00:38:19,631
 You look pretty bad.
 
-768
-00:38:18,229 --> 00:38:21,932
+707
+00:38:21,424 --> 00:38:23,384
 It's the radiation.
 
-769
-00:38:21,972 --> 00:38:24,912
+708
+00:38:23,384 --> 00:38:26,054
 Well, if you feel bad
-and you're my past self
+and you're my past self,
 
-770
-00:38:24,946 --> 00:38:26,712
-shouldn't I feel bad, too?
+709
+00:38:26,054 --> 00:38:28,098
+shouldn't
+I feel bad, too?
 
-771
-00:38:28,789 --> 00:38:31,227
+710
+00:38:29,557 --> 00:38:32,644
+BOTH:
 I hate temporal mechanics.
 
-772
-00:38:33,034 --> 00:38:35,506
+711
+00:38:34,479 --> 00:38:36,940
 Let's get down to Ops
 and see what's going on.
 
-773
-00:38:41,022 --> 00:38:42,720
+712
+00:38:38,650 --> 00:38:41,069
+(<i> groaning</i> )
+
+713
+00:38:42,279 --> 00:38:43,446
 Help me up.
 
-774
-00:38:53,621 --> 00:38:56,253
+714
+00:38:55,374 --> 00:38:57,752
 Run a sensor sweep
 of the entire station.
 
-775
-00:38:56,294 --> 00:38:58,892
+715
+00:38:57,752 --> 00:39:00,463
 Look for anything
 that might indicate a...
 
-776
-00:39:00,037 --> 00:39:01,597
+716
+00:39:00,463 --> 00:39:02,423
 Report!
 
-777
-00:39:01,642 --> 00:39:03,613
+717
+00:39:02,423 --> 00:39:04,926
 A Romulan warbird just
 de-cloaked off of Lower Pylon 2.
 
-778
-00:39:03,647 --> 00:39:05,846
+718
+00:39:04,926 --> 00:39:07,012
 They've taken out
 our shield generators.
 
-779
-00:39:05,885 --> 00:39:07,184
+719
+00:39:07,012 --> 00:39:08,180
 On screen.
 
-780
-00:39:09,763 --> 00:39:12,703
+720
+00:39:11,266 --> 00:39:12,934
 Lock phasers and return fire.
 
-781
-00:39:14,174 --> 00:39:16,008
+721
+00:39:14,102 --> 00:39:15,520
+(<i> groans</i> )
+
+722
+00:39:15,520 --> 00:39:17,189
 They've hit the fusion reactor.
 
-782
-00:39:16,046 --> 00:39:17,106
+723
+00:39:17,189 --> 00:39:18,982
 Main power's down.
 
-783
-00:39:17,148 --> 00:39:19,552
-Defense systems off-line.
+724
+00:39:18,982 --> 00:39:21,067
+Defense systems
+off-line.
 
-784
-00:39:19,588 --> 00:39:23,360
-Try to reroute phasers through
-the emergency power couplings.
+725
+00:39:21,067 --> 00:39:24,196
+Try to reroute phasers
+through the emergency
+power couplings.
 
-785
-00:39:26,707 --> 00:39:28,267
-Miles, you've got your answer.
+726
+00:39:27,490 --> 00:39:29,575
+Miles, you've got
+your answer.
 
-786
-00:39:28,311 --> 00:39:29,678
-The quantum singularity
+727
+00:39:29,575 --> 00:39:32,578
+The quantum singularity that's
+been orbiting the station--
 
-787
-00:39:29,714 --> 00:39:31,708
-that's been orbiting
-the station...
-
-788
-00:39:31,753 --> 00:39:32,847
+728
+00:39:32,578 --> 00:39:34,122
 it's the Romulans.
 
-789
-00:39:32,890 --> 00:39:34,588
+729
+00:39:34,122 --> 00:39:37,000
 Are you listening?
-
-790
-00:39:34,627 --> 00:39:36,187
 The Romulans use
 
-791
-00:39:36,231 --> 00:39:38,533
+730
+00:39:37,000 --> 00:39:39,836
 a confined singularity
 to power their warp core.
 
-792
-00:39:38,571 --> 00:39:40,131
+731
+00:39:39,836 --> 00:39:41,671
 That's what we've
 been detecting.
 
-793
-00:39:40,175 --> 00:39:42,009
+732
+00:39:41,671 --> 00:39:43,548
 That's what's causing
 the time shifts.
 
-794
-00:39:42,046 --> 00:39:43,310
-You must go back and tell them
+733
+00:39:43,548 --> 00:39:45,424
+You must go back
+and tell them
 
-795
-00:39:43,350 --> 00:39:46,917
+734
+00:39:45,424 --> 00:39:48,261
 to put up the shields
-and stand by for an attack.
+and stand by
+for an attack.
 
-796
-00:39:46,959 --> 00:39:50,092
+735
+00:39:48,261 --> 00:39:51,181
 I can't.
 
-797
-00:39:50,134 --> 00:39:53,131
+736
+00:39:51,181 --> 00:39:53,558
 I can't get through
 another shift.
 
-798
-00:39:53,175 --> 00:39:55,773
+737
+00:39:53,558 --> 00:39:56,936
 It's the radiation poisoning,
 it...
 
-799
-00:40:00,461 --> 00:40:01,987
+738
+00:40:01,858 --> 00:40:03,360
 You go.
 
-800
-00:40:02,031 --> 00:40:03,831
+739
+00:40:03,360 --> 00:40:05,237
 Just activate it.
 
-801
-00:40:03,870 --> 00:40:06,935
-It's set for the return trip.
+740
+00:40:05,237 --> 00:40:08,406
+It's set for
+the return trip.
 
-802
-00:40:06,978 --> 00:40:08,504
+741
+00:40:08,406 --> 00:40:09,824
 Me?
 
-803
-00:40:08,549 --> 00:40:10,041
+742
+00:40:09,824 --> 00:40:11,326
 I don't belong there.
 
-804
-00:40:10,086 --> 00:40:12,650
+743
+00:40:11,326 --> 00:40:14,579
 I'm you... you're me...
 
-805
-00:40:12,692 --> 00:40:15,666
+744
+00:40:14,579 --> 00:40:16,873
 It does... doesn't matter.
 
-806
-00:40:15,700 --> 00:40:16,930
+745
+00:40:16,873 --> 00:40:18,208
 Just go.
 
-807
-00:40:18,909 --> 00:40:19,900
+746
+00:40:19,959 --> 00:40:21,211
 Go!
 
-808
-00:40:38,392 --> 00:40:39,759
-Chief!
+747
+00:40:21,211 --> 00:40:22,254
+(<i> explosion</i> )
 
-809
-00:40:39,829 --> 00:40:40,820
-What happened?
+748
+00:40:39,687 --> 00:40:41,981
+Chief! What happened?
 
-810
-00:40:42,002 --> 00:40:44,497
+749
+00:40:43,358 --> 00:40:44,442
 It worked.
 
-811
-00:40:44,542 --> 00:40:45,670
+750
+00:40:45,484 --> 00:40:46,903
 O'Brien to Sisko.
 
-812
-00:40:45,712 --> 00:40:47,147
+751
+00:40:46,903 --> 00:40:48,613
+SISKO:
 Go ahead, Chief.
 
-813
-00:40:47,182 --> 00:40:50,054
-I've been to the future,
-Commander.
+752
+00:40:48,613 --> 00:40:51,449
+I've been to the
+future, Commander.
 
-814
-00:40:50,090 --> 00:40:52,392
+753
+00:40:51,449 --> 00:40:53,368
 The quantum singularity
 off the station
 
-815
-00:40:52,429 --> 00:40:55,426
-is actually in the warp core
-of a cloaked Romulan warbird.
+754
+00:40:53,368 --> 00:40:54,869
+is actually
+in the warp core
 
-816
-00:40:55,470 --> 00:40:58,410
-They're going to de-cloak and
-fire on us in a matter of hours.
+755
+00:40:54,869 --> 00:40:56,746
+of a cloaked
+Romulan warbird.
 
-817
-00:40:58,444 --> 00:41:00,278
+756
+00:40:56,746 --> 00:40:58,415
+They're going to de-cloak
+and fire on us
+
+757
+00:40:58,415 --> 00:40:59,916
+in a matter of hours.
+
+758
+00:40:59,916 --> 00:41:01,293
 Understood, Chief.
 
-818
-00:41:00,316 --> 00:41:01,785
+759
+00:41:01,293 --> 00:41:03,128
 Raise shields.
 
-819
-00:41:01,820 --> 00:41:03,723
+760
+00:41:03,128 --> 00:41:04,837
 Stand by weapons systems.
 
-820
-00:41:03,759 --> 00:41:06,699
-I don't understand it.
+761
+00:41:04,837 --> 00:41:07,257
+I don't
+understand it.
 
-821
-00:41:06,732 --> 00:41:09,570
-Your body should be flooded
-with delta-series radiation
+762
+00:41:07,257 --> 00:41:08,967
+Your body
+should be flooded
 
-822
-00:41:09,607 --> 00:41:11,943
+763
+00:41:08,967 --> 00:41:10,802
+with delta-series
+radiation,
+
+764
+00:41:10,802 --> 00:41:12,929
 but there's only a tiny
 amount in your tissues.
 
-823
-00:41:11,980 --> 00:41:14,578
+765
+00:41:12,929 --> 00:41:14,973
 Your metabolic readings
 are different.
 
-824
-00:41:14,620 --> 00:41:15,589
+766
+00:41:14,973 --> 00:41:16,766
 What happened?
 
-825
-00:41:15,623 --> 00:41:19,177
-There's been a... a change.
+767
+00:41:16,766 --> 00:41:19,477
+There's been a...
+a change.
 
-826
-00:41:21,482 --> 00:41:25,481
+768
+00:41:23,106 --> 00:41:27,193
 Uh... I really have
 nothing else to say.
 
-827
-00:41:25,525 --> 00:41:27,496
+769
+00:41:27,193 --> 00:41:29,279
 I think you're lying, Quark.
 
-828
-00:41:27,531 --> 00:41:29,023
+770
+00:41:29,279 --> 00:41:30,780
 About what part?
 
-829
-00:41:29,068 --> 00:41:30,401
+771
+00:41:30,780 --> 00:41:32,115
 All of it.
 
-830
-00:41:30,438 --> 00:41:32,068
-Well, at least I'm consistent.
+772
+00:41:32,115 --> 00:41:33,908
+Well, at least
+I'm consistent.
 
-831
-00:41:34,316 --> 00:41:36,686
+773
+00:41:33,908 --> 00:41:35,868
+(<i> laughs</i> )
+
+774
+00:41:35,868 --> 00:41:38,121
 Quark, you can leave.
 
-832
-00:41:37,691 --> 00:41:39,525
+775
+00:41:39,664 --> 00:41:41,207
 Thank you.
 
-833
-00:41:43,840 --> 00:41:47,304
+776
+00:41:45,711 --> 00:41:49,090
 I know you have a cloaked
 warbird orbiting the station.
 
-834
-00:41:47,382 --> 00:41:49,650
+777
+00:41:49,090 --> 00:41:51,217
 And I know that you're
 planning an attack.
 
-835
-00:41:49,689 --> 00:41:51,751
+778
+00:41:51,217 --> 00:41:53,594
 At first, I couldn't
-understand why
+understand why,
 
-836
-00:41:51,794 --> 00:41:53,024
+779
+00:41:53,594 --> 00:41:56,764
 and then I remembered
+what you said about
+the Dominion--
 
-837
-00:41:53,064 --> 00:41:54,796
-what you said
-about the Dominion...
-
-838
-00:41:54,835 --> 00:41:57,741
+780
+00:41:56,764 --> 00:42:00,268
 how they were the greatest
 threat to the Alpha Quadrant
-
-839
-00:41:57,776 --> 00:41:59,040
 in the last century.
 
-840
-00:41:59,080 --> 00:42:00,744
-If you really believed that
+781
+00:42:00,268 --> 00:42:02,437
+If you really
+believed that,
 
-841
-00:42:00,784 --> 00:42:02,652
+782
+00:42:02,437 --> 00:42:04,314
 then the only way you
 could ever be truly safe
 
-842
-00:42:02,689 --> 00:42:05,663
+783
+00:42:04,314 --> 00:42:06,732
 from the Dominion would be
 to collapse the wormhole.
 
-843
-00:42:05,697 --> 00:42:07,429
+784
+00:42:06,732 --> 00:42:08,693
 But you knew we wouldn't
 just sit by
 
-844
-00:42:07,468 --> 00:42:08,801
+785
+00:42:08,693 --> 00:42:10,320
 and watch while you did it.
 
-845
-00:42:08,839 --> 00:42:10,742
+786
+00:42:10,320 --> 00:42:12,280
 So you had to destroy
 the station, too.
 
-846
-00:42:10,777 --> 00:42:13,808
-That way,
-there'd be no witnesses.
+787
+00:42:12,280 --> 00:42:14,615
+That way, there'd
+be no witnesses.
 
-847
-00:42:13,852 --> 00:42:16,826
-Everyone would assume
-that Deep Space 9 was destroyed
+788
+00:42:14,615 --> 00:42:17,952
+Everyone would assume that
+Deep Space 9 was destroyed
 
-848
-00:42:16,859 --> 00:42:19,423
+789
+00:42:17,952 --> 00:42:22,290
 by what appeared to be
-the accidental collapse
-
-849
-00:42:19,466 --> 00:42:20,992
+the<i> accidental</i> collapse
 of the wormhole.
 
-850
-00:42:21,036 --> 00:42:22,700
+790
+00:42:22,290 --> 00:42:24,417
 An interesting...
 
-851
-00:42:22,741 --> 00:42:25,077
+791
+00:42:24,417 --> 00:42:26,585
 theory, Commander.
 
-852
-00:42:25,114 --> 00:42:27,552
+792
+00:42:26,585 --> 00:42:29,381
 But that's all it is,
 a theory.
 
-853
-00:42:27,587 --> 00:42:29,113
+793
+00:42:29,381 --> 00:42:33,009
 That's right.
-
-854
-00:42:29,158 --> 00:42:31,357
 But I'll tell you
 what's not a theory.
 
-855
-00:42:31,464 --> 00:42:34,997
+794
+00:42:33,009 --> 00:42:36,346
 We tracked the tetryon emissions
 back to your warbird
 
-856
-00:42:35,040 --> 00:42:38,071
-and I have about 50 photon
-torpedoes locked onto it
+795
+00:42:36,346 --> 00:42:40,975
+and I have about
+50 photon torpedoes
+locked onto it right now.
 
-857
-00:42:38,114 --> 00:42:40,244
-right now.
-
-858
-00:42:51,281 --> 00:42:53,309
+796
+00:42:52,611 --> 00:42:54,197
 I think it's time we left.
 
-859
-00:42:53,354 --> 00:42:54,823
+797
+00:42:54,197 --> 00:42:56,115
 I couldn't agree more.
 
-860
-00:42:54,858 --> 00:42:58,060
+798
+00:42:56,115 --> 00:42:59,660
 Constable, will you please
 escort our... guests
 
-861
-00:42:58,099 --> 00:43:00,229
-to the nearest transporter room?
+799
+00:42:59,660 --> 00:43:02,372
+to the nearest
+transporter room?
 
-862
-00:43:00,272 --> 00:43:02,266
-If you'll come with me.
+800
+00:43:02,372 --> 00:43:03,789
+If you'll
+come with me.
 
-863
-00:43:18,586 --> 00:43:21,024
+801
+00:43:20,056 --> 00:43:23,560
 So you're telling me
 that you remember
-
-864
-00:43:21,059 --> 00:43:23,691
 playing this game
+
+802
+00:43:23,560 --> 00:43:24,977
 with me in the future?
 
-865
-00:43:23,732 --> 00:43:24,723
+803
+00:43:24,977 --> 00:43:26,854
 Right.
 
-866
-00:43:26,005 --> 00:43:29,446
+804
+00:43:26,854 --> 00:43:31,109
 All right, what am I
 going to hit?
 
-867
-00:43:29,515 --> 00:43:31,885
+805
+00:43:31,109 --> 00:43:32,860
 20, outer ring.
 
-868
-00:43:37,535 --> 00:43:39,027
+806
+00:43:39,075 --> 00:43:40,535
 Why, that's remarkable.
 
-869
-00:43:39,073 --> 00:43:40,941
+807
+00:43:40,535 --> 00:43:42,495
 It's also a little disturbing.
 
-870
-00:43:40,978 --> 00:43:45,285
+808
+00:43:42,495 --> 00:43:44,622
 I have this nagging feeling
+
+809
+00:43:44,622 --> 00:43:46,332
 that I don't really belong here.
 
-871
-00:43:45,322 --> 00:43:47,020
+810
+00:43:46,332 --> 00:43:48,709
 This isn't really my life.
 
-872
-00:43:47,060 --> 00:43:48,724
+811
+00:43:48,709 --> 00:43:50,211
 You know, maybe this life
 
-873
-00:43:48,764 --> 00:43:51,134
+812
+00:43:50,211 --> 00:43:52,505
 belongs
 to that other Miles O'Brien.
 
-874
-00:43:51,170 --> 00:43:53,038
+813
+00:43:52,505 --> 00:43:55,258
 Listen, Chief, whether you
 are living in the past
-
-875
-00:43:53,075 --> 00:43:54,510
 or the present,
-you are Miles O'Brien.
 
-876
-00:43:54,580 --> 00:43:56,346
-The only difference is
+814
+00:43:55,258 --> 00:43:57,176
+you<i> are</i> Miles O'Brien.
+The only difference is,
+
+815
+00:43:57,176 --> 00:43:58,928
 you have a few memories
-
-877
-00:43:56,384 --> 00:43:57,444
 the other one didn't have.
 
-878
-00:43:59,826 --> 00:44:02,355
+816
+00:44:00,930 --> 00:44:04,142
 Well, I think I'll go to bed.
 
-879
-00:44:02,400 --> 00:44:04,462
+817
+00:44:04,142 --> 00:44:05,935
 I'm still kind of tired.
 
-880
-00:44:04,539 --> 00:44:06,841
-Now, that sounds
+818
+00:44:05,935 --> 00:44:08,271
+Now,<i> that</i> sounds
 like a good idea.
 
-881
-00:44:09,518 --> 00:44:11,455
+819
+00:44:10,815 --> 00:44:13,025
 Quark.
 
-882
-00:44:11,490 --> 00:44:13,324
+820
+00:44:13,025 --> 00:44:14,860
 Dabo.
 
-883
-00:44:13,362 --> 00:44:15,196
+821
+00:44:14,860 --> 00:44:16,695
 Dabo?
 
-884
-00:44:15,233 --> 00:44:16,429
+822
+00:44:16,695 --> 00:44:17,947
+PLAYERS:
 Dabo!
 
-885
-00:44:20,380 --> 00:44:23,218
+823
+00:44:17,947 --> 00:44:20,283
+(<i> excited cheering</i> )
+
+824
+00:44:21,867 --> 00:44:24,870
 Wait, Chief, wait!
 
+825
+00:44:24,870 --> 00:44:26,247
+(<i> laughs</i> )

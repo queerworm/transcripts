@@ -1,3608 +1,3813 @@
-﻿1
-00:00:14,490 --> 00:00:15,583
+1
+00:00:14,181 --> 00:00:15,223
 Ah.
 
 2
-00:00:15,626 --> 00:00:17,391
-Tarkalean tea again, Doctor?
+00:00:15,223 --> 00:00:17,017
+Tarkalean tea
+again, Doctor?
 
 3
-00:00:17,430 --> 00:00:19,423
+00:00:17,017 --> 00:00:19,102
 Yes, and you're drinking
 Rokassa juice
 
 4
-00:00:19,467 --> 00:00:20,435
+00:00:19,102 --> 00:00:20,020
 aren't you, Garak?
 
 5
-00:00:20,470 --> 00:00:21,529
-How did you know?
+00:00:20,020 --> 00:00:21,313
+How did
+you know?
 
 6
-00:00:21,572 --> 00:00:23,166
+00:00:21,313 --> 00:00:22,815
 The odor is unmistakable.
 
 7
-00:00:24,245 --> 00:00:25,874
-So it is.
+00:00:22,815 --> 00:00:23,858
+(<i> chuckling</i> )
 
 8
-00:00:25,915 --> 00:00:29,720
-Rokassa juice soothes my nerves.
+00:00:23,858 --> 00:00:25,567
+So it is.
 
 9
-00:00:29,757 --> 00:00:32,855
-I had a very demanding
-customer today...
+00:00:25,567 --> 00:00:29,363
+Rokassa juice
+soothes my nerves.
 
 10
-00:00:32,897 --> 00:00:37,066
+00:00:29,363 --> 00:00:32,616
+I had a very demanding
+customer today--
+
+11
+00:00:32,616 --> 00:00:36,745
 a Bajoran engineer who comes
 to the shop constantly
 
-11
-00:00:37,106 --> 00:00:38,096
+12
+00:00:36,745 --> 00:00:38,121
 just to plague me.
 
-12
-00:00:38,142 --> 00:00:39,805
-You know, I've always
-wondered about that...
-
 13
-00:00:39,846 --> 00:00:41,577
+00:00:38,121 --> 00:00:39,540
+You know, I've always
+wondered about that--
+
+14
+00:00:39,540 --> 00:00:41,208
 about who your steady
 customers really are.
 
-14
-00:00:41,616 --> 00:00:43,586
+15
+00:00:41,208 --> 00:00:43,210
 I can't imagine Bajorans
 frequenting a shop
 
-15
-00:00:43,620 --> 00:00:44,781
+16
+00:00:43,210 --> 00:00:44,419
 run by a Cardassian.
 
-16
-00:00:44,824 --> 00:00:47,193
+17
+00:00:44,419 --> 00:00:46,797
 I like to think
 that my expertise
 
-17
-00:00:47,229 --> 00:00:48,994
+18
+00:00:46,797 --> 00:00:48,674
 and willingness to serve
 
-18
-00:00:49,033 --> 00:00:53,407
-overcome any general resentment
-any of my clientele may have.
-
 19
-00:00:53,442 --> 00:00:55,469
+00:00:48,674 --> 00:00:50,759
+overcome any
+general resentment
+
+20
+00:00:50,759 --> 00:00:53,012
+any of my clientele
+may have.
+
+21
+00:00:53,012 --> 00:00:55,138
 Ah... and perhaps
 your expertise
 
-20
-00:00:55,514 --> 00:00:57,074
+22
+00:00:55,138 --> 00:00:56,849
 and willingness to serve
 
-21
-00:00:57,117 --> 00:00:59,953
+23
+00:00:56,849 --> 00:00:59,685
 go so far as to establish
 a certain... trust
 
-22
-00:00:59,990 --> 00:01:01,823
-between you and your customers?
-
-23
-00:01:01,861 --> 00:01:03,353
-Trust is very important.
-
 24
-00:01:03,398 --> 00:01:08,137
-And once they trust you,
-they're much more open with you
+00:00:59,685 --> 00:01:01,520
+between you
+and your customers?
 
 25
-00:01:08,175 --> 00:01:10,236
-and they tell you things.
+00:01:01,520 --> 00:01:03,104
+Trust is
+very important.
 
 26
-00:01:10,346 --> 00:01:14,685
+00:01:03,104 --> 00:01:04,940
+And once they trust you
+
+27
+00:01:04,940 --> 00:01:07,776
+they're much
+more open with you
+
+28
+00:01:07,776 --> 00:01:09,862
+and they tell you things.
+
+29
+00:01:09,862 --> 00:01:14,033
 Really, Doctor, must we
 always play this game?
 
-27
-00:01:14,723 --> 00:01:17,924
+30
+00:01:14,033 --> 00:01:17,244
 I'm no more a spy
 than you are...
 
-28
-00:01:17,962 --> 00:01:19,157
+31
+00:01:17,244 --> 00:01:18,453
 A doctor.
 
-29
-00:01:19,199 --> 00:01:20,600
+32
+00:01:18,453 --> 00:01:19,955
 I'm afraid
 
-30
-00:01:20,636 --> 00:01:23,005
+33
+00:01:19,955 --> 00:01:22,290
 you really do allow
 your imagination
 
-31
-00:01:23,041 --> 00:01:24,442
+34
+00:01:22,290 --> 00:01:23,751
 to run away with you.
 
-32
-00:01:24,477 --> 00:01:26,812
+35
+00:01:23,751 --> 00:01:26,294
 What else can I say
 to finally convince you
 
-33
-00:01:26,849 --> 00:01:28,478
+36
+00:01:26,294 --> 00:01:27,922
 that I'm just...
 
-34
-00:01:28,519 --> 00:01:30,580
+37
+00:01:27,922 --> 00:01:30,049
 Plain, simple Garak?
 
-35
-00:01:30,624 --> 00:01:31,683
+38
+00:01:30,049 --> 00:01:31,132
 Precisely.
 
-36
-00:01:33,363 --> 00:01:36,530
+39
+00:01:31,132 --> 00:01:32,843
+(<i> chuckling</i> )
+
+40
+00:01:32,843 --> 00:01:35,721
 Now, there's something
 you don't see every day.
 
-37
-00:01:42,049 --> 00:01:43,450
+41
+00:01:41,268 --> 00:01:42,603
 There's a table.
 
-38
-00:01:45,323 --> 00:01:46,518
+42
+00:01:44,521 --> 00:01:45,814
 Have a seat.
 
-39
-00:01:46,559 --> 00:01:49,030
+43
+00:01:45,814 --> 00:01:48,316
 I'll get us all
 some refreshment.
 
-40
-00:01:59,153 --> 00:02:00,952
+44
+00:01:58,368 --> 00:02:00,245
 Well, that was odd.
 
-41
-00:02:00,991 --> 00:02:02,118
-Do you know him?
+45
+00:02:00,245 --> 00:02:01,413
+Do you
+know him?
 
-42
-00:02:02,159 --> 00:02:03,423
+46
+00:02:01,413 --> 00:02:02,706
 On the contrary.
 
-43
-00:02:03,463 --> 00:02:06,493
+47
+00:02:02,706 --> 00:02:06,585
 I've never seen him before
 in my life.
 
-44
-00:02:07,372 --> 00:02:09,433
-I hope I'm not intruding
+48
+00:02:06,585 --> 00:02:08,712
+I hope I'm
+not intruding
 
-45
-00:02:09,476 --> 00:02:11,947
+49
+00:02:08,712 --> 00:02:11,381
 but I couldn't help
 noticing what a...
 
-46
-00:02:11,981 --> 00:02:14,920
+50
+00:02:11,381 --> 00:02:14,217
 what a handsome young man
 you have here.
 
-47
-00:04:29,220 --> 00:04:30,814
+51
+00:02:18,346 --> 00:02:20,265
+(<i> screaming</i> )
+
+52
+00:04:29,061 --> 00:04:30,687
 I'm sorry I'm late.
 
-48
-00:04:30,857 --> 00:04:32,224
+53
+00:04:30,687 --> 00:04:32,313
 The damnedest thing
 just happened.
 
-49
-00:04:32,260 --> 00:04:33,455
-Garak the tailor was attacked.
+54
+00:04:32,313 --> 00:04:33,314
+Garak the tailor
+was attacked.
 
-50
-00:04:33,496 --> 00:04:34,486
-Attacked where?
+55
+00:04:33,314 --> 00:04:35,234
+Attacked
+where?
 
-51
-00:04:34,532 --> 00:04:35,500
+56
+00:04:35,234 --> 00:04:36,443
 At the Replimat.
 
-52
-00:04:35,534 --> 00:04:36,833
+57
+00:04:36,443 --> 00:04:37,652
 He was bitten on the hand.
 
-53
-00:04:36,870 --> 00:04:38,669
-Another unsatisfied customer?
+58
+00:04:37,652 --> 00:04:39,613
+Another unsatisfied
+customer?
 
-54
-00:04:38,708 --> 00:04:40,975
+59
+00:04:39,613 --> 00:04:41,823
 He always cuts
 the pants too long.
 
-55
-00:04:41,013 --> 00:04:43,849
-Actually, it was a boy...
+60
+00:04:41,823 --> 00:04:43,075
+BASHIR:
+Actually, it was a boy--
+
+61
+00:04:43,075 --> 00:04:44,952
 a Cardassian boy.
 
-56
-00:04:43,885 --> 00:04:44,875
+62
+00:04:44,952 --> 00:04:46,286
 I wasn't aware we had
 
-57
-00:04:44,921 --> 00:04:46,788
+63
+00:04:46,286 --> 00:04:47,913
 any Cardassian children
 on the station.
 
-58
-00:04:46,826 --> 00:04:48,523
+64
+00:04:47,913 --> 00:04:49,748
 We don't.
 
-59
-00:04:48,563 --> 00:04:50,260
+65
+00:04:49,748 --> 00:04:51,499
 He's just arrived
 on a Bajoran transport
 
-60
-00:04:50,367 --> 00:04:52,497
+66
+00:04:51,499 --> 00:04:53,794
 with an adult Bajoran
 who says he's his father.
 
-61
-00:04:52,538 --> 00:04:54,235
-The boy was probably
+67
+00:04:53,794 --> 00:04:55,712
+KIRA:
+The boy
+was probably
 
-62
-00:04:54,275 --> 00:04:56,712
+68
+00:04:55,712 --> 00:04:58,048
 one of the orphans left behind
 when the Cardassians pulled out.
 
-63
-00:04:56,748 --> 00:04:58,377
+69
+00:04:58,048 --> 00:04:59,591
 We had no choice
 but to take care of them.
 
-64
-00:04:58,418 --> 00:05:01,185
+70
+00:04:59,591 --> 00:05:02,469
 You have an incoming
 subspace transmission
 
-65
-00:05:01,224 --> 00:05:02,989
+71
+00:05:02,469 --> 00:05:04,179
 from Cardassia, Commander.
 
-66
-00:05:03,027 --> 00:05:04,826
+72
+00:05:04,179 --> 00:05:06,014
 It's Gul Dukat.
 
-67
-00:05:04,865 --> 00:05:06,459
+73
+00:05:06,014 --> 00:05:07,557
 In my office.
 
-68
-00:05:13,518 --> 00:05:15,614
-Commander, it's been brought
-to my attention
+74
+00:05:14,815 --> 00:05:17,025
+<i>Commander, it's been brought</i>
+<i>to my attention</i>
 
-69
-00:05:15,655 --> 00:05:18,719
-that the sole Cardassian
-living on your station
+75
+00:05:17,025 --> 00:05:19,611
+<i>that the sole Cardassian</i>
+<i>living on your station</i>
 
-70
-00:05:18,762 --> 00:05:20,254
-has been assaulted.
+76
+00:05:19,611 --> 00:05:21,280
+<i>has been assaulted.</i>
 
-71
-00:05:20,332 --> 00:05:23,635
+77
+00:05:21,280 --> 00:05:24,741
 I'm surprised how quickly
 the news reached you, Dukat.
 
-72
-00:05:23,673 --> 00:05:25,472
+78
+00:05:24,741 --> 00:05:26,576
 I only heard about it myself
 a minute ago.
 
-73
-00:05:25,510 --> 00:05:27,241
-Well, is it true he was attacked
+79
+00:05:26,576 --> 00:05:28,495
+<i>Well, is it true</i>
+<i>he was attacked</i>
 
-74
-00:05:27,281 --> 00:05:31,016
-by a Cardassian boy brought
-to the station by a Bajoran?
+80
+00:05:28,495 --> 00:05:31,999
+<i>by a Cardassian boy brought</i>
+<i>to the station by a Bajoran?</i>
 
-75
-00:05:31,056 --> 00:05:33,721
+81
+00:05:31,999 --> 00:05:34,626
 A Cardassian boy appears
 to be involved, yes.
 
-76
-00:05:35,365 --> 00:05:36,834
-Exactly as I feared.
-
-77
-00:05:36,869 --> 00:05:40,070
-Exactly as I've been
-warning my colleagues.
-
-78
-00:05:40,109 --> 00:05:42,478
-Warning them?
-
-79
-00:05:42,515 --> 00:05:45,078
-Cardassian war orphans,
-Commander.
-
-80
-00:05:45,120 --> 00:05:47,421
-Abandoned when we left Bajor.
-
-81
-00:05:47,458 --> 00:05:49,018
-It's a disgrace
-
 82
-00:05:49,062 --> 00:05:52,035
-and obviously, these
-children are being raised
+00:05:36,377 --> 00:05:38,046
+<i>Exactly as I feared.</i>
 
 83
-00:05:52,069 --> 00:05:53,595
-to hate their own kind.
+00:05:38,046 --> 00:05:41,049
+<i>Exactly as I've been</i>
+<i>warning my colleagues.</i>
 
 84
-00:05:53,639 --> 00:05:55,165
-This incident is proof.
+00:05:41,049 --> 00:05:43,551
+Warning them?
 
 85
-00:05:55,209 --> 00:05:58,148
+00:05:43,551 --> 00:05:46,054
+<i>Cardassian war orphans,</i>
+<i>Commander.</i>
+
+86
+00:05:46,054 --> 00:05:48,473
+<i>Abandoned when we left Bajor.</i>
+
+87
+00:05:48,473 --> 00:05:50,184
+<i>It's a disgrace,</i>
+
+88
+00:05:50,184 --> 00:05:53,020
+<i>and obviously, these</i>
+<i>children are being raised</i>
+
+89
+00:05:53,020 --> 00:05:54,479
+<i>to hate their own kind.</i>
+
+90
+00:05:54,479 --> 00:05:56,106
+<i>This incident is proof.</i>
+
+91
+00:05:56,106 --> 00:05:58,650
 You're assuming a lot
 from one incident.
 
-86
-00:05:58,182 --> 00:05:59,207
-Am I?
+92
+00:05:58,650 --> 00:06:00,194
+<i>Am I?</i>
 
-87
-00:05:59,252 --> 00:06:02,623
-Then why would this boy
-attack poor Garak?
+93
+00:06:00,194 --> 00:06:03,738
+<i>Then why would this boy</i>
+<i>attack poor Garak?</i>
 
-88
-00:06:02,659 --> 00:06:05,392
-An amiable fellow,
-if ever there was one.
+94
+00:06:03,738 --> 00:06:06,200
+<i>An amiable fellow,</i>
+<i>if ever there was one.</i>
 
-89
-00:06:05,431 --> 00:06:07,664
+95
+00:06:06,200 --> 00:06:08,743
 If you'd like,
 I'll try to find out.
 
-90
-00:06:07,703 --> 00:06:10,300
-That would be most
-appreciated, Commander.
-
-91
-00:06:10,409 --> 00:06:13,940
-I need to find out everything
-I can about this boy
-
-92
-00:06:13,983 --> 00:06:18,425
-so that I can use his story in
-my fight to bring these orphans
-
-93
-00:06:18,460 --> 00:06:20,054
-back to their homeland.
-
-94
-00:06:20,097 --> 00:06:21,326
-This is a tragedy
-
-95
-00:06:21,433 --> 00:06:25,306
-that all of Cardassia is
-going to have to address.
-
 96
-00:06:26,946 --> 00:06:29,110
+00:06:08,743 --> 00:06:10,871
+<i>That would be most</i>
+<i>appreciated, Commander.</i>
+
+97
+00:06:10,871 --> 00:06:14,624
+<i>I need to find out everything</i>
+<i>I can about this boy</i>
+
+98
+00:06:14,624 --> 00:06:19,046
+<i>so that I can use his story in</i>
+<i>my fight to bring these orphans</i>
+
+99
+00:06:19,046 --> 00:06:20,379
+<i>back to their homeland.</i>
+
+100
+00:06:20,379 --> 00:06:22,007
+<i>This is a tragedy</i>
+
+101
+00:06:22,007 --> 00:06:25,635
+<i>that all of Cardassia is</i>
+<i>going to have to address.</i>
+
+102
+00:06:27,512 --> 00:06:30,389
 We didn't come here
 to cause trouble.
 
-97
-00:06:29,150 --> 00:06:31,815
+103
+00:06:30,389 --> 00:06:32,267
 Has this Garak
 filed a complaint?
 
-98
-00:06:31,856 --> 00:06:33,519
+104
+00:06:32,267 --> 00:06:34,019
 No, but the Cardassian officials
 
-99
-00:06:33,560 --> 00:06:35,496
+105
+00:06:34,019 --> 00:06:36,021
 asked that we look
 into the incident.
 
-100
-00:06:35,531 --> 00:06:37,000
+106
+00:06:36,021 --> 00:06:37,731
 I wish they'd shown
 as much concern
 
-101
-00:06:37,034 --> 00:06:39,631
+107
+00:06:37,731 --> 00:06:40,275
 as when they left my boy
 and dozens like him
 
-102
-00:06:39,673 --> 00:06:41,267
+108
+00:06:40,275 --> 00:06:41,568
 to fend for themselves.
 
-103
-00:06:41,310 --> 00:06:42,539
-How did you come to adopt him?
+109
+00:06:41,568 --> 00:06:43,028
+How did you come
+to adopt him?
 
-104
-00:06:42,580 --> 00:06:44,744
+110
+00:06:43,028 --> 00:06:45,404
 My wife and I felt that Rugal
 shouldn't suffer
 
-105
-00:06:44,784 --> 00:06:46,310
+111
+00:06:45,404 --> 00:06:46,781
 for crimes committed by others.
 
-106
-00:06:46,355 --> 00:06:48,052
+112
+00:06:46,781 --> 00:06:48,700
 But why would he attack
 another Cardassian?
 
-107
-00:06:48,092 --> 00:06:51,224
+113
+00:06:48,700 --> 00:06:51,619
 That Cardassian should have
 minded his own business.
 
-108
-00:06:51,265 --> 00:06:53,064
+114
+00:06:51,619 --> 00:06:53,496
 Garak was only trying
 to be friendly.
 
-109
-00:06:53,103 --> 00:06:55,574
+115
+00:06:53,496 --> 00:06:56,041
 The boy seemed terrified
 of him on sight.
 
-110
-00:06:55,608 --> 00:06:57,909
+116
+00:06:56,041 --> 00:06:58,459
 The Cardassians are suggesting
 that the Bajorans
 
-111
-00:06:57,947 --> 00:07:00,418
+117
+00:06:58,459 --> 00:07:00,921
 are raising these orphans
 to hate their own people.
 
-112
-00:07:00,452 --> 00:07:02,513
+118
+00:07:00,921 --> 00:07:03,048
 To hate Cardassians?
 
-113
-00:07:02,556 --> 00:07:06,257
-It shouldn't be too hard,
-should it?
+119
+00:07:03,048 --> 00:07:06,718
+It shouldn't be
+too hard, should it?
 
-114
-00:07:06,298 --> 00:07:09,031
+120
+00:07:06,718 --> 00:07:09,512
 We told him the truth,
 Commander.
 
-115
-00:07:09,071 --> 00:07:14,071
-The truth about what Cardassia
+121
+00:07:09,512 --> 00:07:11,765
+The truth
+
+122
+00:07:11,765 --> 00:07:14,559
+about what Cardassia
 did to Bajor.
 
-116
-00:07:14,115 --> 00:07:15,584
+123
+00:07:14,559 --> 00:07:16,103
 He needed to know.
 
-117
-00:07:15,619 --> 00:07:18,420
+124
+00:07:16,103 --> 00:07:18,772
 And for that,
 I make no apologies.
 
-118
-00:07:20,296 --> 00:07:26,071
+125
+00:07:20,648 --> 00:07:26,487
 To us... he isn't even
 one of them anymore.
 
-119
-00:07:26,109 --> 00:07:29,378
+126
+00:07:26,487 --> 00:07:29,866
 He isn't Cardassian.
 
-120
-00:07:29,416 --> 00:07:31,443
+127
+00:07:29,866 --> 00:07:31,785
 He's Bajoran.
 
-121
-00:07:37,935 --> 00:07:41,272
+128
+00:07:38,333 --> 00:07:41,711
 And we love him
 
-122
-00:07:41,309 --> 00:07:44,771
+129
+00:07:41,711 --> 00:07:45,173
 just as if he was
 our own flesh and blood.
 
-123
-00:07:51,798 --> 00:07:53,665
+130
+00:07:52,347 --> 00:07:53,974
 All right, here we go.
 
-124
-00:07:53,703 --> 00:07:54,693
+131
+00:07:53,974 --> 00:07:55,267
 Here we go.
 
-125
-00:07:54,738 --> 00:07:57,734
+132
+00:07:55,267 --> 00:07:58,103
 Come on now, baby, come on.
 
-126
-00:08:00,484 --> 00:08:03,285
-Dabo!
-
-127
-00:08:10,907 --> 00:08:14,438
-There's nothing quite so
-depressing as a winning streak
-
-128
-00:08:14,482 --> 00:08:16,179
-that won't stop streaking.
-
-129
-00:08:16,219 --> 00:08:17,448
-Dabo!
-
-130
-00:08:17,488 --> 00:08:18,683
-Oh...
-
-131
-00:08:24,504 --> 00:08:25,472
-It would appear as if
-
-132
-00:08:25,506 --> 00:08:27,135
-you have this game
-all figured out.
-
 133
-00:08:27,176 --> 00:08:29,841
+00:08:00,939 --> 00:08:03,775
 Dabo!
 
 134
-00:08:29,882 --> 00:08:32,479
-Dabo is a passion of mine.
+00:08:03,775 --> 00:08:05,526
+(<i> laughing</i> )
 
 135
-00:08:33,824 --> 00:08:35,453
+00:08:11,450 --> 00:08:14,953
+There's nothing quite so
+depressing as a winning streak
+
+136
+00:08:14,953 --> 00:08:16,663
+that won't stop streaking.
+
+137
+00:08:16,663 --> 00:08:17,789
+Dabo!
+
+138
+00:08:17,789 --> 00:08:19,082
+Oh...
+
+139
+00:08:24,712 --> 00:08:25,922
+It would appear as if
+
+140
+00:08:25,922 --> 00:08:27,632
+you have this game
+all figured out.
+
+141
+00:08:27,632 --> 00:08:30,260
+Dabo!
+
+142
+00:08:30,260 --> 00:08:32,804
+Dabo is a passion of mine.
+
+143
+00:08:34,348 --> 00:08:36,016
 I remember you.
 You're Doctor...
 
-136
-00:08:35,494 --> 00:08:36,484
+144
+00:08:36,016 --> 00:08:37,058
 Bashir.
 
-137
-00:08:36,530 --> 00:08:37,498
+145
+00:08:37,058 --> 00:08:37,976
 Bashir, yes.
 
-138
-00:08:37,532 --> 00:08:38,500
-How's the Cardassian?
+146
+00:08:37,976 --> 00:08:39,227
+How's the
+Cardassian?
 
-139
-00:08:38,534 --> 00:08:39,901
-Still has all his fingers,
-I presume.
+147
+00:08:39,227 --> 00:08:40,603
+Still has all his
+fingers, I presume.
 
-140
-00:08:39,937 --> 00:08:41,634
+148
+00:08:40,603 --> 00:08:42,147
 Yes... luckily there
 were no broken bones.
 
-141
-00:08:41,674 --> 00:08:42,642
+149
+00:08:42,147 --> 00:08:43,648
 I've never seen a boy
 
-142
-00:08:42,676 --> 00:08:44,646
-take a bite out of a man's hand
-like that.
+150
+00:08:43,648 --> 00:08:45,150
+take a bite out of
+a man's hand like that.
 
-143
-00:08:44,681 --> 00:08:46,082
-He's a strange boy, Rugal.
+151
+00:08:45,150 --> 00:08:46,485
+He's a strange
+boy, Rugal.
 
-144
-00:08:46,118 --> 00:08:47,849
-Do you know the family well?
+152
+00:08:46,485 --> 00:08:48,153
+Do you know
+the family well?
 
-145
-00:08:47,889 --> 00:08:48,914
+153
+00:08:48,153 --> 00:08:50,364
 Dabo!
-
-146
-00:08:48,957 --> 00:08:50,084
 Do you?
 
-147
-00:08:50,126 --> 00:08:52,529
+154
+00:08:50,364 --> 00:08:52,949
 Look, this is really
 none of my business.
 
-148
-00:08:52,598 --> 00:08:53,862
+155
+00:08:52,949 --> 00:08:54,659
 Well, you were a witness.
 
-149
-00:08:53,902 --> 00:08:57,069
+156
+00:08:54,659 --> 00:08:57,662
 I just want to get my facts
 right for the medical report.
 
-150
-00:08:57,109 --> 00:09:00,605
+157
+00:08:57,662 --> 00:09:01,082
 I'd really rather
 you asked someone else.
 
-151
-00:09:00,650 --> 00:09:02,711
+158
+00:09:01,082 --> 00:09:03,293
 Frankly, I don't
 understand your attitude.
 
-152
-00:09:02,755 --> 00:09:04,622
+159
+00:09:03,293 --> 00:09:05,045
 All I asked
 was if you know them well.
 
-153
-00:09:04,659 --> 00:09:06,094
+160
+00:09:05,045 --> 00:09:06,629
 Well enough.
 
-154
-00:09:08,601 --> 00:09:11,471
+161
+00:09:09,174 --> 00:09:12,052
 I heard the father was
 looking for a new job
 
-155
-00:09:11,507 --> 00:09:14,240
+162
+00:09:12,052 --> 00:09:14,762
 several months ago,
 and I offered to help.
 
-156
-00:09:14,279 --> 00:09:17,275
+163
+00:09:14,762 --> 00:09:17,724
 I visited them on Bajor
 several times.
 
-157
-00:09:17,320 --> 00:09:19,484
-Did you find anything troubling?
+164
+00:09:17,724 --> 00:09:20,060
+Did you find
+anything troubling?
 
-158
-00:09:19,525 --> 00:09:23,330
-It must be torture for that boy,
+165
+00:09:20,060 --> 00:09:22,396
+It must be torture
+for that boy
+
+166
+00:09:22,396 --> 00:09:23,855
 living like that.
 
-159
-00:09:23,366 --> 00:09:26,862
+167
+00:09:23,855 --> 00:09:27,484
 Hated by people he thinks
 of as his parents.
 
-160
-00:09:26,907 --> 00:09:30,848
-Told day after day,
-he's worthless Cardassian scum.
+168
+00:09:27,484 --> 00:09:31,488
+Told day after day, he's
+worthless Cardassian scum.
 
-161
-00:09:30,882 --> 00:09:33,547
+169
+00:09:31,488 --> 00:09:34,199
 Beaten if he even
 looks the wrong way.
 
-162
-00:09:33,622 --> 00:09:35,820
-Rugal is their revenge...
+170
+00:09:34,199 --> 00:09:36,451
+Rugal is their revenge--
 
-163
-00:09:35,860 --> 00:09:39,595
+171
+00:09:36,451 --> 00:09:39,954
 their revenge against
 all Cardassians.
 
-164
-00:09:46,049 --> 00:09:47,108
+172
+00:09:46,461 --> 00:09:47,546
 It is not true.
 
-165
-00:09:47,152 --> 00:09:48,245
+173
+00:09:47,546 --> 00:09:48,755
 It is not true!
 
-166
-00:09:48,287 --> 00:09:49,779
+174
+00:09:48,755 --> 00:09:50,298
 Rugal will tell you.
 
-167
-00:09:49,824 --> 00:09:51,760
-We have not mistreated him.
+175
+00:09:50,298 --> 00:09:52,259
+We have not
+mistreated him.
 
-168
-00:09:51,795 --> 00:09:53,424
-Is this some Cardassian...
+176
+00:09:52,259 --> 00:09:53,927
+Is this some
+Cardassian...
 
-169
-00:09:53,465 --> 00:09:57,304
-There will be ample opportunity
+177
+00:09:53,927 --> 00:09:55,803
+There will be
+ample opportunity
+
+178
+00:09:55,803 --> 00:09:57,889
 to go over the matter in detail
 
-170
-00:09:57,341 --> 00:10:00,371
+179
+00:09:57,889 --> 00:10:01,017
 but during the investigation,
 we'd like for Rugal
 
-171
-00:10:00,415 --> 00:10:03,388
+180
+00:10:01,017 --> 00:10:03,853
 to stay with our schoolteacher,
 Mrs. O'Brien.
 
-172
-00:10:03,421 --> 00:10:05,357
+181
+00:10:03,853 --> 00:10:05,855
 She's expecting him now.
 
-173
-00:10:07,430 --> 00:10:08,591
+182
+00:10:07,857 --> 00:10:09,067
 What if I refuse?
 
-174
-00:10:08,632 --> 00:10:10,796
+183
+00:10:09,067 --> 00:10:11,319
 Then I'll have
 to call security
 
-175
-00:10:10,837 --> 00:10:13,901
+184
+00:10:11,319 --> 00:10:14,448
 and have them remove him
 from your quarters.
 
-176
-00:10:13,944 --> 00:10:16,643
+185
+00:10:14,448 --> 00:10:16,950
 I don't think either
 of us wants that.
 
-177
-00:10:26,638 --> 00:10:27,937
+186
+00:10:27,001 --> 00:10:28,336
+RUGAL:
 Why?
 
-178
-00:10:27,975 --> 00:10:29,672
-It will be all right.
+187
+00:10:28,336 --> 00:10:30,046
+FATHER:
+It will be
+all right.
 
-179
-00:10:29,779 --> 00:10:32,182
-I didn't do anything wrong!
+188
+00:10:30,046 --> 00:10:32,466
+RUGAL:
+I didn't do
+anything wrong!
 
-180
-00:10:32,218 --> 00:10:34,348
+189
+00:10:32,466 --> 00:10:34,759
+FATHER:
 I know, I know.
 
-181
-00:10:34,388 --> 00:10:36,381
+190
+00:10:34,759 --> 00:10:36,844
 It will be all right.
 
-182
-00:10:42,073 --> 00:10:44,510
-I didn't do anything wrong.
+191
+00:10:42,559 --> 00:10:45,061
+I didn't do
+anything wrong.
 
-183
-00:10:44,545 --> 00:10:46,982
+192
+00:10:45,061 --> 00:10:47,397
 Nobody's accusing you
 of a crime, Rugal.
 
-184
-00:10:47,016 --> 00:10:48,610
-You're not being arrested.
+193
+00:10:47,397 --> 00:10:49,065
+You're not
+being arrested.
 
-185
-00:10:48,653 --> 00:10:51,124
-My name is Commander Sisko.
+194
+00:10:49,065 --> 00:10:51,610
+My name is
+Commander Sisko.
 
-186
-00:10:51,159 --> 00:10:53,926
+195
+00:10:51,610 --> 00:10:54,237
 I believe you already
 know Dr. Bashir.
 
-187
-00:10:53,965 --> 00:10:54,766
+196
+00:10:54,237 --> 00:10:55,530
 Hello, Rugal.
 
-188
-00:10:54,899 --> 00:10:55,992
+197
+00:10:55,530 --> 00:10:56,864
+SISKO:
 I'm sure all of this
 
-189
-00:10:56,035 --> 00:10:57,902
+198
+00:10:56,864 --> 00:10:58,992
 will be straightened out
 in a day or two.
 
-190
-00:10:57,940 --> 00:11:01,311
+199
+00:10:58,992 --> 00:11:02,329
 If you want to visit with
 your father tomorrow, you can.
 
-191
-00:11:01,347 --> 00:11:03,112
+200
+00:11:02,329 --> 00:11:04,080
 Go on, Rugal.
 
-192
-00:11:03,151 --> 00:11:05,679
+201
+00:11:04,080 --> 00:11:06,583
 We'll talk tomorrow.
 
-193
-00:11:09,030 --> 00:11:11,467
+202
+00:11:09,919 --> 00:11:12,464
 They won't hurt you.
 
-194
-00:11:11,502 --> 00:11:13,700
+203
+00:11:12,464 --> 00:11:14,549
 They're humans.
 
-195
-00:11:13,741 --> 00:11:16,178
+204
+00:11:14,549 --> 00:11:16,926
 They're not Cardassians.
 
-196
-00:11:42,671 --> 00:11:45,302
+205
+00:11:43,161 --> 00:11:45,455
 Actually, something good did
 come out of all of this, Garak.
 
-197
-00:11:45,343 --> 00:11:46,311
+206
+00:11:45,455 --> 00:11:47,374
 Oh?
+If it hadn't happened,
 
-198
-00:11:46,346 --> 00:11:47,405
-If it hadn't happened
-
-199
-00:11:47,448 --> 00:11:49,077
+207
+00:11:47,374 --> 00:11:49,083
 we'd never have discovered
 Rugal's situation.
 
-200
-00:11:49,118 --> 00:11:50,313
-And a bite on the hand
-is certainly
+208
+00:11:49,083 --> 00:11:50,709
+And a bite on the
+hand is certainly
 
-201
-00:11:50,421 --> 00:11:52,050
+209
+00:11:50,709 --> 00:11:52,462
 worth saving a boy's
 life, wouldn't you say?
 
-202
-00:11:52,091 --> 00:11:54,585
+210
+00:11:52,462 --> 00:11:54,922
 I suppose it depends
 on whose hand.
 
-203
-00:11:54,631 --> 00:11:56,727
+211
+00:11:54,922 --> 00:11:56,966
 Just joking, Doctor.
 
-204
-00:11:56,768 --> 00:11:58,635
+212
+00:11:56,966 --> 00:11:58,843
 Perhaps it might
 even help Gul Dukat
 
-205
-00:11:58,672 --> 00:11:59,936
-in his efforts to resolve
+213
+00:11:58,843 --> 00:12:00,220
+in his efforts
+to resolve
 
-206
-00:11:59,976 --> 00:12:01,775
-the entire war orphan
-predicament.
+214
+00:12:00,220 --> 00:12:02,180
+the entire war
+orphan predicament.
 
-207
-00:12:01,813 --> 00:12:03,373
+215
+00:12:02,180 --> 00:12:03,722
 I beg your pardon?
 
-208
-00:12:04,753 --> 00:12:06,723
+216
+00:12:05,099 --> 00:12:07,268
 Gul Dukat.
 
-209
-00:12:06,757 --> 00:12:09,194
+217
+00:12:07,268 --> 00:12:09,688
 He called Commander Sisko
 right after this happened.
 
-210
-00:12:09,229 --> 00:12:12,691
+218
+00:12:09,688 --> 00:12:13,066
 Apparently, he was quite
 concerned with your well-being.
 
-211
-00:12:12,737 --> 00:12:13,966
+219
+00:12:13,066 --> 00:12:14,401
 You never mentioned
 
-212
-00:12:14,007 --> 00:12:15,032
+220
+00:12:14,401 --> 00:12:15,443
 you were friends.
 
-213
-00:12:17,581 --> 00:12:21,955
+221
+00:12:15,443 --> 00:12:18,071
+(<i> laughing</i> )
+
+222
+00:12:18,071 --> 00:12:22,283
 You said Dukat is doing
 something about war orphans?
 
-214
-00:12:21,990 --> 00:12:23,926
+223
+00:12:22,283 --> 00:12:24,118
 He wants to bring them
 all home from Bajor.
 
-215
-00:12:23,962 --> 00:12:25,989
+224
+00:12:24,118 --> 00:12:26,454
 Does he?
 
-216
-00:12:26,033 --> 00:12:29,029
+225
+00:12:26,454 --> 00:12:29,457
 Am I missing something?
 
-217
-00:12:29,073 --> 00:12:31,306
-Tell me, Doctor...
+226
+00:12:29,457 --> 00:12:31,834
+Tell me,
+Doctor...
 
-218
-00:12:31,345 --> 00:12:34,181
+227
+00:12:31,834 --> 00:12:34,753
 is there a single trait
 you would ascribe
 
-219
-00:12:34,217 --> 00:12:36,518
+228
+00:12:34,753 --> 00:12:37,131
 to me and my fellow Cardassians?
 
-220
-00:12:36,556 --> 00:12:41,693
+229
+00:12:37,131 --> 00:12:42,095
 Would it not be
 our attention to detail?
 
-221
-00:12:41,734 --> 00:12:45,732
+230
+00:12:42,095 --> 00:12:46,391
 Do you think we simply forgot
 
-222
-00:12:45,776 --> 00:12:48,339
+231
+00:12:46,391 --> 00:12:48,893
 about those poor little orphans
 when we left Bajor?
 
-223
-00:12:48,382 --> 00:12:54,123
+232
+00:12:48,893 --> 00:12:54,649
 Do you think they simply
 slipped from our minds?
 
-224
-00:12:54,161 --> 00:12:56,359
-And who, would you guess
+233
+00:12:54,649 --> 00:12:56,859
+And who would you guess
 
-225
-00:12:56,400 --> 00:13:01,537
+234
+00:12:56,859 --> 00:13:01,989
 was in charge of the Cardassian
 withdrawal from Bajor?
 
-226
-00:13:03,916 --> 00:13:06,444
-I don't know how to thank you.
+235
+00:13:04,325 --> 00:13:07,036
+<i>I don't know how to thank you.</i>
 
-227
-00:13:06,489 --> 00:13:08,653
-Don't thank me too quickly,
-Dukat.
+236
+00:13:07,036 --> 00:13:09,289
+Don't thank me
+too quickly, Dukat.
 
-228
-00:13:08,693 --> 00:13:11,962
+237
+00:13:09,289 --> 00:13:12,375
 The boy could be returned
 to his adoptive parents.
 
-229
-00:13:12,000 --> 00:13:15,565
-After the accusations
-this businessman has made...
+238
+00:13:12,375 --> 00:13:16,129
+<i>After the accusations</i>
+<i>this businessman has made...</i>
 
-230
-00:13:15,609 --> 00:13:17,773
+239
+00:13:16,129 --> 00:13:18,172
 That's all it is for the moment,
 an accusation.
 
-231
-00:13:17,813 --> 00:13:19,612
-We would not take kindly
+240
+00:13:18,172 --> 00:13:20,216
+(<i> sighs</i> ):
+<i>We would not take kindly</i>
 
-232
-00:13:19,650 --> 00:13:22,817
-to the boy being returned
-to the Bajorans.
+241
+00:13:20,216 --> 00:13:23,219
+<i>to the boy being returned</i>
+<i>to the Bajorans.</i>
 
-233
-00:13:22,857 --> 00:13:24,987
-However, I have
-complete confidence
+242
+00:13:23,219 --> 00:13:25,388
+<i>However, I have</i>
+<i>complete confidence</i>
 
-234
-00:13:25,029 --> 00:13:27,626
-in your ability to be thorough,
-Commander.
+243
+00:13:25,388 --> 00:13:28,141
+<i>in your ability to be</i>
+<i>thorough, Commander.</i>
 
-235
-00:13:27,668 --> 00:13:29,729
-And if there's
-anything I can do...
+244
+00:13:28,141 --> 00:13:30,143
+<i>And if there's</i>
+<i>anything I can do...</i>
 
-236
-00:13:29,773 --> 00:13:31,572
+245
+00:13:30,143 --> 00:13:32,103
 As a matter of fact, there is.
 
-237
-00:13:31,610 --> 00:13:34,947
+246
+00:13:32,103 --> 00:13:35,440
 If it is decided the boy is
-to be returned to Cardassia
+to be returned to Cardassia,
 
-238
-00:13:34,984 --> 00:13:36,681
+247
+00:13:35,440 --> 00:13:37,066
 to whom would we return him?
 
-239
-00:13:36,721 --> 00:13:38,122
+248
+00:13:37,066 --> 00:13:38,568
 It might help to find out
 
-240
-00:13:38,158 --> 00:13:40,185
+249
+00:13:38,568 --> 00:13:40,194
 if he still has
 any living relatives.
 
-241
-00:13:40,229 --> 00:13:41,356
-I was going to suggest
+250
+00:13:40,194 --> 00:13:41,862
+<i>I was going to suggest</i>
 
-242
-00:13:41,398 --> 00:13:43,733
-that you forward us
-a sample of the boy's DNA
+251
+00:13:41,862 --> 00:13:44,282
+<i>that you forward us</i>
+<i>a sample of the boy's DNA</i>
 
-243
-00:13:43,770 --> 00:13:46,298
-and we'll run it through
-our data banks immediately.
+252
+00:13:44,282 --> 00:13:46,743
+<i>and we'll run it through</i>
+<i>our data banks immediately.</i>
 
-244
-00:13:46,342 --> 00:13:48,335
+253
+00:13:46,743 --> 00:13:48,620
 We'll send it right away.
 
-245
-00:13:48,380 --> 00:13:49,747
+254
+00:13:48,620 --> 00:13:50,163
 Excuse me, Gul Dukat.
 
-246
-00:13:52,456 --> 00:13:54,289
+255
+00:13:52,707 --> 00:13:54,751
 I have a question.
 
-247
-00:13:54,327 --> 00:13:57,960
-Doctor... Bashir, isn't it?
+256
+00:13:54,751 --> 00:13:58,338
+<i>Doctor... Bashir, isn't it?</i>
 
-248
-00:13:58,001 --> 00:13:59,230
+257
+00:13:58,338 --> 00:13:59,922
 Yes. Isn't it true
 
-249
-00:13:59,271 --> 00:14:02,175
+258
+00:13:59,922 --> 00:14:02,717
 that you were in charge
 of the evacuation of Bajor?
 
-250
-00:14:02,210 --> 00:14:04,271
-Yes, I was.
+259
+00:14:02,717 --> 00:14:04,803
+<i>Yes, I was.</i>
 
-251
-00:14:04,315 --> 00:14:07,116
+260
+00:14:04,803 --> 00:14:07,806
 Then it would have been
 your responsibility to ensure
 
-252
-00:14:07,154 --> 00:14:09,921
-that these orphans were,
-in fact, part of that evacuation
+261
+00:14:07,806 --> 00:14:09,223
+that these orphans were, in
+fact, part of that evacuation,
 
-253
-00:14:09,961 --> 00:14:12,091
+262
+00:14:09,223 --> 00:14:12,602
 yet you chose
 to leave them behind.
 
-254
-00:14:12,132 --> 00:14:13,465
+263
+00:14:12,602 --> 00:14:14,020
 Why?
 
-255
-00:14:14,839 --> 00:14:19,441
-I did not choose to leave
-them behind, Doctor.
+264
+00:14:15,689 --> 00:14:20,276
+<i>I did not choose to leave</i>
+<i>them behind, Doctor.</i>
 
-256
-00:14:19,548 --> 00:14:23,079
-I was ordered
-to leave them behind.
+265
+00:14:20,276 --> 00:14:23,613
+<i>I was ordered</i>
+<i>to leave them behind.</i>
 
-257
-00:14:23,124 --> 00:14:24,593
+266
+00:14:23,613 --> 00:14:25,239
 Ordered.
 
-258
-00:14:24,626 --> 00:14:26,095
+267
+00:14:25,239 --> 00:14:26,574
 By whom?
 
-259
-00:14:26,130 --> 00:14:27,793
-By the civilian leaders...
+268
+00:14:26,574 --> 00:14:28,451
+<i>By the civilian leaders...</i>
 
-260
-00:14:27,833 --> 00:14:28,801
+269
+00:14:28,451 --> 00:14:29,452
+BASHIR:
 Excuse me...
 
-261
-00:14:28,835 --> 00:14:29,803
+270
+00:14:29,452 --> 00:14:30,704
 but, if I understand
 
-262
-00:14:29,838 --> 00:14:31,705
+271
+00:14:30,704 --> 00:14:32,330
 the Cardassian political
 system correctly
 
-263
-00:14:31,742 --> 00:14:33,609
+272
+00:14:32,330 --> 00:14:34,248
 civilian leaders
 have no direct authority
 
-264
-00:14:33,646 --> 00:14:34,705
+273
+00:14:34,248 --> 00:14:35,333
 over military officers.
 
-265
-00:14:34,748 --> 00:14:36,445
-Who's been tutoring you
-
-266
-00:14:36,486 --> 00:14:39,185
-in Cardassian
-social studies, Doctor?
-
-267
-00:14:40,461 --> 00:14:43,662
-Your old friend, Garak.
-
-268
-00:14:43,702 --> 00:14:47,939
-Well, then perhaps you should
-remind my old friend Garak
-
-269
-00:14:47,977 --> 00:14:51,007
-the withdrawal of Bajor
-was a decision
-
-270
-00:14:51,051 --> 00:14:55,493
-made by the civilian leaders...
-one which I clearly opposed.
-
-271
-00:14:55,527 --> 00:15:00,197
-And yes, they made the decision
-to leave the orphans behind
-
-272
-00:15:00,238 --> 00:15:03,939
-a decision
-I've regretted ever since.
-
-273
-00:15:03,979 --> 00:15:05,972
-Thank you for your concern,
-Doctor.
-
 274
-00:15:06,017 --> 00:15:08,580
-Good day, Commander.
+00:14:35,333 --> 00:14:37,210
+<i>Who's been tutoring you</i>
 
 275
-00:15:10,762 --> 00:15:12,231
-He's lying.
+00:14:37,210 --> 00:14:39,713
+<i>in Cardassian</i>
+<i>social studies, Doctor?</i>
 
 276
-00:15:12,264 --> 00:15:16,035
+00:14:41,005 --> 00:14:44,008
+Your old friend, Garak.
+
+277
+00:14:44,008 --> 00:14:48,555
+<i>Well, then perhaps you should</i>
+<i>remind my old friend Garak</i>
+
+278
+00:14:48,555 --> 00:14:50,515
+<i>the withdrawal of Bajor</i>
+<i>was a decision</i>
+
+279
+00:14:50,515 --> 00:14:55,603
+<i>made by the civilian leaders--</i>
+<i>one which I clearly opposed.</i>
+
+280
+00:14:55,603 --> 00:15:00,149
+<i>And yes, they made the decision</i>
+<i>to leave the orphans behind,</i>
+
+281
+00:15:00,149 --> 00:15:03,986
+<i>a decision</i>
+<i>I've regretted ever since.</i>
+
+282
+00:15:03,986 --> 00:15:06,072
+<i>Thank you for your concern,</i>
+<i>Doctor.</i>
+
+283
+00:15:06,072 --> 00:15:08,616
+<i>Good day, Commander.</i>
+
+284
+00:15:10,535 --> 00:15:12,286
+He's lying.
+
+285
+00:15:12,286 --> 00:15:16,416
 Is that an opinion, or do you
 have evidence to support it?
 
-277
-00:15:16,073 --> 00:15:17,041
+286
+00:15:16,416 --> 00:15:18,000
 I have Garak.
-
-278
-00:15:17,075 --> 00:15:18,043
 Garak?
 
-279
-00:15:18,077 --> 00:15:19,045
+287
+00:15:18,000 --> 00:15:19,419
 He seems to think
 
-280
-00:15:19,080 --> 00:15:21,517
+288
+00:15:19,419 --> 00:15:21,838
 there's more going on here
 than we realize.
 
-281
-00:15:21,619 --> 00:15:24,352
+289
+00:15:21,838 --> 00:15:24,340
 What exactly
 does he think is going on?
 
-282
-00:15:24,391 --> 00:15:26,293
+290
+00:15:24,340 --> 00:15:26,426
 I'm not sure.
 
-283
-00:15:26,328 --> 00:15:30,861
+291
+00:15:26,426 --> 00:15:31,013
 He doesn't actually tell me
 what he really thinks.
 
-284
-00:15:30,906 --> 00:15:33,469
+292
+00:15:31,013 --> 00:15:33,683
 I sort of have to deduce it.
 
-285
-00:15:33,511 --> 00:15:38,352
+293
+00:15:33,683 --> 00:15:38,521
 Ah, so, you deduced that Garak
 thinks Dukat is lying
 
-286
-00:15:38,389 --> 00:15:40,256
+294
+00:15:38,521 --> 00:15:40,481
 about something
 you're not sure of
 
-287
-00:15:40,293 --> 00:15:44,462
+295
+00:15:40,481 --> 00:15:44,652
 and you proceeded to interrupt
 my conversation to confront him
 
-288
-00:15:44,502 --> 00:15:46,495
-about whatever that might be.
+296
+00:15:44,652 --> 00:15:46,529
+about whatever
+that might be.
 
-289
-00:15:46,539 --> 00:15:48,065
+297
+00:15:46,529 --> 00:15:48,239
 I'm sorry, Commander.
 
-290
-00:15:48,109 --> 00:15:50,273
+298
+00:15:48,239 --> 00:15:50,366
 It just seemed an opportune...
 
-291
-00:15:50,315 --> 00:15:51,476
+299
+00:15:50,366 --> 00:15:51,659
 Don't apologize.
 
-292
-00:15:51,517 --> 00:15:55,252
+300
+00:15:51,659 --> 00:15:55,413
 It's been the high point
 of my day.
 
-293
-00:15:55,292 --> 00:15:57,194
+301
+00:15:55,413 --> 00:15:57,290
 Don't do it again.
 
-294
-00:15:57,230 --> 00:16:01,069
+302
+00:15:57,290 --> 00:15:59,542
+DAX:
 Why would Garak
+
+303
+00:15:59,542 --> 00:16:01,168
 want to undermine Gul Dukat?
 
-295
-00:16:01,105 --> 00:16:02,073
+304
+00:16:01,168 --> 00:16:02,629
 I'm not really sure.
 
-296
-00:16:02,107 --> 00:16:04,168
+305
+00:16:02,629 --> 00:16:04,171
 I don't think he likes
 Gul Dukat very much.
 
-297
-00:16:04,212 --> 00:16:07,549
+306
+00:16:04,171 --> 00:16:07,675
 I'd like to ask Garak
 about this myself.
 
-298
-00:16:07,586 --> 00:16:11,287
+307
+00:16:07,675 --> 00:16:11,178
 Have him in my office
 at 2100 hours.
 
-299
-00:16:11,327 --> 00:16:13,320
+308
+00:16:11,178 --> 00:16:13,264
 Yes, sir.
 
-300
-00:16:25,759 --> 00:16:26,727
+309
+00:16:25,693 --> 00:16:26,736
 Hi.
 
-301
-00:16:26,762 --> 00:16:27,752
+310
+00:16:26,736 --> 00:16:27,779
 Hi.
 
-302
-00:16:27,797 --> 00:16:29,391
+311
+00:16:27,779 --> 00:16:29,322
 Here, let me.
 
-303
-00:16:29,434 --> 00:16:30,424
+312
+00:16:29,322 --> 00:16:30,364
 Oh, thanks.
 
-304
-00:16:33,476 --> 00:16:34,775
+313
+00:16:33,326 --> 00:16:34,786
 Good idea.
 
-305
-00:16:34,812 --> 00:16:36,611
+314
+00:16:34,786 --> 00:16:36,537
 What?
 
-306
-00:16:36,650 --> 00:16:37,845
+315
+00:16:36,537 --> 00:16:37,705
 Well, three settings.
 
-307
-00:16:37,886 --> 00:16:40,984
-I assume you sent Molly over
-to stay with the Fredericks.
+316
+00:16:37,705 --> 00:16:39,081
+I assume you
+sent Molly over
 
-308
-00:16:41,026 --> 00:16:42,552
+317
+00:16:39,081 --> 00:16:41,000
+to stay with
+the Fredericks.
+
+318
+00:16:41,000 --> 00:16:42,627
 She's asleep.
 
-309
-00:16:42,597 --> 00:16:44,830
+319
+00:16:42,627 --> 00:16:44,838
 She and Rugal
 played all afternoon.
 
-310
-00:16:44,867 --> 00:16:45,926
+320
+00:16:44,838 --> 00:16:45,964
 He wore her out.
 
-311
-00:16:49,178 --> 00:16:51,274
+321
+00:16:49,091 --> 00:16:51,135
+(<i> softly</i> ):
 You let them play together?
 
-312
-00:16:51,315 --> 00:16:52,648
+322
+00:16:51,135 --> 00:16:52,679
 Why not?
 
-313
-00:16:52,685 --> 00:16:56,090
+323
+00:16:52,679 --> 00:16:56,056
 The boy almost bit
 somebody's hand off.
 
-314
-00:16:56,126 --> 00:16:59,531
+324
+00:16:56,056 --> 00:16:59,602
+(<i> whispering</i> ):
 I was with them all afternoon.
 
-315
-00:16:59,567 --> 00:17:00,968
+325
+00:16:59,602 --> 00:17:00,937
 He's not like that.
 
-316
-00:17:01,004 --> 00:17:02,837
+326
+00:17:00,937 --> 00:17:03,063
 He's really very gentle.
 
-317
-00:17:02,874 --> 00:17:06,143
+327
+00:17:03,063 --> 00:17:06,233
 "Gentle" was bred out of these
 Cardassians a long time ago.
 
-318
-00:17:06,181 --> 00:17:08,675
+328
+00:17:06,233 --> 00:17:08,695
 You know...
 
-319
-00:17:10,190 --> 00:17:14,359
-that was a very ugly thing
-you just said.
+329
+00:17:10,237 --> 00:17:14,492
+that was a very ugly
+thing you just said.
 
-320
-00:17:14,400 --> 00:17:15,835
+330
+00:17:14,492 --> 00:17:15,785
 I only said...
 
-321
-00:17:15,870 --> 00:17:18,000
-I don't need to hear it twice.
+331
+00:17:15,785 --> 00:17:17,829
+I don't need
+to hear it twice.
 
-322
-00:17:19,577 --> 00:17:21,444
-Rugal, dinner's ready.
+332
+00:17:19,580 --> 00:17:21,374
+Rugal,
+dinner's ready.
 
-323
-00:17:29,933 --> 00:17:31,459
+333
+00:17:29,883 --> 00:17:31,384
 I hope you like it...
 
-324
-00:17:51,214 --> 00:17:52,706
+334
+00:17:51,237 --> 00:17:52,947
 Keiko...
 
-325
-00:17:52,817 --> 00:17:55,516
+335
+00:17:52,947 --> 00:17:55,909
 darling, what is it?
 
-326
-00:17:55,556 --> 00:17:57,720
+336
+00:17:55,909 --> 00:17:58,077
 I found some Cardassian recipes
 
-327
-00:17:57,762 --> 00:18:00,632
+337
+00:17:58,077 --> 00:18:00,705
 in the memory bank
 of our food replicator.
 
-328
-00:18:00,667 --> 00:18:01,688
+338
+00:18:00,705 --> 00:18:02,665
 It's a stew
 
-329
-00:18:01,822 --> 00:18:04,852
+339
+00:18:02,665 --> 00:18:05,710
 made with Cardassian
 <i>zabo</i> meat.
 
-330
-00:18:08,269 --> 00:18:10,502
+340
+00:18:09,129 --> 00:18:11,340
 I thought Rugal might enjoy
 
-331
-00:18:10,541 --> 00:18:13,810
+341
+00:18:11,340 --> 00:18:14,635
 a dish that's popular
 on his own world.
 
-332
-00:19:22,532 --> 00:19:24,058
+342
+00:19:23,370 --> 00:19:25,039
 Can't sleep?
 
-333
-00:19:24,102 --> 00:19:26,733
+343
+00:19:25,039 --> 00:19:27,667
 What are they going
 to do with me?
 
-334
-00:19:26,775 --> 00:19:28,404
+344
+00:19:27,667 --> 00:19:29,502
 Oh, I'm not sure.
 
-335
-00:19:28,445 --> 00:19:32,250
+345
+00:19:29,502 --> 00:19:33,255
 You might have something
 to say about that, you know.
 
-336
-00:19:32,287 --> 00:19:35,658
+346
+00:19:33,255 --> 00:19:36,592
 You should be telling
 Commander Sisko what you want.
 
-337
-00:19:35,695 --> 00:19:38,827
+347
+00:19:36,592 --> 00:19:39,762
 I want to go home.
 
-338
-00:19:38,868 --> 00:19:40,167
+348
+00:19:39,762 --> 00:19:41,014
 Well, he'll understand that.
 
-339
-00:19:40,272 --> 00:19:41,571
+349
+00:19:41,014 --> 00:19:42,682
 You're a Cardassian
 
-340
-00:19:41,607 --> 00:19:44,705
+350
+00:19:42,682 --> 00:19:45,685
 and they should have taken
 you home when they left.
 
-341
-00:19:44,748 --> 00:19:47,185
-No, I mean home.
+351
+00:19:45,685 --> 00:19:47,979
+No, I mean<i> home.</i>
 
-342
-00:19:47,220 --> 00:19:48,655
+352
+00:19:47,979 --> 00:19:49,355
 To Bajor.
 
-343
-00:19:56,908 --> 00:19:59,881
-It must be tough for you.
+353
+00:19:57,738 --> 00:20:00,825
+It must be
+tough for you.
 
-344
-00:19:59,914 --> 00:20:03,217
-You know, living on Bajor?
+354
+00:20:00,825 --> 00:20:04,037
+You know,
+living on Bajor?
 
-345
-00:20:03,255 --> 00:20:04,724
+355
+00:20:04,037 --> 00:20:05,663
 Why?
 
-346
-00:20:04,759 --> 00:20:06,228
+356
+00:20:05,663 --> 00:20:06,998
 Being Cardassian.
 
-347
-00:20:06,262 --> 00:20:08,426
+357
+00:20:06,998 --> 00:20:09,291
 That's not my fault!
 
-348
-00:20:08,466 --> 00:20:10,664
+358
+00:20:09,291 --> 00:20:11,544
 I was born that way.
 
-349
-00:20:10,705 --> 00:20:12,572
+359
+00:20:11,544 --> 00:20:13,629
 That's not what I meant.
 
-350
-00:20:12,609 --> 00:20:16,140
+360
+00:20:13,629 --> 00:20:16,883
 There's nothing wrong
 with being a Cardassian.
 
-351
-00:20:16,184 --> 00:20:18,154
+361
+00:20:16,883 --> 00:20:18,926
 Yes, there is.
 
-352
-00:20:18,188 --> 00:20:21,593
+362
+00:20:18,926 --> 00:20:22,388
 Who taught you that?
 
-353
-00:20:21,629 --> 00:20:23,030
+363
+00:20:22,388 --> 00:20:23,973
 It's the truth.
 
-354
-00:20:23,066 --> 00:20:24,899
+364
+00:20:23,973 --> 00:20:25,599
 Everybody knows it.
 
-355
-00:20:27,341 --> 00:20:30,142
+365
+00:20:28,268 --> 00:20:30,897
 How do your parents
 feel about Cardassians?
 
-356
-00:20:30,181 --> 00:20:31,912
+366
+00:20:30,897 --> 00:20:32,773
 They hate them.
 
-357
-00:20:31,952 --> 00:20:36,155
+367
+00:20:32,773 --> 00:20:37,028
 Why would you want to live
 with someone who hates you?
 
-358
-00:20:36,195 --> 00:20:39,966
-They hate other Cardassians,
+368
+00:20:37,028 --> 00:20:40,781
+They hate<i> other Cardassians,</i>
 not me.
 
-359
-00:20:40,002 --> 00:20:42,405
+369
+00:20:40,781 --> 00:20:43,325
 My parents have never
 done anything wrong to me.
 
-360
-00:20:42,441 --> 00:20:45,311
+370
+00:20:43,325 --> 00:20:46,162
 Oh, come on,
-even I got my bottom
+even<i> I</i> got my bottom
 
-361
-00:20:45,415 --> 00:20:48,319
+371
+00:20:46,162 --> 00:20:49,123
 whacked by my dad once or twice.
 
-362
-00:20:48,387 --> 00:20:50,118
+372
+00:20:49,123 --> 00:20:50,958
 Not me.
 
-363
-00:20:50,158 --> 00:20:54,532
+373
+00:20:50,958 --> 00:20:55,254
 My parents follow
 the teachings of the Prophets.
 
-364
-00:20:54,568 --> 00:20:57,472
+374
+00:20:55,254 --> 00:20:58,257
 What do you think
 of Cardassians?
 
-365
-00:20:57,508 --> 00:20:58,841
+375
+00:20:58,257 --> 00:20:59,466
 Me?
 
-366
-00:21:00,481 --> 00:21:04,216
+376
+00:21:01,177 --> 00:21:05,014
 Well, I... I can't say, really.
 
-367
-00:21:04,256 --> 00:21:06,283
+377
+00:21:05,014 --> 00:21:07,307
 Why not?
 
-368
-00:21:06,394 --> 00:21:11,099
+378
+00:21:07,307 --> 00:21:11,979
 Well, you can't judge
 a whole race of people.
 
-369
-00:21:11,138 --> 00:21:15,945
+379
+00:21:11,979 --> 00:21:16,567
 You can't hate all Cardassians
 or all Klingons
 
-370
-00:21:15,981 --> 00:21:17,507
+380
+00:21:16,567 --> 00:21:18,152
 or all humans.
 
-371
-00:21:17,552 --> 00:21:20,319
+381
+00:21:18,152 --> 00:21:20,821
 I've met some Cardassians
 I didn't like.
 
-372
-00:21:20,425 --> 00:21:22,919
+382
+00:21:20,821 --> 00:21:23,490
 And I've met some I did.
 
-373
-00:21:22,964 --> 00:21:24,797
+383
+00:21:23,490 --> 00:21:25,118
 Like you.
 
-374
-00:21:27,942 --> 00:21:31,815
+384
+00:21:28,412 --> 00:21:32,332
 Do you know how many Bajorans
 the Cardassians murdered
 
-375
-00:21:31,849 --> 00:21:33,443
+385
+00:21:32,332 --> 00:21:33,876
 during the occupation?
 
-376
-00:21:33,486 --> 00:21:34,921
+386
+00:21:33,876 --> 00:21:35,461
 Over ten million.
 
-377
-00:21:34,957 --> 00:21:37,394
-We had a test on it in school.
+387
+00:21:35,461 --> 00:21:37,838
+We had a test
+on it in school.
 
-378
-00:21:39,066 --> 00:21:41,799
+388
+00:21:39,548 --> 00:21:42,093
 I wish I wasn't Cardassian.
 
-379
-00:22:03,386 --> 00:22:06,985
+389
+00:22:03,322 --> 00:22:06,867
 Come, Doctor, get dressed.
 
-380
-00:22:07,028 --> 00:22:09,261
-We need to be going.
+390
+00:22:06,867 --> 00:22:09,203
+We need
+to be going.
 
-381
-00:22:09,299 --> 00:22:10,700
+391
+00:22:09,203 --> 00:22:10,496
 Going?
 
-382
-00:22:10,735 --> 00:22:12,899
+392
+00:22:10,496 --> 00:22:12,748
 Going where?
 
-383
-00:22:12,940 --> 00:22:15,673
+393
+00:22:12,748 --> 00:22:15,501
 To Bajor.
 
-384
-00:22:17,283 --> 00:22:19,982
+394
+00:22:17,295 --> 00:22:19,880
 I assume this couldn't wait
 until morning?
 
-385
-00:22:20,022 --> 00:22:21,251
+395
+00:22:19,880 --> 00:22:21,174
 No, sir, I...
 
-386
-00:22:21,292 --> 00:22:22,955
-I need to use a runabout.
+396
+00:22:21,174 --> 00:22:22,842
+I need to use
+a runabout.
 
-387
-00:22:23,998 --> 00:22:25,297
+397
+00:22:23,801 --> 00:22:25,261
 I'm waiting.
 
-388
-00:22:26,437 --> 00:22:29,000
+398
+00:22:26,344 --> 00:22:28,889
 It's Garak, sir.
 
-389
-00:22:29,042 --> 00:22:30,739
+399
+00:22:28,889 --> 00:22:31,309
 He wants to go to Bajor.
 
-390
-00:22:30,779 --> 00:22:32,943
+400
+00:22:31,309 --> 00:22:32,810
 Bajor? For what?
 
-391
-00:22:34,287 --> 00:22:35,779
+401
+00:22:34,145 --> 00:22:35,604
 He wouldn't tell me.
 
-392
-00:22:35,824 --> 00:22:38,763
+402
+00:22:35,604 --> 00:22:38,774
 Well, by all means.
 
-393
-00:22:38,797 --> 00:22:40,699
+403
+00:22:38,774 --> 00:22:40,609
 Will one runabout be enough?
 
-394
-00:22:40,735 --> 00:22:42,796
+404
+00:22:40,609 --> 00:22:42,528
+COM OFFICER:
 Ops to Sisko.
 
-395
-00:22:42,839 --> 00:22:44,138
+405
+00:22:42,528 --> 00:22:44,113
 Go ahead.
 
-396
-00:22:44,175 --> 00:22:46,703
+406
+00:22:44,113 --> 00:22:46,740
 Commander, there's an urgent
 communication for you
 
-397
-00:22:46,748 --> 00:22:47,977
+407
+00:22:46,740 --> 00:22:47,825
 from Gul Dukat.
 
-398
-00:22:55,233 --> 00:22:59,231
+408
+00:22:55,208 --> 00:22:59,295
 I'm sorry to disturb you
 at such a late hour, Commander
 
-399
-00:22:59,275 --> 00:23:02,407
+409
+00:22:59,295 --> 00:23:02,464
 but thanks to the DNA gene type
 you sent us
 
-400
-00:23:02,449 --> 00:23:05,650
+410
+00:23:02,464 --> 00:23:05,551
 we've discovered the boy
 is actually the son
 
-401
-00:23:05,689 --> 00:23:09,653
+411
+00:23:05,551 --> 00:23:09,680
 of one of our most prominent
-politicians... Kotran Pa'Dar.
+politicians-- Kotran Pa'Dar.
 
-402
-00:23:09,698 --> 00:23:11,429
+412
+00:23:09,680 --> 00:23:11,431
 When was Pa'Dar on Bajor?
 
-403
-00:23:11,502 --> 00:23:13,438
+413
+00:23:11,431 --> 00:23:13,391
 Over eight years ago.
 
-404
-00:23:13,506 --> 00:23:16,638
+414
+00:23:13,391 --> 00:23:16,603
 He was Exarch for a Cardassian
 settlement there
 
-405
-00:23:16,680 --> 00:23:19,117
+415
+00:23:16,603 --> 00:23:18,981
 and the boy was believed
 to have died
 
-406
-00:23:19,152 --> 00:23:21,213
+416
+00:23:18,981 --> 00:23:21,067
 in a Bajoran terrorist attack.
 
-407
-00:23:21,256 --> 00:23:23,226
+417
+00:23:21,067 --> 00:23:22,609
 Has he been told
 his son is alive?
 
-408
-00:23:23,261 --> 00:23:24,286
-Of course!
+418
+00:23:22,609 --> 00:23:24,320
+<i>Of course!</i>
 
-409
-00:23:24,330 --> 00:23:27,097
-As you can imagine,
-he's overwhelmed with joy.
+419
+00:23:24,320 --> 00:23:27,114
+<i>As you can imagine,</i>
+<i>he's overwhelmed with joy.</i>
 
-410
-00:23:27,137 --> 00:23:30,440
-He's already on his way
-to the station to reclaim him.
+420
+00:23:27,114 --> 00:23:30,326
+<i>He's already on his way</i>
+<i>to the station to reclaim him.</i>
 
-411
-00:23:30,478 --> 00:23:32,574
+421
+00:23:30,326 --> 00:23:32,494
 It's not that simple.
 
-412
-00:23:32,615 --> 00:23:34,084
-I don't understand.
+422
+00:23:32,494 --> 00:23:34,080
+<i>I don't understand.</i>
 
-413
-00:23:34,118 --> 00:23:36,282
+423
+00:23:34,080 --> 00:23:36,707
 The boy wants
 to go back to Bajor.
 
-414
-00:23:36,324 --> 00:23:38,055
-Back?
+424
+00:23:36,707 --> 00:23:38,625
+<i>Back?</i>
 
-415
-00:23:38,094 --> 00:23:40,759
-To live
-with the same brutal people?
+425
+00:23:38,625 --> 00:23:41,170
+<i>To live</i>
+<i>with the same brutal people?</i>
 
-416
-00:23:40,800 --> 00:23:43,271
+426
+00:23:41,170 --> 00:23:43,839
 I can't find any evidence
 to support that accusation.
 
-417
-00:23:43,305 --> 00:23:45,970
+427
+00:23:43,839 --> 00:23:46,300
 I can't even find the man
 who made it in the first place.
 
-418
-00:23:46,011 --> 00:23:46,979
-Well, nevertheless
+428
+00:23:46,300 --> 00:23:47,927
+<i>Well, nevertheless,</i>
 
-419
-00:23:47,013 --> 00:23:50,077
-once the boy finds out
-his real father's alive
+429
+00:23:47,927 --> 00:23:50,221
+<i>once the boy finds out</i>
+<i>his real father's alive,</i>
 
-420
-00:23:50,120 --> 00:23:52,113
-surely he'll change his mind.
+430
+00:23:50,221 --> 00:23:52,556
+<i>surely he'll change his mind.</i>
 
-421
-00:23:52,158 --> 00:23:54,857
-And even if he doesn't, it would
-be in the boy's best interests.
+431
+00:23:52,556 --> 00:23:55,351
+<i>And even if he doesn't, it</i>
+<i>would be in the boy's</i>
+<i>best interests.</i>
 
-422
-00:23:54,898 --> 00:23:56,162
+432
+00:23:55,351 --> 00:23:56,643
 We'll just have to see
 
-423
-00:23:56,200 --> 00:23:58,193
+433
+00:23:56,643 --> 00:23:58,436
 what happens
 when Pa'Dar gets here.
 
-424
-00:23:58,238 --> 00:23:59,537
+434
+00:23:58,436 --> 00:23:59,897
 Sisko out.
 
-425
-00:23:59,574 --> 00:24:02,410
+435
+00:23:59,897 --> 00:24:02,942
+BASHIR:
 It can't be just
 a coincidence, sir.
 
-426
-00:24:02,447 --> 00:24:04,280
+436
+00:24:02,942 --> 00:24:04,735
 Garak must have heard
 about Pa'Dar
 
-427
-00:24:04,318 --> 00:24:05,479
+437
+00:24:04,735 --> 00:24:06,028
 before he woke me up.
 
-428
-00:24:05,555 --> 00:24:09,154
+438
+00:24:06,028 --> 00:24:09,698
 What could he be
 looking for on Bajor?
 
-429
-00:24:09,195 --> 00:24:11,393
+439
+00:24:09,698 --> 00:24:11,909
 There's only one way
 to find out.
 
-430
-00:24:29,239 --> 00:24:32,872
+440
+00:24:29,760 --> 00:24:33,222
 Excuse me, is this the Tozhat
 Resettlement Center?
 
-431
-00:24:32,914 --> 00:24:34,213
+441
+00:24:33,222 --> 00:24:34,765
 Yes.
 
-432
-00:24:34,250 --> 00:24:36,551
+442
+00:24:34,765 --> 00:24:37,143
 I'm Dr. Bashir
 from Federation Command
 
-433
-00:24:36,656 --> 00:24:38,148
+443
+00:24:37,143 --> 00:24:38,727
 at Deep Space 9.
 
-434
-00:24:38,193 --> 00:24:40,426
+444
+00:24:38,727 --> 00:24:40,854
 I've been trying to find
 some information
 
-435
-00:24:40,464 --> 00:24:42,093
-on a Cardassian war orphan
+445
+00:24:40,854 --> 00:24:42,731
+on a Cardassian
+war orphan
 
-436
-00:24:42,134 --> 00:24:44,503
+446
+00:24:42,731 --> 00:24:44,858
 who was apparently placed
 for adoption here.
 
-437
-00:24:44,539 --> 00:24:46,566
+447
+00:24:44,858 --> 00:24:47,069
 Yes, the Bajorans have
 opened their hearts
 
-438
-00:24:46,645 --> 00:24:48,080
+448
+00:24:47,069 --> 00:24:48,446
 to many abandoned children.
 
-439
-00:24:49,117 --> 00:24:50,244
-The boy's name was Rugal
+449
+00:24:49,487 --> 00:24:50,614
+The boy's name
+was Rugal
 
-440
-00:24:50,285 --> 00:24:53,349
-and the Bajoran who adopted him
+450
+00:24:50,614 --> 00:24:52,074
+and the Bajoran
+who adopted him
+
+451
+00:24:52,074 --> 00:24:53,867
 was named Proka Migdal.
 
-441
-00:24:53,393 --> 00:24:55,694
+452
+00:24:53,867 --> 00:24:56,162
 I don't recognize
 either of the names.
 
-442
-00:24:55,731 --> 00:24:58,795
+453
+00:24:56,162 --> 00:24:57,537
 What was it you were trying
-to find out about them?
 
-443
-00:24:58,837 --> 00:25:03,095
-Yes... exactly what are we
+454
+00:24:57,537 --> 00:24:59,457
+to find out
+about them?
+
+455
+00:24:59,457 --> 00:25:04,044
+Yes... exactly what<i> are</i> we
 trying to find out about them?
 
-444
-00:25:03,229 --> 00:25:06,760
+456
+00:25:04,044 --> 00:25:07,714
 The circumstances surrounding
 the young man's adoption.
 
-445
-00:25:06,803 --> 00:25:09,172
+457
+00:25:07,714 --> 00:25:10,050
 It took place
 about eight years ago.
 
-446
-00:25:09,209 --> 00:25:11,179
-The Cardassians were still here.
+458
+00:25:10,050 --> 00:25:11,927
+The Cardassians
+were still here.
 
-447
-00:25:11,213 --> 00:25:12,682
+459
+00:25:11,927 --> 00:25:13,637
 You'll never find anything
 from back then.
 
-448
-00:25:12,716 --> 00:25:13,741
+460
+00:25:13,637 --> 00:25:15,014
 Oh, the Cardassians
 
-449
-00:25:13,785 --> 00:25:16,154
+461
+00:25:15,014 --> 00:25:17,141
 are quite meticulous
 record keepers, madam.
 
-450
-00:25:16,191 --> 00:25:19,164
+462
+00:25:17,141 --> 00:25:20,019
 They've taught many worlds,
 including this one
 
-451
-00:25:19,198 --> 00:25:20,565
+463
+00:25:20,019 --> 00:25:21,437
 how to keep records.
 
-452
-00:25:20,601 --> 00:25:22,434
-I find it difficult to believe
+464
+00:25:21,437 --> 00:25:23,272
+I find it difficult
+to believe
 
-453
-00:25:22,471 --> 00:25:24,669
+465
+00:25:23,272 --> 00:25:25,316
 that none exist
 from that period.
 
-454
-00:25:24,709 --> 00:25:28,480
+466
+00:25:25,316 --> 00:25:28,068
 Certainly computer entries
 were made on a regular basis.
 
-455
-00:25:28,518 --> 00:25:30,181
+467
+00:25:28,068 --> 00:25:29,111
 I wouldn't know.
 
-456
-00:25:30,222 --> 00:25:31,212
+468
+00:25:29,111 --> 00:25:30,237
 I wasn't a volunteer then.
 
-457
-00:25:31,290 --> 00:25:32,223
+469
+00:25:30,237 --> 00:25:32,990
 I was in the underground.
 
-458
-00:25:32,327 --> 00:25:33,887
+470
+00:25:32,990 --> 00:25:34,450
 Really?
 
-459
-00:25:33,930 --> 00:25:36,595
-Perhaps we have met.
+471
+00:25:34,450 --> 00:25:37,328
+Perhaps we<i> have</i> met.
 
-460
-00:25:36,636 --> 00:25:39,130
+472
+00:25:37,328 --> 00:25:39,621
 Look, can we just
 check your computers?
 
-461
-00:25:39,175 --> 00:25:40,940
-Our computers don't work.
+473
+00:25:39,621 --> 00:25:41,707
+Our computers
+don't work.
 
-462
-00:25:40,979 --> 00:25:43,348
+474
+00:25:41,707 --> 00:25:43,876
 I can't get a technician
 to come out.
 
-463
-00:25:43,384 --> 00:25:45,480
+475
+00:25:43,876 --> 00:25:46,170
 We're not exactly
 a top priority.
 
-464
-00:25:45,521 --> 00:25:48,790
+476
+00:25:46,170 --> 00:25:49,340
 Perhaps I can be of service.
 
-465
-00:25:51,869 --> 00:25:53,668
-You can fix computers?
+477
+00:25:52,385 --> 00:25:54,303
+<i>You</i> can fix computers?
 
-466
-00:25:53,706 --> 00:25:57,441
+478
+00:25:54,303 --> 00:25:58,098
 Oh, I dabble with isolinear
 data subprocessors.
 
-467
-00:25:57,482 --> 00:25:59,715
+479
+00:25:58,098 --> 00:26:00,226
 It's... a hobby of mine.
 
-468
-00:26:04,363 --> 00:26:07,062
+480
+00:26:05,022 --> 00:26:07,649
 I continue
 to underestimate you, Garak.
 
-469
-00:26:07,102 --> 00:26:08,799
-Oh, it's no more difficult
+481
+00:26:07,649 --> 00:26:09,609
+Oh, it's no
+more difficult
 
-470
-00:26:08,839 --> 00:26:11,140
-than sewing on a button,
-actually.
+482
+00:26:09,609 --> 00:26:11,820
+than sewing on
+a button, actually.
 
-471
-00:26:11,178 --> 00:26:12,373
+483
+00:26:11,820 --> 00:26:12,863
 Excuse me.
 
-472
-00:26:13,717 --> 00:26:15,346
+484
+00:26:14,448 --> 00:26:16,075
 You carry this
 everywhere with you, do you?
 
-473
-00:26:15,387 --> 00:26:16,947
+485
+00:26:16,075 --> 00:26:17,493
 A simple tailoring tool.
 
-474
-00:26:16,991 --> 00:26:18,756
-You'd be surprised how often
+486
+00:26:17,493 --> 00:26:19,537
+You'd be surprised
+how often
 
-475
-00:26:18,795 --> 00:26:20,993
+487
+00:26:19,537 --> 00:26:21,579
 someone needs
 their pants let out.
 
-476
-00:26:21,033 --> 00:26:22,160
+488
+00:26:21,579 --> 00:26:22,748
 Oh, it's not there.
 
-477
-00:26:22,202 --> 00:26:23,694
+489
+00:26:22,748 --> 00:26:24,375
+BASHIR:
 What's not there?
 
-478
-00:26:23,739 --> 00:26:25,709
+490
+00:26:24,375 --> 00:26:26,419
 Rugal's name, his father's
-name... none of it.
+name-- none of it.
 
-479
-00:26:25,744 --> 00:26:28,011
-You managed to find eight-
-year-old files that quickly?
+491
+00:26:26,419 --> 00:26:28,586
+You managed to find
+eight-year-old files
+that quickly?
 
-480
-00:26:28,048 --> 00:26:29,016
+492
+00:26:28,586 --> 00:26:29,922
 Oh, it's simply a question
 
-481
-00:26:29,051 --> 00:26:30,611
+493
+00:26:29,922 --> 00:26:31,090
 of knowing what you're
 looking for, Doctor.
 
-482
-00:26:30,654 --> 00:26:31,747
+494
+00:26:31,090 --> 00:26:32,466
 Excuse me.
 
-483
-00:26:31,790 --> 00:26:33,282
-Now, it's either been misfiled
+495
+00:26:32,466 --> 00:26:33,633
+Now, it's either
+been misfiled
 
-484
-00:26:33,394 --> 00:26:34,555
+496
+00:26:33,633 --> 00:26:35,177
 or under a wrong name
 
-485
-00:26:34,596 --> 00:26:37,295
-or this is entirely
-the wrong resettlement center.
+497
+00:26:35,177 --> 00:26:37,930
+or this is entirely the
+wrong resettlement center.
 
-486
-00:26:37,370 --> 00:26:39,500
+498
+00:26:37,930 --> 00:26:40,182
 I'm not going to another
 district until I know...
 
-487
-00:26:39,540 --> 00:26:41,738
+499
+00:26:40,182 --> 00:26:42,476
 That won't be necessary.
 
-488
-00:26:41,779 --> 00:26:44,307
+500
+00:26:42,476 --> 00:26:44,853
 We can access the files
 to this entire province
 
-489
-00:26:44,351 --> 00:26:46,515
+501
+00:26:44,853 --> 00:26:47,106
 from here and download
 them into a data clip.
 
-490
-00:26:46,556 --> 00:26:48,458
+502
+00:26:47,106 --> 00:26:49,108
+BASHIR:
 But that'll be
 thousands of files.
 
-491
-00:26:48,494 --> 00:26:50,555
-Tens of thousands, actually.
+503
+00:26:49,108 --> 00:26:51,026
+Tens of thousands,
+actually.
 
-492
-00:27:02,758 --> 00:27:04,159
+504
+00:27:03,289 --> 00:27:04,748
 Excuse me, sir.
 
-493
-00:27:04,195 --> 00:27:07,099
+505
+00:27:04,748 --> 00:27:07,751
 Have you come to take us
 back to Cardassia?
 
-494
-00:27:09,039 --> 00:27:11,533
+506
+00:27:09,587 --> 00:27:12,298
 I'm afraid not, child.
 
-495
-00:27:11,578 --> 00:27:12,911
+507
+00:27:12,298 --> 00:27:13,507
 Come, Doctor.
 
-496
-00:27:13,982 --> 00:27:16,749
+508
+00:27:14,758 --> 00:27:16,260
 I believe you'll find
 your computer system
 
-497
-00:27:16,789 --> 00:27:18,656
-fully functional now, madam.
+509
+00:27:16,260 --> 00:27:18,720
+fully functional
+now, madam.
 
-498
-00:27:36,565 --> 00:27:38,661
-Computer, set up a data bank
+510
+00:27:37,030 --> 00:27:39,116
+Computer, set up
+a data bank
 
-499
-00:27:38,704 --> 00:27:41,198
+511
+00:27:39,116 --> 00:27:41,619
 cross-referencing
 age groups, sex
 
-500
-00:27:41,243 --> 00:27:43,042
+512
+00:27:41,619 --> 00:27:43,661
 year of adoption...
 
-501
-00:27:43,080 --> 00:27:47,351
-Computer, disregard that request
-and shut down all engines.
+513
+00:27:43,661 --> 00:27:45,663
+Computer, disregard
+that request
 
-502
-00:27:52,066 --> 00:27:55,130
+514
+00:27:45,663 --> 00:27:47,833
+and shut down
+all engines.
+
+515
+00:27:52,463 --> 00:27:55,549
 I'm sorry you're upset
 about the orphans.
 
-503
-00:27:57,177 --> 00:27:59,079
+516
+00:27:57,801 --> 00:27:59,595
 Children without parents
 
-504
-00:27:59,116 --> 00:28:01,610
+517
+00:27:59,595 --> 00:28:02,014
 have no status
 in Cardassian society.
 
-505
-00:28:01,655 --> 00:28:03,853
+518
+00:28:02,014 --> 00:28:04,433
 The situation
 is most unfortunate
 
-506
-00:28:03,892 --> 00:28:05,759
+519
+00:28:04,433 --> 00:28:06,352
 but I don't make the rules.
 
-507
-00:28:05,797 --> 00:28:08,793
-But you do play the game,
+520
+00:28:06,352 --> 00:28:07,894
+But you do
+play the game
+
+521
+00:28:07,894 --> 00:28:09,396
 don't you, Garak?
 
-508
-00:28:08,836 --> 00:28:10,362
-And there is a game being played
+522
+00:28:09,396 --> 00:28:11,064
+And there is a game
+being played
 
-509
-00:28:10,407 --> 00:28:12,138
+523
+00:28:11,064 --> 00:28:12,858
 right now as we speak,
 isn't there?
 
-510
-00:28:12,177 --> 00:28:14,478
+524
+00:28:12,858 --> 00:28:15,194
 There are always games, Doctor.
 
-511
-00:28:14,516 --> 00:28:16,953
+525
+00:28:15,194 --> 00:28:17,571
 The trouble is,
 I don't have the slightest idea
 
-512
-00:28:16,988 --> 00:28:20,291
+526
+00:28:17,571 --> 00:28:20,866
 what this game is all about.
 
-513
-00:28:20,329 --> 00:28:22,094
+527
+00:28:20,866 --> 00:28:22,700
 So you're going to tell me
 what's going on
 
-514
-00:28:22,132 --> 00:28:23,897
+528
+00:28:22,700 --> 00:28:24,203
 inside that plain
 and simple head of yours
 
-515
-00:28:23,936 --> 00:28:25,063
+529
+00:28:24,203 --> 00:28:25,579
 my Cardassian friend
 
-516
-00:28:25,106 --> 00:28:27,373
+530
+00:28:25,579 --> 00:28:27,831
 or we're going to sit here
 until we rot.
 
-517
-00:28:27,410 --> 00:28:30,577
+531
+00:28:27,831 --> 00:28:31,293
 Tell me, Doctor...
 
-518
-00:28:30,618 --> 00:28:34,023
+532
+00:28:31,293 --> 00:28:34,588
 why do you think
 the Cardassians left Bajor?
 
-519
-00:28:34,058 --> 00:28:38,261
+533
+00:28:34,588 --> 00:28:38,676
 Gul Dukat said it was a decision
 made by your civilian leaders.
 
-520
-00:28:38,301 --> 00:28:40,237
+534
+00:28:38,676 --> 00:28:40,802
 And isn't it interesting
 
-521
-00:28:40,272 --> 00:28:43,939
+535
+00:28:40,802 --> 00:28:44,431
 that one of Cardassia's
 most notable civilian leaders
 
-522
-00:28:43,980 --> 00:28:46,383
+536
+00:28:44,431 --> 00:28:46,808
 has recently entered
 this scenario?
 
-523
-00:28:46,419 --> 00:28:49,551
+537
+00:28:46,808 --> 00:28:50,103
 Rugal's father?
 
-524
-00:28:49,593 --> 00:28:53,398
+538
+00:28:50,103 --> 00:28:53,857
 You're saying Kotran Pa'Dar
 was involved in the decision
 
-525
-00:28:53,435 --> 00:28:54,768
+539
+00:28:53,857 --> 00:28:55,108
 to evacuate Bajor?
 
-526
-00:28:54,804 --> 00:28:56,033
+540
+00:28:55,108 --> 00:28:56,485
 Very good, Doctor!
 
-527
-00:28:56,074 --> 00:28:58,307
-I'm glad to see
-our little get-togethers
+541
+00:28:56,485 --> 00:28:58,696
+I'm glad to see our
+little get-togethers
 
-528
-00:28:58,346 --> 00:29:00,009
+542
+00:28:58,696 --> 00:29:00,447
 haven't gone for naught.
 
-529
-00:29:00,050 --> 00:29:04,720
+543
+00:29:00,447 --> 00:29:05,452
 Which makes him a political
 enemy of Gul Dukat's
 
-530
-00:29:04,759 --> 00:29:07,857
+544
+00:29:05,452 --> 00:29:08,247
 who lost his job as Prefect
 when they withdrew.
 
-531
-00:29:07,900 --> 00:29:09,836
+545
+00:29:08,247 --> 00:29:10,165
 And seemingly out of nowhere
 
-532
-00:29:09,870 --> 00:29:12,171
+546
+00:29:10,165 --> 00:29:12,543
 Dukat takes an interest
 in this orphan boy
 
-533
-00:29:12,209 --> 00:29:14,544
+547
+00:29:12,543 --> 00:29:14,961
 who recently arrives
-on our station
+on our station,
 
-534
-00:29:14,581 --> 00:29:17,679
+548
+00:29:14,961 --> 00:29:18,173
 and then soon afterwards,
-with Gul Dukat's assistance
+with Gul Dukat's assistance,
 
-535
-00:29:17,722 --> 00:29:24,192
+549
+00:29:18,173 --> 00:29:24,430
 we discover that the orphan boy
 isn't really an orphan boy
 
-536
-00:29:24,236 --> 00:29:26,434
-but Pa'Dar's long-lost son.
+550
+00:29:24,430 --> 00:29:26,682
+but Pa'Dar's
+long-lost son.
 
-537
-00:29:26,474 --> 00:29:28,205
+551
+00:29:26,682 --> 00:29:28,642
 Another coincidence?
 
-538
-00:29:28,244 --> 00:29:31,740
+552
+00:29:28,642 --> 00:29:32,062
 I believe in coincidences.
 
-539
-00:29:31,786 --> 00:29:35,317
+553
+00:29:32,062 --> 00:29:35,774
 Coincidences happen every day.
 
-540
-00:29:35,360 --> 00:29:38,629
+554
+00:29:35,774 --> 00:29:38,944
 But I don't trust coincidences.
 
-541
-00:29:41,908 --> 00:29:43,707
+555
+00:29:42,155 --> 00:29:43,907
 I am Kotran Pa'Dar.
 
-542
-00:29:43,745 --> 00:29:46,182
+556
+00:29:43,907 --> 00:29:46,368
 Miles O'Brien.
 Come in.
 
-543
-00:29:50,894 --> 00:29:52,523
+557
+00:29:51,206 --> 00:29:52,791
 Sit down.
 
-544
-00:29:57,910 --> 00:29:59,311
+558
+00:29:58,213 --> 00:29:59,673
 Where is my son?
 
-545
-00:29:59,346 --> 00:30:00,507
+559
+00:29:59,673 --> 00:30:00,716
 Oh, he's with my wife.
 
-546
-00:30:00,549 --> 00:30:01,882
+560
+00:30:00,716 --> 00:30:01,967
 They'll be back shortly.
 
-547
-00:30:03,321 --> 00:30:08,128
+561
+00:30:03,636 --> 00:30:08,265
 I thought it might be
 a good idea if we talked first.
 
-548
-00:30:10,237 --> 00:30:11,900
+562
+00:30:10,559 --> 00:30:12,269
 Your son, Rugal...
 
-549
-00:30:12,976 --> 00:30:15,709
+563
+00:30:12,269 --> 00:30:15,981
 At least they didn't
 change his name.
 
-550
-00:30:17,319 --> 00:30:19,916
-When was the last time
-you saw him?
+564
+00:30:17,608 --> 00:30:20,193
+When was the last
+time you saw him?
 
-551
-00:30:19,958 --> 00:30:23,557
-On Bajor... he had just
+565
+00:30:20,193 --> 00:30:23,947
+On Bajor-- he had just
 had his fourth birthday.
 
-552
-00:30:23,600 --> 00:30:26,436
+566
+00:30:23,947 --> 00:30:26,617
 He probably doesn't
 even remember me.
 
-553
-00:30:26,472 --> 00:30:28,807
+567
+00:30:26,617 --> 00:30:29,035
 Does he?
 
-554
-00:30:28,844 --> 00:30:32,649
-I think he spent most of his
-life trying to forget you.
+568
+00:30:29,035 --> 00:30:31,204
+I think he spent
+most of his life
 
-555
-00:30:33,822 --> 00:30:35,621
-I don't think I understand.
+569
+00:30:31,204 --> 00:30:32,872
+trying to forget you.
 
-556
-00:30:35,726 --> 00:30:37,753
+570
+00:30:33,957 --> 00:30:35,917
+I don't think
+I understand.
+
+571
+00:30:35,917 --> 00:30:38,128
 The boy hates everything he is.
 
-557
-00:30:37,797 --> 00:30:40,633
+572
+00:30:38,128 --> 00:30:40,798
 He hates Cardassians,
 he hates being a Cardassian.
 
-558
-00:30:40,703 --> 00:30:43,004
+573
+00:30:40,798 --> 00:30:43,467
 Yes, I've heard those stories.
 
-559
-00:30:43,042 --> 00:30:47,143
+574
+00:30:43,467 --> 00:30:47,304
 Well, I suppose after growing up
 among the Bajorans...
 
-560
-00:30:47,184 --> 00:30:49,849
+575
+00:30:47,304 --> 00:30:50,223
 but now that I'm back
 in his life...
 
-561
-00:30:49,890 --> 00:30:53,330
+576
+00:30:50,223 --> 00:30:53,435
 Well, he... may not want you
 back in his life.
 
-562
-00:30:53,364 --> 00:30:55,266
+577
+00:30:53,435 --> 00:30:55,354
 I am his father.
 
-563
-00:30:59,311 --> 00:31:02,842
-Mr. O'Brien, I know
-very little about human culture.
+578
+00:30:59,525 --> 00:31:03,028
+Mr. O'Brien, I know very little
+about human culture.
 
-564
-00:31:02,886 --> 00:31:05,380
+579
+00:31:03,028 --> 00:31:05,739
 I don't know
 how you view the family.
 
-565
-00:31:05,425 --> 00:31:08,796
+580
+00:31:05,739 --> 00:31:09,034
 We'd do almost anything
 to protect our families.
 
-566
-00:31:08,832 --> 00:31:10,631
+581
+00:31:09,034 --> 00:31:10,994
 I have a daughter myself.
 
-567
-00:31:10,669 --> 00:31:14,633
-She's four... the same age
+582
+00:31:10,994 --> 00:31:14,998
+She's four-- the same age
 your son was when you lost him.
 
-568
-00:31:14,712 --> 00:31:17,981
+583
+00:31:14,998 --> 00:31:18,251
 Then I expect you can imagine
 what I'm feeling right now.
 
-569
-00:31:18,019 --> 00:31:22,290
+584
+00:31:18,251 --> 00:31:22,464
 On Cardassia,
 family is everything.
 
-570
-00:31:22,328 --> 00:31:26,394
+585
+00:31:22,464 --> 00:31:26,426
 We care for our parents and
 children with equal devotion.
 
-571
-00:31:26,437 --> 00:31:28,304
+586
+00:31:26,426 --> 00:31:28,512
 In some households
 
-572
-00:31:28,341 --> 00:31:31,108
+587
+00:31:28,512 --> 00:31:31,348
 four generations
 eat at the same table.
 
-573
-00:31:31,148 --> 00:31:34,883
+588
+00:31:31,348 --> 00:31:35,227
 Family... is everything.
 
-574
-00:31:34,922 --> 00:31:38,384
-And I have failed in
-my responsibility to my family.
+589
+00:31:35,227 --> 00:31:38,564
+And I have failed in my
+responsibility to my family.
 
-575
-00:31:38,430 --> 00:31:41,403
+590
+00:31:38,564 --> 00:31:41,650
 You had no way of knowing
 he was still alive.
 
-576
-00:31:41,437 --> 00:31:44,501
+591
+00:31:41,650 --> 00:31:44,820
 I should have tried harder!
 
-577
-00:31:44,544 --> 00:31:47,711
+592
+00:31:44,820 --> 00:31:48,073
 I should have looked everywhere!
 
-578
-00:31:47,818 --> 00:31:54,390
+593
+00:31:48,073 --> 00:31:54,538
 To abandon my son, to allow him
 to be raised by a Bajoran...
 
-579
-00:31:54,433 --> 00:31:59,399
+594
+00:31:54,538 --> 00:31:59,626
 I have disgraced everything
 that a Cardassian believes in.
 
-580
-00:32:21,493 --> 00:32:23,224
+595
+00:31:59,626 --> 00:32:01,044
+(<i> door opens</i> )
+
+596
+00:32:21,732 --> 00:32:23,483
 Hello, Rugal.
 
-581
-00:32:31,648 --> 00:32:33,744
+597
+00:32:31,950 --> 00:32:34,119
 Do you remember my face?
 
-582
-00:32:36,259 --> 00:32:38,092
+598
+00:32:36,413 --> 00:32:38,290
 Even a little?
 
-583
-00:32:40,067 --> 00:32:41,366
+599
+00:32:40,417 --> 00:32:41,627
 No.
 
-584
-00:32:44,777 --> 00:32:47,112
+600
+00:32:45,213 --> 00:32:47,507
 Would you like to see
 some pictures of you
 
-585
-00:32:47,149 --> 00:32:48,413
+601
+00:32:47,507 --> 00:32:48,675
 when you were a child?
 
-586
-00:32:48,452 --> 00:32:49,420
+602
+00:32:48,675 --> 00:32:49,676
 No.
 
-587
-00:32:49,455 --> 00:32:50,445
+603
+00:32:49,676 --> 00:32:50,719
 Hey.
 
-588
-00:33:06,425 --> 00:33:07,654
+604
+00:33:06,693 --> 00:33:07,903
 Rugal...
 
-589
-00:33:07,694 --> 00:33:10,063
-you have to understand.
+605
+00:33:07,903 --> 00:33:10,405
+you have
+to understand.
 
-590
-00:33:10,099 --> 00:33:16,341
-There was nothing left of the
-house after the attack.
+606
+00:33:10,405 --> 00:33:14,910
+There was nothing
+left of the house
 
-591
-00:33:16,380 --> 00:33:19,478
+607
+00:33:14,910 --> 00:33:16,578
+after the attack.
+
+608
+00:33:16,578 --> 00:33:19,748
 Your mother was dead
 
-592
-00:33:19,521 --> 00:33:20,990
+609
+00:33:19,748 --> 00:33:21,166
 and you...
 
-593
-00:33:22,460 --> 00:33:26,333
+610
+00:33:22,918 --> 00:33:26,797
 I... cried for you, Rugal.
 
-594
-00:33:26,369 --> 00:33:29,136
+611
+00:33:26,797 --> 00:33:29,549
 I missed you so much.
 
-595
-00:33:29,175 --> 00:33:32,148
+612
+00:33:29,549 --> 00:33:32,469
 I could not even stay on Bajor.
 
-596
-00:33:32,182 --> 00:33:36,590
-It was too close
-to the happy memories of you.
+613
+00:33:32,469 --> 00:33:36,890
+It was too close to the
+happy memories of you.
 
-597
-00:33:36,624 --> 00:33:38,526
+614
+00:33:36,890 --> 00:33:38,809
 It was your own fault.
 
-598
-00:33:38,562 --> 00:33:40,464
+615
+00:33:38,809 --> 00:33:40,727
 You deserved it.
 
-599
-00:33:40,500 --> 00:33:42,299
+616
+00:33:40,727 --> 00:33:42,729
 You are a Cardassian.
 
-600
-00:33:42,337 --> 00:33:45,572
+617
+00:33:42,729 --> 00:33:45,983
 What the Bajorans did,
 they had to do.
 
-601
-00:33:45,611 --> 00:33:47,513
-I understand why you say that.
+618
+00:33:45,983 --> 00:33:47,734
+I understand
+why you say that.
 
-602
-00:33:47,548 --> 00:33:49,177
+619
+00:33:47,734 --> 00:33:49,569
 You can't understand!
 
-603
-00:33:49,219 --> 00:33:52,420
+620
+00:33:49,569 --> 00:33:52,865
 You are a Cardassian
 butcher, a butcher!
 
-604
-00:33:52,459 --> 00:33:54,657
+621
+00:33:52,865 --> 00:33:55,033
 They killed your son
 for your crimes.
 
-605
-00:33:54,765 --> 00:33:55,664
+622
+00:33:55,033 --> 00:33:56,034
 Rugal...
 
-606
-00:33:55,767 --> 00:33:58,763
+623
+00:33:56,034 --> 00:33:59,037
 You are not my father.
 
-607
-00:33:58,807 --> 00:34:01,608
+624
+00:33:59,037 --> 00:34:01,915
 And I will never go
 back to Cardassia.
 
-608
-00:34:01,679 --> 00:34:03,171
+625
+00:34:01,915 --> 00:34:03,416
 Never.
 
-609
-00:34:15,443 --> 00:34:17,003
-I have no intention of allowing
+626
+00:34:15,595 --> 00:34:17,347
+I have no intention
+of allowing
 
-610
-00:34:17,046 --> 00:34:19,643
+627
+00:34:17,347 --> 00:34:19,850
 a Bajoran court to rule
 on the custody of my son.
 
-611
-00:34:19,686 --> 00:34:23,182
+628
+00:34:19,850 --> 00:34:21,685
+PROKA:
 You gave up custody
+
+629
+00:34:21,685 --> 00:34:23,353
 when you abandoned him here.
 
-612
-00:34:23,227 --> 00:34:25,163
+630
+00:34:23,353 --> 00:34:25,230
 He is my natural-born child.
 
-613
-00:34:25,198 --> 00:34:27,100
-As Cardassian law clearly...
+631
+00:34:25,230 --> 00:34:27,273
+As Cardassian law
+clearly...
 
-614
-00:34:27,136 --> 00:34:29,664
+632
+00:34:27,273 --> 00:34:30,276
 There is no more
 Cardassian law on Bajor.
 
-615
-00:34:29,741 --> 00:34:31,040
-Gentlemen.
-
-616
-00:34:31,077 --> 00:34:34,244
+633
+00:34:30,276 --> 00:34:32,320
+Gentlemen...
 I think you may be in need
+
+634
+00:34:32,320 --> 00:34:34,280
 of an arbitrator to settle this.
 
-617
-00:34:34,284 --> 00:34:36,847
+635
+00:34:34,280 --> 00:34:36,909
 Well, it must be someone
 
-618
-00:34:36,890 --> 00:34:40,695
+636
+00:34:36,909 --> 00:34:40,620
 who is neither a Cardassian
 nor a Bajoran.
 
-619
-00:34:40,765 --> 00:34:42,064
+637
+00:34:40,620 --> 00:34:41,788
 What about you?
 
-620
-00:34:43,338 --> 00:34:44,898
+638
+00:34:43,289 --> 00:34:44,791
 I'd be willing.
 
-621
-00:34:44,941 --> 00:34:47,037
+639
+00:34:44,791 --> 00:34:47,126
 But wouldn't you have objections
 
-622
-00:34:47,079 --> 00:34:49,642
+640
+00:34:47,126 --> 00:34:49,504
 because of the Federation's
 relationship with Bajor?
 
-623
-00:34:50,687 --> 00:34:54,092
+641
+00:34:50,672 --> 00:34:54,009
 No, Commander.
 You are a father, too.
 
-624
-00:34:54,128 --> 00:34:56,064
+642
+00:34:54,009 --> 00:34:55,761
 You would be acceptable to me.
 
-625
-00:34:57,502 --> 00:34:59,837
+643
+00:34:57,387 --> 00:34:59,723
 Very well then.
 I'll schedule a...
 
-626
-00:34:59,874 --> 00:35:01,673
+644
+00:34:59,723 --> 00:35:01,558
 Odo to Commander Sisko.
 
-627
-00:35:01,778 --> 00:35:03,304
+645
+00:35:01,558 --> 00:35:03,268
 Yes, Odo, what is it?
 
-628
-00:35:03,348 --> 00:35:05,979
+646
+00:35:03,268 --> 00:35:05,896
 I thought you might be
 interested to know.
 
-629
-00:35:06,021 --> 00:35:08,754
+647
+00:35:05,896 --> 00:35:08,690
 Gul Dukat has just arrived
 on the station.
 
-630
-00:35:18,415 --> 00:35:22,686
-Station Log, Stardate 47177.2.
+648
+00:35:17,866 --> 00:35:22,203
+SISKO:
+<i>Station Log, Stardate 47177.2.</i>
 
-631
-00:35:22,724 --> 00:35:25,594
-The arrival of Gul Dukat
-only powers my suspicion
+649
+00:35:22,203 --> 00:35:25,082
+<i>The arrival of Gul Dukat</i>
+<i>only powers my suspicion</i>
 
-632
-00:35:25,631 --> 00:35:29,366
-that we are being manipulated
-in some unseen manner.
+650
+00:35:25,082 --> 00:35:29,044
+<i>that we are being manipulated</i>
+<i>in some unseen manner.</i>
 
-633
-00:35:29,405 --> 00:35:31,876
-Dr. Bashir and Garak
-continue to search
+651
+00:35:29,044 --> 00:35:31,421
+<i>Dr. Bashir and Garak</i>
+<i>continue to search</i>
 
-634
-00:35:31,911 --> 00:35:35,043
-for anything of relevance
-in the adoption files.
+652
+00:35:31,421 --> 00:35:34,674
+<i>for anything of relevance</i>
+<i>in the adoption files.</i>
 
-635
-00:35:35,085 --> 00:35:37,613
-So far they've found nothing.
+653
+00:35:34,674 --> 00:35:37,135
+<i>So far they've found nothing.</i>
 
-636
-00:35:37,657 --> 00:35:39,958
-And the decision
-on custody for Rugal
+654
+00:35:37,135 --> 00:35:39,596
+<i>And the decision</i>
+<i>on custody for Rugal</i>
 
-637
-00:35:39,996 --> 00:35:42,467
-cannot wait much longer.
+655
+00:35:39,596 --> 00:35:41,765
+<i>cannot wait much longer.</i>
 
-638
-00:35:43,603 --> 00:35:46,940
+656
+00:35:42,933 --> 00:35:44,517
 You've come a long way
-just to view a custody hearing.
 
-639
-00:35:46,977 --> 00:35:51,180
-Pa'Dar is an eminent member
-of the Civilian Assembly.
+657
+00:35:44,517 --> 00:35:46,436
+just to view
+a custody hearing.
 
-640
-00:35:51,220 --> 00:35:54,387
+658
+00:35:46,436 --> 00:35:48,730
+Pa'Dar is
+an eminent member
+
+659
+00:35:48,730 --> 00:35:50,816
+of the Civilian
+Assembly.
+
+660
+00:35:50,816 --> 00:35:54,027
 This matter has generated
 a great deal of interest
 
-641
-00:35:54,427 --> 00:35:56,955
+661
+00:35:54,027 --> 00:35:56,529
 at the highest levels
 of our government.
 
-642
-00:35:56,999 --> 00:35:58,969
+662
+00:35:56,529 --> 00:35:58,364
 So you're here representing
 your government.
 
-643
-00:35:59,004 --> 00:36:00,701
+663
+00:35:58,364 --> 00:36:00,117
 Not exactly.
 
-644
-00:36:00,741 --> 00:36:03,839
+664
+00:36:00,117 --> 00:36:03,495
 I like to think I'm here
-representing the children...
+representing the children--
 
-645
-00:36:03,882 --> 00:36:06,855
+665
+00:36:03,495 --> 00:36:06,414
 all of the children who
 were abandoned on Bajor.
 
-646
-00:36:06,888 --> 00:36:10,795
+666
+00:36:06,414 --> 00:36:10,209
 I want to see Rugal
 reunited with his father.
 
-647
-00:36:12,867 --> 00:36:17,309
+667
+00:36:12,378 --> 00:36:16,842
 Well, I'm sure Pa'Dar is
 grateful for your support.
 
-648
-00:36:18,981 --> 00:36:20,917
+668
+00:36:18,593 --> 00:36:20,553
 Because I was
 under the impression
 
-649
-00:36:20,952 --> 00:36:23,013
+669
+00:36:20,553 --> 00:36:22,597
 that you were
 political adversaries.
 
-650
-00:36:23,057 --> 00:36:24,686
+670
+00:36:22,597 --> 00:36:24,057
 Isn't that so, Pa'Dar?
 
-651
-00:36:26,330 --> 00:36:28,665
+671
+00:36:25,767 --> 00:36:28,186
 We have disagreed in the past.
 
-652
-00:36:28,702 --> 00:36:31,071
+672
+00:36:28,186 --> 00:36:30,480
 But, Commander, I don't see...
 
-653
-00:36:31,108 --> 00:36:32,805
+673
+00:36:30,480 --> 00:36:32,357
 I must object, Commander.
 
-654
-00:36:32,845 --> 00:36:36,148
-The past is the past...
+674
+00:36:32,357 --> 00:36:35,777
+The past is the past--
 it has no relevance here.
 
-655
-00:36:36,185 --> 00:36:38,816
+675
+00:36:35,777 --> 00:36:38,363
 What is relevant
 are the children.
 
-656
-00:36:38,858 --> 00:36:42,229
+676
+00:36:38,363 --> 00:36:42,159
 What are we going to do
 about the children?
 
-657
-00:36:42,266 --> 00:36:46,001
+677
+00:36:42,159 --> 00:36:46,079
 If you don't mind, I'd like
 for you to go over the events
 
-658
-00:36:46,040 --> 00:36:51,006
+678
+00:36:46,079 --> 00:36:47,956
 leading up to the disappearance
-of Rugal eight years ago.
 
-659
-00:36:51,051 --> 00:36:53,648
-How perfectly foolish of me.
+679
+00:36:47,956 --> 00:36:50,959
+of Rugal
+eight years ago.
 
-660
-00:36:53,690 --> 00:36:56,857
-Don't tell me you've decided
-you were wrong.
+680
+00:36:50,959 --> 00:36:53,670
+How perfectly
+foolish of me.
 
-661
-00:36:56,931 --> 00:37:01,202
-Not after searching 7,420 files
+681
+00:36:53,670 --> 00:36:56,798
+Don't tell me you've
+decided you were wrong.
+
+682
+00:36:56,798 --> 00:36:59,467
+Not after searching
+7,420 files
+
+683
+00:36:59,467 --> 00:37:01,178
 for a misspelling.
 
-662
-00:37:01,240 --> 00:37:03,973
-Dukat is much smarter than that.
+684
+00:37:01,178 --> 00:37:03,847
+Dukat is much
+smarter than that.
 
-663
-00:37:04,014 --> 00:37:05,540
+685
+00:37:03,847 --> 00:37:05,557
 Than what?
 
-664
-00:37:05,583 --> 00:37:07,816
+686
+00:37:05,557 --> 00:37:07,934
 Think about it, Doctor.
 
-665
-00:37:07,922 --> 00:37:11,089
+687
+00:37:07,934 --> 00:37:11,188
 He would never have left
 a file to be found.
 
-666
-00:37:11,129 --> 00:37:13,190
+688
+00:37:11,188 --> 00:37:13,106
 Do you really think he
 purged the file on Rugal?
 
-667
-00:37:13,234 --> 00:37:14,828
-I would have.
+689
+00:37:13,106 --> 00:37:14,900
+<i>I</i> would have.
 
-668
-00:37:14,871 --> 00:37:19,541
-There was something in that file
-he didn't want anybody to see.
+690
+00:37:14,900 --> 00:37:17,069
+There was something
+in that file
 
-669
-00:37:19,581 --> 00:37:21,175
+691
+00:37:17,069 --> 00:37:19,529
+he didn't want
+anybody to see.
+
+692
+00:37:19,529 --> 00:37:21,280
 Exactly.
 
-670
-00:37:21,218 --> 00:37:24,555
-We have one last chance...
+693
+00:37:21,280 --> 00:37:24,492
+We have one last chance--
 to find the person
 
-671
-00:37:24,592 --> 00:37:26,494
+694
+00:37:24,492 --> 00:37:26,327
 who wrote that file
 in the first place.
 
-672
-00:37:26,530 --> 00:37:28,124
-How do you ever hope
-to find him?
+695
+00:37:26,327 --> 00:37:27,954
+How do you ever
+hope to find him?
 
-673
-00:37:28,167 --> 00:37:30,069
+696
+00:37:27,954 --> 00:37:29,873
 Her.
 
-674
-00:37:30,104 --> 00:37:31,869
-Her?
-How do you know?
+697
+00:37:29,873 --> 00:37:31,875
+Her? How do you know?
 
-675
-00:37:31,941 --> 00:37:34,538
+698
+00:37:31,875 --> 00:37:34,252
 Because I've already
-found her name... Jomat Luson.
+found her name-- Jomat Luson.
 
-676
-00:37:39,591 --> 00:37:42,894
+699
+00:37:39,465 --> 00:37:42,761
 Do you remember anything
 from back then, Rugal?
 
-677
-00:37:42,999 --> 00:37:44,992
+700
+00:37:42,761 --> 00:37:44,930
 No.
 
-678
-00:37:45,037 --> 00:37:47,770
-Do you remember being adopted?
+701
+00:37:44,930 --> 00:37:47,515
+Do you remember
+being adopted?
 
-679
-00:37:47,809 --> 00:37:49,608
+702
+00:37:47,515 --> 00:37:49,308
 No.
 
-680
-00:37:52,286 --> 00:37:55,521
+703
+00:37:52,187 --> 00:37:55,440
 What's the first thing
 you do remember?
 
-681
-00:37:57,731 --> 00:38:00,601
+704
+00:37:57,609 --> 00:38:00,278
 My father teaching me
 how to swim.
 
-682
-00:38:03,944 --> 00:38:07,145
-I know exactly the one
-you're talking about.
+705
+00:38:03,823 --> 00:38:06,952
+<i>I know exactly the one</i>
+<i>you're talking about.</i>
 
-683
-00:38:07,185 --> 00:38:08,518
+706
+00:38:06,952 --> 00:38:08,620
 You do?
 
-684
-00:38:08,555 --> 00:38:11,858
-He was the only Cardassian boy
-we had at the time.
+707
+00:38:08,620 --> 00:38:11,831
+<i>He was the only Cardassian boy</i>
+<i>we had at the time.</i>
 
-685
-00:38:11,896 --> 00:38:13,229
-We had several girls.
+708
+00:38:11,831 --> 00:38:13,332
+<i>We had several girls.</i>
 
-686
-00:38:13,266 --> 00:38:15,236
-Are you sure his name was Rugal?
+709
+00:38:13,332 --> 00:38:15,043
+Are you sure
+his name was Rugal?
 
-687
-00:38:15,270 --> 00:38:16,864
-That's what we were told.
+710
+00:38:15,043 --> 00:38:16,878
+<i>That's what we were told.</i>
 
-688
-00:38:16,907 --> 00:38:18,570
-Somebody told you his name?
+711
+00:38:16,878 --> 00:38:18,421
+Somebody<i> told</i> you
+his name?
 
-689
-00:38:18,610 --> 00:38:20,877
-Yes, that was
-the most unusual thing
+712
+00:38:18,421 --> 00:38:20,882
+<i>Yes, that was</i>
+<i>the most unusual thing</i>
 
-690
-00:38:20,916 --> 00:38:22,715
-about his arrival.
+713
+00:38:20,882 --> 00:38:22,592
+<i>about his arrival.</i>
 
-691
-00:38:22,753 --> 00:38:26,056
-Virtually all of the other
-Cardassian children
+714
+00:38:22,592 --> 00:38:25,095
+<i>Virtually all of the other</i>
+<i>Cardassian children</i>
 
-692
-00:38:26,094 --> 00:38:29,933
-turned in to us were found
-on the streets by Bajorans.
+715
+00:38:25,095 --> 00:38:28,514
+<i>turned in to us were found</i>
+<i>on the streets by Bajorans.</i>
 
-693
-00:38:30,036 --> 00:38:32,667
-Rugal was brought in
-by a Cardassian.
+716
+00:38:28,514 --> 00:38:31,684
+<i>Rugal was brought in</i>
+<i>by a Cardassian.</i>
 
-694
-00:38:32,708 --> 00:38:35,578
+717
+00:38:31,684 --> 00:38:34,520
 A Cardassian military
 officer, by any chance?
 
-695
-00:38:35,614 --> 00:38:37,447
-Yes, as a matter of fact,
-she was.
+718
+00:38:34,520 --> 00:38:36,898
+<i>Yes, as a matter of fact,</i>
+<i>she was.</i>
 
-696
-00:38:37,486 --> 00:38:38,750
+719
+00:38:36,898 --> 00:38:38,566
 A woman.
 
-697
-00:38:38,788 --> 00:38:43,822
-I don't remember her name,
-but she was attached
+720
+00:38:38,566 --> 00:38:42,737
+<i>I don't remember her name,</i>
+<i>but she was attached</i>
 
-698
-00:38:43,866 --> 00:38:46,633
-to the command post
-at Terok Nor.
+721
+00:38:42,737 --> 00:38:46,532
+<i>to the command post</i>
+<i>at Terok Nor.</i>
 
-699
-00:38:46,672 --> 00:38:49,337
-Is there anything else, Doctor?
+722
+00:38:46,532 --> 00:38:49,161
+<i>Is there anything else, Doctor?</i>
 
-700
-00:38:52,652 --> 00:38:56,423
+723
+00:38:52,371 --> 00:38:56,126
 The boy accused him
 of being a butcher.
 
-701
-00:38:56,460 --> 00:38:58,954
-He hates Cardassians, sir.
+724
+00:38:56,126 --> 00:38:58,837
+He hates
+Cardassians, sir.
 
-702
-00:38:58,999 --> 00:39:00,628
+725
+00:38:58,837 --> 00:39:00,588
 Pa'Dar was heartbroken.
 
-703
-00:39:00,669 --> 00:39:03,642
+726
+00:39:00,588 --> 00:39:03,508
 I can only imagine
 how I'd feel in his shoes.
 
-704
-00:39:07,184 --> 00:39:08,483
+727
+00:39:03,508 --> 00:39:05,969
+(<i> door opens</i> )
+
+728
+00:39:06,970 --> 00:39:08,346
 Commander...
 
-705
-00:39:08,520 --> 00:39:11,253
-can I ask a few questions?
+729
+00:39:08,346 --> 00:39:11,099
+can I ask
+a few questions?
 
-706
-00:39:20,529 --> 00:39:22,898
-Chief, didn't Pa'Dar tell you
+730
+00:39:20,859 --> 00:39:23,444
+Chief, didn't
+Pa'Dar tell you
 
-707
-00:39:22,934 --> 00:39:26,169
+731
+00:39:23,444 --> 00:39:26,447
 about the humiliation
 he feels right now?
 
-708
-00:39:26,208 --> 00:39:28,041
-He said he had disgraced
+732
+00:39:26,447 --> 00:39:28,283
+He said he
+had disgraced
 
-709
-00:39:28,079 --> 00:39:30,573
+733
+00:39:28,283 --> 00:39:30,994
 everything a Cardassian
 believes in.
 
-710
-00:39:30,618 --> 00:39:32,645
-Has news of your son's discovery
+734
+00:39:30,994 --> 00:39:33,121
+Has news of your
+son's discovery
 
-711
-00:39:32,689 --> 00:39:35,092
+735
+00:39:33,121 --> 00:39:35,414
 become public knowledge
 on Cardassia?
 
-712
-00:39:35,128 --> 00:39:38,967
-The government has not chosen
-to reveal it to the people yet.
+736
+00:39:35,414 --> 00:39:37,250
+The government
+has not chosen
 
-713
-00:39:39,003 --> 00:39:41,099
-What happens
-when it is revealed?
+737
+00:39:37,250 --> 00:39:39,252
+to reveal it
+to the people yet.
 
-714
-00:39:41,141 --> 00:39:44,444
+738
+00:39:39,252 --> 00:39:41,462
+What happens when
+it<i> is</i> revealed?
+
+739
+00:39:41,462 --> 00:39:42,755
 It will be the end
-of my political career.
 
-715
-00:39:44,515 --> 00:39:46,280
+740
+00:39:42,755 --> 00:39:44,883
+of my political
+career.
+
+741
+00:39:44,883 --> 00:39:46,592
 That's a shame...
 
-716
-00:39:46,319 --> 00:39:48,722
+742
+00:39:46,592 --> 00:39:48,970
 especially
 considering the timing.
 
-717
-00:39:48,758 --> 00:39:50,057
+743
+00:39:48,970 --> 00:39:50,471
 The timing?
 
-718
-00:39:50,094 --> 00:39:52,463
+744
+00:39:50,471 --> 00:39:52,765
 Isn't there an inquiry
 about to begin
 
-719
-00:39:52,500 --> 00:39:54,767
+745
+00:39:52,765 --> 00:39:55,227
 concerning the Cardassians
 who were involved
 
-720
-00:39:54,804 --> 00:39:57,401
+746
+00:39:55,227 --> 00:39:57,520
 in the attempted
 military coup on Bajor?
 
-721
-00:39:57,443 --> 00:39:59,470
+747
+00:39:57,520 --> 00:39:59,856
 Yes.
 
-722
-00:39:59,548 --> 00:40:03,147
+748
+00:39:59,856 --> 00:40:03,360
 And isn't Gul Dukat one of
 the key witness in that inquiry?
 
-723
-00:40:03,189 --> 00:40:05,285
+749
+00:40:03,360 --> 00:40:05,486
 This is irrelevant
 and insulting.
 
-724
-00:40:05,328 --> 00:40:07,629
-Commander,
-you've lost control here.
+750
+00:40:05,486 --> 00:40:08,031
+Commander, you've
+lost control here.
 
-725
-00:40:07,666 --> 00:40:10,433
+751
+00:40:08,031 --> 00:40:10,825
 Yes, it seems that I have.
 
-726
-00:40:10,472 --> 00:40:13,639
+752
+00:40:10,825 --> 00:40:13,828
 I suggest we return to the issue
 of the children.
 
-727
-00:40:13,679 --> 00:40:14,978
+753
+00:40:13,828 --> 00:40:15,247
 All right.
 
-728
-00:40:16,619 --> 00:40:17,746
-Let's talk about children.
+754
+00:40:16,789 --> 00:40:17,916
+Let's talk
+about children.
 
-729
-00:40:17,788 --> 00:40:18,756
+755
+00:40:17,916 --> 00:40:19,292
 Have you ever been
 
-730
-00:40:18,790 --> 00:40:20,521
+756
+00:40:19,292 --> 00:40:21,502
 to the Tozhat Resettlement
 Center on Bajor
 
-731
-00:40:20,561 --> 00:40:21,654
+757
+00:40:21,502 --> 00:40:22,461
 where Rugal was adopted?
 
-732
-00:40:21,697 --> 00:40:22,756
+758
+00:40:22,461 --> 00:40:24,172
 Never.
+Of course,
 
-733
-00:40:22,799 --> 00:40:23,824
-Of course.
-
-734
-00:40:23,868 --> 00:40:25,964
+759
+00:40:24,172 --> 00:40:25,464
 Tozhat is the province
 where Pa'Dar
 
-735
-00:40:26,007 --> 00:40:27,943
-was stationed eight years ago.
+760
+00:40:25,464 --> 00:40:27,008
+was stationed
+eight years ago.
 
-736
-00:40:27,977 --> 00:40:29,503
+761
+00:40:27,008 --> 00:40:29,052
 I'm aware of that.
 
-737
-00:40:33,222 --> 00:40:36,559
+762
+00:40:33,556 --> 00:40:36,851
 I've been trying to find records
-of Rugal's adoption
+of Rugal's adoption,
 
-738
-00:40:36,629 --> 00:40:38,896
+763
+00:40:36,851 --> 00:40:39,104
 but they're missing
 from the files.
 
-739
-00:40:40,038 --> 00:40:41,530
+764
+00:40:40,105 --> 00:40:41,814
 How unfortunate.
 
-740
-00:40:41,573 --> 00:40:44,944
+765
+00:40:41,814 --> 00:40:45,318
 Yes, but we have found someone
 who was working at the Center
 
-741
-00:40:44,981 --> 00:40:47,042
+766
+00:40:45,318 --> 00:40:47,486
 at the time Rugal
 was brought in.
 
-742
-00:40:47,086 --> 00:40:49,751
+767
+00:40:47,486 --> 00:40:49,864
 Do you know of a Bajoran
 social volunteer
 
-743
-00:40:49,792 --> 00:40:51,455
+768
+00:40:49,864 --> 00:40:51,532
 named Jomat Luson?
 
-744
-00:40:51,495 --> 00:40:52,828
+769
+00:40:51,532 --> 00:40:53,118
 No.
 
-745
-00:40:52,865 --> 00:40:56,066
+770
+00:40:53,118 --> 00:40:56,204
 Well, Jomat Luson remembers
 Rugal being brought in
 
-746
-00:40:56,106 --> 00:40:58,202
-by a Cardassian military officer
+771
+00:40:56,204 --> 00:40:58,581
+by a Cardassian military
+officer--
 
-747
-00:40:58,243 --> 00:41:02,048
+772
+00:40:58,581 --> 00:41:02,252
 a woman who seemed familiar
-with him... even knew his name.
+with him-- even knew his name.
 
-748
-00:41:03,956 --> 00:41:05,653
+773
+00:41:04,170 --> 00:41:06,005
 Is there a question?
 
-749
-00:41:05,693 --> 00:41:08,529
+774
+00:41:06,005 --> 00:41:08,800
 The question is whether
 or not this officer
 
-750
-00:41:08,567 --> 00:41:11,266
+775
+00:41:08,800 --> 00:41:11,928
 deliberately left the son
 of Kotran Pa'Dar
 
-751
-00:41:11,306 --> 00:41:13,208
+776
+00:41:11,928 --> 00:41:13,430
 at the relocation center
 
-752
-00:41:13,243 --> 00:41:15,874
+777
+00:41:13,430 --> 00:41:15,348
 with the full knowledge
 that he was not an orphan.
 
-753
-00:41:15,916 --> 00:41:20,324
+778
+00:41:15,348 --> 00:41:19,560
 Perhaps even with the hopes
 of humiliating Pa'Dar someday.
 
-754
-00:41:22,497 --> 00:41:23,830
+779
+00:41:21,938 --> 00:41:23,356
 I wouldn't know.
 
-755
-00:41:23,867 --> 00:41:27,136
+780
+00:41:23,356 --> 00:41:26,692
 Well, would you happen
 to know, then, of a base
 
-756
-00:41:27,174 --> 00:41:30,044
+781
+00:41:26,692 --> 00:41:29,404
 known during the occupation
 as Terok Nor?
 
-757
-00:41:30,081 --> 00:41:32,416
+782
+00:41:29,404 --> 00:41:31,781
 Terok Nor?
 
-758
-00:41:32,452 --> 00:41:35,185
-It was here, this space station.
+783
+00:41:31,781 --> 00:41:34,617
+It was here,
+this space station.
 
-759
-00:41:36,896 --> 00:41:38,889
+784
+00:41:36,202 --> 00:41:38,455
 Jomat Luson clearly recalls
 
-760
-00:41:38,933 --> 00:41:41,632
+785
+00:41:38,455 --> 00:41:41,166
 that the officer
 who brought in Rugal
 
-761
-00:41:41,672 --> 00:41:43,939
+786
+00:41:41,166 --> 00:41:43,293
 was attached to Terok Nor.
 
-762
-00:41:52,229 --> 00:41:53,892
+787
+00:41:51,468 --> 00:41:53,345
+BASHIR:
 Gul Dukat!
 
-763
-00:41:53,933 --> 00:41:57,498
+788
+00:41:53,345 --> 00:41:56,722
 Who was the commanding officer
 of Terok Nor eight years ago?
 
-764
-00:42:06,127 --> 00:42:07,824
+789
+00:42:05,523 --> 00:42:07,442
 For the record
 
-765
-00:42:07,864 --> 00:42:11,167
+790
+00:42:07,442 --> 00:42:10,611
 the commanding officer
 of Terok Nor eight years ago
 
-766
-00:42:11,204 --> 00:42:12,764
+791
+00:42:10,611 --> 00:42:12,113
 was Gul Dukat.
 
-767
-00:42:16,516 --> 00:42:21,653
-Station Log, Stardate 47178.3.
+792
+00:42:15,992 --> 00:42:21,122
+<i>Station Log, Stardate 47178.3.</i>
 
-768
-00:42:21,727 --> 00:42:23,925
-After long and difficult
-deliberations
+793
+00:42:21,122 --> 00:42:23,500
+<i>After long and difficult</i>
+<i>deliberations</i>
 
-769
-00:42:23,965 --> 00:42:25,525
-I have decided to allow Pa'Dar
+794
+00:42:23,500 --> 00:42:24,959
+<i>I have decided to allow Pa'Dar</i>
 
-770
-00:42:25,569 --> 00:42:27,402
-to take his son
-back to Cardassia.
+795
+00:42:24,959 --> 00:42:27,045
+<i>to take his son</i>
+<i>back to Cardassia.</i>
 
-771
-00:42:27,439 --> 00:42:30,240
-Although I am convinced
-his Bajoran foster parents
+796
+00:42:27,045 --> 00:42:29,422
+<i>Although I am convinced</i>
+<i>his Bajoran foster parents</i>
 
-772
-00:42:30,280 --> 00:42:31,509
-treated him with love
+797
+00:42:29,422 --> 00:42:31,216
+<i>treated him with love,</i>
 
-773
-00:42:31,549 --> 00:42:34,579
-Rugal has been the clear victim
-in this conspiracy.
+798
+00:42:31,216 --> 00:42:34,677
+<i>Rugal has been the clear victim</i>
+<i>in this conspiracy.</i>
 
-774
-00:42:34,622 --> 00:42:38,255
-I believe it's time
-for his healing to begin.
+799
+00:42:34,677 --> 00:42:37,638
+<i>I believe it's time</i>
+<i>for his healing to begin.</i>
 
-775
-00:42:39,366 --> 00:42:42,862
+800
+00:42:40,058 --> 00:42:43,269
 Your doctor has given me
 the leverage I need, Commander.
 
-776
-00:42:42,907 --> 00:42:44,136
+801
+00:42:43,269 --> 00:42:44,562
 Leverage?
 
-777
-00:42:44,176 --> 00:42:46,112
+802
+00:42:44,562 --> 00:42:46,564
 Dukat will never
 allow these events
 
-778
-00:42:46,148 --> 00:42:47,343
-to be made public now
+803
+00:42:46,564 --> 00:42:48,024
+to be made public now,
 
-779
-00:42:47,383 --> 00:42:49,718
+804
+00:42:48,024 --> 00:42:50,068
 and I certainly won't
 choose to discuss them.
 
-780
-00:42:49,755 --> 00:42:52,022
-- A stalemate.
-- A stalemate.
+805
+00:42:50,068 --> 00:42:51,110
+A stalemate.
 
-781
-00:42:52,061 --> 00:42:54,624
+806
+00:42:51,110 --> 00:42:52,611
+A stalemate.
+
+807
+00:42:52,611 --> 00:42:55,156
 You've helped me salvage
 my political career.
 
-782
-00:42:54,666 --> 00:42:55,827
+808
+00:42:55,156 --> 00:42:56,366
 I won't forget that.
 
-783
-00:42:55,868 --> 00:42:57,667
+809
+00:42:56,366 --> 00:42:57,742
 Perhaps you will
 use your influence
 
-784
-00:42:57,707 --> 00:42:59,905
+810
+00:42:57,742 --> 00:42:59,952
 to help other Cardassian
 orphans on Bajor.
 
-785
-00:42:59,944 --> 00:43:03,145
+811
+00:42:59,952 --> 00:43:02,955
 Well, yes, we'll see.
 
-786
-00:43:03,185 --> 00:43:04,380
-Remember what I said.
+812
+00:43:02,955 --> 00:43:04,582
+O'BRIEN:
+Remember
+what I said.
 
-787
-00:43:04,421 --> 00:43:07,553
+813
+00:43:04,582 --> 00:43:06,584
 If you ever want to come
 back and visit them
 
-788
-00:43:07,594 --> 00:43:10,361
+814
+00:43:06,584 --> 00:43:09,170
 just let me know
 and I'll arrange it.
 
-789
-00:43:11,436 --> 00:43:14,101
+815
+00:43:10,422 --> 00:43:13,091
 Hello, Rugal.
 Ready to go?
 
-790
-00:43:21,258 --> 00:43:23,354
-I suppose it'll take time.
+816
+00:43:20,139 --> 00:43:22,392
+I suppose
+it'll take time.
 
-791
-00:43:39,498 --> 00:43:43,769
-But there's one more question
-I haven't figured out, Garak.
+817
+00:43:39,492 --> 00:43:41,660
+But there's one
+more question
 
-792
-00:43:43,808 --> 00:43:46,245
+818
+00:43:41,660 --> 00:43:43,996
+I haven't
+figured out, Garak.
+
+819
+00:43:43,996 --> 00:43:46,458
 Why did you want
 to expose Dukat?
 
-793
-00:43:46,280 --> 00:43:48,774
+820
+00:43:46,458 --> 00:43:48,918
 What's the truth
 about you and him?
 
-794
-00:43:48,852 --> 00:43:52,019
+821
+00:43:48,918 --> 00:43:52,088
 Truth, Doctor, is in
 the eye of the beholder.
 
-795
-00:43:52,059 --> 00:43:53,926
+822
+00:43:52,088 --> 00:43:54,132
 I never tell the truth
 
-796
-00:43:53,963 --> 00:43:57,232
+823
+00:43:54,132 --> 00:43:56,426
 because I don't believe
-there is such a thing.
+there<i> is</i> such a thing.
 
-797
-00:43:57,270 --> 00:44:00,300
+824
+00:43:56,426 --> 00:44:00,012
 That's why I prefer
 the straight-line simplicity
 
-798
-00:44:00,344 --> 00:44:01,973
+825
+00:44:00,012 --> 00:44:02,098
 of cutting cloth.
 
-799
-00:44:02,014 --> 00:44:03,984
-So you're not going to tell me.
+826
+00:44:02,098 --> 00:44:04,267
+So you're not
+going to tell me.
 
-800
-00:44:04,018 --> 00:44:06,922
+827
+00:44:04,267 --> 00:44:07,019
 But you don't need me
 to tell you, my friend.
 
-801
-00:44:06,959 --> 00:44:09,020
+828
+00:44:07,019 --> 00:44:08,396
 Just notice the details.
 
-802
-00:44:09,063 --> 00:44:11,124
-They're scattered like crumbs
+829
+00:44:08,396 --> 00:44:09,855
+They're scattered
+like crumbs
 
-803
-00:44:11,168 --> 00:44:14,072
+830
+00:44:09,855 --> 00:44:13,276
 all over this table
 we regularly share.
 
-804
-00:44:15,243 --> 00:44:16,872
+831
+00:44:15,194 --> 00:44:16,946
 Until next time.
-

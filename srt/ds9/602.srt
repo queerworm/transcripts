@@ -1,2926 +1,3188 @@
-﻿1
-00:00:02,197 --> 00:00:04,065
-Captain's Log, supplemental.
+1
+00:00:01,877 --> 00:00:04,212
+SISKO:
+<i>Captain's Log, supplemental.</i>
 
 2
-00:00:04,102 --> 00:00:06,369
-O'Brien needed three days
-to restore main power
+00:00:04,212 --> 00:00:06,340
+<i>O'Brien needed three days</i>
+<i>to restore main power</i>
 
 3
-00:00:06,407 --> 00:00:08,104
-to our commandeered
-Dominion ship
+00:00:06,340 --> 00:00:08,175
+<i>to our commandeered</i>
+<i>Dominion ship</i>
 
 4
-00:00:08,144 --> 00:00:10,479
-but he's not going to get them.
+00:00:08,175 --> 00:00:10,177
+<i>but he's not going to get them.</i>
 
 5
-00:00:10,517 --> 00:00:12,613
-Sensors have detected
-two Jem'Hadar fighters
+00:00:10,177 --> 00:00:12,638
+<i>Sensors have detected</i>
+<i>two Jem'Hadar fighters</i>
 
 6
-00:00:12,656 --> 00:00:14,559
-heading our way,
-and without main power
+00:00:12,638 --> 00:00:14,556
+<i>heading our way,</i>
+<i>and without main power</i>
 
 7
-00:00:14,593 --> 00:00:17,965
-our chances of survival
-are slim to none.
+00:00:14,556 --> 00:00:18,059
+<i>our chances of survival</i>
+<i>are slim to none.</i>
 
 8
-00:00:19,104 --> 00:00:21,702
+00:00:19,144 --> 00:00:21,689
 Try it now.
 
 9
-00:00:21,743 --> 00:00:23,007
-Reroute the damned gyrodyne
+00:00:21,689 --> 00:00:23,148
+Reroute the
+damned gyrodyne
 
 10
-00:00:23,047 --> 00:00:24,676
+00:00:23,148 --> 00:00:24,483
 through the damned
 thruster array.
 
 11
-00:00:24,718 --> 00:00:25,686
+00:00:24,483 --> 00:00:25,693
 Got it.
 
 12
-00:00:25,720 --> 00:00:27,554
+00:00:25,693 --> 00:00:27,569
 Mr. Garak, where are
 those ships now?
 
 13
-00:00:27,591 --> 00:00:32,763
+00:00:27,569 --> 00:00:32,324
 Bearing 310 mark 215,
 still closing.
 
 14
-00:00:32,804 --> 00:00:34,968
+00:00:32,324 --> 00:00:35,035
+O'BRIEN:
 Nog, did you reroute
 that damned gyrodyne?
 
 15
-00:00:35,009 --> 00:00:36,946
+00:00:35,035 --> 00:00:36,704
+NOG:
 I'm trying, but
 the damned thruster array
 
 16
-00:00:36,980 --> 00:00:38,005
+00:00:36,704 --> 00:00:38,163
 won't take the input.
 
 17
-00:00:38,049 --> 00:00:39,746
+00:00:38,163 --> 00:00:39,623
 Try the lateral
 impulse thrusters.
 
 18
-00:00:39,787 --> 00:00:40,812
+00:00:39,623 --> 00:00:40,666
 And watch your mouth.
 
 19
-00:00:40,856 --> 00:00:42,621
+00:00:40,666 --> 00:00:42,292
 Access the auxiliary core
 
 20
-00:00:42,661 --> 00:00:44,187
+00:00:42,292 --> 00:00:44,211
 through the starboard
 engineering console.
 
 21
-00:00:44,231 --> 00:00:45,894
+00:00:44,211 --> 00:00:45,546
 I've already tried that.
 
 22
-00:00:45,935 --> 00:00:48,065
-Still no power
-to weapons or shields.
+00:00:45,546 --> 00:00:48,131
+Still no power to
+weapons or shields.
 
 23
-00:00:48,107 --> 00:00:50,271
+00:00:48,131 --> 00:00:50,009
 Dax, there's
 a dark matter nebula
 
 24
-00:00:50,345 --> 00:00:51,370
+00:00:50,009 --> 00:00:51,969
 60 degrees above the bow.
-
-25
-00:00:51,415 --> 00:00:52,383
 Can we reach it?
 
-26
-00:00:52,417 --> 00:00:54,080
+25
+00:00:51,969 --> 00:00:53,345
 Yes, but that nebula's
 never been charted.
 
-27
-00:00:54,122 --> 00:00:55,386
+26
+00:00:53,345 --> 00:00:54,972
 We don't know what's in there.
 
-28
-00:00:55,424 --> 00:00:58,522
+27
+00:00:54,972 --> 00:00:58,350
 The Jem'Hadar ships
 are entering weapons range.
 
-29
-00:01:02,942 --> 00:01:03,875
+28
+00:01:02,604 --> 00:01:03,647
 Dax!
 
-30
-00:01:03,911 --> 00:01:05,244
-Get us into the nebula.
+29
+00:01:03,647 --> 00:01:05,232
+Get us into
+the nebula.
 
-31
-00:01:05,281 --> 00:01:06,271
+30
+00:01:05,232 --> 00:01:06,274
 Full impulse!
 
+31
+00:01:06,274 --> 00:01:07,693
+(<i> yells</i> )
+
 32
-00:01:17,912 --> 00:01:20,749
+00:01:18,037 --> 00:01:20,539
 Sisko to Bashir,
 medical emergency.
 
 33
-00:01:21,821 --> 00:01:23,313
+00:01:21,749 --> 00:01:23,124
 Helm control's gone.
 
 34
-00:01:36,523 --> 00:01:37,856
+00:01:36,471 --> 00:01:37,932
 Okay, all right.
 
 35
-00:01:37,893 --> 00:01:41,334
+00:01:37,932 --> 00:01:41,309
 You'll be feeling
 better any second now.
 
 36
-00:01:43,907 --> 00:01:45,878
+00:01:43,854 --> 00:01:45,564
 She's got a puncture
 of the right abdominal cavity.
 
 37
-00:01:47,482 --> 00:01:49,111
+00:01:45,564 --> 00:01:48,901
 It looks as thought the symbiont
 may have been injured.
 
 38
-00:01:50,924 --> 00:01:53,692
+00:01:50,485 --> 00:01:53,614
 Sensors are gone,
 impulse engines off-line.
 
 39
-00:01:53,731 --> 00:01:55,223
+00:01:53,614 --> 00:01:54,823
 In fact, everything's off-line.
 
 40
-00:01:55,268 --> 00:01:57,637
+00:01:54,823 --> 00:01:57,117
 Emergency power's
 holding for now.
 
 41
-00:01:57,674 --> 00:01:59,337
+00:01:57,117 --> 00:01:58,994
 Mr. Garak, take a look outside.
 
 42
-00:01:59,378 --> 00:02:00,346
+00:01:58,994 --> 00:02:00,079
 Just a moment.
 
 43
-00:02:00,380 --> 00:02:01,542
+00:02:00,079 --> 00:02:01,162
+SISKO:
 Chief, what happened?
 
 44
-00:02:01,583 --> 00:02:02,551
+00:02:01,162 --> 00:02:02,497
+O'BRIEN:
 I don't know.
 
 45
-00:02:02,585 --> 00:02:03,986
+00:02:02,497 --> 00:02:03,624
 We must have been hit
 by some kind
 
 46
-00:02:04,022 --> 00:02:05,081
-of gravitational spike in the...
+00:02:03,624 --> 00:02:04,792
+of gravitational
+spike in the--
 
 47
-00:02:05,125 --> 00:02:06,093
+00:02:04,792 --> 00:02:05,751
 Oh, no!
 
 48
-00:02:06,127 --> 00:02:07,026
+00:02:05,751 --> 00:02:06,794
 Mr. Garak?
 
 49
-00:02:07,063 --> 00:02:09,159
+00:02:06,794 --> 00:02:08,837
 Hold on!
 
 50
-00:04:17,067 --> 00:04:19,095
+00:04:17,591 --> 00:04:19,676
 We have established
 a defense perimeter
 
 51
-00:04:19,139 --> 00:04:20,699
+00:04:19,676 --> 00:04:22,637
 around the entrance
 to the cavern.
 
 52
-00:04:22,079 --> 00:04:24,881
+00:04:22,637 --> 00:04:25,807
 I have sent two patrols
 to reconnoiter the shoreline
 
 53
-00:04:24,920 --> 00:04:26,287
+00:04:25,807 --> 00:04:27,017
 in both directions.
 
 54
-00:04:27,961 --> 00:04:30,900
+00:04:28,769 --> 00:04:31,813
 The Vorta's condition
 has worsened.
 
 55
-00:04:30,935 --> 00:04:32,302
+00:04:31,813 --> 00:04:33,232
 He will die soon.
 
 56
-00:04:32,338 --> 00:04:34,138
+00:04:33,232 --> 00:04:35,067
 What about the First
 and the Second?
 
 57
-00:04:34,175 --> 00:04:36,408
+00:04:35,067 --> 00:04:37,402
 I vaporized their bodies myself
 
 58
-00:04:36,515 --> 00:04:38,041
+00:04:37,402 --> 00:04:38,987
 and redistributed
 their equipment
 
 59
-00:04:38,085 --> 00:04:39,179
+00:04:38,987 --> 00:04:40,030
 to the rest of the men.
 
 60
-00:04:39,221 --> 00:04:41,522
+00:04:40,030 --> 00:04:42,323
 You are now the First.
 
 61
-00:04:41,560 --> 00:04:44,124
+00:04:42,323 --> 00:04:45,077
 No. I questioned
 the Vorta's orders.
 
 62
-00:04:44,166 --> 00:04:45,692
+00:04:45,077 --> 00:04:46,745
 He will not forget that.
 
 63
-00:04:45,736 --> 00:04:49,769
+00:04:46,745 --> 00:04:50,707
 As long as he lives,
 I will remain Third.
 
 64
-00:04:49,813 --> 00:04:51,784
-You were right to question him.
+00:04:50,707 --> 00:04:52,918
+You were right
+to question him.
 
 65
-00:04:51,818 --> 00:04:54,119
+00:04:52,918 --> 00:04:55,045
 If he had not ordered us
 into the nebula two days ago
 
 66
-00:04:54,156 --> 00:04:55,284
+00:04:55,045 --> 00:04:56,130
 we would not have crashed.
 
 67
-00:04:55,326 --> 00:04:57,820
+00:04:56,130 --> 00:04:58,673
 It was not my place.
 
 68
-00:04:57,865 --> 00:05:01,772
+00:04:58,673 --> 00:05:02,677
 Remember,
 obedience brings victory.
 
 69
-00:05:03,412 --> 00:05:05,815
+00:05:04,054 --> 00:05:06,640
 And victory is life.
 
 70
-00:05:05,852 --> 00:05:07,321
+00:05:06,640 --> 00:05:08,391
 Until we reestablish
 communications
 
 71
-00:05:07,355 --> 00:05:09,086
+00:05:08,391 --> 00:05:09,977
 we will hold this world
 for the Dominion.
 
 72
-00:05:09,126 --> 00:05:11,620
+00:05:09,977 --> 00:05:12,437
 And if we cannot
 reestablish communications?
 
 73
-00:05:11,666 --> 00:05:14,264
+00:05:12,437 --> 00:05:14,940
 Then we will hold this world
 for the Dominion...
 
 74
-00:05:14,305 --> 00:05:16,242
+00:05:14,940 --> 00:05:16,900
 until we die.
 
 75
-00:05:46,248 --> 00:05:49,711
-Cadet, this is no time
+00:05:27,494 --> 00:05:29,537
+(<i> coughing</i> )
 
 76
-00:05:49,757 --> 00:05:51,226
-to lie down on the job.
+00:05:33,583 --> 00:05:35,710
+(<i> coughing</i> )
 
 77
-00:05:57,074 --> 00:05:58,042
-Heave!
+00:05:40,715 --> 00:05:43,551
+(<i> coughing and gasping</i> )
 
 78
-00:05:59,079 --> 00:06:00,982
-One more, now... heave!
+00:05:46,972 --> 00:05:50,517
+Cadet, this is no time
 
 79
-00:06:13,881 --> 00:06:17,082
-All right, how is she?
+00:05:50,517 --> 00:05:51,852
+to lie down on the job.
 
 80
-00:06:17,122 --> 00:06:19,457
-She's stable for now.
+00:05:52,811 --> 00:05:54,021
+(<i> coughs</i> )
 
 81
-00:06:19,495 --> 00:06:21,989
-Garak! I need a hand.
+00:05:57,732 --> 00:05:58,859
+SISKO:
+Heave!
 
 82
-00:06:35,533 --> 00:06:37,002
-Oh, no.
+00:05:58,859 --> 00:05:59,776
+(<i> all groaning</i> )
 
 83
-00:06:37,036 --> 00:06:38,801
-What?
+00:05:59,776 --> 00:06:01,736
+One more, now--
+heave!
 
 84
-00:06:38,841 --> 00:06:40,572
-I don't believe it.
+00:06:01,736 --> 00:06:05,782
+(<i> all sighing and panting</i> )
 
 85
-00:06:40,678 --> 00:06:41,703
-What?
+00:06:14,582 --> 00:06:17,836
+All right, how is she?
 
 86
-00:06:41,748 --> 00:06:44,380
-I tore my pants.
+00:06:17,836 --> 00:06:20,047
+She's stable for now.
 
 87
-00:06:44,420 --> 00:06:48,487
-You... you tore your pants.
+00:06:20,047 --> 00:06:22,590
+Garak! I need a hand.
 
 88
-00:06:51,304 --> 00:06:53,035
-Yeah, I tore my pants.
+00:06:36,063 --> 00:06:37,731
+Oh, no.
 
 89
-00:06:59,691 --> 00:07:01,183
-I guess...
+00:06:37,731 --> 00:06:39,524
+What?
 
 90
-00:07:01,228 --> 00:07:03,495
+00:06:39,524 --> 00:06:41,151
+I don't believe it.
+
+91
+00:06:41,151 --> 00:06:42,443
+What?
+
+92
+00:06:42,443 --> 00:06:45,072
+I tore my pants.
+
+93
+00:06:45,072 --> 00:06:49,034
+You... you tore your pants.
+
+94
+00:06:51,953 --> 00:06:53,705
+Yeah, I tore my pants.
+
+95
+00:06:53,705 --> 00:06:55,707
+(<i> chuckling</i> )
+
+96
+00:07:00,212 --> 00:07:01,755
+(<i> laughing</i> ):
+I guess...
+
+97
+00:07:01,755 --> 00:07:04,007
 I guess I'm really
 in trouble now, huh?
 
-91
-00:07:18,507 --> 00:07:21,571
+98
+00:07:04,007 --> 00:07:05,759
+(<i> all laughing</i> )
+
+99
+00:07:19,522 --> 00:07:22,483
+COMPUTER:
 The time is 0500 hours.
 
-92
-00:08:07,492 --> 00:08:08,984
+100
+00:07:33,578 --> 00:07:34,662
+(<i> call button beeps</i> )
+
+101
+00:08:08,488 --> 00:08:09,864
 Thank you, Mavek.
 
-93
-00:08:14,441 --> 00:08:19,249
+102
+00:08:15,329 --> 00:08:17,622
+VORTA:
 This must be
+
+103
+00:08:17,622 --> 00:08:20,459
 quite gratifying for you
 
-94
-00:08:19,353 --> 00:08:23,796
+104
+00:08:20,459 --> 00:08:24,796
 but I've decided not to give you
 the pleasure of watching me die
 
-95
-00:08:23,830 --> 00:08:25,926
+105
+00:08:24,796 --> 00:08:26,756
 in this foul-smelling cavern.
 
-96
-00:08:27,506 --> 00:08:29,374
+106
+00:08:28,467 --> 00:08:30,344
 I intend to live.
 
-97
-00:08:29,410 --> 00:08:31,073
+107
+00:08:30,344 --> 00:08:31,886
 I understand.
 
-98
-00:08:34,155 --> 00:08:36,855
+108
+00:08:34,973 --> 00:08:37,725
 How long until we've
 reestablished communications?
 
-99
-00:08:36,895 --> 00:08:41,031
+109
+00:08:37,725 --> 00:08:41,980
 Seventh Yak'Talon estimates that
 it will take at least ten days
 
-100
-00:08:41,071 --> 00:08:43,304
+110
+00:08:41,980 --> 00:08:44,149
 before we can attempt
 a low-power test.
 
-101
-00:08:43,411 --> 00:08:45,473
+111
+00:08:44,149 --> 00:08:46,485
 Ten days.
 
-102
-00:08:49,558 --> 00:08:51,688
+112
+00:08:47,527 --> 00:08:48,611
+(<i> coughs</i> )
+
+113
+00:08:50,489 --> 00:08:52,699
 It is time for the white.
 
-103
-00:09:20,032 --> 00:09:22,333
+114
+00:08:54,826 --> 00:08:55,910
+(<i> groans</i> )
+
+115
+00:09:20,852 --> 00:09:23,438
 Third Remata'Klan...
 
-104
-00:09:22,437 --> 00:09:25,137
+116
+00:09:23,438 --> 00:09:25,899
 can you vouch
 for the loyalty of your men?
 
-105
-00:09:27,416 --> 00:09:30,218
+117
+00:09:28,485 --> 00:09:30,945
 We pledge our loyalty
 to the Founders
 
-106
-00:09:30,256 --> 00:09:31,953
+118
+00:09:30,945 --> 00:09:32,697
 from now until death.
 
-107
-00:09:33,464 --> 00:09:37,839
+119
+00:09:34,533 --> 00:09:38,578
 Then receive this reward
 from the Founders.
 
-108
-00:09:39,879 --> 00:09:42,282
-May it keep you strong.
-
-109
-00:09:43,588 --> 00:09:44,989
-Only one?
-
-110
-00:09:45,025 --> 00:09:47,657
-Keep your place.
-
-111
-00:09:49,803 --> 00:09:53,676
-This case of white must last
-until we're rescued...
-
-112
-00:09:53,712 --> 00:09:55,045
-at least ten days
-
-113
-00:09:55,082 --> 00:09:56,551
-possibly more.
-
-114
-00:09:56,586 --> 00:09:59,218
-I will ration the supply.
-
-115
-00:10:00,696 --> 00:10:02,530
-Don't worry.
-
-116
-00:10:02,566 --> 00:10:04,935
-I am the Vorta.
-
-117
-00:10:04,973 --> 00:10:08,037
-I will take care of you all.
-
-118
-00:10:19,006 --> 00:10:22,070
-Lucky for you,
-it ripped on the seam.
-
-119
-00:10:22,114 --> 00:10:23,708
-Can you fix it?
-
 120
-00:10:23,751 --> 00:10:24,879
-Unlucky for you
+00:09:40,621 --> 00:09:42,999
+May it keep
+you strong.
 
 121
-00:10:24,921 --> 00:10:26,949
+00:09:44,459 --> 00:09:45,919
+Only one?
+
+122
+00:09:45,919 --> 00:09:48,588
+Keep your place.
+
+123
+00:09:50,715 --> 00:09:54,553
+This case of white must last
+until we're rescued--
+
+124
+00:09:54,553 --> 00:09:55,887
+at least ten days
+
+125
+00:09:55,887 --> 00:09:57,305
+possibly more.
+
+126
+00:09:57,305 --> 00:09:59,933
+I will ration
+the supply.
+
+127
+00:10:01,309 --> 00:10:03,437
+Don't worry.
+
+128
+00:10:03,437 --> 00:10:05,813
+I am the Vorta.
+
+129
+00:10:05,813 --> 00:10:08,733
+I will take care of you all.
+
+130
+00:10:12,737 --> 00:10:14,655
+(<i> coughs weakly</i> )
+
+131
+00:10:19,827 --> 00:10:22,956
+GARAK:
+Lucky for you, it
+ripped on the seam.
+
+132
+00:10:22,956 --> 00:10:24,249
+Can you fix it?
+
+133
+00:10:24,249 --> 00:10:25,625
+Unlucky for you
+
+134
+00:10:25,625 --> 00:10:27,668
 my sewing kit went
 down with the ship.
 
-122
-00:10:26,992 --> 00:10:28,826
+135
+00:10:27,668 --> 00:10:29,712
+WOMAN:
 Maybe someone could go get it.
 
-123
-00:10:28,863 --> 00:10:31,461
+136
+00:10:29,712 --> 00:10:32,382
 The ship's only about 500
 meters below the surface.
 
-124
-00:10:31,503 --> 00:10:33,371
+137
+00:10:32,382 --> 00:10:34,092
+O'BRIEN:
 How long can you hold
 your breath, Cadet?
 
-125
-00:10:33,408 --> 00:10:38,786
-Madame, your pants are ready.
+138
+00:10:34,092 --> 00:10:39,764
+Madame, your pants
+are ready.
 
-126
-00:10:38,820 --> 00:10:41,850
+139
+00:10:39,764 --> 00:10:42,350
 Your boots and vest will
 take a little longer.
 
-127
-00:10:41,894 --> 00:10:42,862
+140
+00:10:42,350 --> 00:10:43,560
 While you wait
 
-128
-00:10:42,897 --> 00:10:44,868
-I might suggest that you browse
+141
+00:10:43,560 --> 00:10:45,520
+I might suggest
+that you browse
 
-129
-00:10:44,902 --> 00:10:46,873
-through the hotel's gift shop.
+142
+00:10:45,520 --> 00:10:47,730
+through the hotel's
+gift shop.
 
-130
-00:10:46,906 --> 00:10:49,811
+143
+00:10:47,730 --> 00:10:50,609
 No, thank you
 
-131
-00:10:49,847 --> 00:10:53,880
+144
+00:10:50,609 --> 00:10:54,695
 but I would like
 to lodge a complaint.
 
-132
-00:10:53,923 --> 00:10:54,948
+145
+00:10:54,695 --> 00:10:55,738
 Hmm?
 
-133
-00:10:54,993 --> 00:10:57,260
-This bed is as hard as a rock.
+146
+00:10:55,738 --> 00:10:57,949
+This bed is
+as hard as a rock.
 
-134
-00:10:57,298 --> 00:11:00,294
-I will make note of that.
+147
+00:10:57,949 --> 00:11:00,952
+I will make
+note of that.
 
-135
-00:11:00,338 --> 00:11:01,830
+148
+00:11:00,952 --> 00:11:02,662
 What's the prognosis?
 
-136
-00:11:01,875 --> 00:11:02,843
+149
+00:11:02,662 --> 00:11:03,622
 Guarded, but good.
 
-137
-00:11:02,878 --> 00:11:04,074
+150
+00:11:03,622 --> 00:11:04,998
 The bleeding's stopped
 
-138
-00:11:04,114 --> 00:11:06,517
+151
+00:11:04,998 --> 00:11:07,292
 and I've repaired all
 the internal injuries.
 
-139
-00:11:06,587 --> 00:11:10,392
-The damage to the symbiont
-is a little harder to diagnose.
+152
+00:11:07,292 --> 00:11:09,210
+The damage
+to the symbiont
 
-140
-00:11:10,429 --> 00:11:11,419
+153
+00:11:09,210 --> 00:11:10,753
+is a little harder
+to diagnose.
+
+154
+00:11:10,753 --> 00:11:12,255
 Given enough rest
 
-141
-00:11:11,466 --> 00:11:13,960
+155
+00:11:12,255 --> 00:11:14,841
 I think they'll both
 make a full recovery.
 
-142
-00:11:14,004 --> 00:11:18,880
+156
+00:11:14,841 --> 00:11:19,638
 In other words, I'm going to be
 staring at this cave ceiling
 
-143
-00:11:18,916 --> 00:11:20,681
-for the rest of my stay.
+157
+00:11:19,638 --> 00:11:21,473
+for the rest
+of my stay.
 
-144
-00:11:20,721 --> 00:11:24,127
-Lucky for you, they have
-24-hour room service.
+158
+00:11:21,473 --> 00:11:24,851
+Lucky for you,
+they have 24-hour
+room service.
 
-145
-00:11:28,038 --> 00:11:32,709
-I will get you out of here,
-old man, I promise.
+159
+00:11:24,851 --> 00:11:27,604
+(<i> giggles, then gasps in pain)</i>
 
-146
-00:11:32,749 --> 00:11:35,985
+160
+00:11:28,729 --> 00:11:29,981
+I will get you
+
+161
+00:11:29,981 --> 00:11:33,276
+out of here, old man, I promise.
+
+162
+00:11:33,276 --> 00:11:36,571
 I'm going to hold you
 to that one, Benjamin.
 
-147
-00:11:54,535 --> 00:11:55,868
+163
+00:11:37,947 --> 00:11:39,698
+(<i> tricorders beeping softly</i> )
+
+164
+00:11:55,173 --> 00:11:56,508
 What are you doing?
 
-148
-00:11:55,905 --> 00:11:57,340
+165
+00:11:56,508 --> 00:11:58,259
 Following orders.
 
-149
-00:11:57,375 --> 00:12:00,212
+166
+00:11:58,259 --> 00:12:00,845
 Captain told us to scan the area
-for fresh water and vegetation...
+for fresh water and vegetation--
 
-150
-00:12:00,249 --> 00:12:02,584
-You know precisely what I mean.
+167
+00:12:00,845 --> 00:12:02,263
+You know precisely
 
-151
-00:12:02,654 --> 00:12:04,146
+168
+00:12:02,263 --> 00:12:03,598
+what I mean.
+
+169
+00:12:03,598 --> 00:12:04,807
 You're deliberately
 staying behind me
 
-152
-00:12:04,191 --> 00:12:05,820
-and I want to know why.
+170
+00:12:04,807 --> 00:12:06,560
+and I want
+to know why.
 
-153
-00:12:07,065 --> 00:12:08,466
+171
+00:12:07,561 --> 00:12:09,312
 Does this have anything to do
 
-154
-00:12:08,501 --> 00:12:11,474
+172
+00:12:09,312 --> 00:12:12,148
 with that unfortunate business
 between you and me last year?
 
-155
-00:12:11,509 --> 00:12:13,605
+173
+00:12:12,148 --> 00:12:14,192
 You tied me up
 and threatened to kill me.
 
-156
-00:12:13,681 --> 00:12:15,879
+174
+00:12:14,192 --> 00:12:16,570
 There were extenuating
 circumstances.
 
-157
-00:12:15,920 --> 00:12:17,116
+175
+00:12:16,570 --> 00:12:18,238
 It happened.
 
-158
-00:12:17,156 --> 00:12:21,189
+176
+00:12:18,238 --> 00:12:21,824
 So you can either stay in front
 of me or walk beside me
 
-159
-00:12:21,232 --> 00:12:23,203
+177
+00:12:21,824 --> 00:12:23,702
 but I won't turn my back
 on you again.
 
-160
-00:12:24,407 --> 00:12:28,349
+178
+00:12:24,952 --> 00:12:28,831
 Cadet, there may be
 hope for you yet.
 
-161
-00:12:32,559 --> 00:12:33,527
+179
+00:12:30,958 --> 00:12:33,002
+(<i> beeping loudly</i> )
+
+180
+00:12:33,002 --> 00:12:34,128
 What is it?
 
-162
-00:12:33,562 --> 00:12:34,552
-I'm not sure, but...
+181
+00:12:34,128 --> 00:12:35,255
+I'm not sure, but--
 
-163
-00:12:38,908 --> 00:12:41,506
+182
+00:12:39,467 --> 00:12:41,969
 Now I'm sure.
 
-164
-00:12:47,065 --> 00:12:49,697
+183
+00:12:47,141 --> 00:12:49,810
 How many others
 are there in your unit?
 
-165
-00:12:49,738 --> 00:12:50,934
-Nog...
+184
+00:12:49,810 --> 00:12:51,521
+Nog--
 
-166
-00:12:50,975 --> 00:12:54,575
+185
+00:12:51,521 --> 00:12:55,275
 Cadet Third Class,
-serial number C X-937...
+serial number CX-937--
 
-167
-00:12:54,617 --> 00:12:55,813
+186
+00:12:55,275 --> 00:12:56,317
 Shut up.
 
-168
-00:12:57,324 --> 00:12:59,488
+187
+00:12:58,027 --> 00:13:00,196
 As I tried to explain
 to your men
 
-169
-00:12:59,529 --> 00:13:01,796
+188
+00:13:00,196 --> 00:13:02,365
 my name is Kamar,
 and I'm a member
 
-170
-00:13:01,834 --> 00:13:04,101
+189
+00:13:02,365 --> 00:13:04,618
 of the Cardassian
-Intelligence Bureau...
+Intelligence Bureau--
 
-171
-00:13:04,139 --> 00:13:06,576
+190
+00:13:04,618 --> 00:13:07,203
 what used to be called
 the Obsidian Order.
 
-172
-00:13:06,613 --> 00:13:09,016
+191
+00:13:07,203 --> 00:13:09,623
 A week ago, as I was
 performing my duties
 
-173
-00:13:09,051 --> 00:13:11,488
+192
+00:13:09,623 --> 00:13:12,041
 in the glorious service
 of the Founders
 
-174
-00:13:11,525 --> 00:13:13,689
+193
+00:13:12,041 --> 00:13:14,043
 I was captured
-by the USS <i>Centaur.</i>
+by the USS<i> Centaur.</i>
 
-175
-00:13:13,730 --> 00:13:14,960
+194
+00:13:14,043 --> 00:13:15,503
 I was held aboard
 
-176
-00:13:14,999 --> 00:13:16,628
+195
+00:13:15,503 --> 00:13:17,297
 one of their shuttles
-when we were forced...
+when we were forced--
 
-177
-00:13:16,670 --> 00:13:18,903
-Excuse me, Mr. Kamar...
+196
+00:13:17,297 --> 00:13:19,424
+Excuse me, Mr. Kamar--
 
-178
-00:13:18,942 --> 00:13:21,972
-if that's really your name...
+197
+00:13:19,424 --> 00:13:22,510
+if that's really your name--
 
-179
-00:13:22,016 --> 00:13:27,894
+198
+00:13:22,510 --> 00:13:28,349
 but if you're one of our allies,
 why were you wearing this?
 
-180
-00:13:29,534 --> 00:13:31,060
+199
+00:13:30,101 --> 00:13:31,770
 Ah.
 
-181
-00:13:31,104 --> 00:13:35,410
+200
+00:13:31,770 --> 00:13:35,940
 I was hoping you weren't going
 to ask me about that.
 
-182
-00:13:35,448 --> 00:13:38,546
+201
+00:13:35,940 --> 00:13:39,193
 I only have one
 further question for you.
 
-183
-00:13:40,427 --> 00:13:42,762
+202
+00:13:41,028 --> 00:13:43,197
 Is there a doctor in your unit?
 
-184
-00:13:45,372 --> 00:13:46,340
+203
+00:13:45,700 --> 00:13:46,951
 Yes.
 
-185
-00:13:46,407 --> 00:13:48,036
+204
+00:13:46,951 --> 00:13:48,495
 Garak!
 
-186
-00:13:48,079 --> 00:13:51,052
+205
+00:13:48,495 --> 00:13:51,665
 Don't be too hard on him,
 young man.
 
-187
-00:13:51,086 --> 00:13:53,182
+206
+00:13:51,665 --> 00:13:53,792
 He just saved your life.
 
-188
-00:13:56,098 --> 00:13:58,194
+207
+00:13:56,628 --> 00:13:58,797
 Take them to a secure area.
 
-189
-00:14:01,076 --> 00:14:02,602
+208
+00:13:58,797 --> 00:14:01,424
+(<i> breathing shallowly</i> )
+
+209
+00:14:01,424 --> 00:14:03,217
 Third...
 
-190
-00:14:04,918 --> 00:14:06,821
+210
+00:14:05,428 --> 00:14:07,263
 I have a mission for you.
 
-191
-00:14:06,857 --> 00:14:10,093
+211
+00:14:07,263 --> 00:14:10,684
 I want you to find
 the Starfleet unit
 
-192
-00:14:10,132 --> 00:14:13,698
+212
+00:14:10,684 --> 00:14:14,228
 but do not engage them.
 
-193
-00:14:13,740 --> 00:14:15,643
+213
+00:14:14,228 --> 00:14:16,272
 Locate them...
 
-194
-00:14:15,678 --> 00:14:19,780
+214
+00:14:16,272 --> 00:14:20,318
 assess their strength
 and then report back to me.
 
-195
-00:14:19,821 --> 00:14:21,621
+215
+00:14:20,318 --> 00:14:22,111
 I understand.
 
-196
-00:14:21,659 --> 00:14:24,655
+216
+00:14:22,111 --> 00:14:25,156
 No, you don't.
 
-197
-00:14:24,700 --> 00:14:26,363
+217
+00:14:25,156 --> 00:14:27,033
 But that's all right.
 
-198
-00:14:26,470 --> 00:14:29,307
+218
+00:14:27,033 --> 00:14:29,994
 It's not important
-that you understand...
+that you understand--
 
-199
-00:14:29,343 --> 00:14:33,148
+219
+00:14:29,994 --> 00:14:33,665
 only that you carry out
 my instructions precisely.
 
-200
-00:14:33,187 --> 00:14:35,716
+220
+00:14:33,665 --> 00:14:36,083
 Obedience brings victory.
 
-201
-00:14:36,995 --> 00:14:39,125
+221
+00:14:37,460 --> 00:14:39,420
 Yes...
 
-202
-00:14:39,167 --> 00:14:41,035
+222
+00:14:39,420 --> 00:14:41,381
 yes, it does.
 
-203
-00:14:42,876 --> 00:14:44,175
+223
+00:14:43,341 --> 00:14:44,509
 Go.
 
-204
-00:14:52,433 --> 00:14:55,201
+224
+00:14:52,767 --> 00:14:54,935
+JAKE:
 I understand
 that a decision's been made
 
-205
-00:14:55,240 --> 00:14:58,270
+225
+00:14:54,935 --> 00:14:58,981
 to send 4,000 Dominion
 facilitators down to Bajor.
 
-206
-00:14:58,313 --> 00:15:00,181
+226
+00:14:58,981 --> 00:15:00,608
 Would you care to elaborate?
 
-207
-00:15:00,218 --> 00:15:02,918
-It's only 400,
-and how did you hear about that?
+227
+00:15:00,608 --> 00:15:03,403
+It's only 400, and how
+did you hear about that?
 
-208
-00:15:02,957 --> 00:15:06,193
+228
+00:15:03,403 --> 00:15:05,071
 The official announcement
-isn't scheduled until tomorrow.
 
-209
-00:15:06,232 --> 00:15:07,326
+229
+00:15:05,071 --> 00:15:06,447
+isn't scheduled
+until tomorrow.
+
+230
+00:15:06,447 --> 00:15:07,574
 I hear things.
 
-210
-00:15:07,369 --> 00:15:08,668
-So could you elaborate?
+231
+00:15:07,574 --> 00:15:09,200
+So could you
+elaborate?
 
-211
-00:15:08,704 --> 00:15:10,834
+232
+00:15:09,200 --> 00:15:11,244
 My readers want to know
 what's going on.
 
-212
-00:15:10,876 --> 00:15:12,402
+233
+00:15:11,244 --> 00:15:12,953
 You don't have any readers.
 
-213
-00:15:12,481 --> 00:15:13,882
+234
+00:15:12,953 --> 00:15:14,330
 Weyoun is still blocking
 
-214
-00:15:13,918 --> 00:15:16,516
+235
+00:15:14,330 --> 00:15:17,124
 the transmission
 of your stories.
 
-215
-00:15:16,557 --> 00:15:18,721
+236
+00:15:17,124 --> 00:15:19,126
 For now, but what
 if he changes his mind?
 
-216
-00:15:18,762 --> 00:15:20,129
+237
+00:15:19,126 --> 00:15:20,545
 Don't you want to explain
 
-217
-00:15:20,165 --> 00:15:23,161
+238
+00:15:20,545 --> 00:15:23,464
 what's going on here
 to the outside world?
 
-218
-00:15:25,077 --> 00:15:28,848
-Ever since the war started,
-Bajor's been completely cut off
+239
+00:15:25,383 --> 00:15:27,218
+Ever since
+the war started
 
-219
-00:15:28,887 --> 00:15:30,288
+240
+00:15:27,218 --> 00:15:29,262
+Bajor's been
+completely cut off
+
+241
+00:15:29,262 --> 00:15:30,764
 from all outside trade.
 
-220
-00:15:30,324 --> 00:15:31,953
+242
+00:15:30,764 --> 00:15:32,515
 We've had nowhere to turn
 
-221
-00:15:31,994 --> 00:15:36,027
+243
+00:15:32,515 --> 00:15:36,436
 for things like spare parts
-or medical supplies, nowhere...
+or medical supplies, nowhere--
 
-222
-00:15:36,071 --> 00:15:38,099
+244
+00:15:36,436 --> 00:15:38,479
 except the Dominion.
 
-223
-00:15:38,142 --> 00:15:42,312
+245
+00:15:38,479 --> 00:15:42,567
 So a group of facilitators is
 going to Bajor for a few months
 
-224
-00:15:42,352 --> 00:15:44,380
+246
+00:15:42,567 --> 00:15:44,903
 to provide
-some technical assistance.
+some technical
+assistance.
 
-225
-00:15:44,423 --> 00:15:46,987
+247
+00:15:44,903 --> 00:15:47,405
 How do you respond to critics
 like Vedek Yassim
 
-226
-00:15:47,030 --> 00:15:50,698
+248
+00:15:47,405 --> 00:15:51,075
 who say that by welcoming
 a group of Vorta to Bajor
 
-227
-00:15:50,739 --> 00:15:53,735
-you're taking the first step
-towards Dominion occupation?
+249
+00:15:51,075 --> 00:15:52,619
+you're taking
+the first step
 
-228
-00:15:53,779 --> 00:15:55,009
+250
+00:15:52,619 --> 00:15:54,120
+towards Dominion
+occupation?
+
+251
+00:15:54,120 --> 00:15:55,371
 I have been assured
 
-229
-00:15:55,049 --> 00:15:57,247
+252
+00:15:55,371 --> 00:15:57,498
 that the facilitators
 will be unarmed
 
-230
-00:15:57,288 --> 00:16:00,159
+253
+00:15:57,498 --> 00:16:00,376
 and unaccompanied
 by any Jem'Hadar soldiers.
 
-231
-00:16:01,464 --> 00:16:03,731
+254
+00:16:01,961 --> 00:16:04,213
 Odo, do you have any concerns
 
-232
-00:16:03,770 --> 00:16:07,974
+255
+00:16:04,213 --> 00:16:08,259
 that by joining the Ruling
 Council here on the station
 
-233
-00:16:08,013 --> 00:16:10,577
+256
+00:16:08,259 --> 00:16:10,845
 you're validating
 the occupation?
 
-234
-00:16:10,620 --> 00:16:13,388
+257
+00:16:10,845 --> 00:16:13,807
 The Dominion doesn't need
 my validation.
 
-235
-00:16:13,427 --> 00:16:16,161
-They're here,
-and they're not leaving...
+258
+00:16:13,807 --> 00:16:16,517
+They're here, and
+they're not leaving--
 
-236
-00:16:16,200 --> 00:16:18,262
-not without a fight, at least.
+259
+00:16:16,517 --> 00:16:18,645
+not without a fight,
+at least.
 
-237
-00:16:18,305 --> 00:16:19,467
+260
+00:16:18,645 --> 00:16:19,687
 Are you finished?
 
-238
-00:16:19,507 --> 00:16:21,136
+261
+00:16:19,687 --> 00:16:21,481
 Almost, almost.
 
-239
-00:16:21,179 --> 00:16:24,779
-Will either of you be attending
-the demonstration tomorrow?
+262
+00:16:21,481 --> 00:16:23,399
+Will either of you
+be attending
 
-240
-00:16:26,191 --> 00:16:27,524
+263
+00:16:23,399 --> 00:16:25,192
+the demonstration
+tomorrow?
+
+264
+00:16:26,486 --> 00:16:27,862
 The what?
 
-241
-00:16:27,594 --> 00:16:30,533
+265
+00:16:27,862 --> 00:16:31,115
 Vedek Yassim has organized
 a demonstration
 
-242
-00:16:30,634 --> 00:16:33,128
+266
+00:16:31,115 --> 00:16:33,493
 on the Promenade
 tomorrow afternoon
 
-243
-00:16:33,173 --> 00:16:36,807
-to protest the Dominion
-occupation of the station.
+267
+00:16:33,493 --> 00:16:35,745
+to protest
+the Dominion occupation
 
-244
-00:16:36,850 --> 00:16:39,652
+268
+00:16:35,745 --> 00:16:37,079
+of the station.
+
+269
+00:16:37,079 --> 00:16:39,874
 That's all the excuse
 Dukat will need
 
-245
-00:16:39,690 --> 00:16:42,059
-to order
-a new security crackdown.
+270
+00:16:39,874 --> 00:16:42,084
+to order a new
+security crackdown.
 
-246
-00:16:42,095 --> 00:16:43,530
+271
+00:16:42,084 --> 00:16:43,711
 I'll talk to Yassim.
 
-247
-00:16:43,565 --> 00:16:47,165
+272
+00:16:43,711 --> 00:16:47,548
 So, you're going to abolish
 the right to protest
 
-248
-00:16:47,207 --> 00:16:48,506
+273
+00:16:47,548 --> 00:16:48,675
 here on the station?
 
-249
-00:16:49,546 --> 00:16:50,879
+274
+00:16:49,592 --> 00:16:51,135
 Hey, I'm not trying
 
-250
-00:16:50,916 --> 00:16:53,514
+275
+00:16:51,135 --> 00:16:53,638
 to accuse you personally
 of anything.
 
-251
-00:16:53,556 --> 00:16:55,823
+276
+00:16:53,638 --> 00:16:56,140
 I'm just asking questions.
 
-252
-00:16:55,861 --> 00:16:58,230
+277
+00:16:56,140 --> 00:16:57,517
 I think this interview
+
+278
+00:16:57,517 --> 00:16:58,518
 is over.
 
-253
-00:16:58,268 --> 00:17:00,171
+279
+00:16:58,518 --> 00:17:00,311
 I couldn't agree more.
 
-254
-00:17:04,850 --> 00:17:07,185
-Wrong question, Jake.
+280
+00:17:02,438 --> 00:17:03,731
+(<i> sighs</i> )
 
-255
-00:17:09,394 --> 00:17:11,490
+281
+00:17:05,024 --> 00:17:07,318
+Wrong question,
+Jake.
+
+282
+00:17:09,570 --> 00:17:11,906
+O'BRIEN:
 I might be able to hard-wire
 
-256
-00:17:11,532 --> 00:17:14,026
+283
+00:17:11,906 --> 00:17:14,325
 one of our combadges
 into this sensor array.
 
-257
-00:17:14,072 --> 00:17:15,302
+284
+00:17:14,325 --> 00:17:15,576
 That would give us
 
-258
-00:17:15,341 --> 00:17:17,437
-a crude transmitter
+285
+00:17:15,576 --> 00:17:17,829
+a crude transmitter,
 but no power source.
 
-259
-00:17:17,480 --> 00:17:19,781
+286
+00:17:17,829 --> 00:17:20,247
 What about draining
 one of our phasers?
 
-260
-00:17:19,819 --> 00:17:22,188
+287
+00:17:20,247 --> 00:17:22,416
 I thought about that,
 but I need a converter
 
-261
-00:17:22,225 --> 00:17:25,461
+288
+00:17:22,416 --> 00:17:25,920
 to bridge the two power cells,
 and I can't build a converter
 
-262
-00:17:25,500 --> 00:17:27,060
+289
+00:17:25,920 --> 00:17:27,296
 without an ion-exchange
 matrix.
 
-263
-00:17:27,103 --> 00:17:28,937
+290
+00:17:27,296 --> 00:17:29,131
 Captain, I think
 we may have a problem.
 
-264
-00:17:28,975 --> 00:17:30,740
+291
+00:17:29,131 --> 00:17:31,133
 Garak and Nog
 haven't reported in yet
 
-265
-00:17:30,778 --> 00:17:32,475
+292
+00:17:31,133 --> 00:17:32,593
 and they're not
 answering my hails.
 
-266
-00:18:00,309 --> 00:18:04,581
+293
+00:18:00,496 --> 00:18:04,876
 Captain, there's a group
 of life-forms up in the cliffs.
 
-267
-00:18:04,653 --> 00:18:06,920
+294
+00:18:04,876 --> 00:18:07,086
 Range 75 meters,
 elevation 30 meters.
 
-268
-00:18:06,959 --> 00:18:08,588
+295
+00:18:07,086 --> 00:18:08,880
+SISKO:
 That's where I'd be.
 
-269
-00:18:08,696 --> 00:18:10,826
+296
+00:18:08,880 --> 00:18:11,090
 Are they Jem'Hadar?
 
-270
-00:18:10,868 --> 00:18:12,599
+297
+00:18:11,090 --> 00:18:12,759
 I think so.
 
-271
-00:18:12,639 --> 00:18:14,735
+298
+00:18:12,759 --> 00:18:15,135
 Well, let's not
 make it easy for them.
 
-272
-00:18:14,778 --> 00:18:18,811
+299
+00:18:15,135 --> 00:18:19,057
 Tell the Chief to head toward
 that large outcropping of rocks
 
-273
-00:18:18,854 --> 00:18:20,118
+300
+00:18:19,057 --> 00:18:20,349
 at ten o'clock.
 
-274
-00:18:20,157 --> 00:18:21,285
+301
+00:18:20,349 --> 00:18:21,434
 Walk, don't run.
 
-275
-00:18:24,835 --> 00:18:26,498
+302
+00:18:24,979 --> 00:18:26,898
+(<i> quietly</i> ):
 Chief...
 
-276
-00:18:26,539 --> 00:18:29,137
+303
+00:18:26,898 --> 00:18:29,191
 we need to make
 for those rocks up ahead.
 
-277
-00:18:42,210 --> 00:18:44,238
+304
+00:18:42,371 --> 00:18:44,290
 I can't take it!
 
-278
-00:19:12,482 --> 00:19:13,815
+305
+00:19:12,110 --> 00:19:13,444
 Terminate fire!
 
-279
-00:19:13,852 --> 00:19:14,877
+306
+00:19:13,444 --> 00:19:14,695
 Terminate!
 
-280
-00:19:16,359 --> 00:19:18,796
+307
+00:19:14,695 --> 00:19:16,238
+(<i> weapons fire continues</i> )
+
+308
+00:19:16,238 --> 00:19:18,449
 You have been ordered
 to stop firing!
 
-281
-00:19:22,006 --> 00:19:23,669
+309
+00:19:21,619 --> 00:19:23,454
 Your orders were clear.
 
-282
-00:19:23,709 --> 00:19:26,078
+310
+00:19:23,454 --> 00:19:25,706
 You were not
 to engage the enemy.
 
-283
-00:19:26,115 --> 00:19:27,311
+311
+00:19:25,706 --> 00:19:26,916
 Who fired first?
 
-284
-00:19:27,351 --> 00:19:28,843
+312
+00:19:26,916 --> 00:19:28,501
 I did.
 
-285
-00:19:28,888 --> 00:19:30,517
+313
+00:19:28,501 --> 00:19:30,169
 You are reduced to Sixth.
 
-286
-00:19:30,559 --> 00:19:31,721
+314
+00:19:30,169 --> 00:19:31,629
 You will shroud
 
-287
-00:19:31,828 --> 00:19:33,696
+315
+00:19:31,629 --> 00:19:33,213
 and return to base camp.
 
-288
-00:19:33,733 --> 00:19:36,501
+316
+00:19:33,213 --> 00:19:36,092
 I am no longer able
 to shroud myself.
 
-289
-00:19:43,457 --> 00:19:44,756
+317
+00:19:36,092 --> 00:19:39,261
+(<i> weapons fire continues</i> )
+
+318
+00:19:42,556 --> 00:19:44,600
 You, you.
 
-290
-00:19:44,859 --> 00:19:47,457
+319
+00:19:44,600 --> 00:19:47,061
 Provide suppression fire
 as we withdraw.
 
-291
-00:19:47,499 --> 00:19:48,489
+320
+00:19:47,061 --> 00:19:48,062
 Understood.
 
-292
-00:19:48,536 --> 00:19:50,564
+321
+00:19:48,062 --> 00:19:50,106
 Withdraw!
 
-293
-00:19:53,681 --> 00:19:55,618
+322
+00:19:53,151 --> 00:19:55,069
 Remata'Klan
 
-294
-00:19:55,653 --> 00:19:57,213
-I regret my disobedience.
+323
+00:19:55,069 --> 00:19:56,612
+I regret my
+disobedience.
 
-295
-00:20:04,707 --> 00:20:06,006
+324
+00:20:04,203 --> 00:20:05,621
 Are they pulling out?
 
-296
-00:20:06,044 --> 00:20:07,103
+325
+00:20:05,621 --> 00:20:06,789
 Looks that way.
 
-297
-00:20:07,147 --> 00:20:08,776
+326
+00:20:06,789 --> 00:20:08,332
 Why aren't they camouflaged?
 
-298
-00:20:08,817 --> 00:20:10,411
+327
+00:20:08,332 --> 00:20:10,084
 That's a good question.
 
-299
-00:20:10,454 --> 00:20:13,860
+328
+00:20:10,084 --> 00:20:13,212
 Let's hope the answer is
 something in our favor.
 
-300
-00:20:16,001 --> 00:20:17,095
+329
+00:20:15,339 --> 00:20:16,465
 Cease fire!
 
-301
-00:20:18,608 --> 00:20:21,206
+330
+00:20:18,009 --> 00:20:20,678
+VORTA:
 Why were my orders disobeyed?
 
-302
-00:20:21,247 --> 00:20:24,049
+331
+00:20:20,678 --> 00:20:23,389
 Lack of white produces
 anxiety among us.
 
-303
-00:20:24,087 --> 00:20:25,386
+332
+00:20:23,389 --> 00:20:25,099
 One man
 
-304
-00:20:25,424 --> 00:20:27,258
+333
+00:20:25,099 --> 00:20:26,809
 could not restrain himself
 when he saw the enemy.
 
-305
-00:20:27,295 --> 00:20:28,263
+334
+00:20:26,809 --> 00:20:27,852
 Which man?
 
-306
-00:20:28,297 --> 00:20:30,097
+335
+00:20:27,852 --> 00:20:29,603
 I have dealt with the matter.
 
-307
-00:20:30,135 --> 00:20:31,866
+336
+00:20:29,603 --> 00:20:31,438
 I asked for his name!
 
-308
-00:20:31,939 --> 00:20:34,274
+337
+00:20:31,438 --> 00:20:33,566
 He is my responsibility.
 
-309
-00:20:34,312 --> 00:20:35,576
+338
+00:20:33,566 --> 00:20:35,109
 His name!
 
-310
-00:20:39,591 --> 00:20:44,125
+339
+00:20:39,238 --> 00:20:43,659
 I may not be First,
 but I am the unit leader.
 
-311
-00:20:44,168 --> 00:20:46,571
+340
+00:20:43,659 --> 00:20:46,079
 You may discipline me.
 
-312
-00:20:46,608 --> 00:20:49,376
-But only I discipline the men.
+341
+00:20:46,079 --> 00:20:48,706
+But only<i> I</i> discipline the men.
 
-313
-00:20:49,415 --> 00:20:51,613
+342
+00:20:48,706 --> 00:20:51,125
 That is the order of things.
 
-314
-00:20:54,694 --> 00:20:57,258
+343
+00:20:54,128 --> 00:20:56,881
 Very well.
 
-315
-00:20:57,300 --> 00:20:59,498
+344
+00:20:56,881 --> 00:20:59,008
 I'll leave him to you.
 
-316
-00:21:00,809 --> 00:21:01,868
+345
+00:21:00,051 --> 00:21:01,177
 Dismissed.
 
-317
-00:21:05,586 --> 00:21:08,286
+346
+00:21:05,014 --> 00:21:07,516
 You've done well, Third.
 
-318
-00:21:08,326 --> 00:21:11,231
+347
+00:21:07,516 --> 00:21:10,519
 You may yet become First.
 
-319
-00:21:12,971 --> 00:21:13,961
+348
+00:21:12,354 --> 00:21:13,439
 Now...
 
-320
-00:21:16,212 --> 00:21:19,049
+349
+00:21:15,608 --> 00:21:18,318
 I have a new task for you.
 
-321
-00:21:23,229 --> 00:21:25,632
+350
+00:21:22,615 --> 00:21:25,201
 The Dominion is evil
 
-322
-00:21:25,668 --> 00:21:29,404
+351
+00:21:25,201 --> 00:21:28,704
 and the Prophets tell us
 that evil must be opposed.
 
-323
-00:21:29,444 --> 00:21:31,677
+352
+00:21:28,704 --> 00:21:31,249
 You'll get no argument
 from me, Vedek
 
-324
-00:21:31,716 --> 00:21:35,589
+353
+00:21:31,249 --> 00:21:35,086
 but protests and demonstrations
 aren't going to change anything.
 
-325
-00:21:35,625 --> 00:21:38,564
+354
+00:21:35,086 --> 00:21:37,964
 They're just going to cause
 trouble for everyone.
 
-326
-00:21:38,599 --> 00:21:41,401
+355
+00:21:37,964 --> 00:21:40,800
 Then what would you have us do
 to oppose the Dominion?
 
-327
-00:21:41,439 --> 00:21:42,772
+356
+00:21:40,800 --> 00:21:41,884
 I...
 
-328
-00:21:44,614 --> 00:21:46,847
+357
+00:21:43,719 --> 00:21:46,013
 I don't think there's anything
 
-329
-00:21:46,886 --> 00:21:49,484
+358
+00:21:46,013 --> 00:21:48,891
 you or the other Vedeks
 can do right now.
 
-330
-00:21:49,525 --> 00:21:51,393
+359
+00:21:48,891 --> 00:21:50,935
 I see.
 
-331
-00:21:51,429 --> 00:21:53,730
+360
+00:21:50,935 --> 00:21:53,229
 Then as a Bajoran
 Liaison Officer
 
-332
-00:21:53,769 --> 00:21:56,263
+361
+00:21:53,229 --> 00:21:55,648
 what will you be doing
 to fight the Dominion?
 
-333
-00:21:56,308 --> 00:21:58,336
+362
+00:21:55,648 --> 00:21:57,566
 Fighting isn't an option.
 
-334
-00:22:00,118 --> 00:22:03,957
+363
+00:21:59,359 --> 00:22:03,363
 This is different than
 the Cardassian occupation.
 
-335
-00:22:04,027 --> 00:22:05,496
+364
+00:22:03,363 --> 00:22:05,032
 Is it?
 
-336
-00:22:05,530 --> 00:22:09,062
+365
+00:22:05,032 --> 00:22:08,327
 The Cardassians are in control
 of the station.
 
-337
-00:22:09,105 --> 00:22:12,978
+366
+00:22:08,327 --> 00:22:12,414
 Bajoran freedoms are being
 curtailed one by one.
 
-338
-00:22:13,049 --> 00:22:14,986
+367
+00:22:12,414 --> 00:22:14,292
 And soon the first wave
 
-339
-00:22:15,053 --> 00:22:18,220
+368
+00:22:14,292 --> 00:22:17,461
 of alien troops will be
 landing on our world.
 
-340
-00:22:18,261 --> 00:22:21,325
+369
+00:22:17,461 --> 00:22:20,798
 We're talking about
 unarmed Vorta facilitators.
 
-341
-00:22:21,368 --> 00:22:24,706
+370
+00:22:20,798 --> 00:22:23,926
 They come in, they do their job
 and they're gone.
 
-342
-00:22:24,743 --> 00:22:27,443
+371
+00:22:23,926 --> 00:22:26,846
 Can't you see
 what is happening to you?
 
-343
-00:22:27,483 --> 00:22:31,585
+372
+00:22:26,846 --> 00:22:30,850
 You're becoming an apologist
 for them, a defender of evil.
 
-344
-00:22:31,626 --> 00:22:35,568
+373
+00:22:30,850 --> 00:22:34,895
 What will it take
 to make you act, Kira?
 
-345
-00:22:35,602 --> 00:22:39,043
+374
+00:22:34,895 --> 00:22:38,398
 To stop accepting them
 and start fighting back?
 
-346
-00:22:39,077 --> 00:22:40,512
+375
+00:22:38,398 --> 00:22:39,525
 Vedek, you...
 
-347
-00:22:42,084 --> 00:22:44,317
+376
+00:22:41,152 --> 00:22:43,321
 you just don't understand.
 
-348
-00:22:48,968 --> 00:22:50,403
+377
+00:22:48,075 --> 00:22:49,702
 You are right.
 
-349
-00:22:50,438 --> 00:22:52,067
+378
+00:22:49,702 --> 00:22:51,537
 I don't.
 
-350
-00:22:53,311 --> 00:22:55,544
+379
+00:22:52,579 --> 00:22:54,498
 Maybe tomorrow...
 
-351
-00:22:55,583 --> 00:22:57,417
+380
+00:22:54,498 --> 00:22:56,750
 we will both understand.
 
-352
-00:23:04,260 --> 00:23:06,527
-We'll set up
-three defensive positions.
+381
+00:23:03,841 --> 00:23:06,219
+We'll set up three
+defensive positions.
 
-353
-00:23:06,600 --> 00:23:08,730
+382
+00:23:06,219 --> 00:23:08,262
 You and Ensign Gordon
 on the south ridge.
 
-354
-00:23:08,772 --> 00:23:10,868
+383
+00:23:08,262 --> 00:23:10,681
 Lieutenant Neeley
 near the lava tube.
 
-355
-00:23:10,910 --> 00:23:13,474
-Bashir and I are in the dunes.
+384
+00:23:10,681 --> 00:23:13,934
+Bashir and I are
+in the dunes.
 
-356
-00:23:14,485 --> 00:23:16,547
+385
+00:23:13,934 --> 00:23:16,103
 I'll stay here
 and guard my clothes.
 
-357
-00:23:16,590 --> 00:23:17,923
+386
+00:23:16,103 --> 00:23:17,313
+(<i> on communicator</i> )
 Neeley to Captain Sisko.
 
-358
-00:23:17,960 --> 00:23:19,224
+387
+00:23:17,313 --> 00:23:19,023
 Go ahead.
 
-359
-00:23:19,263 --> 00:23:22,430
+388
+00:23:19,023 --> 00:23:22,026
 A Jem'Hadar soldier has just
 approached my position, sir.
 
-360
-00:23:22,471 --> 00:23:25,273
+389
+00:23:22,026 --> 00:23:24,904
 He says he wants
 to talk to you... alone.
 
-361
-00:23:43,655 --> 00:23:45,523
+390
+00:23:43,089 --> 00:23:44,924
+NEELEY:
 Sir?
 
-362
-00:23:53,312 --> 00:23:55,408
-I'm Captain Benjamin Sisko.
+391
+00:23:52,806 --> 00:23:54,934
+I'm Captain
+Benjamin Sisko.
 
-363
-00:23:55,450 --> 00:23:56,976
+392
+00:23:54,934 --> 00:23:56,394
 Third Remata'Klan.
 
-364
-00:23:57,020 --> 00:24:01,019
+393
+00:23:56,394 --> 00:23:58,271
 Two members of your unit
-are being held at our base camp.
 
-365
-00:24:01,064 --> 00:24:04,094
-We'll exchange them
-for you and your doctor.
+394
+00:23:58,271 --> 00:24:00,606
+are being held
+at our base camp.
 
-366
-00:24:04,137 --> 00:24:05,937
+395
+00:24:00,606 --> 00:24:03,692
+We'll exchange them for
+you and your doctor.
+
+396
+00:24:03,692 --> 00:24:05,611
 Why do you need a doctor?
 
-367
-00:24:05,975 --> 00:24:08,242
+397
+00:24:05,611 --> 00:24:07,571
 The Vorta has been
 severely wounded.
 
-368
-00:24:08,281 --> 00:24:09,511
+398
+00:24:07,571 --> 00:24:08,948
 And why me?
 
-369
-00:24:09,551 --> 00:24:11,715
+399
+00:24:08,948 --> 00:24:11,284
 The Vorta wishes
 to speak with you.
 
-370
-00:24:11,756 --> 00:24:13,750
+400
+00:24:11,284 --> 00:24:12,868
 Sounds like he wants to trade
 
-371
-00:24:13,793 --> 00:24:16,925
+401
+00:24:12,868 --> 00:24:16,663
 two low-ranking prisoners
 for two more valuable ones.
 
-372
-00:24:16,968 --> 00:24:19,064
-Would you make a deal like that?
+402
+00:24:16,663 --> 00:24:18,416
+Would you make
+a deal like that?
 
-373
-00:24:19,107 --> 00:24:20,097
+403
+00:24:18,416 --> 00:24:19,457
 No.
 
-374
-00:24:20,142 --> 00:24:21,771
+404
+00:24:19,457 --> 00:24:21,252
 Then why should I?
 
-375
-00:24:21,813 --> 00:24:23,077
+405
+00:24:21,252 --> 00:24:22,753
 You shouldn't.
 
-376
-00:24:23,116 --> 00:24:26,955
+406
+00:24:22,753 --> 00:24:26,590
 You're not a very good
 negotiator, are you?
 
-377
-00:24:26,992 --> 00:24:29,486
-I was not sent to negotiate.
+407
+00:24:26,590 --> 00:24:28,926
+I was not sent
+to negotiate.
 
-378
-00:24:29,531 --> 00:24:33,370
+408
+00:24:28,926 --> 00:24:32,930
 I was instructed only
 to deliver the terms.
 
-379
-00:24:33,408 --> 00:24:34,604
+409
+00:24:32,930 --> 00:24:34,014
 I see.
 
-380
-00:24:34,644 --> 00:24:38,210
+410
+00:24:34,014 --> 00:24:35,682
 Well, then, I want to talk
-to someone who can negotiate.
 
-381
-00:24:38,253 --> 00:24:40,349
-I want to speak with your First.
+411
+00:24:35,682 --> 00:24:37,726
+to someone
+who<i> can</i> negotiate.
 
-382
-00:24:40,391 --> 00:24:42,362
+412
+00:24:37,726 --> 00:24:40,020
+I want to speak
+with your First.
+
+413
+00:24:40,020 --> 00:24:41,981
 There is no First.
 
-383
-00:24:42,395 --> 00:24:44,696
-I take it
-there's no Second either.
+414
+00:24:41,981 --> 00:24:44,358
+I take it there's
+no Second either.
 
-384
-00:24:44,735 --> 00:24:46,204
+415
+00:24:44,358 --> 00:24:45,901
 I command the unit.
 
-385
-00:24:46,238 --> 00:24:47,673
+416
+00:24:45,901 --> 00:24:47,153
 Under the Vorta.
 
-386
-00:24:51,551 --> 00:24:53,954
+417
+00:24:51,157 --> 00:24:53,491
 It must be hard...
 
-387
-00:24:53,990 --> 00:24:58,057
+418
+00:24:53,491 --> 00:24:57,704
 for a soldier
 to take orders from a Vorta.
 
-388
-00:24:58,099 --> 00:25:00,663
+419
+00:24:57,704 --> 00:25:00,291
 The Vorta command the Jem'Hadar.
 
-389
-00:25:00,706 --> 00:25:02,973
+420
+00:25:00,291 --> 00:25:02,626
 That is the order of things.
 
-390
-00:25:03,011 --> 00:25:05,107
+421
+00:25:02,626 --> 00:25:05,754
 Obedience brings victory.
 
-391
-00:25:06,186 --> 00:25:09,820
+422
+00:25:05,754 --> 00:25:09,467
 I was on a mission
-with the Jem'Hadar once...
+with the Jem'Hadar once--
 
-392
-00:25:09,862 --> 00:25:12,129
+423
+00:25:09,467 --> 00:25:10,884
 before the war, of course.
 
-393
-00:25:12,167 --> 00:25:15,573
+424
+00:25:10,884 --> 00:25:15,181
 Oh, they were good,
 tough, professional.
 
-394
-00:25:15,609 --> 00:25:18,776
+425
+00:25:15,181 --> 00:25:18,225
 It was an honor
 to serve with them.
 
-395
-00:25:19,785 --> 00:25:24,160
+426
+00:25:19,393 --> 00:25:23,605
 But their Vorta, he...
 
-396
-00:25:24,196 --> 00:25:25,722
-was something different...
+427
+00:25:23,605 --> 00:25:25,441
+was something different--
 
-397
-00:25:25,799 --> 00:25:28,465
+428
+00:25:25,441 --> 00:25:28,068
 manipulative
 
-398
-00:25:28,506 --> 00:25:30,636
+429
+00:25:28,068 --> 00:25:30,279
 treacherous...
 
-399
-00:25:30,678 --> 00:25:32,443
+430
+00:25:30,279 --> 00:25:32,031
 trusted by neither side.
 
-400
-00:25:32,482 --> 00:25:33,974
+431
+00:25:32,031 --> 00:25:33,407
 In the end...
 
-401
-00:25:35,355 --> 00:25:37,485
+432
+00:25:34,950 --> 00:25:37,077
 he was killed...
 
-402
-00:25:37,528 --> 00:25:39,465
+433
+00:25:37,077 --> 00:25:39,079
 by the Jem'Hadar First.
 
-403
-00:25:42,574 --> 00:25:44,203
+434
+00:25:42,124 --> 00:25:43,625
 Surprised?
 
-404
-00:25:45,847 --> 00:25:48,445
+435
+00:25:45,378 --> 00:25:47,921
 Such things have
 been known to happen
 
-405
-00:25:48,487 --> 00:25:50,788
+436
+00:25:47,921 --> 00:25:50,257
 but they are rare,
 and only occur
 
-406
-00:25:50,826 --> 00:25:53,320
+437
+00:25:50,257 --> 00:25:52,926
 in units that have
 lost discipline.
 
-407
-00:25:53,366 --> 00:25:55,303
+438
+00:25:52,926 --> 00:25:54,970
 Oh, you mean like a unit
 
-408
-00:25:55,337 --> 00:25:58,903
+439
+00:25:54,970 --> 00:25:58,307
 marooned on the shores
 of a deserted planet.
 
-409
-00:26:00,516 --> 00:26:02,612
+440
+00:25:59,892 --> 00:26:02,228
 The Vorta has instructed me
 to give you his assurance
 
-410
-00:26:02,655 --> 00:26:05,149
+441
+00:26:02,228 --> 00:26:04,813
 that neither you nor
 your doctor will be harmed
 
-411
-00:26:05,194 --> 00:26:06,959
+442
+00:26:04,813 --> 00:26:06,482
 and you will both
 be free to leave
 
-412
-00:26:06,999 --> 00:26:08,434
+443
+00:26:06,482 --> 00:26:07,816
 at the end of your meeting.
 
-413
-00:26:08,469 --> 00:26:09,870
+444
+00:26:07,816 --> 00:26:09,443
 What is your response?
 
-414
-00:26:09,905 --> 00:26:13,812
+445
+00:26:09,443 --> 00:26:13,197
 The word of a Vorta carries
 very little weight with me.
 
-415
-00:26:15,385 --> 00:26:16,979
-Can I have your assurance
+446
+00:26:14,907 --> 00:26:16,409
+Can I have<i> your</i> assurance
 
-416
-00:26:17,023 --> 00:26:19,460
-that we'll be free to go,
-Remata'Klan?
+447
+00:26:16,409 --> 00:26:18,911
+that we'll be free
+to go, Remata'Klan?
 
-417
-00:26:19,495 --> 00:26:22,491
+448
+00:26:18,911 --> 00:26:21,997
 I have been ordered
 to let you go free
 
-418
-00:26:22,535 --> 00:26:23,936
+449
+00:26:21,997 --> 00:26:23,290
 after your meeting.
 
-419
-00:26:25,308 --> 00:26:28,942
-You can be assured
-that I will obey that order.
+450
+00:26:24,917 --> 00:26:28,295
+You can be assured that
+I will obey that order.
 
-420
-00:26:33,696 --> 00:26:34,926
+451
+00:26:33,217 --> 00:26:34,260
 Very well.
 
-421
-00:26:36,469 --> 00:26:40,035
+452
+00:26:35,886 --> 00:26:39,597
 We'll make the trade
 in one hour.
 
-422
-00:26:40,078 --> 00:26:42,208
+453
+00:26:39,597 --> 00:26:41,559
 Agreed.
 
-423
-00:26:56,116 --> 00:26:58,178
-Sounded like you were actually
+454
+00:26:55,531 --> 00:26:57,783
+Sounded like you
+were actually
 
-424
-00:26:58,221 --> 00:27:01,023
+455
+00:26:57,783 --> 00:27:00,494
 getting through to him
 for a minute there.
 
-425
-00:27:01,061 --> 00:27:05,835
+456
+00:27:00,494 --> 00:27:02,079
 You can't break through
-all that Dominion conditioning
 
-426
-00:27:05,873 --> 00:27:08,037
+457
+00:27:02,079 --> 00:27:05,332
+all that Dominion
+conditioning
+
+458
+00:27:05,332 --> 00:27:07,460
 in just one conversation.
 
-427
-00:27:08,078 --> 00:27:12,680
+459
+00:27:07,460 --> 00:27:12,131
 Do you really think you can
 turn him against his Vorta?
 
-428
-00:27:12,723 --> 00:27:14,215
+460
+00:27:12,131 --> 00:27:13,507
 I don't know.
 
-429
-00:27:16,365 --> 00:27:19,828
+461
+00:27:15,926 --> 00:27:19,263
 But there were at least
 seven Jem'Hadar soldiers
 
-430
-00:27:19,873 --> 00:27:22,242
-up on that ridge this morning...
+462
+00:27:19,263 --> 00:27:21,890
+up on that ridge
+this morning--
 
-431
-00:27:22,279 --> 00:27:25,252
+463
+00:27:21,890 --> 00:27:24,893
 say at least two more
 at their base camp
 
-432
-00:27:25,286 --> 00:27:28,692
+464
+00:27:24,893 --> 00:27:28,105
 guarding their prisoners
 and their Vorta.
 
-433
-00:27:28,727 --> 00:27:31,997
+465
+00:27:28,105 --> 00:27:31,400
 Without Nog and Mr. Garak
 on our side
 
-434
-00:27:32,036 --> 00:27:35,636
+466
+00:27:31,400 --> 00:27:34,987
 that gives them almost
 a two-to-one advantage.
 
-435
-00:27:35,678 --> 00:27:38,583
+467
+00:27:34,987 --> 00:27:38,031
 I think I'd like
 to check out now.
 
-436
-00:27:38,618 --> 00:27:41,055
+468
+00:27:38,031 --> 00:27:40,326
 So would I, old man.
 
-437
-00:27:49,752 --> 00:27:51,244
+469
+00:27:50,043 --> 00:27:51,629
 You may go.
 
-438
-00:28:01,347 --> 00:28:03,078
-Now, don't get too far ahead,
-Nog.
+470
+00:28:01,639 --> 00:28:03,474
+Now, don't get too
+far ahead, Nog.
 
-439
-00:28:03,118 --> 00:28:05,112
-We don't want to startle anyone.
+471
+00:28:03,474 --> 00:28:05,683
+We don't want
+to startle anyone.
 
-440
-00:28:07,228 --> 00:28:09,529
+472
+00:28:07,645 --> 00:28:09,980
 Ah, good afternoon,
 Captain, Doctor.
 
-441
-00:28:09,567 --> 00:28:11,264
+473
+00:28:09,980 --> 00:28:11,773
+SISKO:
 Are you two all right?
 
-442
-00:28:11,305 --> 00:28:12,831
+474
+00:28:11,773 --> 00:28:13,150
+GARAK:
 Perfect.
 How are you?
 
-443
-00:28:12,875 --> 00:28:13,865
+475
+00:28:13,150 --> 00:28:14,234
+BASHIR:
 Felt better.
 
-444
-00:28:21,896 --> 00:28:22,864
+476
+00:28:22,159 --> 00:28:23,202
 Anything yet?
 
-445
-00:28:22,899 --> 00:28:24,300
+477
+00:28:23,202 --> 00:28:24,953
 Not yet.
 
-446
-00:28:24,336 --> 00:28:27,366
+478
+00:28:24,953 --> 00:28:27,873
 There are two Vedeks inside,
 but we've seen no indication
 
-447
-00:28:27,409 --> 00:28:29,072
+479
+00:28:27,873 --> 00:28:29,583
 they intend
 to leave the shrine.
 
-448
-00:28:29,113 --> 00:28:30,081
+480
+00:28:29,583 --> 00:28:30,584
 What about Yassim?
 
-449
-00:28:30,116 --> 00:28:31,175
+481
+00:28:30,584 --> 00:28:31,627
 She hasn't shown up.
 
-450
-00:28:31,252 --> 00:28:32,516
+482
+00:28:31,627 --> 00:28:32,919
 Let's hope she doesn't.
 
-451
-00:28:32,555 --> 00:28:33,854
-The last thing I want to do
+483
+00:28:32,919 --> 00:28:34,463
+The last thing
+I want to do
 
-452
-00:28:33,892 --> 00:28:35,692
+484
+00:28:34,463 --> 00:28:36,173
 is start arresting
 Bajoran civilians
 
-453
-00:28:35,730 --> 00:28:36,892
+485
+00:28:36,173 --> 00:28:38,384
 here on the Promenade.
 
-454
-00:28:37,902 --> 00:28:39,633
+486
+00:28:38,384 --> 00:28:39,926
 Don't think there's
 going to be any story
 
-455
-00:28:39,672 --> 00:28:40,697
-here for you today, Jake.
+487
+00:28:39,926 --> 00:28:41,011
+here for you
+today, Jake.
 
-456
-00:28:40,742 --> 00:28:41,710
+488
+00:28:41,011 --> 00:28:42,179
 You sure?
 
-457
-00:28:41,744 --> 00:28:43,441
+489
+00:28:42,179 --> 00:28:43,930
 I got a message
 from Vedek Yassim
 
-458
-00:28:43,482 --> 00:28:46,216
+490
+00:28:43,930 --> 00:28:46,684
 saying the protest was
 starting at exactly 1400.
 
-459
-00:28:46,288 --> 00:28:48,225
+491
+00:28:46,684 --> 00:28:48,602
 It certainly doesn't
 look like it.
 
-460
-00:28:48,293 --> 00:28:49,592
+492
+00:28:48,602 --> 00:28:49,895
+MAN:
 What's she doing?!
 
-461
-00:28:49,629 --> 00:28:51,155
+493
+00:28:49,895 --> 00:28:51,522
 Evil must be opposed.
 
-462
-00:29:25,582 --> 00:29:28,612
+494
+00:29:22,469 --> 00:29:23,970
+(<i> moans</i> )
+
+495
+00:29:25,847 --> 00:29:28,850
 Captain Sisko...
 
-463
-00:29:28,657 --> 00:29:30,958
+496
+00:29:28,850 --> 00:29:30,977
 my name is Keevan.
 
-464
-00:29:30,995 --> 00:29:33,091
+497
+00:29:30,977 --> 00:29:33,230
 We have a lot to talk about.
 
-465
-00:29:33,134 --> 00:29:35,800
-Not for a while you don't.
+498
+00:29:33,230 --> 00:29:34,565
+BASHIR:
+Not for a while
 
-466
-00:29:35,840 --> 00:29:38,107
+499
+00:29:34,565 --> 00:29:36,024
+you don't.
+
+500
+00:29:36,024 --> 00:29:38,318
 He needs immediate surgery.
 
-467
-00:29:38,146 --> 00:29:39,479
+501
+00:29:38,318 --> 00:29:39,695
 Now?
 
-468
-00:29:39,516 --> 00:29:41,510
+502
+00:29:39,695 --> 00:29:41,572
 I don't think I have any choice.
 
-469
-00:29:43,893 --> 00:29:45,294
+503
+00:29:43,865 --> 00:29:45,409
 I am a doctor.
 
-470
-00:29:45,363 --> 00:29:47,459
-I'm not going to harm him.
+504
+00:29:45,409 --> 00:29:47,703
+I'm not going
+to harm him.
 
-471
-00:29:48,838 --> 00:29:50,934
-They're not here to protect me.
+505
+00:29:47,703 --> 00:29:48,954
+(<i> Keevan sighs</i> )
 
-472
-00:29:50,976 --> 00:29:52,570
+506
+00:29:48,954 --> 00:29:51,123
+They're not here
+to protect me.
+
+507
+00:29:51,123 --> 00:29:52,750
 They've just never seen
 
-473
-00:29:52,613 --> 00:29:55,313
+508
+00:29:52,750 --> 00:29:55,586
 what the inside
 of a Vorta looks like.
 
-474
-00:30:06,814 --> 00:30:09,844
+509
+00:30:06,930 --> 00:30:09,891
+COMPUTER:
 The time is 0500 hours.
 
-475
-00:30:27,330 --> 00:30:29,095
+510
+00:30:27,409 --> 00:30:29,119
 Thank you, Mavek.
 
-476
-00:31:10,133 --> 00:31:12,001
+511
+00:31:10,035 --> 00:31:11,953
 How was the show?
 
-477
-00:31:13,140 --> 00:31:14,666
+512
+00:31:13,038 --> 00:31:14,707
 Informative.
 
-478
-00:31:17,684 --> 00:31:19,347
+513
+00:31:14,707 --> 00:31:17,793
+(<i> sighs heavily</i> )
+
+514
+00:31:17,793 --> 00:31:19,419
 Ah, I am alive.
 
-479
-00:31:19,388 --> 00:31:22,259
+515
+00:31:19,419 --> 00:31:22,297
 No self-diagnosis, please.
 
-480
-00:31:22,296 --> 00:31:24,460
+516
+00:31:22,297 --> 00:31:24,383
 I'm the doctor here.
 
-481
-00:31:24,567 --> 00:31:27,404
-Your internal hemorrhaging
+517
+00:31:24,383 --> 00:31:27,594
+Your internal
+hemorrhaging
 has stopped.
 
-482
-00:31:27,441 --> 00:31:30,380
+518
+00:31:27,594 --> 00:31:30,305
 Your free-collagen levels
 are dropping.
 
-483
-00:31:30,415 --> 00:31:33,753
+519
+00:31:30,305 --> 00:31:33,684
 Tissue growth factors
 have stabilized nicely
 
-484
-00:31:33,790 --> 00:31:37,060
+520
+00:31:33,684 --> 00:31:36,936
 and there's a 50 percent rise
 in cell oxygenation.
 
-485
-00:31:37,097 --> 00:31:39,261
-You... are alive.
+521
+00:31:36,936 --> 00:31:39,189
+You...<i> are</i> alive.
 
-486
-00:31:41,441 --> 00:31:42,500
+522
+00:31:40,357 --> 00:31:41,358
+(<i> moans</i> )
+
+523
+00:31:41,358 --> 00:31:42,526
 Careful.
 
-487
-00:31:42,577 --> 00:31:45,071
+524
+00:31:42,526 --> 00:31:45,237
 Your insides are
 being held together
 
-488
-00:31:45,116 --> 00:31:49,115
+525
+00:31:45,237 --> 00:31:49,032
 by cellular micro-sutures,
 and... a lot of hope.
 
-489
-00:31:52,634 --> 00:31:53,624
+526
+00:31:52,452 --> 00:31:53,579
 Leave us.
 
-490
-00:31:53,670 --> 00:31:56,073
-And take your men with you.
+527
+00:31:53,579 --> 00:31:55,955
+And take your men
+with you.
 
-491
-00:32:09,542 --> 00:32:12,481
+528
+00:32:09,511 --> 00:32:12,556
 May I have that case, please?
 
-492
-00:32:19,800 --> 00:32:23,297
+529
+00:32:17,310 --> 00:32:19,897
+(<i> labored breathing</i> )
+
+530
+00:32:19,897 --> 00:32:23,149
 There are ten Jem'Hadar soldiers
 on this planet, Captain...
 
-493
-00:32:26,048 --> 00:32:31,892
-and that is the only vial
+531
+00:32:25,903 --> 00:32:29,448
+and that is
+the only vial
+
+532
+00:32:29,448 --> 00:32:31,825
 of ketracel-white we have left.
 
-494
-00:32:31,929 --> 00:32:36,201
+533
+00:32:31,825 --> 00:32:35,995
 When it's gone, my hold
 over them will be broken
 
-495
-00:32:36,239 --> 00:32:40,705
-and they'll become nothing more
-than senseless, violent animals.
+534
+00:32:35,995 --> 00:32:37,581
+and they'll become
+nothing more
 
-496
-00:32:40,749 --> 00:32:43,881
+535
+00:32:37,581 --> 00:32:40,542
+than senseless,
+violent animals.
+
+536
+00:32:40,542 --> 00:32:43,879
 They'll kill
 everyone they can...
 
-497
-00:32:43,924 --> 00:32:48,367
+537
+00:32:43,879 --> 00:32:48,174
 me, you, the rest of your men...
 
-498
-00:32:49,638 --> 00:32:51,700
+538
+00:32:49,593 --> 00:32:51,678
 and finally turn on each other.
 
-499
-00:32:51,743 --> 00:32:54,580
-Why are you telling us this?
+539
+00:32:51,678 --> 00:32:54,347
+Why are you
+telling us this?
 
-500
-00:32:54,617 --> 00:32:57,613
+540
+00:32:54,347 --> 00:32:57,601
 I'm ordering the Jem'Hadar
 to attack your base camp
 
-501
-00:32:57,657 --> 00:32:59,491
+541
+00:32:57,601 --> 00:32:59,478
 in the morning.
 
-502
-00:33:00,697 --> 00:33:02,462
-But I will provide you
+542
+00:33:00,520 --> 00:33:02,314
+But I will
+provide you
 
-503
-00:33:02,502 --> 00:33:04,905
+543
+00:33:02,314 --> 00:33:04,817
 with their precise plan
 of attack.
 
-504
-00:33:04,941 --> 00:33:07,812
+544
+00:33:04,817 --> 00:33:07,694
 You should be able
 to kill them all.
 
-505
-00:33:07,848 --> 00:33:09,785
+545
+00:33:07,694 --> 00:33:09,696
 They're your own men.
 
-506
-00:33:09,819 --> 00:33:11,949
+546
+00:33:09,696 --> 00:33:11,740
 Yes.
 
-507
-00:33:11,991 --> 00:33:14,520
+547
+00:33:11,740 --> 00:33:14,493
 You still haven't answered
 my question.
 
-508
-00:33:16,335 --> 00:33:18,100
+548
+00:33:16,077 --> 00:33:17,871
 Why are you doing this?
 
-509
-00:33:20,144 --> 00:33:23,448
+549
+00:33:19,957 --> 00:33:23,418
 That... that's
 a communications system.
 
-510
-00:33:24,789 --> 00:33:25,985
+550
+00:33:24,670 --> 00:33:26,129
 It needs repair
 
-511
-00:33:26,025 --> 00:33:28,121
+551
+00:33:26,129 --> 00:33:27,965
 but I'm willing to bet
 that you've brought
 
-512
-00:33:28,163 --> 00:33:30,361
+552
+00:33:27,965 --> 00:33:30,383
 one of those
 famed Starfleet engineers
 
-513
-00:33:30,402 --> 00:33:32,566
+553
+00:33:30,383 --> 00:33:32,385
 who can turn rocks
 into replicators.
 
-514
-00:33:32,608 --> 00:33:35,011
+554
+00:33:32,385 --> 00:33:34,805
 He should have
 a lot more success
 
-515
-00:33:35,046 --> 00:33:38,988
+555
+00:33:34,805 --> 00:33:38,767
 at repairing it than a Jem'Hadar
 suffering from withdrawal.
 
-516
-00:33:39,023 --> 00:33:43,659
-Once you've taken care
+556
+00:33:38,767 --> 00:33:40,769
+Once you've
+taken care
+
+557
+00:33:40,769 --> 00:33:43,522
 of the Jem'Hadar...
 
-517
-00:33:43,734 --> 00:33:46,673
+558
+00:33:43,522 --> 00:33:46,608
 I'll give you the com system
 
-518
-00:33:46,707 --> 00:33:49,076
+559
+00:33:46,608 --> 00:33:48,944
 and surrender to you...
 
-519
-00:33:49,114 --> 00:33:51,108
+560
+00:33:48,944 --> 00:33:50,904
 as a prisoner of war.
 
-520
-00:33:51,152 --> 00:33:54,649
+561
+00:33:50,904 --> 00:33:54,533
 And you spend the war
 resting comfortably
 
-521
-00:33:54,694 --> 00:33:56,528
+562
+00:33:54,533 --> 00:33:56,493
 as a Starfleet POW
 
-522
-00:33:56,564 --> 00:34:00,198
+563
+00:33:56,493 --> 00:34:00,121
 while your men lie
 rotting on this planet.
 
-523
-00:34:00,240 --> 00:34:03,270
+564
+00:34:00,121 --> 00:34:03,000
 I see we understand each other.
 
-524
-00:34:06,422 --> 00:34:10,762
+565
+00:34:06,378 --> 00:34:08,672
 I'm going to order the Jem'Hadar
-to attack your position tomorrow
 
-525
-00:34:10,799 --> 00:34:14,296
+566
+00:34:08,672 --> 00:34:10,716
+to attack your
+position tomorrow
+
+567
+00:34:10,716 --> 00:34:14,344
 regardless of whether
 you agree to my terms or not.
 
-526
-00:34:14,341 --> 00:34:17,508
+568
+00:34:14,344 --> 00:34:17,305
 So you can either kill them...
 
-527
-00:34:17,549 --> 00:34:19,143
+569
+00:34:17,305 --> 00:34:18,849
 or they'll kill you.
 
-528
-00:34:20,856 --> 00:34:22,052
+570
+00:34:20,642 --> 00:34:21,727
 Either way...
 
-529
-00:34:23,563 --> 00:34:25,466
+571
+00:34:23,353 --> 00:34:25,146
 they're coming.
 
-530
-00:34:30,505 --> 00:34:32,476
+572
+00:34:30,402 --> 00:34:32,487
 And when they've reached
 this point
 
-531
-00:34:32,509 --> 00:34:35,038
+573
+00:34:32,487 --> 00:34:35,365
 we'll have them in a crossfire.
 
-532
-00:34:35,082 --> 00:34:36,551
+574
+00:34:35,365 --> 00:34:36,950
 They won't have a chance.
 
-533
-00:34:36,586 --> 00:34:37,953
-Now, that is the point.
+575
+00:34:36,950 --> 00:34:38,326
+Now, that<i> is</i> the point.
 
-534
-00:34:37,989 --> 00:34:40,460
+576
+00:34:38,326 --> 00:34:40,787
 In case you've forgotten,
 we're in a war.
 
-535
-00:34:40,496 --> 00:34:42,763
-There are rules, Garak
+577
+00:34:40,787 --> 00:34:43,164
+There<i> are</i> 
+rules, Garak
 
-536
-00:34:42,801 --> 00:34:44,134
+578
+00:34:43,164 --> 00:34:44,416
 even in war.
 
-537
-00:34:44,171 --> 00:34:46,335
-Correction...
+579
+00:34:44,416 --> 00:34:46,752
+Correction--
 humans have rules in war.
 
-538
-00:34:46,410 --> 00:34:48,278
+580
+00:34:46,752 --> 00:34:48,712
 Rules that tend to make victory
 
-539
-00:34:48,315 --> 00:34:50,786
+581
+00:34:48,712 --> 00:34:51,130
 a little harder to achieve,
 in my opinion.
 
-540
-00:34:50,820 --> 00:34:53,452
+582
+00:34:51,130 --> 00:34:53,633
 So we just... shoot them down?
 
-541
-00:34:53,493 --> 00:34:56,227
-They wouldn't hesitate
+583
+00:34:53,633 --> 00:34:54,968
+They wouldn't
+
+584
+00:34:54,968 --> 00:34:56,636
+hesitate
 if the situation was reversed.
 
-542
-00:34:56,267 --> 00:34:57,964
-But we're not the Jem'Hadar.
+585
+00:34:56,636 --> 00:34:58,346
+NOG:
+But we're not
+the Jem'Hadar.
 
-543
-00:34:58,004 --> 00:34:59,029
-It is our duty to...
+586
+00:34:58,346 --> 00:34:59,305
+It is our duty to--
 
-544
-00:34:59,074 --> 00:35:00,634
+587
+00:34:59,305 --> 00:35:00,807
 This isn't a vote!
 
-545
-00:35:04,353 --> 00:35:06,917
+588
+00:35:04,644 --> 00:35:07,230
 The decision's mine.
 
-546
-00:35:06,959 --> 00:35:09,488
-And Mr. Garak is right...
+589
+00:35:07,230 --> 00:35:09,775
+And Mr. Garak is right--
 we are at war.
 
-547
-00:35:09,531 --> 00:35:11,331
+590
+00:35:09,775 --> 00:35:11,693
 Given the choice
 between us and them
 
-548
-00:35:11,370 --> 00:35:13,534
-there is no choice.
+591
+00:35:11,693 --> 00:35:13,904
+there<i> is</i> no choice.
 
-549
-00:35:15,112 --> 00:35:16,308
+592
+00:35:15,154 --> 00:35:16,448
 Let's move out.
 
-550
-00:35:22,362 --> 00:35:23,797
+593
+00:35:22,454 --> 00:35:23,997
 I'd say good luck
 
-551
-00:35:23,832 --> 00:35:26,464
+594
+00:35:23,997 --> 00:35:26,666
 but I... I don't think
 you're going to need it.
 
-552
-00:35:26,506 --> 00:35:28,135
-Say it anyway, old man.
+595
+00:35:26,666 --> 00:35:28,543
+Say it anyway,
+old man.
 
-553
-00:35:28,176 --> 00:35:31,617
+596
+00:35:28,543 --> 00:35:31,922
 I'm still hoping there's
 another way out of this.
 
-554
-00:35:31,651 --> 00:35:33,143
+597
+00:35:31,922 --> 00:35:33,256
 In that case...
 
-555
-00:35:33,188 --> 00:35:35,250
+598
+00:35:33,256 --> 00:35:35,383
 good luck, Benjamin.
 
-556
-00:36:00,320 --> 00:36:02,689
+599
+00:36:00,241 --> 00:36:02,953
 Damar has been trying
 to contact you
 
-557
-00:36:02,726 --> 00:36:04,423
+600
+00:36:02,953 --> 00:36:04,704
 for the past five hours.
 
-558
-00:36:09,709 --> 00:36:13,115
+601
+00:36:09,417 --> 00:36:13,212
 I keep going over it
 and over it in my mind.
 
-559
-00:36:13,151 --> 00:36:15,247
-And I can't believe that...
+602
+00:36:13,212 --> 00:36:15,298
+And I can't
+believe that...
 
-560
-00:36:16,859 --> 00:36:18,590
+603
+00:36:17,050 --> 00:36:18,844
 that I stood there...
 
-561
-00:36:20,168 --> 00:36:22,435
+604
+00:36:20,261 --> 00:36:22,639
 ready to use force
 to stop a protest
 
-562
-00:36:22,473 --> 00:36:23,806
+605
+00:36:22,639 --> 00:36:23,932
 against the Dominion.
 
-563
-00:36:23,843 --> 00:36:25,142
+606
+00:36:23,932 --> 00:36:25,266
 Me.
 
-564
-00:36:25,180 --> 00:36:30,854
-When I was in the resistance,
-I despised people like me.
+607
+00:36:25,266 --> 00:36:28,895
+When I was in the
+resistance, I despised
 
-565
-00:36:33,165 --> 00:36:35,102
+608
+00:36:28,895 --> 00:36:30,856
+people like me.
+
+609
+00:36:33,274 --> 00:36:35,276
 I'm a collaborator, Odo.
 
-566
-00:36:35,137 --> 00:36:36,265
+610
+00:36:35,276 --> 00:36:36,569
 That's not true.
 
-567
-00:36:36,307 --> 00:36:38,403
+611
+00:36:36,569 --> 00:36:38,738
 You're doing exactly
 what Captain Sisko
 
-568
-00:36:38,445 --> 00:36:40,814
+612
+00:36:38,738 --> 00:36:40,949
 wanted you and the rest
-of Bajor to do...
+of Bajor to do--
 
-569
-00:36:40,851 --> 00:36:43,322
+613
+00:36:40,949 --> 00:36:43,660
 remain neutral and stay
 out of the fighting.
 
-570
-00:36:43,356 --> 00:36:45,350
+614
+00:36:43,660 --> 00:36:45,620
 We used to have a saying
 in the resistance:
 
-571
-00:36:45,394 --> 00:36:47,888
+615
+00:36:45,620 --> 00:36:47,956
 If you're not fighting them,
 you're helping them.
 
-572
-00:36:47,934 --> 00:36:49,962
-Half the Alpha Quadrant
-is out there
+616
+00:36:47,956 --> 00:36:50,000
+Half the Alpha
+Quadrant is out there
 
-573
-00:36:50,006 --> 00:36:51,305
+617
+00:36:50,000 --> 00:36:51,501
 right now, fighting
 for my freedom
 
-574
-00:36:51,343 --> 00:36:52,710
+618
+00:36:51,501 --> 00:36:52,878
 but not me.
 
-575
-00:36:54,149 --> 00:36:55,413
+619
+00:36:54,253 --> 00:36:55,630
 What am I doing?
 
-576
-00:36:55,452 --> 00:36:57,616
-Eating a full meal every day
+620
+00:36:55,630 --> 00:36:57,757
+Eating a full meal
+every day
 
-577
-00:36:57,657 --> 00:36:59,422
-sleeping in a soft bed...
+621
+00:36:57,757 --> 00:36:59,551
+sleeping in a soft bed--
 
-578
-00:36:59,462 --> 00:37:00,590
+622
+00:36:59,551 --> 00:37:01,011
 even write reports
 
-579
-00:37:00,632 --> 00:37:03,126
+623
+00:37:01,011 --> 00:37:03,304
 for the murderers
 who run this station.
 
-580
-00:37:05,109 --> 00:37:07,775
+624
+00:37:05,390 --> 00:37:08,060
 These are difficult
 times for everyone.
 
-581
-00:37:07,815 --> 00:37:09,580
-Do you think it's easy for me
+625
+00:37:08,060 --> 00:37:10,103
+Do you think
+it's easy for me
 
-582
-00:37:09,619 --> 00:37:12,285
+626
+00:37:10,103 --> 00:37:12,772
 to sit down with Dukat
 and Weyoun every day
 
-583
-00:37:12,326 --> 00:37:15,424
+627
+00:37:12,772 --> 00:37:15,608
 while they plot the destruction
 of the Federation?
 
-584
-00:37:15,466 --> 00:37:18,098
+628
+00:37:15,608 --> 00:37:18,361
 Odo...
 
-585
-00:37:18,140 --> 00:37:20,373
+629
+00:37:18,361 --> 00:37:20,446
 I'm not pointing
 a finger at you.
 
-586
-00:37:20,412 --> 00:37:22,246
+630
+00:37:20,446 --> 00:37:22,532
 I'm the one who told you
 
-587
-00:37:22,283 --> 00:37:24,915
+631
+00:37:22,532 --> 00:37:25,202
 to get more involved
 in the first place.
 
-588
-00:37:24,957 --> 00:37:27,451
+632
+00:37:25,202 --> 00:37:27,579
 No, this is about me.
 
-589
-00:37:28,765 --> 00:37:31,863
+633
+00:37:29,206 --> 00:37:32,042
 This is about being able
 to get up in the morning
 
-590
-00:37:31,906 --> 00:37:34,640
+634
+00:37:32,042 --> 00:37:34,753
 and look in the mirror
 and not feel nauseated
 
-591
-00:37:34,679 --> 00:37:36,673
+635
+00:37:34,753 --> 00:37:37,005
 by what I see.
 
-592
-00:37:39,223 --> 00:37:40,817
+636
+00:37:39,465 --> 00:37:40,926
 Yassim was right.
 
-593
-00:37:43,133 --> 00:37:46,129
+637
+00:37:43,344 --> 00:37:46,305
 I have to do something.
 
-594
-00:37:46,173 --> 00:37:48,371
-I have to start to fight back.
+638
+00:37:46,305 --> 00:37:48,474
+I have to start
+to fight back.
 
-595
-00:37:48,412 --> 00:37:50,406
+639
+00:37:48,474 --> 00:37:50,852
 That would be a mistake.
 
-596
-00:37:50,450 --> 00:37:53,116
-Active resistance
-will trigger a crackdown...
+640
+00:37:50,852 --> 00:37:52,771
+Active resistance will
+trigger a crackdown--
 
-597
-00:37:53,157 --> 00:37:54,285
+641
+00:37:52,771 --> 00:37:54,231
 Odo...
 
-598
-00:37:54,327 --> 00:37:58,463
+642
+00:37:54,231 --> 00:37:58,484
 I don't want to end up
 fighting you, too...
 
-599
-00:37:58,503 --> 00:38:00,371
+643
+00:37:58,484 --> 00:38:00,445
 but if I have to...
 
-600
-00:38:00,408 --> 00:38:02,379
+644
+00:38:00,445 --> 00:38:02,447
 I will.
 
-601
-00:38:06,790 --> 00:38:08,282
+645
+00:38:04,365 --> 00:38:07,035
+(<i> sighs</i> )
+
+646
+00:38:07,035 --> 00:38:08,453
 All right.
 
-602
-00:38:08,327 --> 00:38:11,357
+647
+00:38:08,453 --> 00:38:11,831
 But let's find
 a more discreet place
 
-603
-00:38:11,400 --> 00:38:13,735
+648
+00:38:11,831 --> 00:38:13,833
 to plan the new resistance.
 
-604
-00:39:03,492 --> 00:39:05,588
+649
+00:39:03,341 --> 00:39:05,593
+SISKO:
 Remata'Klan!
 
-605
-00:39:05,630 --> 00:39:07,122
+650
+00:39:05,593 --> 00:39:06,970
 I want to talk!
 
-606
-00:39:10,075 --> 00:39:11,408
+651
+00:39:10,056 --> 00:39:11,224
 Agreed!
 
-607
-00:39:20,696 --> 00:39:21,960
+652
+00:39:20,775 --> 00:39:22,068
 Hold this position.
 
-608
-00:39:21,999 --> 00:39:24,061
-Do not fire unless they do.
+653
+00:39:22,068 --> 00:39:23,153
+Do not fire
 
-609
-00:39:24,104 --> 00:39:25,334
+654
+00:39:23,153 --> 00:39:24,196
+unless they do.
+
+655
+00:39:24,196 --> 00:39:25,322
 Understood.
 
-610
-00:39:47,628 --> 00:39:49,656
+656
+00:39:47,760 --> 00:39:49,846
 There's no way
 out of this canyon
 
-611
-00:39:49,699 --> 00:39:52,729
+657
+00:39:49,846 --> 00:39:52,849
 and we have phasers locked
 on every one of you.
 
-612
-00:39:55,346 --> 00:39:57,579
+658
+00:39:55,310 --> 00:39:57,562
 It appears you have
 a decisive advantage.
 
-613
-00:39:57,618 --> 00:39:59,885
+659
+00:39:57,562 --> 00:39:59,981
 To fight a battle
 under these circumstances
 
-614
-00:39:59,923 --> 00:40:01,119
+660
+00:39:59,981 --> 00:40:01,149
 would serve no purpose.
 
-615
-00:40:01,160 --> 00:40:02,720
+661
+00:40:01,149 --> 00:40:02,817
 I'm prepared to offer terms.
 
-616
-00:40:02,764 --> 00:40:04,495
+662
+00:40:02,817 --> 00:40:04,527
 Hear me out!
 
-617
-00:40:04,535 --> 00:40:06,597
+663
+00:40:04,527 --> 00:40:06,654
 I know you need
 more ketracel-white.
 
-618
-00:40:06,640 --> 00:40:09,169
-My doctor can sedate your men
+664
+00:40:06,654 --> 00:40:09,115
+My doctor can
+sedate your men
 
-619
-00:40:09,212 --> 00:40:11,547
+665
+00:40:09,115 --> 00:40:11,492
 and keep them alive
 until we're rescued.
 
-620
-00:40:11,584 --> 00:40:14,216
+666
+00:40:11,492 --> 00:40:14,287
 After that, we can put you
 in medical stasis
 
-621
-00:40:14,258 --> 00:40:16,195
+667
+00:40:14,287 --> 00:40:16,206
 until we secure
 a new supply.
 
-622
-00:40:16,229 --> 00:40:19,601
+668
+00:40:16,206 --> 00:40:19,584
 The Vorta did not give me
 the option to surrender.
 
-623
-00:40:19,638 --> 00:40:20,937
+669
+00:40:19,584 --> 00:40:20,835
 Keevan's betrayed you!
 
-624
-00:40:24,115 --> 00:40:27,920
+670
+00:40:24,047 --> 00:40:27,800
 He gave us your entire plan
 of attack last night.
 
-625
-00:40:34,674 --> 00:40:38,376
+671
+00:40:34,807 --> 00:40:38,353
 It was obvious that approaching
 your position from this canyon
 
-626
-00:40:38,416 --> 00:40:40,683
+672
+00:40:38,353 --> 00:40:40,813
 was a deliberate
 tactical error on his part.
 
-627
-00:40:40,788 --> 00:40:42,314
+673
+00:40:40,813 --> 00:40:42,315
 You knew?
 
-628
-00:40:42,359 --> 00:40:44,296
+674
+00:40:42,315 --> 00:40:44,317
 I suspected.
 
-629
-00:40:44,330 --> 00:40:46,699
+675
+00:40:44,317 --> 00:40:46,861
 Despite what Keevan may think
 
-630
-00:40:46,770 --> 00:40:50,302
+676
+00:40:46,861 --> 00:40:50,323
 the Jem'Hadar are often
 one step ahead of the Vorta.
 
-631
-00:40:50,345 --> 00:40:53,011
+677
+00:40:50,323 --> 00:40:53,034
 You can still stay
 one step ahead.
 
-632
-00:40:53,050 --> 00:40:54,018
+678
+00:40:53,034 --> 00:40:53,993
 Surrender.
 
-633
-00:40:54,053 --> 00:40:56,149
+679
+00:40:53,993 --> 00:40:56,162
 I have my orders.
 
-634
-00:40:56,192 --> 00:40:57,354
+680
+00:40:56,162 --> 00:40:57,496
 Keevan doesn't deserve
 
-635
-00:40:57,395 --> 00:40:59,559
+681
+00:40:57,496 --> 00:40:59,498
 the unwavering loyalty
 you're giving him.
 
-636
-00:40:59,600 --> 00:41:03,234
+682
+00:40:59,498 --> 00:41:03,169
 He does not have to earn
 my loyalty, Captain.
 
-637
-00:41:03,276 --> 00:41:07,012
+683
+00:41:03,169 --> 00:41:06,965
 He has had it from the moment
 I was conceived.
 
-638
-00:41:07,051 --> 00:41:08,919
+684
+00:41:06,965 --> 00:41:08,883
 I am a Jem'Hadar.
 
-639
-00:41:08,956 --> 00:41:10,927
+685
+00:41:08,883 --> 00:41:10,885
 He is a Vorta.
 
-640
-00:41:10,961 --> 00:41:13,398
+686
+00:41:10,885 --> 00:41:13,221
 It is the order of things.
 
-641
-00:41:15,905 --> 00:41:18,274
+687
+00:41:15,848 --> 00:41:18,268
 Do you really want
 to give up your life
 
-642
-00:41:18,312 --> 00:41:20,876
+688
+00:41:18,268 --> 00:41:20,728
 for the order of things?
 
-643
-00:41:20,917 --> 00:41:23,411
+689
+00:41:20,728 --> 00:41:23,231
 It is not my life
 to give up, Captain.
 
-644
-00:41:24,493 --> 00:41:25,757
+690
+00:41:24,190 --> 00:41:25,775
 And it never was.
 
-645
-00:41:47,114 --> 00:41:48,948
+691
+00:41:46,963 --> 00:41:48,923
 What'd he say?
 
-646
-00:41:50,254 --> 00:41:52,248
+692
+00:41:50,175 --> 00:41:52,010
 All the wrong things.
 
-647
-00:41:54,999 --> 00:41:57,597
+693
+00:41:54,553 --> 00:41:57,349
 Our death is glory
 to the Founders.
 
-648
-00:43:05,869 --> 00:43:07,634
+694
+00:43:05,583 --> 00:43:07,293
+O'BRIEN:
 Captain?
 
-649
-00:43:24,347 --> 00:43:25,873
+695
+00:43:24,102 --> 00:43:25,562
 You know, Captain
 
-650
-00:43:25,917 --> 00:43:30,623
-if I had had just two more vials
+696
+00:43:25,562 --> 00:43:28,440
+if I had had just
+two more vials
+
+697
+00:43:28,440 --> 00:43:30,442
 of white...
 
-651
-00:43:30,662 --> 00:43:32,656
+698
+00:43:30,442 --> 00:43:32,444
 you never would've had a chance.
 
-652
-00:43:32,700 --> 00:43:34,762
+699
+00:43:32,444 --> 00:43:34,529
 Chief!
 
-653
-00:43:34,806 --> 00:43:35,934
+700
+00:43:34,529 --> 00:43:35,947
 Get this...
 
-654
-00:43:37,311 --> 00:43:39,407
+701
+00:43:37,240 --> 00:43:39,325
 Take him back to base camp
 
-655
-00:43:39,449 --> 00:43:42,354
+702
+00:43:39,325 --> 00:43:42,161
 then get to work
 on that com system.
 
-656
-00:43:43,393 --> 00:43:44,692
+703
+00:43:43,329 --> 00:43:44,456
 Aye, sir.
 
-657
-00:43:44,728 --> 00:43:46,493
+704
+00:43:44,456 --> 00:43:46,291
 Lieutenant Neeley!
 
-658
-00:43:46,533 --> 00:43:47,934
+705
+00:43:46,291 --> 00:43:47,917
 Sir?
 
-659
-00:43:48,003 --> 00:43:49,803
+706
+00:43:47,917 --> 00:43:49,627
 Form a burial detail.
 
-660
-00:43:51,144 --> 00:43:52,203
+707
+00:43:50,711 --> 00:43:52,004
 Aye, sir.
-

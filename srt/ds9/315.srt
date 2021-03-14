@@ -1,4011 +1,4375 @@
-﻿1
-00:00:03,732 --> 00:00:06,602
-Station Log, Stardate 48543.2.
+1
+00:00:01,460 --> 00:00:05,255
+SISKO:
+<i>Station Log, Stardate 48543.2.</i>
 
 2
-00:00:06,637 --> 00:00:08,436
-A team of Cardassian scientists
+00:00:05,255 --> 00:00:06,924
+<i>A team of Cardassian scientists</i>
 
 3
-00:00:08,474 --> 00:00:10,171
-is coming to the station
-to assist us
+00:00:06,924 --> 00:00:09,050
+<i>is coming to the station</i>
+<i>to assist us</i>
 
 4
-00:00:10,244 --> 00:00:12,909
-in deploying a subspace relay
-in the Gamma Quadrant.
+00:00:09,050 --> 00:00:11,762
+<i>in deploying a subspace relay</i>
+<i>in the Gamma Quadrant.</i>
 
 5
-00:00:12,950 --> 00:00:15,443
-If successful,
-it will allow communication
+00:00:11,762 --> 00:00:14,139
+<i>If successful,</i>
+<i>it will allow communication</i>
 
 6
-00:00:15,488 --> 00:00:18,085
-through the wormhole
-for the first time.
+00:00:14,139 --> 00:00:17,559
+<i>through the wormhole</i>
+<i>for the first time.</i>
 
 7
-00:00:19,095 --> 00:00:20,689
-I've assigned these quarters
+00:00:17,559 --> 00:00:19,478
+I've assigned
+these quarters
 
 8
-00:00:20,732 --> 00:00:23,932
+00:00:19,478 --> 00:00:22,815
 to the senior Cardassian
 scientist, her name is Ulani.
 
 9
-00:00:23,972 --> 00:00:26,637
+00:00:22,815 --> 00:00:25,275
 Her colleague, Gilora,
 has the adjacent room.
 
 10
-00:00:26,677 --> 00:00:27,736
+00:00:25,275 --> 00:00:26,443
 It's warm in here.
 
 11
-00:00:27,780 --> 00:00:30,046
+00:00:26,443 --> 00:00:27,820
 I take it you reset
-the environmental controls.
 
 12
-00:00:30,084 --> 00:00:31,713
-I also had Chief O'Brien
-reprogram
+00:00:27,820 --> 00:00:29,279
+the environmental
+controls.
 
 13
-00:00:31,754 --> 00:00:34,419
+00:00:29,279 --> 00:00:30,906
+I also had Chief
+O'Brien reprogram
+
+14
+00:00:30,906 --> 00:00:33,158
 the replicators to provide
 Cardassian food.
 
-14
-00:00:34,459 --> 00:00:35,688
+15
+00:00:33,158 --> 00:00:34,451
 Security measures?
 
-15
-00:00:35,729 --> 00:00:37,129
-I've assigned two of my people
-
 16
-00:00:37,165 --> 00:00:39,032
+00:00:34,451 --> 00:00:36,077
+I've assigned
+two of my people
+
+17
+00:00:36,077 --> 00:00:37,830
 to follow the Cardassians
 at all times.
 
-17
-00:00:39,068 --> 00:00:40,833
+18
+00:00:37,830 --> 00:00:39,665
 Fine, have them
 keep their distance.
 
-18
-00:00:40,872 --> 00:00:41,999
+19
+00:00:39,665 --> 00:00:41,082
 I want the Cardassians
 
-19
-00:00:42,041 --> 00:00:43,806
+20
+00:00:41,082 --> 00:00:42,710
 to feel like guests,
 not prisoners.
 
-20
-00:00:43,845 --> 00:00:47,045
+21
+00:00:42,710 --> 00:00:45,838
 Commander, there are
 still elements opposed
 
-21
-00:00:47,084 --> 00:00:49,920
+22
+00:00:45,838 --> 00:00:48,549
 to the peace treaty
 between Cardassia and Bajor
 
-22
-00:00:49,957 --> 00:00:50,925
+23
+00:00:48,549 --> 00:00:49,925
 on both sides.
 
-23
-00:00:50,959 --> 00:00:52,257
+24
+00:00:49,925 --> 00:00:51,760
 We have to be prepared
 for trouble.
 
-24
-00:00:52,361 --> 00:00:54,924
+25
+00:00:51,760 --> 00:00:53,387
 I realize that, but while
 the Cardassians are here
 
-25
-00:00:54,967 --> 00:00:56,367
+26
+00:00:53,387 --> 00:00:55,305
 I want the Bajorans
 
-26
-00:00:56,403 --> 00:00:58,805
+27
+00:00:55,305 --> 00:00:57,140
 to get used to seeing them
 walking on the Promenade...
 
-27
-00:00:58,842 --> 00:00:59,810
+28
+00:00:57,140 --> 00:00:58,559
 buying from their shops,
 
-28
-00:00:59,844 --> 00:01:01,176
-eating from their restaurants...
-
 29
-00:01:01,213 --> 00:01:02,910
+00:00:58,559 --> 00:01:00,143
+eating from their
+restaurants...
+
+30
+00:01:00,143 --> 00:01:01,812
 getting to know them
 as something other
 
-30
-00:01:02,950 --> 00:01:05,216
+31
+00:01:01,812 --> 00:01:03,939
 than brutal overseers.
 
-31
-00:01:07,058 --> 00:01:09,723
+32
+00:01:03,939 --> 00:01:05,816
+(<i> door opens</i> )
+
+33
+00:01:05,816 --> 00:01:08,527
 I just received the final update
 from the Cardassians
 
-32
-00:01:09,763 --> 00:01:12,701
+34
+00:01:08,527 --> 00:01:11,154
 on the transceiver they designed
 for the communications relay.
 
-33
-00:01:12,736 --> 00:01:13,795
+35
+00:01:11,154 --> 00:01:12,740
 How does it look?
 
-34
-00:01:13,838 --> 00:01:17,242
+36
+00:01:12,740 --> 00:01:16,035
 I'm still not convinced
 it's going to work.
 
-35
-00:01:17,345 --> 00:01:19,247
+37
+00:01:16,035 --> 00:01:17,912
 The Cardassians seem
 sure that it will.
 
-36
-00:01:19,349 --> 00:01:20,408
-I hope they're right.
-
-37
-00:01:26,229 --> 00:01:27,629
-Whose quarters are these...
-
 38
-00:01:27,666 --> 00:01:30,000
-Gilora's or Ulani's?
+00:01:17,912 --> 00:01:19,705
+I hope
+they're right.
 
 39
-00:01:30,037 --> 00:01:31,232
-Ulani's.
+00:01:23,918 --> 00:01:25,920
+Whose quarters
+are these--
 
 40
-00:01:31,273 --> 00:01:33,266
-And how do you know their names?
+00:01:25,920 --> 00:01:28,589
+Gilora's or Ulani's?
 
 41
-00:01:33,377 --> 00:01:35,472
-I was just informed an hour ago.
+00:01:28,589 --> 00:01:30,049
+Ulani's.
 
 42
-00:01:35,514 --> 00:01:38,782
-Odo, please...
+00:01:30,049 --> 00:01:31,967
+And how do you know
+their names?
 
 43
-00:01:38,821 --> 00:01:42,488
-I have a bottle of <i>kanar</i>
-for each of them...
+00:01:31,967 --> 00:01:34,261
+I was just informed
+an hour ago.
 
 44
-00:01:42,528 --> 00:01:47,527
+00:01:34,261 --> 00:01:37,556
+Odo, please...
+
+45
+00:01:37,556 --> 00:01:41,100
+I have a bottle of<i> kanar</i>
+<i>for each of them...</i>
+
+46
+00:01:41,100 --> 00:01:45,397
 along with a personal
 invitation to Quark's.
 
-45
-00:01:47,572 --> 00:01:48,904
-Where did you get real <i>kanar?</i>
+47
+00:01:45,397 --> 00:01:47,733
+Where did you get real<i> kanar?</i>
 
-46
-00:01:48,942 --> 00:01:51,105
+48
+00:01:47,733 --> 00:01:49,526
 I've had three cases
 in my storeroom
 
-47
-00:01:51,146 --> 00:01:52,478
+49
+00:01:49,526 --> 00:01:51,445
 since the occupation.
 
-48
-00:01:52,515 --> 00:01:56,478
+50
+00:01:51,445 --> 00:01:54,114
 There hasn't been much call
 for it the past few years...
 
-49
-00:01:56,523 --> 00:01:58,322
+51
+00:01:54,114 --> 00:01:57,076
 but that's about to change.
 
-50
-00:01:58,360 --> 00:02:00,853
+52
+00:01:57,076 --> 00:01:59,536
 There are only two Cardassians
 coming to the station.
 
-51
-00:02:00,899 --> 00:02:03,427
-How much <i>kanar</i> do you think
+53
+00:01:59,536 --> 00:02:00,579
+How much<i> kanar</i> do you think
+
+54
+00:02:00,579 --> 00:02:02,372
 they can drink?
 
-52
-00:02:03,470 --> 00:02:06,067
+55
+00:02:02,372 --> 00:02:04,750
 There may only be two for now,
 but there'll be more
 
-53
-00:02:06,109 --> 00:02:07,509
+56
+00:02:04,750 --> 00:02:06,418
 thanks to the peace treaty.
 
-54
-00:02:07,545 --> 00:02:10,038
+57
+00:02:06,418 --> 00:02:08,921
 And as the 34th Rule
 of Acquisition states
 
-55
-00:02:10,084 --> 00:02:11,849
+58
+00:02:08,921 --> 00:02:10,672
 "Peace is good for business."
 
-56
-00:02:11,887 --> 00:02:14,289
+59
+00:02:10,672 --> 00:02:12,925
 That's the 35th Rule.
 
-57
-00:02:14,359 --> 00:02:16,295
+60
+00:02:12,925 --> 00:02:15,052
 Oh, you're right.
 What's the 34th?
 
-58
-00:02:16,363 --> 00:02:18,560
+61
+00:02:15,052 --> 00:02:17,345
 "War is good for business."
 
-59
-00:02:18,600 --> 00:02:20,627
+62
+00:02:17,345 --> 00:02:18,764
 It's easy to get them confused.
 
-60
-00:02:20,672 --> 00:02:23,906
-The way I see it, it won't be
-long before there's a permanent
+63
+00:02:18,764 --> 00:02:20,891
+The way I see it,
+it won't be long
 
-61
-00:02:23,945 --> 00:02:25,847
+64
+00:02:20,891 --> 00:02:22,684
+before there's
+a permanent
+
+65
+00:02:22,684 --> 00:02:24,686
 Cardassian presence
 on the station...
 
-62
-00:02:25,882 --> 00:02:28,820
-scientists, diplomats...
-
-63
-00:02:28,855 --> 00:02:30,050
-spies.
-
-64
-00:02:30,090 --> 00:02:32,960
-And they'll all
-be welcome at Quark's.
-
-65
-00:02:32,996 --> 00:02:35,057
-As long as they can pay.
-
 66
-00:02:35,100 --> 00:02:38,231
-Rumor has it that the shop
-next door to mine
+00:02:24,686 --> 00:02:27,397
+scientists,
+diplomats...
 
 67
-00:02:38,273 --> 00:02:40,106
-is going out of business.
+00:02:27,397 --> 00:02:28,983
+spies.
 
 68
-00:02:40,144 --> 00:02:43,675
+00:02:28,983 --> 00:02:31,568
+And they'll<i> all</i>
+<i>be welcome at Quark's.</i>
+
+69
+00:02:31,568 --> 00:02:33,946
+As long as they can pay.
+
+70
+00:02:33,946 --> 00:02:36,991
+Rumor has it that the
+shop next door to mine
+
+71
+00:02:36,991 --> 00:02:38,909
+is going out of business.
+
+72
+00:02:38,909 --> 00:02:42,370
 I'm thinking of renting it
 and setting up
 
-69
-00:02:43,718 --> 00:02:45,688
+73
+00:02:42,370 --> 00:02:44,414
 a few Cardassian
 gaming concessions.
 
-70
-00:02:45,722 --> 00:02:49,662
+74
+00:02:44,414 --> 00:02:48,335
 There'll be no live vole fights
 on the Promenade, Quark.
 
-71
-00:02:49,697 --> 00:02:50,926
-I would never be party
+75
+00:02:48,335 --> 00:02:49,837
+I would never
+be party
 
-72
-00:02:50,965 --> 00:02:53,994
+76
+00:02:49,837 --> 00:02:52,840
 to anything so cruel
 and inhumane.
 
-73
-00:02:54,038 --> 00:02:57,204
+77
+00:02:52,840 --> 00:02:55,968
 But, of course,
 if some Cardassians
 
-74
-00:02:57,244 --> 00:03:00,512
+78
+00:02:55,968 --> 00:02:59,220
 happen to bring
 their voles along
 
-75
-00:03:00,551 --> 00:03:02,714
-and they happened
-to get into a fight
+79
+00:02:59,220 --> 00:03:01,473
+and they<i> happened</i>
+<i>to get into a fight</i>
 
-76
-00:03:02,756 --> 00:03:05,226
+80
+00:03:01,473 --> 00:03:03,433
 I could hardly be
 held responsible for...
 
-77
-00:03:05,260 --> 00:03:07,025
+81
+00:03:03,433 --> 00:03:05,102
 Oh, yes, you could.
 
-78
-00:03:07,064 --> 00:03:08,761
+82
+00:03:05,102 --> 00:03:07,646
 And you will be.
 
-79
-00:03:10,404 --> 00:03:12,340
+83
+00:03:08,856 --> 00:03:10,899
 Fine.
 
-80
-00:03:12,441 --> 00:03:15,038
+84
+00:03:10,899 --> 00:03:13,610
 Forget the vole fights.
 
-81
-00:03:15,080 --> 00:03:16,343
-But I'll tell you this.
-
-82
-00:03:16,449 --> 00:03:18,009
-Good <i>kanar</i> is hard to find.
-
-83
-00:03:18,053 --> 00:03:19,784
-And I have three cases of it.
-
-84
-00:03:19,823 --> 00:03:22,989
-But that's just the beginning.
-
 85
-00:03:23,029 --> 00:03:25,899
+00:03:13,610 --> 00:03:15,070
+But I'll
+tell you this.
+
+86
+00:03:15,070 --> 00:03:16,613
+Good<i> kanar</i>
+<i>is hard to find.</i>
+
+87
+00:03:16,613 --> 00:03:18,197
+And I have
+three cases of it.
+
+88
+00:03:18,197 --> 00:03:21,493
+But that's just
+the beginning.
+
+89
+00:03:21,493 --> 00:03:24,412
 Soon, Quark's will become
 known as the best place
 
-86
-00:03:25,935 --> 00:03:28,566
+90
+00:03:24,412 --> 00:03:26,957
 for Cardassian food and drink
 in this sector.
 
-87
-00:03:28,607 --> 00:03:31,100
+91
+00:03:26,957 --> 00:03:29,417
 I'll probably set up
 daily shipments from Cardassia.
 
-88
-00:03:31,146 --> 00:03:35,086
-I may even need to buy
-my own transport ship.
-
-89
-00:03:35,120 --> 00:03:38,890
-Quark, this <i>kanar</i> has gone bad.
-
-90
-00:03:38,928 --> 00:03:40,226
-What?!
-
-91
-00:03:40,264 --> 00:03:43,395
-I suggest you take your bottles
-and leave, Quark
-
 92
-00:03:43,470 --> 00:03:45,064
-before I have you arrested
+00:03:29,417 --> 00:03:30,919
+I may even
 
 93
-00:03:45,107 --> 00:03:47,441
+00:03:30,919 --> 00:03:33,672
+need to buy my own
+transport ship.
+
+94
+00:03:33,672 --> 00:03:36,133
+Quark, this<i> kanar</i>
+
+95
+00:03:36,133 --> 00:03:37,425
+has gone bad.
+
+96
+00:03:37,425 --> 00:03:38,844
+What?!
+
+97
+00:03:38,844 --> 00:03:40,595
+I suggest you take
+your bottles
+
+98
+00:03:40,595 --> 00:03:41,930
+and leave, Quark
+
+99
+00:03:41,930 --> 00:03:43,557
+before I have
+you arrested
+
+100
+00:03:43,557 --> 00:03:45,934
 for attempting
 to poison our guests.
 
-94
-00:04:01,239 --> 00:04:02,400
+101
+00:03:59,489 --> 00:04:00,991
 Excuse me, Commander.
 
-95
-00:04:02,441 --> 00:04:04,570
+102
+00:04:00,991 --> 00:04:03,035
 There's a Vedek Yarka
 here to see you.
 
-96
-00:04:04,612 --> 00:04:06,445
-He says it's urgent.
+103
+00:04:03,035 --> 00:04:04,953
+He says
+it's urgent.
 
-97
-00:04:08,754 --> 00:04:11,054
+104
+00:04:07,247 --> 00:04:09,666
 Thank you for seeing me,
 Emissary.
 
-98
-00:04:11,092 --> 00:04:12,959
+105
+00:04:09,666 --> 00:04:11,543
 What can I do for you?
 
-99
-00:04:12,996 --> 00:04:14,932
+106
+00:04:11,543 --> 00:04:13,461
 I am here with a warning
 from the Prophets.
 
-100
-00:04:14,967 --> 00:04:16,869
+107
+00:04:13,461 --> 00:04:15,172
 They don't want you
 to let the Cardassians
 
-101
-00:04:16,904 --> 00:04:18,065
+108
+00:04:15,172 --> 00:04:16,840
 come aboard this station.
 
-102
-00:04:18,106 --> 00:04:21,773
+109
+00:04:16,840 --> 00:04:20,343
 If you do, you will bring
 destruction on us all.
 
-103
-00:06:25,734 --> 00:06:27,897
-Are you making
-some sort of threat, Vedek?
+110
+00:04:21,720 --> 00:04:23,972
+(<i> sighs</i> )
 
-104
-00:06:27,939 --> 00:06:28,998
+111
+00:06:25,302 --> 00:06:27,554
+Are you making some
+sort of threat, Vedek?
+
+112
+00:06:27,554 --> 00:06:29,056
 Not at all.
 
-105
-00:06:29,042 --> 00:06:30,909
+113
+00:06:29,056 --> 00:06:30,724
 I'm simply telling you
 what was foretold
 
-106
-00:06:30,945 --> 00:06:32,174
+114
+00:06:30,724 --> 00:06:32,184
 in the ancient texts.
 
-107
-00:06:32,214 --> 00:06:33,774
+115
+00:06:32,184 --> 00:06:33,518
 Ancient texts...
 you mean a prophecy?
 
-108
-00:06:33,817 --> 00:06:35,183
+116
+00:06:33,518 --> 00:06:35,187
 Trakor's Third.
 
-109
-00:06:35,220 --> 00:06:38,124
+117
+00:06:35,187 --> 00:06:37,856
 When he first encountered
 the Orb of Change.
 
-110
-00:06:38,160 --> 00:06:39,651
-I'm afraid I don't know it.
+118
+00:06:37,856 --> 00:06:39,398
+I'm afraid I
+don't know it.
 
-111
-00:06:39,696 --> 00:06:41,928
+119
+00:06:39,398 --> 00:06:41,735
 Perhaps you should
 make more time
 
-112
-00:06:41,967 --> 00:06:43,333
-to study the texts, child.
+120
+00:06:41,735 --> 00:06:43,111
+to study the
+texts, child.
 
-113
-00:06:43,370 --> 00:06:46,365
-Are you saying that the arrival
+121
+00:06:43,111 --> 00:06:44,612
+Are you saying
+that the arrival
+
+122
+00:06:44,612 --> 00:06:46,156
 of the Cardassian scientists
 
-114
-00:06:46,409 --> 00:06:48,003
+123
+00:06:46,156 --> 00:06:47,824
 was foretold
 in a Bajoran prophecy?
 
-115
-00:06:48,046 --> 00:06:49,014
+124
+00:06:47,824 --> 00:06:48,950
 Exactly.
 
-116
-00:06:49,048 --> 00:06:50,847
+125
+00:06:48,950 --> 00:06:50,827
 Trakor's words are clear.
 
-117
-00:06:50,884 --> 00:06:54,949
+126
+00:06:50,827 --> 00:06:54,748
 "When the river wakes, stirred
 once more to Janir's side
 
-118
-00:06:54,993 --> 00:06:58,694
+127
+00:06:54,748 --> 00:06:58,417
 three vipers will return
 to their nest in the sky."
 
-119
-00:06:58,734 --> 00:07:01,102
-The river has awoken, Emissary.
+128
+00:06:58,417 --> 00:07:00,879
+The river has
+awoken, Emissary.
 
-120
-00:07:01,139 --> 00:07:03,609
+129
+00:07:00,879 --> 00:07:03,298
 The Qui'al Dam was just
 put back into operation
 
-121
-00:07:03,643 --> 00:07:05,111
-to divert water to the city.
+130
+00:07:03,298 --> 00:07:05,092
+to divert water
+to the city.
 
-122
-00:07:05,147 --> 00:07:07,549
+131
+00:07:05,092 --> 00:07:07,302
 Just as Trakor prophesied
 over 3,000 years ago.
 
-123
-00:07:07,585 --> 00:07:10,148
+132
+00:07:07,302 --> 00:07:09,596
 And even now, the vipers
 are making their way here.
 
-124
-00:07:10,190 --> 00:07:12,889
-And I take it you think
-the vipers are a reference
+133
+00:07:09,596 --> 00:07:11,139
+And I take it
 
-125
-00:07:12,928 --> 00:07:14,362
+134
+00:07:11,139 --> 00:07:12,682
+you think the vipers
+are a reference
+
+135
+00:07:12,682 --> 00:07:14,434
 to the Cardassian scientists?
 
-126
-00:07:14,398 --> 00:07:18,270
+136
+00:07:14,434 --> 00:07:17,687
 Yes, and this station
 is their nest in the sky.
 
-127
-00:07:21,312 --> 00:07:23,977
+137
+00:07:20,982 --> 00:07:23,735
 And how exactly
 is their presence here
 
-128
-00:07:24,018 --> 00:07:26,511
+138
+00:07:23,735 --> 00:07:26,238
 going to bring destruction
 on us all?
 
-129
-00:07:26,556 --> 00:07:27,922
+139
+00:07:26,238 --> 00:07:28,031
 Trakor said
 
-130
-00:07:27,959 --> 00:07:31,056
+140
+00:07:28,031 --> 00:07:30,909
 "When the vipers try to peer
 through the temple gates
 
-131
-00:07:31,099 --> 00:07:33,696
+141
+00:07:30,909 --> 00:07:33,453
 "a sword of stars
 will appear in the heavens.
 
-132
-00:07:33,737 --> 00:07:36,971
+142
+00:07:33,453 --> 00:07:36,790
 The temple will burn, and
 the gates will be cast open."
 
-133
-00:07:37,011 --> 00:07:39,447
+143
+00:07:36,790 --> 00:07:39,209
 You must not let
 the Cardassians come here.
 
-134
-00:07:39,549 --> 00:07:42,453
+144
+00:07:39,209 --> 00:07:42,170
 You must not let them
 violate the Celestial Temple
 
-135
-00:07:42,521 --> 00:07:43,887
+145
+00:07:42,170 --> 00:07:43,964
 or they will destroy it
 
-136
-00:07:43,924 --> 00:07:46,828
+146
+00:07:43,964 --> 00:07:46,425
 and Bajor will be cut off
 from the Prophets forever.
 
-137
-00:07:46,863 --> 00:07:49,699
+147
+00:07:46,425 --> 00:07:49,261
 Slow down.
 Now, let me get this straight.
 
-138
-00:07:49,735 --> 00:07:53,196
-You're saying that the vipers...
-the Cardassians...
+148
+00:07:49,261 --> 00:07:52,889
+You're saying that the vipers--
+the Cardassians--
 
-139
-00:07:53,243 --> 00:07:54,575
+149
+00:07:52,889 --> 00:07:53,974
 are going to destroy
 the wormhole?
 
-140
-00:07:54,612 --> 00:07:55,602
+150
+00:07:53,974 --> 00:07:55,600
 Don't you see?
 
-141
-00:07:55,647 --> 00:07:58,414
+151
+00:07:55,600 --> 00:07:58,019
 This communications relay
 you hope to create
 
-142
-00:07:58,453 --> 00:08:00,013
+152
+00:07:58,019 --> 00:07:59,896
 is part of the prophecy.
 
-143
-00:08:00,057 --> 00:08:03,861
+153
+00:07:59,896 --> 00:08:03,650
 It will allow the vipers to peer
-through the temple gates...
+through the temple gates--
 
-144
-00:08:03,897 --> 00:08:05,799
+154
+00:08:03,650 --> 00:08:05,526
 the wormhole, as you call it.
 
-145
-00:08:05,834 --> 00:08:08,738
+155
+00:08:05,526 --> 00:08:08,363
 And if they do, the temple
 will be destroyed.
 
-146
-00:08:08,773 --> 00:08:12,075
-Even if we accept that
-the Cardassians are the vipers
+156
+00:08:08,363 --> 00:08:11,783
+Even if we accept that the
+Cardassians are the vipers
 
-147
-00:08:12,114 --> 00:08:14,950
-there are only two of them
-coming, not three.
+157
+00:08:11,783 --> 00:08:14,661
+there are only two of
+them coming, not three.
 
-148
-00:08:14,986 --> 00:08:17,583
+158
+00:08:14,661 --> 00:08:16,079
 Isn't it possible
-that there are other mistakes
 
-149
-00:08:17,625 --> 00:08:19,959
+159
+00:08:16,079 --> 00:08:17,831
+that there are
+other mistakes
+
+160
+00:08:17,831 --> 00:08:19,707
 in your interpretation
 of the prophecy as well?
 
-150
-00:08:19,996 --> 00:08:22,968
-There will be three vipers,
+161
+00:08:19,707 --> 00:08:22,543
+There<i> will</i> be three vipers,
 you will see.
 
-151
-00:08:23,002 --> 00:08:25,131
-Do you understand
-what this communications relay
+162
+00:08:22,543 --> 00:08:24,504
+SISKO:
+Do you understand what
+this communications relay
 
-152
-00:08:25,173 --> 00:08:26,300
+163
+00:08:24,504 --> 00:08:26,131
 could mean for Bajor?
 
-153
-00:08:26,342 --> 00:08:28,744
+164
+00:08:26,131 --> 00:08:28,342
 If it works,
 we'll be able to stay in contact
 
-154
-00:08:28,780 --> 00:08:30,477
+165
+00:08:28,342 --> 00:08:30,135
 with ships
 in the Gamma Quadrant.
 
-155
-00:08:30,584 --> 00:08:33,420
+166
+00:08:30,135 --> 00:08:32,971
 It'll facilitate exploration
 
-156
-00:08:33,456 --> 00:08:35,449
+167
+00:08:32,971 --> 00:08:35,015
 help us monitor
 Dominion activity
 
-157
-00:08:35,494 --> 00:08:37,487
+168
+00:08:35,015 --> 00:08:37,142
 give us warning
 in case of an attack.
 
-158
-00:08:37,564 --> 00:08:40,593
-None of that matters.
+169
+00:08:37,142 --> 00:08:40,228
+<i>None</i> of that matters.
 
-159
-00:08:40,637 --> 00:08:41,935
+170
+00:08:40,228 --> 00:08:41,855
 You must listen to me.
 
-160
-00:08:41,973 --> 00:08:44,375
+171
+00:08:41,855 --> 00:08:44,024
 I know it is difficult
 for you to accept
 
-161
-00:08:44,412 --> 00:08:46,109
+172
+00:08:44,024 --> 00:08:45,775
 because you are not Bajoran.
 
-162
-00:08:46,149 --> 00:08:48,619
+173
+00:08:45,775 --> 00:08:48,153
 I have studied the prophecies
 all my life.
 
-163
-00:08:48,653 --> 00:08:51,055
+174
+00:08:48,153 --> 00:08:50,780
 We are on the verge
 of a great disaster.
 
-164
-00:08:51,092 --> 00:08:53,825
+175
+00:08:50,780 --> 00:08:53,492
 Is the Bajoran Assembly
 aware of this prophecy?
 
-165
-00:08:53,863 --> 00:08:55,229
+176
+00:08:53,492 --> 00:08:54,993
 Yes...
 
-166
-00:08:55,267 --> 00:08:56,998
+177
+00:08:54,993 --> 00:08:56,453
 as is the Kai herself.
 
-167
-00:08:57,036 --> 00:08:58,527
+178
+00:08:56,453 --> 00:08:58,288
 Yet, they still want us
 to proceed
 
-168
-00:08:58,606 --> 00:09:00,872
+179
+00:08:58,288 --> 00:09:00,581
 with the establishment
 of a communications relay.
 
-169
-00:09:00,911 --> 00:09:02,972
+180
+00:09:00,581 --> 00:09:02,709
 They have chosen
 to ignore the signs.
 
-170
-00:09:03,015 --> 00:09:05,110
+181
+00:09:02,709 --> 00:09:04,919
 And that is why I came
 to you, Emissary
 
-171
-00:09:05,153 --> 00:09:06,713
+182
+00:09:04,919 --> 00:09:06,546
 because I have faith in you.
 
-172
-00:09:06,756 --> 00:09:09,489
+183
+00:09:06,546 --> 00:09:09,257
 I know that you will do
 what must be done.
 
-173
-00:09:09,595 --> 00:09:11,758
+184
+00:09:09,257 --> 00:09:11,426
 Vedek...
 
-174
-00:09:11,799 --> 00:09:14,498
+185
+00:09:11,426 --> 00:09:14,179
 I have the utmost respect
 for your beliefs
 
-175
-00:09:14,605 --> 00:09:18,375
+186
+00:09:14,179 --> 00:09:17,807
 but I have no intention
 of calling this project off.
 
-176
-00:09:21,185 --> 00:09:24,989
-I hope that you will reconsider,
-Emissary.
+187
+00:09:20,852 --> 00:09:24,689
+I hope that you will
+reconsider, Emissary.
 
-177
-00:09:25,026 --> 00:09:27,691
+188
+00:09:24,689 --> 00:09:27,275
 My followers and I
 will remain on the station
 
-178
-00:09:27,731 --> 00:09:29,792
+189
+00:09:27,275 --> 00:09:29,069
 and pray that you
 change your mind.
 
-179
-00:09:29,835 --> 00:09:32,773
+190
+00:09:29,069 --> 00:09:31,196
 You are free to do that,
 of course.
 
-180
-00:09:38,920 --> 00:09:41,858
+191
+00:09:38,537 --> 00:09:41,456
 Major, have Odo find out
 everything he can
 
-181
-00:09:41,893 --> 00:09:44,363
+192
+00:09:41,456 --> 00:09:43,958
 about Vedek Yarka
 and his followers.
 
-182
-00:09:44,398 --> 00:09:46,527
+193
+00:09:43,958 --> 00:09:46,044
 I don't want them
 making any trouble
 
-183
-00:09:46,569 --> 00:09:48,436
-while the Cardassians are here.
+194
+00:09:46,044 --> 00:09:48,296
+while the Cardassians
+are here.
 
-184
-00:10:10,550 --> 00:10:12,179
+195
+00:09:57,597 --> 00:09:59,433
+(<i> sighs</i> )
+
+196
+00:10:09,443 --> 00:10:11,319
 I'm Commander Benjamin Sisko
 
-185
-00:10:12,221 --> 00:10:15,125
+197
+00:10:11,319 --> 00:10:14,239
 and, on behalf of the
 United Federation of Planets
 
-186
-00:10:15,160 --> 00:10:16,628
+198
+00:10:14,239 --> 00:10:15,698
 and Starfleet Command
 
-187
-00:10:16,662 --> 00:10:19,634
+199
+00:10:15,698 --> 00:10:18,618
 I'd like to welcome you
 to Deep Space 9.
 
-188
-00:10:19,702 --> 00:10:21,170
+200
+00:10:18,618 --> 00:10:20,203
 Thank you, Commander.
 
-189
-00:10:21,205 --> 00:10:22,868
+201
+00:10:20,203 --> 00:10:21,621
 I'm Dr. Ulani Belor.
 
-190
-00:10:22,908 --> 00:10:24,069
+202
+00:10:21,621 --> 00:10:22,914
 Gilora Rejal.
 
-191
-00:10:24,110 --> 00:10:27,378
-The Cardassian government
-wishes to express its gratitude
+203
+00:10:22,914 --> 00:10:24,999
+The Cardassian
+government
 
-192
-00:10:27,417 --> 00:10:29,148
-to the Federation for agreeing
+204
+00:10:24,999 --> 00:10:26,918
+wishes to express
+its gratitude
 
-193
-00:10:29,188 --> 00:10:31,055
+205
+00:10:26,918 --> 00:10:28,878
+to the Federation
+for agreeing
+
+206
+00:10:28,878 --> 00:10:30,880
 to work together
 on this project.
 
-194
-00:10:31,091 --> 00:10:34,393
+207
+00:10:30,880 --> 00:10:33,758
 It is our hope that it is the
 first of many such projects
 
-195
-00:10:34,431 --> 00:10:35,763
-between our peoples.
+208
+00:10:33,758 --> 00:10:35,260
+between
+our peoples.
 
-196
-00:10:35,800 --> 00:10:38,567
+209
+00:10:35,260 --> 00:10:37,762
 That's a hope I can
 assure you we share.
 
-197
-00:10:38,606 --> 00:10:41,169
-This is my First Officer,
-Major Kira.
+210
+00:10:37,762 --> 00:10:40,474
+This is my First
+Officer, Major Kira.
 
-198
-00:10:41,212 --> 00:10:43,580
+211
+00:10:40,474 --> 00:10:42,601
 And on behalf of the Bajoran
 provisional government
 
-199
-00:10:43,616 --> 00:10:44,675
+212
+00:10:42,601 --> 00:10:44,018
 I'd like to welcome you.
 
-200
-00:10:44,785 --> 00:10:46,276
+213
+00:10:44,018 --> 00:10:45,686
 It is our belief
 that this project
 
-201
-00:10:46,322 --> 00:10:48,349
+214
+00:10:45,686 --> 00:10:47,730
 will mark the beginning
 of a new era of peace
 
-202
-00:10:48,393 --> 00:10:50,556
-for Bajor and Cardassia.
+215
+00:10:47,730 --> 00:10:49,816
+for Bajor
+and Cardassia.
 
-203
-00:10:50,597 --> 00:10:52,157
+216
+00:10:49,816 --> 00:10:51,485
 Thank you, Major.
 
-204
-00:10:53,836 --> 00:10:54,963
+217
+00:10:52,652 --> 00:10:54,488
 Well...
 
-205
-00:10:55,005 --> 00:10:58,171
-now that we've gotten
-the formalities out of the way
+218
+00:10:54,488 --> 00:10:57,449
+now that we've gotten the
+formalities out of the way
 
-206
-00:10:58,213 --> 00:10:59,203
+219
+00:10:57,449 --> 00:10:58,533
 how was your trip?
 
-207
-00:10:59,248 --> 00:11:02,015
+220
+00:10:58,533 --> 00:11:01,328
 Exhausting.
 
-208
-00:11:02,053 --> 00:11:03,613
-We spent most of it rehearsing
+221
+00:11:01,328 --> 00:11:02,954
+We spent most of it
+rehearsing
 
-209
-00:11:03,656 --> 00:11:05,922
+222
+00:11:02,954 --> 00:11:05,081
 what we were going to say
 when we got here.
 
-210
-00:11:05,961 --> 00:11:07,658
+223
+00:11:05,081 --> 00:11:06,874
 We're scientists,
 not diplomats.
 
-211
-00:11:07,698 --> 00:11:09,132
+224
+00:11:06,874 --> 00:11:08,751
 You did very well.
 
-212
-00:11:09,167 --> 00:11:12,537
+225
+00:11:08,751 --> 00:11:11,796
 Please feel free to let
 the Central Command know that.
 
-213
-00:11:12,574 --> 00:11:14,339
+226
+00:11:11,796 --> 00:11:13,590
 In the past few days
 
-214
-00:11:14,378 --> 00:11:17,680
+227
+00:11:13,590 --> 00:11:16,926
 I've been contacted by Guls
 I haven't even heard of
 
-215
-00:11:17,784 --> 00:11:21,690
+228
+00:11:16,926 --> 00:11:20,972
 all of them wanting to emphasize
 how important this mission is.
 
-216
-00:11:21,792 --> 00:11:22,987
+229
+00:11:20,972 --> 00:11:22,265
 I know what you mean.
 
-217
-00:11:23,028 --> 00:11:24,394
+230
+00:11:22,265 --> 00:11:23,891
 I've gotten three calls
 
-218
-00:11:24,431 --> 00:11:26,264
+231
+00:11:23,891 --> 00:11:25,602
 from Starfleet Command
 just this morning.
 
-219
-00:11:28,506 --> 00:11:29,701
+232
+00:11:25,602 --> 00:11:27,521
+(<i> laughs</i> )
+
+233
+00:11:27,521 --> 00:11:29,564
 Major Kira
 
-220
-00:11:29,808 --> 00:11:33,076
+234
+00:11:29,564 --> 00:11:32,317
 I want to thank you personally
 for allowing us to come here.
 
-221
-00:11:33,115 --> 00:11:34,083
+235
+00:11:32,317 --> 00:11:33,318
 Me?
 
-222
-00:11:34,117 --> 00:11:35,210
+236
+00:11:33,318 --> 00:11:34,735
 You're the ranking
 
-223
-00:11:35,253 --> 00:11:36,882
-Bajoran officer on this station.
+237
+00:11:34,735 --> 00:11:36,029
+Bajoran officer
+on this station.
 
-224
-00:11:36,922 --> 00:11:38,413
+238
+00:11:36,029 --> 00:11:37,780
 I'm sure we wouldn't be here
 
-225
-00:11:38,459 --> 00:11:40,759
+239
+00:11:37,780 --> 00:11:40,033
 if you had been opposed
 to working with us.
 
-226
-00:11:42,668 --> 00:11:44,831
+240
+00:11:41,742 --> 00:11:43,995
 I'll work with anyone
 who's interested in peace.
 
-227
-00:11:44,872 --> 00:11:47,639
+241
+00:11:43,995 --> 00:11:47,040
 I'm glad we already
 have so much in common.
 
-228
-00:11:49,481 --> 00:11:53,387
+242
+00:11:48,500 --> 00:11:52,753
 Well, why don't I show you
 to your quarters?
 
-229
-00:11:59,835 --> 00:12:01,668
+243
+00:11:58,968 --> 00:12:01,596
 The signaling platform
 we've designed
 
-230
-00:12:01,706 --> 00:12:03,140
+244
+00:12:01,596 --> 00:12:03,056
 is intended to be positioned
 
-231
-00:12:03,175 --> 00:12:05,111
+245
+00:12:03,056 --> 00:12:04,849
 in the Gamma Quadrant,
-at this point...
+at this point--
 
-232
-00:12:05,145 --> 00:12:07,708
+246
+00:12:04,849 --> 00:12:06,851
 two kilometers from the
 far mouth of the wormhole.
 
-233
-00:12:07,751 --> 00:12:11,155
+247
+00:12:06,851 --> 00:12:10,480
 Our transceiver is being
 configured to fit inside it
 
-234
-00:12:11,191 --> 00:12:12,591
-and use its existing power grid.
+248
+00:12:10,480 --> 00:12:11,856
+and use its
+existing power grid.
 
-235
-00:12:12,627 --> 00:12:13,890
+249
+00:12:11,856 --> 00:12:13,400
+GILORA:
 A similar transceiver
 
-236
-00:12:13,930 --> 00:12:17,495
+250
+00:12:13,400 --> 00:12:16,361
 will be put in place
-here on Terok Nor...
+here on Terok Nor--
 
-237
-00:12:17,537 --> 00:12:19,439
+251
+00:12:16,361 --> 00:12:19,738
 on Deep Space 9.
 
-238
-00:12:20,610 --> 00:12:23,207
+252
+00:12:19,738 --> 00:12:22,409
 Ulani, I've looked over
 your design specifications.
 
-239
-00:12:23,249 --> 00:12:25,412
+253
+00:12:22,409 --> 00:12:24,785
 I'm not clear on what
 sort of carrier wave
 
-240
-00:12:25,453 --> 00:12:26,682
+254
+00:12:24,785 --> 00:12:26,120
 you're planning on using
 
-241
-00:12:26,722 --> 00:12:29,853
-to cut through the interference
-on the inside of the wormhole.
+255
+00:12:26,120 --> 00:12:27,455
+to cut through
+the interference
 
-242
-00:12:29,895 --> 00:12:33,494
+256
+00:12:27,455 --> 00:12:29,332
+on the inside
+of the wormhole.
+
+257
+00:12:29,332 --> 00:12:32,627
 We're planning to test various
 types of soliton pulses.
 
-243
-00:12:33,536 --> 00:12:36,508
-One of them should maintain
-the required signal integrity.
+258
+00:12:32,627 --> 00:12:34,045
+One of them
+should maintain
 
-244
-00:12:36,542 --> 00:12:39,139
+259
+00:12:34,045 --> 00:12:36,089
+the required
+signal integrity.
+
+260
+00:12:36,089 --> 00:12:38,425
 We tried something similar about
 a year ago without much success.
 
-245
-00:12:39,180 --> 00:12:42,516
-Yes, the Bajoran government
-made your data available to us.
+261
+00:12:38,425 --> 00:12:39,884
+Yes, the Bajoran
+government
 
-246
-00:12:42,554 --> 00:12:44,456
+262
+00:12:39,884 --> 00:12:41,886
+made your data
+available to us.
+
+263
+00:12:41,886 --> 00:12:43,804
 I believe the problem
 had to do with
 
-247
-00:12:44,491 --> 00:12:46,893
+264
+00:12:43,804 --> 00:12:46,015
 the phase variance
 in your transceiver coils.
 
-248
-00:12:46,929 --> 00:12:49,457
+265
+00:12:46,015 --> 00:12:48,727
 Well, I configured
 those coils myself.
 
-249
-00:12:49,501 --> 00:12:52,667
+266
+00:12:48,727 --> 00:12:51,812
 The variance was less
-than.01 percent.
+than .01 percent.
 
-250
-00:12:52,707 --> 00:12:55,804
+267
+00:12:51,812 --> 00:12:55,066
 Which, as you saw,
 was unacceptably high.
 
-251
-00:12:55,914 --> 00:12:58,077
+268
+00:12:55,066 --> 00:12:57,277
 Our new design has less
 than half that variance.
 
-252
-00:12:58,118 --> 00:12:59,951
+269
+00:12:57,277 --> 00:12:59,112
 You don't mind
 if I look at the specs?
 
-253
-00:12:59,988 --> 00:13:02,755
-If you think it's necessary.
+270
+00:12:59,112 --> 00:13:02,115
+<i>If</i> you think
+it's necessary.
 
-254
-00:13:02,861 --> 00:13:04,090
+271
+00:13:02,115 --> 00:13:03,575
 Commander...
 
-255
-00:13:04,130 --> 00:13:06,066
+272
+00:13:03,575 --> 00:13:05,326
 we'll need to make
 a few adjustments
 
-256
-00:13:06,100 --> 00:13:09,197
-to the station's signaling array
-so that it can accommodate
+273
+00:13:05,326 --> 00:13:06,953
+to the station's
+signaling array
 
-257
-00:13:09,240 --> 00:13:11,768
-the type of transmissions
-we're planning to use.
+274
+00:13:06,953 --> 00:13:08,371
+so that it
+can accommodate
 
-258
-00:13:11,879 --> 00:13:14,213
+275
+00:13:08,371 --> 00:13:09,581
+the type of
+transmissions
+
+276
+00:13:09,581 --> 00:13:11,249
+we're planning
+to use.
+
+277
+00:13:11,249 --> 00:13:13,543
 Chief O'Brien's people
 can assist you with that.
 
-259
-00:13:14,250 --> 00:13:15,913
+278
+00:13:13,543 --> 00:13:15,295
 And when you're ready
 
-260
-00:13:15,954 --> 00:13:18,892
-we'll take the <i>Defiant</i>
-to the Gamma Quadrant
+279
+00:13:15,295 --> 00:13:18,131
+we'll take the<i> Defiant</i>
+<i>to the Gamma Quadrant</i>
 
-261
-00:13:18,926 --> 00:13:21,328
+280
+00:13:18,131 --> 00:13:20,675
 deploy the communications relay
 and start running tests.
 
-262
-00:13:21,365 --> 00:13:23,164
+281
+00:13:20,675 --> 00:13:22,343
 Excellent.
 
-263
-00:13:23,201 --> 00:13:26,696
-Well, it's been a long day.
+282
+00:13:22,343 --> 00:13:25,846
+Well, it's been
+a long day.
 
-264
-00:13:26,742 --> 00:13:29,646
+283
+00:13:25,846 --> 00:13:28,600
 We'd like to get some rest
 so we can start fresh tomorrow.
 
-265
-00:13:29,681 --> 00:13:31,947
+284
+00:13:28,600 --> 00:13:29,976
 I'll have someone
-show you to your quarters.
 
-266
-00:13:31,986 --> 00:13:33,979
-Thank you,
-but that won't be necessary.
+285
+00:13:29,976 --> 00:13:31,561
+show you to
+your quarters.
 
-267
-00:13:34,023 --> 00:13:35,013
+286
+00:13:31,561 --> 00:13:33,104
+Thank you, but that
+won't be necessary.
+
+287
+00:13:33,104 --> 00:13:34,314
 Thank you.
 
-268
-00:13:40,269 --> 00:13:41,703
+288
+00:13:39,527 --> 00:13:41,154
 Now, those are about
 
-269
-00:13:41,739 --> 00:13:44,677
+289
+00:13:41,154 --> 00:13:43,948
 the two friendliest vipers
 I have ever met.
 
-270
-00:13:44,711 --> 00:13:47,342
+290
+00:13:43,948 --> 00:13:46,660
 I'll explain later.
 
-271
-00:13:49,621 --> 00:13:52,023
+291
+00:13:46,660 --> 00:13:48,869
+(<i> door opens</i> )
+
+292
+00:13:48,869 --> 00:13:51,164
 Commander, I almost
 forgot to tell you.
 
-272
-00:13:52,059 --> 00:13:53,688
-Another colleague of ours, Dejar
+293
+00:13:51,164 --> 00:13:52,957
+Another colleague
+of ours, Dejar
 
-273
-00:13:53,729 --> 00:13:55,528
+294
+00:13:52,957 --> 00:13:54,833
 will be arriving later today.
 
-274
-00:13:55,567 --> 00:13:56,694
+295
+00:13:54,833 --> 00:13:55,960
 I'll arrange quarters.
 
-275
-00:13:56,735 --> 00:13:58,466
+296
+00:13:55,960 --> 00:13:57,836
 Thank you.
 
-276
-00:14:00,008 --> 00:14:01,169
+297
+00:13:59,213 --> 00:14:00,548
 So...
 
-277
-00:14:01,210 --> 00:14:02,303
+298
+00:14:00,548 --> 00:14:01,800
 we need to discuss
 
-278
-00:14:02,347 --> 00:14:04,317
-what we're going to do about...
+299
+00:14:01,800 --> 00:14:03,718
+what we're going
+to do about...
 
-279
-00:14:06,388 --> 00:14:08,415
+300
+00:14:05,553 --> 00:14:07,722
 What is it, Major?
 
-280
-00:14:08,459 --> 00:14:11,829
+301
+00:14:07,722 --> 00:14:10,183
 There are going to be
 three of them.
 
-281
-00:14:11,899 --> 00:14:12,889
+302
+00:14:10,183 --> 00:14:11,976
 Yes?
 
-282
-00:14:13,970 --> 00:14:16,463
+303
+00:14:11,976 --> 00:14:15,854
 Three vipers...
 
-283
-00:14:16,508 --> 00:14:19,139
-just like in the prophecy.
+304
+00:14:15,854 --> 00:14:18,483
+just like
+in the prophecy.
 
-284
-00:14:29,708 --> 00:14:32,612
+305
+00:14:28,535 --> 00:14:31,538
+ODO:
 It turns out that Vedek Yarka
 is no longer a Vedek at all.
 
-285
-00:14:32,647 --> 00:14:34,674
-He was stripped of his title
-two months ago.
+306
+00:14:31,538 --> 00:14:33,790
+He was stripped of his
+title two months ago.
 
-286
-00:14:34,751 --> 00:14:35,980
+307
+00:14:33,790 --> 00:14:34,999
 Why?
 
-287
-00:14:36,020 --> 00:14:37,990
+308
+00:14:34,999 --> 00:14:36,917
 Officially, for teachings
 
-288
-00:14:38,024 --> 00:14:40,621
-not in keeping
-with the Bajoran faith.
+309
+00:14:36,917 --> 00:14:39,546
+not in keeping with
+the Bajoran faith.
 
-289
-00:14:40,663 --> 00:14:44,694
+310
+00:14:39,546 --> 00:14:43,633
 But according to my sources,
 he was defrocked because he led
 
-290
-00:14:44,738 --> 00:14:47,904
+311
+00:14:43,633 --> 00:14:46,969
 a series of protests
 against the Vedek Assembly
 
-291
-00:14:47,944 --> 00:14:50,472
+312
+00:14:46,969 --> 00:14:49,430
 when they endorsed the peace
 treaty with Cardassia.
 
-292
-00:14:50,516 --> 00:14:52,816
+313
+00:14:49,430 --> 00:14:51,850
 So Yarka may be
 using this prophecy
 
-293
-00:14:52,854 --> 00:14:55,324
+314
+00:14:51,850 --> 00:14:54,143
 as a way to scuttle
 the peace treaty.
 
-294
-00:14:55,359 --> 00:14:57,488
+315
+00:14:54,143 --> 00:14:56,312
 That would seem
 to be his agenda.
 
-295
-00:14:57,530 --> 00:15:00,661
+316
+00:14:56,312 --> 00:14:59,566
 And it's probably coloring
 his view of the prophecy
 
-296
-00:15:00,703 --> 00:15:03,334
+317
+00:14:59,566 --> 00:15:02,276
 just as your agenda
 colors how you see it.
 
-297
-00:15:03,375 --> 00:15:05,504
+318
+00:15:02,276 --> 00:15:04,529
 I don't have an agenda, Odo.
 
-298
-00:15:05,546 --> 00:15:07,880
+319
+00:15:04,529 --> 00:15:06,906
 I want this project to succeed
 
-299
-00:15:07,917 --> 00:15:10,114
+320
+00:15:06,906 --> 00:15:08,949
 because I want
 the peace treaty to succeed.
 
-300
-00:15:10,155 --> 00:15:13,559
+321
+00:15:08,949 --> 00:15:12,579
 If I thought for a moment
 that there was any possibility
 
-301
-00:15:13,596 --> 00:15:15,293
+322
+00:15:12,579 --> 00:15:14,205
 that this communications relay
 
-302
-00:15:15,332 --> 00:15:17,165
+323
+00:15:14,205 --> 00:15:16,082
 could cause damage
 to the wormhole
 
-303
-00:15:17,202 --> 00:15:18,967
+324
+00:15:16,082 --> 00:15:17,917
 I'd put a stop to it right now.
 
-304
-00:15:19,006 --> 00:15:22,445
+325
+00:15:17,917 --> 00:15:21,462
 That's not the agenda
 I was referring to, Commander.
 
-305
-00:15:22,480 --> 00:15:23,470
+326
+00:15:21,462 --> 00:15:22,463
 Oh?
 
-306
-00:15:23,516 --> 00:15:24,643
+327
+00:15:22,463 --> 00:15:23,964
 I was referring
 
-307
-00:15:24,685 --> 00:15:27,121
+328
+00:15:23,964 --> 00:15:26,050
 to your desire
 to distance yourself
 
-308
-00:15:27,156 --> 00:15:29,126
+329
+00:15:26,050 --> 00:15:27,927
 from the title of Emissary.
 
-309
-00:15:29,160 --> 00:15:31,723
+330
+00:15:27,927 --> 00:15:30,764
 It's just an observation,
 of course
 
-310
-00:15:31,799 --> 00:15:33,735
+331
+00:15:30,764 --> 00:15:32,640
 but it's always seemed to me
 
-311
-00:15:33,769 --> 00:15:36,741
+332
+00:15:32,640 --> 00:15:35,976
 that you've never been
 comfortable with it.
 
-312
-00:15:42,252 --> 00:15:44,849
+333
+00:15:39,606 --> 00:15:41,107
+(<i> sighs</i> )
+
+334
+00:15:41,107 --> 00:15:43,943
 I can't deny that.
 
-313
-00:15:47,897 --> 00:15:49,126
+335
+00:15:46,613 --> 00:15:48,239
 Are you suggesting
 
-314
-00:15:49,166 --> 00:15:52,002
+336
+00:15:48,239 --> 00:15:50,950
 that I'm dismissing
 this prophecy too easily
 
-315
-00:15:52,039 --> 00:15:54,602
+337
+00:15:50,950 --> 00:15:54,245
 because I don't want
 to be the Emissary?
 
-316
-00:15:54,644 --> 00:15:56,341
-I'm not suggesting anything
+338
+00:15:54,245 --> 00:15:56,330
+I'm not suggesting
+anything
 
-317
-00:15:56,380 --> 00:15:58,441
+339
+00:15:56,330 --> 00:15:58,583
 but it's been my experience
 
-318
-00:15:58,486 --> 00:16:02,085
+340
+00:15:58,583 --> 00:16:02,462
 that all humanoids have
 an agenda of some sort
 
-319
-00:16:02,126 --> 00:16:05,257
+341
+00:16:02,462 --> 00:16:04,505
 and that their agendas
 can influence them
 
-320
-00:16:05,298 --> 00:16:07,826
+342
+00:16:04,505 --> 00:16:06,966
 without their even realizing it.
 
-321
-00:16:10,375 --> 00:16:12,572
+343
+00:16:09,218 --> 00:16:11,596
 Morn came by the Infirmary
 this afternoon.
 
-322
-00:16:12,614 --> 00:16:14,641
+344
+00:16:11,596 --> 00:16:13,640
 He had an acute case
 of food poisoning.
 
-323
-00:16:14,684 --> 00:16:17,349
+345
+00:16:13,640 --> 00:16:15,934
 Morn? I didn't think anything
 could make him sick.
 
-324
-00:16:17,389 --> 00:16:18,414
+346
+00:16:15,934 --> 00:16:17,518
 Well, he said he had
 
-325
-00:16:18,458 --> 00:16:20,257
-a bad glass of <i>kanar</i>
-at Quark's.
+347
+00:16:17,518 --> 00:16:19,186
+a bad glass of
+<i>kanar</i> at Quark's.
 
-326
-00:16:20,295 --> 00:16:21,763
-He should ask for a refund.
+348
+00:16:19,186 --> 00:16:20,772
+He should ask
+for a refund.
 
-327
-00:16:21,832 --> 00:16:23,095
-Apparently, it was on the house.
+349
+00:16:20,772 --> 00:16:22,356
+Apparently, it was
+on the house.
 
-328
-00:16:23,134 --> 00:16:25,935
+350
+00:16:22,356 --> 00:16:24,901
 Major, may I have
 a word with you?
 
-329
-00:16:25,973 --> 00:16:27,100
-I'll see you later.
+351
+00:16:24,901 --> 00:16:26,360
+I'll see
+you later.
 
-330
-00:16:27,142 --> 00:16:29,612
-What can I do for you, Vedek?
+352
+00:16:26,360 --> 00:16:28,863
+What can I do
+for you, Vedek?
 
-331
-00:16:29,648 --> 00:16:32,141
-Have you been able
-to convince the Emissary
+353
+00:16:28,863 --> 00:16:31,031
+Have you been able to
+convince the Emissary
 
-332
-00:16:32,186 --> 00:16:33,746
-to reconsider his decision?
+354
+00:16:31,031 --> 00:16:33,075
+to reconsider
+his decision?
 
-333
-00:16:33,789 --> 00:16:36,488
+355
+00:16:33,075 --> 00:16:35,119
 I haven't tried
 and I'm not planning to.
 
-334
-00:16:36,528 --> 00:16:37,757
+356
+00:16:35,119 --> 00:16:36,913
 But you must.
 
-335
-00:16:37,797 --> 00:16:39,790
+357
+00:16:36,913 --> 00:16:38,832
 If not, the Celestial
 Temple will be destroyed.
 
-336
-00:16:39,901 --> 00:16:41,803
+358
+00:16:38,832 --> 00:16:40,792
 I'm not convinced
 that's going to happen.
 
-337
-00:16:41,905 --> 00:16:43,203
+359
+00:16:40,792 --> 00:16:42,168
 Don't you believe
 in the prophecies?
 
-338
-00:16:43,241 --> 00:16:44,266
+360
+00:16:42,168 --> 00:16:43,252
 Yes.
 
-339
-00:16:44,310 --> 00:16:45,278
+361
+00:16:43,252 --> 00:16:44,754
 And don't you believe
 
-340
-00:16:45,312 --> 00:16:46,803
+362
+00:16:44,754 --> 00:16:46,464
 that Commander Sisko
 is the Emissary?
 
-341
-00:16:46,882 --> 00:16:50,218
+363
+00:16:46,464 --> 00:16:49,133
 Vedek, you have to understand
 my position here.
 
-342
-00:16:50,255 --> 00:16:53,193
+364
+00:16:49,133 --> 00:16:52,136
 Commander Sisko is
 my superior officer.
 
-343
-00:16:53,228 --> 00:16:55,460
+365
+00:16:52,136 --> 00:16:54,305
 I have to deal with him
 on that basis first.
 
-344
-00:16:55,498 --> 00:16:57,559
+366
+00:16:54,305 --> 00:16:56,390
 So you do believe
 he is the Emissary.
 
-345
-00:16:57,604 --> 00:16:59,471
+367
+00:16:56,390 --> 00:16:58,392
 You just don't want
 him to know that.
 
-346
-00:16:59,506 --> 00:17:01,476
+368
+00:16:58,392 --> 00:17:00,227
 I understand.
 
-347
-00:17:01,510 --> 00:17:02,478
+369
+00:17:00,227 --> 00:17:01,688
 You want him to know
 
-348
-00:17:02,512 --> 00:17:04,141
+370
+00:17:01,688 --> 00:17:02,814
 that he can count
 on you as an officer
 
-349
-00:17:04,183 --> 00:17:05,310
+371
+00:17:02,814 --> 00:17:04,649
 under his command.
 
-350
-00:17:05,352 --> 00:17:07,983
+372
+00:17:04,649 --> 00:17:07,109
 You want to keep your work
 and your faith separate.
 
-351
-00:17:08,024 --> 00:17:09,960
-Yes, and for three years now,
-I have.
+373
+00:17:07,109 --> 00:17:08,903
+Yes, and for three
+years now, I have.
 
-352
-00:17:09,995 --> 00:17:12,090
+374
+00:17:08,903 --> 00:17:11,155
 I'm afraid
 that's no longer possible.
 
-353
-00:17:12,132 --> 00:17:13,795
+375
+00:17:11,155 --> 00:17:12,782
 The Prophets have chosen you
 
-354
-00:17:13,836 --> 00:17:16,204
+376
+00:17:12,782 --> 00:17:15,075
 to help the Emissary
 make this decision.
 
-355
-00:17:16,240 --> 00:17:19,610
+377
+00:17:15,075 --> 00:17:18,538
 A decision that has profound
 implications for all of Bajor.
 
-356
-00:17:19,648 --> 00:17:22,050
+378
+00:17:18,538 --> 00:17:21,123
 You must convince him
 to make the Cardassians leave
 
-357
-00:17:22,085 --> 00:17:23,679
+379
+00:17:21,123 --> 00:17:23,501
 before the sword of stars
 appears.
 
-358
-00:17:23,722 --> 00:17:26,956
+380
+00:17:23,501 --> 00:17:25,962
 Vedek, if you're asking me to...
 
-359
-00:17:26,995 --> 00:17:29,831
+381
+00:17:25,962 --> 00:17:28,798
 It is not I who is asking,
 it is the Prophets.
 
-360
-00:17:29,868 --> 00:17:31,838
+382
+00:17:28,798 --> 00:17:30,842
 If you turn your back
 on them now
 
-361
-00:17:31,872 --> 00:17:33,637
+383
+00:17:30,842 --> 00:17:32,635
 you're abandoning your faith.
 
-362
-00:17:33,676 --> 00:17:35,475
+384
+00:17:32,635 --> 00:17:34,428
 And without your faith, Nerys
 
-363
-00:17:35,512 --> 00:17:37,880
+385
+00:17:34,428 --> 00:17:36,973
 what do you have left?
 
-364
-00:17:46,367 --> 00:17:48,303
-I prefer the serialist poets
+386
+00:17:45,189 --> 00:17:47,191
+I prefer
+the serialist poets
 
-365
-00:17:48,338 --> 00:17:51,504
+387
+00:17:47,191 --> 00:17:50,319
 from the First Republic,
 like Iloja of Prim.
 
-366
-00:17:51,544 --> 00:17:54,209
+388
+00:17:50,319 --> 00:17:53,197
 He's easily my favorite
 Cardassian writer.
 
-367
-00:17:54,249 --> 00:17:56,583
+389
+00:17:53,197 --> 00:17:55,533
 It is so rare to meet
 a non-Cardassian
 
-368
-00:17:56,621 --> 00:17:58,648
-who appreciates our literature.
+390
+00:17:55,533 --> 00:17:57,284
+who appreciates
+our literature.
 
-369
-00:17:58,692 --> 00:17:59,785
+391
+00:17:57,284 --> 00:17:58,912
 I took an interest
 
-370
-00:17:59,828 --> 00:18:02,230
-because I had
-the chance to meet Iloja.
+392
+00:17:58,912 --> 00:18:01,205
+because I had the
+chance to meet Iloja.
 
-371
-00:18:02,265 --> 00:18:03,233
-You knew him?
+393
+00:18:01,205 --> 00:18:02,498
+You<i> knew</i> him?
 
-372
-00:18:03,267 --> 00:18:04,633
-One of my previous hosts
+394
+00:18:02,498 --> 00:18:04,458
+One of my
+previous hosts
 
-373
-00:18:04,671 --> 00:18:08,075
+395
+00:18:04,458 --> 00:18:07,045
 Tobin, met him while he
 was in exile on Vulcan.
 
-374
-00:18:08,111 --> 00:18:11,140
-As I recall,
-he had quite a temper.
-
-375
-00:18:11,183 --> 00:18:12,242
+396
+00:18:07,045 --> 00:18:11,215
+As I recall, he had
+quite a temper.
 Really?
 
-376
-00:18:12,285 --> 00:18:15,724
-I believe this is the party
-you're looking for.
+397
+00:18:11,215 --> 00:18:14,761
+QUARK:
+I believe this is the
+party you're looking for.
 
-377
-00:18:15,760 --> 00:18:17,194
+398
+00:18:14,761 --> 00:18:16,136
+ULANI:
 Dejar.
 
-378
-00:18:17,229 --> 00:18:19,631
-May I introduce Jadzia Dax
+399
+00:18:16,136 --> 00:18:18,598
+May I introduce
+Jadzia Dax
 
-379
-00:18:19,667 --> 00:18:21,637
-and Miles O'Brien.
+400
+00:18:18,598 --> 00:18:20,641
+and Miles
+O'Brien.
 
-380
-00:18:21,671 --> 00:18:23,641
-Our colleague, Dejar.
+401
+00:18:20,641 --> 00:18:22,602
+Our colleague,
+Dejar.
 
-381
-00:18:23,675 --> 00:18:25,611
+402
+00:18:22,602 --> 00:18:24,562
 We weren't expecting
 you so soon.
 
-382
-00:18:25,646 --> 00:18:28,277
+403
+00:18:24,562 --> 00:18:27,231
 I was able to arrange
 special transportation.
 
-383
-00:18:28,317 --> 00:18:29,877
+404
+00:18:27,231 --> 00:18:28,983
 I'm sure you were.
 
-384
-00:18:31,057 --> 00:18:33,824
+405
+00:18:30,192 --> 00:18:32,862
 I took the liberty
 of preparing
 
-385
-00:18:33,862 --> 00:18:37,666
+406
+00:18:32,862 --> 00:18:35,573
 a few of our special
 Cardassian delicacies.
 
-386
-00:18:41,010 --> 00:18:43,914
-Tojal in <i>yamok</i> sauce.
+407
+00:18:40,036 --> 00:18:43,081
+Tojal in
+<i>yamok</i> sauce.
 
-387
-00:18:44,016 --> 00:18:45,382
+408
+00:18:43,081 --> 00:18:44,331
 Regova eggs.
 
-388
-00:18:45,418 --> 00:18:48,015
-All fresh, not replicated.
+409
+00:18:44,331 --> 00:18:47,126
+All fresh,
+not replicated.
 
-389
-00:18:50,996 --> 00:18:53,364
+410
+00:18:50,004 --> 00:18:52,465
 Well, enjoy.
 
-390
-00:18:57,242 --> 00:18:58,505
+411
+00:18:56,260 --> 00:18:57,971
 Is something wrong?
 
-391
-00:18:58,544 --> 00:18:59,773
+412
+00:18:57,971 --> 00:18:59,764
 It's just...
 
-392
-00:18:59,814 --> 00:19:03,879
+413
+00:18:59,764 --> 00:19:03,059
 I don't really care
 for Cardassian cuisine.
 
-393
-00:19:03,989 --> 00:19:07,189
+414
+00:19:03,059 --> 00:19:04,310
+GILORA:
 We try to avoid it
+
+415
+00:19:04,310 --> 00:19:06,270
 whenever possible.
 
-394
-00:19:09,032 --> 00:19:11,560
+416
+00:19:06,270 --> 00:19:08,106
+(<i> chuckling</i> )
+
+417
+00:19:08,106 --> 00:19:10,566
 Fortunately, those of us
 in the Science Ministry
 
-395
-00:19:11,604 --> 00:19:14,303
+418
+00:19:10,566 --> 00:19:13,193
 are provided with a wide variety
 of off-world food.
 
-396
-00:19:14,343 --> 00:19:16,370
+419
+00:19:13,193 --> 00:19:15,237
 Yes, we're
 actually quite spoiled.
 
-397
-00:19:16,413 --> 00:19:18,713
+420
+00:19:15,237 --> 00:19:17,657
 Some of us even think
 of ourselves
 
-398
-00:19:18,752 --> 00:19:21,154
+421
+00:19:17,657 --> 00:19:20,326
 as better
 than the average Cardassian.
 
-399
-00:19:28,571 --> 00:19:30,939
-The main switching relays
-are in here.
+422
+00:19:27,416 --> 00:19:30,544
+The main switching
+relays are in here.
 
-400
-00:19:31,010 --> 00:19:33,503
+423
+00:19:30,544 --> 00:19:33,297
 I think we should hook
 your transceiver
 
-401
-00:19:33,548 --> 00:19:35,780
+424
+00:19:33,297 --> 00:19:34,799
 to the ODN interface
 through the...
 
-402
-00:19:35,819 --> 00:19:37,914
-What happened
-to these couplings?
+425
+00:19:34,799 --> 00:19:36,968
+What happened to
+these couplings?
 
-403
-00:19:37,957 --> 00:19:40,952
+426
+00:19:36,968 --> 00:19:39,929
 What? Oh, I-I made
 some modifications.
 
-404
-00:19:41,030 --> 00:19:42,966
+427
+00:19:39,929 --> 00:19:41,973
 Well, these relays
 don't have nearly
 
-405
-00:19:43,034 --> 00:19:44,970
-as much carrying capacity
-as before.
+428
+00:19:41,973 --> 00:19:44,058
+as much carrying
+capacity as before.
 
-406
-00:19:45,038 --> 00:19:46,438
+429
+00:19:44,058 --> 00:19:45,643
 They won't be able to handle
 
-407
-00:19:46,473 --> 00:19:48,340
+430
+00:19:45,643 --> 00:19:47,311
 the signal load
 from the transceiver.
 
-408
-00:19:48,377 --> 00:19:50,176
+431
+00:19:47,311 --> 00:19:49,271
 Well, in order
 to bring the system
 
-409
-00:19:50,215 --> 00:19:53,119
+432
+00:19:49,271 --> 00:19:52,191
 up to Starfleet code, I had
 to take out the couplings
 
-410
-00:19:53,154 --> 00:19:55,647
+433
+00:19:52,191 --> 00:19:54,527
 to make room
 for a secondary backup.
 
-411
-00:19:55,692 --> 00:19:58,823
+434
+00:19:54,527 --> 00:19:57,864
 Starfleet code requires
-a second backup?
+a<i> second</i> backup?
 
-412
-00:19:58,865 --> 00:20:01,666
+435
+00:19:57,864 --> 00:20:01,492
 In case the first one fails.
 
-413
-00:20:01,705 --> 00:20:04,472
+436
+00:20:01,492 --> 00:20:03,452
 What are the chances that
 both a primary system
 
-414
-00:20:04,509 --> 00:20:07,174
-and its backup would
+437
+00:20:03,452 --> 00:20:06,205
+<i>and</i> its backup would
 fail at the same time?
 
-415
-00:20:07,215 --> 00:20:09,447
+438
+00:20:06,205 --> 00:20:08,290
 Well, it's very unlikely,
 but, in a crunch
 
-416
-00:20:09,486 --> 00:20:12,390
+439
+00:20:08,290 --> 00:20:11,544
 I wouldn't like to be caught
 without a second backup.
 
-417
-00:20:14,096 --> 00:20:15,895
+440
+00:20:13,129 --> 00:20:14,922
 Well!
 
-418
-00:20:16,935 --> 00:20:18,233
+441
+00:20:14,922 --> 00:20:15,965
+(<i> pounds fist</i> )
+
+442
+00:20:15,965 --> 00:20:17,633
 What's done is done.
 
-419
-00:20:18,271 --> 00:20:21,334
+443
+00:20:17,633 --> 00:20:20,260
 I'll try to figure out
 what we should do next.
 
-420
-00:20:21,377 --> 00:20:23,279
+444
+00:20:20,260 --> 00:20:22,346
 Well, I think our best
 bet would be to go...
 
-421
-00:20:23,314 --> 00:20:26,411
+445
+00:20:22,346 --> 00:20:25,391
 Please, please just
 give me a moment to think.
 
-422
-00:20:26,453 --> 00:20:28,685
+446
+00:20:25,391 --> 00:20:27,476
 Fine.
 
-423
-00:20:28,724 --> 00:20:30,660
-I'll just sit here quietly.
+447
+00:20:27,476 --> 00:20:29,520
+I'll just sit
+here quietly.
 
-424
-00:20:30,695 --> 00:20:34,965
-Huh. In that case, could you
-get me a cup of red leaf tea?
+448
+00:20:29,520 --> 00:20:32,314
+Huh. In that case,
+could you get me
 
-425
-00:20:37,810 --> 00:20:40,280
+449
+00:20:32,314 --> 00:20:33,983
+a cup of red leaf tea?
+
+450
+00:20:36,736 --> 00:20:39,363
 Why not?
 
-426
-00:20:54,476 --> 00:20:56,275
+451
+00:20:53,293 --> 00:20:55,295
 We've loaded
 the communications relay
 
-427
-00:20:56,313 --> 00:20:57,781
-into the <i>Defiant's</i> cargo bay.
+452
+00:20:55,295 --> 00:20:56,463
+into the<i> Defiant's</i> cargo bay.
 
-428
-00:20:57,817 --> 00:20:58,785
+453
+00:20:56,463 --> 00:20:58,049
 Good.
 
-429
-00:20:58,819 --> 00:21:00,686
+454
+00:20:58,049 --> 00:20:59,508
 How are Chief O'Brien
 and Gilora coming along?
 
-430
-00:21:00,722 --> 00:21:02,213
+455
+00:20:59,508 --> 00:21:01,301
 They've run into
 some kind of problem
 
-431
-00:21:02,258 --> 00:21:03,624
+456
+00:21:01,301 --> 00:21:02,803
 but the Chief says
 the transceiver
 
-432
-00:21:03,661 --> 00:21:05,221
+457
+00:21:02,803 --> 00:21:04,430
 should be on line
 in about four hours.
 
-433
-00:21:05,264 --> 00:21:07,234
+458
+00:21:04,430 --> 00:21:06,348
 We won't be ready much
 before that anyway.
 
-434
-00:21:07,268 --> 00:21:09,738
+459
+00:21:06,348 --> 00:21:08,684
+DAX:
 We've received clearance
 from Ops, Commander.
 
-435
-00:21:09,774 --> 00:21:12,337
+460
+00:21:08,684 --> 00:21:11,062
 Release docking clamps
 
-436
-00:21:12,379 --> 00:21:14,246
+461
+00:21:11,062 --> 00:21:13,355
 and set a course
 for the wormhole.
 
-437
-00:21:24,804 --> 00:21:26,204
+462
+00:21:23,699 --> 00:21:25,243
 Full scan.
 
-438
-00:21:26,240 --> 00:21:28,107
+463
+00:21:25,243 --> 00:21:27,161
 No sign of Dominion activity.
 
-439
-00:21:28,177 --> 00:21:29,942
+464
+00:21:27,161 --> 00:21:28,871
 No other ships in the area.
 
-440
-00:21:29,981 --> 00:21:32,349
-All right,
-take us into position.
+465
+00:21:28,871 --> 00:21:31,457
+SISKO:
+All right, take
+us into position.
 
-441
-00:21:32,385 --> 00:21:34,821
+466
+00:21:31,457 --> 00:21:33,751
 Stand by to deploy the relay...
 
-442
-00:21:34,857 --> 00:21:35,825
+467
+00:21:33,751 --> 00:21:34,752
 Wait a minute.
 
-443
-00:21:35,859 --> 00:21:37,293
+468
+00:21:34,752 --> 00:21:36,420
 What is it?
 
-444
-00:21:37,328 --> 00:21:40,664
+469
+00:21:36,420 --> 00:21:39,548
 I'm reading a large mass
 of ice and ionized gas
 
-445
-00:21:40,701 --> 00:21:43,400
-entering sensor range,
+470
+00:21:39,548 --> 00:21:40,883
+entering
+sensor range
+
+471
+00:21:40,883 --> 00:21:42,426
 bearing 215 mark 3.
 
-446
-00:21:43,441 --> 00:21:45,308
+472
+00:21:42,426 --> 00:21:44,303
 It looks like a rogue comet.
 
-447
-00:21:45,344 --> 00:21:46,870
+473
+00:21:44,303 --> 00:21:45,805
 Let's have a look.
 
-448
-00:21:46,915 --> 00:21:48,349
+474
+00:21:45,805 --> 00:21:47,431
 Put it on screen.
 
-449
-00:21:52,893 --> 00:21:53,861
+475
+00:21:51,477 --> 00:21:52,770
 It's beautiful.
 
-450
-00:21:53,895 --> 00:21:55,158
+476
+00:21:52,770 --> 00:21:54,563
+DAX:
 Its core contains
 
-451
-00:21:55,231 --> 00:21:57,633
+477
+00:21:54,563 --> 00:21:56,440
 unusually high concentrations
 of silithium.
 
-452
-00:21:57,669 --> 00:21:59,832
+478
+00:21:56,440 --> 00:21:57,691
 That's why its tail
+
+479
+00:21:57,691 --> 00:21:58,776
 is so bright.
 
-453
-00:21:59,874 --> 00:22:02,208
+480
+00:21:58,776 --> 00:22:01,320
 The sword of stars.
 
-454
-00:22:11,484 --> 00:22:15,720
-That's a very colorful way
-to describe a comet, Major.
+481
+00:22:10,370 --> 00:22:12,498
+That's a very
+colorful way
 
-455
-00:22:19,500 --> 00:22:21,436
+482
+00:22:12,498 --> 00:22:15,375
+to describe
+a comet, Major.
+
+483
+00:22:18,462 --> 00:22:20,673
 It's just a figure of speech.
 
-456
-00:22:26,180 --> 00:22:27,341
+484
+00:22:25,385 --> 00:22:26,846
 Well, your sword of stars
 
-457
-00:22:27,382 --> 00:22:29,249
+485
+00:22:26,846 --> 00:22:28,597
 is going to pass
 very near the wormhole
 
-458
-00:22:29,286 --> 00:22:32,190
+486
+00:22:28,597 --> 00:22:31,349
 but not close enough
 to interfere with our plans.
 
-459
-00:22:32,225 --> 00:22:34,092
+487
+00:22:31,349 --> 00:22:33,269
 We're in position, Benjamin.
 
-460
-00:22:34,129 --> 00:22:36,862
+488
+00:22:33,269 --> 00:22:35,938
 Begin a final systems check
 on the relay station.
 
-461
-00:22:36,902 --> 00:22:38,963
+489
+00:22:35,938 --> 00:22:38,149
 I want to deploy it
 within the hour.
 
-462
-00:22:48,024 --> 00:22:51,485
+490
+00:22:47,116 --> 00:22:50,703
 Major, can I have
 a word with you?
 
-463
-00:23:01,617 --> 00:23:03,348
+491
+00:23:00,713 --> 00:23:02,464
 The sword of stars?
 
-464
-00:23:03,387 --> 00:23:06,359
+492
+00:23:02,464 --> 00:23:05,051
 It certainly looked
 like that to me.
 
-465
-00:23:06,393 --> 00:23:07,452
+493
+00:23:05,051 --> 00:23:06,760
 That's open to debate
 
-466
-00:23:07,495 --> 00:23:09,863
+494
+00:23:06,760 --> 00:23:09,013
 but what is not debatable
 is that this prophecy
 
-467
-00:23:09,901 --> 00:23:11,962
+495
+00:23:09,013 --> 00:23:11,140
 has no place
-on the Bridge of the <i>Defiant</i>
+on the Bridge of the<i> Defiant</i>
 
-468
-00:23:12,005 --> 00:23:13,975
+496
+00:23:11,140 --> 00:23:13,142
 especially in front
 of the Cardassians.
 
-469
-00:23:14,009 --> 00:23:16,206
+497
+00:23:13,142 --> 00:23:15,435
 At the moment, they are
 not even aware of it
 
-470
-00:23:16,246 --> 00:23:17,806
-and I want to keep it that way.
+498
+00:23:15,435 --> 00:23:16,896
+and I want
+to keep it that way.
 
-471
-00:23:17,849 --> 00:23:20,149
+499
+00:23:16,896 --> 00:23:19,315
 You're right.
 
-472
-00:23:20,188 --> 00:23:21,748
+500
+00:23:19,315 --> 00:23:20,900
 It won't happen again.
 
-473
-00:23:22,792 --> 00:23:23,885
+501
+00:23:21,901 --> 00:23:23,069
 Well...
 
-474
-00:23:28,204 --> 00:23:29,695
+502
+00:23:27,740 --> 00:23:29,367
 I take it, Major
 
-475
-00:23:29,740 --> 00:23:33,976
+503
+00:23:29,367 --> 00:23:33,453
 that you believe
 the prophecy is coming true.
 
-476
-00:23:34,016 --> 00:23:36,544
+504
+00:23:33,453 --> 00:23:35,831
 Yes, I do.
 
-477
-00:23:36,587 --> 00:23:39,559
+505
+00:23:35,831 --> 00:23:38,792
 So you think I should
 call this mission off?
 
-478
-00:23:39,593 --> 00:23:41,722
-Look at what's happened already.
+506
+00:23:38,792 --> 00:23:41,128
+Look at what's
+happened already.
 
-479
-00:23:41,764 --> 00:23:44,759
+507
+00:23:41,128 --> 00:23:44,215
 The river has returned to Janir,
 the three vipers
 
-480
-00:23:44,803 --> 00:23:46,294
-now the sword of stars...
+508
+00:23:44,215 --> 00:23:45,841
+now the sword of stars--
 
-481
-00:23:46,340 --> 00:23:49,107
+509
+00:23:45,841 --> 00:23:48,635
 each of them predicted
 by Trakor's prophecy.
 
-482
-00:23:51,316 --> 00:23:53,309
-And then there's you...
+510
+00:23:50,679 --> 00:23:52,848
+And then
+there's you...
 
-483
-00:23:53,354 --> 00:23:55,847
+511
+00:23:52,848 --> 00:23:55,309
 the Emissary.
 
-484
-00:23:57,295 --> 00:23:59,265
+512
+00:23:56,727 --> 00:23:58,687
 You're here.
 
-485
-00:23:59,299 --> 00:24:03,000
+513
+00:23:58,687 --> 00:24:02,400
 You have a decision to make,
 just like in the prophecy.
 
-486
-00:24:03,040 --> 00:24:07,071
+514
+00:24:02,400 --> 00:24:06,653
 Do you really believe
 that I'm the Emissary?
 
-487
-00:24:11,256 --> 00:24:13,192
+515
+00:24:10,783 --> 00:24:12,659
 I guess I always have.
 
-488
-00:24:13,227 --> 00:24:18,762
+516
+00:24:12,659 --> 00:24:19,208
 I... never wanted
 to admit it to myself.
 
-489
-00:24:19,906 --> 00:24:23,937
+517
+00:24:19,208 --> 00:24:23,461
 It's hard to work for someone
 who's a religious icon.
 
-490
-00:24:32,265 --> 00:24:35,169
+518
+00:24:26,006 --> 00:24:28,466
+(<i> sighs</i> )
+
+519
+00:24:31,637 --> 00:24:34,556
 I hope I don't offend
 your beliefs
 
-491
-00:24:35,204 --> 00:24:40,408
+520
+00:24:34,556 --> 00:24:39,853
 but I don't see myself as an
 icon, religious or otherwise.
 
-492
-00:24:40,448 --> 00:24:44,388
+521
+00:24:39,853 --> 00:24:43,899
 I'm a Starfleet officer, and
 I have a mission to accomplish.
 
-493
-00:24:44,422 --> 00:24:48,089
+522
+00:24:43,899 --> 00:24:47,569
 If I call it off, it has to be
 for some concrete reason
 
-494
-00:24:48,130 --> 00:24:53,095
+523
+00:24:47,569 --> 00:24:52,490
 something solid,
 something Starfleet.
 
-495
-00:24:53,140 --> 00:24:55,076
-All right, how about this?
+524
+00:24:52,490 --> 00:24:54,534
+All right,
+how about this?
 
-496
-00:24:55,111 --> 00:24:57,274
+525
+00:24:54,534 --> 00:24:56,703
 The Prophets...
 
-497
-00:24:57,315 --> 00:24:59,785
+526
+00:24:56,703 --> 00:24:58,998
 the aliens who live
 in the wormhole
 
-498
-00:24:59,820 --> 00:25:00,981
+527
+00:24:58,998 --> 00:25:00,416
 as you call them
 
-499
-00:25:01,023 --> 00:25:02,252
-exist outside of linear time.
+528
+00:25:00,416 --> 00:25:02,126
+exist outside
+of linear time.
 
-500
-00:25:02,292 --> 00:25:04,262
+529
+00:25:02,126 --> 00:25:03,877
 They know the past,
 present and future.
 
-501
-00:25:04,296 --> 00:25:05,959
+530
+00:25:03,877 --> 00:25:05,379
 Agreed.
 
-502
-00:25:05,998 --> 00:25:08,731
-It seems perfectly reasonable
-that they could've communicated
+531
+00:25:05,379 --> 00:25:06,839
+It seems perfectly
+reasonable
 
-503
-00:25:08,771 --> 00:25:12,472
-their knowledge of the future
-to a Bajoran named Trakor.
+532
+00:25:06,839 --> 00:25:08,382
+that they could've
+communicated
 
-504
-00:25:12,512 --> 00:25:15,348
-He wrote down that knowledge
-in the form of a prophecy
+533
+00:25:08,382 --> 00:25:09,883
+their knowledge
+of the future
 
-505
-00:25:15,384 --> 00:25:17,479
-and now, 3,000 years later
+534
+00:25:09,883 --> 00:25:11,885
+to a Bajoran
+named Trakor.
 
-506
-00:25:17,522 --> 00:25:20,323
+535
+00:25:11,885 --> 00:25:13,387
+He wrote down
+that knowledge
+
+536
+00:25:13,387 --> 00:25:14,847
+in the form
+of a prophecy
+
+537
+00:25:14,847 --> 00:25:16,974
+and now, 3,000
+years later
+
+538
+00:25:16,974 --> 00:25:19,810
 we are seeing
 those events unfold.
 
-507
-00:25:20,361 --> 00:25:23,595
+539
+00:25:19,810 --> 00:25:22,938
 To me, that reasoning
 sounds concrete, solid.
 
-508
-00:25:23,634 --> 00:25:25,501
-I'd even call it "Starfleet."
+540
+00:25:22,938 --> 00:25:25,024
+I'd even call it
+"Starfleet."
 
-509
-00:25:29,346 --> 00:25:31,943
+541
+00:25:25,024 --> 00:25:27,193
+(<i> chuckles</i> )
+
+542
+00:25:28,861 --> 00:25:31,364
 But that all hinges
 on how you interpret
 
-510
-00:25:31,984 --> 00:25:34,216
+543
+00:25:31,364 --> 00:25:33,740
 an ancient text
 that's been translated
 
-511
-00:25:34,256 --> 00:25:37,422
+544
+00:25:33,740 --> 00:25:36,994
 and retranslated
 over the centuries.
 
-512
-00:25:37,462 --> 00:25:40,332
+545
+00:25:36,994 --> 00:25:39,872
 Words that were couched
 in metaphor to begin with.
 
-513
-00:25:40,368 --> 00:25:43,101
+546
+00:25:39,872 --> 00:25:42,582
 I'm sorry, Major
 
-514
-00:25:43,140 --> 00:25:45,235
+547
+00:25:42,582 --> 00:25:44,751
 but where you see
 a sword of stars
 
-515
-00:25:45,278 --> 00:25:46,907
+548
+00:25:44,751 --> 00:25:46,462
 I see a comet.
 
-516
-00:25:46,947 --> 00:25:50,978
+549
+00:25:46,462 --> 00:25:51,842
 Where you see vipers,
 I see three scientists.
 
-517
-00:25:51,022 --> 00:25:55,156
+550
+00:25:51,842 --> 00:25:54,636
 And where you see the Emissary
 
-518
-00:25:55,197 --> 00:25:58,363
+551
+00:25:54,636 --> 00:25:58,265
 I see a Starfleet officer.
 
-519
-00:25:59,539 --> 00:26:00,802
+552
+00:25:58,265 --> 00:26:00,184
 Dax to Sisko.
 
-520
-00:26:00,841 --> 00:26:02,070
+553
+00:26:00,184 --> 00:26:01,601
 Go ahead.
 
-521
-00:26:02,111 --> 00:26:04,776
+554
+00:26:01,601 --> 00:26:04,271
 We're ready to deploy the relay.
 
-522
-00:26:08,590 --> 00:26:10,287
+555
+00:26:08,025 --> 00:26:09,902
 On my way.
 
-523
-00:26:28,464 --> 00:26:29,432
+556
+00:26:16,492 --> 00:26:18,244
+(<i> sighs</i> )
+
+557
+00:26:27,753 --> 00:26:29,213
 All right.
 
-524
-00:26:29,466 --> 00:26:31,333
+558
+00:26:29,213 --> 00:26:30,881
 Now we just have
 to shunt the ODN line
 
-525
-00:26:31,370 --> 00:26:33,033
+559
+00:26:30,881 --> 00:26:32,466
 through the secondary
 field coils.
 
-526
-00:26:33,072 --> 00:26:34,165
+560
+00:26:32,466 --> 00:26:33,717
 We can't do that.
 
-527
-00:26:34,209 --> 00:26:35,507
+561
+00:26:33,717 --> 00:26:35,219
 Why not?
 
-528
-00:26:35,544 --> 00:26:38,209
+562
+00:26:35,219 --> 00:26:37,721
 Because those coils
 aren't configured
 
-529
-00:26:38,250 --> 00:26:39,981
+563
+00:26:37,721 --> 00:26:39,473
 to handle ODN output.
 
-530
-00:26:40,020 --> 00:26:41,010
+564
+00:26:39,473 --> 00:26:40,640
 Why not?
 
-531
-00:26:41,055 --> 00:26:42,718
+565
+00:26:40,640 --> 00:26:42,142
 Did you modify them, too?
 
-532
-00:26:42,792 --> 00:26:44,318
-Actually, I replaced them.
+566
+00:26:42,142 --> 00:26:43,769
+Actually,
+I replaced them.
 
-533
-00:26:44,362 --> 00:26:46,662
+567
+00:26:43,769 --> 00:26:46,021
 They were always
 shorting out on us.
 
-534
-00:26:46,700 --> 00:26:48,966
+568
+00:26:46,021 --> 00:26:48,357
 Frankly, I don't
 see how this station
 
-535
-00:26:49,004 --> 00:26:51,201
+569
+00:26:48,357 --> 00:26:50,692
 kept running during
 the occupation.
 
-536
-00:26:51,243 --> 00:26:52,643
+570
+00:26:50,692 --> 00:26:52,194
 Why didn't you tell me
 
-537
-00:26:52,678 --> 00:26:55,241
+571
+00:26:52,194 --> 00:26:54,405
 you'd replaced
 the secondary field coils?
 
-538
-00:26:55,284 --> 00:26:56,445
+572
+00:26:54,405 --> 00:26:56,073
 If you had told me
 
-539
-00:26:56,486 --> 00:26:59,287
+573
+00:26:56,073 --> 00:26:58,742
 what you were planning
 to do, I would have.
 
-540
-00:26:59,325 --> 00:27:01,990
+574
+00:26:58,742 --> 00:27:01,370
 I don't have time
 to explain everything.
 
-541
-00:27:02,030 --> 00:27:05,127
+575
+00:27:01,370 --> 00:27:04,664
 What? You think I won't
 be able to understand?
 
-542
-00:27:05,171 --> 00:27:07,607
-It has been
+576
+00:27:04,664 --> 00:27:07,084
+It<i> has</i> been
 my experience that it...
 
-543
-00:27:07,642 --> 00:27:09,908
+577
+00:27:07,084 --> 00:27:09,253
 What?
 
-544
-00:27:09,946 --> 00:27:12,679
+578
+00:27:09,253 --> 00:27:12,131
 That humans aren't
 good engineers?
 
-545
-00:27:12,718 --> 00:27:17,387
-No, not humans... males.
+579
+00:27:12,131 --> 00:27:16,718
+No, not humans-- males.
 
-546
-00:27:17,428 --> 00:27:18,954
+580
+00:27:16,718 --> 00:27:18,596
 I beg your pardon?
 
-547
-00:27:18,997 --> 00:27:22,299
+581
+00:27:18,596 --> 00:27:21,223
 Men just don't seem to have
 a head for this sort of thing.
 
-548
-00:27:22,338 --> 00:27:24,935
+582
+00:27:21,223 --> 00:27:23,559
 That's why women
 dominate the sciences.
 
-549
-00:27:24,976 --> 00:27:27,344
+583
+00:27:23,559 --> 00:27:26,812
 Maybe on Cardassia,
 but on this station
 
-550
-00:27:27,381 --> 00:27:29,248
-this man is Chief of Operations
+584
+00:27:26,812 --> 00:27:28,688
+this<i> man</i> is
+Chief of Operations
 
-551
-00:27:29,285 --> 00:27:31,755
+585
+00:27:28,688 --> 00:27:31,108
 and I know more
 about these systems
 
-552
-00:27:31,823 --> 00:27:33,759
-than anyone, including you.
+586
+00:27:31,108 --> 00:27:33,068
+than anyone,
+including you.
 
-553
-00:27:33,794 --> 00:27:36,493
+587
+00:27:33,068 --> 00:27:35,571
 I think I know
 what the problem is
 
-554
-00:27:36,533 --> 00:27:39,733
+588
+00:27:35,571 --> 00:27:39,032
 so if you want to get
 that transceiver on line
 
-555
-00:27:39,772 --> 00:27:43,439
+589
+00:27:39,032 --> 00:27:43,036
 hand me the laser-torch
 and give me some room.
 
-556
-00:28:04,189 --> 00:28:05,157
+590
+00:27:50,544 --> 00:27:52,338
+(<i> sighs</i> )
+
+591
+00:28:03,182 --> 00:28:04,642
 Are we ready on this end?
 
-557
-00:28:05,191 --> 00:28:06,625
+592
+00:28:04,642 --> 00:28:06,185
 Almost. I'm just
 about to activate
 
-558
-00:28:06,660 --> 00:28:08,687
-the relay's transmission array.
+593
+00:28:06,185 --> 00:28:08,145
+the relay's
+transmission array.
 
-559
-00:28:08,730 --> 00:28:09,698
+594
+00:28:08,145 --> 00:28:09,188
 Dejar?
 
-560
-00:28:09,732 --> 00:28:11,964
+595
+00:28:09,188 --> 00:28:12,399
 Standing by.
 
-561
-00:28:13,005 --> 00:28:16,570
+596
+00:28:12,399 --> 00:28:16,153
 I am receiving
 the relay's test signal.
 
-562
-00:28:16,613 --> 00:28:18,310
+597
+00:28:16,153 --> 00:28:17,863
 Target the signaling array
 toward the wormhole
 
-563
-00:28:18,350 --> 00:28:21,015
-and initiate a carrier wave
-in the delta band frequency.
+598
+00:28:17,863 --> 00:28:19,156
+and initiate
+a carrier wave
 
-564
-00:28:21,055 --> 00:28:22,546
+599
+00:28:19,156 --> 00:28:20,533
+in the delta
+band frequency.
+
+600
+00:28:20,533 --> 00:28:22,159
 Initiating carrier wave.
 
-565
-00:28:22,592 --> 00:28:24,994
+601
+00:28:22,159 --> 00:28:23,994
 If they receive it
 on the station
 
-566
-00:28:25,029 --> 00:28:26,555
+602
+00:28:23,994 --> 00:28:25,663
 they'll send
 an acknowledging signal
 
-567
-00:28:26,600 --> 00:28:28,331
+603
+00:28:25,663 --> 00:28:27,914
 in the same frequency.
 
-568
-00:28:33,179 --> 00:28:34,910
+604
+00:28:32,586 --> 00:28:34,254
 I'm not receiving anything.
 
-569
-00:28:34,949 --> 00:28:37,546
+605
+00:28:34,254 --> 00:28:37,007
 Then we have to assume
 it didn't work.
 
-570
-00:28:37,588 --> 00:28:40,024
+606
+00:28:37,007 --> 00:28:39,510
 Let's try
 the theta band frequency.
 
-571
-00:28:40,059 --> 00:28:42,529
+607
+00:28:39,510 --> 00:28:42,137
 Initiating carrier wave.
 
-572
-00:28:46,205 --> 00:28:47,537
+608
+00:28:45,599 --> 00:28:47,393
 Something's wrong.
 
-573
-00:28:47,575 --> 00:28:50,138
+609
+00:28:47,393 --> 00:28:49,645
 I'm picking up a neutrino surge
 from the wormhole.
 
-574
-00:28:55,724 --> 00:28:57,090
+610
+00:28:54,858 --> 00:28:56,652
 Report!
 
-575
-00:28:57,127 --> 00:28:59,461
+611
+00:28:56,652 --> 00:28:58,945
 Somehow the carrier wave
 caused the wormhole to open.
 
-576
-00:28:59,499 --> 00:29:02,437
+612
+00:28:58,945 --> 00:29:01,948
 The wormhole's gravity well has
 increased by a factor of three.
 
-577
-00:29:02,471 --> 00:29:05,204
+613
+00:29:01,948 --> 00:29:04,784
 Terminate the carrier wave
 and maintain our position.
 
-578
-00:29:11,204 --> 00:29:13,732
-Gravimetric fields have returned
+614
+00:29:10,999 --> 00:29:12,334
+Gravimetric fields
+have returned
+
+615
+00:29:12,334 --> 00:29:13,335
 to normal.
 
-579
-00:29:13,776 --> 00:29:14,744
+616
+00:29:13,335 --> 00:29:14,294
 What happened?
 
-580
-00:29:14,778 --> 00:29:16,007
+617
+00:29:14,294 --> 00:29:16,338
 I'm not sure.
 
-581
-00:29:16,047 --> 00:29:18,176
+618
+00:29:16,338 --> 00:29:18,006
 The carrier wave shouldn't have
 affected the wormhole at all.
 
-582
-00:29:18,218 --> 00:29:19,847
+619
+00:29:18,006 --> 00:29:19,717
 Was there any damage
 to the relay?
 
-583
-00:29:19,888 --> 00:29:21,949
+620
+00:29:19,717 --> 00:29:21,843
 None. I'm still receiving
 the test signal.
 
-584
-00:29:21,992 --> 00:29:23,586
+621
+00:29:21,843 --> 00:29:23,470
 Benjamin,
 the gravitational surge
 
-585
-00:29:23,629 --> 00:29:25,258
+622
+00:29:23,470 --> 00:29:25,055
 altered the course of the comet.
 
-586
-00:29:25,300 --> 00:29:27,202
+623
+00:29:25,055 --> 00:29:27,140
 It's now heading directly
 toward the wormhole.
 
-587
-00:29:27,236 --> 00:29:29,263
+624
+00:29:27,140 --> 00:29:29,101
 If the comet enters the wormhole
 
-588
-00:29:29,308 --> 00:29:32,839
+625
+00:29:29,101 --> 00:29:30,852
 the silithium in its core
-will cause a cascade reaction.
 
-589
-00:29:32,881 --> 00:29:35,283
+626
+00:29:30,852 --> 00:29:32,646
+will cause
+a cascade reaction.
+
+627
+00:29:32,646 --> 00:29:34,814
 And collapse the wormhole
 permanently.
 
-590
-00:29:43,769 --> 00:29:46,366
-Commander's Log, supplemental.
+628
+00:29:43,115 --> 00:29:45,367
+<i>Commander's Log, supplemental.</i>
 
-591
-00:29:46,408 --> 00:29:47,501
-With less than five hours
+629
+00:29:45,367 --> 00:29:47,077
+<i>With less than five hours</i>
 
-592
-00:29:47,544 --> 00:29:49,138
-before the comet
-reaches the wormhole
+630
+00:29:47,077 --> 00:29:48,954
+<i>before the comet</i>
+<i>reaches the wormhole</i>
 
-593
-00:29:49,180 --> 00:29:50,706
-I've brought the <i>Defiant</i>
-back to the station
+631
+00:29:48,954 --> 00:29:50,997
+<i>I've brought the Defiant</i>
+<i>back to the station</i>
 
-594
-00:29:50,750 --> 00:29:54,086
-and convened a meeting
-of the entire science team.
+632
+00:29:50,997 --> 00:29:53,250
+<i>and convened a meeting</i>
+<i>of the entire science team.</i>
 
-595
-00:29:54,123 --> 00:29:56,184
+633
+00:29:53,250 --> 00:29:55,502
+DAX:
 Apparently,
 the carrier wave we sent
 
-596
-00:29:56,227 --> 00:29:58,697
-created some sort
-of subspace inversion
+634
+00:29:55,502 --> 00:29:57,921
+created some sort of
+subspace inversion
 
-597
-00:29:58,733 --> 00:30:00,430
+635
+00:29:57,921 --> 00:29:59,548
 inside the wormhole.
 
-598
-00:30:00,536 --> 00:30:02,004
+636
+00:29:59,548 --> 00:30:00,840
 That's what caused
 the gravity well to form.
 
-599
-00:30:02,039 --> 00:30:03,064
+637
+00:30:00,840 --> 00:30:02,509
+ULANI:
 The possibility
 
-600
-00:30:03,108 --> 00:30:05,408
+638
+00:30:02,509 --> 00:30:04,762
 of subspace inversion
 was predicted in one
 
-601
-00:30:05,446 --> 00:30:06,436
-of our computer models.
+639
+00:30:04,762 --> 00:30:06,054
+of our computer
+models.
 
-602
-00:30:06,515 --> 00:30:08,849
-Well, that wasn't included
-in the data you sent us.
+640
+00:30:06,054 --> 00:30:07,389
+Well, that wasn't
+included
 
-603
-00:30:08,886 --> 00:30:10,879
+641
+00:30:07,389 --> 00:30:08,890
+in the data
+you sent us.
+
+642
+00:30:08,890 --> 00:30:10,726
 The probability
 of such an occurrence
 
-604
-00:30:10,923 --> 00:30:13,918
-was less than two percent...
+643
+00:30:10,726 --> 00:30:13,145
+was less than two percent--
 well within safety limits.
 
-605
-00:30:13,963 --> 00:30:17,026
+644
+00:30:13,145 --> 00:30:16,231
 We saw no reason to include it
 in the data we sent you.
 
-606
-00:30:17,069 --> 00:30:19,335
+645
+00:30:16,231 --> 00:30:18,275
 It would seem that our
 scientific methodologies
 
-607
-00:30:19,374 --> 00:30:20,433
+646
+00:30:18,275 --> 00:30:20,026
 differ slightly.
 
-608
-00:30:20,476 --> 00:30:22,776
+647
+00:30:20,026 --> 00:30:22,154
 It is our practice to examine
 all possibilities
 
-609
-00:30:22,814 --> 00:30:25,786
+648
+00:30:22,154 --> 00:30:24,698
 no matter how unlikely, before
 we proceed with field tests.
 
-610
-00:30:25,820 --> 00:30:29,190
-We would, of course, prefer
-to operate that way, as well.
+649
+00:30:24,698 --> 00:30:26,241
+We would, of course
 
-611
-00:30:29,226 --> 00:30:31,321
+650
+00:30:26,241 --> 00:30:28,452
+prefer to operate
+that way, as well.
+
+651
+00:30:28,452 --> 00:30:30,621
 However, since
 the Science Ministry
 
-612
-00:30:31,365 --> 00:30:34,098
+652
+00:30:30,621 --> 00:30:33,248
 falls under the jurisdiction
 of the military
 
-613
-00:30:34,136 --> 00:30:35,730
-we have to follow certain rules.
+653
+00:30:33,248 --> 00:30:35,041
+we have to follow
+certain rules.
 
-614
-00:30:35,773 --> 00:30:37,709
+654
+00:30:35,041 --> 00:30:37,002
 One of them is not
 to make any project
 
-615
-00:30:37,744 --> 00:30:39,212
-look unnecessarily dangerous.
+655
+00:30:37,002 --> 00:30:38,211
+look unnecessarily
+dangerous.
 
-616
-00:30:39,246 --> 00:30:40,441
+656
+00:30:38,211 --> 00:30:40,005
 We'll keep that in mind
 
-617
-00:30:40,483 --> 00:30:43,011
+657
+00:30:40,005 --> 00:30:42,215
 when we resume work
 on the communications relay.
 
-618
-00:30:43,054 --> 00:30:46,026
+658
+00:30:42,215 --> 00:30:43,550
+DEJAR:
 That is an extremely
+
+659
+00:30:43,550 --> 00:30:44,926
 unlikely possibility, Commander.
 
-619
-00:30:46,060 --> 00:30:48,861
+660
+00:30:44,926 --> 00:30:46,637
 The Science Ministry
+
+661
+00:30:46,637 --> 00:30:49,097
 will undoubtedly wish
-
-620
-00:30:48,899 --> 00:30:52,532
 to assemble a new team
-before proceeding further.
 
-621
-00:30:52,640 --> 00:30:56,876
-That is, of course,
+662
+00:30:49,097 --> 00:30:51,767
+before proceeding
+further.
+
+663
+00:30:51,767 --> 00:30:53,686
+SISKO:
+That is,
+of course
+
+664
+00:30:53,686 --> 00:30:56,229
 an internal Cardassian matter.
 
-622
-00:30:56,915 --> 00:30:58,544
+665
+00:30:56,229 --> 00:30:57,815
 Chief...
 
-623
-00:30:58,586 --> 00:31:00,419
-Dax feels we can't risk
+666
+00:30:57,815 --> 00:30:59,650
+Dax feels
+we can't risk
 
-624
-00:31:00,456 --> 00:31:02,892
+667
+00:30:59,650 --> 00:31:02,110
 using tractor beams
 to deflect the comet.
 
-625
-00:31:02,927 --> 00:31:04,327
+668
+00:31:02,110 --> 00:31:03,821
 It would probably
 break into smaller pieces
 
-626
-00:31:04,364 --> 00:31:05,730
+669
+00:31:03,821 --> 00:31:05,197
 and we'd have
 a bigger mess on our hands.
 
-627
-00:31:05,767 --> 00:31:06,996
-The same thing would happen
+670
+00:31:05,197 --> 00:31:06,448
+The same thing
+would happen
 
-628
-00:31:07,035 --> 00:31:09,232
-if you tried to destroy it
+671
+00:31:06,448 --> 00:31:07,574
+if you tried
+to destroy it
+
+672
+00:31:07,574 --> 00:31:08,575
 with a phaser beam.
 
-629
-00:31:09,273 --> 00:31:10,707
+673
+00:31:08,575 --> 00:31:10,327
 Not necessarily.
 
-630
-00:31:10,743 --> 00:31:13,043
-I could modify
-the <i>Defiant's</i> phaser array
+674
+00:31:10,327 --> 00:31:12,204
+I could modify the
+<i>Defiant's</i> phaser array
 
-631
-00:31:13,081 --> 00:31:16,315
-to generate a beam wide enough
-to encompass the entire comet.
+675
+00:31:12,204 --> 00:31:13,872
+to generate a beam
+wide enough
 
-632
-00:31:16,354 --> 00:31:18,985
+676
+00:31:13,872 --> 00:31:15,666
+to encompass
+the entire comet.
+
+677
+00:31:15,666 --> 00:31:18,168
 Vaporizing it evenly,
 so it won't break up.
 
-633
-00:31:19,026 --> 00:31:20,757
+678
+00:31:18,168 --> 00:31:20,170
 How long would
 the modifications take?
 
-634
-00:31:20,797 --> 00:31:22,426
+679
+00:31:20,170 --> 00:31:21,755
 Three hours.
 
-635
-00:31:22,467 --> 00:31:24,061
+680
+00:31:21,755 --> 00:31:23,256
 Get on it.
 
-636
-00:31:24,103 --> 00:31:25,766
+681
+00:31:23,256 --> 00:31:25,217
 We'll be cutting this one
 pretty close.
 
-637
-00:31:32,286 --> 00:31:35,156
-I've accessed the <i>Defiant's</i>
+682
+00:31:31,431 --> 00:31:33,266
+I've accessed
+the<i> Defiant's</i>
+
+683
+00:31:33,266 --> 00:31:34,476
 primary phaser relay.
 
-638
-00:31:35,192 --> 00:31:38,062
-I'm going to try shunting it
+684
+00:31:34,476 --> 00:31:36,102
+I'm going to try
+shunting it
+
+685
+00:31:36,102 --> 00:31:37,437
 through the warp drive.
 
-639
-00:31:38,097 --> 00:31:40,226
-Won't that overload the relay?
+686
+00:31:37,437 --> 00:31:39,481
+Won't that overload
+the relay?
 
-640
-00:31:40,268 --> 00:31:42,204
+687
+00:31:39,481 --> 00:31:41,400
 Not if we bypass
 the plasma emitter.
 
-641
-00:31:42,239 --> 00:31:44,767
-I hadn't thought of that.
+688
+00:31:41,400 --> 00:31:44,194
+I hadn't thought
+of that.
 
-642
-00:31:49,521 --> 00:31:52,425
+689
+00:31:47,531 --> 00:31:48,907
+(<i> stammering</i> )
+
+690
+00:31:48,907 --> 00:31:51,744
 The emitter coupling
 is over there.
 
-643
-00:32:13,001 --> 00:32:14,664
-What are you doing now?
+691
+00:32:12,264 --> 00:32:13,932
+What are you
+doing now?
 
-644
-00:32:14,704 --> 00:32:17,904
-I'm decoupling the servos,
-so they don't lock up.
+692
+00:32:13,932 --> 00:32:15,559
+I'm decoupling
+the servos
 
-645
-00:32:28,398 --> 00:32:29,958
+693
+00:32:15,559 --> 00:32:17,394
+so they don't
+lock up.
+
+694
+00:32:27,696 --> 00:32:29,448
 You have very steady hands.
 
-646
-00:32:31,638 --> 00:32:35,008
+695
+00:32:30,908 --> 00:32:34,202
 Well they get the job done,
 I guess.
 
-647
-00:32:35,045 --> 00:32:37,345
+696
+00:32:34,202 --> 00:32:36,622
 And right now,
 the most important job
 
-648
-00:32:37,382 --> 00:32:40,320
-is bypassing the plasma emitter.
+697
+00:32:36,622 --> 00:32:39,625
+is bypassing the
+plasma emitter.
 
-649
-00:32:47,770 --> 00:32:50,172
-I assure you, I'm quite fertile.
+698
+00:32:47,048 --> 00:32:50,552
+I assure you,
+I'm quite fertile.
 
-650
-00:32:51,344 --> 00:32:53,941
+699
+00:32:50,552 --> 00:32:53,263
 I could provide you
 with many healthy children
 
-651
-00:32:53,983 --> 00:32:56,351
+700
+00:32:53,263 --> 00:32:55,557
 if that's your concern,
 but, quite frankly
 
-652
-00:32:56,387 --> 00:32:58,653
+701
+00:32:55,557 --> 00:32:58,101
 I think you're getting
 a little ahead of yourself.
 
-653
-00:32:58,759 --> 00:33:00,558
+702
+00:32:58,101 --> 00:32:59,853
 Children?
 
-654
-00:33:00,596 --> 00:33:02,930
+703
+00:32:59,853 --> 00:33:02,314
 What are you talking about?
 
-655
-00:33:02,967 --> 00:33:04,869
+704
+00:33:02,314 --> 00:33:04,399
 I already have a child
 
-656
-00:33:04,904 --> 00:33:06,806
-and a wife.
+705
+00:33:04,399 --> 00:33:06,234
+<i>and</i> a wife.
 
-657
-00:33:06,842 --> 00:33:09,278
+706
+00:33:06,234 --> 00:33:08,570
 You're married?
 
-658
-00:33:09,313 --> 00:33:10,747
+707
+00:33:08,570 --> 00:33:10,280
 Yes, happily!
 
-659
-00:33:10,783 --> 00:33:13,755
+708
+00:33:10,280 --> 00:33:13,158
 Then why have you been
 leading me to believe
 
-660
-00:33:13,789 --> 00:33:15,087
+709
+00:33:13,158 --> 00:33:14,284
 that you wanted me?
 
-661
-00:33:15,125 --> 00:33:16,890
+710
+00:33:14,284 --> 00:33:16,161
 I haven't.
 
-662
-00:33:16,928 --> 00:33:20,891
+711
+00:33:16,161 --> 00:33:20,248
 All we've done
 since we've met is argue.
 
-663
-00:33:20,936 --> 00:33:24,842
+712
+00:33:20,248 --> 00:33:24,169
 I took your overt irritability
 toward me as a signal
 
-664
-00:33:24,878 --> 00:33:28,909
+713
+00:33:24,169 --> 00:33:28,340
 that you wished to pursue
 some physical relationship.
 
-665
-00:33:28,952 --> 00:33:31,013
+714
+00:33:28,340 --> 00:33:30,216
 Of course.
 
-666
-00:33:31,057 --> 00:33:35,658
+715
+00:33:30,216 --> 00:33:35,096
 Well, that's how Cardassians,
 uh, do things?
 
-667
-00:33:35,733 --> 00:33:38,203
+716
+00:33:35,096 --> 00:33:37,390
 Oh, my.
 
-668
-00:33:38,237 --> 00:33:41,073
-I'm afraid this is a case
+717
+00:33:37,390 --> 00:33:40,352
+I'm afraid
+this is a case
 
-669
-00:33:41,110 --> 00:33:44,948
+718
+00:33:40,352 --> 00:33:44,356
 of cross-cultural
 misunderstanding.
 
-670
-00:33:44,984 --> 00:33:46,043
+719
+00:33:44,356 --> 00:33:45,398
 I think so.
 
-671
-00:33:46,087 --> 00:33:47,578
+720
+00:33:45,398 --> 00:33:46,817
 Oh.
 
-672
-00:33:47,623 --> 00:33:50,959
+721
+00:33:46,817 --> 00:33:50,278
 I'm not remotely
 interested in you.
 
-673
-00:33:50,996 --> 00:33:53,900
-Well, that's not what I meant.
+722
+00:33:50,278 --> 00:33:53,281
+Well, that's not
+what I meant.
 
-674
-00:33:53,936 --> 00:33:56,567
+723
+00:33:53,281 --> 00:33:55,742
 Look, you are very attractive
 
-675
-00:33:56,608 --> 00:33:58,168
+724
+00:33:55,742 --> 00:33:57,369
 and I'm flattered,
-of course. But...
+of course. but...
 
-676
-00:33:58,211 --> 00:33:59,201
+725
+00:33:57,369 --> 00:33:58,620
 Please, Mr. O'Brien
 
-677
-00:33:59,246 --> 00:34:01,375
-there's no need to continue.
+726
+00:33:58,620 --> 00:34:00,580
+there's no need
+to continue.
 
-678
-00:34:01,417 --> 00:34:03,683
-You've made your feelings clear.
+727
+00:34:00,580 --> 00:34:03,124
+You've made your
+feelings clear.
 
-679
-00:34:07,262 --> 00:34:09,255
+728
+00:34:06,461 --> 00:34:08,505
 Gilora, we-we have
 to finish this.
 
-680
-00:34:09,299 --> 00:34:14,503
+729
+00:34:08,505 --> 00:34:13,886
 I'm sure you can complete
 the job on your own.
 
-681
-00:34:23,729 --> 00:34:25,460
+730
+00:34:23,020 --> 00:34:24,730
 Chief O'Brien
 said the modification
 
-682
-00:34:25,498 --> 00:34:27,468
-to the <i>Defiant's</i> phasers
+731
+00:34:24,730 --> 00:34:26,815
+to the<i> Defiant's</i> phasers
 would be ready
 
-683
-00:34:27,502 --> 00:34:29,301
+732
+00:34:26,815 --> 00:34:28,483
 within half an hour.
 
-684
-00:34:29,339 --> 00:34:31,936
+733
+00:34:28,483 --> 00:34:31,319
 Half an hour ahead
 of schedule, hmm?
 
-685
-00:34:31,978 --> 00:34:33,709
-The Chief's a born engineer.
+734
+00:34:31,319 --> 00:34:33,154
+The Chief's
+a born engineer.
 
-686
-00:34:33,782 --> 00:34:35,148
+735
+00:34:33,154 --> 00:34:34,781
 He always gives himself
 
-687
-00:34:35,185 --> 00:34:38,055
+736
+00:34:34,781 --> 00:34:36,825
 a comfortable margin
 with his repair estimates.
 
-688
-00:34:42,265 --> 00:34:44,394
+737
+00:34:41,496 --> 00:34:43,623
 Let me guess.
 
-689
-00:34:44,436 --> 00:34:46,929
+738
+00:34:43,623 --> 00:34:46,376
 You're reading up
 on Bajoran prophecies
 
-690
-00:34:46,975 --> 00:34:48,569
+739
+00:34:46,376 --> 00:34:47,878
 concerning the Emissary.
 
-691
-00:34:48,612 --> 00:34:50,673
+740
+00:34:47,878 --> 00:34:50,005
 There are hundreds of them.
 
-692
-00:34:50,716 --> 00:34:53,186
+741
+00:34:50,005 --> 00:34:52,424
 Most of them are vague,
 some are contradictory.
 
-693
-00:34:53,221 --> 00:34:56,991
+742
+00:34:52,424 --> 00:34:56,386
 But just enough truth in
 a few of them to make me wonder.
 
-694
-00:34:57,028 --> 00:34:59,294
+743
+00:34:56,386 --> 00:34:58,430
 You mean some of them
 have come true?
 
-695
-00:34:59,333 --> 00:35:02,237
+744
+00:34:58,430 --> 00:35:01,349
 If you interpret them
 in a certain way, yes.
 
-696
-00:35:02,272 --> 00:35:05,267
+745
+00:35:01,349 --> 00:35:04,561
 So now you're wondering
 if Trakor's prophecy
 
-697
-00:35:05,311 --> 00:35:06,974
-is going to come true, as well.
+746
+00:35:04,561 --> 00:35:06,354
+is going to come true,
+as well.
 
-698
-00:35:07,015 --> 00:35:09,646
+747
+00:35:06,354 --> 00:35:08,732
 I have to admit,
 it's getting harder to ignore.
 
-699
-00:35:09,687 --> 00:35:10,882
+748
+00:35:08,732 --> 00:35:10,442
 But, Benjamin,
 there's every reason
 
-700
-00:35:10,923 --> 00:35:13,554
+749
+00:35:10,442 --> 00:35:12,945
 to believe we'll be able
 to destroy the comet.
 
-701
-00:35:13,594 --> 00:35:15,564
+750
+00:35:12,945 --> 00:35:14,863
 I know.
 
-702
-00:35:15,598 --> 00:35:17,659
+751
+00:35:14,863 --> 00:35:16,907
 But I'm becoming
 more and more concerned
 
-703
-00:35:17,703 --> 00:35:19,832
+752
+00:35:16,907 --> 00:35:19,242
 that if I don't send
 the Cardassians home
 
-704
-00:35:19,874 --> 00:35:21,605
+753
+00:35:19,242 --> 00:35:21,078
 something else will go wrong.
 
-705
-00:35:21,645 --> 00:35:25,881
+754
+00:35:21,078 --> 00:35:25,290
 And the "gates of heaven
 will burn and be cast open."
 
-706
-00:35:25,920 --> 00:35:28,413
+755
+00:35:25,290 --> 00:35:27,584
 Let me ask you something.
 
-707
-00:35:28,457 --> 00:35:30,427
+756
+00:35:27,584 --> 00:35:29,377
 If you never heard
 Trakor's prophecy
 
-708
-00:35:30,461 --> 00:35:31,724
+757
+00:35:29,377 --> 00:35:31,129
 what would you do?
 
-709
-00:35:31,765 --> 00:35:35,603
+758
+00:35:31,129 --> 00:35:35,968
 I'd continue working
 on the communications relay.
 
-710
-00:35:35,639 --> 00:35:40,308
+759
+00:35:35,968 --> 00:35:39,512
 Then it seems to me
 you have a choice.
 
-711
-00:35:40,348 --> 00:35:43,115
+760
+00:35:39,512 --> 00:35:43,100
 You can either
 make your own decisions
 
-712
-00:35:43,154 --> 00:35:46,924
+761
+00:35:43,100 --> 00:35:46,352
 or you can let these prophecies
 make them for you.
 
-713
-00:35:58,284 --> 00:36:00,686
-As soon as the <i>Defiant</i> is ready
+762
+00:35:57,238 --> 00:35:59,908
+As soon as the<i> Defiant</i> is ready
 
-714
-00:36:00,723 --> 00:36:03,661
+763
+00:35:59,908 --> 00:36:03,036
 have the Cardassians
 meet us on board.
 
-715
-00:36:03,695 --> 00:36:06,097
+764
+00:36:03,036 --> 00:36:05,622
 Yes, sir.
 
-716
-00:36:20,829 --> 00:36:21,990
+765
+00:36:19,970 --> 00:36:21,138
 The comet is directly ahead.
 
-717
-00:36:22,032 --> 00:36:23,091
+766
+00:36:21,138 --> 00:36:22,597
 Distance, 200 kilometers.
 
-718
-00:36:23,134 --> 00:36:25,001
+767
+00:36:22,597 --> 00:36:24,390
 Bring us to within
 ten kilometers.
 
-719
-00:36:25,038 --> 00:36:28,477
+768
+00:36:24,390 --> 00:36:27,435
 Chief, are your phaser
 modifications on line?
 
-720
-00:36:28,511 --> 00:36:29,638
+769
+00:36:27,435 --> 00:36:28,854
+O'BRIEN:
 Aye, sir.
 
-721
-00:36:29,679 --> 00:36:31,478
+770
+00:36:28,854 --> 00:36:30,563
 Phasers are locked on target.
 
-722
-00:36:36,360 --> 00:36:38,660
+771
+00:36:35,276 --> 00:36:37,654
 Holding position
 at ten kilometers.
 
-723
-00:36:38,698 --> 00:36:39,825
+772
+00:36:37,654 --> 00:36:39,031
+SISKO:
 Shields up.
 
-724
-00:36:39,901 --> 00:36:41,335
+773
+00:36:39,031 --> 00:36:41,282
 Go to Red Alert.
 
-725
-00:36:42,338 --> 00:36:43,328
+774
+00:36:41,282 --> 00:36:42,492
 Fire!
 
-726
-00:36:48,885 --> 00:36:50,445
+775
+00:36:47,956 --> 00:36:50,333
 Chief, what the hell happened?
 
-727
-00:36:51,290 --> 00:36:52,588
+776
+00:36:50,333 --> 00:36:51,877
 I don't know, sir.
 
-728
-00:36:52,625 --> 00:36:54,652
-The entire weapons relay
-just blew.
+777
+00:36:51,877 --> 00:36:53,628
+The entire weapons
+relay just blew.
 
-729
-00:36:54,696 --> 00:36:56,495
-All defensive systems are down.
+778
+00:36:53,628 --> 00:36:55,172
+All defensive
+systems are down.
 
-730
-00:36:56,533 --> 00:36:57,762
+779
+00:36:55,172 --> 00:36:56,923
 Benjamin, the sensors show
 
-731
-00:36:57,803 --> 00:36:59,864
+780
+00:36:56,923 --> 00:36:58,591
 that the modified phasers
 never came on line.
 
-732
-00:36:59,974 --> 00:37:01,169
+781
+00:36:58,591 --> 00:37:00,468
 We fired a standard burst
 
-733
-00:37:01,210 --> 00:37:03,703
+782
+00:37:00,468 --> 00:37:02,762
 and it shattered the comet
 instead of vaporizing it.
 
-734
-00:37:03,748 --> 00:37:05,718
+783
+00:37:02,762 --> 00:37:04,848
 There's no way they should have
 misfired like that.
 
-735
-00:37:05,752 --> 00:37:07,278
+784
+00:37:04,848 --> 00:37:06,474
 I modified the systems myself.
 
-736
-00:37:07,322 --> 00:37:09,383
-Commander, the three fragments
+785
+00:37:06,474 --> 00:37:08,351
+KIRA:
+Commander, the
+three fragments
 
-737
-00:37:09,426 --> 00:37:11,328
+786
+00:37:08,351 --> 00:37:10,353
 are still on course
 for the wormhole.
 
-738
-00:37:11,363 --> 00:37:13,299
+787
+00:37:10,353 --> 00:37:12,313
 How soon before
 they reach the entrance?
 
-739
-00:37:13,334 --> 00:37:15,167
+788
+00:37:12,313 --> 00:37:15,358
 26 minutes.
 
-740
-00:37:16,373 --> 00:37:20,040
+789
+00:37:15,358 --> 00:37:19,278
 And without weapons,
 we have no way of stopping them.
 
-741
-00:37:30,356 --> 00:37:33,260
+790
+00:37:30,415 --> 00:37:32,792
 The main emitter coupling
 has been depolarized.
 
-742
-00:37:33,295 --> 00:37:35,892
+791
+00:37:32,792 --> 00:37:35,503
 I must have accidentally
 inverted the power flow
 
-743
-00:37:35,934 --> 00:37:37,801
+792
+00:37:35,503 --> 00:37:37,422
 when I tried to modify
 the phaser array.
 
-744
-00:37:37,838 --> 00:37:39,671
+793
+00:37:37,422 --> 00:37:39,216
 I can't believe it.
 
-745
-00:37:39,708 --> 00:37:41,769
-A first-year engineering student
+794
+00:37:39,216 --> 00:37:41,300
+A first-year
+engineering student
 
-746
-00:37:41,813 --> 00:37:43,908
-wouldn't make
-a mistake like that.
+795
+00:37:41,300 --> 00:37:43,511
+wouldn't make a
+mistake like that.
 
-747
-00:37:43,950 --> 00:37:46,216
-This wasn't your fault,
-Mr. O'Brien.
+796
+00:37:43,511 --> 00:37:45,680
+This wasn't your
+fault, Mr. O'Brien.
 
-748
-00:37:46,254 --> 00:37:47,848
-And it wasn't an accident.
+797
+00:37:45,680 --> 00:37:47,515
+And it wasn't
+an accident.
 
-749
-00:37:47,891 --> 00:37:49,724
+798
+00:37:47,515 --> 00:37:49,350
 Gilora...
 
-750
-00:37:49,761 --> 00:37:51,924
+799
+00:37:49,350 --> 00:37:51,603
 Dejar is a member
 of the Obsidian Order.
 
-751
-00:37:51,966 --> 00:37:54,699
-She was assigned to our team
+800
+00:37:51,603 --> 00:37:52,938
+She was assigned
+to our team
+
+801
+00:37:52,938 --> 00:37:53,939
 for security reasons.
 
-752
-00:37:54,738 --> 00:37:57,140
+802
+00:37:53,939 --> 00:37:55,273
 I believe
-she sabotaged this coupling.
 
-753
-00:37:57,176 --> 00:37:59,169
+803
+00:37:55,273 --> 00:37:57,067
+she sabotaged
+this coupling.
+
+804
+00:37:57,067 --> 00:37:58,651
+SISKO:
 The Order has always
 been opposed
 
-754
-00:37:59,214 --> 00:38:01,116
-to the peace treaty with Bajor.
+805
+00:37:58,651 --> 00:38:00,653
+to the peace treaty
+with Bajor.
 
-755
-00:38:01,151 --> 00:38:03,884
+806
+00:38:00,653 --> 00:38:03,531
 They sent you here
 to sabotage the relay
 
-756
-00:38:03,923 --> 00:38:06,052
-because
-if the first joint venture
+807
+00:38:03,531 --> 00:38:05,658
+because if the
+first joint venture
 
-757
-00:38:06,094 --> 00:38:08,691
-between Cardassia and Bajor
-was a failure
+808
+00:38:05,658 --> 00:38:08,286
+between Cardassia and
+Bajor was a failure
 
-758
-00:38:08,732 --> 00:38:10,599
-it would probably be the last.
+809
+00:38:08,286 --> 00:38:10,205
+it would probably
+be the last.
 
-759
-00:38:10,636 --> 00:38:13,004
+810
+00:38:10,205 --> 00:38:12,373
 This is all speculation,
 Commander.
 
-760
-00:38:13,042 --> 00:38:14,271
+811
+00:38:12,373 --> 00:38:14,126
 You have no proof.
 
-761
-00:38:14,310 --> 00:38:17,476
+812
+00:38:14,126 --> 00:38:16,962
 If it was sabotage, a DNA
 scan on the coupling
 
-762
-00:38:17,517 --> 00:38:19,783
-should reveal who's responsible.
+813
+00:38:16,962 --> 00:38:19,380
+should reveal
+who's responsible.
 
-763
-00:38:19,822 --> 00:38:22,817
+814
+00:38:19,380 --> 00:38:22,550
 Take her to quarters
 and detain her there.
 
-764
-00:38:24,932 --> 00:38:29,270
-Now that the comet's been
-fractured into smaller pieces
+815
+00:38:24,510 --> 00:38:27,305
+SISKO:
+Now that the comet's
+been fractured
 
-765
-00:38:29,307 --> 00:38:31,573
+816
+00:38:27,305 --> 00:38:29,015
+into smaller pieces
+
+817
+00:38:29,015 --> 00:38:31,059
 can we use the tractor
 beams to deflect them?
 
-766
-00:38:31,611 --> 00:38:32,977
-They'd just disintegrate further
+818
+00:38:31,059 --> 00:38:32,685
+They'd just
+disintegrate further
 
-767
-00:38:33,015 --> 00:38:34,244
+819
+00:38:32,685 --> 00:38:34,062
 releasing more silithium.
 
-768
-00:38:34,284 --> 00:38:36,345
-If we can't stop the fragments
+820
+00:38:34,062 --> 00:38:36,022
+If we can't
+stop the fragments
 
-769
-00:38:36,388 --> 00:38:39,019
+821
+00:38:36,022 --> 00:38:38,650
 is there any way that we
 can prevent the silithium
 
-770
-00:38:39,060 --> 00:38:40,962
+822
+00:38:38,650 --> 00:38:40,652
 from interacting
 with the wormhole?
 
-771
-00:38:40,997 --> 00:38:42,967
+823
+00:38:40,652 --> 00:38:42,487
 Maybe if we could
 contain it somehow.
 
-772
-00:38:43,001 --> 00:38:44,230
+824
+00:38:42,487 --> 00:38:43,989
+ULANI:
 If you could generate
 
-773
-00:38:44,270 --> 00:38:46,399
+825
+00:38:43,989 --> 00:38:45,949
 a subspace field
 around the fragments
 
-774
-00:38:46,508 --> 00:38:48,410
+826
+00:38:45,949 --> 00:38:48,034
 that might contain
 the silithium.
 
-775
-00:38:48,512 --> 00:38:49,844
+827
+00:38:48,034 --> 00:38:49,828
 The warp drive...
 
-776
-00:38:49,882 --> 00:38:52,877
+828
+00:38:49,828 --> 00:38:52,497
 it could create a subspace
 bubble around the ship.
 
-777
-00:38:52,921 --> 00:38:54,412
+829
+00:38:52,497 --> 00:38:53,999
 But we'd have
-to maneuver the <i>Defiant</i>
+to maneuver the<i> Defiant</i>
 
-778
-00:38:54,457 --> 00:38:55,755
+830
+00:38:53,999 --> 00:38:55,667
 between the fragments.
 
-779
-00:38:55,793 --> 00:38:58,093
+831
+00:38:55,667 --> 00:38:57,710
 They're too close together.
 There's not enough room.
 
-780
-00:38:58,132 --> 00:39:00,865
+832
+00:38:57,710 --> 00:39:00,505
 A shuttlepod could
 maneuver between them.
 
-781
-00:39:00,904 --> 00:39:02,965
+833
+00:39:00,505 --> 00:39:02,465
 And its warp drive
 should be able to create
 
-782
-00:39:03,008 --> 00:39:04,374
-a large enough subspace field.
+834
+00:39:02,465 --> 00:39:04,259
+a large enough
+subspace field.
 
-783
-00:39:04,477 --> 00:39:06,811
+835
+00:39:04,259 --> 00:39:06,344
 Maybe, but it could
 overload the engines.
 
-784
-00:39:06,849 --> 00:39:09,046
+836
+00:39:06,344 --> 00:39:08,805
 That's the chance
 I'll have to take.
 
-785
-00:39:09,087 --> 00:39:10,784
+837
+00:39:08,805 --> 00:39:10,890
 Major, you have the Bridge.
 
-786
-00:39:10,823 --> 00:39:14,524
-I want you to take the <i>Defiant</i>
-back into the Alpha Quadrant
+838
+00:39:10,890 --> 00:39:14,102
+I want you to take the<i> Defiant</i>
+<i>back into the Alpha Quadrant</i>
 
-787
-00:39:14,564 --> 00:39:17,161
+839
+00:39:14,102 --> 00:39:16,562
 as soon as I've cleared
 the shuttlebay.
 
-788
-00:39:17,203 --> 00:39:18,000
+840
+00:39:16,562 --> 00:39:17,772
 Commander.
 
-789
-00:39:20,409 --> 00:39:23,040
+841
+00:39:19,983 --> 00:39:22,735
 I want to go with you.
 
-790
-00:39:23,081 --> 00:39:25,780
+842
+00:39:22,735 --> 00:39:25,322
 Not just because I'm
 your First Officer
 
-791
-00:39:25,819 --> 00:39:29,520
-but because I believe
-I'm here to help the Emissary.
+843
+00:39:25,322 --> 00:39:29,159
+but because I believe I'm
+here to help the Emissary.
 
-792
-00:39:31,298 --> 00:39:34,168
-Dax, the Bridge is yours.
+844
+00:39:30,618 --> 00:39:33,955
+Dax, the Bridge
+is yours.
 
-793
-00:39:41,084 --> 00:39:43,077
-We've cleared the shuttlebay.
+845
+00:39:40,545 --> 00:39:42,714
+We've cleared
+the shuttlebay.
 
-794
-00:39:43,121 --> 00:39:45,854
-Signal the <i>Defiant</i>
-that they can leave.
+846
+00:39:42,714 --> 00:39:45,466
+Signal the<i> Defiant</i>
+<i>that they can leave.</i>
 
-795
-00:39:45,894 --> 00:39:48,194
+847
+00:39:45,466 --> 00:39:47,802
 They're heading
 for the wormhole.
 
-796
-00:39:48,232 --> 00:39:51,831
+848
+00:39:47,802 --> 00:39:49,512
 I'm going to take us in
-behind the comet fragments.
 
-797
-00:39:51,871 --> 00:39:54,866
-It'll be easier to maneuver
-into position.
+849
+00:39:49,512 --> 00:39:51,348
+behind the
+comet fragments.
 
-798
-00:40:11,444 --> 00:40:12,503
+850
+00:39:51,348 --> 00:39:54,559
+It'll be easier to
+maneuver into position.
+
+851
+00:40:10,909 --> 00:40:12,369
 Hold position here.
 
-799
-00:40:12,546 --> 00:40:14,311
+852
+00:40:12,369 --> 00:40:13,953
 They could be in
 for a rough ride.
 
-800
-00:40:14,350 --> 00:40:16,343
+853
+00:40:13,953 --> 00:40:16,081
 Stand by transporters
 in case we need
 
-801
-00:40:16,388 --> 00:40:19,758
+854
+00:40:16,081 --> 00:40:19,292
 to beam them off the shuttlepod
 when they clear the wormhole.
 
-802
-00:40:19,794 --> 00:40:21,764
+855
+00:40:19,292 --> 00:40:21,253
 We're in position.
 
-803
-00:40:21,798 --> 00:40:24,929
-Activate the subspace field.
+856
+00:40:21,253 --> 00:40:24,589
+Activate the
+subspace field.
 
-804
-00:40:24,972 --> 00:40:26,566
+857
+00:40:24,589 --> 00:40:26,132
 Field engaged.
 
-805
-00:40:30,616 --> 00:40:33,417
+858
+00:40:30,011 --> 00:40:32,889
 We'll reach the entrance
 to the wormhole in...
 
-806
-00:40:33,455 --> 00:40:35,118
+859
+00:40:32,889 --> 00:40:34,807
 five seconds.
 
-807
-00:40:52,326 --> 00:40:54,523
+860
+00:40:51,824 --> 00:40:53,910
 The subspace field
 is losing integrity.
 
-808
-00:40:54,564 --> 00:40:57,468
+861
+00:40:53,910 --> 00:40:56,913
 Some of the silithium
 is starting to leak through.
 
-809
-00:40:57,503 --> 00:41:01,170
-Divert power from the engines
+862
+00:40:56,913 --> 00:40:58,748
+Divert power
+from the engines
+
+863
+00:40:58,748 --> 00:41:00,666
 to the subspace field coils.
 
-810
-00:41:01,211 --> 00:41:04,547
-We'll let our own inertia
-carry us the rest of the way.
+864
+00:41:00,666 --> 00:41:02,377
+We'll let our
+own inertia
 
-811
-00:41:04,584 --> 00:41:05,552
+865
+00:41:02,377 --> 00:41:04,087
+carry us the
+rest of the way.
+
+866
+00:41:04,087 --> 00:41:05,380
 That helped.
 
-812
-00:41:05,586 --> 00:41:07,249
+867
+00:41:05,380 --> 00:41:07,006
 We're still losing silithium.
 
-813
-00:41:08,759 --> 00:41:11,059
+868
+00:41:08,300 --> 00:41:10,676
 I'm picking up a neutrino surge.
 
-814
-00:41:11,097 --> 00:41:12,794
+869
+00:41:10,676 --> 00:41:12,429
 Something's coming through.
 
-815
-00:41:25,025 --> 00:41:26,186
+870
+00:41:20,519 --> 00:41:21,980
+(<i> sighs</i> )
+
+871
+00:41:23,273 --> 00:41:24,607
+(<i> sighs</i> )
+
+872
+00:41:24,607 --> 00:41:25,566
 Dax to Sisko.
 
-816
-00:41:26,227 --> 00:41:27,195
+873
+00:41:25,566 --> 00:41:26,859
 Sisko here.
 
-817
-00:41:27,229 --> 00:41:28,492
+874
+00:41:26,859 --> 00:41:28,194
 Are you all right, Benjamin?
 
-818
-00:41:28,532 --> 00:41:30,000
+875
+00:41:28,194 --> 00:41:29,612
 There was some silithium leakage
 
-819
-00:41:30,035 --> 00:41:31,698
+876
+00:41:29,612 --> 00:41:31,281
 inside the wormhole,
 but we're fine.
 
-820
-00:41:33,508 --> 00:41:34,942
+877
+00:41:32,907 --> 00:41:34,159
 I don't believe it.
 
-821
-00:41:34,977 --> 00:41:36,468
+878
+00:41:34,159 --> 00:41:36,119
 What is it, Chief?
 
-822
-00:41:36,514 --> 00:41:39,247
+879
+00:41:36,119 --> 00:41:38,830
 I'm picking up the test signal
 from the communications relay.
 
-823
-00:41:39,287 --> 00:41:40,916
+880
+00:41:38,830 --> 00:41:40,373
+SISKO:
 How is that possible?
 
-824
-00:41:40,956 --> 00:41:42,585
+881
+00:41:40,373 --> 00:41:42,041
+DAX:
 I'm not sure.
 
-825
-00:41:42,626 --> 00:41:44,186
+882
+00:41:42,041 --> 00:41:43,835
 We're reading
 a subspace filament
 
-826
-00:41:44,230 --> 00:41:45,893
+883
+00:41:43,835 --> 00:41:45,420
 leading back through
 the wormhole.
 
-827
-00:41:45,933 --> 00:41:48,028
+884
+00:41:45,420 --> 00:41:47,630
 It's acting like some kind
 of carrier wave.
 
-828
-00:41:48,071 --> 00:41:50,064
+885
+00:41:47,630 --> 00:41:49,590
 The comet fragments...
 
-829
-00:41:50,108 --> 00:41:53,274
+886
+00:41:49,590 --> 00:41:52,885
 they must have left a silithium
 trail in the wormhole.
 
-830
-00:41:53,315 --> 00:41:57,187
-It's almost like the wormhole
-was wedged open just a crack...
+887
+00:41:52,885 --> 00:41:54,679
+It's almost like
+the wormhole
 
-831
-00:41:57,223 --> 00:42:00,354
+888
+00:41:54,679 --> 00:41:56,722
+was wedged open
+just a crack...
+
+889
+00:41:56,722 --> 00:41:59,976
 just enough to let
 subspace signals through.
 
-832
-00:42:00,395 --> 00:42:03,162
+890
+00:41:59,976 --> 00:42:02,854
 The prophecy came true...
 
-833
-00:42:03,201 --> 00:42:05,764
+891
+00:42:02,854 --> 00:42:05,273
 all of it.
 
-834
-00:42:05,806 --> 00:42:11,215
+892
+00:42:05,273 --> 00:42:10,945
 We just misinterpreted
 Trakor's words.
 
-835
-00:42:12,753 --> 00:42:14,814
+893
+00:42:12,280 --> 00:42:14,282
 The three vipers.
 
-836
-00:42:14,857 --> 00:42:18,318
+894
+00:42:14,282 --> 00:42:17,952
 He wasn't talking
 about the Cardassians.
 
-837
-00:42:18,365 --> 00:42:21,998
-He meant
-the three comet fragments.
+895
+00:42:17,952 --> 00:42:21,664
+He meant the three
+comet fragments.
 
-838
-00:42:24,644 --> 00:42:26,511
+896
+00:42:24,125 --> 00:42:25,960
 The communications relay.
 
-839
-00:42:26,548 --> 00:42:28,575
+897
+00:42:25,960 --> 00:42:28,046
 In a sense, we've been trying
 
-840
-00:42:28,618 --> 00:42:31,020
+898
+00:42:28,046 --> 00:42:30,548
 to peer
 through the temple gates.
 
-841
-00:42:31,057 --> 00:42:34,223
+899
+00:42:30,548 --> 00:42:33,885
 The silithium
 ignited the wormhole
 
-842
-00:42:34,263 --> 00:42:36,665
+900
+00:42:33,885 --> 00:42:36,221
 burning the temple gates.
 
-843
-00:42:36,701 --> 00:42:38,671
+901
+00:42:36,221 --> 00:42:38,181
 So that they never close again.
 
-844
-00:42:38,738 --> 00:42:41,539
-And it's all because
+902
+00:42:38,181 --> 00:42:39,516
+And it's
+all because
+
+903
+00:42:39,516 --> 00:42:41,226
 the Emissary...
 
-845
-00:42:43,982 --> 00:42:45,679
+904
+00:42:43,561 --> 00:42:45,271
 used the sword of stars.
 
-846
-00:42:45,752 --> 00:42:48,485
+905
+00:42:45,271 --> 00:42:48,066
 And Trakor saw it all...
 
-847
-00:42:48,525 --> 00:42:51,622
+906
+00:42:48,066 --> 00:42:51,236
 3,000 years ago.
 
-848
-00:43:02,353 --> 00:43:04,653
+907
+00:43:01,871 --> 00:43:04,123
 I just want to say
 that I appreciate
 
-849
-00:43:04,690 --> 00:43:06,785
-what you did on the <i>Defiant.</i>
+908
+00:43:04,123 --> 00:43:06,251
+what you did
+on the<i> Defiant.</i>
 
-850
-00:43:06,828 --> 00:43:08,661
+909
+00:43:06,251 --> 00:43:08,211
 I hope it doesn't cause
 you too much trouble
 
-851
-00:43:08,765 --> 00:43:10,131
-when you get back to Cardassia.
+910
+00:43:08,211 --> 00:43:10,129
+when you get
+back to Cardassia.
 
-852
-00:43:10,168 --> 00:43:13,767
+911
+00:43:10,129 --> 00:43:13,299
 My superiors in the Science
 Ministry will protect me.
 
-853
-00:43:13,808 --> 00:43:17,008
+912
+00:43:13,299 --> 00:43:16,511
 Frankly, I think Dejar's
 in much more trouble than I.
 
-854
-00:43:17,048 --> 00:43:19,679
+913
+00:43:16,511 --> 00:43:19,264
 The Order doesn't
 reward failure.
 
-855
-00:43:19,754 --> 00:43:22,487
+914
+00:43:19,264 --> 00:43:21,933
 Still, it was
 a brave thing to do.
 
-856
-00:43:22,526 --> 00:43:24,120
+915
+00:43:21,933 --> 00:43:23,642
 I didn't want you
 to take the blame
 
-857
-00:43:24,163 --> 00:43:25,894
-for something
-that wasn't your fault.
+916
+00:43:23,642 --> 00:43:25,520
+for something that
+wasn't your fault.
 
-858
-00:43:25,932 --> 00:43:29,427
+917
+00:43:25,520 --> 00:43:27,564
 I know how proud you are
+
+918
+00:43:27,564 --> 00:43:29,107
 of your work.
 
-859
-00:43:29,473 --> 00:43:30,964
+919
+00:43:29,107 --> 00:43:30,649
 Too proud, sometimes.
 
-860
-00:43:31,009 --> 00:43:34,106
+920
+00:43:30,649 --> 00:43:33,694
 It's gotten me into trouble,
 now and again.
 
-861
-00:43:34,150 --> 00:43:36,552
+921
+00:43:33,694 --> 00:43:36,072
 What's your wife's name?
 
-862
-00:43:36,587 --> 00:43:38,386
+922
+00:43:36,072 --> 00:43:38,116
 Keiko.
 
-863
-00:43:38,425 --> 00:43:41,056
+923
+00:43:38,116 --> 00:43:40,701
 A lucky woman.
 
-864
-00:43:53,488 --> 00:43:56,483
+924
+00:43:52,505 --> 00:43:55,550
 Emissary, I'm sorry
 I doubted you.
 
-865
-00:43:56,527 --> 00:43:59,499
-I realize now I let
-my distrust of the Cardassians
+925
+00:43:55,550 --> 00:43:58,595
+I realize now I let my
+distrust of the Cardassians
 
-866
-00:43:59,533 --> 00:44:02,130
-blind me to the Prophets' words.
+926
+00:43:58,595 --> 00:44:01,264
+blind me to the
+Prophets' words.
 
-867
-00:44:02,172 --> 00:44:03,698
-It seems that the Prophets
-want peace
+927
+00:44:01,264 --> 00:44:02,890
+It seems that the
+Prophets want peace
 
-868
-00:44:03,808 --> 00:44:05,402
-between your two peoples,
-after all.
+928
+00:44:02,890 --> 00:44:04,642
+between your two
+peoples, after all.
 
-869
-00:44:05,445 --> 00:44:07,574
+929
+00:44:04,642 --> 00:44:06,603
 Perhaps so.
 
-870
-00:44:07,616 --> 00:44:11,020
-There are signs
-that Trakor's Fourth Prophecy
+930
+00:44:06,603 --> 00:44:10,106
+There are signs that
+Trakor's Fourth Prophecy
 
-871
-00:44:11,056 --> 00:44:13,458
-will soon come to pass, as well.
+931
+00:44:10,106 --> 00:44:12,650
+will soon come
+to pass, as well.
 
-872
-00:44:13,495 --> 00:44:15,624
+932
+00:44:12,650 --> 00:44:14,569
 Don't tell me that it has
 something to do with me.
 
-873
-00:44:15,665 --> 00:44:16,963
+933
+00:44:14,569 --> 00:44:16,237
 You, Commander?
 
-874
-00:44:17,001 --> 00:44:20,167
+934
+00:44:16,237 --> 00:44:19,407
 Well, it is a prophecy
 about the Emissary.
 
-875
-00:44:20,208 --> 00:44:21,734
+935
+00:44:19,407 --> 00:44:21,493
 Tell me about it.
 
-876
-00:44:21,844 --> 00:44:24,645
+936
+00:44:21,493 --> 00:44:23,620
 Trakor's Fourth Prophecy
 
-877
-00:44:24,683 --> 00:44:27,712
+937
+00:44:23,620 --> 00:44:26,789
 says that the Emissary
 will face a fiery trial
 
-878
-00:44:27,756 --> 00:44:28,883
+938
+00:44:26,789 --> 00:44:28,082
 and he'll be forced to choose...
-

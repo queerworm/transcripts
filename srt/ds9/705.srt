@@ -1,3788 +1,3700 @@
-﻿1
-00:00:02,531 --> 00:00:04,161
+1
+00:00:02,002 --> 00:00:03,838
 Miles, fancy a drink?
 
 2
-00:00:04,203 --> 00:00:05,433
-I can't.
+00:00:03,838 --> 00:00:05,631
+I can‘t.
+Keiko and the kids
 
 3
-00:00:05,473 --> 00:00:07,501
-Keiko and the kids
+00:00:05,631 --> 00:00:07,132
 are waiting on me for dinner.
 
 4
-00:00:07,544 --> 00:00:09,070
-Next Thursday...
+00:00:07,132 --> 00:00:08,843
+Next Thursday--
 book a holosuite.
 
 5
-00:00:09,116 --> 00:00:10,278
-They're going to Bajor.
+00:00:08,843 --> 00:00:10,218
+They‘re going to Bajor.
 
 6
-00:00:12,089 --> 00:00:13,456
+00:00:11,762 --> 00:00:12,972
 Hi, Julian.
 
 7
-00:00:13,494 --> 00:00:14,758
+00:00:12,972 --> 00:00:15,223
 Hi.
-You going to Vic's?
+You going to Vic‘s?
 
 8
-00:00:15,766 --> 00:00:16,735
+00:00:15,223 --> 00:00:16,391
 Yes.
 
 9
-00:00:16,769 --> 00:00:18,637
-Mind if I join you?
+00:00:16,391 --> 00:00:18,310
+Mind if I join?
 
 10
-00:00:18,674 --> 00:00:21,512
+00:00:18,310 --> 00:00:21,229
 Uh... actually, we
 were looking forward
 
 11
-00:00:21,547 --> 00:00:23,677
-to spending an evening alone.
+00:00:21,229 --> 00:00:23,357
+to spending
+an evening alone.
 
 12
-00:00:23,720 --> 00:00:25,350
+00:00:23,357 --> 00:00:25,108
 Great.
 
 13
-00:00:25,391 --> 00:00:27,157
+00:00:25,108 --> 00:00:27,068
 Well, have a great time.
 
 14
-00:00:29,234 --> 00:00:30,601
+00:00:28,863 --> 00:00:30,489
 I understand.
 
 15
-00:00:41,432 --> 00:00:43,096
+00:00:41,041 --> 00:00:42,710
 Cheeky virus.
 
 16
-00:00:43,137 --> 00:00:45,165
-You've gone and mutated on me.
+00:00:42,710 --> 00:00:45,128
+You‘ve gone and mutated on me.
 
 17
-00:00:47,114 --> 00:00:50,520
+00:00:46,463 --> 00:00:50,342
 Well, you can run,
-but you can't hide.
+but you can‘t hide.
 
 18
-00:00:58,544 --> 00:01:00,447
+00:00:58,225 --> 00:00:59,977
 Lights.
 
 19
-00:01:02,922 --> 00:01:04,825
+00:01:02,730 --> 00:01:04,773
 Nog to Dr. Bashir.
 
 20
-00:01:06,330 --> 00:01:07,856
+00:01:05,607 --> 00:01:07,150
 Go ahead.
 
 21
-00:01:07,901 --> 00:01:10,237
-You're needed
+00:01:07,150 --> 00:01:09,904
+You‘re needed
 in the Infirmary, sir.
 
 22
-00:01:10,274 --> 00:01:12,473
-It's 3:00 in the morning.
+00:01:09,904 --> 00:01:11,947
+It‘s 3:00 in the morning.
 
 23
-00:01:12,513 --> 00:01:14,177
-Isn't Dr. Girani on duty?
+00:01:11,947 --> 00:01:14,366
+Isn‘t Dr. Girani on duty?
 
 24
-00:01:14,218 --> 00:01:16,486
+00:01:14,366 --> 00:01:15,784
 Not anymore.
 
 25
-00:01:16,523 --> 00:01:18,426
+00:01:15,784 --> 00:01:17,828
 Admiral Patrick threw her out.
 
 26
-00:01:19,665 --> 00:01:21,191
+00:01:18,871 --> 00:01:20,581
 Admiral who?
 
 27
-00:01:21,236 --> 00:01:23,674
+00:01:20,581 --> 00:01:23,417
 He wants to see you
 immediately, sir.
 
 28
-00:01:23,709 --> 00:01:25,304
+00:01:23,417 --> 00:01:25,084
 On my way.
 
 29
-00:01:32,264 --> 00:01:33,597
-What's going on, Ensign?
+00:01:29,381 --> 00:01:30,799
+(<i> door opens</i> )
 
 30
-00:01:33,635 --> 00:01:35,002
+00:01:30,799 --> 00:01:33,092
+What‘s going on, Ensign?
+
+31
+00:01:33,092 --> 00:01:34,428
 Sir, Admiral Patrick
 and his staff
 
-31
-00:01:35,038 --> 00:01:36,200
-just arrived on the <i>Farragut.</i>
-
 32
-00:01:36,242 --> 00:01:37,506
-What happened to Dr. Girani?
+00:01:34,428 --> 00:01:35,763
+just arrived
+on the<i> Farragut.</i>
 
 33
-00:01:37,545 --> 00:01:38,946
+00:01:35,763 --> 00:01:37,180
+What happened
+to Dr. Girani?
+
+34
+00:01:37,180 --> 00:01:38,432
 The Admiral said
 she was asking
 
-34
-00:01:38,982 --> 00:01:40,178
-too many stupid questions.
-
 35
-00:01:44,998 --> 00:01:47,128
-Dr. Bashir reporting as ordered.
+00:01:38,432 --> 00:01:40,350
+too many stupid
+questions.
 
 36
-00:01:47,169 --> 00:01:48,399
-Finally.
+00:01:44,438 --> 00:01:46,273
+Dr. Bashir reporting
+as ordered.
 
 37
-00:01:49,442 --> 00:01:51,072
-Patrick?!
+00:01:46,273 --> 00:01:47,733
+Finally.
 
 38
-00:01:51,113 --> 00:01:52,241
-That's Admiral Patrick.
+00:01:48,943 --> 00:01:50,611
+Patrick?!
 
 39
-00:01:52,283 --> 00:01:54,254
-Mind your manners, Doctor.
+00:01:50,611 --> 00:01:51,904
+That‘s Admiral Patrick.
 
 40
-00:01:54,289 --> 00:01:55,383
-What are you doing here?
+00:01:51,904 --> 00:01:53,739
+Mind your manners,
+Doctor.
 
 41
-00:01:55,491 --> 00:01:57,291
-That's a stupid question.
+00:01:53,739 --> 00:01:54,990
+What are you
+doing here?
 
 42
-00:01:57,329 --> 00:01:59,266
+00:01:54,990 --> 00:01:56,784
+That‘s a stupid question.
+
+43
+00:01:56,784 --> 00:01:58,786
 Where did you get
 those uniforms?
 
-43
-00:01:59,302 --> 00:02:01,432
-That's a stupid question, too.
-
 44
-00:02:01,473 --> 00:02:03,467
-Please excuse the doctor, sir.
+00:01:58,786 --> 00:02:00,955
+That‘s a stupid question, too.
 
 45
-00:02:03,512 --> 00:02:04,606
-He just woke up.
+00:02:00,955 --> 00:02:02,623
+Please excuse
+the doctor, sir.
 
 46
-00:02:04,648 --> 00:02:06,744
-They're not
-Starfleet officers, Nog.
+00:02:02,623 --> 00:02:04,041
+He just woke up.
 
 47
-00:02:06,788 --> 00:02:07,950
-They're not?
+00:02:04,041 --> 00:02:06,001
+They‘re not
+Starfleet officers, Nog.
 
 48
-00:02:07,990 --> 00:02:09,016
-We're mutants.
+00:02:06,001 --> 00:02:07,502
+They‘re not?
 
 49
-00:02:09,060 --> 00:02:11,328
-Genetically engineered mutants.
+00:02:07,502 --> 00:02:08,921
+We‘re mutants.
 
 50
-00:02:11,366 --> 00:02:12,460
-Can't you tell?
+00:02:08,921 --> 00:02:10,839
+Genetically
+engineered mutants.
 
 51
-00:02:12,502 --> 00:02:14,872
-Does anybody at the Institute
-know you're missing?
+00:02:10,839 --> 00:02:12,758
+Can‘t you tell?
 
 52
-00:02:14,909 --> 00:02:15,878
-That's a stupid...
+00:02:12,758 --> 00:02:14,593
+BASHIR: Does anybody
+at the Institute
+know you‘re missing?
 
 53
-00:02:15,911 --> 00:02:17,939
+00:02:14,593 --> 00:02:17,429
+That‘s a stupid...
 Will you stop saying that!
 
 54
-00:02:17,983 --> 00:02:19,077
-Why are you so upset?
+00:02:17,429 --> 00:02:18,973
+Why are you
+so upset?
 
 55
-00:02:19,119 --> 00:02:21,318
-You wanted Sarina brought here.
-Well...
+00:02:18,973 --> 00:02:21,100
+You wanted Sarina
+brought here. Well...
 
 56
-00:02:22,729 --> 00:02:24,221
+00:02:22,267 --> 00:02:23,602
 here she is.
 
 57
-00:02:26,405 --> 00:02:28,775
+00:02:23,602 --> 00:02:25,562
+(<i> sighs</i> )
+
+58
+00:02:25,562 --> 00:02:28,107
 I was considering bringing
 Sarina here for treatment
 
-58
-00:02:28,811 --> 00:02:30,041
-when I was ready
-
 59
-00:02:30,081 --> 00:02:32,417
+00:02:28,107 --> 00:02:29,900
+when I was ready,
+
+60
+00:02:29,900 --> 00:02:31,819
 but I still have to modify
 my surgical equipment
 
-60
-00:02:32,454 --> 00:02:34,084
+61
+00:02:31,819 --> 00:02:33,487
 before I can begin
 the procedure.
 
-61
-00:02:34,125 --> 00:02:35,389
-Well, don't worry...
-we'll help you.
-
 62
-00:02:35,428 --> 00:02:36,795
-And when we're
-through with Sarina
+00:02:33,487 --> 00:02:35,030
+Well, don‘t worry--
+we‘ll help you.
 
 63
-00:02:36,832 --> 00:02:38,894
-she will be just like us.
+00:02:35,030 --> 00:02:36,490
+And when we‘re through
+with Sarina,
 
 64
-00:02:38,937 --> 00:02:40,703
-Do you have any idea
+00:02:36,490 --> 00:02:38,325
+she will be just like us.
 
 65
-00:02:40,742 --> 00:02:41,904
-how much trouble
-you could get into
+00:02:38,325 --> 00:02:40,577
+Do you have any idea
 
 66
-00:02:41,945 --> 00:02:43,677
-for impersonating
+00:02:40,577 --> 00:02:43,038
+how much trouble you could
+get into for impersonating
 Starfleet officers?
 
 67
-00:02:43,717 --> 00:02:45,847
-Jack, you didn't say anything
-about us getting into trouble.
+00:02:43,038 --> 00:02:45,165
+Jack, you didn‘t say
+anything about us
+getting into trouble.
 
 68
-00:02:45,889 --> 00:02:47,051
-Well, we didn't get caught,
-did we?
+00:02:45,165 --> 00:02:46,458
+Well, we didn‘t get
+caught, did we?
 
 69
-00:02:47,092 --> 00:02:48,618
-Didn't anybody question you?
+00:02:46,458 --> 00:02:48,209
+Didn‘t anybody
+question you?
 
 70
-00:02:48,662 --> 00:02:49,631
-Of course.
-
-71
-00:02:49,665 --> 00:02:51,363
-But when they did,
+00:02:48,209 --> 00:02:50,796
+Of course. But when they did,
 Patrick would say...
 
-72
-00:02:51,403 --> 00:02:53,033
-That's a stupid...
+71
+00:02:50,796 --> 00:02:52,673
+That‘s a stupid...
 
-73
-00:02:53,074 --> 00:02:55,946
-You'd be surprised
+72
+00:02:52,673 --> 00:02:55,342
+You‘d be surprised
 how well it works.
 
+73
+00:02:55,342 --> 00:02:56,677
+I‘ll say.
+
 74
-00:02:55,981 --> 00:02:57,280
-I'll say.
+00:02:56,677 --> 00:02:58,012
+What are they
+going do to us?
 
 75
-00:02:57,318 --> 00:02:58,617
-What are they going do to us?
+00:02:58,012 --> 00:02:59,178
+Oh, it‘s all right.
 
 76
-00:02:58,655 --> 00:02:59,681
-Oh, it's all right.
+00:02:59,178 --> 00:03:00,681
+I‘ll find a way
 
 77
-00:02:59,725 --> 00:03:01,058
-I'll find a way
+00:03:00,681 --> 00:03:03,642
+to straighten this
+out... somehow.
 
 78
-00:03:01,095 --> 00:03:04,001
-to straighten this out...
-somehow.
-
-79
-00:03:06,910 --> 00:03:08,277
+00:03:06,394 --> 00:03:08,939
 Hello, Sarina.
-
-80
-00:03:08,314 --> 00:03:09,442
 Remember me?
 
+79
+00:03:08,939 --> 00:03:11,399
+Of course
+she remembers you.
+She‘s not an idiot.
+
+80
+00:03:11,399 --> 00:03:13,276
+She‘s just a little
+cataleptic.
+
 81
-00:03:09,484 --> 00:03:11,455
-Of course she remembers you.
-
-82
-00:03:11,555 --> 00:03:12,454
-She's not an idiot.
-
-83
-00:03:12,558 --> 00:03:13,925
-She's just a little cataleptic.
-
-84
-00:03:13,962 --> 00:03:15,592
+00:03:13,276 --> 00:03:16,195
 Are you really
 going to be able
-
-85
-00:03:15,633 --> 00:03:16,693
 to make her better?
 
-86
-00:03:16,735 --> 00:03:19,641
-I'm going to do
+82
+00:03:16,195 --> 00:03:19,825
+I‘m going to do
 everything I can.
 
-87
-00:03:19,676 --> 00:03:21,944
+83
+00:03:19,825 --> 00:03:21,576
 I promise.
 
-88
-00:05:19,590 --> 00:05:21,720
+84
+00:05:20,695 --> 00:05:22,614
 They posed as an Admiral
 and his staff.
 
-89
-00:05:21,795 --> 00:05:23,857
+85
+00:05:22,614 --> 00:05:24,908
 If you want me to convince
-Starfleet not to press charges
+Starfleet not to press charges,
 
-90
-00:05:23,900 --> 00:05:26,134
-you're going to have to give me
+86
+00:05:24,908 --> 00:05:27,286
+you‘re going to have to give me
 a damn good reason.
 
-91
-00:05:26,173 --> 00:05:27,403
+87
+00:05:27,286 --> 00:05:29,246
 They wanted
 to bring Sarina here
-
-92
-00:05:27,443 --> 00:05:28,503
 so that I could help her.
 
-93
-00:05:28,546 --> 00:05:29,515
+88
+00:05:29,246 --> 00:05:31,331
 They meant well.
-
-94
-00:05:29,548 --> 00:05:30,517
 They meant well?
 
-95
-00:05:30,551 --> 00:05:32,077
-That's the same
+89
+00:05:31,331 --> 00:05:33,667
+That‘s the same
 excuse you gave me
-
-96
-00:05:32,122 --> 00:05:33,091
 when they were caught
 
-97
-00:05:33,124 --> 00:05:35,220
+90
+00:05:33,667 --> 00:05:36,170
 trying to pass military
 secrets to the Dominion.
 
-98
-00:05:35,264 --> 00:05:36,392
+91
+00:05:36,170 --> 00:05:37,462
 They were trying
 to save lives...
 
-99
-00:05:36,433 --> 00:05:38,370
+92
+00:05:37,462 --> 00:05:39,047
 Doctor, I appreciate
 
-100
-00:05:38,405 --> 00:05:39,897
-that you feel
-a connection to them
+93
+00:05:39,047 --> 00:05:40,966
+that you feel a
+connection to them
 
-101
-00:05:39,942 --> 00:05:41,913
+94
+00:05:40,966 --> 00:05:43,135
 because you are genetically
-engineered yourself
+engineered yourself,
 
-102
-00:05:41,947 --> 00:05:43,211
+95
+00:05:43,135 --> 00:05:46,221
 but they have displayed
-
-103
-00:05:43,251 --> 00:05:45,279
 a consistent disregard
 for the rules
 
-104
-00:05:45,323 --> 00:05:46,987
-that the rest of society
-lives by.
+96
+00:05:46,221 --> 00:05:48,307
+that the rest of
+society lives by.
 
-105
-00:05:47,027 --> 00:05:48,087
-Maybe that's because
-
-106
-00:05:48,130 --> 00:05:50,260
-they're not allowed
+97
+00:05:48,307 --> 00:05:51,310
+Maybe that‘s because
+they‘re not allowed
 to live in society.
 
-107
-00:05:50,303 --> 00:05:52,206
+98
+00:05:51,310 --> 00:05:52,936
 We are not here
 to debate Federation policy
 
-108
-00:05:52,241 --> 00:05:53,676
+99
+00:05:52,936 --> 00:05:54,980
 toward
 the genetically enhanced.
 
-109
-00:05:53,711 --> 00:05:56,377
+100
+00:05:54,980 --> 00:05:57,232
 We are here to discuss
 what to do about these people
 
-110
-00:05:56,418 --> 00:05:57,682
-now that they're aboard.
+101
+00:05:57,232 --> 00:05:58,775
+now that they‘re aboard.
 
-111
-00:05:57,721 --> 00:05:59,885
+102
+00:05:58,775 --> 00:06:00,777
 Of course.
 
-112
-00:05:59,928 --> 00:06:01,626
-Well, with your permission, sir
+103
+00:06:00,777 --> 00:06:02,612
+Well, with your
+permission, sir,
 
-113
-00:06:01,666 --> 00:06:04,434
+104
+00:06:02,612 --> 00:06:05,448
 I would like to proceed
-with Sarina's treatment.
+with Sarina‘s treatment.
 
-114
-00:06:04,472 --> 00:06:05,771
-Well, I take it the Institute
-
-115
-00:06:05,842 --> 00:06:07,676
+105
+00:06:05,448 --> 00:06:08,702
+I take it the Institute
 has given the approval
 to move forward?
 
-116
-00:06:07,714 --> 00:06:11,120
+106
+00:06:08,702 --> 00:06:12,039
 A copy of the medical
 protocols I submitted.
 
-117
-00:06:11,157 --> 00:06:13,185
+107
+00:06:12,039 --> 00:06:14,082
 Dr. Loews,
-Sarina's legal guardian
+Sarina‘s legal guardian,
 
-118
-00:06:13,228 --> 00:06:14,492
+108
+00:06:14,082 --> 00:06:16,210
 has given her consent.
 
-119
-00:06:15,768 --> 00:06:17,500
-Well, it appears
-that this procedure
+109
+00:06:16,210 --> 00:06:19,921
+Well, it appears that
+this procedure has never
+been done before.
 
-120
-00:06:17,540 --> 00:06:18,804
-has never been done before.
+110
+00:06:19,921 --> 00:06:21,840
+Well, there‘s no guarantee
+that it will work, of course,
 
-121
-00:06:18,876 --> 00:06:20,813
-Well, there's no guarantee
-that it will work, of course
-
-122
-00:06:20,881 --> 00:06:23,183
+111
+00:06:21,840 --> 00:06:23,967
 but if it does, it could change
 everything for her.
 
-123
-00:06:23,221 --> 00:06:25,055
-There's no reason
-to think that she's suffering
+112
+00:06:23,967 --> 00:06:26,303
+There‘s no reason
+to think that she‘s suffering
 
-124
-00:06:25,093 --> 00:06:27,064
+113
+00:06:26,303 --> 00:06:29,056
 from the same type
 of behavioral disorders
-
-125
-00:06:27,098 --> 00:06:28,260
 as Jack and the others.
 
-126
-00:06:28,301 --> 00:06:30,535
-Her problem is that she's
+114
+00:06:29,056 --> 00:06:31,516
+Her problem is that she‘s
 trapped inside her own mind.
 
-127
-00:06:30,574 --> 00:06:32,204
+115
+00:06:31,516 --> 00:06:33,476
 This could free her.
 
-128
-00:06:32,245 --> 00:06:34,843
+116
+00:06:33,476 --> 00:06:35,603
 There are still a few technical
-issues I have to work on
+issues I have to work on,
 
-129
-00:06:34,918 --> 00:06:37,584
+117
+00:06:35,603 --> 00:06:38,523
 but I feel confident
 that I can iron them all out.
 
-130
-00:06:37,625 --> 00:06:41,294
-You've put in a lot of time
-on this, haven't you?
+118
+00:06:38,523 --> 00:06:42,277
+You‘ve put in a lot of time
+on this, haven‘t you?
 
-131
-00:06:41,335 --> 00:06:42,770
+119
+00:06:42,277 --> 00:06:44,071
 I owe it to her, sir.
 
-132
-00:06:42,805 --> 00:06:45,141
+120
+00:06:44,071 --> 00:06:45,947
 I could have ended up
-the same way as Sarina
+the same way as Sarina,
 
-133
-00:06:45,178 --> 00:06:46,442
+121
+00:06:45,947 --> 00:06:48,407
 but I was lucky.
-
-134
-00:06:46,481 --> 00:06:47,745
 My DNA re-sequencing
 
-135
-00:06:47,785 --> 00:06:49,984
-didn't have
+122
+00:06:48,407 --> 00:06:51,203
+didn‘t have
 any unintended side effects.
 
-136
-00:06:51,996 --> 00:06:53,522
+123
+00:06:52,746 --> 00:06:54,706
 All right, Doctor.
 
-137
-00:06:53,567 --> 00:06:56,735
-I'll take care of Starfleet.
+124
+00:06:54,706 --> 00:06:57,709
+I‘ll take care of Starfleet.
 You take care of Sarina.
 
-138
-00:06:56,775 --> 00:06:58,609
+125
+00:06:57,709 --> 00:06:59,502
 Thank you, sir.
-I'll arrange to have
+I‘ll arrange to have
 
-139
-00:06:58,647 --> 00:07:00,777
+126
+00:06:59,502 --> 00:07:01,713
 the rest of the people
 sent back to the Institute.
 
-140
-00:07:00,819 --> 00:07:02,311
+127
+00:07:01,713 --> 00:07:04,966
 Actually, I was hoping
+you‘d allow them to stay
+on for awhile.
 
-141
-00:07:02,356 --> 00:07:03,986
-you'd allow them
-to stay on for awhile.
-
-142
-00:07:04,027 --> 00:07:05,257
+128
+00:07:04,966 --> 00:07:06,551
 For what reason?
 
-143
-00:07:05,297 --> 00:07:07,268
-Sarina's spent the last
+129
+00:07:06,551 --> 00:07:08,220
+Sarina‘s spent the last
 15 years with them.
 
-144
-00:07:07,303 --> 00:07:09,001
+130
+00:07:08,220 --> 00:07:09,888
 Now, assuming
 the procedure works
 
-145
-00:07:09,040 --> 00:07:10,600
+131
+00:07:09,888 --> 00:07:11,932
 and she comes out
-of her isolation
+of her isolation,
 
-146
-00:07:10,644 --> 00:07:12,342
+132
+00:07:11,932 --> 00:07:14,475
 I think it would be
-helpful to have
+helpful to have some
+familiar faces around.
 
-147
-00:07:12,382 --> 00:07:13,646
-some familiar faces around.
-
-148
-00:07:13,686 --> 00:07:15,885
-Well, we'll arrange
+133
+00:07:14,475 --> 00:07:17,396
+Well, we‘ll arrange
 for quarters
 
-149
-00:07:15,924 --> 00:07:18,020
-to be set up in the cargo bay.
+134
+00:07:17,396 --> 00:07:18,980
+to be set up in
+the cargo bay.
 
-150
-00:07:18,064 --> 00:07:19,659
+135
+00:07:18,980 --> 00:07:20,815
 I appreciate it.
 
-151
-00:07:21,038 --> 00:07:23,237
-Just make sure they stay there.
+136
+00:07:21,900 --> 00:07:24,319
+Just make sure
+they stay there.
 
-152
-00:07:23,277 --> 00:07:25,077
-I don't want them to get
+137
+00:07:24,319 --> 00:07:26,988
+I don‘t want them to get
 out and cause trouble
-
-153
-00:07:25,115 --> 00:07:26,414
 like they did the last time.
 
-154
-00:07:26,452 --> 00:07:27,819
-I'll see that it
-doesn't happen again.
+138
+00:07:26,988 --> 00:07:28,823
+I‘ll see that it
+doesn‘t happen again.
 
-155
-00:07:27,855 --> 00:07:29,154
-I'll hold you to that.
-
-156
-00:07:29,193 --> 00:07:30,857
+139
+00:07:28,823 --> 00:07:31,868
+I‘ll hold you to that.
 One thing more.
 
-157
-00:07:30,897 --> 00:07:32,629
+140
+00:07:31,868 --> 00:07:33,578
 Get them out
 of those uniforms.
 
-158
-00:07:32,668 --> 00:07:33,659
+141
+00:07:33,578 --> 00:07:34,871
 Aye, sir.
 
-159
-00:07:36,077 --> 00:07:38,207
-There.
-Don't you look pretty?
+142
+00:07:36,915 --> 00:07:38,792
+There. Don‘t you
+look pretty?
 
-160
-00:07:38,249 --> 00:07:39,445
-Why are we doing this anyway?
+143
+00:07:38,792 --> 00:07:40,168
+JACK:
+Why are we doing
+this anyway?
 
-161
-00:07:39,486 --> 00:07:40,455
+144
+00:07:40,168 --> 00:07:41,378
+PATRICK:
 Keep going.
 
-162
-00:07:40,489 --> 00:07:41,685
+145
+00:07:41,378 --> 00:07:42,754
+JACK:
 Here?
 
-163
-00:07:41,725 --> 00:07:43,491
+146
+00:07:42,754 --> 00:07:44,672
 A little to the left.
 
-164
-00:07:45,267 --> 00:07:47,238
-That's not where it was
-last time.
+147
+00:07:46,216 --> 00:07:47,968
+That‘s not where
+it was last time.
 
-165
-00:07:47,272 --> 00:07:48,798
+148
+00:07:47,968 --> 00:07:49,594
 Oh, what difference
 does it make?
 
-166
-00:07:48,844 --> 00:07:49,835
-He's right.
-
-167
-00:07:49,880 --> 00:07:50,974
+149
+00:07:49,594 --> 00:07:52,264
+He‘s right.
 Fine.
 
-168
-00:07:51,049 --> 00:07:52,143
-How's that?
+150
+00:07:52,264 --> 00:07:53,348
+How‘s that?
 
-169
-00:07:52,185 --> 00:07:53,176
+151
+00:07:53,348 --> 00:07:55,016
 Much better.
 
-170
-00:07:54,190 --> 00:07:55,820
+152
+00:07:55,016 --> 00:07:56,684
 Here he is!
 
-171
-00:07:55,862 --> 00:07:57,492
+153
+00:07:56,684 --> 00:07:58,353
 Well, well, what did
 the Captain say?
 
-172
-00:07:57,533 --> 00:07:58,502
+154
+00:07:58,353 --> 00:08:00,563
 All systems are a go.
-
-173
-00:07:58,535 --> 00:07:59,663
 See? See?
 
-174
-00:07:59,705 --> 00:08:01,642
+155
+00:08:00,563 --> 00:08:02,399
 I told you it was a good
 idea to bring her here.
 
-175
-00:08:01,676 --> 00:08:02,940
-That's right, Jack,
+156
+00:08:02,399 --> 00:08:03,775
+That‘s right, Jack,
 I remember.
 
-176
-00:08:02,981 --> 00:08:04,507
-So, when do we operate?
+157
+00:08:03,775 --> 00:08:05,402
+So, when do
+we operate?
 
-177
-00:08:04,551 --> 00:08:05,177
+158
+00:08:05,402 --> 00:08:06,861
 We?
 
-178
-00:08:06,222 --> 00:08:07,817
-You're going to need some help.
+159
+00:08:06,861 --> 00:08:08,696
+You‘re going to
+need some help.
 
-179
-00:08:07,859 --> 00:08:08,953
-Oh, so you're a surgeon now?
+160
+00:08:08,696 --> 00:08:09,906
+Oh, so you‘re
+a surgeon now?
 
-180
-00:08:09,062 --> 00:08:10,429
-How hard can it be?
+161
+00:08:09,906 --> 00:08:11,283
+How hard
+can it be?
 
-181
-00:08:10,466 --> 00:08:11,901
-Um, thanks for the offer, but...
+162
+00:08:11,283 --> 00:08:12,993
+Um, thanks
+for the offer, but...
 
-182
-00:08:11,937 --> 00:08:13,099
+163
+00:08:12,993 --> 00:08:15,412
 Oh, I get it.
-
-183
-00:08:13,140 --> 00:08:14,609
 You want to take
 all the credit.
 
-184
-00:08:14,644 --> 00:08:15,613
-It's not about credit.
-
-185
-00:08:15,647 --> 00:08:17,550
-It's about what's best
+164
+00:08:15,412 --> 00:08:18,290
+It‘s not about credit.
+It‘s about what‘s best
 for Sarina, I think.
 
-186
-00:08:17,585 --> 00:08:19,921
-Fine. I'm busy, anyway.
-
-187
-00:08:19,958 --> 00:08:21,450
+165
+00:08:18,290 --> 00:08:22,294
+Fine. I‘m busy, anyway.
 New project.
 
-188
-00:08:21,495 --> 00:08:22,521
+166
+00:08:22,294 --> 00:08:24,254
 Oh, glad to hear it.
-
-189
-00:08:22,564 --> 00:08:23,658
 What are you working on?
 
-190
-00:08:23,701 --> 00:08:25,501
-Wouldn't you like to know?
+167
+00:08:24,254 --> 00:08:27,341
+Wouldn‘t you
+like to know?
+(<i> chuckling</i> )
 
-191
-00:08:26,541 --> 00:08:27,669
-Well, I'll leave you to it
-
-192
-00:08:27,711 --> 00:08:28,737
+168
+00:08:27,341 --> 00:08:29,676
+Well, I‘ll leave you to it,
 but, uh, do me a favor
 
-193
-00:08:28,781 --> 00:08:30,581
+169
+00:08:29,676 --> 00:08:32,346
 and, uh, change out
 of those uniforms.
 
-194
-00:08:37,904 --> 00:08:41,437
-Sarina, I'd like to take
+170
+00:08:39,186 --> 00:08:43,690
+Sarina, I‘d like to take
 you to the Infirmary
-
-195
-00:08:41,480 --> 00:08:42,915
 and run a few tests.
 
-196
-00:08:42,950 --> 00:08:44,112
+171
+00:08:43,690 --> 00:08:45,150
 Is that all right?
 
-197
-00:08:45,591 --> 00:08:47,357
-She's afraid it's going to hurt.
+172
+00:08:46,401 --> 00:08:48,028
+She‘s afraid it‘s going to hurt.
 
-198
-00:08:47,395 --> 00:08:49,559
-It won't hurt.
+173
+00:08:48,028 --> 00:08:50,364
+It won‘t hurt.
 I promise.
 
-199
-00:08:49,601 --> 00:08:51,299
-You're in good hands...
+174
+00:08:50,364 --> 00:08:52,366
+You‘re in good hands...
 
-200
-00:08:51,339 --> 00:08:53,401
+175
+00:08:52,366 --> 00:08:54,409
 very good hands.
 
-201
-00:08:54,848 --> 00:08:55,874
-Don't get your hopes up, Julian.
+176
+00:08:55,660 --> 00:08:57,287
+Don‘t get your
+hopes up, Julian.
 
-202
-00:08:55,917 --> 00:08:58,481
-It's over
+177
+00:08:57,287 --> 00:08:59,247
+It‘s over
 between the two of us.
 
-203
-00:08:58,524 --> 00:09:00,586
+178
+00:08:59,247 --> 00:09:01,708
 I have a new man in my life...
 
-204
-00:09:00,630 --> 00:09:03,330
-that gorgeous little Ferengi.
+179
+00:09:01,708 --> 00:09:04,378
+that gorgeous
+little Ferengi.
 
-205
-00:09:03,370 --> 00:09:04,600
+180
+00:09:04,378 --> 00:09:07,297
 Nog?
-
-206
-00:09:04,640 --> 00:09:06,235
 Jealous?
 
-207
-00:09:06,278 --> 00:09:08,716
-Oh, that's so sweet.
+181
+00:09:07,297 --> 00:09:09,757
+Oh, that‘s so sweet.
 
-208
-00:09:12,895 --> 00:09:14,091
+182
+00:09:13,553 --> 00:09:15,222
 Hurry back.
 
-209
-00:09:20,347 --> 00:09:21,441
-Sarina's cerebral cortex
-
-210
-00:09:21,484 --> 00:09:24,218
+183
+00:09:20,935 --> 00:09:23,313
+BASHIR:
+Sarina‘s cerebral cortex
 was genetically enhanced
-in order to accelerate the rate
 
-211
-00:09:24,257 --> 00:09:26,285
-at which
-she can process information.
+184
+00:09:23,313 --> 00:09:27,317
+in order to accelerate
+the rate at which she can
+process information.
 
-212
-00:09:26,330 --> 00:09:29,361
+185
+00:09:27,317 --> 00:09:30,404
 Now, the only problem is,
 her visual and auditory systems
 
-213
-00:09:29,405 --> 00:09:32,573
-can't channel the stimuli
-into the cortex fast enough
+186
+00:09:30,404 --> 00:09:33,114
+can‘t channel the stimuli
+into the cortex fast enough,
 
-214
-00:09:32,613 --> 00:09:34,014
+187
+00:09:33,114 --> 00:09:34,949
 so, because
-they're out of sync
+they‘re out of sync
 
-215
-00:09:34,050 --> 00:09:36,044
-she can't focus on
-what's going on around her.
+188
+00:09:34,949 --> 00:09:37,160
+she can‘t focus on
+what‘s going on around her.
 
-216
-00:09:36,088 --> 00:09:37,057
+189
+00:09:37,160 --> 00:09:39,620
 Well, is there any way
-
-217
-00:09:37,091 --> 00:09:38,789
 to get her sensory
 processors up to speed?
 
-218
-00:09:38,829 --> 00:09:39,798
+190
+00:09:39,620 --> 00:09:43,333
 I need to stimulate
-the growth
+the growth of new synapses
+in the thalamus,
 
-219
-00:09:39,831 --> 00:09:41,893
-of new synapses in the thalamus
-
-220
-00:09:41,937 --> 00:09:45,470
+191
+00:09:43,333 --> 00:09:46,503
 which means...
 I have to manipulate
 
-221
-00:09:45,513 --> 00:09:48,145
+192
+00:09:46,503 --> 00:09:49,089
 neural proteins
 at a subatomic level.
 
-222
-00:09:48,254 --> 00:09:50,157
-Well, then you've
+193
+00:09:49,089 --> 00:09:51,049
+Well, then you‘ve
 got a problem.
 
-223
-00:09:50,225 --> 00:09:53,165
+194
+00:09:51,049 --> 00:09:54,094
 This is the most advanced
-neocortical probe made
+neocortical probe made,
 
-224
-00:09:53,200 --> 00:09:55,103
-and it's not nearly
+195
+00:09:54,094 --> 00:09:56,012
+and it‘s not nearly
 that accurate.
 
-225
-00:09:55,138 --> 00:09:57,736
+196
+00:09:56,012 --> 00:09:58,306
 Now you know why
 I asked you down here.
 
-226
-00:09:57,778 --> 00:09:59,008
+197
+00:09:58,306 --> 00:09:59,807
 Well, I wish I could
-help you, Julian
+help you, Julian,
 
-227
-00:09:59,048 --> 00:10:00,985
+198
+00:09:59,807 --> 00:10:01,851
 but at resolutions
-that small
+that small,
 
-228
-00:10:01,020 --> 00:10:04,324
-quantum fluctuations
-are impossible to control
+199
+00:10:01,851 --> 00:10:04,979
+quantum fluctuations are
+impossible to control,
 
-229
-00:10:04,361 --> 00:10:06,457
-and I can't make this
+200
+00:10:04,979 --> 00:10:07,190
+and I can‘t make this
 thing any more accurate.
 
-230
-00:10:06,501 --> 00:10:09,030
+201
+00:10:07,190 --> 00:10:09,734
 How can you say that before
-you've even tried it?
+you‘ve even tried it?
 
-231
-00:10:09,074 --> 00:10:11,569
-I'm sorry, Julian.
-It-it-it can't be done.
+202
+00:10:09,734 --> 00:10:13,363
+I‘m sorry, Julian.
+It-it-it can‘t be done.
+I‘m sorry.
 
-232
-00:10:11,614 --> 00:10:12,810
-I'm sorry.
-
-233
-00:10:12,850 --> 00:10:14,912
-Well, sorry just isn't
+203
+00:10:13,363 --> 00:10:15,698
+Well, sorry just isn‘t
 good enough, Miles.
 
-234
-00:10:14,956 --> 00:10:18,397
-This is Sarina's only chance
-at living a normal life.
+204
+00:10:15,698 --> 00:10:19,244
+This is Sarina‘s
+only chance at living
+a normal life.
 
-235
-00:10:18,432 --> 00:10:21,166
-Julian, I can't break
+205
+00:10:19,244 --> 00:10:21,788
+Julian, I can‘t break
 the laws of physics.
 
-236
-00:10:21,205 --> 00:10:22,299
+206
+00:10:21,788 --> 00:10:23,331
 Nobody can.
 
-237
-00:10:32,601 --> 00:10:34,435
+207
+00:10:33,758 --> 00:10:35,802
 Your friend was right.
 
-238
-00:10:34,473 --> 00:10:36,410
-You can't break
+208
+00:10:35,802 --> 00:10:37,929
+You can‘t break
 the laws of physics.
 
-239
-00:10:38,851 --> 00:10:41,085
-But you can bend them.
+209
+00:10:40,014 --> 00:10:42,100
+ALL:
+But you<i> can</i> bend them.
 
-240
-00:10:41,123 --> 00:10:43,391
+210
+00:10:42,100 --> 00:10:44,603
+JACK:
 We recalibrated
 the imaging diodes.
 
-241
-00:10:43,429 --> 00:10:44,591
+211
+00:10:44,603 --> 00:10:47,188
 It is so accurate
-
-242
-00:10:44,632 --> 00:10:46,033
 that you could clip
 the wings of an angel
 
-243
-00:10:46,069 --> 00:10:47,402
-dancing on the head of a pin.
+212
+00:10:47,188 --> 00:10:48,815
+dancing on the
+head of a pin.
 
-244
-00:10:47,439 --> 00:10:50,277
+213
+00:10:48,815 --> 00:10:51,692
 Uh... if you wanted to.
 
-245
-00:11:59,994 --> 00:12:02,090
+214
+00:12:01,221 --> 00:12:02,889
 Anything?
 
-246
-00:12:10,956 --> 00:12:12,790
+215
+00:12:10,313 --> 00:12:12,148
+(<i> sighs</i> )
+
+216
+00:12:12,148 --> 00:12:14,025
 Sarina?
 
-247
-00:12:12,894 --> 00:12:15,492
+217
+00:12:14,025 --> 00:12:16,611
 Now, just how am I
 supposed to know
 
-248
-00:12:15,534 --> 00:12:17,060
+218
+00:12:16,611 --> 00:12:18,779
 you understand me
 
-249
-00:12:17,105 --> 00:12:21,138
-if you don't give
+219
+00:12:18,779 --> 00:12:22,783
+if you don‘t give
 me some sign, hmm?
 
-250
-00:12:21,182 --> 00:12:23,176
+220
+00:12:22,783 --> 00:12:24,369
 Anything.
 
-251
-00:12:23,221 --> 00:12:25,557
-It doesn't matter how small.
+221
+00:12:24,369 --> 00:12:26,745
+It doesn‘t matter
+how small.
 
-252
-00:12:37,158 --> 00:12:38,491
-It's been five days now
+222
+00:12:37,965 --> 00:12:39,426
+It‘s been five days now,
 
-253
-00:12:38,528 --> 00:12:40,192
-and she's just as unresponsive
+223
+00:12:39,426 --> 00:12:40,968
+and she‘s just
+as unresponsive
 
-254
-00:12:40,231 --> 00:12:42,065
+224
+00:12:40,968 --> 00:12:43,221
 as she was before
 the procedure.
 
-255
-00:12:42,103 --> 00:12:43,767
-I know you're
-disappointed, Julian
+225
+00:12:43,221 --> 00:12:44,847
+I know you‘re
+disappointed, Julian,
 
-256
-00:12:43,808 --> 00:12:45,711
+226
+00:12:44,847 --> 00:12:46,683
 but you did everything
 that you could.
 
-257
-00:12:45,746 --> 00:12:47,444
-Well, it wasn't enough.
+227
+00:12:46,683 --> 00:12:48,685
+Well, it
+wasn‘t enough.
 
-258
-00:12:48,821 --> 00:12:50,313
-I'm sorry.
+228
+00:12:49,894 --> 00:12:51,396
+I‘m sorry.
 
-259
-00:12:50,358 --> 00:12:53,230
+229
+00:12:51,396 --> 00:12:54,815
 Obviously, you want
 to punish yourself.
 
-260
-00:12:53,265 --> 00:12:55,168
+230
+00:12:54,815 --> 00:12:56,401
 Do you want help?
 
-261
-00:12:55,204 --> 00:12:57,175
-Because I'm really good
+231
+00:12:56,401 --> 00:12:58,278
+Because I‘m really good
 at punishing myself.
 
-262
-00:12:57,210 --> 00:12:58,543
-Let's see...
-
-263
-00:12:58,580 --> 00:13:01,348
+232
+00:12:58,278 --> 00:13:02,407
+Let‘s see...
 if I were you,
-I'd be kicking myself
+I‘d be kicking myself
 
-264
-00:13:01,386 --> 00:13:03,118
+233
+00:13:02,407 --> 00:13:04,576
 for making promises
-I couldn't keep
+I couldn‘t keep,
 
-265
-00:13:03,158 --> 00:13:05,630
-for getting people's hopes up
+234
+00:13:04,576 --> 00:13:06,745
+for getting
+people‘s hopes up,
 
-266
-00:13:05,664 --> 00:13:07,133
+235
+00:13:06,745 --> 00:13:09,163
 for being arrogant
 enough to think
+that I could help Sarina,
 
-267
-00:13:07,168 --> 00:13:08,228
-that I could help Sarina
-
-268
-00:13:08,271 --> 00:13:11,073
+236
+00:13:09,163 --> 00:13:12,041
 even though dozens
 of other doctors have failed.
 
-269
-00:13:11,112 --> 00:13:12,081
-Should I keep going?
+237
+00:13:12,041 --> 00:13:13,293
+Should I
+keep going?
 
-270
-00:13:12,114 --> 00:13:13,812
+238
+00:13:13,293 --> 00:13:14,835
 No.
 
-271
-00:13:13,852 --> 00:13:16,051
-That just about covers it.
-Thanks.
+239
+00:13:14,835 --> 00:13:17,255
+That just about
+covers it. Thanks.
 
-272
-00:13:16,092 --> 00:13:17,618
+240
+00:13:17,255 --> 00:13:18,797
 Glad I could help.
 
-273
-00:13:20,403 --> 00:13:21,531
+241
+00:13:21,468 --> 00:13:22,719
 What is it?
 
-274
-00:13:24,113 --> 00:13:26,107
-I'm not sure.
+242
+00:13:25,012 --> 00:13:27,390
+I‘m not sure.
 
-275
-00:13:34,807 --> 00:13:35,969
+243
+00:13:35,814 --> 00:13:37,942
 Excuse me.
 
-276
-00:13:37,012 --> 00:13:38,481
+244
+00:13:37,942 --> 00:13:39,444
 Sarina?
 
-277
-00:13:38,517 --> 00:13:40,488
-What are you looking at?
+245
+00:13:39,444 --> 00:13:41,820
+What are you
+looking at?
 
-278
-00:13:40,522 --> 00:13:43,792
-Every... thing.
+246
+00:13:41,820 --> 00:13:44,949
+Every...thing.
 
-279
-00:13:52,185 --> 00:13:55,421
-You... heard me.
+247
+00:13:52,831 --> 00:13:56,628
+(<i> halting nasal monotone):</i>
+<i>You... heard me.</i>
 
-280
-00:13:55,461 --> 00:13:58,731
+248
+00:13:56,628 --> 00:13:59,631
 I thought something
 
-281
-00:13:58,769 --> 00:14:01,367
+249
+00:13:59,631 --> 00:14:01,882
 and you heard it.
 
-282
-00:14:01,409 --> 00:14:02,901
+250
+00:14:01,882 --> 00:14:03,635
 Sarina...
 
-283
-00:14:04,049 --> 00:14:05,917
+251
+00:14:04,803 --> 00:14:07,054
 you spoke.
 
-284
-00:14:35,097 --> 00:14:36,692
+252
+00:14:36,459 --> 00:14:38,795
 Sarina.
-
-285
-00:14:36,735 --> 00:14:37,999
 Come and sit down.
 
-286
-00:14:38,038 --> 00:14:40,272
-I need to run a few tests.
+253
+00:14:38,795 --> 00:14:41,088
+I need to run
+a few tests.
 
-287
-00:14:47,929 --> 00:14:49,057
+254
+00:14:45,885 --> 00:14:47,261
+(<i> beeping quietly</i> )
+
+255
+00:14:47,261 --> 00:14:48,680
+(<i> gasps softly</i> )
+
+256
+00:14:48,680 --> 00:14:49,930
 What is it?
 
-288
-00:14:49,133 --> 00:14:51,297
+257
+00:14:49,930 --> 00:14:51,850
 Listen.
 
-289
-00:14:52,442 --> 00:14:53,502
-It's nice.
+258
+00:14:51,850 --> 00:14:53,059
+(<i> beeping</i> )
 
-290
-00:14:53,544 --> 00:14:54,535
-You're right.
+259
+00:14:53,059 --> 00:14:54,227
+It‘s nice.
 
-291
-00:14:54,580 --> 00:14:56,072
-I hadn't noticed that before.
+260
+00:14:54,227 --> 00:14:55,478
+You‘re right.
 
-292
-00:14:57,922 --> 00:14:59,756
-That's a little odd.
+261
+00:14:55,478 --> 00:14:57,230
+I hadn‘t noticed
+that before.
 
-293
-00:14:59,794 --> 00:15:03,463
+262
+00:14:58,690 --> 00:15:00,900
+That‘s a little odd.
+
+263
+00:15:00,900 --> 00:15:04,195
 Her norepinephrine levels
 are slightly elevated.
 
-294
-00:15:03,503 --> 00:15:04,972
-What's causing it?
+264
+00:15:04,195 --> 00:15:06,989
+What‘s causing it?
+I‘m not sure.
 
-295
-00:15:05,008 --> 00:15:06,307
-I'm not sure.
-
-296
-00:15:06,344 --> 00:15:10,286
-It's probably due to
+265
+00:15:06,989 --> 00:15:10,910
+It‘s probably due to
 limbic overcompensation.
 
-297
-00:15:10,321 --> 00:15:11,951
+266
+00:15:10,910 --> 00:15:12,620
 The levels should drop
 
-298
-00:15:11,992 --> 00:15:13,963
-when the new
-thalamic connections
+267
+00:15:12,620 --> 00:15:16,290
+when the new thalamic
+connections stabilize.
 
-299
-00:15:13,997 --> 00:15:15,523
-stabilize.
+268
+00:15:16,290 --> 00:15:18,668
+You‘re right... I think.
 
-300
-00:15:15,569 --> 00:15:17,905
-You're right... I think.
+269
+00:15:18,668 --> 00:15:25,091
+I was listening when you
+were telling the nurses
+about the procedure.
 
-301
-00:15:17,941 --> 00:15:19,707
-I was listening
-
-302
-00:15:19,745 --> 00:15:23,848
-when you were telling the
-nurses about the procedure.
-
-303
-00:15:23,890 --> 00:15:27,832
+270
+00:15:25,091 --> 00:15:28,511
 I kept thinking that
 I wanted to thank you
 
-304
-00:15:27,867 --> 00:15:30,966
+271
+00:15:28,511 --> 00:15:31,765
 for what you were
 trying to do for me...
 
-305
-00:15:31,008 --> 00:15:34,107
+272
+00:15:31,765 --> 00:15:35,142
 and now I finally can.
 
-306
-00:15:34,149 --> 00:15:36,120
+273
+00:15:35,142 --> 00:15:37,061
 Thank you.
 
-307
-00:15:42,204 --> 00:15:43,936
+274
+00:15:42,901 --> 00:15:44,652
 Did you move this?
 
-308
-00:15:43,975 --> 00:15:45,741
-Maybe I did, maybe I didn't.
+275
+00:15:44,652 --> 00:15:46,362
+Maybe I did,
+maybe I didn‘t.
 
-309
-00:15:45,780 --> 00:15:48,309
-Would you leave him alone?
+276
+00:15:46,362 --> 00:15:48,907
+Would you leave
+him alone?
 
-310
-00:15:48,353 --> 00:15:52,626
-Patrick, it's where
-it's supposed to be.
+277
+00:15:48,907 --> 00:15:52,619
+Patrick, it‘s where
+it‘s supposed to be.
 
-311
-00:15:53,901 --> 00:15:55,427
+278
+00:15:54,579 --> 00:15:56,372
 Oh...
 
-312
-00:16:01,219 --> 00:16:03,885
+279
+00:16:01,920 --> 00:16:04,505
+(<i> nasal monotone</i> ):
 Hello, everyone.
 
-313
-00:16:03,927 --> 00:16:06,126
+280
+00:16:04,505 --> 00:16:08,259
 Did you hear what she said?
-
-314
-00:16:06,199 --> 00:16:07,634
 Did you hear that?
 
-315
-00:16:07,670 --> 00:16:09,071
-I don't think I've heard
-
-316
-00:16:09,107 --> 00:16:10,941
+281
+00:16:08,259 --> 00:16:11,638
+I don‘t think I‘ve heard
 a more beautiful
 sound in my life.
 
-317
-00:16:10,979 --> 00:16:13,075
+282
+00:16:11,638 --> 00:16:13,848
 It was my idea
 to bring you here!
 
-318
-00:16:13,118 --> 00:16:14,087
+283
+00:16:13,848 --> 00:16:15,850
 We missed you!
-
-319
-00:16:14,120 --> 00:16:15,248
 You look so different!
 
-320
-00:16:15,290 --> 00:16:16,486
-Aren't you going
+284
+00:16:15,850 --> 00:16:18,603
+Aren‘t you going
 to say thank you?
-
-321
-00:16:16,526 --> 00:16:17,552
 Did the surgery hurt?
 
-322
-00:16:17,596 --> 00:16:21,436
-There's so much I want
+285
+00:16:18,603 --> 00:16:22,398
+There‘s so much I want
 to say to all of you.
 
-323
-00:16:21,473 --> 00:16:23,273
-Why are you talking
-like that?
-
-324
-00:16:23,311 --> 00:16:24,678
+286
+00:16:22,398 --> 00:16:24,776
+Why are you
+talking like that?
 Quiet!
 
-325
-00:16:24,714 --> 00:16:25,876
-There's so much I want
+287
+00:16:24,776 --> 00:16:26,611
+(<i> imitates Sarina</i> ):
+There‘s so much I want
 
-326
-00:16:25,917 --> 00:16:27,113
+288
+00:16:26,611 --> 00:16:27,904
 to say to all of you...
-There's so much...
+There‘s so much...
 
-327
-00:16:27,154 --> 00:16:28,123
+289
+00:16:27,904 --> 00:16:28,947
 Jack!
 
-328
-00:16:28,157 --> 00:16:30,128
-No, he's right.
+290
+00:16:28,947 --> 00:16:30,490
+No, he‘s right.
 
-329
-00:16:30,162 --> 00:16:31,826
-I can hear the way I sound.
+291
+00:16:30,490 --> 00:16:32,366
+I can hear the
+way I sound.
 
-330
-00:16:31,866 --> 00:16:33,335
-Don't worry.
-It's only temporary.
+292
+00:16:32,366 --> 00:16:33,952
+Don‘t worry.
+It‘s only temporary.
 
-331
-00:16:33,370 --> 00:16:34,862
+293
+00:16:33,952 --> 00:16:35,578
 It just takes a little practice.
 
-332
-00:16:34,907 --> 00:16:36,707
+294
+00:16:35,578 --> 00:16:37,079
 Practice!
 Ah, practice. Good idea.
 
-333
-00:16:36,745 --> 00:16:38,409
+295
+00:16:37,079 --> 00:16:38,998
 Listen to this, Sarina.
 
-334
-00:16:38,450 --> 00:16:41,447
-Do, re, mi, fa, so,
-la, ti, do.
+296
+00:16:38,998 --> 00:16:41,709
+(<i> sings scale</i> ):
+♪ Do, re, mi, fa, so,
+la, ti, do. ♪
 
-335
-00:16:41,491 --> 00:16:45,228
-Do, re, mi, fa,
-so, la, ti, do.
+297
+00:16:41,709 --> 00:16:45,755
+(<i> sings same note</i> ):
+♪ Do, re, mi, fa,
+so, la, ti, do. ♪
 
-336
-00:16:45,301 --> 00:16:46,531
+298
+00:16:45,755 --> 00:16:47,089
 Are you tone deaf?
 
-337
-00:16:46,571 --> 00:16:48,907
-You're the one who's tone deaf.
+299
+00:16:47,089 --> 00:16:49,383
+You‘re the one
+who‘s tone deaf.
 
-338
-00:16:48,944 --> 00:16:53,011
-Do, re, mi, fa, so,
-la, ti, do.
+300
+00:16:49,383 --> 00:16:53,721
+(<i> sings scale</i> ):
+♪ Do, re, mi, fa, so,
+la, ti, do. ♪
 
-339
-00:16:53,054 --> 00:16:58,125
-Do, re, mi, fa, so, la, ti, do.
+301
+00:16:53,721 --> 00:16:58,768
+(<i> sings mostly in tune</i> ):
+♪ Do, re, mi, fa, so,
+la, ti, do. ♪
 
-340
-00:16:58,167 --> 00:17:00,297
+302
+00:16:58,768 --> 00:17:00,854
 Much better.
 
-341
-00:17:00,340 --> 00:17:02,972
-Do, re, mi, fa, so,
-la, ti...
+303
+00:17:00,854 --> 00:17:03,606
+♪ Do, re, mi, fa, so,
+la, ti... ♪
 
-342
-00:17:03,013 --> 00:17:05,679
-Do, re, mi, fa,
-so, la, ti...
+304
+00:17:03,606 --> 00:17:06,192
+♪ Do, re, mi, fa,
+so, la, ti... ♪
 
-343
-00:17:05,721 --> 00:17:08,125
-Do, re, mi, fa, so, la, ti...
+305
+00:17:06,192 --> 00:17:09,696
+♪ Do, re, mi, fa,
+so, la, ti... ♪
 
-344
-00:17:09,296 --> 00:17:11,324
-Do.
+306
+00:17:09,696 --> 00:17:11,906
+(<i> low octave</i> ):
+♪ Do. ♪
 
-345
-00:17:12,706 --> 00:17:14,574
+307
+00:17:11,906 --> 00:17:13,366
+(<i> laughing</i> )
+
+308
+00:17:13,366 --> 00:17:15,201
 Yes, yes-yes-yes.
 
-346
-00:17:14,611 --> 00:17:15,637
-Let's improvise.
+309
+00:17:15,201 --> 00:17:16,327
+Let‘s improvise.
 
-347
-00:17:15,679 --> 00:17:17,616
+310
+00:17:16,327 --> 00:17:18,412
 Lauren.
 
-348
-00:17:19,156 --> 00:17:21,492
-Do, re, mi, do, re, mi...
+311
+00:17:19,789 --> 00:17:21,916
+♪ Do, re, mi, do, re, mi... ♪
 
-349
-00:17:21,529 --> 00:17:23,967
-Do, re, mi,
-do, re, mi...
+312
+00:17:21,916 --> 00:17:24,585
+♪ Do, re, mi,
+do, re, mi... ♪
 
-350
-00:17:24,002 --> 00:17:26,668
-Fa, mi, re, do
+313
+00:17:24,585 --> 00:17:27,213
+♪ Fa, mi,
+re, do ♪
 
-351
-00:17:26,708 --> 00:17:28,702
-Fa, mi, re,
-do
+314
+00:17:27,213 --> 00:17:29,256
+♪ Fa, mi, re, do ♪
 
-352
-00:17:28,747 --> 00:17:31,379
-Do, re, mi,
-do, re, mi
+315
+00:17:29,256 --> 00:17:31,759
+♪ Do, re, mi,
+do, re, mi ♪
 
-353
-00:17:31,421 --> 00:17:33,689
-- Fa...
-- Do, re, mi, do, re, mi
+316
+00:17:31,759 --> 00:17:33,970
+♪Fa... ♪
+♪ Do, re, mi,
+do, re, mi ♪
 
-354
-00:17:33,726 --> 00:17:36,494
-- Fa
-- Fa, mi, re, do
+317
+00:17:33,970 --> 00:17:37,015
+♪Fa ♪
+♪Fa, mi,
+re, do ♪
 
-355
-00:17:36,534 --> 00:17:40,135
-Fa, mi, re, do.
+318
+00:17:37,015 --> 00:17:40,768
+♪ Fa, mi, re, do. ♪
 
-356
-00:17:44,054 --> 00:17:45,684
+319
+00:17:40,768 --> 00:17:42,603
+(<i> Bashir applauds</i> )
+
+320
+00:17:44,731 --> 00:17:46,440
 Molto allegro.
 
-357
-00:17:47,562 --> 00:17:50,034
-Do, re, mi, do, re, mi
+321
+00:17:47,901 --> 00:17:50,444
+(<i> in unison</i> ):
+♪ Do, re, mi, do, re, mi ♪
 
-358
-00:17:50,069 --> 00:17:51,972
-Fa, mi, re, do
+322
+00:17:50,444 --> 00:17:52,363
+♪ Fa, mi, re, do ♪
 
-359
-00:17:52,007 --> 00:17:53,135
-Do, re, mi, do, re, mi
+323
+00:17:52,363 --> 00:17:53,781
+♪ Do, re, mi,
+do, re, mi ♪
 
-360
-00:17:53,177 --> 00:17:54,977
-Fa, mi, re, do
+324
+00:17:53,781 --> 00:17:55,366
+♪ Fa, mi, re, do ♪
 
-361
-00:17:55,015 --> 00:17:56,541
-Do, re, mi, do, re, mi
+325
+00:17:55,366 --> 00:17:57,076
+♪ Do, re, mi, do, re, mi ♪
 
-362
-00:17:56,586 --> 00:17:58,352
-- Fa, so, la, so
-- Re, mi, fa, mi
+326
+00:17:57,076 --> 00:17:58,912
+♪ Fa, so, la, so ♪
+♪ Re, mi, fa, mi ♪
 
-363
-00:17:58,391 --> 00:17:59,917
-Do, re, mi, do, re, mi
+327
+00:17:58,912 --> 00:18:00,329
+♪ Do, re, mi, do, re, mi ♪
 
-364
-00:17:59,961 --> 00:18:02,297
-- Do...
-- Fa, mi, re, mi
+328
+00:18:00,329 --> 00:18:02,790
+♪ Fa, mi, re, mi ♪
 
-365
-00:18:02,401 --> 00:18:04,542
-Re, do, re, mi, do
+329
+00:18:02,790 --> 00:18:05,501
+♪ Re, do, re, mi, do ♪
 
-366
-00:18:04,676 --> 00:18:06,111
-Do, re, mi, do, re, mi
+330
+00:18:05,501 --> 00:18:07,169
+♪ Do, re, mi,
+do, re, mi ♪
 
-367
-00:18:06,146 --> 00:18:07,878
-- La, so, fa, so
-- Fa, mi, re, do
+331
+00:18:07,169 --> 00:18:08,880
+♪ La, so, fa, so ♪
+♪ Fa, mi,
+re, do ♪
 
-368
-00:18:07,918 --> 00:18:09,114
-Do, re, mi, do, re, mi
+332
+00:18:08,880 --> 00:18:10,673
+♪ Do, re, mi,
+do, re, mi ♪
 
-369
-00:18:09,154 --> 00:18:11,490
-- La, ti, do
-- Fa, so, la, so
+333
+00:18:10,673 --> 00:18:13,133
+♪ La, ti, do ♪
+♪Fa, so, la, so ♪
 
-370
-00:18:11,527 --> 00:18:16,529
-So, do, ti, do, so, mi,
-fa, so, la
+334
+00:18:13,133 --> 00:18:17,513
+♪ So, do, ti, do, so, mi,
+fa, so, la ♪
 
-371
-00:18:16,574 --> 00:18:18,340
-So
+335
+00:18:17,513 --> 00:18:19,306
+♪ So ♪
 
-372
-00:18:18,379 --> 00:18:19,746
-Do, re, mi, do, re, mi
+336
+00:18:19,306 --> 00:18:20,850
+♪ Do, re, mi, do, re, mi ♪
 
-373
-00:18:19,849 --> 00:18:21,318
-Fa, mi, re, do
+337
+00:18:20,850 --> 00:18:22,268
+♪ Fa, mi, re, do ♪
 
-374
-00:18:21,352 --> 00:18:23,916
-Do, re, mi, do, re, mi
+338
+00:18:22,268 --> 00:18:24,979
+♪ Do, re, mi,
+do, re, mi ♪
 
-375
-00:18:23,960 --> 00:18:27,230
-Fa, so, la, so
+339
+00:18:24,979 --> 00:18:28,190
+♪ Fa, so, la, so ♪
 
-376
-00:18:27,268 --> 00:18:28,737
-So, fa, so
+340
+00:18:28,190 --> 00:18:29,943
+♪ So, fa, so ♪
 
-377
-00:18:28,772 --> 00:18:30,264
-Do, re, mi, do, re, mi
+341
+00:18:29,943 --> 00:18:31,444
+♪ Do, re, mi,
+do, re, mi ♪
 
-378
-00:18:30,309 --> 00:18:32,371
-Fa, mi, re, do
+342
+00:18:31,444 --> 00:18:33,195
+♪ Fa, mi, re, do ♪
 
-379
-00:18:38,163 --> 00:18:41,001
-- Do, re, mi, do, re, mi
-- Fa, so, ti, do
+343
+00:18:33,195 --> 00:18:38,910
+(<i> all singing</i>
+<i>complex harmonies</i> )
 
-380
-00:18:41,037 --> 00:18:43,805
-- Do, re, mi, do, re, mi
-- So, fa, so...
+344
+00:18:38,910 --> 00:18:41,871
+♪ Do, re, mi,
+do, re, mi ♪
+♪ Fa, so, ti, do ♪
 
-381
-00:18:43,911 --> 00:18:45,575
-Do, re, mi, do, re, mi
+345
+00:18:41,871 --> 00:18:44,749
+♪ Do, re, mi,
+do, re, mi ♪
+♪ So, fa, so... ♪
 
-382
-00:18:45,615 --> 00:18:47,107
-Fa, mi, re, do
+346
+00:18:44,749 --> 00:18:46,542
+♪ Do, re, mi,
+do, re, mi ♪
 
-383
-00:18:47,153 --> 00:18:50,525
-- Do, re, mi, do, re, mi
-- Do, mi, so, la
+347
+00:18:46,542 --> 00:18:48,544
+♪ Fa, mi, re, do ♪
 
-384
-00:18:50,562 --> 00:18:52,658
-- Fa, mi, re, do
-- So...
+348
+00:18:48,544 --> 00:18:51,505
+♪ Do, re, mi,
+do, re, mi ♪
+♪ Do, mi, so, la ♪
 
-385
-00:18:52,700 --> 00:18:55,674
-Do.
+349
+00:18:51,505 --> 00:18:53,800
+♪ Fa, mi,
+re, do ♪
+♪ So... ♪
 
-386
-00:19:05,434 --> 00:19:06,767
+350
+00:18:53,800 --> 00:18:56,928
+ALL:
+♪ Do. ♪
+
+351
+00:19:06,228 --> 00:19:09,690
 It was amazing.
-
-387
-00:19:06,804 --> 00:19:08,798
 Within a few minutes,
-Sarina's voice just took off.
+Sarina‘s voice just took off.
 
-388
-00:19:08,909 --> 00:19:10,139
+352
+00:19:09,690 --> 00:19:12,819
 That kind of improvement
-
-389
-00:19:10,179 --> 00:19:11,809
 usually takes weeks
 of speech therapy.
 
-390
-00:19:11,850 --> 00:19:12,978
+353
+00:19:12,819 --> 00:19:15,029
 That is amazing.
-
-391
-00:19:13,020 --> 00:19:14,182
 Julian...
 
-392
-00:19:14,223 --> 00:19:15,192
+354
+00:19:15,029 --> 00:19:17,197
 So, she was exhausted.
-
-393
-00:19:15,225 --> 00:19:16,524
 I took her back
 to the Infirmary.
 
-394
-00:19:16,563 --> 00:19:18,659
+355
+00:19:17,197 --> 00:19:19,533
 I needed to monitor her neural
-activity anyway while she slept
+activity anyway while she slept,
 
-395
-00:19:18,701 --> 00:19:20,831
-but I still can't get
+356
+00:19:19,533 --> 00:19:21,744
+but I still can‘t get
 over that transformation.
 
-396
-00:19:20,907 --> 00:19:22,673
+357
+00:19:21,744 --> 00:19:23,579
 Yesterday, she was
 silent as a stone.
 
-397
-00:19:22,711 --> 00:19:24,682
-Today, she's singing
+358
+00:19:23,579 --> 00:19:25,748
+Today, she‘s singing
 and laughing...
 
-398
-00:19:24,717 --> 00:19:26,620
+359
+00:19:25,748 --> 00:19:27,500
 You should have seen her, Miles.
 
-399
-00:19:26,656 --> 00:19:27,818
-How could I?
+360
+00:19:27,500 --> 00:19:30,503
+How could I? I‘ve been
+sitting here all night.
 
-400
-00:19:27,859 --> 00:19:29,523
-I've been sitting here
-all night.
-
-401
-00:19:30,532 --> 00:19:31,694
+361
+00:19:30,503 --> 00:19:32,546
 Is it Thursday?
 
-402
-00:19:31,735 --> 00:19:34,367
+362
+00:19:32,546 --> 00:19:35,883
 Well, why else would I
 be sitting here all night?
 
-403
-00:19:34,409 --> 00:19:35,537
+363
+00:19:35,883 --> 00:19:38,385
 Oh...
+I‘m sorry. I forgot.
 
-404
-00:19:35,579 --> 00:19:37,413
-I'm sorry. I forgot.
+364
+00:19:38,385 --> 00:19:39,929
+It‘s all right.
 
-405
-00:19:37,450 --> 00:19:38,783
-It's all right.
-
-406
-00:19:40,358 --> 00:19:43,491
+365
+00:19:41,764 --> 00:19:46,144
 Morn caught me up
 on how his 17 brothers
-
-407
-00:19:43,533 --> 00:19:45,367
 and sisters are doing.
 
-408
-00:19:45,404 --> 00:19:46,600
-I'd better head off.
-
-409
-00:19:46,641 --> 00:19:48,167
+366
+00:19:46,144 --> 00:19:49,063
+I‘d better head off.
 I got an early start
 in the morning.
 
-410
-00:19:48,211 --> 00:19:50,479
-Oh, I'm sorry
+367
+00:19:49,063 --> 00:19:51,398
+Oh, I‘m sorry
 about the mix-up, Miles.
 
-411
-00:19:50,517 --> 00:19:52,043
+368
+00:19:51,398 --> 00:19:52,900
 Mmm.
 
-412
-00:19:52,088 --> 00:19:53,580
-It's all right.
+369
+00:19:52,900 --> 00:19:54,652
+It‘s all right.
 
-413
-00:19:55,464 --> 00:19:57,698
-I'm happy for her.
+370
+00:19:56,320 --> 00:19:58,656
+I‘m happy for her.
 
-414
-00:19:57,736 --> 00:20:00,072
+371
+00:19:58,656 --> 00:20:01,241
 Happy for both of you.
 
-415
-00:20:06,860 --> 00:20:08,956
+372
+00:20:04,120 --> 00:20:06,330
+(<i> humming softly</i> )
+
+373
+00:20:07,707 --> 00:20:09,876
 Sarina.
 
-416
-00:20:09,065 --> 00:20:10,695
+374
+00:20:09,876 --> 00:20:12,962
 What are you doing here?
-
-417
-00:20:10,736 --> 00:20:12,069
 How did you get in?
 
-418
-00:20:12,106 --> 00:20:13,632
-It wasn't hard.
+375
+00:20:12,962 --> 00:20:14,547
+It wasn‘t hard.
 
-419
-00:20:13,678 --> 00:20:16,276
+376
+00:20:14,547 --> 00:20:17,175
 Your access code
 only has six digits.
 
-420
-00:20:16,318 --> 00:20:18,414
+377
+00:20:17,175 --> 00:20:19,301
 Is something wrong?
 
-421
-00:20:18,456 --> 00:20:20,188
-I-I couldn't sleep.
+378
+00:20:19,301 --> 00:20:21,179
+I-I couldn‘t sleep.
 
-422
-00:20:22,667 --> 00:20:25,766
+379
+00:20:23,430 --> 00:20:26,684
 My nurse could have given
 you something for that.
 
-423
-00:20:25,809 --> 00:20:28,874
-I... don't want to sleep.
+380
+00:20:26,684 --> 00:20:29,729
+I... don‘t want
+to sleep.
 
-424
-00:20:28,917 --> 00:20:30,250
+381
+00:20:29,729 --> 00:20:31,105
 Why not?
 
-425
-00:20:30,287 --> 00:20:33,659
-What if I wake up the way I was?
+382
+00:20:31,105 --> 00:20:34,567
+What if I wake up
+the way I was?
 
-426
-00:20:33,696 --> 00:20:34,995
-What if I can't...
+383
+00:20:34,567 --> 00:20:36,110
+What if I can‘t...
 
-427
-00:20:36,804 --> 00:20:39,572
-It's not going to happen.
+384
+00:20:37,653 --> 00:20:40,406
+It‘s not going to happen.
 
-428
-00:20:39,611 --> 00:20:42,710
-Your life's going
+385
+00:20:40,406 --> 00:20:43,159
+Your life‘s going
 to be different now.
 
-429
-00:20:42,753 --> 00:20:46,286
+386
+00:20:44,326 --> 00:20:47,038
 Your future...
 
-430
-00:20:46,329 --> 00:20:49,029
+387
+00:20:47,038 --> 00:20:50,083
 is full of possibilities.
 
-431
-00:20:50,640 --> 00:20:54,275
-You know, you're going
+388
+00:20:51,417 --> 00:20:55,004
+You know, you‘re going
 to be doing things
 
-432
-00:20:54,316 --> 00:20:57,814
-that you haven't
+389
+00:20:55,004 --> 00:20:58,674
+that you haven‘t
 even dreamed of.
 
-433
-00:20:57,858 --> 00:21:00,696
-There's really no
+390
+00:20:58,674 --> 00:21:01,719
+There‘s really no
 reason to be afraid.
 
-434
-00:21:05,746 --> 00:21:07,614
+391
+00:21:06,640 --> 00:21:08,184
 Sarina?
 
-435
-00:21:38,999 --> 00:21:40,697
-Good morning.
+392
+00:21:12,605 --> 00:21:15,149
+(<i> sighs</i> )
 
-436
-00:21:40,737 --> 00:21:42,674
+393
+00:21:39,757 --> 00:21:42,843
+Good morning.
 Morning.
 
-437
-00:21:42,708 --> 00:21:44,976
-You didn't account
+394
+00:21:42,843 --> 00:21:45,387
+You didn‘t account
 for the L-Two codon.
 
-438
-00:21:45,015 --> 00:21:46,143
+395
+00:21:45,387 --> 00:21:46,847
 What?
 
-439
-00:21:46,218 --> 00:21:48,314
-That's why the virus mutated.
+396
+00:21:46,847 --> 00:21:48,766
+That‘s why
+the virus mutated.
 
-440
-00:21:48,356 --> 00:21:51,158
+397
+00:21:48,766 --> 00:21:51,602
 You need to target
 the RNA transcriptor.
 
-441
-00:21:51,231 --> 00:21:52,723
+398
+00:21:51,602 --> 00:21:53,353
 Hungry?
 
-442
-00:21:54,673 --> 00:21:56,541
+399
+00:21:55,022 --> 00:21:57,357
 The L-Two codon...
 
-443
-00:21:57,581 --> 00:21:59,141
+400
+00:21:58,442 --> 00:21:59,777
 Of course.
 
-444
-00:21:59,184 --> 00:22:00,653
-Why didn't I think of that?
+401
+00:21:59,777 --> 00:22:01,612
+Why didn‘t I
+think of that?
 
-445
-00:22:02,059 --> 00:22:03,757
+402
+00:22:02,863 --> 00:22:04,698
 Sarina...
 
-446
-00:22:03,797 --> 00:22:06,133
-you're amazing.
+403
+00:22:04,698 --> 00:22:06,867
+you‘re amazing.
 
-447
-00:22:06,237 --> 00:22:08,333
-I've been working
+404
+00:22:06,867 --> 00:22:08,995
+I‘ve been working
 on this for months.
 
-448
-00:22:08,375 --> 00:22:10,403
+405
+00:22:08,995 --> 00:22:11,330
 You would have seen it
 sooner or later.
 
-449
-00:22:12,018 --> 00:22:14,148
-I don't know about that.
+406
+00:22:12,706 --> 00:22:15,001
+I don‘t know about that.
 
-450
-00:22:14,257 --> 00:22:15,921
+407
+00:22:15,001 --> 00:22:16,627
 Thank you.
 
-451
-00:22:15,961 --> 00:22:18,456
-I'm glad I could do
+408
+00:22:16,627 --> 00:22:19,297
+I‘m glad I could do
 something for you.
 
-452
-00:22:18,501 --> 00:22:21,133
-You've done so much for me.
+409
+00:22:19,297 --> 00:22:21,674
+You‘ve done so much for me.
 
-453
-00:22:21,174 --> 00:22:23,408
+410
+00:22:21,674 --> 00:22:25,178
+NURSE:
 Infirmary to Dr. Bashir.
-
-454
-00:22:23,447 --> 00:22:24,814
 Go ahead.
 
-455
-00:22:24,851 --> 00:22:27,551
+411
+00:22:25,178 --> 00:22:28,346
 Dr. Girani is asking for
 your assistance in surgery, sir.
 
-456
-00:22:27,592 --> 00:22:29,061
-I'm on my way.
+412
+00:22:28,346 --> 00:22:30,557
+I‘m on my way.
 
-457
-00:22:30,633 --> 00:22:32,068
-Well, looks like I'm
+413
+00:22:30,557 --> 00:22:33,936
+Well, looks like I‘m
 going to be tied up
-
-458
-00:22:32,103 --> 00:22:33,299
 for the next few hours.
 
-459
-00:22:33,340 --> 00:22:35,208
+414
+00:22:33,936 --> 00:22:35,938
 What would you like
 to do in the meantime?
 
-460
-00:22:35,278 --> 00:22:36,770
-Would you like
-a tour of the station?
+415
+00:22:35,938 --> 00:22:37,564
+Would you like a
+tour of the station?
 
-461
-00:22:36,815 --> 00:22:38,445
+416
+00:22:37,564 --> 00:22:39,233
 I can ask Ezri
 to show you around.
 
-462
-00:22:38,486 --> 00:22:39,978
-That's all right.
+417
+00:22:39,233 --> 00:22:40,776
+That‘s all right.
 
-463
-00:22:40,024 --> 00:22:42,052
-I think I'll go see Jack
+418
+00:22:40,776 --> 00:22:42,653
+I think I‘ll go see Jack
 and the others.
 
-464
-00:22:42,096 --> 00:22:43,065
+419
+00:22:42,653 --> 00:22:45,198
 All right.
+I‘ll have someone take
+you to the cargo bay,
 
-465
-00:22:43,098 --> 00:22:44,590
-I'll have someone take
-you to the cargo bay
-
-466
-00:22:44,636 --> 00:22:45,832
-and when I'm finished
+420
+00:22:45,198 --> 00:22:48,075
+and when I‘m finished
 with surgery
+I‘ll join you there.
 
-467
-00:22:45,872 --> 00:22:47,364
-I'll join you there.
+421
+00:22:48,075 --> 00:22:50,953
+Oh, wait. You need
+your breakfast.
 
-468
-00:22:47,409 --> 00:22:50,075
-Oh, wait.
-You need your breakfast.
-
-469
-00:22:57,903 --> 00:22:59,270
+422
+00:22:58,711 --> 00:23:00,129
 Thank you.
 
-470
-00:23:07,662 --> 00:23:09,063
-The fact is, is
-that the universe
+423
+00:23:08,179 --> 00:23:10,931
+The fact is, is that
+the universe is going
+to stop expanding,
 
-471
-00:23:09,099 --> 00:23:10,227
-is going to stop expanding
-
-472
-00:23:10,269 --> 00:23:12,035
+424
+00:23:10,931 --> 00:23:12,933
 and it is going
 to collapse in on itself.
 
-473
-00:23:12,074 --> 00:23:14,136
-We've got to do something
-before it's too late.
+425
+00:23:12,933 --> 00:23:14,935
+We‘ve got to do something
+before it‘s too late.
 
-474
-00:23:14,179 --> 00:23:15,705
-How much time do we have left?
+426
+00:23:14,935 --> 00:23:16,520
+How much time
+do we have left?
 
-475
-00:23:15,750 --> 00:23:17,185
-60 trillion years...
+427
+00:23:16,520 --> 00:23:18,189
+60 trillion years--
 70 at the most.
 
-476
-00:23:17,220 --> 00:23:19,384
+428
+00:23:18,189 --> 00:23:20,149
 Oh, no!
 
-477
-00:23:19,427 --> 00:23:21,455
-Isn't Nog handsome?
+429
+00:23:20,149 --> 00:23:22,318
+Isn‘t Nog handsome?
 
-478
-00:23:25,308 --> 00:23:26,868
-What are you doing?!
+430
+00:23:25,863 --> 00:23:27,614
+What are
+you doing?!
 
-479
-00:23:26,912 --> 00:23:29,441
-We are running out of time!
+431
+00:23:27,614 --> 00:23:30,034
+We are running
+out of time!
 
-480
-00:23:29,486 --> 00:23:31,720
+432
+00:23:30,034 --> 00:23:32,286
 Sarina! Thank God.
 
-481
-00:23:33,061 --> 00:23:34,553
+433
+00:23:32,286 --> 00:23:34,997
 Nobody else around here
 ever listens to me.
 
-482
-00:23:34,599 --> 00:23:36,570
+434
+00:23:34,997 --> 00:23:37,250
 What is it, Jack?
-What's wrong?
+What‘s wrong?
 
-483
-00:23:36,604 --> 00:23:37,698
-There's too much matter.
-
-484
-00:23:37,740 --> 00:23:40,508
+435
+00:23:37,250 --> 00:23:41,087
+There‘s too much matter.
 The universe is too heavy
 for its own good.
 
-485
-00:23:40,547 --> 00:23:43,019
-You need to lighten the load.
+436
+00:23:41,087 --> 00:23:43,421
+You need
+to lighten the load.
 
-486
-00:23:43,054 --> 00:23:44,148
+437
+00:23:43,421 --> 00:23:46,633
 Yes, yes, yes, exactly.
-
-487
-00:23:44,190 --> 00:23:46,093
 We have to find some way
 to decrease the mass.
 
-488
-00:23:46,128 --> 00:23:47,723
-Of the entire universe?
+438
+00:23:46,633 --> 00:23:48,302
+Of the entire
+universe?
 
-489
-00:23:47,766 --> 00:23:49,326
-That's the whole point.
+439
+00:23:48,302 --> 00:23:51,264
+That‘s the whole<i> point.</i>
+<i>Is that possible?</i>
 
-490
-00:23:49,403 --> 00:23:50,702
-Is that possible?
-
-491
-00:23:50,741 --> 00:23:52,541
-That's what we're trying
+440
+00:23:51,264 --> 00:23:53,140
+That‘s what we‘re trying
 to figure out, Sarina.
 
-492
-00:23:52,578 --> 00:23:55,609
-What if we found
-a way to manipulate subspace?
+441
+00:23:53,140 --> 00:23:56,018
+What if we found a way
+to manipulate subspace?
 
-493
-00:23:55,653 --> 00:23:57,179
+442
+00:23:56,018 --> 00:23:59,397
 Mmm... hmm-hmm-hmm-hmm.
-
-494
-00:23:57,224 --> 00:23:58,716
 Change the cosmological
 constant.
 
-495
-00:23:58,761 --> 00:23:59,730
+443
+00:23:59,397 --> 00:24:01,941
 Mmm. Yes, yes, yes.
+That‘d do the trick.
 
-496
-00:23:59,764 --> 00:24:01,233
-That'd do the trick.
-
-497
-00:24:01,268 --> 00:24:04,903
-You can't change
+444
+00:24:01,941 --> 00:24:05,485
+You can‘t change
 the cosmological constant.
 
-498
-00:24:06,314 --> 00:24:07,647
-You know something, Sarina
+445
+00:24:06,904 --> 00:24:08,906
+You know something,
+Sarina, we are trying
 
-499
-00:24:07,685 --> 00:24:10,283
-we are trying to save
-existence as we know it
+446
+00:24:08,906 --> 00:24:10,908
+to save existence
+as we know it,
 
-500
-00:24:10,325 --> 00:24:12,729
-and all you can do is criticize.
+447
+00:24:10,908 --> 00:24:13,244
+and all you can
+do is criticize.
 
-501
-00:24:12,765 --> 00:24:14,098
-I'm sorry.
+448
+00:24:13,244 --> 00:24:14,620
+I‘m sorry.
 
-502
-00:24:14,135 --> 00:24:15,104
+449
+00:24:14,620 --> 00:24:16,622
 Thank you!
-
-503
-00:24:15,138 --> 00:24:16,164
 Now, where were we?
 
-504
-00:24:16,206 --> 00:24:17,938
-Manipulating subspace.
+450
+00:24:16,622 --> 00:24:18,040
+PATRICK:
+Manipulating
+subspace.
 
-505
-00:24:17,978 --> 00:24:18,969
+451
+00:24:18,040 --> 00:24:20,334
+JACK:
 Right, right.
 
-506
-00:24:35,223 --> 00:24:37,217
+452
+00:24:20,334 --> 00:24:21,919
+(<i> sighs</i> )
+
+453
+00:24:35,975 --> 00:24:38,227
 Doctor!
 
-507
-00:24:39,467 --> 00:24:40,561
-Glad you're here.
-
-508
-00:24:40,603 --> 00:24:41,731
+454
+00:24:40,104 --> 00:24:42,731
+Glad you‘re here.
 Is she all right?
 
-509
-00:24:42,776 --> 00:24:44,474
-Sarina, are you all right?
+455
+00:24:43,774 --> 00:24:45,443
+Sarina, are you
+all right?
 
-510
-00:24:45,616 --> 00:24:47,587
-She's fine.
+456
+00:24:46,319 --> 00:24:48,237
+She‘s fine.
 
-511
-00:24:47,621 --> 00:24:49,855
+457
+00:24:48,237 --> 00:24:50,906
 Listen, you have to talk
 to Starfleet for us.
 
-512
-00:24:49,894 --> 00:24:52,560
+458
+00:24:50,906 --> 00:24:53,117
 We need subspace
-field generators... lots of them.
+field generators-- lots of them.
 
-513
-00:24:52,601 --> 00:24:54,070
-Can we talk about it later?
+459
+00:24:53,117 --> 00:24:54,827
+Can we talk
+about it later?
 
-514
-00:24:54,106 --> 00:24:57,046
-Later? There isn't going
+460
+00:24:54,827 --> 00:24:57,955
+Later? There isn‘t going
 to be a "later" later.
 
-515
-00:25:01,625 --> 00:25:03,117
+461
+00:25:02,251 --> 00:25:03,794
+JACK:
 Now, once we get the
 field generators...
 
-516
-00:25:03,162 --> 00:25:04,631
+462
+00:25:03,794 --> 00:25:05,545
 Sarina?
 
-517
-00:25:05,735 --> 00:25:07,797
+463
+00:25:06,755 --> 00:25:08,506
 Hi.
 
-518
-00:25:08,810 --> 00:25:09,779
+464
+00:25:08,506 --> 00:25:10,468
 Is something wrong?
 
-519
-00:25:09,813 --> 00:25:13,346
-Oh, no. They're used
+465
+00:25:10,468 --> 00:25:14,013
+Oh, no. They‘re used
 to my being quiet.
 
-520
-00:25:13,389 --> 00:25:14,790
-It's easier this way.
+466
+00:25:14,013 --> 00:25:15,722
+It‘s easier this way.
 
-521
-00:25:17,533 --> 00:25:19,128
+467
+00:25:18,100 --> 00:25:19,810
+LAUREN:
 Could be very messy.
 
-522
-00:25:19,171 --> 00:25:22,168
+468
+00:25:19,810 --> 00:25:22,855
 Um... some of my friends
 want to get together
 
-523
-00:25:22,279 --> 00:25:24,182
-a little later on at Quark's
+469
+00:25:22,855 --> 00:25:24,815
+a little later on
+at Quark‘s,
 
-524
-00:25:24,217 --> 00:25:26,587
+470
+00:25:24,815 --> 00:25:27,276
 and I was wondering
-if you'd like to come along.
+if you‘d like to come along.
 
-525
-00:25:26,623 --> 00:25:28,389
+471
+00:25:27,276 --> 00:25:29,069
 Me?
 
-526
-00:25:28,428 --> 00:25:29,761
+472
+00:25:29,069 --> 00:25:30,654
 Do you want to?
 
-527
-00:25:30,800 --> 00:25:32,360
+473
+00:25:31,738 --> 00:25:33,157
+JACK:
 When should we be ready?
 
-528
-00:25:32,405 --> 00:25:33,635
+474
+00:25:33,157 --> 00:25:34,492
 Uh...
 
-529
-00:25:33,675 --> 00:25:35,771
-Oh, we're not invited, Jack.
+475
+00:25:34,492 --> 00:25:36,494
+Oh, we‘re not
+invited, Jack.
 
-530
-00:25:35,813 --> 00:25:37,146
+476
+00:25:36,494 --> 00:25:37,828
 Just her.
 
-531
-00:25:37,184 --> 00:25:38,312
+477
+00:25:37,828 --> 00:25:38,954
 Figures.
 
-532
-00:25:38,353 --> 00:25:39,788
-That doesn't seem fair.
+478
+00:25:38,954 --> 00:25:40,331
+That doesn‘t
+seem fair.
 
-533
-00:25:39,824 --> 00:25:41,350
-It's all right.
+479
+00:25:40,331 --> 00:25:42,958
+LAUREN:
+It‘s all right.
 
-534
-00:25:42,364 --> 00:25:43,355
+480
+00:25:42,958 --> 00:25:44,043
 Come on, Sarina.
 
-535
-00:25:43,399 --> 00:25:45,336
-Let's get you dressed.
+481
+00:25:44,043 --> 00:25:46,086
+Let‘s get you dressed.
 
-536
-00:26:04,488 --> 00:26:06,790
-Sorry to keep you waiting.
+482
+00:26:04,938 --> 00:26:07,400
+LAUREN:
+Sorry to keep
+you waiting.
 
-537
-00:26:06,827 --> 00:26:08,228
+483
+00:26:07,400 --> 00:26:08,942
 Come on out.
 
-538
-00:26:08,331 --> 00:26:09,493
+484
+00:26:08,942 --> 00:26:10,277
 Come on.
 
-539
-00:26:12,542 --> 00:26:15,482
-Am I good, or am I good?
+485
+00:26:13,072 --> 00:26:16,283
+Am I good,
+or am I good?
 
-540
-00:26:21,398 --> 00:26:23,460
+486
+00:26:22,248 --> 00:26:24,208
 Look at all the people.
 
-541
-00:26:30,254 --> 00:26:31,723
+487
+00:26:30,797 --> 00:26:32,508
 Here they are.
 
-542
-00:26:33,229 --> 00:26:34,824
-I don't remember her being so...
+488
+00:26:33,842 --> 00:26:35,428
+I don‘t remember
+her being so...
 
-543
-00:26:34,867 --> 00:26:35,836
+489
+00:26:35,428 --> 00:26:37,595
 Beautiful.
-
-544
-00:26:35,869 --> 00:26:36,929
 Yeah.
 
-545
-00:26:36,972 --> 00:26:38,943
-Everyone, this is Sarina.
+490
+00:26:37,595 --> 00:26:39,597
+Everyone,
+this is Sarina.
 
-546
-00:26:38,977 --> 00:26:40,310
-Sarina, this is everyone.
+491
+00:26:39,597 --> 00:26:40,807
+Sarina,
+this is everyone.
 
-547
-00:26:40,347 --> 00:26:41,316
+492
+00:26:40,807 --> 00:26:42,600
 Odo.
-
-548
-00:26:41,350 --> 00:26:42,319
 Nerys.
 
-549
-00:26:42,353 --> 00:26:43,583
-I'm Miles.
+493
+00:26:42,600 --> 00:26:44,228
+I‘m Miles.
 
-550
-00:26:43,623 --> 00:26:45,092
+494
+00:26:44,228 --> 00:26:45,645
 I remember you.
 
-551
-00:26:45,127 --> 00:26:46,961
-You're Julian's best friend.
+495
+00:26:45,645 --> 00:26:47,398
+You‘re Julian‘s
+best friend.
 
-552
-00:26:46,998 --> 00:26:50,029
-Well... we get on all right.
+496
+00:26:47,398 --> 00:26:50,568
+Well... we get on
+all right.
 
-553
-00:26:50,073 --> 00:26:52,169
+497
+00:26:50,568 --> 00:26:52,694
 For the most part.
 
-554
-00:26:52,211 --> 00:26:54,341
+498
+00:26:52,694 --> 00:26:54,821
 Why are you pretending
-that it's not true?
+that it‘s not true?
 
-555
-00:26:54,418 --> 00:26:55,614
-Because they're men
-
-556
-00:26:55,654 --> 00:26:57,784
+499
+00:26:54,821 --> 00:26:58,534
+Because they‘re men,
 and men have trouble
 expressing their feelings.
 
-557
-00:26:59,731 --> 00:27:01,098
-You don't.
+500
+00:27:00,202 --> 00:27:01,619
+You don‘t.
 
-558
-00:27:01,135 --> 00:27:02,297
+501
+00:27:01,619 --> 00:27:03,038
 Oh, are you kidding?
 
-559
-00:27:02,372 --> 00:27:04,309
+502
+00:27:03,038 --> 00:27:04,873
 Odo never talks
 about his feelings.
 
-560
-00:27:04,377 --> 00:27:06,473
+503
+00:27:04,873 --> 00:27:06,750
 He took your hand.
 
-561
-00:27:06,515 --> 00:27:07,950
-He's showing you his feelings.
+504
+00:27:06,750 --> 00:27:08,668
+He‘s showing you
+his feelings.
 
-562
-00:27:08,988 --> 00:27:10,014
+505
+00:27:09,795 --> 00:27:11,422
 Thank you.
 
-563
-00:27:10,058 --> 00:27:11,459
-Julian
-
-564
-00:27:11,495 --> 00:27:14,093
-why don't you show everybody
+506
+00:27:11,422 --> 00:27:13,757
+Julian, why don‘t
+you show everybody
 how much you love me
 
-565
-00:27:14,135 --> 00:27:15,570
-and order the next round.
+507
+00:27:13,757 --> 00:27:16,135
+and order
+the next round.
 
-566
-00:27:18,112 --> 00:27:19,376
+508
+00:27:16,135 --> 00:27:17,344
+(<i> chuckles</i> )
+
+509
+00:27:17,344 --> 00:27:18,512
+(<i> chuckles</i> )
+
+510
+00:27:18,512 --> 00:27:19,846
 Hey, Broik.
 
-567
-00:27:20,384 --> 00:27:21,751
-I liked your friends...
+511
+00:27:20,764 --> 00:27:22,391
+I liked your friends--
 
-568
-00:27:21,789 --> 00:27:23,589
+512
+00:27:22,391 --> 00:27:24,184
 all of them.
 
-569
-00:27:23,627 --> 00:27:26,726
+513
+00:27:24,184 --> 00:27:27,271
 If I had to find
 someone to replace Atlas
 
-570
-00:27:26,768 --> 00:27:29,674
+514
+00:27:27,271 --> 00:27:30,316
 and hold up the world,
-it'd be Miles.
+it‘d be Miles.
 
-571
-00:27:29,709 --> 00:27:32,375
-He'd do it with a smile, too.
+515
+00:27:30,316 --> 00:27:32,985
+He‘d do it with
+a smile, too.
 
-572
-00:27:32,483 --> 00:27:35,582
-And Kira... she never
-doubts herself
+516
+00:27:32,985 --> 00:27:36,155
+And Kira-- she never
+doubts herself,
 
-573
-00:27:35,625 --> 00:27:37,824
+517
+00:27:36,155 --> 00:27:37,823
 which is what Odo
-finds so fascinating
+finds so fascinating,
 
-574
-00:27:37,863 --> 00:27:39,629
+518
+00:27:37,823 --> 00:27:40,242
 because he doubts
-everything but her.
+everything<i> but</i> her.
 
-575
-00:27:39,668 --> 00:27:41,571
+519
+00:27:40,242 --> 00:27:42,369
 What about Ezri?
 
-576
-00:27:41,606 --> 00:27:44,705
-The day she realizes she's more
-than just the sum of her parts
+520
+00:27:42,369 --> 00:27:45,038
+The day she realizes
+she‘s more than just
+the sum of her parts,
 
-577
-00:27:44,748 --> 00:27:46,412
-she's really going
+521
+00:27:45,038 --> 00:27:46,790
+she‘s really going
 to be something.
 
-578
-00:27:46,519 --> 00:27:48,149
-I can't believe you saw all that
+522
+00:27:46,790 --> 00:27:48,459
+I can‘t believe
+you saw all that
 
-579
-00:27:48,190 --> 00:27:50,058
-after just a few hours
-with them.
+523
+00:27:48,459 --> 00:27:50,336
+after just a few
+hours with them.
 
-580
-00:27:50,095 --> 00:27:52,693
-I'm going to have to start
+524
+00:27:50,336 --> 00:27:52,670
+I‘m going to have to start
 putting on my poker face.
 
-581
-00:27:52,735 --> 00:27:54,672
-Too late. You've already
+525
+00:27:52,670 --> 00:27:55,048
+Too late. You‘ve already
 given yourself away.
 
-582
-00:27:54,707 --> 00:27:55,937
+526
+00:27:55,048 --> 00:27:58,636
 Is that right?
+And how would you
+describe me?
 
-583
-00:27:55,977 --> 00:27:58,245
-And how would you describe me?
+527
+00:27:58,636 --> 00:28:00,179
+Compassionate,
 
-584
-00:27:58,283 --> 00:27:59,616
-Compassionate
+528
+00:28:00,179 --> 00:28:01,805
+brilliant,
 
-585
-00:27:59,653 --> 00:28:01,122
-brilliant
-
-586
-00:28:01,158 --> 00:28:03,392
+529
+00:28:01,805 --> 00:28:03,890
 lonely.
 
-587
-00:28:03,463 --> 00:28:05,799
-Well.
-Two out of three isn't bad.
+530
+00:28:03,890 --> 00:28:06,268
+Well. Two out of
+three isn‘t bad.
 
-588
-00:28:05,836 --> 00:28:07,305
+531
+00:28:06,268 --> 00:28:07,645
 Which two?
 
-589
-00:28:07,340 --> 00:28:09,174
-Now, that would be telling.
+532
+00:28:07,645 --> 00:28:09,687
+Now, that would
+be telling.
 
-590
-00:28:10,381 --> 00:28:13,321
-I'm glad you
+533
+00:28:10,856 --> 00:28:13,609
+I‘m glad you
 liked my friends.
 
-591
-00:28:13,356 --> 00:28:15,418
+534
+00:28:13,609 --> 00:28:15,819
 I know they liked you.
 
-592
-00:28:15,528 --> 00:28:17,226
+535
+00:28:15,819 --> 00:28:17,904
 I felt so comfortable
 around them.
 
-593
-00:28:17,265 --> 00:28:18,256
-I didn't have to worry
-
-594
-00:28:18,302 --> 00:28:20,239
+536
+00:28:17,904 --> 00:28:20,574
+I didn‘t have to worry
 that someone was going
 to throw a tantrum
 
-595
-00:28:20,273 --> 00:28:22,073
+537
+00:28:20,574 --> 00:28:22,451
 or break into tears
 all of a sudden.
 
-596
-00:28:22,112 --> 00:28:24,641
-They only usually do
-that at staff meetings.
+538
+00:28:22,451 --> 00:28:25,078
+They only usually
+do <i> that</i> at
+staff meetings.
 
-597
-00:28:25,988 --> 00:28:27,457
-Jack's always talking
+539
+00:28:26,455 --> 00:28:28,207
+Jack‘s always talking
 
-598
-00:28:27,526 --> 00:28:30,466
-about how we're better
+540
+00:28:28,207 --> 00:28:30,876
+about how we‘re better
 than normal people.
 
-599
-00:28:30,567 --> 00:28:34,304
-He says that's why
-they keep us locked up
+541
+00:28:30,876 --> 00:28:33,587
+He says that‘s why
+they keep us locked up,
 
-600
-00:28:34,344 --> 00:28:35,870
-but he's wrong.
+542
+00:28:35,005 --> 00:28:36,465
+but he‘s wrong.
 
-601
-00:28:35,914 --> 00:28:37,714
-He couldn't get by
+543
+00:28:36,465 --> 00:28:38,258
+He couldn‘t get by
 in the real world.
 
-602
-00:28:37,752 --> 00:28:39,951
-He'd get himself
+544
+00:28:38,258 --> 00:28:40,553
+He‘d get himself
 into too much trouble.
 
-603
-00:28:39,992 --> 00:28:42,088
-So would Lauren and Patrick.
+545
+00:28:40,553 --> 00:28:42,346
+So would Lauren
+and Patrick.
 
-604
-00:28:42,130 --> 00:28:44,898
-That's why they belong
+546
+00:28:42,346 --> 00:28:45,391
+That‘s why they belong
 in the Institute.
 
-605
-00:28:44,937 --> 00:28:47,501
+547
+00:28:45,391 --> 00:28:47,560
 In fact, Doctor Loews wants
 me to get them back there
 
-606
-00:28:47,578 --> 00:28:48,604
+548
+00:28:47,560 --> 00:28:49,186
 as soon as possible.
 
-607
-00:28:49,984 --> 00:28:52,046
-I'm not going with them, am I?
+549
+00:28:50,521 --> 00:28:52,356
+I‘m not going
+with them, am I?
 
-608
-00:28:52,090 --> 00:28:54,324
-You don't belong there...
+550
+00:28:52,356 --> 00:28:54,774
+You don‘t belong there...
 
-609
-00:28:54,362 --> 00:28:55,831
+551
+00:28:54,774 --> 00:28:56,485
 not anymore.
 
-610
-00:28:57,069 --> 00:28:58,038
+552
+00:28:57,570 --> 00:28:59,863
 Do they know?
-
-611
-00:28:58,071 --> 00:28:59,301
 Not yet.
 
-612
-00:29:01,547 --> 00:29:04,988
-They've been like a family to me
-for as long as I can remember.
+553
+00:29:01,907 --> 00:29:03,909
+They‘ve been like
+a family to me
 
-613
-00:29:05,023 --> 00:29:07,291
+554
+00:29:03,909 --> 00:29:05,619
+for as long as I
+can remember.
+
+555
+00:29:05,619 --> 00:29:07,913
 I know how much
 you care about them.
 
-614
-00:29:08,599 --> 00:29:10,502
+556
+00:29:09,122 --> 00:29:10,832
 As difficult as they
-can be sometimes
+can be sometimes,
 
-615
-00:29:10,570 --> 00:29:12,507
-I'm going to miss them.
+557
+00:29:10,832 --> 00:29:13,001
+I‘m going to miss them.
 
-616
-00:29:12,543 --> 00:29:15,745
+558
+00:29:13,001 --> 00:29:16,422
 We had our own little world,
 just the four of us.
 
-617
-00:29:17,990 --> 00:29:20,896
-So what's a genetically
+559
+00:29:18,549 --> 00:29:21,093
+So what‘s a genetically
 enhanced girl supposed to do
 
-618
-00:29:20,931 --> 00:29:22,902
+560
+00:29:21,093 --> 00:29:23,429
 when she wakes up
 from a long sleep?
 
-619
-00:29:24,373 --> 00:29:27,313
+561
+00:29:25,013 --> 00:29:27,974
 Point to one of those little
-specks of light out there
+specks of light out there,
 
-620
-00:29:27,347 --> 00:29:31,882
-pack a bag and go
-make a life for herself?
+562
+00:29:27,974 --> 00:29:32,187
+pack a bag and go make
+a life for herself?
 
-621
-00:29:31,927 --> 00:29:34,695
+563
+00:29:32,187 --> 00:29:35,023
 Why does she have to go
 anywhere at all?
 
-622
-00:29:53,499 --> 00:29:55,299
-Sarina isn't going back
+564
+00:29:54,084 --> 00:29:56,253
+Sarina isn‘t going back
 to the Institute with you.
 
-623
-00:29:55,337 --> 00:29:56,306
-She's not?
+565
+00:29:56,253 --> 00:29:58,213
+She‘s not?
+No, she‘s staying here.
 
-624
-00:29:56,340 --> 00:29:57,570
-No, she's staying here.
-
-625
-00:29:57,610 --> 00:30:00,607
+566
+00:29:58,213 --> 00:30:01,467
 Oh, really? Huh.
 How nice for you.
 
-626
-00:30:00,651 --> 00:30:02,885
-I've arranged for her
+567
+00:30:01,467 --> 00:30:03,677
+I‘ve arranged for her
 to have her own quarters.
 
-627
-00:30:02,924 --> 00:30:04,393
-We're never going
+568
+00:30:03,677 --> 00:30:05,304
+We‘re never going
 to see her again.
 
-628
-00:30:04,427 --> 00:30:05,794
-You have no right to do this...
-no right.
+569
+00:30:05,304 --> 00:30:07,013
+You have no right to
+do this-- no right.
 
-629
-00:30:05,831 --> 00:30:07,802
-Look, I know you're going
-to miss her, but it's
+570
+00:30:07,013 --> 00:30:08,474
+Look, I know you‘re
+going to miss her,
 
-630
-00:30:07,836 --> 00:30:08,805
-the best thing for Sarina.
+571
+00:30:08,474 --> 00:30:10,601
+but it‘s the best thing
+for Sarina.
 
-631
-00:30:08,839 --> 00:30:09,808
+572
+00:30:10,601 --> 00:30:12,227
 We did not help you
-
-632
-00:30:09,841 --> 00:30:11,401
 so you could take
 her away from us.
 
-633
-00:30:11,446 --> 00:30:13,212
+573
+00:30:12,227 --> 00:30:14,104
 Stop thinking about
-yourself for a second
+yourself for a second,
 
-634
-00:30:13,251 --> 00:30:15,017
+574
+00:30:14,104 --> 00:30:16,022
 Jack, and think about her.
 
-635
-00:30:15,122 --> 00:30:17,025
-Face it. She doesn't
+575
+00:30:16,022 --> 00:30:17,983
+Face it. She doesn‘t
 belong with you anymore.
 
-636
-00:30:17,094 --> 00:30:18,027
-Why?
+576
+00:30:17,983 --> 00:30:20,110
+Why? Because
+we‘re not normal?
 
-637
-00:30:18,096 --> 00:30:19,156
-Because we're not normal?
-
-638
-00:30:19,199 --> 00:30:20,190
-Because we're crazy?
-
-639
-00:30:20,235 --> 00:30:21,329
+577
+00:30:20,110 --> 00:30:22,154
+Because we‘re crazy?
 Oh, Jack.
 
-640
-00:30:21,372 --> 00:30:23,172
-Couldn't you make us
-normal like you did
+578
+00:30:22,154 --> 00:30:24,531
+Couldn‘t you make us normal
+like you did for Sarina
 
-641
-00:30:23,209 --> 00:30:24,975
-for Sarina and then we
-could all stay together?
+579
+00:30:24,531 --> 00:30:26,074
+and then we could
+all stay together?
 
-642
-00:30:25,014 --> 00:30:25,983
+580
+00:30:26,074 --> 00:30:27,534
 Go on, Julian.
-
-643
-00:30:26,017 --> 00:30:26,986
 Tell them.
 
-644
-00:30:27,020 --> 00:30:28,546
-There's nothing
-you can do for us.
+581
+00:30:27,534 --> 00:30:29,161
+There‘s nothing
+you can do for<i> us.</i>
 
-645
-00:30:28,590 --> 00:30:29,581
-We're too far gone.
+582
+00:30:29,161 --> 00:30:30,663
+We‘re too far gone.
 
-646
-00:30:31,063 --> 00:30:32,863
-Ah, who wants to be normal
-anyway?
+583
+00:30:31,830 --> 00:30:33,624
+Ah, who wants to
+be normal anyway?
 
-647
-00:30:32,901 --> 00:30:34,929
-We're better than they are.
+584
+00:30:33,624 --> 00:30:35,751
+We‘re better
+than they are.
 
-648
-00:30:34,973 --> 00:30:36,967
-You don't see any of them
-trying to save the universe
+585
+00:30:35,751 --> 00:30:37,753
+You don‘t see
+any of them trying
+to save the universe
 
-649
-00:30:37,013 --> 00:30:38,277
-from collapsing, do you?
-Hmm? Hmm?
+586
+00:30:37,753 --> 00:30:39,838
+from collapsing,
+do you? Hmm? Hmm?
 
-650
-00:30:39,552 --> 00:30:41,021
-Let's get back to work.
+587
+00:30:39,838 --> 00:30:42,090
+Let‘s get
+back to work.
 
-651
-00:30:51,049 --> 00:30:53,647
-Well, they took it rather hard.
+588
+00:30:51,558 --> 00:30:54,520
+Well, they took it
+rather hard.
 
-652
-00:30:53,689 --> 00:30:55,353
-I should go talk to them.
+589
+00:30:54,520 --> 00:30:56,062
+I should go
+talk to them.
 
-653
-00:30:55,393 --> 00:30:56,589
+590
+00:30:56,062 --> 00:30:57,815
 In the morning.
 
-654
-00:30:56,630 --> 00:30:59,832
+591
+00:30:57,815 --> 00:31:00,900
 Give them a little time
 to get used to the idea.
 
-655
-00:31:01,643 --> 00:31:04,445
-Come on. I've got just
+592
+00:31:02,402 --> 00:31:05,572
+Come on. I‘ve got just
 the thing to cheer you up.
 
-656
-00:31:09,496 --> 00:31:11,433
+593
+00:31:10,202 --> 00:31:12,287
+ALL:
 Dabo!
 
-657
-00:31:11,469 --> 00:31:13,565
-She's unbelievable.
+594
+00:31:12,287 --> 00:31:14,247
+O‘BRIEN:
+She‘s unbelievable.
 
-658
-00:31:13,607 --> 00:31:15,305
-Tell them how you do it.
+595
+00:31:14,247 --> 00:31:17,835
+Tell them how
+you do it. Go on!
 
-659
-00:31:15,345 --> 00:31:16,837
-Go on!
-
-660
-00:31:16,882 --> 00:31:19,320
+596
+00:31:17,835 --> 00:31:21,380
 It has to do with a series
 of binomial equations
-
-661
-00:31:19,355 --> 00:31:20,551
 and probability factors.
 
-662
-00:31:20,592 --> 00:31:23,121
+597
+00:31:21,380 --> 00:31:23,590
 Explain how you track
 the dependent variables.
 
-663
-00:31:23,165 --> 00:31:25,136
-It's really not
+598
+00:31:23,590 --> 00:31:25,843
+It‘s really not
 that interesting.
 
-664
-00:31:25,170 --> 00:31:26,730
+599
+00:31:25,843 --> 00:31:27,761
+ALL:
 Dabo!
 
-665
-00:31:29,114 --> 00:31:32,749
-Well, hasn't this been fun?
+600
+00:31:29,929 --> 00:31:33,392
+Well, hasn‘t this been fun?
 
-666
-00:31:32,791 --> 00:31:35,127
+601
+00:31:33,392 --> 00:31:35,811
 Why not take a seat
 and top off the evening
 
-667
-00:31:35,163 --> 00:31:37,761
+602
+00:31:35,811 --> 00:31:38,355
 with a lovely bottle
 of spring wine?
 
-668
-00:31:37,804 --> 00:31:39,000
+603
+00:31:38,355 --> 00:31:40,733
 Should we?
-
-669
-00:31:39,040 --> 00:31:40,441
 He just wants you
 to stop playing
 
-670
-00:31:40,477 --> 00:31:41,946
-so he doesn't lose
+604
+00:31:40,733 --> 00:31:42,651
+so he doesn‘t lose
 any more money.
 
-671
-00:31:41,980 --> 00:31:45,945
-Did I mention
-that the wine was on the house?
+605
+00:31:42,651 --> 00:31:47,113
+Did I mention that
+the wine was on the house?
 
-672
-00:31:45,991 --> 00:31:47,859
-Julian, let's sit down.
+606
+00:31:47,113 --> 00:31:48,574
+Julian, let‘s
+sit down.
 
-673
-00:31:47,896 --> 00:31:49,126
-But she's winning.
+607
+00:31:48,574 --> 00:31:49,991
+But she‘s winning.
 
-674
-00:31:49,166 --> 00:31:50,830
-I've... played enough.
+608
+00:31:49,991 --> 00:31:51,785
+I‘ve... played enough.
 
-675
-00:31:54,613 --> 00:31:56,345
+609
+00:31:54,913 --> 00:31:57,040
+QUARK:
 This way, this way.
 
-676
-00:31:56,384 --> 00:31:58,184
+610
+00:31:57,040 --> 00:31:59,042
 Uh, excuse me, excuse me.
 
-677
-00:31:58,223 --> 00:31:59,590
+611
+00:31:59,042 --> 00:32:00,627
 Uh, uh, Ezri, over here.
 
-678
-00:32:02,066 --> 00:32:04,003
+612
+00:32:02,796 --> 00:32:04,757
+CROWD:
 Dabo!
 
-679
-00:32:12,794 --> 00:32:13,785
+613
+00:32:04,757 --> 00:32:06,842
+(<i> laughter</i> )
+
+614
+00:32:06,842 --> 00:32:09,511
+(<i> dishes clattering</i> )
+
+615
+00:32:13,306 --> 00:32:14,683
 Sarina?
 
-680
-00:32:14,833 --> 00:32:15,995
+616
+00:32:15,559 --> 00:32:17,728
 This way.
 
-681
-00:32:17,138 --> 00:32:19,610
-Julian, would you mind
-if we left?
+617
+00:32:17,728 --> 00:32:20,647
+Julian, would you
+mind if we left?
 
-682
-00:32:28,635 --> 00:32:30,435
-Oh, I'm sorry.
+618
+00:32:29,239 --> 00:32:31,032
+Oh, I‘m sorry.
 
-683
-00:32:30,473 --> 00:32:31,942
+619
+00:32:31,032 --> 00:32:32,701
 I thought you were
 having a good time.
 
-684
-00:32:31,977 --> 00:32:34,883
+620
+00:32:32,701 --> 00:32:35,662
 Oh, I was, but there
 was so much commotion.
 
-685
-00:32:34,918 --> 00:32:37,254
-Maybe I'm just tired.
+621
+00:32:35,662 --> 00:32:38,081
+Maybe I‘m just tired.
 
-686
-00:32:37,291 --> 00:32:38,886
-I'll tell you what.
-
-687
-00:32:38,928 --> 00:32:40,558
+622
+00:32:38,081 --> 00:32:40,250
+I‘ll tell you what.
 Tomorrow night,
-why don't we have
 
-688
-00:32:40,599 --> 00:32:42,433
+623
+00:32:40,250 --> 00:32:43,044
+why don‘t we have
 a nice, quiet dinner
 in my quarters?
 
-689
-00:32:43,440 --> 00:32:44,704
-I have a week's leave coming up.
+624
+00:32:43,044 --> 00:32:45,297
+I have a week‘s
+leave coming up.
 
-690
-00:32:44,744 --> 00:32:46,442
+625
+00:32:45,297 --> 00:32:47,299
 I thought we might go
-to Risa together
+to Risa together,
 
-691
-00:32:46,481 --> 00:32:49,113
+626
+00:32:47,299 --> 00:32:49,426
 get away from all
-the distractions around here
+the distractions around here,
 
-692
-00:32:49,155 --> 00:32:50,249
+627
+00:32:49,426 --> 00:32:50,886
 spend a little time alone.
 
-693
-00:32:50,291 --> 00:32:52,023
+628
+00:32:50,886 --> 00:32:52,763
 All right.
 
-694
-00:32:52,062 --> 00:32:53,657
-I'll let you get some rest then.
+629
+00:32:52,763 --> 00:32:54,514
+I‘ll let you
+get some rest, then.
 
-695
-00:33:11,212 --> 00:33:12,613
-She's wonderful, Miles.
+630
+00:33:11,782 --> 00:33:13,158
+She‘s wonderful, Miles.
 
-696
-00:33:12,649 --> 00:33:14,985
-I've never met
+631
+00:33:13,158 --> 00:33:15,494
+I‘ve never met
 anybody like her.
 
-697
-00:33:15,022 --> 00:33:17,620
-She's brilliant, sweet...
+632
+00:33:15,494 --> 00:33:18,121
+She‘s brilliant,
+sweet...
 
-698
-00:33:17,662 --> 00:33:18,631
-everything's new to her.
-
-699
-00:33:18,665 --> 00:33:20,967
+633
+00:33:18,121 --> 00:33:21,291
+everything‘s new to her.
 Being with her
 is so refreshing.
 
-700
-00:33:21,004 --> 00:33:23,910
+634
+00:33:21,291 --> 00:33:24,336
 She takes such delight
-in what she's experiencing.
+in what she‘s experiencing.
 
-701
-00:33:23,945 --> 00:33:27,010
-It makes me appreciate things
-I usually take for granted.
+635
+00:33:24,336 --> 00:33:27,547
+It makes me appreciate
+things I usually take
+for granted.
 
-702
-00:33:27,053 --> 00:33:28,420
+636
+00:33:27,547 --> 00:33:28,966
 Like hot coffee?
 
-703
-00:33:28,457 --> 00:33:30,621
+637
+00:33:28,966 --> 00:33:31,217
 Like coffee... music...
 
-704
-00:33:30,663 --> 00:33:32,064
+638
+00:33:31,217 --> 00:33:32,594
 the way the stars shine.
 
-705
-00:33:32,100 --> 00:33:34,094
+639
+00:33:32,594 --> 00:33:34,680
 What is wrong with this thing?
 
-706
-00:33:34,138 --> 00:33:35,607
+640
+00:33:34,680 --> 00:33:36,097
 Are you listening to me?
 
-707
-00:33:35,642 --> 00:33:36,702
+641
+00:33:36,097 --> 00:33:37,182
 Yes.
 
-708
-00:33:36,745 --> 00:33:38,009
+642
+00:33:37,182 --> 00:33:38,475
 Yeah.
 
-709
-00:33:38,049 --> 00:33:39,644
+643
+00:33:38,475 --> 00:33:41,060
 Coffee, music, stars.
 
-710
-00:33:40,655 --> 00:33:42,319
-Well, don't you have
+644
+00:33:41,060 --> 00:33:42,729
+Well, don‘t you have
 anything to say?
 
-711
-00:33:43,429 --> 00:33:45,366
+645
+00:33:42,729 --> 00:33:46,650
 As a matter of fact,
 I do, Julian.
 
-712
-00:33:45,468 --> 00:33:48,909
-I haven't seen you like this
-for a long time
+646
+00:33:46,650 --> 00:33:49,319
+I haven‘t seen you like this
+for a long time,
 
-713
-00:33:48,943 --> 00:33:51,005
-and I'm really happy for you
+647
+00:33:49,319 --> 00:33:51,613
+and I‘m really happy for you,
 
-714
-00:33:51,048 --> 00:33:52,017
-but don't you think
-
-715
-00:33:52,051 --> 00:33:53,646
-it's all happening
+648
+00:33:51,613 --> 00:33:53,991
+but don‘t you think
+it‘s all happening
 just a little too fast?
 
-716
-00:33:53,689 --> 00:33:55,387
-Well, we're genetically
-engineered.
-
-717
-00:33:55,426 --> 00:33:56,520
+649
+00:33:53,991 --> 00:33:57,285
+Well, we‘re
+genetically engineered.
 We do everything fast.
 
-718
-00:33:58,101 --> 00:34:00,630
-Julian, she's your patient.
+650
+00:33:58,495 --> 00:34:00,998
+Julian, she‘s your patient.
 
-719
-00:34:00,674 --> 00:34:01,643
+651
+00:34:00,998 --> 00:34:04,209
 Not anymore.
-
-720
-00:34:01,676 --> 00:34:03,510
-I've asked Doctor Girani
+I‘ve asked Doctor Girani
 to take over her care.
 
-721
-00:34:06,289 --> 00:34:08,283
-Miles, I don't think
+652
+00:34:06,545 --> 00:34:10,131
+Miles, I don‘t think
 you understand
-
-722
-00:34:08,327 --> 00:34:09,660
 what this means to me.
 
-723
-00:34:09,697 --> 00:34:12,067
+653
+00:34:10,131 --> 00:34:12,425
 All these years
-I've had to hide the fact
+I‘ve had to hide the fact
 
-724
-00:34:12,103 --> 00:34:13,767
+654
+00:34:12,425 --> 00:34:14,553
 that my DNA
 had been re-sequenced.
 
-725
-00:34:13,808 --> 00:34:15,972
-I listened to people talk
-about the genetically engineered
+655
+00:34:14,553 --> 00:34:16,555
+I listened to people talk about
+the genetically engineered,
 
-726
-00:34:16,013 --> 00:34:17,779
+656
+00:34:16,555 --> 00:34:18,223
 saying they were all misfits.
 
-727
-00:34:17,818 --> 00:34:19,789
+657
+00:34:18,223 --> 00:34:20,183
 I used to fantasize
 about meeting someone
 
-728
-00:34:19,823 --> 00:34:22,591
+658
+00:34:20,183 --> 00:34:23,228
 who was like me,
-who could live a normal life
+who could live a normal life,
 
-729
-00:34:22,631 --> 00:34:24,191
-but it never happened...
+659
+00:34:23,228 --> 00:34:24,688
+but it never happened--
 
-730
-00:34:24,236 --> 00:34:26,070
+660
+00:34:24,688 --> 00:34:26,523
 until Sarina.
 
-731
-00:34:26,106 --> 00:34:27,974
-Don't you see?
+661
+00:34:26,523 --> 00:34:28,400
+Don‘t you see?
 
-732
-00:34:28,012 --> 00:34:30,814
-She's the woman I've been
+662
+00:34:28,400 --> 00:34:31,486
+She‘s the woman I‘ve been
 waiting for all my life.
 
-733
-00:34:33,525 --> 00:34:35,051
+663
+00:34:34,072 --> 00:34:35,741
 Well, good luck.
 
-734
-00:34:42,059 --> 00:34:43,689
+664
+00:34:42,831 --> 00:34:44,416
 Computer...
 
-735
-00:34:43,730 --> 00:34:45,360
+665
+00:34:44,416 --> 00:34:46,251
 music.
 
-736
-00:34:45,401 --> 00:34:47,839
+666
+00:34:46,251 --> 00:34:48,503
 Something... romantic.
 
-737
-00:34:59,538 --> 00:35:02,637
+667
+00:34:48,503 --> 00:34:50,672
+(<i> classical music playing</i> )
+
+668
+00:35:00,306 --> 00:35:03,309
 Computer, locate Sarina Douglas.
 
-738
-00:35:02,679 --> 00:35:04,513
+669
+00:35:03,309 --> 00:35:05,270
 Sarina Douglas
 is in her quarters
 
-739
-00:35:04,551 --> 00:35:10,055
+670
+00:35:05,270 --> 00:35:11,026
 on the Habitat Ring, corridor
 H-6, section 27-Epsilon.
 
-740
-00:35:20,760 --> 00:35:22,731
+671
+00:35:21,494 --> 00:35:23,496
 Sarina!
 
-741
-00:35:22,765 --> 00:35:24,098
-It's me.
+672
+00:35:23,496 --> 00:35:25,040
+It‘s me.
 
-742
-00:35:26,909 --> 00:35:28,880
+673
+00:35:27,626 --> 00:35:29,544
 Computer, override door locks.
 
-743
-00:35:28,914 --> 00:35:31,752
+674
+00:35:29,544 --> 00:35:32,380
 Authorization:
 Bashir-delta-five-seven-alpha.
 
-744
-00:35:43,151 --> 00:35:45,989
-I've been waiting
+675
+00:35:32,380 --> 00:35:34,340
+(<i> beeping</i> )
+
+676
+00:35:44,183 --> 00:35:46,853
+I‘ve been waiting
 in my quarters for you.
 
-745
-00:35:47,763 --> 00:35:48,857
+677
+00:35:48,438 --> 00:35:49,731
 Sarina?
 
-746
-00:35:56,786 --> 00:35:57,777
+678
+00:35:57,405 --> 00:35:59,032
 Is something wrong?
 
-747
-00:36:03,136 --> 00:36:04,469
+679
+00:36:03,954 --> 00:36:05,497
 Sarina.
 
-748
-00:36:15,268 --> 00:36:17,763
+680
+00:36:16,800 --> 00:36:20,137
 Apparently, the thalamic
 pathways I generated
+are still functioning,
 
-749
-00:36:17,808 --> 00:36:19,038
-are still functioning
-
-750
-00:36:19,078 --> 00:36:21,880
-but Dr. Girani's not detected
+681
+00:36:20,137 --> 00:36:23,056
+but Dr. Girani‘s not detected
 any neural activity in them.
 
-751
-00:36:21,918 --> 00:36:24,048
+682
+00:36:23,056 --> 00:36:26,018
 Do you have any idea
-what's wrong?
-
-752
-00:36:24,091 --> 00:36:25,424
+what‘s wrong?
 Not a clue.
 
-753
-00:36:25,461 --> 00:36:26,725
-It's as if she were
+683
+00:36:26,018 --> 00:36:27,644
+It‘s as if she were
 just slipping away
 
-754
-00:36:26,764 --> 00:36:27,733
-and there's nothing I can do
+684
+00:36:27,644 --> 00:36:29,146
+and there‘s
+nothing I can do
 
-755
-00:36:27,767 --> 00:36:29,465
+685
+00:36:29,146 --> 00:36:30,897
 but wait and hope
 she pulls out of it.
 
-756
-00:36:29,505 --> 00:36:30,633
+686
+00:36:30,897 --> 00:36:32,482
+GIRANI:
 You can go in now.
 
-757
-00:36:34,518 --> 00:36:36,455
+687
+00:36:35,986 --> 00:36:37,445
 Sarina?
 
-758
-00:36:37,793 --> 00:36:39,661
-Don't be afraid.
+688
+00:36:38,905 --> 00:36:41,282
+Don‘t be afraid.
 
-759
-00:36:39,698 --> 00:36:42,934
-Everything's going
+689
+00:36:41,282 --> 00:36:44,202
+Everything‘s going
 to be all right.
 
-760
-00:36:44,878 --> 00:36:48,284
-I'm not going
+690
+00:36:46,245 --> 00:36:49,791
+I‘m not going
 to give up on you... ever.
 
-761
-00:37:10,244 --> 00:37:12,215
-I don't know
-what's wrong with her.
+691
+00:37:11,312 --> 00:37:13,314
+BASHIR: I don‘t know
+what‘s wrong with her.
 
-762
-00:37:12,249 --> 00:37:13,218
+692
+00:37:13,314 --> 00:37:15,400
 I need your help.
-
-763
-00:37:13,251 --> 00:37:14,481
 Why should we help you?
 
-764
-00:37:14,522 --> 00:37:16,048
+693
+00:37:15,400 --> 00:37:17,110
 You just want to steal
 her away from us.
 
-765
-00:37:16,092 --> 00:37:17,254
+694
+00:37:17,110 --> 00:37:19,571
 Look at her!
-
-766
-00:37:17,295 --> 00:37:18,628
 Do you really want her
 
-767
-00:37:18,665 --> 00:37:21,137
+695
+00:37:19,571 --> 00:37:22,281
 to spend the rest
 of her life like this?
 
-768
-00:37:21,172 --> 00:37:23,166
-I mean, I've been
+696
+00:37:22,281 --> 00:37:24,034
+I mean, I‘ve been
 trying to find a way
 
-769
-00:37:23,210 --> 00:37:24,645
-to reach her, but I can't.
+697
+00:37:24,034 --> 00:37:25,660
+to reach her, but I can‘t.
 
-770
-00:37:24,681 --> 00:37:26,276
-Maybe there isn't one.
+698
+00:37:25,660 --> 00:37:27,746
+Maybe there isn‘t one.
 
-771
-00:37:26,318 --> 00:37:30,283
-All I'm asking is that you try.
+699
+00:37:27,746 --> 00:37:31,457
+All I‘m asking
+is that you try.
 
-772
-00:37:30,329 --> 00:37:33,360
-The three of you know her
-better than anyone else.
+700
+00:37:31,457 --> 00:37:32,918
+The three of
+you know her
 
-773
-00:37:33,404 --> 00:37:37,437
-Please... I don't
+701
+00:37:32,918 --> 00:37:34,627
+better than
+anyone else.
+
+702
+00:37:34,627 --> 00:37:38,757
+Please... I don‘t
 want to lose her.
 
-774
-00:37:40,722 --> 00:37:41,713
+703
+00:37:41,843 --> 00:37:44,763
 All right, Julian.
-
-775
-00:37:41,759 --> 00:37:43,753
 Leave her here with us
 for a while.
 
-776
-00:37:43,797 --> 00:37:45,357
-We'll see what we can do.
+704
+00:37:44,763 --> 00:37:46,806
+We‘ll see what we can do.
 
-777
-00:37:45,402 --> 00:37:47,636
+705
+00:37:46,806 --> 00:37:48,767
 Thank you.
 
-778
-00:38:18,454 --> 00:38:19,821
+706
+00:38:19,798 --> 00:38:22,217
 Are you sure?
+I‘m sure.
 
-779
-00:38:19,858 --> 00:38:21,122
-I'm sure.
-
-780
-00:38:21,161 --> 00:38:22,893
+707
+00:38:22,217 --> 00:38:23,843
 We have to tell him.
 
-781
-00:38:22,932 --> 00:38:25,062
+708
+00:38:23,843 --> 00:38:26,554
 Why? This way, we can
 all stay together.
 
-782
-00:38:27,477 --> 00:38:28,810
-Let's go.
+709
+00:38:28,514 --> 00:38:30,142
+Let‘s go.
 
-783
-00:38:41,313 --> 00:38:42,282
+710
+00:38:42,320 --> 00:38:44,322
 This way.
-
-784
-00:38:42,316 --> 00:38:43,285
 That way.
 
-785
-00:38:43,318 --> 00:38:44,651
-I think we passed it.
+711
+00:38:44,322 --> 00:38:45,615
+I think
+we passed it.
 
-786
-00:38:44,689 --> 00:38:45,919
+712
+00:38:45,615 --> 00:38:47,033
 Can I help you?
 
-787
-00:38:47,196 --> 00:38:49,634
-That's a stupid question.
+713
+00:38:48,409 --> 00:38:50,829
+That‘s a stupid question.
 
-788
-00:39:01,365 --> 00:39:02,629
+714
+00:38:59,254 --> 00:39:01,089
+(<i> door chimes</i> )
+
+715
+00:39:02,423 --> 00:39:03,883
 Come in.
 
-789
-00:39:04,306 --> 00:39:05,434
+716
+00:39:05,218 --> 00:39:06,803
 We have to talk to you.
 
-790
-00:39:05,476 --> 00:39:07,379
+717
+00:39:06,803 --> 00:39:08,554
 About Sarina?
 
-791
-00:39:07,414 --> 00:39:09,282
+718
+00:39:08,554 --> 00:39:11,016
 Tell him.
 
-792
-00:39:09,319 --> 00:39:10,845
+719
+00:39:11,016 --> 00:39:14,352
 She can still talk.
+It‘s just that
+she‘s afraid to.
 
-793
-00:39:10,890 --> 00:39:13,362
-It's just that she's afraid to.
-
-794
-00:39:13,396 --> 00:39:14,456
-I don't understand.
-
-795
-00:39:14,499 --> 00:39:15,763
+720
+00:39:14,352 --> 00:39:16,688
+I don‘t understand.
 What is she afraid of?
 
-796
-00:39:15,802 --> 00:39:16,771
-We don't know.
+721
+00:39:16,688 --> 00:39:19,983
+We don‘t know.
+But we think it has
+something to do with you.
 
-797
-00:39:16,805 --> 00:39:18,708
-But we think it has something
-to do with you.
+722
+00:39:21,359 --> 00:39:22,694
+I‘m going to talk to her.
 
-798
-00:39:20,582 --> 00:39:21,608
-I'm going to talk to her.
-
-799
-00:39:21,652 --> 00:39:23,019
+723
+00:39:22,694 --> 00:39:24,362
 Stay here.
 
-800
-00:39:28,101 --> 00:39:29,593
+724
+00:39:29,075 --> 00:39:30,869
+BASHIR:
 Sarina.
 
-801
-00:39:31,611 --> 00:39:33,548
+725
+00:39:32,620 --> 00:39:34,622
 Talk to me...
 
-802
-00:39:33,616 --> 00:39:35,211
+726
+00:39:34,622 --> 00:39:36,624
 please.
 
-803
-00:39:37,124 --> 00:39:39,596
+727
+00:39:38,501 --> 00:39:40,837
 I know you can.
 
-804
-00:39:44,878 --> 00:39:46,438
-What's wrong?
+728
+00:39:45,800 --> 00:39:47,635
+What‘s wrong?
 
-805
-00:39:50,292 --> 00:39:52,388
+729
+00:39:51,306 --> 00:39:53,474
 Is it me?
 
-806
-00:39:52,431 --> 00:39:55,029
-If it is, don't be afraid.
+730
+00:39:53,474 --> 00:39:56,228
+If it is, don‘t be afraid.
 
-807
-00:39:55,071 --> 00:39:57,543
-I'm going to do
+731
+00:39:56,228 --> 00:39:58,646
+I‘m going to do
 whatever it takes
 
-808
-00:39:57,578 --> 00:39:59,606
+732
+00:39:58,646 --> 00:40:00,648
 to make it right...
 
-809
-00:39:59,650 --> 00:40:01,678
+733
+00:40:00,648 --> 00:40:02,901
 because I love you.
 
-810
-00:40:04,596 --> 00:40:06,795
+734
+00:40:05,444 --> 00:40:07,906
 I want us to be together.
 
-811
-00:40:09,342 --> 00:40:11,006
+735
+00:40:10,325 --> 00:40:12,035
 Tell me.
 
-812
-00:40:13,085 --> 00:40:15,147
+736
+00:40:14,329 --> 00:40:16,289
 Do you love me?
 
-813
-00:40:18,900 --> 00:40:20,871
-I don't know.
+737
+00:40:19,709 --> 00:40:22,003
+I don‘t know.
 
-814
-00:40:22,342 --> 00:40:26,513
-I don't even understand
+738
+00:40:23,296 --> 00:40:27,425
+I don‘t even understand
 what love is.
 
-815
-00:40:26,553 --> 00:40:28,353
-I don't understand anything.
+739
+00:40:27,425 --> 00:40:29,261
+I don‘t understand
+anything.
 
-816
-00:40:28,391 --> 00:40:29,360
+740
+00:40:29,261 --> 00:40:30,970
 Sarina...
-
-817
-00:40:29,394 --> 00:40:30,385
 What am I supposed to do?
 
-818
-00:40:30,429 --> 00:40:32,195
-What am I supposed to feel?
+741
+00:40:30,970 --> 00:40:34,015
+What am I supposed
+to feel? Tell me.
 
-819
-00:40:32,234 --> 00:40:33,203
-Tell me.
-
-820
-00:40:33,237 --> 00:40:34,604
+742
+00:40:34,015 --> 00:40:36,059
 I want to make you happy.
-
-821
-00:40:34,640 --> 00:40:35,836
 I owe you everything.
 
-822
-00:40:35,877 --> 00:40:38,281
-Shh. You don't owe me.
+743
+00:40:36,059 --> 00:40:39,104
+Shh. You don‘t owe me.
 
-823
-00:40:39,320 --> 00:40:41,348
-You don't owe me anything.
+744
+00:40:40,230 --> 00:40:42,399
+You don‘t owe me anything.
 
-824
-00:40:43,765 --> 00:40:46,033
-I'm sorry.
+745
+00:40:44,650 --> 00:40:46,903
+I‘m sorry.
 
-825
-00:40:46,070 --> 00:40:48,634
+746
+00:40:46,903 --> 00:40:49,488
 I wish I could be the woman
 you want me to be.
 
-826
-00:40:48,677 --> 00:40:49,668
+747
+00:40:49,488 --> 00:40:50,782
 Shh.
 
-827
-00:41:09,865 --> 00:41:12,394
+748
+00:41:10,718 --> 00:41:12,011
 Morning.
 
-828
-00:41:12,439 --> 00:41:13,738
+749
+00:41:13,263 --> 00:41:14,973
 Is she gone?
 
-829
-00:41:13,776 --> 00:41:16,271
+750
+00:41:14,973 --> 00:41:16,975
 Her shuttle leaves
 in a few minutes.
 
-830
-00:41:16,316 --> 00:41:17,751
+751
+00:41:16,975 --> 00:41:18,559
 What about the others?
 
-831
-00:41:17,786 --> 00:41:21,284
+752
+00:41:18,559 --> 00:41:21,396
 They left for the Institute
 this morning.
 
-832
-00:41:23,668 --> 00:41:26,197
-I understand you've arranged
+753
+00:41:24,649 --> 00:41:26,985
+I understand you‘ve arranged
 a position for Sarina
 
-833
-00:41:26,242 --> 00:41:28,476
-at the Corgal Research Center.
+754
+00:41:26,985 --> 00:41:29,446
+at the Corgal
+Research Center.
 
-834
-00:41:28,513 --> 00:41:29,982
+755
+00:41:29,446 --> 00:41:31,281
 Yeah, an internship.
 
-835
-00:41:30,018 --> 00:41:31,317
-She's going to work
+756
+00:41:31,281 --> 00:41:33,783
+She‘s going to work
+under one of
+the scientists there,
 
-836
-00:41:31,355 --> 00:41:33,155
-under one
-of the scientists there
-
-837
-00:41:33,193 --> 00:41:34,891
+757
+00:41:33,783 --> 00:41:35,910
 live with his family.
 
-838
-00:41:36,836 --> 00:41:37,896
+758
+00:41:37,536 --> 00:41:38,913
 Are you okay?
 
-839
-00:41:40,278 --> 00:41:42,750
+759
+00:41:41,124 --> 00:41:43,918
 How could I have been so blind?
 
-840
-00:41:42,784 --> 00:41:44,253
-What was I thinking
-
-841
-00:41:44,288 --> 00:41:46,522
+760
+00:41:43,918 --> 00:41:47,422
+What was I thinking,
 trying to move things
 along so fast?
 
-842
-00:41:46,560 --> 00:41:47,824
+761
+00:41:47,422 --> 00:41:49,882
 She needed time.
+I didn‘t give it to her.
 
-843
-00:41:47,897 --> 00:41:49,196
-I didn't give it to her.
-
-844
-00:41:49,234 --> 00:41:50,703
+762
+00:41:49,882 --> 00:41:54,095
 I came this close
-
-845
-00:41:50,738 --> 00:41:53,644
 to driving her back
 inside herself.
 
-846
-00:41:53,679 --> 00:41:55,650
-I'm supposed to be a doctor.
+763
+00:41:54,095 --> 00:41:55,930
+I‘m supposed to be a doctor.
 
-847
-00:41:55,685 --> 00:41:58,283
-I'm supposed to put
-a patient's needs above my own.
+764
+00:41:55,930 --> 00:41:58,975
+I‘m supposed to put
+my patient‘s needs above my own.
 
-848
-00:41:58,325 --> 00:42:00,923
-You didn't want
+765
+00:41:58,975 --> 00:42:01,727
+You didn‘t want
 to be lonely anymore.
 
-849
-00:42:00,965 --> 00:42:02,298
+766
+00:42:01,727 --> 00:42:03,271
 Nobody does.
 
-850
-00:42:07,983 --> 00:42:09,509
+767
+00:42:05,231 --> 00:42:07,275
+(<i> sighs</i> )
+
+768
+00:42:08,734 --> 00:42:10,569
 I have to go to work.
 
-851
-00:42:11,292 --> 00:42:13,594
+769
+00:42:12,030 --> 00:42:14,240
 You want to come over
 for dinner tonight?
 
-852
-00:42:13,630 --> 00:42:15,396
-Keiko's making tempura.
+770
+00:42:14,240 --> 00:42:16,368
+Keiko‘s making tempura.
 
-853
-00:42:17,708 --> 00:42:18,870
+771
+00:42:17,452 --> 00:42:19,996
+(<i> sighs</i> ):
 No, thanks.
 
-854
-00:42:44,411 --> 00:42:46,849
+772
+00:42:45,188 --> 00:42:48,400
 So here you are...
+on your way
 
-855
-00:42:46,883 --> 00:42:47,909
-on your way to one
+773
+00:42:48,400 --> 00:42:51,777
+to one of those tiny little
+specks of light out there.
 
-856
-00:42:48,020 --> 00:42:50,892
-of those tiny little specks
-of light out there.
+774
+00:42:53,279 --> 00:42:55,490
+I guess that‘s what
+a genetically enhanced girl
 
-857
-00:42:52,131 --> 00:42:54,831
-I guess that's what a
-genetically enhanced girl
-
-858
-00:42:54,871 --> 00:42:57,902
+775
+00:42:55,490 --> 00:42:58,493
 should do when she wakes up
-from her sleep...
+from her sleep--
 
-859
-00:42:57,946 --> 00:43:00,282
+776
+00:42:58,493 --> 00:43:01,162
 go make a life for herself.
 
-860
-00:43:05,632 --> 00:43:07,296
-I'm going to miss you.
+777
+00:43:06,501 --> 00:43:07,919
+I‘m going to miss you.
 
-861
-00:43:07,337 --> 00:43:09,969
-I'm going to miss you.
+778
+00:43:07,919 --> 00:43:10,838
+I‘m going to miss you.
 
-862
-00:43:11,013 --> 00:43:12,573
-You won't forget me?
+779
+00:43:11,797 --> 00:43:13,258
+You won‘t forget me?
 
-863
-00:43:12,618 --> 00:43:14,612
+780
+00:43:13,258 --> 00:43:15,552
 Forget you?
 
-864
-00:43:14,656 --> 00:43:16,388
+781
+00:43:15,552 --> 00:43:16,928
 Never.
 
-865
-00:43:17,429 --> 00:43:19,924
+782
+00:43:16,928 --> 00:43:19,764
+COMPUTER:
 Final boarding call.
 
-866
-00:43:20,003 --> 00:43:22,635
-Well, I'd better go.
-
+783
+00:43:20,848 --> 00:43:23,518
+Well, I‘d better go.

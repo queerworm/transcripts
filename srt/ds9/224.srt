@@ -1,3322 +1,3512 @@
-﻿1
-00:00:44,155 --> 00:00:45,681
-Nerys?
+1
+00:00:34,910 --> 00:00:37,746
+(<i> static hissing</i> )
 
 2
-00:00:45,726 --> 00:00:48,129
-Vedek Bareil.
+00:00:43,042 --> 00:00:44,461
+Nerys?
 
 3
-00:00:48,164 --> 00:00:49,793
-Wanna play?
+00:00:44,461 --> 00:00:47,006
+Vedek Bareil.
 
 4
-00:00:53,376 --> 00:00:54,503
-Help me.
+00:00:47,006 --> 00:00:48,632
+Wanna play?
 
 5
-00:00:56,816 --> 00:00:58,376
-Please.
+00:00:52,051 --> 00:00:53,261
+Help me.
 
 6
-00:01:00,424 --> 00:01:02,053
-All right.
+00:00:55,597 --> 00:00:57,098
+Please.
 
 7
-00:01:10,246 --> 00:01:11,909
-Who is it?
+00:00:58,392 --> 00:01:01,020
+(<i> sighs</i> )
+All right.
 
 8
-00:01:16,025 --> 00:01:18,258
-It's Prylar Bek.
+00:01:08,861 --> 00:01:10,779
+Who is it?
 
 9
-00:01:18,330 --> 00:01:19,890
-No, it's not.
+00:01:14,825 --> 00:01:16,911
+It's Prylar Bek.
 
 10
-00:01:22,907 --> 00:01:24,376
-It's you.
+00:01:16,911 --> 00:01:18,746
+No, it's not.
 
 11
-00:03:56,444 --> 00:03:58,038
-Good morning.
+00:01:21,623 --> 00:01:23,083
+It's you.
 
 12
-00:03:59,384 --> 00:04:01,981
-I thought you'd sleep till noon.
+00:03:55,152 --> 00:03:56,862
+KIRA:
+Good morning.
 
 13
-00:04:04,095 --> 00:04:07,591
+00:03:56,862 --> 00:03:58,197
+(<i> chuckling</i> )
+
+14
+00:03:58,197 --> 00:04:00,908
+I thought you'd sleep
+till noon.
+
+15
+00:04:02,993 --> 00:04:06,371
 Shh... you're supposed
 to be relaxing.
 
-14
-00:04:07,636 --> 00:04:10,437
+16
+00:04:06,371 --> 00:04:09,332
 Oh, I'm very relaxed.
 
-15
-00:04:10,542 --> 00:04:12,603
+17
+00:04:09,332 --> 00:04:11,376
 Good.
 
-16
-00:04:12,647 --> 00:04:14,708
+18
+00:04:11,376 --> 00:04:13,587
 How are you feeling
 this morning?
 
-17
-00:04:14,751 --> 00:04:16,618
+19
+00:04:13,587 --> 00:04:15,923
 Oh, miserable.
 
-18
-00:04:16,656 --> 00:04:19,720
+20
+00:04:15,923 --> 00:04:18,550
 I wish you could
 stay here longer.
 
-19
-00:04:19,762 --> 00:04:22,325
+21
+00:04:18,550 --> 00:04:21,220
 All right, I will.
 
-20
-00:04:22,367 --> 00:04:24,337
-I'll stay a few more days.
-
-21
-00:04:24,372 --> 00:04:26,433
-You know you can't do that.
-
 22
-00:04:26,476 --> 00:04:27,775
-Why not?
+00:04:21,220 --> 00:04:23,304
+I'll stay a
+few more days.
 
 23
-00:04:27,813 --> 00:04:29,578
-Because in two days
+00:04:23,304 --> 00:04:25,224
+You know
+you can't do that.
 
 24
-00:04:29,617 --> 00:04:32,487
+00:04:25,224 --> 00:04:26,641
+Why not?
+
+25
+00:04:26,641 --> 00:04:28,393
+Because in two days,
+
+26
+00:04:28,393 --> 00:04:31,271
 you are going
 to be elected kai.
 
-25
-00:04:32,524 --> 00:04:34,460
+27
+00:04:31,271 --> 00:04:33,232
 Hmm?
 
-26
-00:04:34,494 --> 00:04:36,396
-Oh, that!
-
-27
-00:04:37,902 --> 00:04:40,499
-You know, there's no guarantee
-I'm going to win.
-
 28
-00:04:40,574 --> 00:04:42,271
-Of course, you're going to win.
+00:04:33,232 --> 00:04:36,068
+Oh,<i> that!</i>
 
 29
-00:04:42,311 --> 00:04:44,805
-The people need you.
+00:04:36,068 --> 00:04:39,279
+You know, there's
+no guarantee
+I'm going to win.
 
 30
-00:04:48,559 --> 00:04:50,860
-Are you...
+00:04:39,279 --> 00:04:41,240
+Of course,
+you're going to win.
 
 31
-00:04:50,898 --> 00:04:52,834
-going to vote for me?
+00:04:41,240 --> 00:04:43,617
+The people need you.
 
 32
-00:04:54,338 --> 00:04:56,137
-Ho, ho!
+00:04:47,287 --> 00:04:49,664
+Are you...
 
 33
-00:04:56,175 --> 00:04:59,910
-Is that why you spent
-the last three days here, huh?
+00:04:49,664 --> 00:04:51,625
+going to vote for me?
 
 34
-00:04:59,951 --> 00:05:02,947
-To get my vote?
+00:04:53,252 --> 00:04:54,962
+Ho, ho!
 
 35
-00:05:02,990 --> 00:05:04,892
-Well, I know you don't agree
+00:04:54,962 --> 00:04:58,757
+Is<i> that</i> why you spent
+the last three days here, huh?
 
 36
-00:05:04,928 --> 00:05:07,627
-with many of my views,
-so I thought
+00:04:58,757 --> 00:05:01,760
+To get my vote?
 
 37
-00:05:07,668 --> 00:05:11,301
-a personal appearance
-might sway your opinion.
+00:05:01,760 --> 00:05:03,720
+Well, I know
+you don't agree
 
 38
-00:05:11,342 --> 00:05:15,113
+00:05:03,720 --> 00:05:05,264
+with many of my views,
+
+39
+00:05:05,264 --> 00:05:08,267
+so I thought
+a personal appearance
+
+40
+00:05:08,267 --> 00:05:10,144
+might sway your opinion.
+
+41
+00:05:10,144 --> 00:05:13,521
 I was going to vote
 for Vedek Tolena.
 
-39
-00:05:19,427 --> 00:05:24,166
+42
+00:05:18,318 --> 00:05:21,947
 But I might be persuaded
 to change my mind.
 
-40
-00:05:25,206 --> 00:05:27,108
+43
+00:05:24,074 --> 00:05:25,951
 Good.
 
-41
-00:05:27,143 --> 00:05:28,407
+44
+00:05:25,951 --> 00:05:27,244
 Because your vote
 
-42
-00:05:28,447 --> 00:05:31,078
+45
+00:05:27,244 --> 00:05:29,955
 is the only one
 that matters to me.
 
-43
-00:05:33,958 --> 00:05:36,657
+46
+00:05:32,749 --> 00:05:35,376
 I may not always agree
 
-44
-00:05:36,698 --> 00:05:39,067
+47
+00:05:35,376 --> 00:05:37,879
 with your interpretations
-of the prophecies
+of the prophecies,
 
-45
-00:05:39,103 --> 00:05:43,340
+48
+00:05:37,879 --> 00:05:42,259
 but I think you will make
 a wonderful kai.
 
-46
-00:05:43,380 --> 00:05:44,974
+49
+00:05:42,259 --> 00:05:44,303
 Besides, everyone knows
 
-47
-00:05:45,017 --> 00:05:49,482
+50
+00:05:44,303 --> 00:05:47,764
 that you were Kai Opaka's
 personal choice to succeed her.
 
-48
-00:05:54,504 --> 00:05:57,841
+51
+00:05:52,853 --> 00:05:55,897
 I could never replace Opaka.
 
-49
-00:05:57,878 --> 00:06:02,047
+52
+00:05:55,897 --> 00:06:00,735
 Bajor wouldn't have survived
 the occupation without her.
 
-50
-00:06:02,087 --> 00:06:03,454
-Once you become kai
+53
+00:06:00,735 --> 00:06:02,154
+Once you become kai,
 
-51
-00:06:03,490 --> 00:06:06,257
+54
+00:06:02,154 --> 00:06:05,157
 we'll never have
 these times together.
 
-52
-00:06:06,296 --> 00:06:07,491
+55
+00:06:05,157 --> 00:06:06,950
 Listen to me.
 
-53
-00:06:07,533 --> 00:06:13,035
-No matter how busy I become,
-I will always have time for you.
-
-54
-00:06:13,078 --> 00:06:14,547
-It won't be easy.
-
-55
-00:06:14,581 --> 00:06:17,382
-I didn't say it would be.
-
 56
-00:06:17,420 --> 00:06:20,791
-I'm not going to lose you,
-Nerys.
+00:06:06,950 --> 00:06:09,077
+No matter how
+busy I become,
 
 57
-00:06:20,828 --> 00:06:23,322
-I promise you that.
+00:06:09,077 --> 00:06:11,872
+I will always have
+time for you.
 
 58
-00:06:28,377 --> 00:06:31,213
+00:06:11,872 --> 00:06:13,207
+It won't be easy.
+
+59
+00:06:13,207 --> 00:06:14,958
+I didn't say
+it would be.
+
+60
+00:06:16,251 --> 00:06:19,546
+I'm not going to
+lose you, Nerys.
+
+61
+00:06:19,546 --> 00:06:21,256
+I promise you that.
+
+62
+00:06:27,137 --> 00:06:30,057
 Remember now,
 honor the Prophets
 
-59
-00:06:31,251 --> 00:06:33,950
-and they will always love you.
+63
+00:06:30,057 --> 00:06:32,726
+and they will
+always love you.
 
-60
-00:06:33,990 --> 00:06:36,325
-As I understand the sacred texts
+64
+00:06:32,726 --> 00:06:35,145
+As I understand
+the sacred texts,
 
-61
-00:06:36,362 --> 00:06:39,061
+65
+00:06:35,145 --> 00:06:37,898
 the Prophets' love
 is unconditional.
 
-62
-00:06:39,101 --> 00:06:41,470
-They ask nothing in return.
+66
+00:06:37,898 --> 00:06:40,317
+They ask nothing
+in return.
 
-63
-00:06:41,507 --> 00:06:44,810
-Thank you, Vedek Bareil,
+67
+00:06:40,317 --> 00:06:43,444
+Thank you,
+Vedek Bareil,
 for reminding us
 
-64
-00:06:44,847 --> 00:06:48,130
+68
+00:06:43,444 --> 00:06:46,948
 how the sacred text can be
 so easily misinterpreted.
 
-65
-00:06:48,263 --> 00:06:51,030
+69
+00:06:46,948 --> 00:06:49,993
 Nothing pleases me more
 than providing you
 
-66
-00:06:51,137 --> 00:06:52,970
+70
+00:06:49,993 --> 00:06:51,745
 with an opposing viewpoint,
 Vedek Winn.
 
-67
-00:06:53,007 --> 00:06:56,174
+71
+00:06:51,745 --> 00:06:55,082
 Somehow you never
 fail to do that.
 
-68
-00:06:56,215 --> 00:06:58,948
+72
+00:06:55,082 --> 00:06:57,667
 I had no idea you
-were on the station
+were on the station,
 
-69
-00:06:58,987 --> 00:07:02,085
+73
+00:06:57,667 --> 00:07:01,004
 but perhaps I shouldn't
 be so surprised.
 
-70
-00:07:02,127 --> 00:07:04,690
+74
+00:07:01,004 --> 00:07:03,757
 Oh, I wouldn't even
 try to surprise you.
 
-71
-00:07:04,733 --> 00:07:07,569
+75
+00:07:03,757 --> 00:07:06,634
 I understand you've
 been keeping a close eye
 
-72
-00:07:07,607 --> 00:07:10,010
+76
+00:07:06,634 --> 00:07:08,887
 on my activities
 these last few weeks.
 
-73
-00:07:10,078 --> 00:07:13,745
+77
+00:07:08,887 --> 00:07:12,849
 The eyes of all of Bajor
 are focused on you, Bareil.
 
-74
-00:07:13,786 --> 00:07:15,950
-Why should I be any different?
+78
+00:07:12,849 --> 00:07:14,851
+Why should I be
+any different?
 
-75
-00:07:15,992 --> 00:07:18,225
-After all, the common wisdom
+79
+00:07:14,851 --> 00:07:17,187
+After all, the
+common wisdom
 
-76
-00:07:18,263 --> 00:07:21,703
+80
+00:07:17,187 --> 00:07:20,690
 is that you are destined
 to be the next kai.
 
-77
-00:07:21,737 --> 00:07:23,536
+81
+00:07:20,690 --> 00:07:23,651
 Was that a concession speech?
-
-78
-00:07:23,575 --> 00:07:24,668
 Hardly.
 
-79
-00:07:24,710 --> 00:07:27,614
+82
+00:07:23,651 --> 00:07:26,613
 The choosing is still
 two days away.
 
-80
-00:07:27,651 --> 00:07:30,647
+83
+00:07:26,613 --> 00:07:29,699
 The Prophets may yet
 surprise us all.
 
-81
-00:07:30,690 --> 00:07:32,523
+84
+00:07:29,699 --> 00:07:31,534
 Remember that, Bareil.
 
-82
-00:07:32,560 --> 00:07:35,897
-I would hate for you to start
-celebrating prematurely.
+85
+00:07:31,534 --> 00:07:32,827
+I would hate
+for you
 
-83
-00:07:35,934 --> 00:07:39,396
+86
+00:07:32,827 --> 00:07:34,955
+to start celebrating
+prematurely.
+
+87
+00:07:34,955 --> 00:07:38,292
 What brings you to the station,
 Vedek Winn?
 
-84
-00:07:39,443 --> 00:07:41,345
+88
+00:07:38,292 --> 00:07:40,252
 My child, if I thought
 the Prophets
 
-85
-00:07:41,380 --> 00:07:43,715
+89
+00:07:40,252 --> 00:07:42,670
 wanted you to know
-the purpose of my visit
+the purpose of my visit,
 
-86
-00:07:43,752 --> 00:07:46,087
+90
+00:07:42,670 --> 00:07:44,881
 I would have informed you
 of it in advance.
 
-87
-00:07:46,191 --> 00:07:49,061
+91
+00:07:44,881 --> 00:07:47,884
 Well, now that I know
 you're here, I'll be sure
 
-88
-00:07:49,097 --> 00:07:52,366
+92
+00:07:47,884 --> 00:07:51,179
 to inform Constable Odo
 to increase station security.
 
-89
-00:07:52,404 --> 00:07:54,101
+93
+00:07:51,179 --> 00:07:53,098
 That won't be necessary.
 
-90
-00:07:54,208 --> 00:07:55,905
+94
+00:07:53,098 --> 00:07:54,849
 I feel quite safe here.
 
-91
-00:07:55,945 --> 00:07:59,112
-No, it wasn't your safety
+95
+00:07:54,849 --> 00:07:58,061
+No, it wasn't<i> your</i> safety
 that concerned me.
 
-92
-00:07:59,219 --> 00:08:02,386
+96
+00:07:58,061 --> 00:08:01,356
 Just what are you trying
 to infer, child?
 
-93
-00:08:02,426 --> 00:08:06,868
-I'm sure Major Kira meant
+97
+00:08:01,356 --> 00:08:03,566
+I'm sure
+Major Kira meant
+
+98
+00:08:03,566 --> 00:08:05,986
 no disrespect.
 
-94
-00:08:06,903 --> 00:08:08,064
+99
+00:08:05,986 --> 00:08:07,321
 No, not at all.
 
-95
-00:08:08,106 --> 00:08:10,634
-I just want to avoid
-the violence
+100
+00:08:07,321 --> 00:08:09,697
+I just want to
+avoid the violence
 
-96
-00:08:10,678 --> 00:08:13,582
-that occurred
-during your last visit.
+101
+00:08:09,697 --> 00:08:12,326
+that occurred during
+your last visit.
 
-97
-00:08:13,618 --> 00:08:17,423
+102
+00:08:12,326 --> 00:08:16,288
 My child, I know
 you still hold me responsible
 
-98
-00:08:17,459 --> 00:08:21,525
+103
+00:08:16,288 --> 00:08:20,459
 for the deplorable attempt
-on Vedek Bareil's life
+on Vedek Bareil's life,
 
-99
-00:08:21,568 --> 00:08:24,005
+104
+00:08:20,459 --> 00:08:23,586
 but I can only pray
-that some day
+that some day,
 
-100
-00:08:24,040 --> 00:08:28,004
+105
+00:08:23,586 --> 00:08:26,798
 you will be cured of
 this unfortunate misconception.
 
-101
-00:08:28,049 --> 00:08:30,885
+106
+00:08:26,798 --> 00:08:29,968
 Well, that's one prayer
 that will never be answered.
 
-102
-00:08:30,922 --> 00:08:34,054
+107
+00:08:29,968 --> 00:08:32,887
 What a pity, for both of us.
 
-103
-00:08:37,537 --> 00:08:38,505
+108
+00:08:36,475 --> 00:08:39,560
 Ooh!
-
-104
-00:08:38,540 --> 00:08:40,533
 Oh! Excuse me.
 
-105
-00:08:52,703 --> 00:08:53,864
+109
+00:08:51,698 --> 00:08:52,907
 Uh, excuse me.
 
-106
-00:08:53,906 --> 00:08:55,341
+110
+00:08:52,907 --> 00:08:54,242
 Don't I know you?
 
-107
-00:08:55,376 --> 00:08:57,107
-You must be mistaken.
-
-108
-00:08:57,147 --> 00:08:59,174
-No, no, I've seen you before.
-
-109
-00:08:59,218 --> 00:09:02,316
-You're... Kubus, that's it.
-
-110
-00:09:02,358 --> 00:09:03,725
-Kubus Oak.
-
 111
-00:09:03,761 --> 00:09:05,594
-You worked for the Cardassians.
+00:08:54,242 --> 00:08:55,910
+You must
+be mistaken.
 
 112
-00:09:05,632 --> 00:09:07,033
-Out of my way!
+00:08:55,910 --> 00:08:57,954
+No, no, I've
+seen you before.
 
 113
-00:09:07,069 --> 00:09:09,233
-Now, you wait a minute!
+00:08:57,954 --> 00:09:01,333
+You're... Kubus,
+that's it.
 
 114
-00:09:09,273 --> 00:09:11,506
-You're not going anywhere.
+00:09:01,333 --> 00:09:02,792
+Kubus Oak.
 
 115
-00:09:11,545 --> 00:09:15,144
+00:09:02,792 --> 00:09:04,627
+You worked for
+the Cardassians.
+
+116
+00:09:04,627 --> 00:09:05,962
+Out of my way!
+
+117
+00:09:05,962 --> 00:09:08,173
+Now, you wait a minute!
+
+118
+00:09:08,173 --> 00:09:10,509
+You're not going anywhere.
+
+119
+00:09:10,509 --> 00:09:14,095
 I know who you are,
 and I know what you did!
 
-116
-00:09:15,219 --> 00:09:17,086
+120
+00:09:14,095 --> 00:09:16,014
 You're a traitor!
 
-117
-00:09:17,124 --> 00:09:18,991
+121
+00:09:16,014 --> 00:09:18,099
 This is Kubus Oak!
 
-118
-00:09:19,028 --> 00:09:20,520
+122
+00:09:18,099 --> 00:09:19,434
 He's a traitor!
 
-119
-00:09:20,565 --> 00:09:23,936
-He worked for the Cardassians!
-
-120
-00:09:23,972 --> 00:09:25,601
-What's going on here?
-
-121
-00:09:25,643 --> 00:09:27,169
-See for yourself.
-
-122
-00:09:29,050 --> 00:09:31,521
-Secretary Kubus.
-
 123
-00:09:31,556 --> 00:09:34,586
-Last I heard, you were living
-on Cardassia.
+00:09:19,434 --> 00:09:22,979
+He worked
+for the Cardassians!
 
 124
-00:09:34,629 --> 00:09:37,157
+00:09:22,979 --> 00:09:24,647
+What's going on here?
+
+125
+00:09:24,647 --> 00:09:26,107
+See for yourself.
+
+126
+00:09:28,151 --> 00:09:30,404
+Secretary Kubus.
+
+127
+00:09:30,404 --> 00:09:33,573
+Last I heard, you were
+living on Cardassia.
+
+128
+00:09:33,573 --> 00:09:35,867
 I decided it was time
 to come home.
 
-125
-00:09:37,201 --> 00:09:38,795
+129
+00:09:35,867 --> 00:09:37,618
 Welcome back.
 
-126
-00:09:38,838 --> 00:09:40,501
+130
+00:09:37,618 --> 00:09:39,287
 You're under arrest.
 
-127
-00:10:01,990 --> 00:10:04,120
-The Prophets have spoken.
-
-128
-00:10:04,160 --> 00:10:06,461
-All blessings on the new Kai.
-
-129
-00:10:06,499 --> 00:10:08,936
-Blessings on the Kai.
-
-130
-00:10:08,971 --> 00:10:11,340
-May the Prophets guide you.
-
 131
-00:10:21,666 --> 00:10:22,895
-Kai Opaka.
+00:09:39,287 --> 00:09:41,873
+(<i> mutters of approval</i> )
 
 132
-00:10:28,748 --> 00:10:31,846
-Be at peace, my child.
+00:09:59,807 --> 00:10:02,018
+The Prophets
+have spoken.
 
 133
-00:10:31,888 --> 00:10:35,693
+00:10:02,018 --> 00:10:04,354
+All blessings
+on the new Kai.
+
+134
+00:10:04,354 --> 00:10:07,566
+ALL:
+Blessings on the Kai.
+
+135
+00:10:07,566 --> 00:10:10,110
+May the Prophets guide you.
+
+136
+00:10:20,412 --> 00:10:21,788
+Kai Opaka.
+
+137
+00:10:27,544 --> 00:10:30,671
+Be at peace, my child.
+
+138
+00:10:30,671 --> 00:10:34,384
 You must be strong,
 now more than ever.
 
-134
-00:10:35,730 --> 00:10:38,497
-Why did you leave us?
+139
+00:10:34,384 --> 00:10:37,220
+Why did you
+leave us?
 
-135
-00:10:38,536 --> 00:10:41,600
+140
+00:10:37,220 --> 00:10:40,390
 All is as the Prophets
-will it to be
+will it to be,
 
-136
-00:10:41,643 --> 00:10:43,910
+141
+00:10:40,390 --> 00:10:42,767
 as you will learn.
 
-137
-00:10:45,652 --> 00:10:47,349
+142
+00:10:44,394 --> 00:10:46,062
 Follow me.
 
-138
-00:10:47,422 --> 00:10:49,916
+143
+00:10:46,062 --> 00:10:48,648
 Be careful, Bareil.
 
-139
-00:10:49,961 --> 00:10:52,831
+144
+00:10:48,648 --> 00:10:51,485
 The path she walks
 is a narrow one.
 
-140
-00:10:52,868 --> 00:10:55,101
-See that you don't stumble.
+145
+00:10:51,485 --> 00:10:53,736
+See that you
+don't stumble.
 
-141
-00:10:55,139 --> 00:10:57,006
+146
+00:10:53,736 --> 00:10:55,780
 Heed her words.
 
-142
-00:10:57,044 --> 00:11:00,779
+147
+00:10:55,780 --> 00:10:59,284
 But I don't deserve
 to walk in your path.
 
-143
-00:11:00,818 --> 00:11:02,117
+148
+00:10:59,284 --> 00:11:02,621
 You must.
-
-144
-00:11:02,155 --> 00:11:04,022
 It is your destiny.
 
-145
-00:11:16,620 --> 00:11:19,319
+149
+00:11:15,342 --> 00:11:18,052
 Prylar Bek?
 
-146
-00:11:21,597 --> 00:11:24,968
+150
+00:11:20,221 --> 00:11:23,517
 Accept this gift
 from the Prophets.
 
-147
-00:11:35,862 --> 00:11:39,131
+151
+00:11:34,611 --> 00:11:37,489
 You must not refuse
 their offering.
 
-148
-00:11:42,376 --> 00:11:43,970
-Take it, my child.
+152
+00:11:40,908 --> 00:11:42,785
+Take it,
+my child.
 
-149
-00:11:44,013 --> 00:11:45,812
-Its venom
-will make you stronger.
+153
+00:11:42,785 --> 00:11:44,579
+Its venom will
+make you stronger.
 
-150
-00:12:12,518 --> 00:12:15,582
+154
+00:11:44,579 --> 00:11:46,747
+(<i> hissing</i> )
+
+155
+00:12:11,814 --> 00:12:14,693
 There was quite a mob
 gathering out there.
 
-151
-00:12:15,625 --> 00:12:19,896
-I had to call in extra security
+156
+00:12:14,693 --> 00:12:17,320
+I had to call in
+extra security
+
+157
+00:12:17,320 --> 00:12:18,988
 to disperse it.
 
-152
-00:12:19,935 --> 00:12:24,343
+158
+00:12:18,988 --> 00:12:23,535
 I never doubted your ability
 to handle the situation, Odo.
 
-153
-00:12:24,378 --> 00:12:26,872
+159
+00:12:23,535 --> 00:12:25,744
 You always were good
 at your job.
 
-154
-00:12:26,916 --> 00:12:31,655
+160
+00:12:25,744 --> 00:12:30,542
 I could say the same for you,
 Secretary Kubus...
 
-155
-00:12:31,694 --> 00:12:35,134
+161
+00:12:30,542 --> 00:12:34,087
 special liaison between
 the Cardassian occupation forces
 
-156
-00:12:35,168 --> 00:12:37,731
+162
+00:12:34,087 --> 00:12:36,548
 and their pawns
 in the Bajoran government.
 
-157
-00:12:37,774 --> 00:12:40,143
+163
+00:12:36,548 --> 00:12:39,050
 I served the only
 recognized government
 
-158
-00:12:40,179 --> 00:12:42,081
-on Bajor during the occupation.
+164
+00:12:39,050 --> 00:12:41,052
+on Bajor during
+the occupation.
 
-159
-00:12:42,116 --> 00:12:44,451
+165
+00:12:41,052 --> 00:12:43,388
 Recognized by the Cardassians.
 
-160
-00:12:44,488 --> 00:12:47,484
+166
+00:12:43,388 --> 00:12:46,474
 If it wasn't for us,
 the situation on Bajor
 
-161
-00:12:47,529 --> 00:12:50,627
+167
+00:12:46,474 --> 00:12:49,644
 would have been ten times
 worse than it was.
 
-162
-00:12:50,669 --> 00:12:52,970
+168
+00:12:49,644 --> 00:12:51,854
 Maybe, but I don't see
 how you could know that
 
-163
-00:12:53,007 --> 00:12:56,242
+169
+00:12:51,854 --> 00:12:55,191
 seeing that you spent nearly all
 your time here on the station.
 
-164
-00:12:56,281 --> 00:12:59,379
+170
+00:12:55,191 --> 00:12:58,319
 I remember Gul Dukat
 telling me once
 
-165
-00:12:59,421 --> 00:13:01,585
+171
+00:12:58,319 --> 00:13:00,572
 that you were
 his favorite Bajoran.
 
-166
-00:13:01,626 --> 00:13:05,965
+172
+00:13:00,572 --> 00:13:04,992
 Really? Well, I never could
 stand that arrogant tyrant!
 
-167
-00:13:06,036 --> 00:13:08,166
-You hid your feelings well.
+173
+00:13:04,992 --> 00:13:06,994
+You hid your
+feelings well.
 
-168
-00:13:08,208 --> 00:13:10,475
-It kept me alive.
+174
+00:13:06,994 --> 00:13:09,414
+It kept me
+alive.
 
-169
-00:13:12,350 --> 00:13:14,446
+175
+00:13:11,374 --> 00:13:13,585
 Bajor is my home.
 
-170
-00:13:17,661 --> 00:13:19,654
+176
+00:13:16,755 --> 00:13:18,548
 I never should have left it.
 
-171
-00:13:19,699 --> 00:13:22,500
+177
+00:13:18,548 --> 00:13:21,301
+KIRA:
 But you did...
 
-172
-00:13:22,539 --> 00:13:25,238
+178
+00:13:21,301 --> 00:13:24,095
 and you're going to have
 to live with that decision.
 
-173
-00:13:26,915 --> 00:13:29,113
-This is Major Kira
+179
+00:13:25,597 --> 00:13:27,890
+This is Major Kira,
 
-174
-00:13:29,154 --> 00:13:31,955
+180
+00:13:27,890 --> 00:13:30,602
 the highest-ranking Bajoran
 on the station.
 
-175
-00:13:31,993 --> 00:13:34,430
+181
+00:13:30,602 --> 00:13:33,313
 Then I suppose you're the one
 I should be talking to.
 
-176
-00:13:34,465 --> 00:13:35,626
+182
+00:13:33,313 --> 00:13:34,939
 Make it brief.
 
-177
-00:13:35,668 --> 00:13:38,333
+183
+00:13:34,939 --> 00:13:37,108
 I don't enjoy
 talking to collaborators.
 
-178
-00:13:38,374 --> 00:13:40,435
+184
+00:13:37,108 --> 00:13:39,235
 I'm not asking you to like me.
 
-179
-00:13:40,478 --> 00:13:43,041
+185
+00:13:39,235 --> 00:13:41,904
 I'm simply requesting that I be
 allowed to return home.
 
-180
-00:13:43,151 --> 00:13:44,450
+186
+00:13:41,904 --> 00:13:43,197
 Your request is denied.
 
-181
-00:13:44,487 --> 00:13:47,824
-I doubt if you have the
-authority to make that decision.
+187
+00:13:43,197 --> 00:13:44,783
+I doubt if
+you have
 
-182
-00:13:47,861 --> 00:13:50,298
+188
+00:13:44,783 --> 00:13:46,618
+the authority
+to make that decision.
+
+189
+00:13:46,618 --> 00:13:49,078
 The decision has
 already been made.
 
-183
-00:13:50,333 --> 00:13:54,172
+190
+00:13:49,078 --> 00:13:50,997
 In the Ilvian Proclamation,
-every Bajoran who was a member
 
-184
-00:13:54,209 --> 00:13:56,339
+191
+00:13:50,997 --> 00:13:52,915
+every Bajoran
+who was a member
+
+192
+00:13:52,915 --> 00:13:55,168
 of the Cardassian
 occupational government
 
-185
-00:13:56,379 --> 00:13:58,509
+193
+00:13:55,168 --> 00:13:57,253
 was sentenced to exile.
 
-186
-00:13:58,551 --> 00:14:02,150
+194
+00:13:57,253 --> 00:14:00,799
 Your name was number four
 on that list.
 
-187
-00:14:02,192 --> 00:14:06,156
+195
+00:14:00,799 --> 00:14:05,011
 Personally, I think
 you all got off too easy.
 
-188
-00:14:09,575 --> 00:14:11,306
+196
+00:14:08,473 --> 00:14:10,099
 Major...
 
-189
-00:14:11,346 --> 00:14:13,248
+197
+00:14:10,099 --> 00:14:12,018
 I'm an old man.
 
-190
-00:14:13,284 --> 00:14:15,186
-I don't have many years left.
+198
+00:14:12,018 --> 00:14:13,894
+I don't have
+many years left.
 
-191
-00:14:15,221 --> 00:14:18,490
+199
+00:14:13,894 --> 00:14:17,398
 What's the harm of letting me
 live them out on Bajor?
 
-192
-00:14:18,528 --> 00:14:20,555
+200
+00:14:17,398 --> 00:14:19,400
 When the Cardassians needed
 
-193
-00:14:20,599 --> 00:14:23,902
+201
+00:14:19,400 --> 00:14:22,612
 a new group of Bajorans
-to work in the mines
+to work in the mines,
 
-194
-00:14:23,940 --> 00:14:26,810
-who approved those work orders?
+202
+00:14:22,612 --> 00:14:25,532
+who approved
+those work orders?
 
-195
-00:14:26,847 --> 00:14:29,045
+203
+00:14:25,532 --> 00:14:27,701
 The Bajoran government.
 
-196
-00:14:29,085 --> 00:14:32,525
+204
+00:14:27,701 --> 00:14:31,412
 Whose signature was
 on those authorization forms?
 
-197
-00:14:35,198 --> 00:14:36,257
+205
+00:14:33,873 --> 00:14:36,376
 Mine.
-
-198
-00:14:36,301 --> 00:14:37,600
 And you had to know
 
-199
-00:14:37,637 --> 00:14:39,436
+206
+00:14:36,376 --> 00:14:38,628
 that those authorizations
 were death sentences.
 
-200
-00:14:39,474 --> 00:14:43,073
+207
+00:14:38,628 --> 00:14:41,840
 Did you ever once refuse
 to sign them?
 
-201
-00:14:44,752 --> 00:14:46,221
+208
+00:14:43,591 --> 00:14:45,968
 No.
 
-202
-00:14:47,326 --> 00:14:50,356
+209
+00:14:45,968 --> 00:14:49,138
 And that's why
 you can never be allowed
 
-203
-00:14:50,398 --> 00:14:52,528
+210
+00:14:49,138 --> 00:14:51,265
 to set foot on Bajor again.
 
-204
-00:14:52,570 --> 00:14:55,371
+211
+00:14:51,265 --> 00:14:54,101
 Because, if you do,
 it would dishonor
 
-205
-00:14:55,409 --> 00:14:59,316
+212
+00:14:54,101 --> 00:14:58,105
 the memory of every person
 you sentenced to death.
 
-206
-00:15:18,427 --> 00:15:19,520
+213
+00:15:17,124 --> 00:15:20,211
 Vedek Winn.
-
-207
-00:15:19,562 --> 00:15:21,395
 What can I do for you?
 
-208
-00:15:21,433 --> 00:15:24,497
+214
+00:15:20,211 --> 00:15:23,297
 Emissary...
 
-209
-00:15:24,540 --> 00:15:27,034
+215
+00:15:23,297 --> 00:15:25,675
 it has recently come
 to my attention
 
-210
-00:15:27,079 --> 00:15:29,915
+216
+00:15:25,675 --> 00:15:28,553
 that there are
 some on Bajor who believe
 
-211
-00:15:29,952 --> 00:15:33,859
+217
+00:15:28,553 --> 00:15:32,557
 that my relationship with you
 is not all it should be.
 
-212
-00:15:35,999 --> 00:15:36,967
+218
+00:15:34,684 --> 00:15:35,560
 Really?
 
-213
-00:15:37,001 --> 00:15:38,493
-Personally, I find
+219
+00:15:35,560 --> 00:15:37,228
+Personally,
+I find
 
-214
-00:15:38,538 --> 00:15:40,975
+220
+00:15:37,228 --> 00:15:39,689
 such a perception,
-however inaccurate
+however inaccurate,
 
-215
-00:15:41,010 --> 00:15:42,570
+221
+00:15:39,689 --> 00:15:41,399
 to be most distressing.
 
-216
-00:15:42,613 --> 00:15:45,950
-I suppose the question
+222
+00:15:41,399 --> 00:15:43,234
+I suppose
+the question
+
+223
+00:15:43,234 --> 00:15:44,944
 we have to ask ourselves
 
-217
-00:15:45,987 --> 00:15:49,051
+224
+00:15:44,944 --> 00:15:47,614
 is whether or not
 that perception is inaccurate.
 
-218
-00:15:49,094 --> 00:15:52,363
+225
+00:15:47,614 --> 00:15:51,117
 Don't tell me
-that you yourself, Emissary
+that you yourself, Emissary,
 
-219
-00:15:52,402 --> 00:15:55,637
+226
+00:15:51,117 --> 00:15:54,454
 believe that you and I are...
 
-220
-00:15:55,675 --> 00:15:57,771
+227
+00:15:54,454 --> 00:15:56,664
 how shall I put it?
 
-221
-00:15:57,813 --> 00:15:59,612
+228
+00:15:56,664 --> 00:15:58,458
 Enemies?
 
-222
-00:16:00,652 --> 00:16:02,554
+229
+00:15:59,459 --> 00:16:01,461
 At odds.
 
-223
-00:16:02,591 --> 00:16:05,689
+230
+00:16:01,461 --> 00:16:04,004
 Well...
 
-224
-00:16:05,730 --> 00:16:07,860
+231
+00:16:04,004 --> 00:16:06,466
 let's see.
 
-225
-00:16:07,902 --> 00:16:11,535
+232
+00:16:06,466 --> 00:16:10,428
 How could I have come
 to such a conclusion?
 
-226
-00:16:13,080 --> 00:16:14,845
+233
+00:16:11,763 --> 00:16:13,514
 Maybe it has something
 to do with the fact
 
-227
-00:16:14,884 --> 00:16:16,945
+234
+00:16:13,514 --> 00:16:15,642
 that the last time
-you were here at this station
+you were here at this station,
 
-228
-00:16:16,989 --> 00:16:19,392
+235
+00:16:15,642 --> 00:16:18,185
 you claimed that I was
 a danger to Bajor;
 
-229
-00:16:19,427 --> 00:16:21,762
+236
+00:16:18,185 --> 00:16:20,647
 that I was here
 to destroy your people.
 
-230
-00:16:21,799 --> 00:16:23,701
-What I was really saying...
+237
+00:16:20,647 --> 00:16:22,649
+What I was really saying--
 
-231
-00:16:23,737 --> 00:16:27,576
-what I have always maintained...
+238
+00:16:22,649 --> 00:16:26,319
+what I have always maintained--
 
-232
-00:16:27,612 --> 00:16:31,211
+239
+00:16:26,319 --> 00:16:29,948
 is that you, Emissary, were
 sent here by the Prophets
 
-233
-00:16:31,320 --> 00:16:33,723
+240
+00:16:29,948 --> 00:16:32,408
 to challenge
 our long-held beliefs.
 
-234
-00:16:33,759 --> 00:16:36,960
+241
+00:16:32,408 --> 00:16:35,620
 Am I correct in assuming
 that you no longer consider
 
-235
-00:16:36,999 --> 00:16:39,402
+242
+00:16:35,620 --> 00:16:38,080
 the Federation to be
 an enemy to Bajor?
 
-236
-00:16:39,438 --> 00:16:41,966
-Emissary, I admit
+243
+00:16:38,080 --> 00:16:41,334
+Emissary, I admit,
 I had some concerns
 
-237
-00:16:42,010 --> 00:16:45,849
+244
+00:16:41,334 --> 00:16:44,587
 about Bajor's application
-for Federation membership
+for Federation membership,
 
-238
-00:16:45,886 --> 00:16:49,189
+245
+00:16:44,587 --> 00:16:47,799
 but now, I see
 that the Federation's
 
-239
-00:16:49,226 --> 00:16:51,253
-presence here is essential
+246
+00:16:47,799 --> 00:16:49,968
+presence here
+is essential
 
-240
-00:16:51,297 --> 00:16:54,270
+247
+00:16:49,968 --> 00:16:53,053
 for our long-term
 security and growth.
 
-241
-00:16:54,371 --> 00:16:58,004
+248
+00:16:53,053 --> 00:16:56,599
 Then, you support the notion
 of Bajor joining the Federation?
 
-242
-00:16:58,045 --> 00:17:01,109
+249
+00:16:56,599 --> 00:16:59,811
 If that is the will
-of the Prophets
+of the Prophets,
 
-243
-00:17:01,152 --> 00:17:02,883
+250
+00:16:59,811 --> 00:17:02,689
 I would never oppose it.
 
-244
-00:17:04,025 --> 00:17:06,189
+251
+00:17:02,689 --> 00:17:04,983
 I'm glad you said that.
 
-245
-00:17:06,230 --> 00:17:08,394
+252
+00:17:04,983 --> 00:17:07,109
 And I would be grateful
 
-246
-00:17:08,435 --> 00:17:12,206
+253
+00:17:07,109 --> 00:17:10,989
 if you would tell it
 to the Bajoran people.
 
-247
-00:17:13,947 --> 00:17:17,911
-Nothing could make me happier
-than to please you, Emissary.
+254
+00:17:12,490 --> 00:17:14,492
+Nothing could
+make me happier
 
-248
-00:17:17,956 --> 00:17:21,920
-Perhaps you and I could address
-the Vedek Assembly together
+255
+00:17:14,492 --> 00:17:16,494
+than to please
+you, Emissary.
 
-249
-00:17:21,965 --> 00:17:25,736
+256
+00:17:16,494 --> 00:17:18,663
+Perhaps you and I
+could address
+
+257
+00:17:18,663 --> 00:17:20,498
+the Vedek Assembly
+together
+
+258
+00:17:20,498 --> 00:17:24,627
 so everyone can celebrate
 our new friendship.
 
-250
-00:17:25,773 --> 00:17:28,176
+259
+00:17:24,627 --> 00:17:26,880
 An excellent idea.
 
-251
-00:17:28,211 --> 00:17:31,047
+260
+00:17:26,880 --> 00:17:29,632
 Perhaps sometime next week.
 
-252
-00:17:31,085 --> 00:17:33,283
-Why wait, Emissary?
+261
+00:17:29,632 --> 00:17:31,926
+Why wait,
+Emissary?
 
-253
-00:17:33,322 --> 00:17:36,420
+262
+00:17:31,926 --> 00:17:35,137
 I'm sure the Assembly would
 grant us an immediate audience.
 
-254
-00:17:36,463 --> 00:17:37,864
-I'm sure they would.
+263
+00:17:35,137 --> 00:17:36,639
+I'm sure
+they would.
 
-255
-00:17:37,900 --> 00:17:40,770
+264
+00:17:36,639 --> 00:17:39,559
 Unfortunately, if we were
 to appear together
 
-256
-00:17:40,806 --> 00:17:44,302
+265
+00:17:39,559 --> 00:17:43,021
 in public before the choosing,
 it might be misconstrued
 
-257
-00:17:44,414 --> 00:17:47,581
+266
+00:17:43,021 --> 00:17:46,273
 as an endorsement of your bid
 to become the kai.
 
-258
-00:17:47,621 --> 00:17:50,184
-Oh, I doubt that, Emissary.
+267
+00:17:46,273 --> 00:17:48,609
+Oh, I doubt
+that, Emissary.
 
-259
-00:17:50,227 --> 00:17:53,428
+268
+00:17:48,609 --> 00:17:52,112
 It's common knowledge
-that you support Vedek Bareil
+that you support Vedek Bareil,
 
-260
-00:17:53,468 --> 00:17:57,739
+269
+00:17:52,112 --> 00:17:56,534
 although I have been pleasantly
 surprised that you haven't made
 
-261
-00:17:57,777 --> 00:17:59,337
+270
+00:17:56,534 --> 00:17:58,077
 any public statement
 to that effect.
 
-262
-00:17:59,380 --> 00:18:00,849
+271
+00:17:58,077 --> 00:17:59,579
 The election of the kai
 
-263
-00:18:00,884 --> 00:18:03,754
+272
+00:17:59,579 --> 00:18:02,623
 is strictly
 an internal affair to Bajor.
 
-264
-00:18:03,790 --> 00:18:07,230
+273
+00:18:02,623 --> 00:18:05,793
 As a Federation officer,
 I would never interfere.
 
-265
-00:18:07,264 --> 00:18:09,929
+274
+00:18:05,793 --> 00:18:08,421
 What an enlightened philosophy.
 
-266
-00:18:09,970 --> 00:18:11,599
+275
+00:18:08,421 --> 00:18:10,297
 So then, it's agreed.
 
-267
-00:18:11,640 --> 00:18:14,613
+276
+00:18:10,297 --> 00:18:13,133
 I'll be seeing you
 sometime next week.
 
-268
-00:18:14,647 --> 00:18:16,743
+277
+00:18:13,133 --> 00:18:15,636
 I look forward to it.
 
-269
-00:18:25,507 --> 00:18:27,374
+278
+00:18:24,562 --> 00:18:28,441
 Odo to Major Kira.
-
-270
-00:18:27,411 --> 00:18:28,436
 This is Kira.
 
-271
-00:18:28,481 --> 00:18:30,314
-Sorry to disturb you, Major
-
-272
-00:18:30,351 --> 00:18:31,512
+279
+00:18:28,441 --> 00:18:31,027
+Sorry to disturb you, Major,
 but I thought you should know
 
-273
-00:18:31,554 --> 00:18:33,490
+280
+00:18:31,027 --> 00:18:32,946
 that Secretary Kubus
-about to leave for Bajor.
+is about to leave for Bajor.
 
-274
-00:18:35,162 --> 00:18:36,631
+281
+00:18:34,488 --> 00:18:35,740
 How can that be?
 
-275
-00:18:36,665 --> 00:18:39,136
+282
+00:18:35,740 --> 00:18:38,409
 Vedek Winn has
 granted him sanctuary.
 
-276
-00:18:39,170 --> 00:18:40,537
+283
+00:18:38,409 --> 00:18:39,619
 I'll be right there.
 
-277
-00:18:40,574 --> 00:18:42,441
+284
+00:18:39,619 --> 00:18:42,580
 Kira to Ops.
-
-278
-00:18:42,477 --> 00:18:43,536
+DAX:
 Go ahead.
 
-279
-00:18:43,581 --> 00:18:45,244
+285
+00:18:42,580 --> 00:18:44,498
 Dax, has Winn's ship
 left the station?
 
-280
-00:18:45,284 --> 00:18:46,411
-Not yet.
+286
+00:18:44,498 --> 00:18:47,209
+Not yet. I was about to clear
+them for departure.
 
-281
-00:18:46,453 --> 00:18:47,979
-I was about to clear them
-for departure.
-
-282
-00:18:48,023 --> 00:18:50,016
+287
+00:18:47,209 --> 00:18:49,211
 Well, keep those docking clamps
 locked on.
 
-283
-00:18:50,061 --> 00:18:52,624
+288
+00:18:49,211 --> 00:18:51,798
 I don't want that ship going
 anywhere until I say so.
 
-284
-00:18:52,667 --> 00:18:54,261
+289
+00:18:51,798 --> 00:18:53,633
 Understood.
 
-285
-00:19:01,353 --> 00:19:02,788
+290
+00:19:00,264 --> 00:19:01,849
 Tell me what happened.
 
-286
-00:19:04,025 --> 00:19:06,964
-Kubus requested a private
-meeting with Vedek Winn.
+291
+00:19:03,225 --> 00:19:05,311
+Kubus requested
+a private meeting
 
-287
-00:19:06,999 --> 00:19:08,298
+292
+00:19:05,311 --> 00:19:06,270
+with Vedek Winn.
+
+293
+00:19:06,270 --> 00:19:08,022
 They talked for ten minutes
 
-288
-00:19:08,334 --> 00:19:10,828
+294
+00:19:08,022 --> 00:19:09,941
 after which, Winn asked
 for the use of my computer.
 
-289
-00:19:10,873 --> 00:19:13,640
-She accessed some information
-from the library system.
+295
+00:19:09,941 --> 00:19:12,401
+She accessed some
+information from
+the library system.
 
-290
-00:19:13,680 --> 00:19:14,944
+296
+00:19:12,401 --> 00:19:13,861
 And?
 
-291
-00:19:14,982 --> 00:19:17,955
-And then she called
-the provisional government
+297
+00:19:13,861 --> 00:19:17,156
+And then she called the
+provisional government
 
-292
-00:19:17,989 --> 00:19:21,326
+298
+00:19:17,156 --> 00:19:20,326
 and informed them she was
 granting Kubus sanctuary.
 
-293
-00:19:23,367 --> 00:19:25,428
+299
+00:19:22,745 --> 00:19:24,288
 Do you know what she looked up?
 
-294
-00:19:25,472 --> 00:19:28,502
+300
+00:19:24,288 --> 00:19:27,125
 I'm trying to find
 that out right now.
 
-295
-00:19:34,325 --> 00:19:36,022
+301
+00:19:33,673 --> 00:19:35,299
 Ah...
 
-296
-00:19:36,063 --> 00:19:37,464
+302
+00:19:35,299 --> 00:19:36,843
 That's Prylar Bek.
 
-297
-00:19:37,498 --> 00:19:39,594
+303
+00:19:36,843 --> 00:19:38,761
 Now, why would Winn
 be interested
 
-298
-00:19:39,637 --> 00:19:42,108
-in another Bajoran collaborator?
+304
+00:19:38,761 --> 00:19:41,388
+in another Bajoran
+collaborator?
 
-299
-00:19:42,142 --> 00:19:44,409
+305
+00:19:41,388 --> 00:19:43,683
 I'm not sure.
 
-300
-00:19:44,448 --> 00:19:47,512
+306
+00:19:43,683 --> 00:19:46,727
 But Bek and Kubus
 did know each other.
 
-301
-00:19:47,554 --> 00:19:48,613
+307
+00:19:46,727 --> 00:19:48,395
 Bek was the liaison
 
-302
-00:19:48,657 --> 00:19:51,254
+308
+00:19:48,395 --> 00:19:50,606
 between the Cardassians
 and the Vedek Assembly
 
-303
-00:19:51,296 --> 00:19:53,597
+309
+00:19:50,606 --> 00:19:52,358
 at the same time
 that Kubus was secretary
 
-304
-00:19:53,634 --> 00:19:54,933
+310
+00:19:52,358 --> 00:19:54,110
 to the occupational government.
 
-305
-00:19:54,970 --> 00:19:57,703
-They spent a lot of time
-together on the station.
+311
+00:19:54,110 --> 00:19:56,863
+They spent a lot
+of time together
+on the station.
 
-306
-00:19:57,744 --> 00:19:58,712
+312
+00:19:56,863 --> 00:19:58,238
 Hold on a minute.
 
-307
-00:19:58,746 --> 00:20:00,807
+313
+00:19:58,238 --> 00:19:59,949
 See if Winn accessed
 any information
 
-308
-00:20:00,850 --> 00:20:02,752
+314
+00:19:59,949 --> 00:20:01,951
 about the Kendra Valley
 massacre.
 
-309
-00:20:05,327 --> 00:20:06,694
+315
+00:20:04,537 --> 00:20:05,830
 You're right, she did.
 
-310
-00:20:06,729 --> 00:20:08,460
+316
+00:20:05,830 --> 00:20:07,707
 Do you think Kubus told her
 
-311
-00:20:08,500 --> 00:20:10,561
+317
+00:20:07,707 --> 00:20:09,792
 something new
 about the massacre?
 
-312
-00:20:10,605 --> 00:20:12,268
-What else is there to know?
+318
+00:20:09,792 --> 00:20:11,544
+What else is
+there to know?
 
-313
-00:20:12,308 --> 00:20:14,973
+319
+00:20:11,544 --> 00:20:14,172
 Kai Opaka's son and 42 other
 Bajoran freedom fighters
 
-314
-00:20:15,047 --> 00:20:17,986
+320
+00:20:14,172 --> 00:20:17,091
 were ambushed and killed,
 because Bek gave the Cardassians
 
-315
-00:20:18,021 --> 00:20:19,650
+321
+00:20:17,091 --> 00:20:18,676
 the location
 of their encampment.
 
-316
-00:20:19,691 --> 00:20:22,595
+322
+00:20:18,676 --> 00:20:21,512
 He made a full confession
 in his suicide note.
 
-317
-00:20:22,631 --> 00:20:24,533
-Well, you were here then.
+323
+00:20:21,512 --> 00:20:23,848
+Well, you were
+here then.
 
-318
-00:20:24,569 --> 00:20:26,300
-You must have read it.
+324
+00:20:23,848 --> 00:20:25,558
+You must have
+read it.
 
-319
-00:20:27,408 --> 00:20:30,973
+325
+00:20:25,558 --> 00:20:27,185
+(<i> door opens</i> )
+
+326
+00:20:27,185 --> 00:20:29,896
 Major Kira, may I speak
 to you, please?
 
-320
-00:20:31,016 --> 00:20:32,986
+327
+00:20:29,896 --> 00:20:32,065
 Of course.
 
-321
-00:20:44,546 --> 00:20:46,243
+328
+00:20:43,784 --> 00:20:45,369
 I was told you were the one
 
-322
-00:20:46,283 --> 00:20:48,447
-who stopped
-my ship from leaving.
+329
+00:20:45,369 --> 00:20:47,747
+who stopped my
+ship from leaving.
 
-323
-00:20:48,487 --> 00:20:49,956
+330
+00:20:47,747 --> 00:20:49,456
 Yes, I did.
 
-324
-00:20:49,991 --> 00:20:52,758
+331
+00:20:49,456 --> 00:20:51,834
 You know, you're
 the last person I would expect
 
-325
-00:20:52,798 --> 00:20:54,734
+332
+00:20:51,834 --> 00:20:53,794
 to help a collaborator
-like Kubus
+like Kubus,
 
-326
-00:20:54,768 --> 00:20:57,467
+333
+00:20:53,794 --> 00:20:56,630
 unless, of course,
 he has something you need.
 
-327
-00:20:57,507 --> 00:21:00,969
+334
+00:20:56,630 --> 00:20:59,926
 My needs are no concern
 of yours, child.
 
-328
-00:21:01,015 --> 00:21:02,541
+335
+00:20:59,926 --> 00:21:01,719
 Now, I suggest
 
-329
-00:21:02,585 --> 00:21:05,352
+336
+00:21:01,719 --> 00:21:04,097
 you allow my ship
 to depart immediately.
 
-330
-00:21:07,596 --> 00:21:10,660
-Oh, you're free to leave
-anytime you like.
+337
+00:21:06,849 --> 00:21:09,936
+Oh,<i> you're</i> free to leave
+any time you like.
 
-331
-00:21:10,703 --> 00:21:14,040
-Unfortunately, in light
-of public feelings about Kubus
+338
+00:21:09,936 --> 00:21:13,147
+Unfortunately, in light of
+public feelings about Kubus,
 
-332
-00:21:14,111 --> 00:21:16,275
+339
+00:21:13,147 --> 00:21:15,441
 I can't allow
 any ship with him on board
 
-333
-00:21:16,316 --> 00:21:18,617
+340
+00:21:15,441 --> 00:21:17,944
 to leave the station
 until it's undergone
 
-334
-00:21:18,655 --> 00:21:20,056
+341
+00:21:17,944 --> 00:21:19,319
 a thorough security check.
 
-335
-00:21:20,124 --> 00:21:21,923
+342
+00:21:19,319 --> 00:21:21,072
 To prevent sabotage.
 
-336
-00:21:21,962 --> 00:21:23,488
+343
+00:21:21,072 --> 00:21:22,740
 And that includes
 
-337
-00:21:23,531 --> 00:21:26,834
+344
+00:21:22,740 --> 00:21:25,618
 a molecular scan
 for nanotechnology.
 
-338
-00:21:26,872 --> 00:21:29,639
+345
+00:21:25,618 --> 00:21:28,913
 And how long
 would such a scan take?
 
-339
-00:21:29,679 --> 00:21:31,012
-Oh, I'm no expert
+346
+00:21:28,913 --> 00:21:30,497
+Oh, I'm no expert,
 
-340
-00:21:31,048 --> 00:21:35,149
+347
+00:21:30,497 --> 00:21:33,834
 but I'm sure it could
 take days... even weeks.
 
-341
-00:21:39,600 --> 00:21:41,536
+348
+00:21:38,881 --> 00:21:40,841
 Very well.
 
-342
-00:21:43,542 --> 00:21:45,877
+349
+00:21:42,760 --> 00:21:44,971
 It seems the Prophets
 have decided
 
-343
-00:21:45,914 --> 00:21:48,647
+350
+00:21:44,971 --> 00:21:47,974
 you will have a part
 in this, after all.
 
-344
-00:21:50,691 --> 00:21:54,131
+351
+00:21:49,934 --> 00:21:53,271
 In exchange for sanctuary,
 Kubus has agreed to provide
 
-345
-00:21:54,165 --> 00:21:57,138
+352
+00:21:53,271 --> 00:21:55,982
 the name of the man
 responsible for the massacre
 
-346
-00:21:57,239 --> 00:21:58,468
+353
+00:21:55,982 --> 00:21:57,608
 at Kendra Valley.
 
-347
-00:21:58,508 --> 00:22:01,481
+354
+00:21:57,608 --> 00:22:00,736
 Prylar Bek was responsible
 for the massacre.
 
-348
-00:22:01,515 --> 00:22:02,916
+355
+00:22:00,736 --> 00:22:02,071
 Everyone knows that.
 
-349
-00:22:02,952 --> 00:22:05,253
+356
+00:22:02,071 --> 00:22:04,531
 Bek was a pawn,
 an intermediary.
 
-350
-00:22:05,289 --> 00:22:06,553
+357
+00:22:04,531 --> 00:22:06,284
 He killed himself
 
-351
-00:22:06,593 --> 00:22:09,930
+358
+00:22:06,284 --> 00:22:08,744
 to prevent the discovery
 of the real traitor.
 
-352
-00:22:09,967 --> 00:22:11,402
+359
+00:22:08,744 --> 00:22:10,288
 The real traitor?
 
-353
-00:22:11,437 --> 00:22:12,736
-Bek's superior...
+360
+00:22:10,288 --> 00:22:11,705
+Bek's superior--
 
-354
-00:22:12,773 --> 00:22:15,244
+361
+00:22:11,705 --> 00:22:14,083
 the person
 who ordered him to reveal
 
-355
-00:22:15,278 --> 00:22:18,740
+362
+00:22:14,083 --> 00:22:17,711
 the location of the rebel base
-to the Cardassians...
+to the Cardassians--
 
-356
-00:22:18,787 --> 00:22:22,488
+363
+00:22:17,711 --> 00:22:21,423
 the man who was truly
-responsible for the massacre...
+responsible for the massacre--
 
-357
-00:22:22,528 --> 00:22:24,122
+364
+00:22:21,423 --> 00:22:22,967
 Vedek Bareil.
 
-358
-00:22:33,351 --> 00:22:36,791
+365
+00:22:31,600 --> 00:22:34,687
 Do you really think I'm going
 to let you get away with this?
 
-359
-00:22:36,826 --> 00:22:39,024
+366
+00:22:34,687 --> 00:22:37,023
 You know, no one's
 going to believe
 
-360
-00:22:39,064 --> 00:22:41,627
+367
+00:22:37,023 --> 00:22:40,358
 the word of a convicted
 traitor like Kubus.
 
-361
-00:22:41,670 --> 00:22:44,005
+368
+00:22:40,358 --> 00:22:42,695
 I never said I believed him.
 
-362
-00:22:44,042 --> 00:22:48,609
+369
+00:22:42,695 --> 00:22:47,200
 I'm only trying to protect
 the spiritual life of Bajor.
 
-363
-00:22:48,651 --> 00:22:50,416
-Don't flatter yourself.
+370
+00:22:47,200 --> 00:22:49,202
+Don't flatter
+yourself.
 
-364
-00:22:50,456 --> 00:22:52,689
-You're trying to grab power,
-nothing more.
+371
+00:22:49,202 --> 00:22:51,369
+You're trying to grab
+power, nothing more.
 
-365
-00:22:52,727 --> 00:22:56,532
+372
+00:22:51,369 --> 00:22:55,457
 My child, do you want
 to risk the consequences
 
-366
-00:22:56,569 --> 00:23:00,031
+373
+00:22:55,457 --> 00:22:58,836
 of having a collaborator
 as the next kai?
 
-367
-00:23:00,077 --> 00:23:02,412
+374
+00:22:58,836 --> 00:23:01,255
 He is not a collaborator.
 
-368
-00:23:02,449 --> 00:23:04,818
-That's yet to be determined.
+375
+00:23:01,255 --> 00:23:03,674
+That's yet
+to be determined.
 
-369
-00:23:04,854 --> 00:23:08,795
-But if he is chosen
-and turns out to be guilty
+376
+00:23:03,674 --> 00:23:05,509
+But if he is chosen,
 
-370
-00:23:08,830 --> 00:23:13,101
+377
+00:23:05,509 --> 00:23:07,511
+and turns out to be guilty,
+
+378
+00:23:07,511 --> 00:23:11,849
 the ramifications for Bajor
 would be catastrophic.
 
-371
-00:23:13,139 --> 00:23:16,408
+379
+00:23:11,849 --> 00:23:15,061
 It would shatter faith
-in the authority of the kai
+in the authority of the kai,
 
-372
-00:23:16,446 --> 00:23:21,754
+380
+00:23:15,061 --> 00:23:20,440
 and without a strong kai,
 Bajor cannot survive.
 
-373
-00:23:21,791 --> 00:23:25,926
+381
+00:23:20,440 --> 00:23:24,737
 You can't condemn
 Bareil without proof.
 
-374
-00:23:25,967 --> 00:23:27,196
+382
+00:23:24,737 --> 00:23:26,155
 I don't intend to.
 
-375
-00:23:27,304 --> 00:23:30,744
+383
+00:23:26,155 --> 00:23:29,533
 I was planning to conduct
 a quiet investigation
 
-376
-00:23:30,778 --> 00:23:32,407
-when I return to Bajor
+384
+00:23:29,533 --> 00:23:31,285
+when I return to Bajor,
 
-377
-00:23:32,448 --> 00:23:34,544
+385
+00:23:31,285 --> 00:23:33,495
 but I didn't know
 whom to trust
 
-378
-00:23:34,586 --> 00:23:36,716
+386
+00:23:33,495 --> 00:23:35,497
 with such
-a delicate assignment...
+a delicate assignment
 
-379
-00:23:36,757 --> 00:23:39,194
+387
+00:23:35,497 --> 00:23:37,958
 until now.
 
-380
-00:23:39,230 --> 00:23:42,226
-You want me to do
-your dirty work for you.
+388
+00:23:37,958 --> 00:23:41,087
+You want me to do your
+dirty work for you.
 
-381
-00:23:42,270 --> 00:23:44,366
-All I care about is the truth
+389
+00:23:41,087 --> 00:23:43,256
+All I care about
+is the truth,
 
-382
-00:23:44,407 --> 00:23:47,243
+390
+00:23:43,256 --> 00:23:45,716
 and I believe the Prophets
 have chosen you
 
-383
-00:23:47,281 --> 00:23:48,614
+391
+00:23:45,716 --> 00:23:47,467
 to help me find it.
 
-384
-00:23:48,650 --> 00:23:51,623
+392
+00:23:47,467 --> 00:23:50,428
 I'll find out the truth.
 Don't worry about that.
 
-385
-00:23:51,657 --> 00:23:54,185
+393
+00:23:50,428 --> 00:23:53,057
 But I want you to keep
 Kubus' accusations
 
-386
-00:23:54,229 --> 00:23:55,562
+394
+00:23:53,057 --> 00:23:54,767
 from becoming public
 
-387
-00:23:55,599 --> 00:23:58,800
-until I have a chance
-to prove Bareil's innocence.
+395
+00:23:54,767 --> 00:23:57,561
+until I have a chance to
+prove Bareil's innocence.
 
-388
-00:23:58,840 --> 00:24:00,537
+396
+00:23:57,561 --> 00:23:59,479
 You have my word.
 
-389
-00:24:00,577 --> 00:24:03,744
+397
+00:23:59,479 --> 00:24:02,566
 Let the Prophets be my witness.
 
-390
-00:24:05,688 --> 00:24:07,955
+398
+00:24:04,360 --> 00:24:06,695
 But if you discover proof
 that he's guilty...
 
-391
-00:24:07,993 --> 00:24:10,897
+399
+00:24:06,695 --> 00:24:09,740
 Whatever I find out,
 I will share with you.
 
-392
-00:24:13,171 --> 00:24:16,144
+400
+00:24:11,992 --> 00:24:15,037
 Then it's decided.
 
-393
-00:24:16,177 --> 00:24:19,708
+401
+00:24:15,037 --> 00:24:18,416
 Oh, and, child, one last thing.
 
-394
-00:24:19,752 --> 00:24:24,057
+402
+00:24:18,416 --> 00:24:22,878
 I know you're
-under a terrible strain
+under a terrible strain,
 
-395
-00:24:24,095 --> 00:24:26,225
-but if you're wise
+403
+00:24:22,878 --> 00:24:25,089
+but if you're wise,
 
-396
-00:24:26,266 --> 00:24:31,209
+404
+00:24:25,089 --> 00:24:29,593
 you will never speak to me
 with such disrespect again.
 
-397
-00:24:45,255 --> 00:24:46,314
-Were you aware at the time
+405
+00:24:44,317 --> 00:24:46,319
+Were you aware
+at the time
 
-398
-00:24:46,357 --> 00:24:47,724
+406
+00:24:46,319 --> 00:24:48,486
 that Prylar Bek was
 a collaborator?
-
-399
-00:24:47,760 --> 00:24:48,853
 He wasn't a collaborator.
 
-400
-00:24:48,897 --> 00:24:50,092
+407
+00:24:48,486 --> 00:24:50,197
 He was only a messenger
 
-401
-00:24:50,132 --> 00:24:53,401
+408
+00:24:50,197 --> 00:24:52,490
 between the Cardassians
 and the Vedek Assembly.
 
-402
-00:24:53,440 --> 00:24:55,171
+409
+00:24:52,490 --> 00:24:54,452
 At the time, I could,
 I could see
 
-403
-00:24:55,210 --> 00:24:57,681
+410
+00:24:54,452 --> 00:24:56,829
 in the weeks
 prior to the massacre
 
-404
-00:24:57,716 --> 00:25:00,085
+411
+00:24:56,829 --> 00:24:59,457
 that something
 was bothering him.
 
-405
-00:25:00,121 --> 00:25:01,886
-He was tense and nervous
+412
+00:24:59,457 --> 00:25:01,167
+He was tense and nervous,
 
-406
-00:25:01,925 --> 00:25:03,656
+413
+00:25:01,167 --> 00:25:03,002
 and he was in
 constant communication
 
-407
-00:25:03,695 --> 00:25:04,822
+414
+00:25:03,002 --> 00:25:04,295
 with the Vedek Assembly.
 
-408
-00:25:04,932 --> 00:25:06,025
+415
+00:25:04,295 --> 00:25:05,838
 Do you know who?
 
-409
-00:25:06,067 --> 00:25:07,035
-Not at the time
+416
+00:25:05,838 --> 00:25:08,299
+Not at the time,
+but the day after the incident,
 
-410
-00:25:07,069 --> 00:25:09,005
-but the day after the incident
-
-411
-00:25:09,041 --> 00:25:12,014
+417
+00:25:08,299 --> 00:25:11,344
 Vedek Bareil came
 to visit him at the station.
 
-412
-00:25:12,047 --> 00:25:13,744
-Did you see them together?
+418
+00:25:11,344 --> 00:25:13,012
+Did you see them
+together?
 
-413
-00:25:13,784 --> 00:25:15,948
+419
+00:25:13,012 --> 00:25:15,264
 I saw Bareil
-enter Bek's quarters
+enter Bek's quarters,
 
-414
-00:25:15,989 --> 00:25:18,085
+420
+00:25:15,264 --> 00:25:17,433
 which were in the same section
 as mine.
 
-415
-00:25:18,128 --> 00:25:20,098
+421
+00:25:17,433 --> 00:25:20,311
 He was in there
-for a couple of hours
+for a couple of hours,
+and at times,
 
-416
-00:25:20,132 --> 00:25:21,361
-and at times
-
-417
-00:25:21,401 --> 00:25:23,497
+422
+00:25:20,311 --> 00:25:22,688
 I could hear shouting
 through the bulkhead.
 
-418
-00:25:23,539 --> 00:25:25,304
+423
+00:25:22,688 --> 00:25:24,398
+WINN:
 Did you hear
 what they were saying?
 
-419
-00:25:25,343 --> 00:25:28,839
+424
+00:25:24,398 --> 00:25:27,901
 No, but I saw Bareil
 when he left the station.
 
-420
-00:25:28,884 --> 00:25:30,353
+425
+00:25:27,901 --> 00:25:29,278
 He was upset.
 
-421
-00:25:30,387 --> 00:25:35,797
-In the morning,
-Bek hanged himself.
-
-422
-00:25:35,833 --> 00:25:37,496
-This...
-
-423
-00:25:37,537 --> 00:25:39,302
-is all the evidence you have?
-
-424
-00:25:39,340 --> 00:25:41,037
-Well, isn't that enough?
-
-425
-00:25:41,078 --> 00:25:43,606
-Bek was obviously
-working with Bareil
-
 426
-00:25:43,650 --> 00:25:46,885
-and when he realized
-the enormity of what he'd done
+00:25:29,278 --> 00:25:31,155
+In the morning,
 
 427
-00:25:46,924 --> 00:25:48,917
-he must have wanted to confess.
+00:25:31,155 --> 00:25:34,867
+Bek hanged himself.
 
 428
-00:25:48,962 --> 00:25:50,556
-Bareil wouldn't allow it
+00:25:34,867 --> 00:25:36,452
+This...
 
 429
-00:25:50,598 --> 00:25:53,092
-so Bek took the only way out
-he had.
+00:25:36,452 --> 00:25:38,162
+is all the evidence
+you have?
 
 430
-00:25:53,138 --> 00:25:56,475
+00:25:38,162 --> 00:25:40,122
+Well, isn't
+that enough?
+
+431
+00:25:40,122 --> 00:25:42,458
+Bek was obviously
+working with Bareil,
+
+432
+00:25:42,458 --> 00:25:45,961
+and when he realized
+the enormity of what he'd done,
+
+433
+00:25:45,961 --> 00:25:47,838
+he must have wanted to confess.
+
+434
+00:25:47,838 --> 00:25:49,507
+Bareil wouldn't
+allow it,
+
+435
+00:25:49,507 --> 00:25:52,051
+so Bek took the
+only way out he had.
+
+436
+00:25:52,051 --> 00:25:55,346
 That's a fascinating story,
 but it is pure conjecture.
 
-431
-00:25:56,512 --> 00:25:58,745
+437
+00:25:55,346 --> 00:25:57,639
 There have to be
 a dozen explanations
 
-432
-00:25:58,783 --> 00:26:01,779
-for why Bareil
-came to see Bek.
+438
+00:25:57,639 --> 00:26:00,726
+for why Bareil came
+to see Bek.
 
-433
-00:26:01,823 --> 00:26:03,122
+439
+00:26:00,726 --> 00:26:02,686
 And it's up to you
 
-434
-00:26:03,160 --> 00:26:06,224
+440
+00:26:02,686 --> 00:26:05,439
 to find out which of these
 explanations is true.
 
-435
-00:26:08,471 --> 00:26:12,104
+441
+00:26:07,358 --> 00:26:11,111
 What exactly is it
 you're asking me, Nerys?
 
-436
-00:26:16,455 --> 00:26:19,222
+442
+00:26:11,111 --> 00:26:13,947
+(<i> sighs</i> )
+
+443
+00:26:15,241 --> 00:26:18,327
 I guess I'm asking
 whether or not
 
-437
-00:26:19,262 --> 00:26:23,067
+444
+00:26:18,327 --> 00:26:21,997
 you came to the station
 to see Bek that day.
 
-438
-00:26:23,103 --> 00:26:24,595
+445
+00:26:21,997 --> 00:26:23,374
 I visited Bek, yes.
 
-439
-00:26:24,640 --> 00:26:27,579
+446
+00:26:23,374 --> 00:26:26,377
 That hardly makes me
 a collaborator.
 
-440
-00:26:27,613 --> 00:26:28,774
+447
+00:26:26,377 --> 00:26:27,961
 I know that.
 
-441
-00:26:28,815 --> 00:26:31,845
+448
+00:26:27,961 --> 00:26:30,714
 It's Vedek Winn
 who needs convincing.
 
-442
-00:26:31,889 --> 00:26:33,586
+449
+00:26:30,714 --> 00:26:32,799
 Oh, poor Winn.
 
-443
-00:26:33,626 --> 00:26:37,590
+450
+00:26:32,799 --> 00:26:36,178
 Her desire to become kai
 has clouded her judgment.
 
-444
-00:26:37,635 --> 00:26:39,605
-I wouldn't take her so lightly,
+451
+00:26:36,178 --> 00:26:38,389
+I wouldn't take
+her so lightly,
 if I were you.
 
-445
-00:26:39,639 --> 00:26:41,632
+452
+00:26:38,389 --> 00:26:40,433
 She is determined to ruin you.
 
-446
-00:26:41,678 --> 00:26:45,379
-Believe me when I tell you
+453
+00:26:40,433 --> 00:26:42,268
+Believe me
+when I tell you
+
+454
+00:26:42,268 --> 00:26:44,019
 there's no reason to worry.
 
-447
-00:26:45,419 --> 00:26:47,982
+455
+00:26:44,019 --> 00:26:46,855
 I had nothing to do
-with the massacre
+with the massacre,
 
-448
-00:26:48,091 --> 00:26:51,496
+456
+00:26:46,855 --> 00:26:50,443
 and Winn will never
 be able to prove otherwise.
 
-449
-00:26:51,533 --> 00:26:53,400
+457
+00:26:50,443 --> 00:26:52,486
 All right.
 
-450
-00:26:53,437 --> 00:26:59,644
+458
+00:26:52,486 --> 00:26:58,492
 But... I still need to know
 why you came to the station.
 
-451
-00:26:59,683 --> 00:27:04,422
+459
+00:26:58,492 --> 00:27:03,122
 Bek was a deeply troubled man
 seeking spiritual guidance.
 
-452
-00:27:04,461 --> 00:27:07,866
+460
+00:27:03,122 --> 00:27:06,750
 His guilt at betraying
 the Kendra Valley base
 
-453
-00:27:07,901 --> 00:27:09,200
+461
+00:27:06,750 --> 00:27:08,127
 was overwhelming.
 
-454
-00:27:09,238 --> 00:27:10,502
-He called me for help.
+462
+00:27:08,127 --> 00:27:09,295
+He called me
+for help.
 
-455
-00:27:10,540 --> 00:27:12,066
-I came as soon as I could.
+463
+00:27:09,295 --> 00:27:10,921
+I came as soon
+as I could.
 
-456
-00:27:12,111 --> 00:27:14,104
+464
+00:27:10,921 --> 00:27:12,965
 I only wish I could have done
 more for him.
 
-457
-00:27:14,149 --> 00:27:16,586
+465
+00:27:12,965 --> 00:27:15,384
 What did he tell you
 about the massacre?
 
-458
-00:27:16,621 --> 00:27:18,352
-Nerys, you must understand
+466
+00:27:15,384 --> 00:27:17,261
+Nerys, you must understand,
 
-459
-00:27:18,392 --> 00:27:21,695
+467
+00:27:17,261 --> 00:27:20,514
 he was a monk speaking
 in confidence to his Vedek.
 
-460
-00:27:21,732 --> 00:27:23,565
+468
+00:27:20,514 --> 00:27:22,349
 I cannot betray that trust.
 
-461
-00:27:23,603 --> 00:27:25,904
+469
+00:27:22,349 --> 00:27:24,768
 I understand.
 
-462
-00:27:25,941 --> 00:27:30,212
+470
+00:27:24,768 --> 00:27:29,064
 Is there anything else you think
-I should know about Bek
+I should know about Bek,
 
-463
-00:27:30,251 --> 00:27:31,914
-about the massacre?
+471
+00:27:29,064 --> 00:27:30,816
+about the
+massacre?
 
-464
-00:27:31,954 --> 00:27:33,981
+472
+00:27:30,816 --> 00:27:32,859
 Nothing that will satisfy Winn.
 
-465
-00:27:34,025 --> 00:27:36,588
+473
+00:27:32,859 --> 00:27:35,321
 All right.
 
-466
-00:27:36,632 --> 00:27:38,659
-I'll keep looking
+474
+00:27:35,321 --> 00:27:37,448
+I'll keep looking,
 
-467
-00:27:38,703 --> 00:27:40,138
-but one way or another
+475
+00:27:37,448 --> 00:27:39,492
+but one way or another,
 
-468
-00:27:40,173 --> 00:27:43,510
+476
+00:27:39,492 --> 00:27:42,244
 I am going to prove to Winn
 that you are innocent.
 
-469
-00:27:43,547 --> 00:27:45,984
+477
+00:27:42,244 --> 00:27:44,871
 Thank you, Nerys.
 
-470
-00:27:57,611 --> 00:27:59,513
+478
+00:27:56,300 --> 00:27:58,218
 Ha, just as I thought.
 
-471
-00:27:59,548 --> 00:28:01,017
+479
+00:27:58,218 --> 00:27:59,761
 When the Cardassians left
 
-472
-00:28:01,052 --> 00:28:03,421
+480
+00:27:59,761 --> 00:28:02,181
 they purged all records
 of communication
 
-473
-00:28:03,457 --> 00:28:05,222
+481
+00:28:02,181 --> 00:28:04,099
 between the station and Bajor.
 
-474
-00:28:05,261 --> 00:28:07,391
+482
+00:28:04,099 --> 00:28:07,394
 Then we'll just have
 to get the information
-
-475
-00:28:07,432 --> 00:28:08,696
 from the other end.
 
-476
-00:28:08,735 --> 00:28:10,432
-I'll establish a computer link
+483
+00:28:07,394 --> 00:28:09,104
+I'll establish
+a computer link
 
-477
-00:28:10,472 --> 00:28:12,442
+484
+00:28:09,104 --> 00:28:11,190
 with the Bajoran
 Central Archives.
 
-478
-00:28:12,477 --> 00:28:15,644
-That way, I can access the files
-of the Vedek Assembly.
-
-479
-00:28:25,505 --> 00:28:26,872
-Are you all right?
-
-480
-00:28:26,909 --> 00:28:28,378
-I'm fine.
-
-481
-00:28:28,412 --> 00:28:31,544
-You don't seem fine.
-
-482
-00:28:31,585 --> 00:28:33,749
-It's nothing.
-
-483
-00:28:33,790 --> 00:28:35,419
-Uh-huh.
-
-484
-00:28:35,461 --> 00:28:37,363
-If you say so.
-
 485
-00:28:37,398 --> 00:28:40,462
-He says he's not guilty.
+00:28:11,190 --> 00:28:13,233
+That way, I can
+access the files
 
 486
-00:28:40,505 --> 00:28:43,478
-I know he's not guilty.
+00:28:13,233 --> 00:28:14,485
+of the Vedek Assembly.
 
 487
-00:28:43,512 --> 00:28:45,141
-But you're afraid he's guilty.
+00:28:24,203 --> 00:28:25,663
+Are you all right?
 
 488
-00:28:46,752 --> 00:28:48,585
-I love him, Odo.
+00:28:25,663 --> 00:28:27,206
+I'm fine.
 
 489
-00:28:51,095 --> 00:28:53,088
-Really?
+00:28:27,206 --> 00:28:30,250
+You don't
+seem fine.
 
 490
-00:28:54,536 --> 00:28:58,101
-Well, I, uh...
+00:28:30,250 --> 00:28:32,586
+It's nothing.
 
 491
-00:28:58,143 --> 00:29:00,307
-What?
+00:28:32,586 --> 00:28:34,380
+Uh-huh.
 
 492
-00:29:00,349 --> 00:29:02,216
-I was just wondering
+00:28:34,380 --> 00:28:36,298
+If you say so.
 
 493
-00:29:02,253 --> 00:29:05,852
+00:28:36,298 --> 00:28:39,426
+He says he's not guilty.
+
+494
+00:28:39,426 --> 00:28:42,346
+I know he's not guilty.
+
+495
+00:28:42,346 --> 00:28:44,056
+But you're afraid he's guilty.
+
+496
+00:28:45,516 --> 00:28:47,351
+I love him, Odo.
+
+497
+00:28:49,936 --> 00:28:51,980
+Really?
+
+498
+00:28:53,440 --> 00:28:56,943
+Well, I, uh...
+
+499
+00:28:56,943 --> 00:28:59,196
+What?
+
+500
+00:28:59,196 --> 00:29:00,989
+I was just wondering
+
+501
+00:29:00,989 --> 00:29:04,702
 when you were going
 to figure that out.
 
-494
-00:29:05,895 --> 00:29:07,455
+502
+00:29:04,702 --> 00:29:06,286
 You humanoids.
 
-495
-00:29:07,497 --> 00:29:09,364
+503
+00:29:06,286 --> 00:29:08,247
 When it comes
-to emotional attachments
+to emotional
+attachments,
 
-496
-00:29:09,402 --> 00:29:11,099
-you never see the obvious.
+504
+00:29:08,247 --> 00:29:09,956
+you never see
+the obvious.
 
-497
-00:29:11,206 --> 00:29:14,110
+505
+00:29:09,956 --> 00:29:13,043
 Ah, I'm into
 the Vedek Assembly files.
 
-498
-00:29:14,178 --> 00:29:16,649
+506
+00:29:13,043 --> 00:29:15,337
 Can you retrieve
 the communication files
 
-499
-00:29:16,684 --> 00:29:18,985
+507
+00:29:15,337 --> 00:29:17,839
 between the station
 and the Assembly?
 
-500
-00:29:19,023 --> 00:29:20,549
+508
+00:29:17,839 --> 00:29:19,841
 I'll need a time frame.
 
-501
-00:29:20,593 --> 00:29:23,828
+509
+00:29:19,841 --> 00:29:22,553
 Uh, try the week leading up
 to the Kendra massacre.
 
-502
-00:29:27,007 --> 00:29:28,567
+510
+00:29:25,764 --> 00:29:27,307
 That's odd.
 
-503
-00:29:28,611 --> 00:29:30,844
+511
+00:29:27,307 --> 00:29:29,560
 What?
 
-504
-00:29:30,883 --> 00:29:33,616
+512
+00:29:29,560 --> 00:29:32,271
 All the communications records
 between the Assembly members
 
-505
-00:29:33,655 --> 00:29:35,454
+513
+00:29:32,271 --> 00:29:34,356
 and Bek for that week
 have been sealed.
 
-506
-00:29:35,492 --> 00:29:36,984
-- Sealed? By who?
-- It doesn't say.
+514
+00:29:34,356 --> 00:29:35,774
+Sealed? By who?
+It doesn't say.
 
-507
-00:29:37,029 --> 00:29:39,364
+515
+00:29:35,774 --> 00:29:38,151
 It just indicates
 a security seal.
 
-508
-00:29:39,401 --> 00:29:41,064
+516
+00:29:38,151 --> 00:29:39,778
 In the Assembly records?
 
-509
-00:29:41,105 --> 00:29:43,338
+517
+00:29:39,778 --> 00:29:42,114
 Who has that kind of authority?
 
-510
-00:29:45,481 --> 00:29:47,474
+518
+00:29:44,199 --> 00:29:46,285
 Only a Vedek.
 
-511
-00:29:55,536 --> 00:30:00,775
-One, two, three, four, five
+519
+00:29:54,334 --> 00:29:58,046
+QUARK:
+One, two, three,
 
-512
-00:30:00,814 --> 00:30:07,284
-six, seven, eight, nine, ten.
+520
+00:29:58,046 --> 00:29:59,673
+four, five,
 
-513
-00:30:08,599 --> 00:30:10,228
+521
+00:29:59,673 --> 00:30:02,217
+six, seven,
+
+522
+00:30:02,217 --> 00:30:06,346
+eight, nine, ten.
+
+523
+00:30:07,431 --> 00:30:09,266
 Okay, okay.
 
-514
-00:30:10,269 --> 00:30:13,572
+524
+00:30:09,266 --> 00:30:12,436
 Eleven...
 
-515
-00:30:13,610 --> 00:30:16,514
+525
+00:30:12,436 --> 00:30:15,314
 Fine, 12, 13, 14.
 
-516
-00:30:18,119 --> 00:30:20,590
+526
+00:30:15,314 --> 00:30:17,107
+(<i> giggling</i> )
+
+527
+00:30:17,107 --> 00:30:19,401
 And not a strip more.
 
-517
-00:30:20,625 --> 00:30:22,288
+528
+00:30:19,401 --> 00:30:21,320
 I hate payday.
 
-518
-00:30:26,237 --> 00:30:28,264
+529
+00:30:21,320 --> 00:30:22,780
+(<i> clears throat</i> )
+
+530
+00:30:25,073 --> 00:30:27,367
 Whatever she told you,
 I didn't do it.
 
-519
-00:30:28,375 --> 00:30:29,844
+531
+00:30:27,367 --> 00:30:28,661
 Relax, Quark.
 
-520
-00:30:29,878 --> 00:30:32,714
+532
+00:30:28,661 --> 00:30:31,413
 No one's accusing you
 of anything.
 
-521
-00:30:32,752 --> 00:30:34,449
-Eh, the day's still young.
+533
+00:30:31,413 --> 00:30:33,165
+Eh, the day's
+still young.
 
-522
-00:30:34,489 --> 00:30:36,254
-Don't be so defensive.
+534
+00:30:33,165 --> 00:30:35,208
+Don't be
+so defensive.
 
-523
-00:30:36,293 --> 00:30:36,955
+535
+00:30:35,208 --> 00:30:36,376
 I can't help it.
 
-524
-00:30:37,088 --> 00:30:38,387
-Between the two of you
+536
+00:30:36,376 --> 00:30:37,795
+Between the two of you,
 
-525
-00:30:38,424 --> 00:30:40,657
+537
+00:30:37,795 --> 00:30:40,255
 I'm developing
 a persecution complex.
 
-526
-00:30:40,763 --> 00:30:42,528
-I'm sorry to hear that.
+538
+00:30:40,255 --> 00:30:42,090
+KIRA:
+I'm sorry
+to hear that.
 
-527
-00:30:42,566 --> 00:30:44,833
+539
+00:30:42,090 --> 00:30:44,217
 All right.
 
-528
-00:30:44,872 --> 00:30:48,573
+540
+00:30:44,217 --> 00:30:46,720
 What's going on?
 
-529
-00:30:48,614 --> 00:30:51,985
+541
+00:30:48,013 --> 00:30:51,141
 You want something from me,
 don't you?
 
-530
-00:30:52,021 --> 00:30:52,989
+542
+00:30:51,141 --> 00:30:53,519
 How did you guess?
-
-531
-00:30:53,023 --> 00:30:54,150
 It's simple.
 
-532
-00:30:54,192 --> 00:30:55,684
+543
+00:30:53,519 --> 00:30:55,228
 We've been here
-more than a minute
+more than a minute,
 
-533
-00:30:55,796 --> 00:30:57,857
+544
+00:30:55,228 --> 00:30:57,272
 and we haven't insulted him,
-threatened him
+threatened him,
 
-534
-00:30:57,901 --> 00:30:59,268
+545
+00:30:57,272 --> 00:30:58,732
 or arrested him.
 
-535
-00:30:59,303 --> 00:31:00,567
+546
+00:30:58,732 --> 00:31:00,108
 Exactly.
 So, what is it?
 
-536
-00:31:00,606 --> 00:31:03,442
+547
+00:31:00,108 --> 00:31:03,028
 And how much trouble
 is it going to cause me?
 
-537
-00:31:03,479 --> 00:31:04,948
+548
+00:31:03,028 --> 00:31:04,613
 No trouble at all.
 
-538
-00:31:04,982 --> 00:31:08,478
+549
+00:31:04,613 --> 00:31:07,324
 We just need you to
 bypass a security seal.
 
-539
-00:31:08,524 --> 00:31:10,357
+550
+00:31:07,324 --> 00:31:09,909
 Isn't that illegal?
 
-540
-00:31:10,395 --> 00:31:11,659
+551
+00:31:09,909 --> 00:31:11,203
 Oh, spare us.
 
-541
-00:31:11,697 --> 00:31:12,926
-Quark, this is important.
+552
+00:31:11,203 --> 00:31:13,079
+Quark, this
+is important.
 
-542
-00:31:12,967 --> 00:31:15,336
+553
+00:31:13,079 --> 00:31:14,790
 We need access to certain
 communication files
 
-543
-00:31:15,372 --> 00:31:16,898
-in the Vedek Assembly records.
+554
+00:31:14,790 --> 00:31:16,709
+in the Vedek
+Assembly records.
 
-544
-00:31:16,943 --> 00:31:19,676
-Perfect... not only is it
+555
+00:31:16,709 --> 00:31:19,169
+Perfect-- not only is it
 illegal, it's sacrilegious.
 
-545
-00:31:19,748 --> 00:31:23,188
+556
+00:31:19,169 --> 00:31:21,880
 I'm sure the Prophets
 won't mind just this once.
 
-546
-00:31:23,223 --> 00:31:24,692
+557
+00:31:21,880 --> 00:31:24,383
 Okay, but I'm going
 to have to have
 
-547
-00:31:24,793 --> 00:31:27,594
+558
+00:31:24,383 --> 00:31:26,760
 written authorization from you,
 countersigned by Commander...
 
-548
-00:31:27,632 --> 00:31:28,691
+559
+00:31:26,760 --> 00:31:28,387
 Just do it, Quark!
 
-549
-00:31:28,802 --> 00:31:31,103
+560
+00:31:28,387 --> 00:31:30,556
 Sure, when things go wrong,
 I take the fall!
 
-550
-00:31:31,141 --> 00:31:32,474
-Nothing is going to go wrong!
+561
+00:31:30,556 --> 00:31:32,015
+Nothing is going
+to go wrong!
 
-551
-00:31:32,510 --> 00:31:33,705
+562
+00:31:32,015 --> 00:31:33,350
 That's what you think!
 
-552
-00:31:33,779 --> 00:31:35,681
+563
+00:31:33,350 --> 00:31:35,268
 But I happen to be
 a firm believer
 
-553
-00:31:35,717 --> 00:31:37,619
+564
+00:31:35,268 --> 00:31:37,187
 In Rule of Acquisition
 Number 285:
 
-554
-00:31:37,654 --> 00:31:39,715
-"No good deed
-ever goes unpunished."
+565
+00:31:37,187 --> 00:31:39,356
+"No good deed ever
+goes unpunished."
 
-555
-00:31:41,763 --> 00:31:43,859
-You can access
-the Vedek Assembly records
+566
+00:31:41,233 --> 00:31:43,151
+You can access the
+Vedek Assembly records
 
-556
-00:31:43,902 --> 00:31:46,396
+567
+00:31:43,151 --> 00:31:45,945
 through the Bajoran
 Central Archives.
 
-557
-00:31:46,440 --> 00:31:48,171
-Of course, I can
+568
+00:31:45,945 --> 00:31:47,614
+Of course I can,
 
-558
-00:31:48,211 --> 00:31:51,616
+569
+00:31:47,614 --> 00:31:51,201
 if I wanted to barge in
 like some rank amateur.
 
-559
-00:31:56,629 --> 00:31:59,260
+570
+00:31:56,122 --> 00:31:58,625
 This is going to take
 a little while.
 
-560
-00:31:59,302 --> 00:32:01,637
+571
+00:31:58,625 --> 00:32:01,211
 I'll let you know
 when I'm done.
 
-561
-00:32:07,821 --> 00:32:09,620
-It happened right about here.
+572
+00:32:07,342 --> 00:32:09,135
+It happened
+right about here.
 
-562
-00:32:09,658 --> 00:32:12,961
+573
+00:32:09,135 --> 00:32:12,431
 Bek hanged himself in front
 of dozens of witnesses.
 
-563
-00:32:12,999 --> 00:32:14,298
+574
+00:32:12,431 --> 00:32:13,807
 Caused quite a stir.
 
-564
-00:32:14,335 --> 00:32:16,168
-At least he had the decency
+575
+00:32:13,807 --> 00:32:15,601
+At least he had
+the decency
 
-565
-00:32:16,206 --> 00:32:18,142
+576
+00:32:15,601 --> 00:32:17,644
 to feel guilty
 about what he'd done.
 
-566
-00:32:18,177 --> 00:32:19,476
+577
+00:32:17,644 --> 00:32:18,937
 Strange.
 
-567
-00:32:19,513 --> 00:32:21,506
+578
+00:32:18,937 --> 00:32:21,064
 Bek and I were
 passing acquaintances
 
-568
-00:32:21,551 --> 00:32:22,678
+579
+00:32:21,064 --> 00:32:22,315
 here on the station.
 
-569
-00:32:22,720 --> 00:32:24,553
+580
+00:32:22,315 --> 00:32:24,067
 From what little
-I knew about him
+I knew about him,
 
-570
-00:32:24,591 --> 00:32:26,561
+581
+00:32:24,067 --> 00:32:25,652
 I always thought
 he was a good man.
 
-571
-00:32:26,595 --> 00:32:29,499
+582
+00:32:25,652 --> 00:32:28,530
 A good man does not betray
 his own people.
 
-572
-00:32:29,535 --> 00:32:32,975
+583
+00:32:28,530 --> 00:32:31,991
 The one thing
 I've learned about humanoids
 
-573
-00:32:33,010 --> 00:32:35,447
-is that in extreme situations
+584
+00:32:31,991 --> 00:32:34,536
+is that in extreme situations,
 
-574
-00:32:35,482 --> 00:32:40,323
+585
+00:32:34,536 --> 00:32:39,332
 even the best of you are capable
 of doing terrible things.
 
-575
-00:32:40,359 --> 00:32:41,726
+586
+00:32:39,332 --> 00:32:40,918
+QUARK:
 Hey.
 
-576
-00:32:41,762 --> 00:32:43,391
+587
+00:32:40,918 --> 00:32:42,544
 Hey, Odo.
 
-577
-00:32:46,606 --> 00:32:48,132
+588
+00:32:45,756 --> 00:32:47,132
 The good news is
 
-578
-00:32:48,176 --> 00:32:50,340
+589
+00:32:47,132 --> 00:32:49,384
 I broke through
 the security seal.
 
-579
-00:32:50,381 --> 00:32:52,909
+590
+00:32:49,384 --> 00:32:52,095
 The bad news is,
 the file is empty.
 
-580
-00:32:52,953 --> 00:32:55,516
+591
+00:32:52,095 --> 00:32:54,681
 All the messages
 have been erased.
 
-581
-00:33:02,942 --> 00:33:04,309
+592
+00:33:01,897 --> 00:33:03,440
 They're erased, all right.
 
-582
-00:33:04,345 --> 00:33:06,338
+593
+00:33:03,440 --> 00:33:05,400
 Is there anything
 you can do about it?
 
-583
-00:33:06,383 --> 00:33:08,376
-I could scan
-the empty file for traces
+594
+00:33:05,400 --> 00:33:07,444
+I could scan the
+empty file for traces
 
-584
-00:33:08,420 --> 00:33:10,014
-of recurring data fragments.
+595
+00:33:07,444 --> 00:33:08,946
+of recurring
+data fragments.
 
-585
-00:33:10,057 --> 00:33:11,583
-There's always a faint residue
+596
+00:33:08,946 --> 00:33:10,781
+There's always
+a faint residue
 
-586
-00:33:11,627 --> 00:33:13,757
-of the original data,
-if you know where to look.
+597
+00:33:10,781 --> 00:33:12,908
+of the original data, if
+you know where to look.
 
-587
-00:33:13,799 --> 00:33:15,530
+598
+00:33:12,908 --> 00:33:15,494
 But to unscramble
 those fragments
 
-588
-00:33:15,570 --> 00:33:17,199
-so they make
-a coherent pattern
+599
+00:33:15,494 --> 00:33:16,912
+so they make a
+coherent pattern
 
-589
-00:33:17,240 --> 00:33:19,073
+600
+00:33:16,912 --> 00:33:18,079
 could take a while.
 
-590
-00:33:19,111 --> 00:33:20,170
-So, what you're telling me is
+601
+00:33:18,079 --> 00:33:19,748
+So what you're
+telling me is
 
-591
-00:33:20,213 --> 00:33:21,807
+602
+00:33:19,748 --> 00:33:21,416
 we're never going
 to retrieve that information.
 
-592
-00:33:21,883 --> 00:33:24,377
+603
+00:33:21,416 --> 00:33:23,502
 Well, not in time
 to do you any good.
 
-593
-00:33:24,422 --> 00:33:26,221
+604
+00:33:23,502 --> 00:33:25,295
 But hold on a second.
 
-594
-00:33:26,260 --> 00:33:28,059
+605
+00:33:25,295 --> 00:33:27,088
 Let me see something.
 
-595
-00:33:28,097 --> 00:33:29,930
+606
+00:33:27,088 --> 00:33:29,090
 I may not be able
-to get you the data
+to get you the data,
 
-596
-00:33:29,968 --> 00:33:32,269
-but I might be able
-to find out who erased it.
+607
+00:33:29,090 --> 00:33:31,259
+but I might be able to
+find out who erased it.
 
-597
-00:33:32,306 --> 00:33:33,969
+608
+00:33:31,259 --> 00:33:32,928
 Their retinal scan
 would have been noted
 
-598
-00:33:34,010 --> 00:33:36,140
+609
+00:33:32,928 --> 00:33:35,054
 by the authorization
-subroutine when they logged on.
+subroutine when
+they logged on.
 
-599
-00:33:36,182 --> 00:33:38,847
+610
+00:33:35,054 --> 00:33:38,057
 But wouldn't the scans
 have been erased, too?
 
-600
-00:33:38,888 --> 00:33:41,587
+611
+00:33:38,057 --> 00:33:40,727
 Sure, but even a fragment
 of the retinal scan
 
-601
-00:33:41,627 --> 00:33:43,825
+612
+00:33:40,727 --> 00:33:42,980
 might be enough
 to identify the user.
 
-602
-00:33:43,865 --> 00:33:46,564
+613
+00:33:42,980 --> 00:33:45,732
 Here. I'll run a sweep
-of the authorization subroutine
+of the authorization subroutine,
 
-603
-00:33:46,604 --> 00:33:48,734
-see if we can find out anything.
+614
+00:33:45,732 --> 00:33:47,901
+see if we can find
+out anything.
 
-604
-00:33:48,776 --> 00:33:50,336
+615
+00:33:47,901 --> 00:33:49,319
 Okay.
 
-605
-00:33:50,380 --> 00:33:52,783
+616
+00:33:49,319 --> 00:33:51,864
 These are
 mathematical representations
 
-606
-00:33:52,818 --> 00:33:54,549
+617
+00:33:51,864 --> 00:33:53,949
 of a fragment
 of the retinal scan.
 
-607
-00:33:54,589 --> 00:33:58,222
+618
+00:33:53,949 --> 00:33:57,285
 We can use these to reassemble
 a portion of the original image.
 
-608
-00:34:00,100 --> 00:34:01,329
+619
+00:33:59,078 --> 00:34:00,163
 Not bad.
 
-609
-00:34:01,370 --> 00:34:04,605
-Now we'll cross-reference this
-with the Assembly's main archive
+620
+00:34:00,163 --> 00:34:02,123
+Now we'll
+cross-reference this
 
-610
-00:34:04,644 --> 00:34:07,617
+621
+00:34:02,123 --> 00:34:03,709
+with the Assembly's
+main archive,
+
+622
+00:34:03,709 --> 00:34:06,252
 see if we can find out
 who it is.
 
-611
-00:34:15,768 --> 00:34:18,239
+623
+00:34:14,887 --> 00:34:17,347
 I think we've got something.
 
-612
-00:34:29,966 --> 00:34:33,201
+624
+00:34:28,483 --> 00:34:31,904
+ALL:
 Blessings on Kai Bareil.
 
-613
-00:34:35,946 --> 00:34:38,850
+625
+00:34:34,406 --> 00:34:37,784
+MAN:
 You.
 
-614
-00:34:38,886 --> 00:34:42,326
+626
+00:34:37,784 --> 00:34:40,996
 I trusted you.
 
-615
-00:34:42,360 --> 00:34:44,490
+627
+00:34:40,996 --> 00:34:43,498
 I needed you.
 
-616
-00:34:44,531 --> 00:34:47,367
+628
+00:34:43,498 --> 00:34:46,334
 And you let me die.
 
-617
-00:35:06,580 --> 00:35:09,017
+629
+00:35:05,478 --> 00:35:07,940
 You will be rewarded.
 
-618
-00:35:19,375 --> 00:35:22,473
+630
+00:35:18,283 --> 00:35:21,494
 Accept this gift
 from the Prophets.
 
-619
-00:35:43,394 --> 00:35:46,925
+631
+00:35:27,417 --> 00:35:28,961
+(<i> grunting</i> )
+
+632
+00:35:28,961 --> 00:35:30,796
+(<i> dagger scraping</i> )
+
+633
+00:35:42,181 --> 00:35:45,769
 May the Prophets
 comfort you, my child.
 
-620
-00:35:46,968 --> 00:35:49,098
+634
+00:35:45,769 --> 00:35:47,980
 May they comfort us all.
 
-621
-00:36:07,814 --> 00:36:09,784
+635
+00:36:04,997 --> 00:36:06,623
+(<i> knocking</i> )
+
+636
+00:36:06,623 --> 00:36:08,625
 Come in.
 
-622
-00:36:13,995 --> 00:36:16,091
+637
+00:36:12,796 --> 00:36:14,840
 Nerys.
 
-623
-00:36:16,133 --> 00:36:19,573
+638
+00:36:14,840 --> 00:36:18,510
 Did you really believe
 I wouldn't learn the truth?
 
-624
-00:36:19,607 --> 00:36:24,312
+639
+00:36:18,510 --> 00:36:23,222
 The truth is not
 always easy to recognize.
 
-625
-00:36:24,351 --> 00:36:26,321
-I recognize it now
+640
+00:36:23,222 --> 00:36:25,183
+I recognize it now,
 
-626
-00:36:26,355 --> 00:36:29,020
+641
+00:36:25,183 --> 00:36:27,894
 and I don't like what I see.
 
-627
-00:36:30,865 --> 00:36:32,334
+642
+00:36:29,604 --> 00:36:31,230
 Why did you do it?
 
-628
-00:36:32,369 --> 00:36:36,470
+643
+00:36:31,230 --> 00:36:33,441
 Why did you erase
+
+644
+00:36:33,441 --> 00:36:35,360
 those transmission records?
 
-629
-00:36:36,511 --> 00:36:39,712
+645
+00:36:35,360 --> 00:36:38,446
 Don't make me do this.
 
-630
-00:36:39,752 --> 00:36:41,688
+646
+00:36:38,446 --> 00:36:40,448
 I don't have any choice.
 
-631
-00:36:41,722 --> 00:36:44,353
+647
+00:36:40,448 --> 00:36:43,160
 Winn is waiting to hear from me.
 
-632
-00:36:44,395 --> 00:36:46,593
+648
+00:36:43,160 --> 00:36:45,453
 Do you really want me
 to tell her
 
-633
-00:36:46,633 --> 00:36:48,934
+649
+00:36:45,453 --> 00:36:47,706
 that you ordered Bek
 to give the Cardassians
 
-634
-00:36:48,972 --> 00:36:50,737
-the location
-of that resistance base?
+650
+00:36:47,706 --> 00:36:49,499
+the location of that
+resistance base?
 
-635
-00:36:50,776 --> 00:36:53,247
+651
+00:36:49,499 --> 00:36:52,002
 That you are responsible
 
-636
-00:36:53,281 --> 00:36:56,311
+652
+00:36:52,002 --> 00:36:55,213
 for the deaths
 of those 43 people?
 
-637
-00:36:59,394 --> 00:37:02,230
+653
+00:36:58,216 --> 00:37:01,094
 That you killed Kai Opaka's son?
 
-638
-00:37:12,222 --> 00:37:14,625
+654
+00:37:10,353 --> 00:37:13,523
 The Cardassians were determined
 
-639
-00:37:14,661 --> 00:37:18,432
+655
+00:37:13,523 --> 00:37:17,235
 to eliminate all resistance
 in the Kendra Valley.
 
-640
-00:37:18,470 --> 00:37:22,571
+656
+00:37:17,235 --> 00:37:21,447
 If someone hadn't told them
-the location of that base
+the location of that base,
 
-641
-00:37:22,612 --> 00:37:26,644
+657
+00:37:21,447 --> 00:37:25,577
 they would have wiped out
 every village in the area.
 
-642
-00:37:26,688 --> 00:37:30,493
+658
+00:37:25,577 --> 00:37:29,247
 That would have meant the death
 of 1,200 innocent Bajorans.
 
-643
-00:37:32,266 --> 00:37:34,115
+659
+00:37:30,749 --> 00:37:33,334
 I could not allow that.
 
-644
-00:37:34,249 --> 00:37:36,846
+660
+00:37:33,334 --> 00:37:36,129
 There had to have been
 another way.
 
-645
-00:37:39,594 --> 00:37:43,626
-I believed in you...
+661
+00:37:38,924 --> 00:37:42,802
+I believed in you.
 
-646
-00:37:43,670 --> 00:37:47,405
-I defended you
+662
+00:37:42,802 --> 00:37:46,514
+I defended you,
 
-647
-00:37:47,445 --> 00:37:50,441
+663
+00:37:46,514 --> 00:37:49,601
 and Winn was right all along.
 
-648
-00:37:53,458 --> 00:37:56,328
+664
+00:37:52,437 --> 00:37:55,648
 And now she's going
 to destroy you.
 
-649
-00:37:56,364 --> 00:37:58,300
+665
+00:37:55,648 --> 00:37:57,400
 No.
 
-650
-00:37:59,805 --> 00:38:02,538
+666
+00:37:58,902 --> 00:38:01,780
 I've destroyed myself.
 
-651
-00:38:16,008 --> 00:38:17,307
+667
+00:38:15,210 --> 00:38:16,335
 What's our status?
 
-652
-00:38:17,344 --> 00:38:18,973
-Everything is under control.
+668
+00:38:16,335 --> 00:38:18,255
+Everything is
+under control.
 
-653
-00:38:19,015 --> 00:38:21,145
+669
+00:38:18,255 --> 00:38:20,506
 You received
 a subspace transmission
 
-654
-00:38:21,185 --> 00:38:23,452
+670
+00:38:20,506 --> 00:38:22,592
 from Vedek Winn.
 
-655
-00:38:23,491 --> 00:38:25,393
+671
+00:38:22,592 --> 00:38:24,427
 She seemed anxious
 to talk to you.
 
-656
-00:38:25,428 --> 00:38:27,524
-Open a channel
-to the Vedek Assembly.
+672
+00:38:24,427 --> 00:38:26,721
+Open a channel to
+the Vedek Assembly.
 
-657
-00:38:27,566 --> 00:38:28,967
+673
+00:38:26,721 --> 00:38:28,181
 Put it on monitor seven.
 
-658
-00:38:29,002 --> 00:38:31,029
+674
+00:38:28,181 --> 00:38:30,349
 I might as well
 get this over with.
 
-659
-00:38:34,581 --> 00:38:38,112
-I was wondering
-when you'd contact me, child.
+675
+00:38:33,645 --> 00:38:37,356
+I was wondering when
+you'd contact me, child.
 
-660
-00:38:38,156 --> 00:38:40,719
+676
+00:38:37,356 --> 00:38:39,901
 I was waiting to complete
 my investigation.
 
-661
-00:38:40,762 --> 00:38:43,929
-I must congratulate you
+677
+00:38:39,901 --> 00:38:41,444
+I must
+congratulate you
+
+678
+00:38:41,444 --> 00:38:43,613
 on a job well done.
 
-662
-00:38:43,968 --> 00:38:47,601
+679
+00:38:43,613 --> 00:38:46,699
 I knew the Prophets were right
 in picking you to assist me.
 
-663
-00:38:47,677 --> 00:38:50,205
+680
+00:38:46,699 --> 00:38:49,327
 You sound like you already know
 what I'm going to tell you.
 
-664
-00:38:50,249 --> 00:38:51,376
+681
+00:38:49,327 --> 00:38:50,829
 Oh, but I do.
 
-665
-00:38:51,418 --> 00:38:54,391
+682
+00:38:50,829 --> 00:38:53,456
 Bareil has just made
 a surprise announcement
 
-666
-00:38:54,425 --> 00:38:55,552
+683
+00:38:53,456 --> 00:38:54,958
 to the Vedek Assembly.
 
-667
-00:38:55,594 --> 00:38:57,724
+684
+00:38:54,958 --> 00:38:56,793
 He's withdrawn himself
 from the choosing.
 
-668
-00:38:57,766 --> 00:39:01,262
+685
+00:38:56,793 --> 00:39:00,463
 He no longer wishes
 to be the next kai.
 
-669
-00:39:01,307 --> 00:39:03,574
+686
+00:39:00,463 --> 00:39:02,757
 I know this is painful
-for you, child
+for you, child,
 
-670
-00:39:03,679 --> 00:39:06,846
+687
+00:39:02,757 --> 00:39:06,011
 but you've done a great service
 for all of Bajor.
 
-671
-00:39:06,886 --> 00:39:10,850
+688
+00:39:06,011 --> 00:39:10,015
 Whoever is chosen
 tomorrow as the new kai
 
-672
-00:39:10,895 --> 00:39:13,834
+689
+00:39:10,015 --> 00:39:13,059
 will owe you
 a debt of gratitude.
 
-673
-00:39:13,868 --> 00:39:16,396
+690
+00:39:13,059 --> 00:39:15,561
 May the Prophets guide you.
 
-674
-00:39:42,130 --> 00:39:44,191
+691
+00:39:19,607 --> 00:39:21,400
+(<i> sighs</i> )
+
+692
+00:39:41,379 --> 00:39:43,422
 Are you all right?
 
-675
-00:39:44,235 --> 00:39:45,670
+693
+00:39:43,422 --> 00:39:44,716
 It doesn't make sense.
 
-676
-00:39:45,704 --> 00:39:47,674
+694
+00:39:44,716 --> 00:39:46,759
 Vedek Bareil is
 an honorable man.
 
-677
-00:39:47,776 --> 00:39:50,213
+695
+00:39:46,759 --> 00:39:49,470
 He wouldn't hide
 from the consequences
 
-678
-00:39:50,248 --> 00:39:52,446
+696
+00:39:49,470 --> 00:39:51,472
 of his actions
 by covering them up.
 
-679
-00:39:52,487 --> 00:39:54,685
+697
+00:39:51,472 --> 00:39:53,933
 I'm missing something.
 
-680
-00:39:54,791 --> 00:39:56,226
+698
+00:39:53,933 --> 00:39:55,476
 Chief.
 
-681
-00:39:56,261 --> 00:39:59,462
-I need to get back into
-the Vedek Assembly archives.
+699
+00:39:55,476 --> 00:39:56,728
+I need to get back
 
-682
-00:39:59,502 --> 00:40:01,495
+700
+00:39:56,728 --> 00:39:58,563
+into the Vedek
+Assembly archives.
+
+701
+00:39:58,563 --> 00:40:00,606
 Yes, sir.
 
-683
-00:40:47,106 --> 00:40:49,373
+702
+00:40:46,236 --> 00:40:48,613
 Kai Winn.
 
-684
-00:40:52,217 --> 00:40:55,679
-Your <i>pagh</i> is strong, my child.
+703
+00:40:51,324 --> 00:40:54,744
+Your<i> pagh</i> is strong,
+my child.
 
-685
-00:40:55,725 --> 00:40:57,821
+704
+00:40:54,744 --> 00:40:56,913
 Be at peace.
 
-686
-00:40:57,896 --> 00:41:01,461
+705
+00:40:56,913 --> 00:41:00,375
 In time, you will learn
 I am not your enemy.
 
-687
-00:41:01,504 --> 00:41:03,771
+706
+00:41:00,375 --> 00:41:03,002
 I hope that's true.
 
-688
-00:41:03,876 --> 00:41:06,507
+707
+00:41:03,002 --> 00:41:05,546
 I know you do.
 
-689
-00:41:06,548 --> 00:41:08,712
-Oh, and tell Commander Sisko
+708
+00:41:05,546 --> 00:41:07,799
+Oh, and tell
+Commander Sisko
 
-690
-00:41:08,754 --> 00:41:13,196
+709
+00:41:07,799 --> 00:41:12,095
 I must postpone appearing
 with him before the Assembly.
 
-691
-00:41:13,230 --> 00:41:14,631
+710
+00:41:12,095 --> 00:41:13,721
 At least for now.
 
-692
-00:41:37,984 --> 00:41:40,717
+711
+00:41:29,946 --> 00:41:32,657
+(<i> indistinct conversation</i> )
+
+712
+00:41:37,078 --> 00:41:39,705
 Nerys?
 
-693
-00:41:40,757 --> 00:41:43,354
+713
+00:41:39,705 --> 00:41:42,334
 I didn't expect
 to see you here.
 
-694
-00:41:43,396 --> 00:41:46,392
+714
+00:41:42,334 --> 00:41:45,628
 You forgot to erase
 the transit files.
 
-695
-00:41:48,107 --> 00:41:50,738
+715
+00:41:47,046 --> 00:41:49,715
 I'm not sure I understand
 what you mean.
 
-696
-00:41:50,779 --> 00:41:54,412
+716
+00:41:49,715 --> 00:41:53,511
 Oh, you did a wonderful job
 erasing the transmission reports
 
-697
-00:41:54,454 --> 00:41:57,153
+717
+00:41:53,511 --> 00:41:56,139
 but you forgot
-all about the transit files
+all about the transit files,
 
-698
-00:41:57,193 --> 00:41:59,687
+718
+00:41:56,139 --> 00:41:58,724
 the files that prove
 you weren't a collaborator.
 
-699
-00:42:01,971 --> 00:42:04,204
+719
+00:42:00,935 --> 00:42:03,396
 It's over.
 
-700
-00:42:04,242 --> 00:42:06,269
+720
+00:42:03,396 --> 00:42:05,482
 Let it rest.
 
-701
-00:42:06,313 --> 00:42:08,180
+721
+00:42:05,482 --> 00:42:07,317
 The people have chosen Winn.
 
-702
-00:42:08,217 --> 00:42:11,850
+722
+00:42:07,317 --> 00:42:10,987
 Only because you withdrew
 and you didn't have to.
 
-703
-00:42:11,893 --> 00:42:13,522
+723
+00:42:10,987 --> 00:42:12,530
 The transit reports clearly show
 
-704
-00:42:13,563 --> 00:42:15,499
+724
+00:42:12,530 --> 00:42:14,491
 you were on a personal retreat
 
-705
-00:42:15,534 --> 00:42:18,005
+725
+00:42:14,491 --> 00:42:16,951
 at the Dakeen Monastery
 during the week
 
-706
-00:42:18,039 --> 00:42:19,338
-leading up to the massacre.
+726
+00:42:16,951 --> 00:42:18,453
+leading up
+to the massacre.
 
-707
-00:42:19,376 --> 00:42:21,506
+727
+00:42:18,453 --> 00:42:20,497
 I checked the Dakeen
 transmission reports.
 
-708
-00:42:21,547 --> 00:42:23,984
+728
+00:42:20,497 --> 00:42:23,041
 You had contact with no one
 
-709
-00:42:24,019 --> 00:42:26,582
+729
+00:42:23,041 --> 00:42:25,502
 except one transmission
 after the massacre
 
-710
-00:42:26,624 --> 00:42:28,754
+730
+00:42:25,502 --> 00:42:27,795
 ordering you back
 to the Vedek Assembly.
 
-711
-00:42:28,796 --> 00:42:29,889
+731
+00:42:27,795 --> 00:42:29,005
 That's enough.
 
-712
-00:42:29,965 --> 00:42:32,459
+732
+00:42:29,005 --> 00:42:31,590
 No, it is not enough.
 
-713
-00:42:32,504 --> 00:42:36,275
-There is no way you ordered Bek
+733
+00:42:31,590 --> 00:42:35,345
+There is no way
+you ordered Bek
 
-714
-00:42:36,313 --> 00:42:40,152
+734
+00:42:35,345 --> 00:42:39,265
 to reveal the location of
 the Kendra Valley encampment.
 
-715
-00:42:40,188 --> 00:42:42,853
+735
+00:42:39,265 --> 00:42:41,809
 You were covering up
 for someone else.
 
-716
-00:42:42,894 --> 00:42:46,493
+736
+00:42:41,809 --> 00:42:45,604
 Someone who meant more
 to you than me.
 
-717
-00:42:46,535 --> 00:42:48,802
+737
+00:42:45,604 --> 00:42:47,815
 More to you even
 than becoming kai.
 
-718
-00:42:48,840 --> 00:42:51,505
+738
+00:42:47,815 --> 00:42:50,735
 Please, Nerys, don't.
 
-719
-00:42:51,546 --> 00:42:52,913
+739
+00:42:50,735 --> 00:42:51,861
 Why not?
 
-720
-00:42:52,949 --> 00:42:55,682
+740
+00:42:51,861 --> 00:42:54,697
 It's the truth, isn't it?
 
-721
-00:42:57,359 --> 00:43:00,332
-Who else meant that much to you?
+741
+00:42:56,366 --> 00:42:59,452
+Who else meant
+that much to you?
 
-722
-00:43:00,366 --> 00:43:02,633
+742
+00:42:59,452 --> 00:43:01,620
 It had to be Kai Opaka.
 
-723
-00:43:02,670 --> 00:43:07,375
-Opaka knew where the resistance
-cell was located...
+743
+00:43:01,620 --> 00:43:03,540
+Opaka knew where
 
-724
-00:43:09,886 --> 00:43:12,221
-because her son was a member.
+744
+00:43:03,540 --> 00:43:06,625
+the resistance cell
+was located...
 
-725
-00:43:14,397 --> 00:43:17,233
+745
+00:43:08,836 --> 00:43:11,423
+because her son
+was a member.
+
+746
+00:43:13,425 --> 00:43:16,386
 She was the collaborator,
 wasn't she?
 
-726
-00:43:17,269 --> 00:43:22,873
+747
+00:43:16,386 --> 00:43:20,765
 She sacrificed her own son
 to save 1,000 people.
 
-727
-00:43:22,915 --> 00:43:25,409
+748
+00:43:21,974 --> 00:43:24,643
 I had to protect her.
 
-728
-00:43:30,966 --> 00:43:32,435
+749
+00:43:30,024 --> 00:43:31,650
 So...
 
-729
-00:43:34,774 --> 00:43:38,579
-instead of you,
-we have Winn to lead us.
+750
+00:43:33,652 --> 00:43:37,782
+instead of you, we
+have Winn to lead us.
 
-730
-00:43:38,616 --> 00:43:41,281
-It is the will of the Prophets.
+751
+00:43:37,782 --> 00:43:40,452
+It is the will
+of the Prophets.
 
-731
-00:43:42,792 --> 00:43:44,785
+752
+00:43:41,744 --> 00:43:43,829
 The question is...
 
-732
-00:43:46,467 --> 00:43:48,563
-where will she lead us?
+753
+00:43:45,582 --> 00:43:47,792
+where will
+she lead us?
 
-733
-00:43:50,242 --> 00:43:53,340
+754
+00:43:49,294 --> 00:43:52,422
 Down paths she cannot
 possibly imagine.
 
-734
-00:43:53,382 --> 00:43:56,719
+755
+00:43:52,422 --> 00:43:55,633
 She's going to need
-our help along the way
+our help along the way,
 
-735
-00:43:56,756 --> 00:43:59,592
+756
+00:43:55,633 --> 00:43:58,803
 even if she doesn't
 realize it yet.
 
-736
-00:44:01,065 --> 00:44:02,967
+757
+00:44:00,054 --> 00:44:01,889
 What happens to us?
 
-737
-00:44:03,003 --> 00:44:05,406
+758
+00:44:01,889 --> 00:44:04,350
 What do you want to happen?
 
-738
-00:44:16,967 --> 00:44:20,463
-Let's go pay our respects
-to the new Kai.
+759
+00:44:13,151 --> 00:44:15,903
+(<i> sighs</i> )
 
+760
+00:44:15,903 --> 00:44:19,698
+Let's go pay our respects
+to the new kai.

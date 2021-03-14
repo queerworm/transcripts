@@ -1,3592 +1,3911 @@
-﻿1
-00:00:02,196 --> 00:00:05,829
-Station Log, Stardate 46729.1.
+1
+00:00:01,919 --> 00:00:05,631
+SISKO:
+<i>Station Log, Stardate 46729.1.</i>
 
 2
-00:00:05,870 --> 00:00:07,601
-The Bajoran government
-has asked me
+00:00:05,631 --> 00:00:07,048
+<i>The Bajoran government</i>
+<i>has asked me</i>
 
 3
-00:00:07,641 --> 00:00:08,904
-to mediate a disagreement
+00:00:07,048 --> 00:00:09,092
+<i>to mediate a disagreement</i>
 
 4
-00:00:08,943 --> 00:00:12,438
-between two rival factions,
-the Paqu and the Navot.
+00:00:09,092 --> 00:00:12,179
+<i>between two rival factions,</i>
+<i>the Paqu and the Navot.</i>
 
 5
-00:00:12,483 --> 00:00:14,180
-At issue is a land dispute
+00:00:12,179 --> 00:00:13,806
+<i>At issue is a land dispute</i>
 
 6
-00:00:14,220 --> 00:00:16,315
-which could trigger
-a civil war.
+00:00:13,806 --> 00:00:16,851
+<i>which could trigger</i>
+<i>a civil war.</i>
 
 7
-00:00:16,357 --> 00:00:20,354
+00:00:16,851 --> 00:00:20,020
 Commander, the Paqu delegation
 has arrived at Docking Port 6.
 
 8
-00:00:20,399 --> 00:00:21,959
+00:00:20,020 --> 00:00:21,814
 Let's welcome them aboard.
 
 9
-00:00:22,002 --> 00:00:23,665
+00:00:21,814 --> 00:00:23,357
 Dax, any word on the Navot?
 
 10
-00:00:23,706 --> 00:00:25,869
+00:00:23,357 --> 00:00:25,400
 They should be here
 within the hour.
 
 11
-00:00:25,910 --> 00:00:27,208
+00:00:25,400 --> 00:00:27,194
 Excuse me, Commander.
 
 12
-00:00:27,313 --> 00:00:29,876
+00:00:27,194 --> 00:00:29,655
 Chief, I thought you'd be
 on your way to Bajor by now.
 
 13
-00:00:29,918 --> 00:00:31,854
-We're due to leave any moment.
+00:00:29,655 --> 00:00:31,657
+We're due to leave
+any moment.
 
 14
-00:00:31,889 --> 00:00:33,518
-But, sir, I was wondering
+00:00:31,657 --> 00:00:33,241
+But, sir,
+I was wondering
 
 15
-00:00:33,559 --> 00:00:36,360
+00:00:33,241 --> 00:00:36,077
 if, perhaps, Ensign Boyer
 might replace me
 
 16
-00:00:36,397 --> 00:00:38,230
+00:00:36,077 --> 00:00:37,830
 on this particular mission.
 
 17
-00:00:38,268 --> 00:00:40,238
+00:00:37,830 --> 00:00:39,874
 After all, I'd be little more
 than a chauffeur
 
 18
-00:00:40,272 --> 00:00:42,903
-and Boyer can pilot a runabout
-just as well as I can.
+00:00:39,874 --> 00:00:41,166
+and Boyer can pilot
+a runabout
 
 19
-00:00:42,944 --> 00:00:44,242
-Has something come up
+00:00:41,166 --> 00:00:42,334
+just as well as I can.
 
 20
-00:00:44,347 --> 00:00:46,510
+00:00:42,334 --> 00:00:44,169
+Has something come up
+
+21
+00:00:44,169 --> 00:00:46,171
 that requires your presence
 on the station, Chief?
 
-21
-00:00:46,552 --> 00:00:49,045
+22
+00:00:46,171 --> 00:00:48,841
 No, sir. Everything's
 running smoothly for a change.
 
-22
-00:00:49,090 --> 00:00:51,117
-But around here, you never know.
-
 23
-00:00:51,160 --> 00:00:53,460
+00:00:48,841 --> 00:00:50,801
+But around here,
+you never know.
+
+24
+00:00:50,801 --> 00:00:52,803
 Ah, Chief, there you are.
 All set to go?
 
-24
-00:00:53,498 --> 00:00:54,591
+25
+00:00:52,803 --> 00:00:54,596
 Yes, sir.
 
-25
-00:00:54,634 --> 00:00:57,002
+26
+00:00:54,596 --> 00:00:56,724
 Commander, did the Magistrate
 give any indication
 
-26
-00:00:57,039 --> 00:00:59,202
+27
+00:00:56,724 --> 00:00:58,767
 as to the nature
 of this medical emergency?
 
-27
-00:00:59,243 --> 00:01:02,613
-Only that his village
+28
+00:00:58,767 --> 00:01:00,310
+Only that
+his village
+
+29
+00:01:00,310 --> 00:01:02,270
 was in danger of extinction.
 
-28
-00:01:02,650 --> 00:01:04,381
+30
+00:01:02,270 --> 00:01:04,147
 In that case,
 we'd better be on our way.
 
-29
-00:01:04,420 --> 00:01:05,752
+31
+00:01:04,147 --> 00:01:05,566
 I agree.
 
-30
-00:01:05,790 --> 00:01:06,758
+32
+00:01:05,566 --> 00:01:06,608
 Yes, sir.
 
-31
-00:01:06,792 --> 00:01:07,885
+33
+00:01:06,608 --> 00:01:07,818
 Docking Port 6.
 
-32
-00:01:07,927 --> 00:01:08,986
-You know, Chief, in a way
+34
+00:01:07,818 --> 00:01:09,361
+You know, Chief,
+in a way
 
-33
-00:01:09,029 --> 00:01:11,226
+35
+00:01:09,361 --> 00:01:10,946
 I'm really looking forward
 to this mission.
 
-34
-00:01:11,267 --> 00:01:12,428
+36
+00:01:10,946 --> 00:01:12,447
 And why is that?
 
-35
-00:01:12,469 --> 00:01:13,960
+37
+00:01:12,447 --> 00:01:13,866
 Well, I see it
 as a wonderful opportunity
 
-36
-00:01:14,006 --> 00:01:15,235
+38
+00:01:13,866 --> 00:01:14,950
 for us to get
 to know each other.
 
-37
-00:01:15,275 --> 00:01:16,766
+39
+00:01:14,950 --> 00:01:16,744
 Oh.
 
-38
-00:01:22,624 --> 00:01:24,526
+40
+00:01:22,207 --> 00:01:24,167
 I'd like you to set
 a preliminary meeting
 
-39
-00:01:24,560 --> 00:01:27,053
-with both sides
-for later this afternoon.
-
-40
-00:01:27,099 --> 00:01:29,969
-Make sure they know that this
-is an informal session.
-
 41
-00:01:30,005 --> 00:01:32,533
+00:01:24,167 --> 00:01:26,879
+with both sides for
+later this afternoon.
+
+42
+00:01:26,879 --> 00:01:29,715
+Make sure they know that
+this is an informal session.
+
+43
+00:01:29,715 --> 00:01:33,052
 I just want to get them
 talking to each other.
 
-42
-00:01:32,576 --> 00:01:35,810
+44
+00:01:33,052 --> 00:01:35,637
 Just getting them to sit down
 at the same table
 
-43
-00:01:35,850 --> 00:01:37,683
+45
+00:01:35,637 --> 00:01:37,431
 will be an accomplishment.
 
-44
-00:01:37,720 --> 00:01:41,056
-Sir, about these negotiations...
-
-45
-00:01:41,093 --> 00:01:42,561
-You have some advice for me?
-
 46
-00:01:45,670 --> 00:01:47,070
-There's an old saying on Bajor.
+00:01:37,431 --> 00:01:40,809
+Sir, about
+these negotiations...
 
 47
-00:01:47,105 --> 00:01:49,575
+00:01:40,809 --> 00:01:42,436
+You have some
+advice for me?
+
+48
+00:01:45,355 --> 00:01:46,899
+There's an old saying
+on Bajor.
+
+49
+00:01:46,899 --> 00:01:49,276
 "The land and the people
 are one."
 
-48
-00:01:49,611 --> 00:01:52,947
+50
+00:01:49,276 --> 00:01:52,738
 Well, the land inhabited
 by the Paqu and the Navot
 
-49
-00:01:52,984 --> 00:01:55,477
+51
+00:01:52,738 --> 00:01:54,907
 is some of the harshest
 on the planet.
 
-50
-00:01:55,522 --> 00:01:56,683
+52
+00:01:54,907 --> 00:01:56,575
 Relax, Major.
 
-51
-00:01:56,725 --> 00:01:59,322
-This is not my first time
-up at the plate.
-
-52
-00:01:59,363 --> 00:02:01,333
-Sir...
-
 53
-00:02:01,367 --> 00:02:03,530
-Besides, I'll have you
-by my side
+00:01:56,575 --> 00:01:58,994
+This is not my first
+time up at the plate.
 
 54
-00:02:03,571 --> 00:02:05,803
+00:01:58,994 --> 00:02:00,913
+Sir...
+
+55
+00:02:00,913 --> 00:02:03,290
+Besides, I'll have
+you by my side
+
+56
+00:02:03,290 --> 00:02:05,626
 to help me avoid
 making mistakes.
 
-55
-00:02:05,843 --> 00:02:09,009
+57
+00:02:05,626 --> 00:02:08,545
 Tell me what you know
 about the Paqu Tetrarch.
 
-56
-00:02:09,049 --> 00:02:10,278
+58
+00:02:08,545 --> 00:02:10,213
 Not much.
 
-57
-00:02:10,352 --> 00:02:13,483
+59
+00:02:10,213 --> 00:02:13,383
 The Paqu choose to avoid
 contact with outsiders.
 
-58
-00:02:17,667 --> 00:02:18,896
+60
+00:02:17,178 --> 00:02:18,555
 Commander Sisko?
 
-59
-00:02:18,936 --> 00:02:20,029
+61
+00:02:18,555 --> 00:02:20,057
 Yes?
 
-60
-00:02:20,071 --> 00:02:23,602
+62
+00:02:20,057 --> 00:02:23,518
 I am Varis Sul,
 Tetrarch of the Paqu.
 
-61
-00:04:40,689 --> 00:04:43,091
-Chief, may I ask you a question?
-
-62
-00:04:43,128 --> 00:04:44,289
-Of course.
-
 63
-00:04:44,330 --> 00:04:46,232
-And I'd like an honest answer.
+00:04:40,155 --> 00:04:42,532
+Chief, may I ask
+you a question?
 
 64
-00:04:46,267 --> 00:04:48,066
-You'll get one.
+00:04:42,532 --> 00:04:43,909
+Of course.
 
 65
-00:04:48,105 --> 00:04:50,473
-Do I...
+00:04:43,909 --> 00:04:45,660
+And I'd like
+an honest answer.
 
 66
-00:04:50,509 --> 00:04:52,502
-annoy you?
+00:04:45,660 --> 00:04:47,454
+You'll get one.
 
 67
-00:04:52,580 --> 00:04:54,516
-Annoy me?
+00:04:47,454 --> 00:04:49,957
+Do I...
 
 68
-00:04:54,550 --> 00:04:56,213
+00:04:49,957 --> 00:04:52,084
+annoy you?
+
+69
+00:04:52,084 --> 00:04:53,543
+Annoy me?
+
+70
+00:04:53,543 --> 00:04:55,045
 What sort of a question
 is that?
 
-69
-00:04:56,254 --> 00:04:57,688
+71
+00:04:55,045 --> 00:04:57,089
 Well, the thing is,
 we've just spent
 
-70
-00:04:57,723 --> 00:04:59,693
-the last two hours alone
-together in this runabout
-
-71
-00:04:59,727 --> 00:05:01,754
-and you've hardly said
-a word to me the whole time.
-
 72
-00:05:01,798 --> 00:05:03,631
+00:04:57,089 --> 00:04:59,174
+the last two hours
+alone together in
+this runabout
+
+73
+00:04:59,174 --> 00:05:01,135
+and you've hardly
+said a word to me
+the whole time.
+
+74
+00:05:01,135 --> 00:05:03,678
 Really?
 I hadn't noticed.
 
-73
-00:05:03,668 --> 00:05:06,367
+75
+00:05:03,678 --> 00:05:05,889
 Oh, I see.
 
-74
-00:05:06,408 --> 00:05:08,640
+76
+00:05:05,889 --> 00:05:08,016
 I suppose it's because
 I was too busy thinking.
 
-75
-00:05:08,678 --> 00:05:09,771
+77
+00:05:08,016 --> 00:05:09,017
 Thinking?
 
-76
-00:05:09,815 --> 00:05:10,908
+78
+00:05:09,017 --> 00:05:10,018
 That's right.
 
-77
-00:05:10,950 --> 00:05:11,918
+79
+00:05:10,018 --> 00:05:11,103
 About what?
 
-78
-00:05:11,952 --> 00:05:12,920
+80
+00:05:11,103 --> 00:05:12,520
 What?
 
-79
-00:05:12,954 --> 00:05:14,480
-What were you thinking about?
-
-80
-00:05:14,590 --> 00:05:15,751
-I'm just curious.
-
 81
-00:05:15,793 --> 00:05:18,356
-Well, let's see, um...
+00:05:12,520 --> 00:05:14,064
+What were you
+thinking about?
 
 82
-00:05:18,398 --> 00:05:21,302
+00:05:14,064 --> 00:05:15,190
+I'm just curious.
+
+83
+00:05:15,190 --> 00:05:17,901
+Well, let's see, um...
+
+84
+00:05:17,901 --> 00:05:20,779
 I was thinking that when
 we get back to the station
 
-83
-00:05:21,337 --> 00:05:23,466
+85
+00:05:20,779 --> 00:05:23,031
 I'll have to run
 a level-1 diagnostic
 
-84
-00:05:23,508 --> 00:05:26,173
+86
+00:05:23,031 --> 00:05:25,659
 on the phase coil generators.
 
-85
-00:05:26,214 --> 00:05:27,979
+87
+00:05:25,659 --> 00:05:27,368
 Satisfied?
 
-86
-00:05:28,018 --> 00:05:29,350
+88
+00:05:27,368 --> 00:05:28,870
 I suppose so.
 
-87
-00:05:29,387 --> 00:05:31,254
+89
+00:05:28,870 --> 00:05:30,455
 Glad to hear it.
 
-88
-00:05:31,291 --> 00:05:32,782
+90
+00:05:30,455 --> 00:05:32,207
 I mean, the only reason
 I bring it up
 
-89
-00:05:32,827 --> 00:05:34,524
+91
+00:05:32,207 --> 00:05:33,792
 is because your opinion
 means a lot to me
 
-90
-00:05:34,564 --> 00:05:35,964
-and I'm aware
-that I have a tendency
-
-91
-00:05:36,000 --> 00:05:37,366
-to run off at the mouth
-sometimes.
-
 92
-00:05:37,403 --> 00:05:38,371
-Is that a fact?
+00:05:33,792 --> 00:05:35,418
+and I'm aware that
+I have a tendency
 
 93
-00:05:38,405 --> 00:05:40,068
+00:05:35,418 --> 00:05:36,461
+to run off at the
+mouth sometimes.
+
+94
+00:05:36,461 --> 00:05:37,921
+Is that a fact?
+
+95
+00:05:37,921 --> 00:05:39,547
 I suppose it's just
 a nervous habit.
 
-94
-00:05:40,109 --> 00:05:41,806
+96
+00:05:39,547 --> 00:05:41,175
 I hope you don't
 hold it against me.
 
-95
-00:05:41,846 --> 00:05:43,007
+97
+00:05:41,175 --> 00:05:42,509
 Oh, not at all, sir.
 
-96
-00:05:44,852 --> 00:05:46,252
+98
+00:05:44,136 --> 00:05:45,637
 And one more thing.
 
-97
-00:05:46,287 --> 00:05:48,154
+99
+00:05:45,637 --> 00:05:47,346
 What's that, sir?
 
-98
-00:05:48,191 --> 00:05:50,684
-I don't think
-it's really necessary
-
-99
-00:05:50,729 --> 00:05:52,699
-to call me "sir."
-
 100
-00:05:52,733 --> 00:05:54,259
-What should I call you?
+00:05:47,346 --> 00:05:50,142
+I don't think it's
+really necessary
 
 101
-00:05:54,303 --> 00:05:55,966
-You're my superior officer.
+00:05:50,142 --> 00:05:52,186
+to call me "sir."
 
 102
-00:05:56,007 --> 00:05:57,498
-How about Julian?
+00:05:52,186 --> 00:05:53,645
+What should I call you?
 
 103
-00:05:59,280 --> 00:06:00,248
-Is that an order?
+00:05:53,645 --> 00:05:55,272
+You're my superior officer.
 
 104
-00:06:00,282 --> 00:06:01,375
-Oh, no, of course not.
+00:05:55,272 --> 00:05:57,107
+How about Julian?
 
 105
-00:06:01,417 --> 00:06:03,785
+00:05:58,483 --> 00:05:59,609
+Is that an order?
+
+106
+00:05:59,609 --> 00:06:01,028
+Oh, no, of course not.
+
+107
+00:06:01,028 --> 00:06:03,071
 It's just that I'd
 simply prefer it
 
-106
-00:06:03,822 --> 00:06:06,122
+108
+00:06:03,071 --> 00:06:06,491
 if you called me
 by my first name.
 
-107
-00:06:06,161 --> 00:06:09,497
+109
+00:06:06,491 --> 00:06:08,535
 All right.
 
-108
-00:06:16,714 --> 00:06:20,175
+110
+00:06:16,835 --> 00:06:19,629
 We've achieved
 stable orbit around Bajor.
 
-109
-00:06:20,222 --> 00:06:23,524
+111
+00:06:19,629 --> 00:06:23,050
 We can beam down any time...
 
-110
-00:06:23,562 --> 00:06:25,225
+112
+00:06:23,050 --> 00:06:24,801
 Julian.
 
-111
-00:06:38,792 --> 00:06:41,764
+113
+00:06:38,523 --> 00:06:41,693
+BASHIR:
 No sign
 of any airborne infections.
 
-112
-00:06:41,798 --> 00:06:44,395
+114
+00:06:41,693 --> 00:06:43,820
 The soil appears to be
 free of pollutants
 
-113
-00:06:44,437 --> 00:06:47,238
+115
+00:06:43,820 --> 00:06:46,281
 and the groundwater clear
 of bacterial contamination.
 
-114
-00:06:47,276 --> 00:06:48,403
+116
+00:06:46,281 --> 00:06:47,824
 Gentlemen.
 
-115
-00:06:48,445 --> 00:06:50,847
+117
+00:06:47,824 --> 00:06:50,035
 I am Faren Kag,
 the village magistrate.
 
-116
-00:06:50,882 --> 00:06:53,250
+118
+00:06:50,035 --> 00:06:52,620
 I'm Dr. Bashir.
 This is Chief O'Brien.
 
-117
-00:06:53,288 --> 00:06:55,520
+119
+00:06:52,620 --> 00:06:54,915
 This village
 is in great jeopardy.
 
-118
-00:06:55,559 --> 00:06:57,620
-I only hope you're not too late.
+120
+00:06:54,915 --> 00:06:57,251
+I only hope
+you're not too late.
 
-119
-00:07:03,241 --> 00:07:05,872
+121
+00:07:02,547 --> 00:07:05,259
 Has he shown
 any sign of improvement?
 
-120
-00:07:05,912 --> 00:07:07,403
+122
+00:07:05,259 --> 00:07:07,052
 None.
 
-121
-00:07:08,918 --> 00:07:11,388
+123
+00:07:08,262 --> 00:07:10,847
 You must help him.
 
-122
-00:07:11,424 --> 00:07:13,223
-How many others are sick?
-
-123
-00:07:13,261 --> 00:07:14,229
-Others?
-
 124
-00:07:14,263 --> 00:07:17,394
-You said the entire village
-was in jeopardy.
+00:07:10,847 --> 00:07:12,473
+How many others
+are sick?
 
 125
-00:07:17,436 --> 00:07:19,235
-It is.
+00:07:12,473 --> 00:07:13,767
+Others?
 
 126
-00:07:19,273 --> 00:07:21,938
-If he dies, we all die.
+00:07:13,767 --> 00:07:15,685
+You said
+the entire village
 
 127
-00:07:28,224 --> 00:07:30,524
-I'll say this
-for the Cardassians...
+00:07:15,685 --> 00:07:16,895
+was in jeopardy.
 
 128
-00:07:30,562 --> 00:07:33,591
-their replicators
-make a fine <i>larish</i> pie.
+00:07:16,895 --> 00:07:18,688
+It is.
 
 129
-00:07:33,635 --> 00:07:35,366
+00:07:18,688 --> 00:07:21,441
+If he dies,
+we all die.
+
+130
+00:07:27,447 --> 00:07:29,950
+I'll say this
+for the Cardassians--
+
+131
+00:07:29,950 --> 00:07:32,953
+their replicators
+make a fine<i> larish</i> pie.
+
+132
+00:07:32,953 --> 00:07:34,495
 I didn't come here
 to eat, Commander.
 
-130
-00:07:35,405 --> 00:07:36,999
+133
+00:07:34,495 --> 00:07:36,373
 Then let's talk.
 
-131
-00:07:37,042 --> 00:07:39,570
+134
+00:07:36,373 --> 00:07:39,042
 The official negotiations
 don't begin until tonight
 
-132
-00:07:39,613 --> 00:07:42,015
+135
+00:07:39,042 --> 00:07:41,336
 but I thought it
 might be a good idea
 
-133
-00:07:42,052 --> 00:07:44,649
+136
+00:07:41,336 --> 00:07:43,880
 that we meet informally
 to see where we all stand.
 
-134
-00:07:44,757 --> 00:07:46,225
+137
+00:07:43,880 --> 00:07:45,673
 According to the treaty
 
-135
-00:07:46,260 --> 00:07:48,662
+138
+00:07:45,673 --> 00:07:48,135
 that has existed between you
 for the past 90 years
 
-136
-00:07:48,698 --> 00:07:51,761
+139
+00:07:48,135 --> 00:07:51,179
 "the border separating
 the Paqu and the Navot
 
-137
-00:07:51,804 --> 00:07:54,172
+140
+00:07:51,179 --> 00:07:53,514
 shall forever be
 the river Glyrhond."
 
-138
-00:07:54,210 --> 00:07:55,873
+141
+00:07:53,514 --> 00:07:55,475
 That's correct.
 
-139
-00:07:57,516 --> 00:07:59,247
+142
+00:07:56,851 --> 00:07:58,728
 Well, at least
 we all agree on something.
 
-140
-00:07:59,286 --> 00:08:01,586
+143
+00:07:58,728 --> 00:08:01,106
+SISKO:
 Now, as I understand it,
 during the occupation
 
-141
-00:08:01,624 --> 00:08:03,617
+144
+00:08:01,106 --> 00:08:03,150
 the Cardassians
 diverted the river
 
-142
-00:08:03,695 --> 00:08:05,756
+145
+00:08:03,150 --> 00:08:05,235
 for use
 in their mining operations.
 
-143
-00:08:05,799 --> 00:08:07,894
+146
+00:08:05,235 --> 00:08:07,237
 As a result,
 the Glyrhond now flows
 
-144
-00:08:07,936 --> 00:08:10,499
+147
+00:08:07,237 --> 00:08:09,906
 20 kilometers west
 of its former position.
 
-145
-00:08:10,542 --> 00:08:13,012
-20 kilometers
-into Navot territory.
-
-146
-00:08:13,047 --> 00:08:14,778
-That's Paqu territory now.
-
-147
-00:08:14,817 --> 00:08:16,080
-You read the treaty, Commander.
-
 148
-00:08:16,120 --> 00:08:19,286
-The river is our common border.
+00:08:09,906 --> 00:08:12,326
+20 kilometers into
+Navot territory.
 
 149
-00:08:19,326 --> 00:08:22,298
+00:08:12,326 --> 00:08:14,328
+That's Paqu territory now.
+
+150
+00:08:14,328 --> 00:08:15,620
+You read the treaty, Commander.
+
+151
+00:08:15,620 --> 00:08:17,538
+The river is
+our common border.
+
+152
+00:08:17,538 --> 00:08:20,417
 The treaty says nothing
 about stealing land.
 
-150
-00:08:22,332 --> 00:08:23,995
+153
+00:08:20,417 --> 00:08:22,169
 If your father was alive
 
-151
-00:08:24,036 --> 00:08:25,665
+154
+00:08:22,169 --> 00:08:25,255
 he would give us back
 what is ours.
 
-152
-00:08:25,772 --> 00:08:27,674
+155
+00:08:25,255 --> 00:08:27,174
 My father would do
 no such thing.
 
-153
-00:08:27,709 --> 00:08:30,681
+156
+00:08:27,174 --> 00:08:30,218
 Besides, I'm Tetrarch now.
 
-154
-00:08:30,749 --> 00:08:33,983
+157
+00:08:30,218 --> 00:08:33,221
 I will not be pressured
 into betraying my people.
 
-155
-00:08:34,023 --> 00:08:36,323
+158
+00:08:33,221 --> 00:08:35,765
+QUARK:
 Let's see...
 
-156
-00:08:36,360 --> 00:08:38,991
-two Bajoran synthales
+159
+00:08:35,765 --> 00:08:38,352
+two Bajoran synthales.
 
-157
-00:08:39,033 --> 00:08:41,834
-a glass of Gamzian wine
+160
+00:08:38,352 --> 00:08:41,313
+A glass of Gamzian wine
 
-158
-00:08:41,871 --> 00:08:46,677
+161
+00:08:41,313 --> 00:08:46,151
 and a Trixian bubble juice
 for the little lady.
 
-159
-00:08:46,714 --> 00:08:50,050
+162
+00:08:46,151 --> 00:08:49,529
 I'm not a little lady.
 
-160
-00:08:56,067 --> 00:08:59,666
+163
+00:08:55,785 --> 00:08:59,289
 I'm still charging her
 for that drink.
 
-161
-00:09:17,743 --> 00:09:19,075
+164
+00:09:17,265 --> 00:09:18,599
 Oh.
 
-162
-00:09:21,951 --> 00:09:23,648
+165
+00:09:21,228 --> 00:09:23,021
 Nog, we've been sitting
 here over an hour.
 
-163
-00:09:23,688 --> 00:09:25,351
+166
+00:09:23,021 --> 00:09:24,814
 Let's go play some ball
 in the holosuite.
 
-164
-00:09:25,392 --> 00:09:26,519
+167
+00:09:24,814 --> 00:09:26,024
 No!
 
-165
-00:09:26,561 --> 00:09:27,859
+168
+00:09:26,024 --> 00:09:27,442
 Why not?
 
-166
-00:09:27,896 --> 00:09:29,525
+169
+00:09:27,442 --> 00:09:28,860
 Because baseball
 is slow and boring.
 
-167
-00:09:29,567 --> 00:09:31,196
+170
+00:09:28,860 --> 00:09:30,320
 And you can't hit
 my curve ball.
 
-168
-00:09:31,237 --> 00:09:32,535
+171
+00:09:30,320 --> 00:09:32,155
 It's a stupid game
 
-169
-00:09:32,573 --> 00:09:35,670
+172
+00:09:32,155 --> 00:09:35,116
 that even humans stopped playing
 hundreds of years ago.
 
-170
-00:09:35,712 --> 00:09:38,548
+173
+00:09:35,116 --> 00:09:37,660
 Maybe, but you still
 can't hit my curve ball.
 
-171
-00:09:38,585 --> 00:09:41,318
+174
+00:09:37,660 --> 00:09:40,414
 Mr. Sisko, Nog,
 I thought I told you
 
-172
-00:09:41,357 --> 00:09:43,885
-no dangling over the Promenade.
+175
+00:09:40,414 --> 00:09:43,041
+no dangling
+over the Promenade.
 
-173
-00:09:43,928 --> 00:09:45,761
-We're not going to fall, Odo.
+176
+00:09:43,041 --> 00:09:45,043
+We're not going
+to fall, Odo.
 
-174
-00:09:45,799 --> 00:09:48,065
+177
+00:09:45,043 --> 00:09:47,087
 We can see things
 better from down here.
 
-175
-00:09:48,104 --> 00:09:52,408
+178
+00:09:47,087 --> 00:09:50,048
 And what, may I ask,
 is so interesting?
 
-176
-00:09:52,446 --> 00:09:54,245
+179
+00:09:51,591 --> 00:09:53,301
+(<i> sighing</i> ):
 Nothing.
 
-177
-00:09:54,283 --> 00:09:56,583
+180
+00:09:53,301 --> 00:09:55,803
 In that case,
 you can see "nothing"
 
-178
-00:09:56,621 --> 00:09:58,420
+181
+00:09:55,803 --> 00:09:57,597
 just as well from up here.
 
-179
-00:09:58,458 --> 00:10:01,294
+182
+00:09:57,597 --> 00:10:00,600
 Now, on your feet.
 
-180
-00:10:06,140 --> 00:10:07,631
+183
+00:10:05,188 --> 00:10:07,023
 Thank you.
 
-181
-00:10:13,154 --> 00:10:14,122
+184
+00:10:12,904 --> 00:10:14,281
 Are you going to come
 
-182
-00:10:14,156 --> 00:10:15,716
+185
+00:10:14,281 --> 00:10:16,199
 to the holosuite
 with me, or not?
 
-183
-00:10:15,759 --> 00:10:18,754
+186
+00:10:16,199 --> 00:10:17,909
 Come on, we could have Buck
 Bokai hit a few out to us.
 
-184
-00:10:18,798 --> 00:10:21,361
+187
+00:10:17,909 --> 00:10:20,370
 He was the greatest
 hitter of all time.
 
-185
-00:10:21,404 --> 00:10:23,465
-I'll even let you use my glove.
+188
+00:10:20,370 --> 00:10:22,622
+I'll even let you
+use my glove.
 
-186
-00:10:23,508 --> 00:10:26,186
+189
+00:10:22,622 --> 00:10:26,460
 I have never seen anything
 so beautiful.
 
-187
-00:10:26,319 --> 00:10:28,516
+190
+00:10:26,460 --> 00:10:28,253
+JAKE:
 She's all right.
 
-188
-00:10:28,557 --> 00:10:29,786
+191
+00:10:28,253 --> 00:10:29,463
 All right?
 
-189
-00:10:29,826 --> 00:10:31,989
+192
+00:10:29,463 --> 00:10:31,839
 I have to meet her.
 
-190
-00:10:48,363 --> 00:10:50,162
+193
+00:10:48,106 --> 00:10:49,899
 Ah! The Dal'Rok.
 
-191
-00:10:50,200 --> 00:10:51,327
+194
+00:10:49,899 --> 00:10:51,109
 Easy now.
 
-192
-00:10:51,369 --> 00:10:54,000
-Try not to exert yourself.
+195
+00:10:51,109 --> 00:10:53,653
+Try not
+to exert yourself.
 
-193
-00:10:54,041 --> 00:10:55,339
+196
+00:10:53,653 --> 00:10:54,904
 Huh? Hovath...
 
-194
-00:10:55,377 --> 00:10:56,675
+197
+00:10:54,904 --> 00:10:56,030
 I'm here.
 I'm right here.
 
-195
-00:10:56,713 --> 00:10:57,772
+198
+00:10:56,030 --> 00:10:57,574
 The time...
 
-196
-00:10:57,815 --> 00:10:59,944
+199
+00:10:57,574 --> 00:10:59,493
 It's still two hours
 before nightfall.
 
-197
-00:10:59,986 --> 00:11:01,785
-You should have wakened me.
+200
+00:10:59,493 --> 00:11:01,369
+You should have
+wakened me.
 
-198
-00:11:01,823 --> 00:11:03,291
-Help me to get dressed.
+201
+00:11:01,369 --> 00:11:03,037
+Help me
+to get dressed.
 
-199
-00:11:03,327 --> 00:11:07,290
+202
+00:11:03,037 --> 00:11:06,958
 I'm afraid you're
 in no shape to go anywhere.
 
-200
-00:11:07,335 --> 00:11:10,466
-The Prophets sent you,
-didn't they?
-
-201
-00:11:10,507 --> 00:11:11,770
-I beg your pardon?
-
-202
-00:11:14,182 --> 00:11:17,986
-No, there's something wrong.
-
 203
-00:11:18,022 --> 00:11:21,153
-It must be your companion.
+00:11:06,958 --> 00:11:10,295
+The Prophets sent
+you, didn't they?
 
 204
-00:11:21,196 --> 00:11:22,995
-You mean Chief O'Brien?
+00:11:10,295 --> 00:11:12,213
+I beg your pardon?
 
 205
-00:11:23,032 --> 00:11:24,500
-Bring him to me.
+00:11:13,840 --> 00:11:17,594
+No, there's
+something wrong.
 
 206
-00:11:24,535 --> 00:11:26,003
-Why?
+00:11:17,594 --> 00:11:20,888
+It must be
+your companion.
 
 207
-00:11:26,038 --> 00:11:30,673
-Because you are not the one
-I have been waiting for.
+00:11:20,888 --> 00:11:22,723
+You mean Chief O'Brien?
 
 208
-00:11:30,714 --> 00:11:32,182
-Chief?
+00:11:22,723 --> 00:11:24,309
+Bring him to me.
 
 209
-00:11:32,218 --> 00:11:34,688
-He wants to see you.
+00:11:24,309 --> 00:11:25,644
+Why?
 
 210
-00:11:34,722 --> 00:11:36,715
-Come.
+00:11:25,644 --> 00:11:28,229
+Because you
+are not the one
 
 211
-00:11:40,734 --> 00:11:42,727
-Closer.
+00:11:28,229 --> 00:11:30,315
+I have been waiting for.
 
 212
-00:11:48,583 --> 00:11:50,051
-Oh, I knew.
+00:11:30,315 --> 00:11:31,941
+Chief?
 
 213
-00:11:50,086 --> 00:11:55,222
+00:11:31,941 --> 00:11:34,319
+He wants to see you.
+
+214
+00:11:34,319 --> 00:11:36,279
+Come.
+
+215
+00:11:36,279 --> 00:11:40,325
+(<i> panting heavily</i> )
+
+216
+00:11:40,325 --> 00:11:42,494
+Closer.
+
+217
+00:11:48,333 --> 00:11:49,876
+Oh, I knew.
+
+218
+00:11:49,876 --> 00:11:54,922
 I knew the Prophets
 would not fail us.
 
-214
-00:11:55,264 --> 00:11:57,997
+219
+00:11:54,922 --> 00:11:57,676
 You may leave now.
 
-215
-00:11:58,035 --> 00:12:00,028
+220
+00:11:57,676 --> 00:11:59,844
 Both of you.
 
-216
-00:12:02,043 --> 00:12:04,536
-See that he stays in bed.
+221
+00:12:01,638 --> 00:12:04,516
+See that he
+stays in bed.
 
-217
-00:12:09,358 --> 00:12:10,690
-What was that all about?
+222
+00:12:09,020 --> 00:12:10,313
+What was that
+all about?
 
-218
-00:12:10,727 --> 00:12:11,854
+223
+00:12:10,313 --> 00:12:11,523
 I haven't a clue.
 
-219
-00:12:11,896 --> 00:12:13,364
-The Sirah, how is he?
+224
+00:12:11,523 --> 00:12:13,191
+The Sirah,
+how is he?
 
-220
-00:12:13,400 --> 00:12:15,029
+225
+00:12:13,191 --> 00:12:14,693
 I wish I had better news.
 
-221
-00:12:15,069 --> 00:12:17,062
+226
+00:12:14,693 --> 00:12:16,777
 He's suffering
 from systemic organ failure
 
-222
-00:12:17,106 --> 00:12:19,669
+227
+00:12:16,777 --> 00:12:19,322
 brought on by an accelerated
 rate of cellular decay.
 
-223
-00:12:19,712 --> 00:12:22,046
+228
+00:12:19,322 --> 00:12:21,616
 His body is surrendering
 to old age.
 
-224
-00:12:22,083 --> 00:12:23,312
-Is there anything you can do?
+229
+00:12:21,616 --> 00:12:22,950
+Is there anything
+you can do?
 
-225
-00:12:23,353 --> 00:12:24,378
-I can keep him comfortable
+230
+00:12:22,950 --> 00:12:24,244
+I can keep him
+comfortable
 
-226
-00:12:24,422 --> 00:12:25,583
-and relatively free of pain.
+231
+00:12:24,244 --> 00:12:25,828
+and relatively
+free of pain.
 
-227
-00:12:25,624 --> 00:12:27,423
+232
+00:12:25,828 --> 00:12:27,288
 Other than that,
 it's just a matter of time.
 
-228
-00:12:27,528 --> 00:12:28,553
+233
+00:12:27,288 --> 00:12:28,373
 I'm sorry.
 
-229
-00:12:28,597 --> 00:12:29,724
+234
+00:12:28,373 --> 00:12:29,624
 But we need him.
 
-230
-00:12:29,765 --> 00:12:31,530
-The Dal'Rok will be here soon.
+235
+00:12:29,624 --> 00:12:31,501
+The Dal'Rok will
+be here soon.
 
-231
-00:12:33,172 --> 00:12:34,698
+236
+00:12:32,627 --> 00:12:34,045
+O'BRIEN:
 What's the Dal'Rok?
 
-232
-00:12:34,742 --> 00:12:36,142
+237
+00:12:34,045 --> 00:12:35,880
 It's a terrible creature
 
-233
-00:12:36,178 --> 00:12:38,011
+238
+00:12:35,880 --> 00:12:37,716
 that lives in the woods
 just north of the village.
 
-234
-00:12:38,048 --> 00:12:40,041
+239
+00:12:37,716 --> 00:12:39,676
 Every year at the end
 of harvest, it appears.
 
-235
-00:12:40,086 --> 00:12:42,386
+240
+00:12:39,676 --> 00:12:42,053
 And you say
 it's coming here tonight?
 
-236
-00:12:42,424 --> 00:12:43,915
+241
+00:12:42,053 --> 00:12:43,555
 Yes, it always comes
 for five nights.
 
-237
-00:12:43,960 --> 00:12:45,451
-This will be the fourth...
+242
+00:12:43,555 --> 00:12:45,390
+This will be the fourth--
 
-238
-00:12:45,564 --> 00:12:48,661
+243
+00:12:45,390 --> 00:12:48,101
 and only the Sirah is
 strong enough to defeat it.
 
-239
-00:12:48,703 --> 00:12:49,966
+244
+00:12:48,101 --> 00:12:49,728
 Well, right now
 
-240
-00:12:50,006 --> 00:12:53,274
+245
+00:12:49,728 --> 00:12:52,939
 the Sirah isn't strong enough
 to get out of bed.
 
-241
-00:12:53,313 --> 00:12:55,442
-If what you say is true
+246
+00:12:52,939 --> 00:12:55,191
+If what you say
+is true
 
-242
-00:12:55,484 --> 00:12:58,251
+247
+00:12:55,191 --> 00:12:58,111
 this village will be
 destroyed tonight.
 
-243
-00:13:08,710 --> 00:13:10,771
-You're sure this is the place?
-
-244
-00:13:10,814 --> 00:13:12,146
-You saw the readout.
-
-245
-00:13:12,183 --> 00:13:15,782
-There's only one female her age
-visiting the station
-
-246
-00:13:15,824 --> 00:13:18,226
-and these are her quarters.
-
-247
-00:13:23,907 --> 00:13:25,467
-Well, go ahead.
-
 248
-00:13:25,510 --> 00:13:26,705
-What?
+00:13:08,162 --> 00:13:10,457
+You're sure
+this is the place?
 
 249
-00:13:26,746 --> 00:13:27,839
-Ring the bell.
+00:13:10,457 --> 00:13:11,832
+You saw the readout.
 
 250
-00:13:27,881 --> 00:13:30,283
+00:13:11,832 --> 00:13:13,876
+There's only
+one female her age
+
+251
+00:13:13,876 --> 00:13:15,420
+visiting the station
+
+252
+00:13:15,420 --> 00:13:18,131
+and these are
+her quarters.
+
+253
+00:13:23,553 --> 00:13:25,138
+Well, go ahead.
+
+254
+00:13:25,138 --> 00:13:26,139
+What?
+
+255
+00:13:26,139 --> 00:13:27,682
+Ring the bell.
+
+256
+00:13:27,682 --> 00:13:30,059
 Me? You are the one
 who wants to meet her.
 
-251
-00:13:30,320 --> 00:13:31,618
+257
+00:13:30,059 --> 00:13:31,185
 Are you afraid?
 
-252
-00:13:31,656 --> 00:13:32,624
+258
+00:13:31,185 --> 00:13:32,228
 Of a girl?
 
-253
-00:13:32,658 --> 00:13:33,626
+259
+00:13:32,228 --> 00:13:33,187
 Then ring.
 
-254
-00:13:33,660 --> 00:13:34,650
+260
+00:13:33,187 --> 00:13:34,355
 You ring!
 
-255
-00:13:34,695 --> 00:13:36,163
-You are afraid.
+261
+00:13:34,355 --> 00:13:35,814
+You<i> are</i> afraid.
 
-256
-00:13:36,198 --> 00:13:38,031
+262
+00:13:35,814 --> 00:13:37,858
 No, I'm not, you are.
 
-257
-00:13:39,070 --> 00:13:41,974
-What are you doing?
+263
+00:13:38,817 --> 00:13:41,780
+What are
+you doing?
 
-258
-00:13:43,312 --> 00:13:45,179
+264
+00:13:42,989 --> 00:13:44,907
 My name's Jog...
 
-259
-00:13:45,216 --> 00:13:47,015
+265
+00:13:44,907 --> 00:13:46,701
 I mean Jake.
 
-260
-00:13:47,053 --> 00:13:48,682
+266
+00:13:46,701 --> 00:13:48,119
 I...
 
-261
-00:13:48,723 --> 00:13:50,716
+267
+00:13:48,119 --> 00:13:50,455
 He's Nog.
 I'm Jake Sisko.
 
-262
-00:13:53,900 --> 00:13:55,232
+268
+00:13:53,458 --> 00:13:54,875
 Sisko...
 
-263
-00:13:55,269 --> 00:13:56,829
+269
+00:13:54,875 --> 00:13:56,586
+JAKE:
 We're kind of
 
-264
-00:13:56,873 --> 00:13:59,970
+270
+00:13:56,586 --> 00:13:58,713
 the unofficial welcoming
 committee around here.
 
-265
-00:14:00,012 --> 00:14:01,503
+271
+00:13:58,713 --> 00:14:01,382
 That's right.
 
-266
-00:14:03,018 --> 00:14:04,988
+272
+00:14:02,676 --> 00:14:04,594
 Welcome to DS9.
 
-267
-00:14:05,022 --> 00:14:07,492
+273
+00:14:04,594 --> 00:14:07,138
 Thank you.
 I'm Varis Sul.
 
-268
-00:14:07,528 --> 00:14:09,623
+274
+00:14:07,138 --> 00:14:09,182
+JAKE:
 Would you like a tour
 of the station?
 
-269
-00:14:09,665 --> 00:14:11,862
+275
+00:14:09,182 --> 00:14:11,225
 There's a Klingon freighter
 leaving for the Gamma Quadrant
 
-270
-00:14:11,903 --> 00:14:12,871
+276
+00:14:11,225 --> 00:14:12,769
 in a little while.
 
-271
-00:14:12,905 --> 00:14:14,807
+277
+00:14:12,769 --> 00:14:14,479
 We could watch it
 go through the wormhole.
 
-272
-00:14:14,842 --> 00:14:16,471
+278
+00:14:14,479 --> 00:14:16,230
 Good-good-good idea.
 
-273
-00:14:16,512 --> 00:14:18,106
+279
+00:14:16,230 --> 00:14:17,856
 Thanks.
 
-274
-00:14:18,148 --> 00:14:19,446
+280
+00:14:17,856 --> 00:14:19,233
 So, how about it?
 
-275
-00:14:19,485 --> 00:14:21,114
+281
+00:14:19,233 --> 00:14:20,735
 You want to go?
 
-276
-00:14:21,154 --> 00:14:23,682
-I've never seen the wormhole.
-
-277
-00:14:23,727 --> 00:14:25,195
-Then you're in luck
-
-278
-00:14:25,229 --> 00:14:27,757
-'cause we know
-the best spot on the station
-
-279
-00:14:27,801 --> 00:14:29,361
-for wormhole-watching.
-
-280
-00:14:29,405 --> 00:14:31,773
-Unless you're busy or something.
-
-281
-00:14:31,809 --> 00:14:33,472
-Not at the moment.
-
 282
-00:14:42,998 --> 00:14:45,161
-Listen to me, Sirah.
+00:14:20,735 --> 00:14:23,237
+I've never seen
+the wormhole.
 
 283
-00:14:45,202 --> 00:14:47,695
-You must return to bed.
+00:14:23,237 --> 00:14:24,947
+Then you're in luck
 
 284
-00:14:47,741 --> 00:14:51,579
+00:14:24,947 --> 00:14:27,367
+'cause we know the best
+spot on the station
+
+285
+00:14:27,367 --> 00:14:29,076
+for wormhole-watching.
+
+286
+00:14:29,076 --> 00:14:31,371
+Unless you're busy
+or something.
+
+287
+00:14:31,371 --> 00:14:33,414
+Not at the moment.
+
+288
+00:14:42,590 --> 00:14:44,884
+BASHIR:
+Listen to me, Sirah.
+
+289
+00:14:44,884 --> 00:14:47,261
+You must return to bed.
+
+290
+00:14:47,261 --> 00:14:51,224
 To be out here,
 in your condition...
 
-285
-00:14:51,616 --> 00:14:53,882
+291
+00:14:51,224 --> 00:14:53,393
+SIRAH:
 Your concern touches me, Doctor
 
-286
-00:14:53,920 --> 00:14:58,828
+292
+00:14:53,393 --> 00:14:58,398
 but I am now in the hands
 of the Prophets.
 
-287
-00:14:58,863 --> 00:15:00,161
+293
+00:14:58,398 --> 00:14:59,774
+WOMAN:
 We believe in you.
 
-288
-00:15:00,199 --> 00:15:01,292
+294
+00:14:59,774 --> 00:15:01,108
+MAN:
 Help us, Sirah.
 
-289
-00:15:30,560 --> 00:15:32,257
+295
+00:15:01,108 --> 00:15:03,444
+(<i> crowd murmuring</i> )
+
+296
+00:15:26,300 --> 00:15:30,304
+(<i> murmuring continues</i> )
+
+297
+00:15:30,304 --> 00:15:31,931
 Strange...
 
-290
-00:15:32,296 --> 00:15:36,293
+298
+00:15:31,931 --> 00:15:35,976
 I'm not registering
 any atmospheric disturbance.
 
-291
-00:15:36,338 --> 00:15:40,176
+299
+00:15:35,976 --> 00:15:39,856
 The Dal'Rok wakes...
 
-292
-00:15:43,853 --> 00:15:47,850
+300
+00:15:39,856 --> 00:15:43,401
+(<i> yelling</i> )
+
+301
+00:15:43,401 --> 00:15:47,447
 but we are ready.
 
-293
-00:15:51,669 --> 00:15:55,541
+302
+00:15:47,447 --> 00:15:51,200
+(<i> yelling</i> )
+
+303
+00:15:51,200 --> 00:15:55,246
 In the shadow of the night,
 he hungers.
 
-294
-00:15:55,577 --> 00:15:59,642
+304
+00:15:55,246 --> 00:15:59,292
 With a hatred of the ancients,
 he rages.
 
-295
-00:15:59,718 --> 00:16:04,319
+305
+00:15:59,292 --> 00:16:04,088
 From the twisted pit of chaos,
 he approaches.
 
-296
-00:16:11,709 --> 00:16:13,440
+306
+00:16:04,088 --> 00:16:08,259
+(<i> ominous rumbling</i> )
+
+307
+00:16:11,345 --> 00:16:13,180
 Is it alive?
 
-297
-00:16:13,479 --> 00:16:16,713
+308
+00:16:13,180 --> 00:16:16,267
 The tricorder's still
 not picking up anything.
 
-298
-00:16:16,752 --> 00:16:21,626
+309
+00:16:16,267 --> 00:16:18,436
+BASHIR:
 Could it be some kind
+
+310
+00:16:18,436 --> 00:16:20,438
 of holographic image?
 
-299
-00:16:21,662 --> 00:16:23,291
+311
+00:16:20,438 --> 00:16:21,815
 No.
 
-300
-00:16:23,332 --> 00:16:26,327
+312
+00:16:21,815 --> 00:16:25,985
 I'm not picking up
 any power source.
 
-301
-00:16:26,371 --> 00:16:28,466
+313
+00:16:25,985 --> 00:16:28,154
 The Dal'Rok's anger
 
-302
-00:16:28,509 --> 00:16:32,973
+314
+00:16:28,154 --> 00:16:32,408
 is like a wave crashing down
 upon the village.
 
-303
-00:16:33,018 --> 00:16:38,826
+315
+00:16:32,408 --> 00:16:38,372
 The weight of its fury
 threatens to crush us all.
 
-304
-00:16:38,863 --> 00:16:43,737
+316
+00:16:38,372 --> 00:16:43,336
 The Dal'Rok thinks the village
 is powerless to defend itself...
 
-305
-00:16:49,417 --> 00:16:53,653
+317
+00:16:43,336 --> 00:16:46,547
+(<i> yelling</i> )
+
+318
+00:16:49,049 --> 00:16:53,387
 but the Dal'Rok is mistaken.
 
-306
-00:16:53,693 --> 00:16:56,494
-The village is strong...
+319
+00:16:53,387 --> 00:16:56,140
+The village is strong--
 
-307
-00:16:56,532 --> 00:17:01,251
+320
+00:16:56,140 --> 00:17:01,187
 much stronger than the Dal'Rok
 can ever imagine.
 
-308
-00:17:02,687 --> 00:17:04,053
-The village is strong!
-
-309
-00:17:05,793 --> 00:17:08,161
-The village is strong!
-
-310
-00:17:15,144 --> 00:17:17,945
-With our strength, our unity
-
-311
-00:17:17,983 --> 00:17:21,251
-we shall drive the Dal'Rok...
-
-312
-00:17:34,349 --> 00:17:36,842
-Bloody hell!
-
-313
-00:17:45,773 --> 00:17:47,139
-Chief!
-
-314
-00:17:47,175 --> 00:17:49,577
-Help us get him down from here!
-
-315
-00:17:52,318 --> 00:17:54,083
-Where is my successor?
-
-316
-00:17:54,122 --> 00:17:55,887
-Sirah...
-
-317
-00:17:55,926 --> 00:17:58,396
-No. The one
-whom the Prophets sent.
-
-318
-00:17:58,431 --> 00:18:01,267
-Yes, you.
-
-319
-00:18:01,303 --> 00:18:03,364
-W-wait a second.
-
-320
-00:18:03,407 --> 00:18:05,707
-I think you got the wrong guy.
-
 321
-00:18:05,746 --> 00:18:07,875
-Say what I say.
+00:17:01,187 --> 00:17:02,605
+(<i> yelling in agreement</i> )
 
 322
-00:18:07,917 --> 00:18:11,412
+00:17:02,605 --> 00:17:04,231
+The village is strong!
+
+323
+00:17:05,733 --> 00:17:08,361
+The village is strong!
+
+324
+00:17:14,033 --> 00:17:16,786
+With our strength, our unity
+
+325
+00:17:16,786 --> 00:17:20,164
+we shall drive the Dal'Rok...
+
+326
+00:17:20,164 --> 00:17:22,291
+(<i> Sirah groans</i> )
+
+327
+00:17:22,291 --> 00:17:24,460
+(<i> crowd screaming and shouting)</i>
+
+328
+00:17:25,419 --> 00:17:27,630
+(<i> screaming</i> )
+
+329
+00:17:33,720 --> 00:17:36,263
+Bloody hell!
+
+330
+00:17:41,895 --> 00:17:45,189
+(<i> screaming</i> )
+
+331
+00:17:45,189 --> 00:17:46,607
+Chief!
+
+332
+00:17:46,607 --> 00:17:49,276
+Help us get him
+down from here!
+
+333
+00:17:51,654 --> 00:17:53,990
+Where is my successor?
+
+334
+00:17:53,990 --> 00:17:55,449
+Sirah...
+
+335
+00:17:55,449 --> 00:17:58,411
+No. The one whom
+the Prophets sent.
+
+336
+00:17:58,411 --> 00:18:00,788
+Yes, you.
+
+337
+00:18:00,788 --> 00:18:02,957
+W-wait a second.
+
+338
+00:18:02,957 --> 00:18:05,125
+I think you got
+the wrong guy.
+
+339
+00:18:05,125 --> 00:18:07,253
+Say what I say.
+
+340
+00:18:07,253 --> 00:18:11,049
 The village shall
 not be destroyed.
 
-323
-00:18:11,457 --> 00:18:12,425
+341
+00:18:11,049 --> 00:18:12,008
 What?!
 
-324
-00:18:12,459 --> 00:18:14,088
+342
+00:18:12,008 --> 00:18:13,593
+SIRAH:
 Quickly.
 
-325
-00:18:14,129 --> 00:18:17,067
+343
+00:18:13,593 --> 00:18:16,470
 The village
 shall not be destroyed.
 
-326
-00:18:17,101 --> 00:18:21,007
-Louder, so they can all hear.
-
-327
-00:18:21,043 --> 00:18:22,979
-The village
-
-328
-00:18:23,013 --> 00:18:26,349
-shall not be destroyed!
-
-329
-00:18:26,386 --> 00:18:28,219
-Despite our fears
-
-330
-00:18:28,257 --> 00:18:30,888
-we shall stand our ground
-
-331
-00:18:30,929 --> 00:18:33,263
-and face the Dal'Rok.
-
-332
-00:18:33,300 --> 00:18:34,700
-Despite our fears
-
-333
-00:18:34,737 --> 00:18:38,336
-we shall stand our ground
-
-334
-00:18:38,377 --> 00:18:40,940
-and face the Dal'Rok.
-
-335
-00:18:43,989 --> 00:18:47,952
-The village is strong.
-
-336
-00:18:50,736 --> 00:18:54,437
-More powerful than the Dal'Rok.
-
-337
-00:18:58,250 --> 00:19:02,122
-Together, we use that power
-
-338
-00:19:02,158 --> 00:19:04,628
-to drive it away.
-
-339
-00:19:06,099 --> 00:19:11,634
-Drive it away!
-Drive it away!
-
-340
-00:19:22,532 --> 00:19:24,399
-The Dal'Rok is defeated.
-
-341
-00:19:27,175 --> 00:19:31,138
-The village is safe.
-
-342
-00:19:41,771 --> 00:19:43,205
-He's dead.
-
-343
-00:19:50,154 --> 00:19:53,058
-The Sirah has left us
-
 344
-00:19:53,093 --> 00:19:57,557
-but the Prophets have sent us
-his successor.
+00:18:16,470 --> 00:18:20,516
+Louder, so they
+can all hear.
 
 345
-00:20:00,408 --> 00:20:02,708
-A new Sirah to tell the story.
+00:18:20,516 --> 00:18:22,351
+The village
 
 346
-00:20:04,850 --> 00:20:06,752
-Story, the story!
+00:18:22,351 --> 00:18:25,897
+shall not
+be destroyed!
 
 347
-00:20:06,788 --> 00:20:09,122
+00:18:25,897 --> 00:18:27,774
+Despite our fears
+
+348
+00:18:27,774 --> 00:18:30,276
+we shall
+stand our ground
+
+349
+00:18:30,276 --> 00:18:32,820
+and face the Dal'Rok.
+
+350
+00:18:32,820 --> 00:18:34,113
+Despite our fears
+
+351
+00:18:34,113 --> 00:18:37,867
+we shall
+stand our ground
+
+352
+00:18:37,867 --> 00:18:40,369
+and face the Dal'Rok.
+
+353
+00:18:40,369 --> 00:18:43,372
+(<i> yelling</i> )
+
+354
+00:18:43,372 --> 00:18:47,418
+SIRAH:
+The village is strong.
+
+355
+00:18:47,418 --> 00:18:49,378
+(<i> shouting agreement</i> )
+
+356
+00:18:49,378 --> 00:18:52,172
+More powerful
+than the Dal'Rok.
+
+357
+00:18:57,678 --> 00:19:01,557
+Together, we use that power
+
+358
+00:19:01,557 --> 00:19:04,351
+to drive it away.
+
+359
+00:19:05,603 --> 00:19:11,358
+CROWD:
+Drive it away!
+Drive it away!
+
+360
+00:19:19,117 --> 00:19:20,952
+(<i> whispering</i> )
+
+361
+00:19:20,952 --> 00:19:22,829
+The Dal'Rok is defeated.
+
+362
+00:19:22,829 --> 00:19:26,916
+(<i> cheering</i> )
+
+363
+00:19:26,916 --> 00:19:29,502
+The village is safe.
+
+364
+00:19:29,502 --> 00:19:32,254
+(<i> moans softly</i> )
+
+365
+00:19:40,054 --> 00:19:42,098
+He's dead.
+
+366
+00:19:48,437 --> 00:19:52,984
+The Sirah has left us
+
+367
+00:19:52,984 --> 00:19:54,777
+but the Prophets
+have sent us
+
+368
+00:19:54,777 --> 00:19:56,863
+his successor.
+
+369
+00:19:59,699 --> 00:20:02,035
+A new Sirah
+to tell the story.
+
+370
+00:20:02,035 --> 00:20:04,037
+(<i> cheering</i> )
+
+371
+00:20:04,037 --> 00:20:05,705
+Story, the story!
+
+372
+00:20:05,705 --> 00:20:08,124
 A new Sirah
 to protect the village.
 
-348
-00:20:21,784 --> 00:20:25,245
+373
+00:20:21,054 --> 00:20:24,515
 So I sold them a whole herd
-of Klingon <i>targs.</i>
+of Klingon<i> targs.</i>
 
-349
-00:20:25,291 --> 00:20:27,761
-Major, what a pleasant surprise.
+374
+00:20:24,515 --> 00:20:27,101
+Major, what
+a pleasant surprise.
 
-350
-00:20:27,796 --> 00:20:29,230
+375
+00:20:27,101 --> 00:20:28,477
 I always look forward
 
-351
-00:20:29,265 --> 00:20:31,497
-to one
-of your infrequent visits.
+376
+00:20:28,477 --> 00:20:30,730
+to one of your
+infrequent visits.
 
-352
-00:20:31,536 --> 00:20:34,997
-Spare me the small talk
-and get me a stardrifter.
+377
+00:20:30,730 --> 00:20:32,190
+Spare me
+the small talk
 
-353
-00:20:35,044 --> 00:20:36,775
+378
+00:20:32,190 --> 00:20:34,233
+and get me
+a stardrifter.
+
+379
+00:20:34,233 --> 00:20:36,069
 So, uh...
 
-354
-00:20:36,814 --> 00:20:41,312
+380
+00:20:36,069 --> 00:20:38,154
 how are the negotiations
 coming along?
 
-355
-00:20:41,356 --> 00:20:43,223
-Better make it a double.
+381
+00:20:40,489 --> 00:20:42,491
+Better make it
+a double.
 
-356
-00:20:43,260 --> 00:20:44,854
+382
+00:20:42,491 --> 00:20:44,284
 Ah.
 
-357
-00:20:49,739 --> 00:20:51,504
+383
+00:20:48,455 --> 00:20:50,166
 You asked to see me?
 
-358
-00:20:51,543 --> 00:20:53,536
+384
+00:20:50,166 --> 00:20:53,127
 Please, sit down.
 
-359
-00:20:53,580 --> 00:20:57,281
+385
+00:20:53,127 --> 00:20:56,047
 I just spent
 the last five hours sitting.
 
-360
-00:20:57,321 --> 00:21:00,623
+386
+00:20:56,047 --> 00:20:59,592
 Yes, five long,
 unproductive hours.
 
-361
-00:21:00,661 --> 00:21:02,460
+387
+00:20:59,592 --> 00:21:01,260
 Woban is an obstinate fool.
 
-362
-00:21:02,498 --> 00:21:03,932
-Woban is here to talk.
+388
+00:21:01,260 --> 00:21:02,762
+Woban is here
+to talk.
 
-363
-00:21:03,968 --> 00:21:05,402
-What are you here for?
+389
+00:21:02,762 --> 00:21:04,346
+What are you
+here for?
 
-364
-00:21:05,437 --> 00:21:07,464
-I would think that was obvious...
+390
+00:21:04,346 --> 00:21:06,432
+I would think
+that was obvious--
 
-365
-00:21:07,508 --> 00:21:10,036
+391
+00:21:06,432 --> 00:21:08,893
 to protect the interests
 of my people.
 
-366
-00:21:10,080 --> 00:21:11,173
+392
+00:21:08,893 --> 00:21:10,310
 How, by starting a war?
 
-367
-00:21:11,216 --> 00:21:13,083
+393
+00:21:10,310 --> 00:21:11,854
 I object to your tone,
 Commander.
 
-368
-00:21:13,120 --> 00:21:14,680
+394
+00:21:11,854 --> 00:21:13,564
 Because if that's
-what you're here for...
+what you're here for--
 
-369
-00:21:14,722 --> 00:21:16,692
+395
+00:21:13,564 --> 00:21:15,566
 if you'd rather
-fight than talk...
+fight than talk--
 
-370
-00:21:16,726 --> 00:21:18,217
+396
+00:21:15,566 --> 00:21:17,151
 then we're just
 wasting our time.
 
-371
-00:21:18,263 --> 00:21:20,096
+397
+00:21:17,151 --> 00:21:18,903
 That land belongs to the Paqu.
 
-372
-00:21:20,134 --> 00:21:21,534
+398
+00:21:18,903 --> 00:21:20,529
 The Navot don't agree.
 
-373
-00:21:21,570 --> 00:21:24,269
+399
+00:21:20,529 --> 00:21:23,199
 Then they'd better be ready
 to die for it.
 
-374
-00:21:24,309 --> 00:21:26,575
+400
+00:21:23,199 --> 00:21:25,534
 I am.
 
-375
-00:21:26,613 --> 00:21:28,139
+401
+00:21:25,534 --> 00:21:27,078
 Or don't you believe me?
 
-376
-00:21:28,183 --> 00:21:30,050
+402
+00:21:27,078 --> 00:21:28,871
 I believe in people
 working together
 
-377
-00:21:30,087 --> 00:21:32,615
+403
+00:21:28,871 --> 00:21:31,582
 to find reasonable solutions
 to their problems.
 
-378
-00:21:32,658 --> 00:21:34,149
+404
+00:21:31,582 --> 00:21:33,167
 I hope you do as well.
 
-379
-00:21:34,195 --> 00:21:37,167
-What you hope
+405
+00:21:33,167 --> 00:21:36,003
+What<i> you</i> hope
 is no concern of mine.
 
-380
-00:21:37,201 --> 00:21:39,832
+406
+00:21:36,003 --> 00:21:38,756
 Now, anything else
 you wish to say to me
 
-381
-00:21:39,874 --> 00:21:43,142
+407
+00:21:38,756 --> 00:21:41,801
 can be said tomorrow
 across a conference table.
 
-382
-00:21:43,180 --> 00:21:44,478
+408
+00:21:41,801 --> 00:21:43,510
 Varis...
 
-383
-00:21:44,515 --> 00:21:47,681
+409
+00:21:43,510 --> 00:21:46,639
 are you sure your people
 are as ready as you are
 
-384
-00:21:47,722 --> 00:21:49,190
+410
+00:21:46,639 --> 00:21:48,182
 to die for that land?
 
-385
-00:22:00,314 --> 00:22:02,341
+411
+00:21:59,026 --> 00:22:01,445
+NOG:
 Where do you think she is?
 
-386
-00:22:02,385 --> 00:22:04,855
+412
+00:22:01,445 --> 00:22:04,031
 I guess if she's not here,
 we'll try again at her quarters.
 
-387
-00:22:04,890 --> 00:22:06,985
+413
+00:22:04,031 --> 00:22:05,825
 When we find her,
 let me do the talking.
 
-388
-00:22:07,028 --> 00:22:08,691
+414
+00:22:05,825 --> 00:22:07,701
 She asked me questions,
 I answered them.
 
-389
-00:22:08,730 --> 00:22:09,720
+415
+00:22:07,701 --> 00:22:09,036
 What's wrong with that?
 
-390
-00:22:09,766 --> 00:22:12,236
-Just remember, I saw her first.
+416
+00:22:09,036 --> 00:22:10,871
+Just remember,
+I saw her first.
 
-391
-00:22:12,271 --> 00:22:13,432
+417
+00:22:10,871 --> 00:22:12,623
 She's mine.
 
-392
-00:22:13,473 --> 00:22:15,739
+418
+00:22:12,623 --> 00:22:14,792
 Then how come you can barely
 say two words to her
 
-393
-00:22:15,845 --> 00:22:17,211
-without getting tongue-tied?
+419
+00:22:14,792 --> 00:22:15,835
+without getting
+tongue-tied?
 
-394
-00:22:17,248 --> 00:22:18,238
+420
+00:22:15,835 --> 00:22:17,211
 That's a lie!
 
-395
-00:22:18,283 --> 00:22:20,219
-I've never seen you so nervous.
+421
+00:22:17,211 --> 00:22:19,088
+I've never seen you
+so nervous.
 
-396
-00:22:20,254 --> 00:22:21,917
+422
+00:22:19,088 --> 00:22:20,798
 You must really like her.
 
-397
-00:22:21,958 --> 00:22:23,860
+423
+00:22:20,798 --> 00:22:22,800
 I never said that!
 
-398
-00:22:23,895 --> 00:22:25,762
+424
+00:22:22,800 --> 00:22:24,718
 All I said was...
 
-399
-00:22:28,103 --> 00:22:29,868
+425
+00:22:24,718 --> 00:22:26,887
+(<i> stammering</i> )
+
+426
+00:22:26,887 --> 00:22:28,848
 We were just...
 
-400
-00:22:29,907 --> 00:22:31,536
+427
+00:22:28,848 --> 00:22:30,474
 Looking for you.
 
-401
-00:22:31,576 --> 00:22:33,739
+428
+00:22:30,474 --> 00:22:32,726
 I've been busy.
 
-402
-00:22:33,780 --> 00:22:35,477
-Is something wrong?
+429
+00:22:32,726 --> 00:22:34,312
+Is something
+wrong?
 
-403
-00:22:35,517 --> 00:22:38,387
-You seem a little depressed.
+430
+00:22:34,312 --> 00:22:37,231
+You seem a little
+depressed.
 
-404
-00:22:38,423 --> 00:22:41,520
+431
+00:22:37,231 --> 00:22:40,400
 It's nothing, really.
 
-405
-00:22:41,563 --> 00:22:43,897
+432
+00:22:40,400 --> 00:22:42,778
 It's just...
 
-406
-00:22:43,935 --> 00:22:47,500
+433
+00:22:42,778 --> 00:22:46,448
 there are these people
 who want something I have
 
-407
-00:22:47,541 --> 00:22:49,977
+434
+00:22:46,448 --> 00:22:48,868
 and I refuse to give it to them.
 
-408
-00:22:50,014 --> 00:22:52,041
+435
+00:22:48,868 --> 00:22:51,954
 How badly do they want it?
 
-409
-00:22:52,084 --> 00:22:55,022
+436
+00:22:51,954 --> 00:22:53,789
 Very badly.
 
-410
-00:22:55,057 --> 00:22:57,824
+437
+00:22:53,789 --> 00:22:56,876
 Is there anything they have
 that you want?
 
-411
-00:22:57,929 --> 00:22:59,762
-That I want.
+438
+00:22:56,876 --> 00:22:58,669
+That<i> I</i> want.
 
-412
-00:22:59,799 --> 00:23:02,327
-Maybe this isn't a problem.
+439
+00:22:58,669 --> 00:23:01,214
+Maybe this isn't
+a problem.
 
-413
-00:23:02,371 --> 00:23:03,430
+440
+00:23:01,214 --> 00:23:02,340
 Maybe...
 
-414
-00:23:03,473 --> 00:23:05,943
+441
+00:23:02,340 --> 00:23:05,718
 it's an opportunity.
 
-415
-00:23:05,979 --> 00:23:08,449
+442
+00:23:05,718 --> 00:23:07,261
 Maybe.
 
-416
-00:23:08,483 --> 00:23:11,284
+443
+00:23:07,261 --> 00:23:10,223
 When I have a problem
 I can't figure out
 
-417
-00:23:11,322 --> 00:23:12,620
+444
+00:23:10,223 --> 00:23:11,640
 I ask my dad.
 
-418
-00:23:12,658 --> 00:23:14,423
+445
+00:23:11,640 --> 00:23:13,351
 I ask my dad, too.
 
-419
-00:23:14,462 --> 00:23:17,195
+446
+00:23:13,351 --> 00:23:16,103
 It helps, doesn't it?
 
-420
-00:23:17,234 --> 00:23:18,429
+447
+00:23:16,103 --> 00:23:17,355
 Yeah.
 
-421
-00:23:18,470 --> 00:23:19,733
+448
+00:23:17,355 --> 00:23:18,731
 No.
 
-422
-00:23:19,772 --> 00:23:20,797
+449
+00:23:18,731 --> 00:23:19,899
 My dad's
 
-423
-00:23:20,874 --> 00:23:22,901
+450
+00:23:19,899 --> 00:23:21,901
 a pretty smart guy.
 
-424
-00:23:22,946 --> 00:23:25,509
+451
+00:23:21,901 --> 00:23:25,279
 Mine, too...
 
-425
-00:23:25,551 --> 00:23:27,817
+452
+00:23:25,279 --> 00:23:27,365
 in his own way.
 
-426
-00:23:27,923 --> 00:23:31,418
+453
+00:23:27,365 --> 00:23:30,326
 My parents are dead.
 
-427
-00:23:31,463 --> 00:23:34,765
+454
+00:23:30,326 --> 00:23:33,704
 They were killed
 by the Cardassians.
 
-428
-00:23:34,802 --> 00:23:37,272
+455
+00:23:33,704 --> 00:23:36,123
 I'm sorry.
 
-429
-00:23:37,308 --> 00:23:41,612
+456
+00:23:36,123 --> 00:23:37,624
 My mom was killed
-during an attack by the Borg.
 
-430
-00:23:41,649 --> 00:23:44,017
+457
+00:23:37,624 --> 00:23:40,418
+during an attack
+by the Borg.
+
+458
+00:23:40,418 --> 00:23:42,880
 Isn't there someone
 you can talk to?
 
-431
-00:23:44,055 --> 00:23:45,284
+459
+00:23:42,880 --> 00:23:44,131
 Someone you trust?
 
-432
-00:23:45,324 --> 00:23:47,123
+460
+00:23:44,131 --> 00:23:45,799
 I don't trust many people.
 
-433
-00:23:47,161 --> 00:23:48,322
+461
+00:23:45,799 --> 00:23:47,301
 My dad says...
 
-434
-00:23:48,363 --> 00:23:49,854
+462
+00:23:47,301 --> 00:23:48,886
 Could we please talk
 about something
 
-435
-00:23:49,933 --> 00:23:50,923
+463
+00:23:48,886 --> 00:23:50,096
 besides your father?
 
-436
-00:23:52,471 --> 00:23:55,807
+464
+00:23:51,347 --> 00:23:54,808
 You admire him very much,
 don't you?
 
-437
-00:23:55,844 --> 00:23:57,142
+465
+00:23:54,808 --> 00:23:55,935
 I trust him.
 
-438
-00:23:57,181 --> 00:23:58,479
+466
+00:23:55,935 --> 00:23:57,353
+ODO:
 Mr. Sisko...
 
-439
-00:23:58,517 --> 00:24:00,646
+467
+00:23:57,353 --> 00:23:59,479
 Odo.
 
-440
-00:24:00,687 --> 00:24:02,452
-We were just leaving.
+468
+00:23:59,479 --> 00:24:01,481
+We were
+just leaving.
 
-441
-00:24:09,427 --> 00:24:12,228
+469
+00:24:08,322 --> 00:24:11,242
 I wonder what was controlling
 those energy creatures.
 
-442
-00:24:12,266 --> 00:24:14,236
-One thing's certain...
+470
+00:24:11,242 --> 00:24:13,369
+One thing's certain--
 it wasn't me.
 
-443
-00:24:14,270 --> 00:24:15,899
+471
+00:24:13,369 --> 00:24:15,121
 Try telling the villagers that.
 
-444
-00:24:15,940 --> 00:24:18,308
+472
+00:24:15,121 --> 00:24:17,081
 They saw the Sirah choose you
 as his successor.
 
-445
-00:24:18,345 --> 00:24:19,540
-Well, he made a mistake.
+473
+00:24:17,081 --> 00:24:18,874
+Well, he made
+a mistake.
 
-446
-00:24:19,581 --> 00:24:21,551
+474
+00:24:18,874 --> 00:24:20,542
 You saw the way he greeted you
 when we arrived.
 
-447
-00:24:21,585 --> 00:24:23,919
+475
+00:24:20,542 --> 00:24:22,836
 It was as if he
 was expecting you.
 
-448
-00:24:23,956 --> 00:24:25,219
+476
+00:24:22,836 --> 00:24:24,380
 But I'll tell you this, Chief
 
-449
-00:24:25,259 --> 00:24:26,990
+477
+00:24:24,380 --> 00:24:25,672
 I'm glad you came along
 on this mission
 
-450
-00:24:27,029 --> 00:24:28,327
+478
+00:24:25,672 --> 00:24:27,425
 because if it wasn't for you
 
-451
-00:24:28,365 --> 00:24:30,267
+479
+00:24:27,425 --> 00:24:28,968
 I'd have done what I could
 for the Sirah and left
 
-452
-00:24:30,302 --> 00:24:31,600
+480
+00:24:28,968 --> 00:24:30,719
 and look what I
 would have missed.
 
-453
-00:24:31,638 --> 00:24:34,108
+481
+00:24:30,719 --> 00:24:33,013
 Well, I'm glad you're
-enjoying yourself, Julian.
+enjoying yourself,<i> Julian.</i>
 
-454
-00:24:34,144 --> 00:24:36,614
+482
+00:24:33,013 --> 00:24:35,641
 Don't worry, Chief,
 I have faith in you.
 
-455
-00:24:36,648 --> 00:24:37,707
-Oh, do you?!
+483
+00:24:35,641 --> 00:24:36,767
+Oh,<i> do</i> you?!
 
-456
-00:24:37,750 --> 00:24:40,118
+484
+00:24:36,767 --> 00:24:39,061
 I mean, for all we know
 
-457
-00:24:40,156 --> 00:24:42,058
+485
+00:24:39,061 --> 00:24:41,063
 you really were sent
 by the Prophets.
 
-458
-00:24:42,093 --> 00:24:44,461
-I was sent by Commander Sisko.
+486
+00:24:41,063 --> 00:24:43,565
+I was sent by
+Commander Sisko.
 
-459
-00:24:44,564 --> 00:24:47,365
+487
+00:24:43,565 --> 00:24:46,110
 This Dal'Rok, or whatever
 
-460
-00:24:47,403 --> 00:24:48,769
+488
+00:24:46,110 --> 00:24:47,903
 will be returning this evening
 
-461
-00:24:48,806 --> 00:24:51,403
+489
+00:24:47,903 --> 00:24:50,197
 and everybody's counting
 on me to be able to stop it.
 
-462
-00:24:51,445 --> 00:24:53,039
+490
+00:24:50,197 --> 00:24:52,116
 The only trouble is
 
-463
-00:24:53,081 --> 00:24:56,520
+491
+00:24:52,116 --> 00:24:55,619
 I don't have the slightest idea
 how I'm supposed to do that.
 
-464
-00:24:57,790 --> 00:25:01,058
+492
+00:24:55,619 --> 00:24:56,912
+(<i> door opens</i> )
+
+493
+00:24:56,912 --> 00:24:59,915
 These gifts are for you, Sirah.
 
-465
-00:25:01,097 --> 00:25:02,794
+494
+00:24:59,915 --> 00:25:01,792
 Well, look,
 tell them I don't want them.
 
-466
-00:25:02,834 --> 00:25:03,927
+495
+00:25:01,792 --> 00:25:03,085
 Oh, bring them in.
 
-467
-00:25:03,969 --> 00:25:05,666
+496
+00:25:03,085 --> 00:25:04,837
 Put them wherever you like.
 
-468
-00:25:09,881 --> 00:25:11,110
+497
+00:25:08,882 --> 00:25:10,176
 Now, look, Julian...
 
-469
-00:25:11,151 --> 00:25:12,916
-We're visitors here, Chief.
+498
+00:25:10,176 --> 00:25:11,927
+We have visitors
+here, Chief.
 
-470
-00:25:12,954 --> 00:25:15,447
+499
+00:25:11,927 --> 00:25:13,720
 It would be impolite
 to refuse our hosts.
 
-471
-00:25:15,526 --> 00:25:17,393
+500
+00:25:13,720 --> 00:25:16,265
+MAN:
 Thank you, Sirah.
 
-472
-00:25:20,903 --> 00:25:23,841
-How can I help you, ladies?
+501
+00:25:20,394 --> 00:25:22,688
+How can I help you,
+ladies?
 
-473
-00:25:23,876 --> 00:25:28,409
+502
+00:25:22,688 --> 00:25:27,485
 I think they're the ones
 offering services, Chief.
 
-474
-00:25:28,452 --> 00:25:32,187
-Now, look, t-there's been
-a serious misunderstanding.
+503
+00:25:27,485 --> 00:25:29,445
+Now, look,
+t-there's been
 
-475
-00:25:32,226 --> 00:25:34,059
-Is there a problem, Sirah?
+504
+00:25:29,445 --> 00:25:31,155
+a serious
+misunderstanding.
 
-476
-00:25:34,097 --> 00:25:35,463
+505
+00:25:31,155 --> 00:25:33,073
+Is there a
+problem, Sirah?
+
+506
+00:25:33,073 --> 00:25:34,616
 No! They're not...
 
-477
-00:25:35,499 --> 00:25:37,833
+507
+00:25:34,616 --> 00:25:36,743
 Well, yes...
 
-478
-00:25:37,870 --> 00:25:39,965
-I mean, they're quite...
+508
+00:25:36,743 --> 00:25:39,497
+I mean,
+they're quite...
 
-479
-00:25:40,008 --> 00:25:43,971
+509
+00:25:39,497 --> 00:25:42,958
 Look, I have a wife
 and daughter back on DS9.
 
-480
-00:25:44,016 --> 00:25:45,781
+510
+00:25:42,958 --> 00:25:44,877
 Of course.
 
-481
-00:25:47,857 --> 00:25:49,520
+511
+00:25:46,753 --> 00:25:48,672
 You must send for them.
 
-482
-00:25:49,561 --> 00:25:50,859
+512
+00:25:48,672 --> 00:25:49,965
 Why?
 
-483
-00:25:50,896 --> 00:25:53,128
-So they can live here with you.
+513
+00:25:49,965 --> 00:25:53,344
+So they can live
+here with you.
 
-484
-00:25:53,168 --> 00:25:55,638
-No, you're missing the point.
+514
+00:25:53,344 --> 00:25:54,678
+No, you're missing
+the point.
 
-485
-00:25:55,673 --> 00:25:57,107
+515
+00:25:54,678 --> 00:25:56,138
 I'm not staying.
 
-486
-00:25:57,143 --> 00:25:59,375
+516
+00:25:56,138 --> 00:25:58,391
 Then, who will tell the story?
 
-487
-00:25:59,414 --> 00:26:03,218
+517
+00:25:58,391 --> 00:26:02,311
 Well, you'll just
 have to find someone else.
 
-488
-00:26:03,255 --> 00:26:04,587
+518
+00:26:02,311 --> 00:26:03,729
 But there is no one else.
 
-489
-00:26:04,624 --> 00:26:05,922
+519
+00:26:03,729 --> 00:26:04,980
 The Sirah chose you.
 
-490
-00:26:05,960 --> 00:26:07,223
+520
+00:26:04,980 --> 00:26:06,232
 He made a mistake.
 
-491
-00:26:07,263 --> 00:26:08,857
-But what about the Dal'Rok?
+521
+00:26:06,232 --> 00:26:08,067
+But what about
+the Dal'Rok?
 
-492
-00:26:08,899 --> 00:26:10,493
+522
+00:26:08,067 --> 00:26:09,776
 Without your protection,
 it will kill us all.
 
-493
-00:26:10,569 --> 00:26:13,735
+523
+00:26:09,776 --> 00:26:12,696
 Faren, I would like
 to help, really I would
 
-494
-00:26:13,775 --> 00:26:15,506
+524
+00:26:12,696 --> 00:26:14,698
 but I don't know how.
 
-495
-00:26:15,579 --> 00:26:17,606
+525
+00:26:14,698 --> 00:26:16,700
 You must tell the story.
 
-496
-00:26:17,650 --> 00:26:19,745
-Simple as that, is it?
+526
+00:26:16,700 --> 00:26:18,911
+Simple as that,
+is it?
 
-497
-00:26:21,391 --> 00:26:25,024
+527
+00:26:20,371 --> 00:26:24,041
 May the Prophets
 grant you victory, Sirah.
 
-498
-00:26:25,064 --> 00:26:26,555
+528
+00:26:24,041 --> 00:26:25,876
 Let's hope so.
 
-499
-00:26:41,865 --> 00:26:44,028
-Now what are we going to do?
+529
+00:26:37,179 --> 00:26:40,766
+(<i> sighs</i> )
 
-500
-00:26:44,069 --> 00:26:47,873
-The way I see it,
-the only way out of this mess
+530
+00:26:40,766 --> 00:26:43,060
+Now what are we
+going to do?
 
-501
-00:26:47,910 --> 00:26:51,782
+531
+00:26:43,060 --> 00:26:44,728
+The way I see it
+
+532
+00:26:44,728 --> 00:26:46,688
+the only way
+out of this mess
+
+533
+00:26:46,688 --> 00:26:50,650
 is to find out exactly
 what this Dal'Rok is
 
-502
-00:26:51,818 --> 00:26:55,257
+534
+00:26:50,650 --> 00:26:54,447
 and destroy it
 before it destroys us.
 
-503
-00:26:59,300 --> 00:27:01,828
-Station Log, supplemental.
+535
+00:26:58,451 --> 00:27:00,411
+SISKO:
+<i>Station Log, supplemental.</i>
 
-504
-00:27:01,871 --> 00:27:03,704
-We have completed
-a second day of talks
+536
+00:27:00,411 --> 00:27:02,538
+<i>We have completed</i>
+<i>a second day of talks</i>
 
-505
-00:27:03,742 --> 00:27:05,712
-between the Paqu and the Navot.
+537
+00:27:02,538 --> 00:27:04,373
+<i>between the Paqu and the Navot.</i>
 
-506
-00:27:05,746 --> 00:27:08,148
-So far, we're no closer
-to finding a solution
+538
+00:27:04,373 --> 00:27:06,833
+<i>So far, we're no closer</i>
+<i>to finding a solution</i>
 
-507
-00:27:08,185 --> 00:27:11,123
-than we were
-when negotiations began.
+539
+00:27:06,833 --> 00:27:10,045
+<i>than we were</i>
+<i>when negotiations began.</i>
 
-508
-00:27:14,630 --> 00:27:16,930
+540
+00:27:12,089 --> 00:27:13,507
+(<i> door chimes</i> )
+
+541
+00:27:13,507 --> 00:27:15,633
 Enter.
 
-509
-00:27:16,968 --> 00:27:19,438
-Hi. You want to do something?
+542
+00:27:15,633 --> 00:27:18,929
+Hi. You want
+to do something?
 
-510
-00:27:19,474 --> 00:27:22,446
+543
+00:27:18,929 --> 00:27:21,432
 Sorry, not right now.
 
-511
-00:27:23,648 --> 00:27:26,950
-Okay, we'll stop by later.
+544
+00:27:22,975 --> 00:27:26,270
+Okay, we'll
+stop by later.
 
-512
-00:27:26,988 --> 00:27:31,156
-Is there anything we can do
+545
+00:27:26,270 --> 00:27:28,481
+Is there anything
+we can do
+
+546
+00:27:28,481 --> 00:27:30,316
 to cheer you up?
 
-513
-00:27:31,197 --> 00:27:33,760
+547
+00:27:30,316 --> 00:27:32,526
 I don't think so.
 
-514
-00:27:33,802 --> 00:27:35,795
+548
+00:27:32,526 --> 00:27:34,487
 You sure?
 
-515
-00:27:35,839 --> 00:27:37,809
+549
+00:27:34,487 --> 00:27:36,530
 Let's go before
 you embarrass yourself.
 
-516
-00:27:37,843 --> 00:27:38,868
+550
+00:27:36,530 --> 00:27:37,573
 Wait.
 
-517
-00:27:38,912 --> 00:27:40,244
+551
+00:27:37,573 --> 00:27:39,158
 Yes?
 
-518
-00:27:42,653 --> 00:27:45,250
+552
+00:27:41,452 --> 00:27:43,912
 Do you remember
 that opportunity
 
-519
-00:27:45,292 --> 00:27:47,626
-we were discussing yesterday?
+553
+00:27:43,912 --> 00:27:46,582
+we were discussing
+yesterday?
 
-520
-00:27:47,730 --> 00:27:49,427
+554
+00:27:46,582 --> 00:27:48,208
 Yes.
 
-521
-00:27:49,467 --> 00:27:50,958
+555
+00:27:48,208 --> 00:27:49,793
 How can you be sure
 
-522
-00:27:51,003 --> 00:27:53,975
+556
+00:27:49,793 --> 00:27:52,630
 that an opportunity
 is worth the risk?
 
-523
-00:27:54,009 --> 00:27:56,479
+557
+00:27:52,630 --> 00:27:55,215
 Ah. Instinct.
 
-524
-00:27:56,514 --> 00:27:59,315
+558
+00:27:55,215 --> 00:27:58,051
 The Ninth Rule of Acquisition
 clearly states
 
-525
-00:27:59,353 --> 00:28:03,726
+559
+00:27:58,051 --> 00:28:02,556
 that opportunity plus instinct
 equals profit.
 
-526
-00:28:03,762 --> 00:28:06,062
+560
+00:28:02,556 --> 00:28:04,766
 Instinct...
 
-527
-00:28:06,099 --> 00:28:08,331
-That's not going to help.
+561
+00:28:04,766 --> 00:28:07,186
+That's not going
+to help.
 
-528
-00:28:08,371 --> 00:28:10,273
+562
+00:28:07,186 --> 00:28:09,062
 I think it does.
 
-529
-00:28:10,309 --> 00:28:12,279
+563
+00:28:09,062 --> 00:28:11,064
 Thank you, Nog.
 
-530
-00:28:12,313 --> 00:28:13,508
+564
+00:28:11,064 --> 00:28:12,316
 Good!
 
-531
-00:28:13,548 --> 00:28:16,247
+565
+00:28:12,316 --> 00:28:15,027
 Let's celebrate.
 
-532
-00:28:16,287 --> 00:28:17,482
+566
+00:28:15,027 --> 00:28:16,570
 Celebrate?
 
-533
-00:28:17,523 --> 00:28:19,459
+567
+00:28:16,570 --> 00:28:18,280
 I took one
 of my uncle's security rods.
 
-534
-00:28:19,493 --> 00:28:22,021
+568
+00:28:18,280 --> 00:28:20,698
 What are we going
 to do with that?
 
-535
-00:28:22,065 --> 00:28:23,294
+569
+00:28:20,698 --> 00:28:22,034
 I don't know.
 
-536
-00:28:23,335 --> 00:28:25,498
-We could swipe Odo's bucket.
+570
+00:28:22,034 --> 00:28:24,286
+We could swipe
+Odo's bucket.
 
-537
-00:28:25,539 --> 00:28:26,802
+571
+00:28:24,286 --> 00:28:25,245
 Are you kidding?
 
-538
-00:28:26,841 --> 00:28:27,866
+572
+00:28:25,245 --> 00:28:26,539
 A bucket?
 
-539
-00:28:27,910 --> 00:28:28,969
+573
+00:28:26,539 --> 00:28:27,705
 Yeah.
 We'll give it back.
 
-540
-00:28:29,012 --> 00:28:29,980
+574
+00:28:27,705 --> 00:28:28,666
 Yeah, but...
 
-541
-00:28:30,014 --> 00:28:30,982
+575
+00:28:28,666 --> 00:28:30,083
 It'll be funny.
 
-542
-00:28:31,016 --> 00:28:33,043
+576
+00:28:30,083 --> 00:28:31,751
 But we can't just walk
 into Security.
 
-543
-00:28:33,087 --> 00:28:34,681
+577
+00:28:31,751 --> 00:28:33,504
 Watch me.
 
-544
-00:28:48,418 --> 00:28:51,822
+578
+00:28:33,504 --> 00:28:35,631
+(<i> laughing</i> )
+
+579
+00:28:47,184 --> 00:28:50,521
 Wait over there.
 
-545
-00:28:51,858 --> 00:28:55,559
+580
+00:28:50,521 --> 00:28:54,233
 I still don't understand
 what's so funny about a bucket.
 
-546
-00:28:55,599 --> 00:28:57,067
+581
+00:28:54,233 --> 00:28:55,359
 Odo lives in it.
 
-547
-00:28:57,101 --> 00:28:58,296
+582
+00:28:55,359 --> 00:28:56,443
 He's a shape-shifter.
 
-548
-00:28:58,338 --> 00:28:59,363
+583
+00:28:56,443 --> 00:28:58,153
 Every 16 hours
 
-549
-00:28:59,407 --> 00:29:01,604
+584
+00:28:58,153 --> 00:29:00,447
 he has to change back
 to his original form.
 
-550
-00:29:01,644 --> 00:29:03,044
+585
+00:29:00,447 --> 00:29:01,823
 Inside a bucket?
 
-551
-00:29:03,080 --> 00:29:05,677
-He turns
-into some kind of liquid.
+586
+00:29:01,823 --> 00:29:04,743
+He turns into
+some kind of liquid.
 
-552
-00:29:10,362 --> 00:29:12,423
+587
+00:29:09,081 --> 00:29:11,250
 Maybe this isn't
 such a good idea.
 
-553
-00:29:12,466 --> 00:29:13,764
+588
+00:29:11,250 --> 00:29:12,585
 Watch the front door.
 
-554
-00:29:13,802 --> 00:29:14,997
+589
+00:29:12,585 --> 00:29:13,877
 I'll be right back.
 
-555
-00:29:21,016 --> 00:29:23,681
+590
+00:29:19,592 --> 00:29:22,511
 Jake, are you sure
 this is all right?
 
-556
-00:29:23,755 --> 00:29:27,525
+591
+00:29:22,511 --> 00:29:26,265
 Well, it's not like we're
 really stealing anything.
 
-557
-00:29:27,563 --> 00:29:28,758
+592
+00:29:26,265 --> 00:29:28,642
+NOG:
 Found it.
 
-558
-00:29:29,834 --> 00:29:31,497
+593
+00:29:28,642 --> 00:29:30,310
 Oops!
 
-559
-00:29:31,537 --> 00:29:33,200
+594
+00:29:30,310 --> 00:29:32,104
 Odo!
 
-560
-00:29:34,944 --> 00:29:36,971
+595
+00:29:33,689 --> 00:29:34,732
 Odo!
 
-561
-00:29:38,017 --> 00:29:39,680
+596
+00:29:36,609 --> 00:29:38,444
 It's oatmeal.
 
-562
-00:29:39,720 --> 00:29:42,715
+597
+00:29:38,444 --> 00:29:41,614
 I filled it
 from the replicator.
 
-563
-00:29:42,760 --> 00:29:44,559
+598
+00:29:41,614 --> 00:29:44,366
 Very funny!
 
-564
-00:29:48,237 --> 00:29:50,834
+599
+00:29:46,952 --> 00:29:48,912
 You should have seen your face.
 
-565
-00:30:10,114 --> 00:30:12,311
+600
+00:30:08,724 --> 00:30:11,184
 I believe that belongs to me.
 
-566
-00:30:19,299 --> 00:30:21,235
+601
+00:30:17,941 --> 00:30:20,068
 What's the rush?
 
-567
-00:30:47,623 --> 00:30:49,114
+602
+00:30:46,261 --> 00:30:47,805
 There's some residual
 neutrino levels
 
-568
-00:30:49,159 --> 00:30:50,685
+603
+00:30:47,805 --> 00:30:49,473
 in the microstructure
 of these rocks.
 
-569
-00:30:50,729 --> 00:30:52,562
+604
+00:30:49,473 --> 00:30:51,183
 But if the Dal'Rok has
 no physical substance
 
-570
-00:30:52,599 --> 00:30:54,592
+605
+00:30:51,183 --> 00:30:53,268
 how can it leave
 a neutrino trace?
 
-571
-00:30:54,637 --> 00:30:57,200
+606
+00:30:53,268 --> 00:30:55,771
 I didn't say it made sense,
 but this rock face
 
-572
-00:30:57,241 --> 00:30:59,677
+607
+00:30:55,771 --> 00:30:58,315
 didn't just spontaneously
 blow itself to pieces.
 
-573
-00:30:59,713 --> 00:31:01,580
-Lucky for us,
-you managed to stop it
+608
+00:30:58,315 --> 00:31:00,275
+Lucky for us, you
+managed to stop it
 
-574
-00:31:01,617 --> 00:31:03,348
-before it did any more damage.
+609
+00:31:00,275 --> 00:31:01,985
+before it did
+any more damage.
 
-575
-00:31:03,388 --> 00:31:05,916
+610
+00:31:01,985 --> 00:31:04,655
 All I did was repeat
 what the Sirah told me.
 
-576
-00:31:05,959 --> 00:31:07,986
+611
+00:31:04,655 --> 00:31:06,782
 In that case, how did the
 Sirah manage to stop it?
 
-577
-00:31:08,030 --> 00:31:10,523
+612
+00:31:06,782 --> 00:31:08,826
 Good question.
 
-578
-00:31:10,569 --> 00:31:12,596
+613
+00:31:08,826 --> 00:31:11,244
 Maybe there's
 a control mechanism
 
-579
-00:31:12,639 --> 00:31:13,664
+614
+00:31:11,244 --> 00:31:12,287
 hidden somewhere.
 
-580
-00:31:13,708 --> 00:31:14,676
+615
+00:31:12,287 --> 00:31:13,622
 Excuse me, miss.
 
-581
-00:31:14,710 --> 00:31:16,383
-Please, Sirah, for my daughter.
+616
+00:31:13,622 --> 00:31:15,248
+Please, Sirah,
+for my daughter.
 
-582
-00:31:16,516 --> 00:31:17,643
+617
+00:31:15,248 --> 00:31:16,916
 What about her?
 
-583
-00:31:17,685 --> 00:31:21,648
-It looks like she wants you
-to bless her child.
+618
+00:31:16,916 --> 00:31:20,587
+It looks like
+she wants you to
+bless her child.
 
-584
-00:31:21,693 --> 00:31:22,718
+619
+00:31:20,587 --> 00:31:21,797
 Me?!
 
-585
-00:31:22,829 --> 00:31:25,767
+620
+00:31:21,797 --> 00:31:24,883
 It would mean so much.
 
-586
-00:31:32,949 --> 00:31:35,682
+621
+00:31:31,682 --> 00:31:34,643
 I'm sure she'll make
 you very proud.
 
-587
-00:31:35,721 --> 00:31:36,746
+622
+00:31:34,643 --> 00:31:35,769
 Oh, thank you.
 
-588
-00:31:36,857 --> 00:31:38,018
+623
+00:31:35,769 --> 00:31:36,770
 Thank you.
 
-589
-00:31:38,059 --> 00:31:39,027
+624
+00:31:36,770 --> 00:31:37,855
+MAN:
 There he is.
 
-590
-00:31:39,061 --> 00:31:40,029
+625
+00:31:37,855 --> 00:31:39,356
 You're quite welcome.
 
-591
-00:31:40,063 --> 00:31:41,554
+626
+00:31:39,356 --> 00:31:40,691
 Looks like more
 of your followers
 
-592
-00:31:41,600 --> 00:31:42,898
+627
+00:31:40,691 --> 00:31:41,817
 are requesting an audience.
 
-593
-00:31:42,935 --> 00:31:44,096
+628
+00:31:41,817 --> 00:31:43,360
 Oh, no.
 This won't do.
 
-594
-00:31:44,137 --> 00:31:45,902
+629
+00:31:43,360 --> 00:31:44,737
 Um, you continue
 looking around here.
 
-595
-00:31:45,941 --> 00:31:47,706
+630
+00:31:44,737 --> 00:31:46,655
 I'm going to check
 the Sirah's room.
 
-596
-00:31:47,745 --> 00:31:48,713
+631
+00:31:46,655 --> 00:31:47,656
 Please, please.
 
-597
-00:31:48,747 --> 00:31:52,778
+632
+00:31:47,656 --> 00:31:48,990
 I'm afraid the Sirah
+
+633
+00:31:48,990 --> 00:31:51,785
 is busy at the moment.
 
-598
-00:31:52,889 --> 00:31:54,882
-Perhaps I could be of service.
+634
+00:31:51,785 --> 00:31:53,704
+Perhaps I could be
+of service.
 
-599
-00:31:54,926 --> 00:31:56,326
+635
+00:31:53,704 --> 00:31:55,163
+MAN:
 Sirah, come back!
 
-600
-00:31:56,362 --> 00:31:57,694
+636
+00:31:55,163 --> 00:31:56,749
+WOMAN:
 Please, Sirah, a moment.
 
-601
-00:32:26,656 --> 00:32:29,651
-Look, I could use some privacy.
+637
+00:32:03,630 --> 00:32:05,298
+(<i> sighs</i> )
 
-602
-00:32:29,696 --> 00:32:33,295
+638
+00:32:25,527 --> 00:32:28,572
+Look, I could use
+some privacy.
+
+639
+00:32:28,572 --> 00:32:32,158
 There are more gifts
 outside for you.
 
-603
-00:32:33,336 --> 00:32:36,137
+640
+00:32:32,158 --> 00:32:34,953
 All right, bring them in.
 
-604
-00:32:36,175 --> 00:32:37,804
+641
+00:32:34,953 --> 00:32:36,747
 Hold on.
 
-605
-00:32:37,878 --> 00:32:40,314
-Didn't you work for the Sirah?
+642
+00:32:36,747 --> 00:32:39,165
+Didn't you work
+for the Sirah?
 
-606
-00:32:40,350 --> 00:32:41,716
+643
+00:32:39,165 --> 00:32:40,667
 Mm-hmm.
 
-607
-00:32:41,753 --> 00:32:43,382
+644
+00:32:40,667 --> 00:32:42,210
 I, um...
 
-608
-00:32:43,422 --> 00:32:45,255
+645
+00:32:42,210 --> 00:32:44,045
 I was his apprentice.
 
-609
-00:32:45,293 --> 00:32:49,997
+646
+00:32:44,045 --> 00:32:48,801
 Oh. Did he ever reveal
 any of his secrets?
 
-610
-00:32:50,036 --> 00:32:53,270
+647
+00:32:48,801 --> 00:32:52,053
 How he controlled the Dal'Rok
 and that sort of thing?
 
-611
-00:32:53,309 --> 00:32:54,504
+648
+00:32:52,053 --> 00:32:53,555
 Why ask me?
 
-612
-00:32:54,545 --> 00:32:57,517
+649
+00:32:53,555 --> 00:32:56,349
 Surely, the Sirah
 must have taught you
 
-613
-00:32:57,551 --> 00:32:59,145
+650
+00:32:56,349 --> 00:32:57,935
 all you need to know.
 
-614
-00:32:59,187 --> 00:33:00,246
+651
+00:32:57,935 --> 00:32:59,060
 Oh, all right!
 
-615
-00:33:00,289 --> 00:33:01,587
+652
+00:32:59,060 --> 00:33:00,395
 Have it your way.
 
-616
-00:33:01,626 --> 00:33:04,291
+653
+00:33:00,395 --> 00:33:03,106
 Don't blame me
 when that creature
 
-617
-00:33:04,331 --> 00:33:07,167
+654
+00:33:03,106 --> 00:33:06,151
 goes rampaging
 through your village.
 
-618
-00:33:14,017 --> 00:33:15,680
+655
+00:33:12,908 --> 00:33:14,785
 Chief!
 
-619
-00:33:18,359 --> 00:33:19,691
+656
+00:33:17,203 --> 00:33:18,580
 Careful.
 
-620
-00:33:19,729 --> 00:33:21,289
+657
+00:33:18,580 --> 00:33:20,081
 Don't hurt him.
 
-621
-00:33:21,331 --> 00:33:23,028
+658
+00:33:20,081 --> 00:33:22,083
 I'll try not to.
 
-622
-00:33:25,373 --> 00:33:26,398
+659
+00:33:24,169 --> 00:33:25,253
 That's enough.
 
-623
-00:33:26,442 --> 00:33:27,535
+660
+00:33:25,253 --> 00:33:26,588
 Tell him that.
 
-624
-00:33:28,714 --> 00:33:30,707
+661
+00:33:27,547 --> 00:33:29,800
 I said, that's enough!
 
-625
-00:33:35,828 --> 00:33:38,857
+662
+00:33:34,638 --> 00:33:37,975
 Now, you mind explaining
 why you tried to kill me?
 
-626
-00:33:43,744 --> 00:33:46,545
+663
+00:33:42,604 --> 00:33:45,315
 You are not the true Sirah.
 
-627
-00:33:46,583 --> 00:33:50,216
-You won't get
-any argument from me.
+664
+00:33:45,315 --> 00:33:48,026
+You won't get any
+argument from me.
 
-628
-00:33:50,256 --> 00:33:52,249
+665
+00:33:48,026 --> 00:33:51,029
 If he isn't, who is?
 
-629
-00:33:52,293 --> 00:33:54,422
+666
+00:33:51,029 --> 00:33:53,406
 I am.
 
-630
-00:34:05,486 --> 00:34:09,790
+667
+00:34:03,876 --> 00:34:08,254
 For nine years,
 I studied with the Sirah
 
-631
-00:34:09,829 --> 00:34:15,467
+668
+00:34:08,254 --> 00:34:11,299
 learning the secrets
 of the storyteller
 
-632
-00:34:15,506 --> 00:34:19,708
+669
+00:34:13,927 --> 00:34:18,181
 only to have you come
 along and take my place.
 
-633
-00:34:19,749 --> 00:34:21,981
+670
+00:34:18,181 --> 00:34:20,308
 Look, friend,
 as far as I'm concerned
 
-634
-00:34:22,020 --> 00:34:23,181
+671
+00:34:20,308 --> 00:34:21,894
 the job's yours.
 
-635
-00:34:23,222 --> 00:34:25,089
+672
+00:34:21,894 --> 00:34:23,603
 But if you were
 supposed to take over
 
-636
-00:34:25,126 --> 00:34:26,594
-how come the Sirah chose him?
+673
+00:34:23,603 --> 00:34:25,063
+how come the Sirah
+chose him?
 
-637
-00:34:26,629 --> 00:34:28,223
-It was his way of punishing me.
+674
+00:34:25,063 --> 00:34:26,732
+It was his way
+of punishing me.
 
-638
-00:34:28,265 --> 00:34:30,896
+675
+00:34:26,732 --> 00:34:29,192
 Punishing you?
 
-639
-00:34:30,938 --> 00:34:32,031
+676
+00:34:29,192 --> 00:34:30,777
 Three nights ago
 
-640
-00:34:32,073 --> 00:34:34,670
+677
+00:34:30,777 --> 00:34:33,030
 the Sirah allowed me
 to tell the story
 
-641
-00:34:34,712 --> 00:34:39,552
+678
+00:34:33,030 --> 00:34:36,909
 but when the Dal'Rok appeared,
 I was unable to control it.
 
-642
-00:34:39,589 --> 00:34:41,923
+679
+00:34:36,909 --> 00:34:39,118
 Several people were injured.
 
-643
-00:34:41,993 --> 00:34:43,359
+680
+00:34:39,118 --> 00:34:41,747
 Control it, how?
 
-644
-00:34:43,395 --> 00:34:45,194
+681
+00:34:41,747 --> 00:34:43,707
 With this.
 
-645
-00:34:45,233 --> 00:34:48,228
+682
+00:34:43,707 --> 00:34:46,001
 This stone is said to be
 a fragment of an Orb
 
-646
-00:34:48,272 --> 00:34:49,935
+683
+00:34:46,001 --> 00:34:47,794
 from the Celestial Temple.
 
-647
-00:34:50,042 --> 00:34:53,071
+684
+00:34:47,794 --> 00:34:50,338
 We had one of those Orbs
 aboard our station.
 
-648
-00:34:53,115 --> 00:34:55,608
+685
+00:34:50,338 --> 00:34:53,216
 We're aware
 of how powerful they are.
 
-649
-00:34:55,654 --> 00:34:58,888
+686
+00:34:53,216 --> 00:34:57,136
 Many years ago, this village
 was deeply divided
 
-650
-00:34:58,927 --> 00:35:00,395
+687
+00:34:57,136 --> 00:34:58,972
 by hate and mistrust.
 
-651
-00:35:00,429 --> 00:35:04,028
+688
+00:34:58,972 --> 00:35:02,267
 The first Sirah knew
 that unless he could find a way
 
-652
-00:35:04,070 --> 00:35:07,304
-to unite the people, the village
+689
+00:35:02,267 --> 00:35:03,936
+to unite the people
+
+690
+00:35:03,936 --> 00:35:05,645
+the village
 would destroy itself
 
-653
-00:35:07,343 --> 00:35:10,645
+691
+00:35:05,645 --> 00:35:09,066
 so he used the Orb fragment
 as a catalyst
 
-654
-00:35:10,684 --> 00:35:13,622
+692
+00:35:09,066 --> 00:35:11,944
 to give their fears
 a physical form.
 
-655
-00:35:13,657 --> 00:35:17,256
+693
+00:35:11,944 --> 00:35:15,447
 So the villagers' thoughts
 create the Dal'Rok.
 
-656
-00:35:17,297 --> 00:35:20,098
+694
+00:35:15,447 --> 00:35:18,575
 Yes, but they don't know that.
 
-657
-00:35:20,136 --> 00:35:24,634
+695
+00:35:18,575 --> 00:35:22,829
 It's a secret which is passed
 from Sirah to Sirah.
 
-658
-00:35:24,679 --> 00:35:26,512
-Why do they need a storyteller?
+696
+00:35:22,829 --> 00:35:25,373
+Why do they need
+a storyteller?
 
-659
-00:35:26,548 --> 00:35:29,816
+697
+00:35:25,373 --> 00:35:28,293
 The story helps to focus
 the villagers' thoughts.
 
-660
-00:35:29,855 --> 00:35:32,520
+698
+00:35:28,293 --> 00:35:30,963
 And that enables them
 to defeat the Dal'Rok
 
-661
-00:35:32,560 --> 00:35:34,496
+699
+00:35:30,963 --> 00:35:33,090
 by creating
 the shimmering lights.
 
-662
-00:35:36,168 --> 00:35:39,663
+700
+00:35:34,841 --> 00:35:38,303
 I know, if I had another chance,
 I could control the Dal'Rok.
 
-663
-00:35:41,011 --> 00:35:42,878
+701
+00:35:39,554 --> 00:35:41,431
 Well, son
 
-664
-00:35:42,915 --> 00:35:44,612
+702
+00:35:41,431 --> 00:35:43,058
 it looks like tonight
 
-665
-00:35:44,652 --> 00:35:47,283
+703
+00:35:43,058 --> 00:35:45,102
 you are going
 to get that chance.
 
-666
-00:35:55,039 --> 00:35:56,200
+704
+00:35:45,102 --> 00:35:47,020
+(<i> chuckling</i> )
+
+705
+00:35:53,318 --> 00:35:54,945
 What is this?
 
-667
-00:35:56,241 --> 00:35:58,711
+706
+00:35:54,945 --> 00:35:56,947
 You have no right
 to wear those clothes.
 
-668
-00:35:58,747 --> 00:35:59,942
+707
+00:35:56,947 --> 00:35:58,531
 I have every right.
 
-669
-00:35:59,982 --> 00:36:01,450
+708
+00:35:58,531 --> 00:35:59,825
 You had your chance
 to prove yourself.
 
-670
-00:36:01,485 --> 00:36:02,453
+709
+00:35:59,825 --> 00:36:00,909
 You failed.
 
-671
-00:36:02,487 --> 00:36:03,955
+710
+00:36:00,909 --> 00:36:02,201
 It won't happen again.
 
-672
-00:36:03,990 --> 00:36:04,958
-That's right...
+711
+00:36:02,201 --> 00:36:03,495
+That's right--
 
-673
-00:36:04,992 --> 00:36:06,460
+712
+00:36:03,495 --> 00:36:05,038
 because you won't be allowed
 
-674
-00:36:06,495 --> 00:36:08,488
+713
+00:36:05,038 --> 00:36:06,957
 to endanger the village
 a second time.
 
-675
-00:36:08,532 --> 00:36:09,898
+714
+00:36:06,957 --> 00:36:08,625
 Now take off those robes!
 
-676
-00:36:15,413 --> 00:36:16,779
+715
+00:36:13,839 --> 00:36:15,298
 Now, hold on.
 
-677
-00:36:16,816 --> 00:36:18,479
+716
+00:36:15,298 --> 00:36:16,800
 Sirah...
 
-678
-00:36:18,519 --> 00:36:20,716
+717
+00:36:16,800 --> 00:36:19,136
 it's time you were
 getting ready.
 
-679
-00:36:20,757 --> 00:36:23,193
+718
+00:36:19,136 --> 00:36:20,679
 The people will be assembling
 soon to hear the story.
 
-680
-00:36:39,027 --> 00:36:40,427
-I want you to know, Commander
+719
+00:36:22,806 --> 00:36:24,557
+(<i> sighs</i> )
 
-681
-00:36:40,463 --> 00:36:42,023
+720
+00:36:36,987 --> 00:36:38,571
+I want you to know,
+Commander,
+
+721
+00:36:38,571 --> 00:36:40,281
 that I take
 complete responsibility
 
-682
-00:36:42,133 --> 00:36:44,501
+722
+00:36:40,281 --> 00:36:42,408
 for what happened
 in the Security Office.
 
-683
-00:36:44,537 --> 00:36:46,769
+723
+00:36:42,408 --> 00:36:44,828
 I think that there's
 more than enough blame
 
-684
-00:36:46,809 --> 00:36:47,799
+724
+00:36:44,828 --> 00:36:46,079
 to spread around.
 
-685
-00:36:47,845 --> 00:36:49,781
+725
+00:36:46,079 --> 00:36:47,747
 Jake should have known better.
 
-686
-00:36:49,815 --> 00:36:53,949
+726
+00:36:47,747 --> 00:36:49,415
 I'm afraid he and Nog
-were just trying to impress me.
 
-687
-00:36:53,990 --> 00:36:56,222
-That's not much of an excuse.
+727
+00:36:49,415 --> 00:36:52,502
+were just trying
+to impress me.
 
-688
-00:36:56,261 --> 00:36:58,960
+728
+00:36:52,502 --> 00:36:55,172
+That's not much
+of an excuse.
+
+729
+00:36:55,172 --> 00:36:57,007
 Didn't you ever do
 anything foolish
 
-689
-00:36:59,000 --> 00:37:00,434
+730
+00:36:57,007 --> 00:36:58,424
 to impress a girl?
 
-690
-00:37:00,469 --> 00:37:01,801
+731
+00:36:58,424 --> 00:37:00,385
 I may have.
 
-691
-00:37:01,839 --> 00:37:04,105
+732
+00:37:00,385 --> 00:37:02,220
 Jake's a nice boy.
 
-692
-00:37:04,144 --> 00:37:07,548
+733
+00:37:02,220 --> 00:37:06,307
 So is Nog... in his own way.
 
-693
-00:37:07,583 --> 00:37:10,282
+734
+00:37:06,307 --> 00:37:08,351
 I enjoy their company.
 
-694
-00:37:10,322 --> 00:37:12,519
+735
+00:37:08,351 --> 00:37:10,562
 I suppose you don't get
 much of a chance
 
-695
-00:37:12,560 --> 00:37:14,028
+736
+00:37:10,562 --> 00:37:12,271
 to be with people your age.
 
-696
-00:37:14,130 --> 00:37:17,261
+737
+00:37:12,271 --> 00:37:15,316
 True, but...
 
-697
-00:37:17,303 --> 00:37:20,834
+738
+00:37:15,316 --> 00:37:18,444
 that's not why I wanted
 to be with them.
 
-698
-00:37:22,680 --> 00:37:24,946
+739
+00:37:20,697 --> 00:37:23,075
 I wanted to learn about you.
 
-699
-00:37:24,985 --> 00:37:26,818
+740
+00:37:23,075 --> 00:37:24,868
 And?
 
-700
-00:37:26,856 --> 00:37:30,056
-Jake speaks very highly of you.
+741
+00:37:24,868 --> 00:37:28,246
+Jake speaks very
+highly of you.
 
-701
-00:37:30,162 --> 00:37:31,653
+742
+00:37:28,246 --> 00:37:29,664
 He trusts you.
 
-702
-00:37:31,698 --> 00:37:33,964
+743
+00:37:29,664 --> 00:37:32,209
 That's always nice to hear.
 
-703
-00:37:35,974 --> 00:37:40,176
+744
+00:37:34,044 --> 00:37:36,379
 Hearing Jake speak of you...
 
-704
-00:37:40,216 --> 00:37:44,088
+745
+00:37:38,215 --> 00:37:41,676
 reminded me of how much
 I miss my own parents.
 
-705
-00:37:45,392 --> 00:37:47,555
+746
+00:37:43,428 --> 00:37:45,513
 My father was a great man.
 
-706
-00:37:47,597 --> 00:37:49,533
-A great leader.
+747
+00:37:45,513 --> 00:37:47,390
+A<i> great</i> leader.
 
-707
-00:37:49,567 --> 00:37:51,662
+748
+00:37:47,390 --> 00:37:49,642
 I'm sure he'd be
 very proud of you.
 
-708
-00:37:51,705 --> 00:37:53,265
+749
+00:37:49,642 --> 00:37:51,394
 I try to be strong
 
-709
-00:37:53,308 --> 00:37:56,644
+750
+00:37:51,394 --> 00:37:54,355
 the way he was strong, but...
 
-710
-00:37:58,953 --> 00:38:00,616
+751
+00:37:56,900 --> 00:37:58,526
 it's difficult.
 
-711
-00:38:00,656 --> 00:38:02,626
+752
+00:37:58,526 --> 00:38:00,570
 From what I've learned
 of your father
 
-712
-00:38:02,660 --> 00:38:03,721
+753
+00:38:00,570 --> 00:38:02,321
 he wasn't afraid to compromise.
 
-713
-00:38:03,855 --> 00:38:06,418
+754
+00:38:02,321 --> 00:38:05,742
 That's because he knew
 the Navot feared him.
 
-714
-00:38:06,527 --> 00:38:10,331
+755
+00:38:05,742 --> 00:38:09,079
 If I were to make concessions,
 Woban would think I was weak.
 
-715
-00:38:10,368 --> 00:38:12,361
+756
+00:38:09,079 --> 00:38:11,123
 I doubt he would be
 that foolish
 
-716
-00:38:12,405 --> 00:38:15,138
+757
+00:38:11,123 --> 00:38:13,750
 but he is determined
 to get that land back.
 
-717
-00:38:15,178 --> 00:38:18,617
-I am not afraid
-of Woban or the Navot.
+758
+00:38:13,750 --> 00:38:17,462
+I am<i> not</i> afraid
+of Woban<i> or</i> the Navot.
 
-718
-00:38:18,651 --> 00:38:20,712
+759
+00:38:17,462 --> 00:38:19,589
 I never said you were.
 
-719
-00:38:20,755 --> 00:38:23,556
+760
+00:38:19,589 --> 00:38:23,843
 So your answer is still no.
 
-720
-00:38:23,594 --> 00:38:27,864
+761
+00:38:23,843 --> 00:38:26,512
 You don't lose by saying no.
 
-721
-00:38:27,903 --> 00:38:29,269
+762
+00:38:26,512 --> 00:38:27,973
 Maybe
 
-722
-00:38:29,306 --> 00:38:32,301
+763
+00:38:27,973 --> 00:38:30,892
 but a great leader
 like your father
 
-723
-00:38:32,345 --> 00:38:35,876
+764
+00:38:30,892 --> 00:38:34,687
 is one who's willing
 to risk saying yes.
 
-724
-00:38:46,473 --> 00:38:48,875
+765
+00:38:45,198 --> 00:38:47,700
 Commander...
 
-725
-00:38:50,181 --> 00:38:52,174
+766
+00:38:48,827 --> 00:38:50,829
 I believe I know of...
 
-726
-00:38:52,218 --> 00:38:54,051
+767
+00:38:50,829 --> 00:38:52,580
 an opportunity...
 
-727
-00:38:54,089 --> 00:38:57,722
+768
+00:38:52,580 --> 00:38:56,501
 that could allow both sides
 to say yes.
 
-728
-00:39:09,352 --> 00:39:11,584
+769
+00:38:56,501 --> 00:39:00,713
+(<i> crowd murmuring excitedly</i> )
+
+770
+00:39:08,013 --> 00:39:10,389
+MAN:
 Sirah, you'll save us.
 
-729
-00:39:11,623 --> 00:39:13,820
-I thought you wanted this job.
+771
+00:39:10,389 --> 00:39:12,267
+I thought you
+wanted this job.
 
-730
-00:39:13,862 --> 00:39:14,989
+772
+00:39:12,267 --> 00:39:13,685
 I do.
 
-731
-00:39:15,031 --> 00:39:17,935
+773
+00:39:13,685 --> 00:39:16,604
 Then, why don't you
 fight for it?
 
-732
-00:39:17,970 --> 00:39:19,701
+774
+00:39:16,604 --> 00:39:18,523
 No, Faren is right.
 
-733
-00:39:19,739 --> 00:39:23,509
+775
+00:39:18,523 --> 00:39:22,401
 These people will never
 accept me as Sirah.
 
-734
-00:39:23,614 --> 00:39:25,516
+776
+00:39:22,401 --> 00:39:24,279
 Without their support
 
-735
-00:39:25,584 --> 00:39:28,522
+777
+00:39:24,279 --> 00:39:27,406
 I could never control
 the Dal'Rok.
 
-736
-00:39:28,624 --> 00:39:30,924
+778
+00:39:27,406 --> 00:39:29,575
 You think I can?
 
-737
-00:39:30,963 --> 00:39:33,433
+779
+00:39:29,575 --> 00:39:32,162
 You have to.
 
-738
-00:39:33,467 --> 00:39:35,164
+780
+00:39:32,162 --> 00:39:33,997
 Oh, Chief.
 
-739
-00:39:37,275 --> 00:39:38,538
+781
+00:39:35,915 --> 00:39:37,458
 Good luck.
 
-740
-00:39:54,409 --> 00:39:55,775
+782
+00:39:50,722 --> 00:39:53,099
+(<i> crowd clamoring</i> )
+
+783
+00:39:53,099 --> 00:39:54,726
 Tell us the story!
 
-741
-00:39:58,017 --> 00:39:59,007
+784
+00:39:56,644 --> 00:39:57,937
 Sirah, the story!
 
-742
-00:40:03,761 --> 00:40:07,531
+785
+00:39:57,937 --> 00:40:00,773
+(<i> clamoring continues</i> )
+
+786
+00:40:02,483 --> 00:40:06,196
 Once upon a time...
 
-743
-00:40:07,568 --> 00:40:10,233
+787
+00:40:06,196 --> 00:40:08,907
 there was a Dal'Rok
 
-744
-00:40:10,274 --> 00:40:14,544
+788
+00:40:08,907 --> 00:40:13,245
 and it lives there, in the woods
 
-745
-00:40:14,582 --> 00:40:17,884
-and he hated the village
+789
+00:40:13,245 --> 00:40:16,581
+and he hated
+the village
 
-746
-00:40:17,923 --> 00:40:20,861
+790
+00:40:16,581 --> 00:40:19,542
 and all of the villagers
 
-747
-00:40:20,895 --> 00:40:25,393
+791
+00:40:19,542 --> 00:40:24,047
 and he wanted
 to see them destroyed.
 
-748
-00:40:25,438 --> 00:40:28,001
+792
+00:40:24,047 --> 00:40:26,549
 The Dal'Rok is here!
 
-749
-00:40:28,043 --> 00:40:32,416
+793
+00:40:26,549 --> 00:40:31,012
 Yes! The Dal'Rok is here
 
-750
-00:40:32,452 --> 00:40:34,922
+794
+00:40:31,012 --> 00:40:33,598
 and it's hungry
 
-751
-00:40:34,957 --> 00:40:38,590
+795
+00:40:33,598 --> 00:40:37,269
 but the village
 is prepared to fight
 
-752
-00:40:38,630 --> 00:40:41,329
-like it has always fought...
+796
+00:40:37,269 --> 00:40:39,854
+like it has always fought--
 
-753
-00:40:41,369 --> 00:40:44,341
+797
+00:40:39,854 --> 00:40:42,982
 with the lights,
 the shimmering lights.
 
-754
-00:40:44,375 --> 00:40:47,575
+798
+00:40:42,982 --> 00:40:45,985
 Something's wrong.
 
-755
-00:40:47,615 --> 00:40:51,680
-What's wrong is that O'Brien
-is not the Sirah...
+799
+00:40:45,985 --> 00:40:50,031
+What's wrong is
+that O'Brien is
+not the Sirah--
 
-756
-00:40:51,790 --> 00:40:52,815
+800
+00:40:50,031 --> 00:40:51,366
 you are.
 
-757
-00:40:52,859 --> 00:40:53,884
+801
+00:40:51,366 --> 00:40:52,617
+O'BRIEN:
 Come on, you can do it!
 
-758
-00:40:53,927 --> 00:40:57,229
+802
+00:40:52,617 --> 00:40:55,703
 The village is strong
 
-759
-00:40:57,268 --> 00:41:01,072
+803
+00:40:55,703 --> 00:40:59,624
 and unafraid...
 and... powerful
 
-760
-00:41:01,109 --> 00:41:04,640
+804
+00:40:59,624 --> 00:41:03,211
 and ready to face the Dal'Rok.
 
-761
-00:41:04,682 --> 00:41:07,984
+805
+00:41:03,211 --> 00:41:06,547
 Do you think that maybe
 the Sirah planned all this?
 
-762
-00:41:08,023 --> 00:41:11,154
+806
+00:41:06,547 --> 00:41:09,634
 He knew the villagers
 had lost confidence in you
 
-763
-00:41:11,196 --> 00:41:13,325
+807
+00:41:09,634 --> 00:41:11,886
 so he chose O'Brien
 as his successor
 
-764
-00:41:13,367 --> 00:41:15,166
+808
+00:41:11,886 --> 00:41:13,721
 knowing that you would
 have to rescue him.
 
-765
-00:41:15,204 --> 00:41:16,229
-Don't you see...
+809
+00:41:13,721 --> 00:41:15,473
+Don't you see--
 
-766
-00:41:16,273 --> 00:41:19,575
-this is your chance
-to prove once and for all
+810
+00:41:15,473 --> 00:41:17,976
+this is your chance to
+prove once and for all
 
-767
-00:41:19,612 --> 00:41:20,875
-that you are the true Sirah.
+811
+00:41:17,976 --> 00:41:19,144
+that you are
+the true Sirah.
 
-768
-00:41:20,915 --> 00:41:22,008
+812
+00:41:19,144 --> 00:41:20,853
 All right now...
 
-769
-00:41:22,051 --> 00:41:25,923
+813
+00:41:20,853 --> 00:41:24,565
 let's really focus
 and send this one out, okay?
 
-770
-00:41:25,958 --> 00:41:29,397
+814
+00:41:24,565 --> 00:41:28,069
 Let's really send
 the Dal'Rok a message.
 
-771
-00:41:29,432 --> 00:41:32,871
+815
+00:41:28,069 --> 00:41:31,781
 Where the hell are those lights?
 
-772
-00:41:48,637 --> 00:41:50,071
+816
+00:41:35,534 --> 00:41:37,078
+(<i> groans</i> )
+
+817
+00:41:37,078 --> 00:41:40,165
+(<i> crowd screaming</i> )
+
+818
+00:41:47,255 --> 00:41:48,673
 Wait!
 
-773
-00:41:50,107 --> 00:41:52,339
-There is no need to run!
+819
+00:41:48,673 --> 00:41:50,925
+There is no need
+to run!
 
-774
-00:41:52,378 --> 00:41:54,245
+820
+00:41:50,925 --> 00:41:52,760
 A new voice appears
 
-775
-00:41:54,282 --> 00:41:56,752
+821
+00:41:52,760 --> 00:41:55,472
 to challenge the Dal'Rok!
 
-776
-00:41:56,820 --> 00:41:57,981
+822
+00:41:55,472 --> 00:41:56,889
 It's about time.
 
-777
-00:41:58,023 --> 00:42:00,859
-The Dal'Rok is a fearsome enemy.
+823
+00:41:56,889 --> 00:41:59,476
+The Dal'Rok
+is a fearsome enemy.
 
-778
-00:42:00,894 --> 00:42:03,364
+824
+00:41:59,476 --> 00:42:01,853
 The mountains tremble
 with its fury
 
-779
-00:42:03,400 --> 00:42:07,807
+825
+00:42:01,853 --> 00:42:06,649
 but our prosperity
 is its misery
 
-780
-00:42:07,842 --> 00:42:11,281
+826
+00:42:06,649 --> 00:42:09,902
 our unity is its vulnerability
 
-781
-00:42:11,316 --> 00:42:14,811
-and our strength is its doom.
+827
+00:42:09,902 --> 00:42:13,531
+and our strength
+is its doom.
 
-782
-00:42:14,856 --> 00:42:19,297
-Look... the Dal'Rok trembles!
+828
+00:42:13,531 --> 00:42:17,952
+Look-- the Dal'Rok trembles!
 
-783
-00:42:19,332 --> 00:42:22,863
+829
+00:42:17,952 --> 00:42:21,539
 It fears our strength.
 
-784
-00:42:22,905 --> 00:42:26,309
-It fears our determination.
+830
+00:42:21,539 --> 00:42:24,834
+It fears
+our determination.
 
-785
-00:42:26,346 --> 00:42:31,379
+831
+00:42:24,834 --> 00:42:29,922
 It knows
 it cannot stand against us
 
-786
-00:42:31,423 --> 00:42:34,190
-because the village is united.
+832
+00:42:29,922 --> 00:42:32,758
+because the village
+is united.
 
-787
-00:42:34,228 --> 00:42:35,857
+833
+00:42:32,758 --> 00:42:34,760
 We are as one.
 
-788
-00:42:47,555 --> 00:42:50,789
-You see for yourselves.
+834
+00:42:45,980 --> 00:42:47,565
+You see
 
-789
-00:42:50,894 --> 00:42:53,923
+835
+00:42:47,565 --> 00:42:49,401
+for yourselves.
+
+836
+00:42:49,401 --> 00:42:52,487
 The Dal'Rok is defeated.
 
-790
-00:42:53,967 --> 00:42:56,996
+837
+00:42:52,487 --> 00:42:55,573
 This village is safe
 for another year.
 
-791
-00:42:58,977 --> 00:43:01,209
+838
+00:42:55,573 --> 00:42:57,492
+(<i> crowd cheering</i> )
+
+839
+00:42:57,492 --> 00:42:59,536
 The Sirah! The Sirah!
 
-792
-00:43:01,249 --> 00:43:05,747
+840
+00:42:59,536 --> 00:43:04,332
 Let's get out of here
 before they change their minds.
 
-793
-00:43:05,824 --> 00:43:07,851
-Sirah! Sirah!
+841
+00:43:04,332 --> 00:43:06,418
+Sirah!
+Sirah!
 Sirah!
 
-794
-00:43:12,671 --> 00:43:14,868
+842
+00:43:06,418 --> 00:43:11,214
+(<i> crowd clamor continues</i> )
+
+843
+00:43:11,214 --> 00:43:13,632
 Hail the Sirah.
 
-795
-00:43:18,917 --> 00:43:21,514
+844
+00:43:17,220 --> 00:43:19,764
 Nervous?
 
-796
-00:43:21,556 --> 00:43:23,890
+845
+00:43:19,764 --> 00:43:22,225
 Not at all.
 
-797
-00:43:23,927 --> 00:43:25,395
+846
+00:43:22,225 --> 00:43:23,809
 Maybe a little.
 
-798
-00:43:25,431 --> 00:43:27,994
+847
+00:43:23,809 --> 00:43:26,062
 Do you think Woban
 will accept my proposal?
 
-799
-00:43:28,035 --> 00:43:29,230
+848
+00:43:26,062 --> 00:43:27,605
 It's very possible.
 
-800
-00:43:29,272 --> 00:43:31,742
+849
+00:43:27,605 --> 00:43:29,982
 It would give the Navot
 back their land.
 
-801
-00:43:31,776 --> 00:43:34,748
+850
+00:43:29,982 --> 00:43:33,027
 And free trade access
 to both sides of the river
 
-802
-00:43:34,782 --> 00:43:36,615
-would mean a lot to my people.
+851
+00:43:33,027 --> 00:43:34,820
+would mean a lot
+to my people.
 
-803
-00:43:36,653 --> 00:43:38,452
-It's a reasonable compromise.
+852
+00:43:34,820 --> 00:43:36,822
+It's a reasonable
+compromise.
 
-804
-00:43:41,129 --> 00:43:44,226
+853
+00:43:39,700 --> 00:43:42,412
 We thought we'd wish you luck
 with your meeting.
 
-805
-00:43:44,268 --> 00:43:45,794
+854
+00:43:42,412 --> 00:43:44,247
 Thank you...
 
-806
-00:43:52,952 --> 00:43:54,751
+855
+00:43:51,212 --> 00:43:53,172
 ...for all your help.
 
-807
-00:43:58,897 --> 00:44:00,526
+856
+00:43:57,093 --> 00:43:58,886
 All right, let's go.
 
-808
-00:44:00,567 --> 00:44:03,801
+857
+00:43:58,886 --> 00:44:02,140
 You two are going
 to clean the Security Office
 
-809
-00:44:03,907 --> 00:44:05,536
+858
+00:44:02,140 --> 00:44:03,975
 until it shines.
 
-810
-00:44:07,046 --> 00:44:08,309
+859
+00:44:05,017 --> 00:44:06,644
 You know, Chief
 
-811
-00:44:08,350 --> 00:44:09,818
+860
+00:44:06,644 --> 00:44:08,187
 this is going to make
 a fantastic story
 
-812
-00:44:09,886 --> 00:44:10,979
+861
+00:44:08,187 --> 00:44:09,397
 to tell around the station.
 
-813
-00:44:11,021 --> 00:44:12,786
+862
+00:44:09,397 --> 00:44:11,107
 Not for me.
 
-814
-00:44:12,825 --> 00:44:15,193
+863
+00:44:11,107 --> 00:44:13,276
 I've had my fill of storytelling
 for the time being.
 
-815
-00:44:15,230 --> 00:44:17,223
-Well, I hope you don't mind
-if I mention it.
+864
+00:44:13,276 --> 00:44:15,445
+Well, I hope you don't
+mind if I mention it.
 
-816
-00:44:17,268 --> 00:44:19,670
+865
+00:44:15,445 --> 00:44:17,947
 Suit yourself... Julian.
 
-817
-00:44:19,705 --> 00:44:22,073
+866
+00:44:17,947 --> 00:44:20,283
 Oh, and, Chief,
 on second thought...
 
-818
-00:44:22,110 --> 00:44:25,105
+867
+00:44:20,283 --> 00:44:23,620
 you don't really have
 to call me Julian.
 
-819
-00:44:26,753 --> 00:44:29,223
+868
+00:44:24,996 --> 00:44:27,624
 Right you are... sir.
-

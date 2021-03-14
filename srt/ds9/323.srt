@@ -1,3903 +1,4374 @@
-﻿1
-00:00:24,354 --> 00:00:25,448
-Hey, Dad.
+1
+00:00:01,251 --> 00:00:04,296
+(<i> Sisko humming</i> )
 
 2
-00:00:25,490 --> 00:00:26,550
-Jake-o.
+00:00:04,296 --> 00:00:07,341
+(<i> food sizzling</i> )
 
 3
-00:00:26,592 --> 00:00:27,652
-Take your seat.
+00:00:23,022 --> 00:00:24,107
+Hey, Dad.
 
 4
-00:00:27,695 --> 00:00:28,789
-Dinner's almost ready.
+00:00:24,107 --> 00:00:25,359
+Jake-o.
 
 5
-00:00:28,832 --> 00:00:29,892
-Hmm. Let me guess.
+00:00:25,359 --> 00:00:27,486
+Take your seat.
+Dinner's almost ready.
 
 6
-00:00:29,935 --> 00:00:31,336
-You've convinced the Peljenites
+00:00:27,486 --> 00:00:28,570
+Hmm. Let me guess.
 
 7
-00:00:31,372 --> 00:00:33,434
+00:00:28,570 --> 00:00:30,071
+You've convinced
+the Peljenites
+
+8
+00:00:30,071 --> 00:00:32,157
 to exchange Ambassadors
 with the Federation.
 
-8
-00:00:33,477 --> 00:00:35,037
-How did you know that? Ah!
-
 9
-00:00:35,081 --> 00:00:37,417
+00:00:32,157 --> 00:00:33,742
+How did you know
+that? Ah!
+
+10
+00:00:33,742 --> 00:00:36,036
 You're cooking
 chicken paprikish.
 
-10
-00:00:37,455 --> 00:00:38,515
-Paprikash.
-
 11
-00:00:38,558 --> 00:00:39,788
-You only cook Hungarian food
+00:00:36,036 --> 00:00:37,078
+<i>Paprikash.</i>
 
 12
-00:00:39,828 --> 00:00:41,662
-when you're
-in a really good mood.
+00:00:37,078 --> 00:00:38,455
+You only cook
+Hungarian food
 
 13
-00:00:41,699 --> 00:00:44,571
+00:00:38,455 --> 00:00:40,415
+when you're in
+a really good mood.
+
+14
+00:00:40,415 --> 00:00:43,210
 You know, I always said
 that you are a smart child.
 
-14
-00:00:44,606 --> 00:00:45,802
-Runs in the family.
-
 15
-00:00:45,843 --> 00:00:47,107
-Huh.
+00:00:43,210 --> 00:00:44,628
+Runs in
+the family.
 
 16
-00:00:50,489 --> 00:00:52,551
+00:00:44,628 --> 00:00:46,045
+Huh.
+
+17
+00:00:49,132 --> 00:00:51,218
 You know, I have
 some good news, too.
 
-17
-00:00:52,594 --> 00:00:54,497
+18
+00:00:51,218 --> 00:00:53,178
 Captain Yates is
 back on the station.
 
-18
-00:00:54,532 --> 00:00:55,523
+19
+00:00:53,178 --> 00:00:54,221
 Huh.
 
-19
-00:00:57,172 --> 00:00:58,141
+20
+00:00:55,806 --> 00:00:56,849
 Kasidy Yates.
 
-20
-00:00:58,175 --> 00:00:59,269
+21
+00:00:56,849 --> 00:00:58,141
 Who?
 
-21
-00:00:59,311 --> 00:01:01,475
+22
+00:00:58,141 --> 00:01:00,060
 The freighter captain
 I told you about.
 
-22
-00:01:01,517 --> 00:01:03,077
-The one you want me to meet.
-
 23
-00:01:03,121 --> 00:01:04,751
+00:01:00,060 --> 00:01:01,645
+The one you want me
+to meet.
+
+24
+00:01:01,645 --> 00:01:03,355
 I could, uh,
 invite her over for dinner.
 
-24
-00:01:04,792 --> 00:01:06,558
+25
+00:01:03,355 --> 00:01:05,148
 How about tomorrow night?
 
-25
-00:01:06,596 --> 00:01:10,869
+26
+00:01:05,148 --> 00:01:09,110
 Jake, I think we're getting a
 little ahead of ourselves here.
 
-26
-00:01:10,908 --> 00:01:13,848
+27
+00:01:09,110 --> 00:01:12,406
 I know you want me to meet her,
 and I will.
 
-27
-00:01:13,882 --> 00:01:15,944
+28
+00:01:12,406 --> 00:01:14,449
 Just let me handle it my way.
 
-28
-00:01:15,987 --> 00:01:17,890
-You're going to like her, Dad.
-
 29
-00:01:20,299 --> 00:01:22,270
-You never know.
+00:01:14,449 --> 00:01:16,660
+You're going
+to like her, Dad.
 
 30
-00:01:30,826 --> 00:01:33,732
-The place is packed.
+00:01:19,120 --> 00:01:20,915
+You never know.
 
 31
-00:01:33,767 --> 00:01:34,736
-Where's Nog?
+00:01:29,506 --> 00:01:32,384
+The place is packed.
 
 32
-00:01:34,769 --> 00:01:36,295
-I gave him the night off.
+00:01:32,384 --> 00:01:33,385
+Where's Nog?
 
 33
-00:01:36,341 --> 00:01:37,332
-You what?
+00:01:33,385 --> 00:01:34,803
+I gave him
+the night off.
 
 34
-00:01:37,444 --> 00:01:39,848
-He's studying
-for his Starfleet exams.
+00:01:34,803 --> 00:01:36,055
+You what?
 
 35
-00:01:39,883 --> 00:01:41,751
-He's a very dedicated student.
+00:01:36,055 --> 00:01:38,473
+He's studying for
+his Starfleet exams.
 
 36
-00:01:41,788 --> 00:01:45,355
-He's a disgrace to this family
-and to Ferengi everywhere.
+00:01:38,473 --> 00:01:40,350
+He's a very
+dedicated student.
 
 37
-00:01:45,430 --> 00:01:47,594
-He should be here,
-helping us earn profit
+00:01:40,350 --> 00:01:42,310
+He's a disgrace
+to this family
 
 38
-00:01:47,637 --> 00:01:50,166
+00:01:42,310 --> 00:01:43,938
+and to Ferengi
+everywhere.
+
+39
+00:01:43,938 --> 00:01:46,231
+He should be here,
+helping us earn profit,
+
+40
+00:01:46,231 --> 00:01:48,776
 not in his room learning
 how to be more like a human.
 
-39
-00:01:50,210 --> 00:01:52,010
-He doesn't want
-to be human, Brother.
-
-40
-00:01:52,048 --> 00:01:53,882
-He just wants to join Starfleet.
-
 41
-00:01:53,919 --> 00:01:55,388
-It's the same thing.
+00:01:48,776 --> 00:01:50,694
+He doesn't want to
+be human, Brother.
 
 42
-00:01:55,490 --> 00:01:57,552
+00:01:50,694 --> 00:01:52,529
+He just wants to
+join Starfleet.
+
+43
+00:01:52,529 --> 00:01:53,906
+It's the same thing.
+
+44
+00:01:53,906 --> 00:01:56,742
 Don't you see?
 That's how it begins.
 
-43
-00:01:57,596 --> 00:02:00,398
+45
+00:01:56,742 --> 00:01:58,953
 All it takes is for
 one impressionable youngster
 
-44
-00:02:00,469 --> 00:02:03,271
-to join Starfleet,
-and the next thing you know
-
-45
-00:02:03,310 --> 00:02:04,940
-a whole generation of Ferengi
-
 46
-00:02:04,982 --> 00:02:06,953
+00:01:58,953 --> 00:02:02,081
+to join Starfleet,
+and the next thing you know,
+
+47
+00:02:02,081 --> 00:02:03,665
+a whole generation
+of Ferengi
+
+48
+00:02:03,665 --> 00:02:05,667
 will be quoting
 the Prime Directive
 
-47
-00:02:06,987 --> 00:02:09,186
+49
+00:02:05,667 --> 00:02:07,920
 and abandoning
 the pursuit of latinum.
 
-48
-00:02:09,225 --> 00:02:11,561
+50
+00:02:07,920 --> 00:02:10,881
 It's the end of Ferengi
 civilization as we know it.
 
-49
-00:02:11,598 --> 00:02:13,124
+51
+00:02:10,881 --> 00:02:11,882
 And it's all your fault.
 
-50
-00:02:13,170 --> 00:02:14,196
+52
+00:02:11,882 --> 00:02:13,341
 Relax, Brother.
 
-51
-00:02:14,238 --> 00:02:17,337
-Nog isn't going to destroy
+53
+00:02:13,341 --> 00:02:14,927
+Nog isn't going
+to destroy
+
+54
+00:02:14,927 --> 00:02:16,219
 the Ferengi way of life.
 
-52
-00:02:17,380 --> 00:02:19,818
+55
+00:02:16,219 --> 00:02:18,513
 He just wants a job
 with better hours.
 
-53
-00:02:27,106 --> 00:02:28,541
+56
+00:02:18,513 --> 00:02:19,765
+(<i> chuckles</i> )
+
+57
+00:02:19,765 --> 00:02:21,600
+(<i> chuckles</i>
+<i>patronizingly</i> )
+
+58
+00:02:25,520 --> 00:02:26,939
 You must be Quark.
 
-54
-00:02:28,576 --> 00:02:30,274
+59
+00:02:26,939 --> 00:02:29,066
 That's me.
-What can I do for you?
+What can I
+do for you?
 
-55
-00:02:30,314 --> 00:02:32,718
+60
+00:02:29,066 --> 00:02:31,234
 Brunt, FCA.
 
-56
-00:02:32,754 --> 00:02:35,887
+61
+00:02:31,234 --> 00:02:34,404
 The Ferengi
 Commerce Authority.
 
-57
-00:02:37,666 --> 00:02:39,364
-A Writ of Accountability.
-
-58
-00:02:39,404 --> 00:02:40,634
-We're in trouble.
-
-59
-00:02:40,674 --> 00:02:42,109
-All right, everyone.
-
-60
-00:02:42,145 --> 00:02:44,139
-The bar is closed.
-
-61
-00:02:44,183 --> 00:02:45,743
-Everybody out.
-
 62
-00:02:45,788 --> 00:02:46,916
-Go, go, go.
+00:02:36,031 --> 00:02:38,117
+A Writ of
+Accountability.
 
 63
-00:02:46,957 --> 00:02:48,951
-Now, everybody.
+00:02:38,117 --> 00:02:39,242
+We're in trouble.
 
 64
-00:02:48,996 --> 00:02:51,195
+00:02:39,242 --> 00:02:40,577
+All right, everyone.
+
+65
+00:02:40,577 --> 00:02:42,830
+The bar is closed.
+
+66
+00:02:42,830 --> 00:02:44,331
+Everybody out.
+
+67
+00:02:44,331 --> 00:02:45,540
+Go, go, go.
+
+68
+00:02:45,540 --> 00:02:47,584
+Now, everybody.
+
+69
+00:02:47,584 --> 00:02:49,920
 This way.
 Everybody out!
 
-65
-00:02:51,235 --> 00:02:53,172
+70
+00:02:49,920 --> 00:02:51,880
 Out.
 
-66
-00:02:53,207 --> 00:02:55,371
+71
+00:02:51,880 --> 00:02:54,133
 Everybody out!
 
-67
-00:05:06,377 --> 00:05:09,111
-So, how do you get to be
-an FCA Liquidator, anyway?
-
-68
-00:05:10,221 --> 00:05:13,593
-Hard work, bribes,
-sucking up to the boss...
-
-69
-00:05:13,630 --> 00:05:15,533
-just like any other job.
-
-70
-00:05:15,568 --> 00:05:18,406
-Are these all your assets?
-
-71
-00:05:18,443 --> 00:05:19,434
-- Yes.
-- No.
-
 72
-00:05:22,051 --> 00:05:25,219
+00:05:05,597 --> 00:05:06,974
+So, how do
+you get to be
+
+73
+00:05:06,974 --> 00:05:08,391
+an FCA Liquidator,
+anyway?
+
+74
+00:05:08,391 --> 00:05:09,350
+(<i> thud</i> )
+(<i> yelps</i> )
+
+75
+00:05:09,350 --> 00:05:10,936
+Hard work, bribes
+
+76
+00:05:10,936 --> 00:05:12,813
+sucking up
+to the boss--
+
+77
+00:05:12,813 --> 00:05:14,731
+just like
+any other job.
+
+78
+00:05:14,731 --> 00:05:17,525
+Are these<i> all</i>
+your assets?
+
+79
+00:05:17,525 --> 00:05:18,652
+Yes.
+No.
+
+80
+00:05:18,652 --> 00:05:19,653
+(<i> thud</i> )
+(<i> yelps</i> )
+
+81
+00:05:21,321 --> 00:05:24,324
 Down to the last slip
 of latinum.
 
-73
-00:05:25,260 --> 00:05:29,931
+82
+00:05:24,324 --> 00:05:29,288
 You realize concealing
 financial information
 
-74
-00:05:29,972 --> 00:05:33,778
+83
+00:05:29,288 --> 00:05:30,872
 from the FCA
-could result in severe fines.
 
-75
-00:05:33,815 --> 00:05:38,122
-I would never dream of trying
-to hide anything from the FCA.
+84
+00:05:30,872 --> 00:05:33,083
+could result
+in severe fines.
 
-76
-00:05:38,160 --> 00:05:39,322
+85
+00:05:33,083 --> 00:05:35,127
+I would never
+dream of trying
+
+86
+00:05:35,127 --> 00:05:37,420
+to hide anything
+from the FCA.
+
+87
+00:05:37,420 --> 00:05:38,505
 We'll see.
 
-77
-00:05:41,435 --> 00:05:44,203
+88
+00:05:40,507 --> 00:05:43,302
 Uh, can I look over
 those figures again?
 
-78
-00:05:44,243 --> 00:05:45,542
+89
+00:05:43,302 --> 00:05:44,719
 Yes.
 
-79
-00:05:49,589 --> 00:05:50,558
+90
+00:05:48,723 --> 00:05:49,683
 Wait a minute.
 
-80
-00:05:50,592 --> 00:05:51,959
+91
+00:05:49,683 --> 00:05:51,268
 That can't be right.
 
-81
-00:05:51,996 --> 00:05:55,802
+92
+00:05:51,268 --> 00:05:52,978
 Rom, you forgot
-to include the profit figures
 
-82
-00:05:55,839 --> 00:05:57,639
-for the tulaberry wine
-franchise.
+93
+00:05:52,978 --> 00:05:54,938
+to include the
+profit figures
 
-83
-00:05:57,677 --> 00:05:59,545
+94
+00:05:54,938 --> 00:05:56,815
+for the tulaberry
+wine franchise.
+
+95
+00:05:56,815 --> 00:05:58,025
 But you told me...
 
-84
-00:06:00,585 --> 00:06:03,957
+96
+00:05:58,025 --> 00:05:59,734
+(<i> thud</i> )
+(<i> gasps</i> )
+
+97
+00:05:59,734 --> 00:06:03,280
 Go get them now.
 
-85
-00:06:03,993 --> 00:06:05,588
+98
+00:06:03,280 --> 00:06:04,823
 Yes, Brother.
 
-86
-00:06:09,341 --> 00:06:11,471
+99
+00:06:08,409 --> 00:06:10,620
 You'll have to excuse Rom.
 
-87
-00:06:11,513 --> 00:06:15,980
+100
+00:06:10,620 --> 00:06:15,292
 He means well, but he can be
 a lobeless idiot sometimes.
 
-88
-00:06:16,025 --> 00:06:17,494
+101
+00:06:15,292 --> 00:06:16,710
 Hmm.
 
-89
-00:06:17,529 --> 00:06:19,286
+102
+00:06:16,710 --> 00:06:18,920
 Please, provide a dermal imprint
+
+103
+00:06:18,920 --> 00:06:21,756
 for FCA records.
 
-90
-00:06:19,286 --> 00:06:22,226
-Please, provide a dermal imprint
-for FCA records.
-
-91
-00:06:22,260 --> 00:06:24,732
+104
+00:06:21,756 --> 00:06:24,218
 But you haven't even told me
 what I'm being charged with.
 
-92
-00:06:24,767 --> 00:06:27,467
+105
+00:06:24,218 --> 00:06:27,012
 No, I haven't.
 
-93
-00:06:28,342 --> 00:06:30,108
+106
+00:06:27,971 --> 00:06:29,723
 Oh!
 
-94
-00:06:30,147 --> 00:06:31,777
+107
+00:06:29,723 --> 00:06:32,433
 How rude of me.
 
-95
-00:06:33,422 --> 00:06:34,550
+108
+00:06:32,433 --> 00:06:33,810
 For your troubles.
 
-96
-00:06:34,592 --> 00:06:35,891
+109
+00:06:33,810 --> 00:06:35,312
 You're being charged
 
-97
-00:06:35,928 --> 00:06:38,162
+110
+00:06:35,312 --> 00:06:37,689
 with violating
 Ferengi Trade Bylaw
 
-98
-00:06:38,201 --> 00:06:41,369
+111
+00:06:37,689 --> 00:06:40,984
 Subsection 1,027,
 Paragraph Three.
 
-99
-00:06:41,409 --> 00:06:43,643
+112
+00:06:40,984 --> 00:06:43,945
 Subsection 1,027,
 Paragraph Three?
 
-100
-00:06:43,682 --> 00:06:46,382
-I'm not sure I'm familiar
-with that one.
+113
+00:06:43,945 --> 00:06:45,780
+I'm not sure I'm
+familiar with that one.
 
-101
-00:06:46,422 --> 00:06:48,986
+114
+00:06:45,780 --> 00:06:48,367
 Well, in that case, you
 need a copy of the Bylaws.
 
-102
-00:06:49,029 --> 00:06:52,493
+115
+00:06:48,367 --> 00:06:52,037
 Which you just happen to have.
 
-103
-00:06:56,582 --> 00:07:00,923
+116
+00:06:55,749 --> 00:07:00,295
 Subsection 1,027...
 
-104
-00:07:00,960 --> 00:07:03,728
+117
+00:07:00,295 --> 00:07:03,257
 Paragraph Three.
 
-105
-00:07:03,768 --> 00:07:06,240
+118
+00:07:03,257 --> 00:07:05,633
 "Improper supervision
 of a family member."
 
-106
-00:07:06,274 --> 00:07:08,370
+119
+00:07:05,633 --> 00:07:07,802
 You are being held accountable
 
-107
-00:07:08,413 --> 00:07:11,215
+120
+00:07:07,802 --> 00:07:10,597
 for the criminal activities
 of one Ishka
 
-108
-00:07:11,254 --> 00:07:14,285
+121
+00:07:10,597 --> 00:07:13,808
 daughter of Adred,
 wife of Keldar.
 
-109
-00:07:15,532 --> 00:07:18,768
-Ishka... you mean our mother.
+122
+00:07:15,018 --> 00:07:18,355
+Ishka-- you mean
+our mother.
 
-110
-00:07:18,807 --> 00:07:20,208
+123
+00:07:18,355 --> 00:07:19,689
 What's she done?
 
-111
-00:07:26,159 --> 00:07:31,800
+124
+00:07:25,445 --> 00:07:31,243
 She's charged
 with... earning profit.
 
-112
-00:07:31,841 --> 00:07:33,401
+125
+00:07:31,243 --> 00:07:32,911
 Earning profit?
 
-113
-00:07:33,444 --> 00:07:35,312
+126
+00:07:32,911 --> 00:07:34,788
 Our Moogie?
 
-114
-00:07:42,735 --> 00:07:44,797
+127
+00:07:41,962 --> 00:07:43,880
 Odo, I'm holding you
 personally responsible
 
-115
-00:07:44,841 --> 00:07:47,211
-for the safety of my bar
-and my personal possessions
+128
+00:07:43,880 --> 00:07:45,090
+for the safety
+of my bar
 
-116
-00:07:47,247 --> 00:07:48,807
+129
+00:07:45,090 --> 00:07:46,466
+and my personal
+possessions
+
+130
+00:07:46,466 --> 00:07:48,343
 for as long as I'm
 off the station.
 
-117
-00:07:48,851 --> 00:07:50,320
-And make sure
-my thieving brother
+131
+00:07:48,343 --> 00:07:49,594
+And make sure my
+thieving brother
 
-118
-00:07:50,355 --> 00:07:51,381
-doesn't touch anything.
+132
+00:07:49,594 --> 00:07:50,845
+doesn't touch
+anything.
 
-119
-00:07:51,425 --> 00:07:52,553
+133
+00:07:50,845 --> 00:07:51,805
 Going somewhere?
 
-120
-00:07:52,594 --> 00:07:54,565
-Back to the homeworld
-to take care of some business.
+134
+00:07:51,805 --> 00:07:52,931
+Back to the
+homeworld
 
-121
-00:07:54,599 --> 00:07:56,570
-Little trouble with the FCA?
+135
+00:07:52,931 --> 00:07:54,015
+to take care
+of some business.
 
-122
-00:07:56,638 --> 00:07:58,575
+136
+00:07:54,015 --> 00:07:56,017
+Little trouble
+with the FCA?
+
+137
+00:07:56,017 --> 00:07:58,061
 How'd you know?
 
-123
-00:07:58,610 --> 00:07:59,579
+138
+00:07:58,061 --> 00:07:59,020
 Huh.
 
-124
-00:07:59,612 --> 00:08:01,081
+139
+00:07:59,020 --> 00:08:00,188
 I won't be gone long.
 
-125
-00:08:01,117 --> 00:08:02,086
+140
+00:08:00,188 --> 00:08:01,522
 All I've got to do
 
-126
-00:08:02,119 --> 00:08:03,645
+141
+00:08:01,522 --> 00:08:03,150
 is get my mother
-to confess to her crimes
+to confess to her crimes,
 
-127
-00:08:03,690 --> 00:08:05,057
+142
+00:08:03,150 --> 00:08:04,484
 and I'll be
 on the next transport
 
-128
-00:08:05,094 --> 00:08:06,063
+143
+00:08:04,484 --> 00:08:05,526
 back the station.
 
-129
-00:08:06,097 --> 00:08:07,430
+144
+00:08:05,526 --> 00:08:06,903
 Your mother?
 What's she done?
 
-130
-00:08:07,467 --> 00:08:08,959
+145
+00:08:06,903 --> 00:08:08,280
 It doesn't matter.
 
-131
-00:08:09,003 --> 00:08:11,065
+146
+00:08:08,280 --> 00:08:10,449
 The important thing is,
 I'm required by law
 
-132
-00:08:11,110 --> 00:08:12,740
+147
+00:08:10,449 --> 00:08:12,284
 to get her to admit
-her wrongdoing
+her wrongdoing,
 
-133
-00:08:12,780 --> 00:08:15,048
-make reparations
+148
+00:08:12,284 --> 00:08:14,369
+make reparations,
 and reveal her accomplices.
 
-134
-00:08:15,086 --> 00:08:16,852
+149
+00:08:14,369 --> 00:08:16,455
 And that is
 what I'm going to do.
 
-135
-00:08:16,891 --> 00:08:18,794
+150
+00:08:16,455 --> 00:08:18,165
 Assuming she cooperates.
 
-136
-00:08:19,664 --> 00:08:22,763
+151
+00:08:19,040 --> 00:08:22,210
 Well... she'd better.
 
-137
-00:08:22,806 --> 00:08:25,506
+152
+00:08:22,210 --> 00:08:24,879
 I have no intention
 of spending my latinum
 
-138
-00:08:25,547 --> 00:08:28,487
+153
+00:08:24,879 --> 00:08:27,674
 to make restitution
-for her crimes.
+for<i> her</i> crimes.
 
-139
-00:08:28,521 --> 00:08:31,393
+154
+00:08:27,674 --> 00:08:30,593
 I will wring that confession
 out of her, if I have to.
 
-140
-00:08:31,429 --> 00:08:33,958
-This is your mother
+155
+00:08:30,593 --> 00:08:33,263
+This is your<i> mother</i>
 you're talking about?
 
-141
-00:08:34,002 --> 00:08:36,098
+156
+00:08:33,263 --> 00:08:34,973
 Don't remind me.
 
-142
-00:08:37,511 --> 00:08:39,505
+157
+00:08:36,891 --> 00:08:38,518
 Ah!
 
-143
-00:08:45,632 --> 00:08:47,227
-Ah... Chief O'Brien
+158
+00:08:44,983 --> 00:08:46,609
+Ah-- Chief O'Brien
 wants to know
 
-144
-00:08:47,269 --> 00:08:49,867
-when you can stop by
-and inspect the new runabout.
-
-145
-00:08:49,910 --> 00:08:51,938
-I'll be available at 1400 hours.
-
-146
-00:08:51,982 --> 00:08:54,386
-Tell him that I want
-to name it the <i>Rubicon.</i>
-
-147
-00:08:54,422 --> 00:08:55,755
-The <i>Rubicon</i> it is.
-
-148
-00:08:55,792 --> 00:08:57,820
-You know, the rate
-we go through runabouts
-
-149
-00:08:57,864 --> 00:09:00,234
-it's a good thing
-the Earth has so many rivers.
-
-150
-00:09:00,270 --> 00:09:01,934
-Hmm.
-
-151
-00:09:04,080 --> 00:09:05,515
-Have you met her yet?
-
-152
-00:09:06,854 --> 00:09:08,757
-Met who?
-
-153
-00:09:08,792 --> 00:09:09,852
-Captain Yates.
-
-154
-00:09:09,895 --> 00:09:13,336
-How did you know about her?
-
-155
-00:09:13,371 --> 00:09:15,866
-Jake introduced us.
-
-156
-00:09:15,911 --> 00:09:18,509
-So, are you going to ask her
-out for dinner?
-
-157
-00:09:18,551 --> 00:09:20,385
-I'm considering it.
-
-158
-00:09:20,422 --> 00:09:22,826
-What did you think about her?
-
 159
-00:09:24,533 --> 00:09:26,663
-Let me just put it this way.
+00:08:46,609 --> 00:08:47,694
+when you can stop by
 
 160
-00:09:26,738 --> 00:09:30,578
-If I were Curzon, I'd have
-stolen her from you by now.
+00:08:47,694 --> 00:08:49,237
+and inspect
+the new runabout.
 
 161
-00:09:30,616 --> 00:09:32,280
-That's one of the reasons
+00:08:49,237 --> 00:08:51,365
+I'll be available
+at 1400 hours.
 
 162
-00:09:32,320 --> 00:09:34,792
+00:08:51,365 --> 00:08:52,366
+Tell him that I want
+
+163
+00:08:52,366 --> 00:08:53,741
+to name it the<i> Rubicon.</i>
+
+164
+00:08:53,741 --> 00:08:55,160
+The<i> Rubicon</i> it is.
+
+165
+00:08:55,160 --> 00:08:57,204
+You know, the rate we
+go through runabouts,
+
+166
+00:08:57,204 --> 00:08:58,372
+it's a good thing
+
+167
+00:08:58,372 --> 00:08:59,580
+the Earth has
+so many rivers.
+
+168
+00:08:59,580 --> 00:09:01,458
+Hmm.
+
+169
+00:09:03,377 --> 00:09:05,003
+Have you met her yet?
+
+170
+00:09:06,380 --> 00:09:08,048
+Met who?
+
+171
+00:09:08,048 --> 00:09:09,132
+Captain Yates.
+
+172
+00:09:09,132 --> 00:09:12,719
+How did you know about her?
+
+173
+00:09:12,719 --> 00:09:14,971
+Jake introduced us.
+
+174
+00:09:14,971 --> 00:09:17,724
+So, are you going to
+ask her out for dinner?
+
+175
+00:09:17,724 --> 00:09:19,809
+I'm considering it.
+
+176
+00:09:19,809 --> 00:09:22,354
+What did you think about her?
+
+177
+00:09:23,813 --> 00:09:25,773
+Let me just put it this way.
+
+178
+00:09:25,773 --> 00:09:27,234
+If I were Curzon,
+
+179
+00:09:27,234 --> 00:09:29,736
+I'd have stolen her
+from you by now.
+
+180
+00:09:29,736 --> 00:09:31,279
+That's one of the reasons
+
+181
+00:09:31,279 --> 00:09:34,032
 I'm glad you're not
 Curzon anymore.
 
-163
-00:09:46,323 --> 00:09:47,724
+182
+00:09:41,956 --> 00:09:43,624
+(<i> whispering</i> )
+
+183
+00:09:45,377 --> 00:09:46,961
 Brother, wait!
 
-164
-00:09:47,827 --> 00:09:49,422
+184
+00:09:46,961 --> 00:09:48,463
 I'm coming with you.
 
-165
-00:09:49,465 --> 00:09:50,559
+185
+00:09:48,463 --> 00:09:49,589
 No, you're not.
 
-166
-00:09:50,600 --> 00:09:51,591
+186
+00:09:49,589 --> 00:09:50,965
 Yes, I am.
 
-167
-00:09:51,637 --> 00:09:53,505
+187
+00:09:50,965 --> 00:09:52,509
 What did I tell you
 about contradicting me?
 
-168
-00:09:53,541 --> 00:09:54,840
-You told me not to do it.
+188
+00:09:52,509 --> 00:09:54,010
+You told me
+not to do it.
 
-169
-00:09:54,878 --> 00:09:56,712
+189
+00:09:54,010 --> 00:09:55,720
 That's right, so you're
 going to stay here
 
-170
-00:09:56,750 --> 00:09:59,052
-and watch over the bar
-while I'm gone.
+190
+00:09:55,720 --> 00:09:58,098
+and watch over the
+bar while I'm gone.
 
-171
-00:09:59,089 --> 00:10:00,524
+191
+00:09:58,098 --> 00:09:59,516
 No, I'm not.
 The bar is closed.
 
-172
-00:10:00,559 --> 00:10:02,257
+192
+00:09:59,516 --> 00:10:01,142
 There's no reason
 why I can't come along.
 
-173
-00:10:02,297 --> 00:10:04,200
+193
+00:10:01,142 --> 00:10:03,144
 You want a reason?
 I'll give you a reason.
 
-174
-00:10:04,236 --> 00:10:06,936
+194
+00:10:03,144 --> 00:10:06,022
 I don't want you to.
 And you know why?
 
-175
-00:10:06,977 --> 00:10:09,779
+195
+00:10:06,022 --> 00:10:09,025
 Because you'll just
 take her side.
 
-176
-00:10:09,884 --> 00:10:11,217
+196
+00:10:09,025 --> 00:10:10,318
 You mean Moogie.
 
-177
-00:10:11,254 --> 00:10:12,655
+197
+00:10:10,318 --> 00:10:12,653
 Yes, I mean Moogie.
 
-178
-00:10:12,692 --> 00:10:15,962
-Stop calling her
-by that infantile nickname.
+198
+00:10:12,653 --> 00:10:15,156
+Stop calling her by
+that infantile nickname.
 
-179
-00:10:16,000 --> 00:10:17,264
+199
+00:10:15,156 --> 00:10:16,199
 But she likes it.
 
-180
-00:10:17,303 --> 00:10:18,329
+200
+00:10:16,199 --> 00:10:17,367
 Well, I don't.
 
-181
-00:10:18,373 --> 00:10:19,501
+201
+00:10:17,367 --> 00:10:18,577
 Well, she does.
 
-182
-00:10:19,543 --> 00:10:20,512
+202
+00:10:18,577 --> 00:10:19,619
 You see?
 
-183
-00:10:20,545 --> 00:10:22,516
+203
+00:10:19,619 --> 00:10:21,662
 You always take her side.
 
-184
-00:10:22,550 --> 00:10:23,644
+204
+00:10:21,662 --> 00:10:22,747
 Somebody has to.
 
-185
-00:10:23,686 --> 00:10:24,916
+205
+00:10:22,747 --> 00:10:24,040
 After all, she is our mother.
 
-186
-00:10:24,956 --> 00:10:27,428
-Now, I'm coming with you
+206
+00:10:24,040 --> 00:10:25,375
+Now, I'm coming with you,
+
+207
+00:10:25,375 --> 00:10:26,334
 and that's final.
 
-187
-00:10:27,463 --> 00:10:28,796
+208
+00:10:26,334 --> 00:10:27,919
 All right!
 Fine.
 
-188
-00:10:31,206 --> 00:10:32,801
+209
+00:10:30,338 --> 00:10:31,798
 Come if you want.
 
-189
-00:10:32,844 --> 00:10:35,784
-Just remember one thing:
+210
+00:10:31,798 --> 00:10:34,884
+Just remember
+one thing:
 
-190
-00:10:35,818 --> 00:10:38,951
+211
+00:10:34,884 --> 00:10:37,720
 This is between Moog...
 
-191
-00:10:38,993 --> 00:10:41,227
+212
+00:10:37,720 --> 00:10:40,265
 Mother and me.
 
-192
-00:10:41,265 --> 00:10:43,395
+213
+00:10:40,265 --> 00:10:42,309
 So if you know
 what's good for you,
 
-193
-00:10:43,438 --> 00:10:45,170
+214
+00:10:42,309 --> 00:10:44,352
 you'll stay out of the way.
 
-194
-00:11:18,408 --> 00:11:20,276
+215
+00:10:57,698 --> 00:11:01,495
+(<i> thunder rumbling</i> )
+
+216
+00:11:14,841 --> 00:11:17,093
+(<i> shuddering</i> )
+
+217
+00:11:18,052 --> 00:11:20,096
 Welcome to our home.
 
-195
-00:11:23,388 --> 00:11:25,690
+218
+00:11:23,183 --> 00:11:25,602
 Oh.
 
-196
-00:11:25,726 --> 00:11:27,788
+219
+00:11:25,602 --> 00:11:27,686
 Um.
 
-197
-00:11:27,832 --> 00:11:31,296
+220
+00:11:27,686 --> 00:11:31,065
 Please place your imprint
 on the legal waivers
 
-198
-00:11:31,341 --> 00:11:35,910
-and deposit your admission fee
+221
+00:11:31,065 --> 00:11:33,652
+and deposit
+your admission fee
+
+222
+00:11:33,652 --> 00:11:35,862
 in the box by the door.
 
-199
-00:11:37,323 --> 00:11:39,453
-Remember, my house is my house.
+223
+00:11:36,904 --> 00:11:39,240
+Remember, my house
+is my house.
 
-200
-00:11:39,495 --> 00:11:42,024
+224
+00:11:39,240 --> 00:11:41,576
 As are its contents.
 
-201
-00:11:45,511 --> 00:11:47,847
+225
+00:11:45,079 --> 00:11:47,706
 It's good to be back,
 isn't it, Brother?
 
-202
-00:11:47,884 --> 00:11:49,616
-Now that you mention it, no.
+226
+00:11:47,706 --> 00:11:49,376
+Now that you
+mention it, no.
 
-203
-00:11:49,656 --> 00:11:52,128
+227
+00:11:49,376 --> 00:11:51,336
 But you haven't been
 here in 20 years.
 
-204
-00:11:52,162 --> 00:11:54,691
+228
+00:11:51,336 --> 00:11:53,712
 If I had my way, I would
 have been gone another 20.
 
-205
-00:11:54,735 --> 00:11:56,227
+229
+00:11:53,712 --> 00:11:55,215
 Oh.
 
-206
-00:11:56,272 --> 00:11:58,243
-Hmm... Mother certainly
+230
+00:11:55,215 --> 00:11:57,925
+Hmm-- Mother certainly
 has been acquiring
 
-207
-00:11:58,277 --> 00:11:59,975
+231
+00:11:57,925 --> 00:11:59,594
 quite a few new things.
 
-208
-00:12:01,620 --> 00:12:04,924
+232
+00:12:01,137 --> 00:12:04,723
 Uh, doubtless with the generous
 stipend you give her.
 
-209
-00:12:06,833 --> 00:12:08,234
+233
+00:12:05,850 --> 00:12:07,726
 Look, Brother.
 
-210
-00:12:08,270 --> 00:12:12,076
+234
+00:12:07,726 --> 00:12:11,147
 The latinum tooth sharpener
 I used when we were children.
 
-211
-00:12:12,114 --> 00:12:14,780
+235
+00:12:11,147 --> 00:12:12,773
 All I had was
-a cheap wooden chew stick.
 
-212
-00:12:14,821 --> 00:12:16,485
-Excuse me for interrupting
+236
+00:12:12,773 --> 00:12:14,484
+a cheap wooden
+chew stick.
 
-213
-00:12:16,526 --> 00:12:18,964
+237
+00:12:14,484 --> 00:12:16,110
+Excuse me
+for interrupting,
+
+238
+00:12:16,110 --> 00:12:18,737
 but we do have business
 to attend to.
 
-214
-00:12:18,999 --> 00:12:20,731
-As a registered Liquidator
+239
+00:12:18,737 --> 00:12:20,365
+As a registered Liquidator,
 
-215
-00:12:20,769 --> 00:12:23,207
+240
+00:12:20,365 --> 00:12:22,701
 it's my duty to present
 a formal list
 
-216
-00:12:23,242 --> 00:12:25,476
+241
+00:12:22,701 --> 00:12:25,036
 of the infractions
 committed by your mother.
 
-217
-00:12:25,515 --> 00:12:26,541
-You have three days to obtain
+242
+00:12:25,036 --> 00:12:26,329
+You have three days
+to obtain
 
-218
-00:12:26,585 --> 00:12:28,020
+243
+00:12:26,329 --> 00:12:27,497
 an admission of guilt
 from the accused.
 
-219
-00:12:28,055 --> 00:12:29,251
+244
+00:12:27,497 --> 00:12:28,747
 Three days...
 is that all?
 
-220
-00:12:29,292 --> 00:12:32,425
-If you're not able to obtain
+245
+00:12:28,747 --> 00:12:30,833
+If you're not able
+to obtain
+
+246
+00:12:30,833 --> 00:12:32,001
 a confession, your mother
 
-221
-00:12:32,466 --> 00:12:34,198
+247
+00:12:32,001 --> 00:12:33,752
 will be placed
 in indentured servitude
 
-222
-00:12:34,238 --> 00:12:35,207
+248
+00:12:33,752 --> 00:12:34,962
 and you will be required
 
-223
-00:12:35,240 --> 00:12:36,504
+249
+00:12:34,962 --> 00:12:36,464
 to make restitution
 for her crimes.
 
-224
-00:12:36,544 --> 00:12:38,846
+250
+00:12:36,464 --> 00:12:37,798
 Do you understand
 everything I've said to you?
 
-225
-00:12:38,883 --> 00:12:40,182
-He understands, all right.
+251
+00:12:37,798 --> 00:12:39,758
+FEMALE:
+He understands,
+all right.
 
-226
-00:12:40,220 --> 00:12:41,986
+252
+00:12:39,758 --> 00:12:41,636
 Not that it matters.
 
-227
-00:12:42,024 --> 00:12:44,553
+253
+00:12:41,636 --> 00:12:44,180
 I'm not confessing anything.
 
-228
-00:12:44,631 --> 00:12:46,830
+254
+00:12:44,180 --> 00:12:46,224
 Moogie.
 
-229
-00:12:47,873 --> 00:12:50,175
-Oh, it's good to see you, son.
+255
+00:12:47,434 --> 00:12:49,894
+Oh, it's good
+to see you, son.
 
-230
-00:12:50,212 --> 00:12:52,446
+256
+00:12:49,894 --> 00:12:52,021
 You look well.
 
-231
-00:12:53,455 --> 00:12:55,927
-And you look... dressed.
+257
+00:12:52,980 --> 00:12:55,609
+And you look...
+dressed.
 
-232
-00:12:55,961 --> 00:12:57,328
+258
+00:12:55,609 --> 00:12:56,859
 Oh! Now, now...
 
-233
-00:12:57,365 --> 00:13:00,898
+259
+00:12:56,859 --> 00:13:00,321
 Your mother is wearing clothes.
 
-234
-00:13:00,941 --> 00:13:03,813
+260
+00:13:00,321 --> 00:13:03,324
 Mother, get undressed
 this instant.
 
-235
-00:13:03,848 --> 00:13:05,317
+261
+00:13:03,324 --> 00:13:04,743
 Hello, Quark.
 
-236
-00:13:05,352 --> 00:13:08,224
-You haven't changed a bit.
+262
+00:13:04,743 --> 00:13:07,786
+You haven't
+changed a bit.
 
-237
-00:13:08,259 --> 00:13:09,489
+263
+00:13:07,786 --> 00:13:09,080
 Perhaps I should leave.
 
-238
-00:13:09,529 --> 00:13:10,964
+264
+00:13:09,080 --> 00:13:10,457
 Perhaps you should.
 
-239
-00:13:11,969 --> 00:13:13,837
+265
+00:13:10,457 --> 00:13:13,293
 Wa... was she addressing me?
 
-240
-00:13:13,874 --> 00:13:15,207
+266
+00:13:13,293 --> 00:13:14,586
 No, no, not at all.
 
-241
-00:13:15,244 --> 00:13:16,874
+267
+00:13:14,586 --> 00:13:16,212
+ISHKA:
 Of course I was.
 
-242
-00:13:16,915 --> 00:13:19,753
-This is my home, and I'll speak
-to whomever I want.
+268
+00:13:16,212 --> 00:13:18,423
+This is my home, and I'll
+speak to whomever I want.
 
-243
-00:13:19,790 --> 00:13:22,126
+269
+00:13:18,423 --> 00:13:20,759
 But, Moogie, he's a stranger,
 and you're female.
 
-244
-00:13:22,162 --> 00:13:24,498
+270
+00:13:20,759 --> 00:13:23,970
 It's all right, Rom,
 I know what I'm doing.
 
-245
-00:13:24,535 --> 00:13:27,064
+271
+00:13:23,970 --> 00:13:26,805
 Perhaps you do,
 but I will not stand here
 
-246
-00:13:27,108 --> 00:13:28,942
+272
+00:13:26,805 --> 00:13:28,433
 and be spoken to by a female.
 
-247
-00:13:28,979 --> 00:13:31,747
+273
+00:13:28,433 --> 00:13:31,352
 Wait, I'm sure there's
 an explanation.
 
-248
-00:13:31,787 --> 00:13:34,852
+274
+00:13:31,352 --> 00:13:32,646
 You have three days
-to get your house in order.
 
-249
-00:13:39,707 --> 00:13:41,975
+275
+00:13:32,646 --> 00:13:34,355
+to get your house
+in order.
+
+276
+00:13:35,565 --> 00:13:37,776
+(<i> disgusted groans</i> )
+
+277
+00:13:39,193 --> 00:13:41,488
 Now, see what you've done.
 
-250
-00:13:42,013 --> 00:13:43,312
+278
+00:13:41,488 --> 00:13:42,781
 Oh.
 
-251
-00:13:43,350 --> 00:13:45,879
+279
+00:13:42,781 --> 00:13:45,199
 Quark, you're
 upsetting your brother.
 
-252
-00:13:45,923 --> 00:13:47,358
-He's not the only one
+280
+00:13:45,199 --> 00:13:46,743
+He's not
+the only one
 
-253
-00:13:47,395 --> 00:13:50,563
+281
+00:13:46,743 --> 00:13:49,996
 who's upset, not that
 anyone cares how I feel.
 
-254
-00:13:50,603 --> 00:13:52,699
+282
+00:13:49,996 --> 00:13:52,165
 That's not true.
 
-255
-00:13:52,775 --> 00:13:54,301
+283
+00:13:52,165 --> 00:13:53,625
 I care.
 
-256
-00:13:54,346 --> 00:13:57,252
+284
+00:13:53,625 --> 00:13:56,711
 Then imprint this
 and take off those clothes.
 
-257
-00:13:57,287 --> 00:14:00,125
+285
+00:13:56,711 --> 00:13:57,712
 I'm not doing
+
+286
+00:13:57,712 --> 00:13:59,380
 anything of the kind.
 
-258
-00:14:00,161 --> 00:14:01,528
+287
+00:13:59,380 --> 00:14:00,799
 Yes, you are.
 
-259
-00:14:01,564 --> 00:14:03,467
+288
+00:14:00,799 --> 00:14:02,883
 You're going to make
 a full confession
 
-260
-00:14:03,502 --> 00:14:05,028
+289
+00:14:02,883 --> 00:14:04,594
 so that I can go back to my bar
 
-261
-00:14:05,073 --> 00:14:07,203
+290
+00:14:04,594 --> 00:14:06,596
 and pretend none of this
 has ever happened.
 
-262
-00:14:07,245 --> 00:14:09,479
+291
+00:14:06,596 --> 00:14:08,889
 You mean, we're leaving so soon?
 
-263
-00:14:09,518 --> 00:14:11,010
+292
+00:14:08,889 --> 00:14:10,057
 Rom, this is your home.
 
-264
-00:14:11,056 --> 00:14:12,686
+293
+00:14:10,057 --> 00:14:12,101
 You can stay
 as long as you like.
 
-265
-00:14:12,726 --> 00:14:14,925
+294
+00:14:12,101 --> 00:14:14,521
 Or leave whenever you like,
 it's up to you.
 
-266
-00:14:23,221 --> 00:14:24,520
+295
+00:14:22,821 --> 00:14:23,988
 Same old Moogie.
 
-267
-00:14:24,557 --> 00:14:26,117
+296
+00:14:23,988 --> 00:14:25,740
 Yeah.
 
-268
-00:14:31,675 --> 00:14:34,547
+297
+00:14:30,995 --> 00:14:33,914
 Are you sure this
 is absolutely necessary?
 
-269
-00:14:34,583 --> 00:14:37,751
-Well, I don't know
-if I would call it necessary.
+298
+00:14:33,914 --> 00:14:35,291
+Well, I
+don't know
 
-270
-00:14:37,825 --> 00:14:41,767
-Constable, there's no telling
-how long Quark could be away.
+299
+00:14:35,291 --> 00:14:37,126
+if I would call
+it necessary.
 
-271
-00:14:41,836 --> 00:14:43,636
-All we want is our dart board.
+300
+00:14:37,126 --> 00:14:39,170
+Constable, there's
+no telling
 
-272
-00:14:43,674 --> 00:14:45,668
+301
+00:14:39,170 --> 00:14:41,130
+how long Quark
+could be away.
+
+302
+00:14:41,130 --> 00:14:42,923
+All we want is
+our dart board.
+
+303
+00:14:42,923 --> 00:14:45,051
 Well, can't you just replicate
 another one?
 
-273
-00:14:45,712 --> 00:14:46,772
+304
+00:14:45,051 --> 00:14:46,177
 We could.
 
-274
-00:14:46,815 --> 00:14:48,250
+305
+00:14:46,177 --> 00:14:47,679
 But we're not going to.
 
-275
-00:14:48,286 --> 00:14:50,952
+306
+00:14:47,679 --> 00:14:50,264
 That's our dart board,
 and we want it back.
 
-276
-00:14:50,992 --> 00:14:53,658
+307
+00:14:50,264 --> 00:14:52,975
 If Quark was going to run off,
 the least he could do
 
-277
-00:14:53,700 --> 00:14:54,794
+308
+00:14:52,975 --> 00:14:54,227
 is give us some warning
 
-278
-00:14:54,835 --> 00:14:56,304
+309
+00:14:54,227 --> 00:14:55,603
 so we could retrieve
 our property.
 
-279
-00:14:56,340 --> 00:14:57,673
-It's the principle of the thing.
+310
+00:14:55,603 --> 00:14:56,688
+It's the principle
+of the thing.
 
-280
-00:14:57,710 --> 00:14:59,043
+311
+00:14:56,688 --> 00:14:58,356
 Hmm.
 
-281
-00:14:59,080 --> 00:15:01,712
+312
+00:14:58,356 --> 00:15:01,025
 Well, getting it back might not
 be as simple as you think.
 
-282
-00:15:01,754 --> 00:15:04,592
+313
+00:15:01,025 --> 00:15:04,028
 This is one of Rom's
 special security locks.
 
-283
-00:15:04,628 --> 00:15:08,161
+314
+00:15:04,028 --> 00:15:05,780
 I've never seen anything
+
+315
+00:15:05,780 --> 00:15:07,741
 so convoluted.
 
-284
-00:15:08,204 --> 00:15:10,107
+316
+00:15:07,741 --> 00:15:09,450
+SISKO:
 Gentlemen...
 
-285
-00:15:10,142 --> 00:15:11,668
+317
+00:15:09,450 --> 00:15:10,951
 is there a problem?
 
-286
-00:15:11,713 --> 00:15:13,182
+318
+00:15:10,951 --> 00:15:12,662
 Ah, well, it seems that Quark
 
-287
-00:15:13,217 --> 00:15:16,350
+319
+00:15:12,662 --> 00:15:15,956
 has locked some of Chief O'Brien
 and Dr. Bashir's
 
-288
-00:15:16,392 --> 00:15:19,696
+320
+00:15:15,956 --> 00:15:17,291
 personal property
+
+321
+00:15:17,291 --> 00:15:19,126
 inside the bar.
 
-289
-00:15:19,734 --> 00:15:21,898
+322
+00:15:19,126 --> 00:15:21,170
 Ah, let me guess.
 
-290
-00:15:21,940 --> 00:15:24,812
+323
+00:15:21,170 --> 00:15:24,006
 Your lucky dart board.
 
-291
-00:15:24,847 --> 00:15:27,376
+324
+00:15:24,006 --> 00:15:26,008
 We never said it was
 a "lucky" dart board.
 
-292
-00:15:27,421 --> 00:15:29,415
+325
+00:15:26,008 --> 00:15:28,636
 We're just used to playing
 on it, that's all.
 
-293
-00:15:29,459 --> 00:15:31,589
-A little defensive, aren't they?
+326
+00:15:28,636 --> 00:15:30,555
+A little defensive,
+aren't they?
 
-294
-00:15:33,369 --> 00:15:34,929
+327
+00:15:30,555 --> 00:15:32,932
+(<i> scoffs</i> )
+
+328
+00:15:32,932 --> 00:15:34,308
 Ah, well, it looks like
 
-295
-00:15:34,974 --> 00:15:37,846
+329
+00:15:34,308 --> 00:15:36,977
 it's a tripartite
 micro-sealing mechanism.
 
-296
-00:15:37,881 --> 00:15:39,316
-It's going to take you
-a long time
+330
+00:15:36,977 --> 00:15:38,688
+It's going to take
+you a long time
 
-297
-00:15:39,352 --> 00:15:40,446
+331
+00:15:38,688 --> 00:15:40,690
 to get through that one.
 
-298
-00:15:41,457 --> 00:15:42,790
+332
+00:15:40,690 --> 00:15:41,941
 If you want any suggestions
 
-299
-00:15:42,827 --> 00:15:44,126
-- I'll be in Cargo Bay...
-- Four.
+333
+00:15:41,941 --> 00:15:43,359
+I'll be in
+Cargo Bay...
+Four.
 
-300
-00:15:44,164 --> 00:15:45,862
+334
+00:15:43,359 --> 00:15:45,152
 Huh? Seven.
 
-301
-00:15:47,473 --> 00:15:48,669
+335
+00:15:46,987 --> 00:15:48,030
 Oh, uh...
 
-302
-00:15:48,710 --> 00:15:51,182
+336
+00:15:48,030 --> 00:15:50,408
 well, I thought...
 
-303
-00:15:51,216 --> 00:15:52,480
+337
+00:15:50,408 --> 00:15:51,785
 Thought what?
 
-304
-00:15:52,519 --> 00:15:55,823
+338
+00:15:51,785 --> 00:15:54,995
 I thought you were going to...
 
-305
-00:15:57,298 --> 00:15:59,896
+339
+00:15:56,497 --> 00:15:59,083
 talk to the freighter captain.
 
-306
-00:16:00,005 --> 00:16:02,569
-You know, uh, Jake's friend?
+340
+00:15:59,083 --> 00:16:01,711
+You know, uh,
+Jake's friend?
 
-307
-00:16:02,612 --> 00:16:04,846
+341
+00:16:01,711 --> 00:16:03,963
 Oh.
 How do you two know about her?
 
-308
-00:16:04,884 --> 00:16:06,548
+342
+00:16:03,963 --> 00:16:05,715
+BASHIR:
 The Chief told me.
 
-309
-00:16:10,633 --> 00:16:15,043
+343
+00:16:09,719 --> 00:16:14,307
 Exactly how many people has
 Jake told about this woman?
 
-310
-00:16:17,150 --> 00:16:18,619
+344
+00:16:16,350 --> 00:16:17,769
 Everyone.
 
-311
-00:16:21,026 --> 00:16:22,586
+345
+00:16:20,187 --> 00:16:21,731
 Huh.
 
-312
-00:16:24,736 --> 00:16:26,468
-Tube grubs, extra juicy.
+346
+00:16:22,816 --> 00:16:23,817
+(<i> buzzing</i> )
 
-313
-00:16:26,507 --> 00:16:28,603
-Just the way you like them.
+347
+00:16:23,817 --> 00:16:25,693
+Tube grubs,
+extra juicy.
 
-314
-00:16:28,646 --> 00:16:29,740
+348
+00:16:25,693 --> 00:16:27,779
+Just the way
+you like them.
+
+349
+00:16:27,779 --> 00:16:28,947
 What are you doing?
 
-315
-00:16:29,782 --> 00:16:30,910
+350
+00:16:28,947 --> 00:16:30,030
 Serving dinner.
 
-316
-00:16:30,985 --> 00:16:32,386
-That's Mother's job.
+351
+00:16:30,030 --> 00:16:31,658
+That's
+Mother's job.
 
-317
-00:16:32,422 --> 00:16:34,052
+352
+00:16:31,658 --> 00:16:33,242
 She's not feeling well.
 
-318
-00:16:34,093 --> 00:16:36,691
+353
+00:16:33,242 --> 00:16:35,787
 Not feeling well?
 
-319
-00:16:36,733 --> 00:16:39,137
+354
+00:16:35,787 --> 00:16:38,331
 Wait a minute.
 
-320
-00:16:39,173 --> 00:16:42,011
+355
+00:16:38,331 --> 00:16:42,376
 That's not bad.
 
-321
-00:16:43,518 --> 00:16:45,614
+356
+00:16:42,376 --> 00:16:44,587
 We could say she's having
 emotional problems.
 
-322
-00:16:45,656 --> 00:16:47,422
+357
+00:16:44,587 --> 00:16:46,673
 We might even be able
 to get the FCA
 
-323
-00:16:47,461 --> 00:16:49,591
+358
+00:16:46,673 --> 00:16:48,633
 to drop the charges,
 in light of her illness.
 
-324
-00:16:49,634 --> 00:16:51,502
+359
+00:16:48,633 --> 00:16:50,510
 Actually, all she has
 is a slight rash.
 
-325
-00:16:51,539 --> 00:16:54,445
+360
+00:16:50,510 --> 00:16:53,554
 Her skin's still a little
 sensitive to clothing.
 
-326
-00:16:54,480 --> 00:16:57,852
+361
+00:16:53,554 --> 00:16:56,933
 That's hardly an excuse not
 to serve her sons dinner.
 
-327
-00:16:57,889 --> 00:16:59,256
+362
+00:16:56,933 --> 00:16:58,309
 Look at this.
 
-328
-00:16:59,292 --> 00:17:01,821
+363
+00:16:58,309 --> 00:17:00,937
 She hasn't even softened
 the grubs for us.
 
-329
-00:17:01,865 --> 00:17:03,129
+364
+00:17:00,937 --> 00:17:02,229
 You know Moogie.
 
-330
-00:17:03,168 --> 00:17:05,071
+365
+00:17:02,229 --> 00:17:04,315
 She never liked
 chewing our food for us.
 
-331
-00:17:05,108 --> 00:17:06,942
+366
+00:17:04,315 --> 00:17:06,066
 Not even when we were children.
 
-332
-00:17:07,046 --> 00:17:09,280
+367
+00:17:06,066 --> 00:17:08,319
 Oh, she always had her own way
 of doing things.
 
-333
-00:17:09,318 --> 00:17:11,152
+368
+00:17:08,319 --> 00:17:10,363
 You remember
 how the other children
 
-334
-00:17:11,189 --> 00:17:12,681
+369
+00:17:10,363 --> 00:17:11,698
 used to tease us about her?
 
-335
-00:17:12,727 --> 00:17:14,961
+370
+00:17:11,698 --> 00:17:13,115
 "Your mother won't chew
 your food."
 
-336
-00:17:15,033 --> 00:17:16,628
+371
+00:17:13,115 --> 00:17:15,576
 "Your mother
 talks to strangers."
 
-337
-00:17:16,671 --> 00:17:18,699
+372
+00:17:15,576 --> 00:17:17,787
 It's like she went
 out of her way
 
-338
-00:17:18,742 --> 00:17:21,078
+373
+00:17:17,787 --> 00:17:20,247
 to embarrass us...
 
-339
-00:17:21,115 --> 00:17:22,847
+374
+00:17:20,247 --> 00:17:22,000
 not to mention Father.
 
-340
-00:17:23,923 --> 00:17:27,056
+375
+00:17:23,042 --> 00:17:26,253
 Oh, I remember.
 
-341
-00:17:28,668 --> 00:17:31,699
+376
+00:17:27,630 --> 00:17:30,758
 There were nights when
 I would find him sitting
 
-342
-00:17:31,743 --> 00:17:33,212
+377
+00:17:30,758 --> 00:17:32,259
 slumped in this chair.
 
-343
-00:17:33,247 --> 00:17:35,275
+378
+00:17:32,259 --> 00:17:34,345
 He'd say to me,
 "Quark, I don't know
 
-344
-00:17:35,319 --> 00:17:37,655
+379
+00:17:34,345 --> 00:17:36,597
 what I'm going to do
 about that female."
 
-345
-00:17:37,692 --> 00:17:40,164
+380
+00:17:36,597 --> 00:17:39,141
 No wonder he never
 earned much profit.
 
-346
-00:17:40,199 --> 00:17:42,569
+381
+00:17:39,141 --> 00:17:41,728
 He was too busy
 worrying about her.
 
-347
-00:17:42,604 --> 00:17:44,039
+382
+00:17:41,728 --> 00:17:43,062
 I thought Father did
 all right.
 
-348
-00:17:44,142 --> 00:17:48,917
-He could have done a lot better
-if she'd just behaved herself
+383
+00:17:43,062 --> 00:17:44,689
+He could have
+done a lot better
 
-349
-00:17:48,955 --> 00:17:51,723
-showed him
-the respect he deserved.
+384
+00:17:44,689 --> 00:17:47,274
+if she'd just
+behaved herself,
 
-350
-00:17:51,762 --> 00:17:54,668
+385
+00:17:47,274 --> 00:17:50,737
+showed him the
+respect he deserved.
+
+386
+00:17:50,737 --> 00:17:53,781
 Well, she may have
-dragged Father down
+dragged Father down,
 
-351
-00:17:54,703 --> 00:17:57,301
+387
+00:17:53,781 --> 00:17:56,325
 but she's not doing
 the same to me.
 
-352
-00:17:57,343 --> 00:18:00,340
+388
+00:17:56,325 --> 00:17:59,495
 It's time someone
 put her in her place.
 
-353
-00:18:00,384 --> 00:18:02,856
-Have anyone in mind for the job?
+389
+00:17:59,495 --> 00:18:01,915
+Have anyone in mind
+for the job?
 
-354
-00:18:14,688 --> 00:18:16,248
+390
+00:18:13,927 --> 00:18:15,469
 Mmm...
 
-355
-00:18:16,292 --> 00:18:18,924
+391
+00:18:15,469 --> 00:18:17,889
 Dank and musty.
 
-356
-00:18:18,966 --> 00:18:21,062
+392
+00:18:17,889 --> 00:18:20,099
 I hand-picked them
 from the cellar.
 
-357
-00:18:21,105 --> 00:18:23,269
+393
+00:18:20,099 --> 00:18:22,268
 Mother, we need to talk.
 
-358
-00:18:23,310 --> 00:18:24,370
+394
+00:18:22,268 --> 00:18:23,519
 Forget it, Quark.
 
-359
-00:18:24,413 --> 00:18:26,350
+395
+00:18:23,519 --> 00:18:25,396
 I am not imprinting
 the confession.
 
-360
-00:18:26,384 --> 00:18:27,580
+396
+00:18:25,396 --> 00:18:26,564
 Why not?
 
-361
-00:18:27,621 --> 00:18:28,817
+397
+00:18:26,564 --> 00:18:27,982
 Imprinting the confession
 
-362
-00:18:28,858 --> 00:18:30,795
+398
+00:18:27,982 --> 00:18:29,734
 doesn't take away
 from your achievement.
 
-363
-00:18:30,829 --> 00:18:33,393
+399
+00:18:29,734 --> 00:18:32,361
 Just admit to what you did,
 and tell the FCA the name
 
-364
-00:18:33,437 --> 00:18:35,636
+400
+00:18:32,361 --> 00:18:34,614
 of any male who might
 have helped you.
 
-365
-00:18:35,675 --> 00:18:37,509
+401
+00:18:34,614 --> 00:18:36,532
 What exactly did she do,
 Brother?
 
-366
-00:18:37,547 --> 00:18:38,641
+402
+00:18:36,532 --> 00:18:37,533
 Never mind what she did.
 
-367
-00:18:38,683 --> 00:18:39,743
-Why don't you tell him?
+403
+00:18:37,533 --> 00:18:38,659
+Why don't
+you tell him?
 
-368
-00:18:39,786 --> 00:18:41,518
+404
+00:18:38,659 --> 00:18:40,494
 Or would you prefer I did?
 
-369
-00:18:41,558 --> 00:18:43,461
+405
+00:18:40,494 --> 00:18:42,329
 All right.
 
-370
-00:18:43,496 --> 00:18:46,664
+406
+00:18:42,329 --> 00:18:45,583
 She took a part of
 the monthly stipend I send her
 
-371
-00:18:46,704 --> 00:18:49,542
+407
+00:18:45,583 --> 00:18:48,461
 and invested it
 in a Hupyrian beetle farm.
 
-372
-00:18:49,578 --> 00:18:51,640
+408
+00:18:48,461 --> 00:18:50,588
 High-quality beetles.
 
-373
-00:18:51,684 --> 00:18:52,948
+409
+00:18:50,588 --> 00:18:51,714
 The best.
 
-374
-00:18:52,987 --> 00:18:54,081
+410
+00:18:51,714 --> 00:18:53,007
+ROM:
 Really?
 
-375
-00:18:54,124 --> 00:18:55,423
+411
+00:18:53,007 --> 00:18:54,383
 How much did you make, Moogie?
 
-376
-00:18:55,460 --> 00:18:57,898
+412
+00:18:54,383 --> 00:18:56,677
 Three bars
 of gold-pressed latinum.
 
-377
-00:18:57,934 --> 00:19:01,136
-Three bars of latinum?
+413
+00:18:56,677 --> 00:18:58,805
+ROM:
+Three bars
 
-378
-00:19:01,175 --> 00:19:03,739
+414
+00:18:58,805 --> 00:19:00,098
+of latinum?
+
+415
+00:19:00,098 --> 00:19:02,475
 Isn't the FCA
 overreacting a little?
 
-379
-00:19:03,782 --> 00:19:05,616
+416
+00:19:02,475 --> 00:19:04,727
 It doesn't matter
 whether it's one slip
 
-380
-00:19:05,653 --> 00:19:07,283
+417
+00:19:04,727 --> 00:19:06,312
 or a hundred thousand bars.
 
-381
-00:19:07,325 --> 00:19:10,960
+418
+00:19:06,312 --> 00:19:09,899
 Females are not allowed
 to earn profit!
 
-382
-00:19:11,001 --> 00:19:12,470
+419
+00:19:09,899 --> 00:19:11,484
 Why not?!
 
-383
-00:19:12,504 --> 00:19:14,908
+420
+00:19:11,484 --> 00:19:13,820
 Because it's the law,
-and without law
+and without law,
 
-384
-00:19:14,944 --> 00:19:17,040
+421
+00:19:13,820 --> 00:19:15,822
 society would descend
 into chaos.
 
-385
-00:19:17,083 --> 00:19:19,521
-If you ask me, this society
-could use a little chaos.
+422
+00:19:15,822 --> 00:19:18,574
+If you ask me, this
+society could use
+a little chaos.
 
-386
-00:19:19,556 --> 00:19:22,051
+423
+00:19:18,574 --> 00:19:20,910
 Not if I have anything
 to say about it!
 
-387
-00:19:22,096 --> 00:19:24,033
-Gee, I wish Father were alive.
+424
+00:19:20,910 --> 00:19:22,912
+Gee, I wish Father
+were alive.
 
-388
-00:19:24,068 --> 00:19:26,005
+425
+00:19:22,912 --> 00:19:24,872
 Then it would be
-just like old times
+just like old times,
 
-389
-00:19:26,040 --> 00:19:28,808
-sitting around the family table
-eating tube grubs
+426
+00:19:24,872 --> 00:19:27,500
+sitting around the family table,
+eating tube grubs,
 
-390
-00:19:28,847 --> 00:19:31,046
+427
+00:19:27,500 --> 00:19:30,003
 discussing important issues
 of the day.
 
-391
-00:19:38,171 --> 00:19:39,197
+428
+00:19:32,630 --> 00:19:34,966
+(<i> sighs</i> )
+
+429
+00:19:37,051 --> 00:19:38,052
 Mother...
 
-392
-00:19:39,241 --> 00:19:42,443
+430
+00:19:38,052 --> 00:19:40,054
 I know you're not
+
+431
+00:19:40,054 --> 00:19:41,472
 like other females.
 
-393
-00:19:42,482 --> 00:19:44,544
+432
+00:19:41,472 --> 00:19:43,223
 You like to think about things.
 
-394
-00:19:44,587 --> 00:19:45,783
+433
+00:19:43,223 --> 00:19:44,558
 You have opinions.
 
-395
-00:19:45,824 --> 00:19:48,855
+434
+00:19:44,558 --> 00:19:47,645
 Is that a compliment
 or an accusation?
 
-396
-00:19:48,899 --> 00:19:49,868
+435
+00:19:47,645 --> 00:19:48,646
 It's a fact!
 
-397
-00:19:49,902 --> 00:19:51,235
+436
+00:19:48,646 --> 00:19:50,148
 But what's also a fact
 
-398
-00:19:51,305 --> 00:19:53,709
+437
+00:19:50,148 --> 00:19:52,608
 is if you don't imprint
-this confession
+this confession,
 
-399
-00:19:53,745 --> 00:19:56,240
+438
+00:19:52,608 --> 00:19:55,069
 you'll be sold
-into indentured servitude
+into indentured servitude,
 
-400
-00:19:56,318 --> 00:19:58,756
+439
+00:19:55,069 --> 00:19:57,488
 and I'll be forced
 to make restitution.
 
-401
-00:19:58,791 --> 00:20:01,263
+440
+00:19:57,488 --> 00:20:00,116
 But, Brother, it's only
 three bars of latinum.
 
-402
-00:20:01,331 --> 00:20:04,864
+441
+00:20:00,116 --> 00:20:03,953
 And I'm not going to let those
 three bars destroy this family.
 
-403
-00:20:04,907 --> 00:20:07,938
+442
+00:20:03,953 --> 00:20:05,204
 If our disgrace
-is made known, do you think
 
-404
-00:20:07,982 --> 00:20:11,150
-we can ever do business
+443
+00:20:05,204 --> 00:20:06,747
+is made known,
+do you think
+
+444
+00:20:06,747 --> 00:20:08,124
+we can ever
+do business
+
+445
+00:20:08,124 --> 00:20:10,001
 with another Ferengi again?
 
-405
-00:20:11,190 --> 00:20:13,389
-I wouldn't do business with me.
+446
+00:20:10,001 --> 00:20:12,336
+<i>I</i> wouldn't do business with<i> me.</i>
 
-406
-00:20:14,599 --> 00:20:15,659
+447
+00:20:13,504 --> 00:20:14,505
 Mother!
 
-407
-00:20:15,702 --> 00:20:17,832
+448
+00:20:14,505 --> 00:20:16,883
 Please!
 
-408
-00:20:20,080 --> 00:20:22,678
+449
+00:20:18,801 --> 00:20:21,595
 For our family's reputation...
 
-409
-00:20:22,720 --> 00:20:25,660
-for your son's
+450
+00:20:21,595 --> 00:20:24,598
+for your sons'
 financial future...
 
-410
-00:20:25,694 --> 00:20:29,466
-please, imprint the confession.
+451
+00:20:24,598 --> 00:20:28,352
+please, imprint
+the confession.
 
-411
-00:20:29,504 --> 00:20:31,099
+452
+00:20:28,352 --> 00:20:29,812
 I can't.
 
-412
-00:20:31,142 --> 00:20:35,279
-I wish you could understand,
-Quark.
+453
+00:20:29,812 --> 00:20:34,150
+I wish you could
+understand, Quark.
 
-413
-00:20:35,319 --> 00:20:37,347
+454
+00:20:34,150 --> 00:20:36,276
 I understand perfectly.
 
-414
-00:20:37,459 --> 00:20:39,555
+455
+00:20:36,276 --> 00:20:38,445
 You're a selfish female
 
-415
-00:20:39,597 --> 00:20:42,001
+456
+00:20:38,445 --> 00:20:40,781
 who never cared
 about this family
 
-416
-00:20:42,037 --> 00:20:43,803
+457
+00:20:40,781 --> 00:20:42,783
 about Father
 
-417
-00:20:43,842 --> 00:20:45,437
+458
+00:20:42,783 --> 00:20:44,326
 or about me.
 
-418
-00:20:56,963 --> 00:20:59,458
+459
+00:20:56,672 --> 00:20:59,258
 Oh...
 
-419
-00:20:59,503 --> 00:21:02,500
+460
+00:20:59,258 --> 00:21:02,302
 I see you haven't changed
 your bedroom, Moogie.
 
-420
-00:21:02,544 --> 00:21:05,142
+461
+00:21:02,302 --> 00:21:04,847
 It's still very...
 traditional.
 
-421
-00:21:05,184 --> 00:21:07,816
+462
+00:21:04,847 --> 00:21:07,516
 I keep it this way
 to remind myself
 
-422
-00:21:07,857 --> 00:21:09,851
+463
+00:21:07,516 --> 00:21:09,685
 how idiotic Ferengi
 tradition can be
 
-423
-00:21:09,963 --> 00:21:12,401
+464
+00:21:09,685 --> 00:21:12,063
 when it comes to females.
 
-424
-00:21:12,437 --> 00:21:13,497
+465
+00:21:12,063 --> 00:21:13,106
 Oh.
 
-425
-00:21:18,485 --> 00:21:20,422
+466
+00:21:18,027 --> 00:21:19,946
 Rom, is something wrong?
 
-426
-00:21:20,457 --> 00:21:22,394
+467
+00:21:19,946 --> 00:21:21,906
 Wrong? No.
 
-427
-00:21:22,429 --> 00:21:24,663
+468
+00:21:21,906 --> 00:21:24,283
 Not... really.
 
-428
-00:21:24,701 --> 00:21:28,165
+469
+00:21:24,283 --> 00:21:27,661
 Except... your clothes.
 
-429
-00:21:28,211 --> 00:21:31,778
+470
+00:21:27,661 --> 00:21:31,331
 Would you feel more comfortable
 if I took them off?
 
-430
-00:21:31,820 --> 00:21:34,760
+471
+00:21:31,331 --> 00:21:34,334
 Well... maybe...
 
-431
-00:21:34,794 --> 00:21:36,320
+472
+00:21:34,334 --> 00:21:35,753
 just a little.
 
-432
-00:21:36,365 --> 00:21:39,932
+473
+00:21:35,753 --> 00:21:38,338
 All right, if it will
 make you feel better.
 
-433
-00:21:39,975 --> 00:21:41,444
+474
+00:21:38,338 --> 00:21:40,800
 But only for you.
 
-434
-00:21:45,623 --> 00:21:47,218
+475
+00:21:45,138 --> 00:21:46,722
 Better?
 
-435
-00:21:47,260 --> 00:21:48,752
+476
+00:21:46,722 --> 00:21:48,348
 Much!
 
-436
-00:21:55,147 --> 00:21:56,207
+477
+00:21:52,270 --> 00:21:53,271
+(<i> sighs</i> )
+
+478
+00:21:53,271 --> 00:21:54,396
+(<i> slaps her leg</i> )
+
+479
+00:21:54,396 --> 00:21:55,648
 You know, Moogie...
 
-437
-00:21:56,250 --> 00:21:58,916
+480
+00:21:55,648 --> 00:21:58,276
 it really would mean
 a lot to Quark
 
-438
-00:21:58,957 --> 00:22:01,361
+481
+00:21:58,276 --> 00:22:00,778
 if you imprint that confession.
 
-439
-00:22:01,397 --> 00:22:02,923
+482
+00:22:00,778 --> 00:22:02,280
 He's made that quite clear.
 
-440
-00:22:03,000 --> 00:22:05,838
-I know he can be headstrong
-and overbearing
+483
+00:22:02,280 --> 00:22:03,990
+I know he can be
+headstrong
 
-441
-00:22:05,875 --> 00:22:10,946
+484
+00:22:03,990 --> 00:22:05,324
+and overbearing,
+
+485
+00:22:05,324 --> 00:22:10,329
 not to mention mean...
-and insulting and rude
+and insulting and rude,
 
-442
-00:22:10,988 --> 00:22:12,891
-but he's not all bad.
+486
+00:22:10,329 --> 00:22:12,290
+but he's not<i> all</i> bad.
 
-443
-00:22:12,926 --> 00:22:14,361
+487
+00:22:12,290 --> 00:22:13,833
 He works hard.
 
-444
-00:22:14,397 --> 00:22:16,197
-You should see the bar.
+488
+00:22:13,833 --> 00:22:15,626
+You should see
+the bar.
 
-445
-00:22:16,235 --> 00:22:17,397
+489
+00:22:15,626 --> 00:22:16,752
 It's thriving.
 
-446
-00:22:17,438 --> 00:22:18,839
+490
+00:22:16,752 --> 00:22:18,420
 I'd like to.
 
-447
-00:22:18,875 --> 00:22:22,578
+491
+00:22:18,420 --> 00:22:22,008
 But Ferengi tradition doesn't
 allow females to travel.
 
-448
-00:22:22,619 --> 00:22:24,989
+492
+00:22:22,008 --> 00:22:24,302
 Quark doesn't make the rules.
 
-449
-00:22:25,058 --> 00:22:26,790
-He just lives by them.
+493
+00:22:24,302 --> 00:22:26,386
+He just lives
+by them.
 
-450
-00:22:26,829 --> 00:22:28,823
+494
+00:22:26,386 --> 00:22:28,264
 Like a good Ferengi.
 
-451
-00:22:28,868 --> 00:22:31,774
+495
+00:22:28,264 --> 00:22:31,349
 Like an unenlightened Ferengi.
 
-452
-00:22:34,148 --> 00:22:37,954
+496
+00:22:33,477 --> 00:22:37,106
 Oh, Moogie, can't you give back
 the three bars of latinum?
 
-453
-00:22:37,991 --> 00:22:41,363
+497
+00:22:37,106 --> 00:22:40,734
 If you don't, you're going
 to destroy everything
 
-454
-00:22:41,401 --> 00:22:42,563
-Quark's worked for.
+498
+00:22:40,734 --> 00:22:42,028
+Quark's
+worked for.
 
-455
-00:22:42,604 --> 00:22:44,336
+499
+00:22:42,028 --> 00:22:43,654
 You always were a good boy.
 
-456
-00:22:44,375 --> 00:22:46,973
+500
+00:22:43,654 --> 00:22:46,240
 I don't think Quark knows
 how lucky he is
 
-457
-00:22:47,015 --> 00:22:49,145
+501
+00:22:46,240 --> 00:22:48,534
 to have a brother
 as loyal as you.
 
-458
-00:22:49,187 --> 00:22:50,554
+502
+00:22:48,534 --> 00:22:49,952
 He knows.
 
-459
-00:22:50,590 --> 00:22:53,496
+503
+00:22:49,952 --> 00:22:52,955
 He just doesn't like showing it.
 
-460
-00:22:54,902 --> 00:22:56,964
-If you cooperate with the FCA
+504
+00:22:54,372 --> 00:22:56,209
+If you cooperate with the FCA,
 
-461
-00:22:57,008 --> 00:23:00,210
+505
+00:22:56,209 --> 00:22:59,503
 I bet I can convince him
 to increase your stipend.
 
-462
-00:23:00,249 --> 00:23:02,049
+506
+00:22:59,503 --> 00:23:01,255
 This isn't about money, Rom.
 
-463
-00:23:02,088 --> 00:23:05,723
+507
+00:23:01,255 --> 00:23:05,134
 Quark has always been more
 than generous with my stipend.
 
-464
-00:23:05,764 --> 00:23:07,963
+508
+00:23:05,134 --> 00:23:07,220
 I have more than enough
 to live on.
 
-465
-00:23:08,002 --> 00:23:12,035
+509
+00:23:07,220 --> 00:23:11,389
 If it's not about money,
 then what is it about?
 
-466
-00:23:12,114 --> 00:23:14,450
+510
+00:23:11,389 --> 00:23:13,809
 It's about pride.
 
-467
-00:23:14,487 --> 00:23:20,025
+511
+00:23:13,809 --> 00:23:19,315
 And knowing I'm just as capable
 of earning profit as any male.
 
-468
-00:23:20,068 --> 00:23:21,037
+512
+00:23:19,315 --> 00:23:20,398
 Don't you see?
 
-469
-00:23:21,070 --> 00:23:22,870
-If I imprint that confession
+513
+00:23:20,398 --> 00:23:22,109
+If I imprint that confession,
 
-470
-00:23:22,908 --> 00:23:25,506
+514
+00:23:22,109 --> 00:23:24,904
 I'll be admitting that
 what I did was wrong.
 
-471
-00:23:25,548 --> 00:23:28,020
+515
+00:23:24,904 --> 00:23:27,240
 I'm not going to do that.
 
-472
-00:23:28,054 --> 00:23:31,392
+516
+00:23:27,240 --> 00:23:30,784
 I'd rather be sold
 into servitude.
 
-473
-00:23:31,430 --> 00:23:33,367
+517
+00:23:30,784 --> 00:23:32,619
 But what about Quark?
 
-474
-00:23:33,402 --> 00:23:34,997
-He's a smart boy.
+518
+00:23:32,619 --> 00:23:34,288
+He's a
+smart boy.
 
-475
-00:23:35,039 --> 00:23:36,942
+519
+00:23:34,288 --> 00:23:36,456
 He can take care of himself.
 
-476
-00:23:36,978 --> 00:23:38,744
+520
+00:23:36,456 --> 00:23:38,209
 Enough about your brother.
 
-477
-00:23:38,782 --> 00:23:40,274
+521
+00:23:38,209 --> 00:23:39,668
 Let me see your teeth.
 
-478
-00:23:40,320 --> 00:23:41,550
+522
+00:23:39,668 --> 00:23:40,878
 My teeth?
 
-479
-00:23:41,590 --> 00:23:42,616
+523
+00:23:40,878 --> 00:23:42,046
 Why?
 
-480
-00:23:42,660 --> 00:23:44,220
-They're looking a little dull.
+524
+00:23:42,046 --> 00:23:43,421
+They're looking
+a little dull.
 
-481
-00:23:44,263 --> 00:23:48,137
-Why don't you sit here
+525
+00:23:43,421 --> 00:23:44,715
+Why don't you
+sit here
+
+526
+00:23:44,715 --> 00:23:47,467
 and I'll sharpen them for you?
 
-482
-00:23:48,173 --> 00:23:50,269
+527
+00:23:47,467 --> 00:23:49,636
 Here we are.
 
-483
-00:23:52,986 --> 00:23:54,148
+528
+00:23:51,805 --> 00:23:53,431
 Oh, Moogie...
 
-484
-00:23:54,189 --> 00:23:56,251
+529
+00:23:53,431 --> 00:23:55,517
 you're the best.
 
-485
-00:24:10,265 --> 00:24:12,133
+530
+00:23:55,517 --> 00:23:57,644
+(<i> sharpener buzzing</i> )
+
+531
+00:23:57,644 --> 00:23:59,397
+(<i> Rom groans with pleasure</i> )
+
+532
+00:24:09,615 --> 00:24:11,449
 Oh!
 
-486
-00:24:12,203 --> 00:24:14,140
-Pardshay, don't be an idiot.
+533
+00:24:11,449 --> 00:24:13,369
+Pardshay, don't
+be an idiot.
 
-487
-00:24:14,174 --> 00:24:16,840
+534
+00:24:13,369 --> 00:24:16,372
 Go get an antigrav sled
 before you hurt yourself.
 
-488
-00:24:18,151 --> 00:24:20,715
-Why don't you just beam it
-to your cargo hold?
+535
+00:24:17,415 --> 00:24:18,456
+Why don't you
 
-489
-00:24:22,396 --> 00:24:25,700
-Well, I wish I could,
-but it's unstable biomatter.
+536
+00:24:18,456 --> 00:24:21,585
+just beam it to your cargo hold?
 
-490
-00:24:25,737 --> 00:24:28,471
+537
+00:24:21,585 --> 00:24:24,880
+Well, I wish I
+could, but it's
+unstable biomatter.
+
+538
+00:24:24,880 --> 00:24:27,300
 Oh, the transporter should
-still be able to handle it
+still be able to handle it,
 
-491
-00:24:28,512 --> 00:24:31,452
+539
+00:24:27,300 --> 00:24:30,594
 as long as you adjust your
 phase-transition inhibitor.
 
-492
-00:24:31,486 --> 00:24:34,654
+540
+00:24:30,594 --> 00:24:34,098
 Provided I had a Mark
 VII transporter.
 
-493
-00:24:37,501 --> 00:24:39,472
-You're still using a Mark VI?
+541
+00:24:36,558 --> 00:24:38,852
+You're still using
+a Mark VI?
 
-494
-00:24:39,506 --> 00:24:40,475
+542
+00:24:38,852 --> 00:24:39,853
 A Mark V.
 
-495
-00:24:40,509 --> 00:24:41,808
+543
+00:24:39,853 --> 00:24:41,272
 Ah, a Mark V.
 
-496
-00:24:41,846 --> 00:24:44,512
+544
+00:24:41,272 --> 00:24:43,399
 I thought they, ah,
 stopped making those things...
 
-497
-00:24:44,553 --> 00:24:45,783
+545
+00:24:43,399 --> 00:24:44,858
 15 years ago.
 
-498
-00:24:45,824 --> 00:24:48,126
+546
+00:24:44,858 --> 00:24:46,902
 But when you're working
-for the Petarians
+for the Petarians,
 
-499
-00:24:48,162 --> 00:24:50,634
+547
+00:24:46,902 --> 00:24:49,989
 you have to make due with
 what they give you.
 
-500
-00:24:50,669 --> 00:24:51,831
+548
+00:24:49,989 --> 00:24:51,073
 Oh, let me guess...
 
-501
-00:24:51,872 --> 00:24:53,843
+549
+00:24:51,073 --> 00:24:53,075
 Commander Sisko.
 
-502
-00:24:53,877 --> 00:24:54,846
+550
+00:24:53,075 --> 00:24:54,076
 Benjamin.
 
-503
-00:24:54,880 --> 00:24:55,849
+551
+00:24:54,076 --> 00:24:55,244
 Kasidy.
 
-504
-00:24:55,883 --> 00:24:57,443
+552
+00:24:55,244 --> 00:24:56,745
 Kasidy Yates.
 
-505
-00:24:57,487 --> 00:24:58,649
+553
+00:24:56,745 --> 00:24:57,955
 Yes, I know.
 
-506
-00:24:58,690 --> 00:25:02,096
+554
+00:24:57,955 --> 00:25:01,292
 My son has told me
 a lot about you.
 
-507
-00:25:02,133 --> 00:25:03,329
+555
+00:25:01,292 --> 00:25:02,668
 Well, I think Jake
 
-508
-00:25:03,369 --> 00:25:06,035
+556
+00:25:02,668 --> 00:25:05,212
 fancies himself something
 of a matchmaker.
 
-509
-00:25:06,076 --> 00:25:07,511
+557
+00:25:05,212 --> 00:25:06,672
 He means well.
 
-510
-00:25:07,546 --> 00:25:10,611
+558
+00:25:06,672 --> 00:25:09,842
 He does get a little too
 enthusiastic now and then.
 
-511
-00:25:12,492 --> 00:25:14,760
+559
+00:25:09,842 --> 00:25:11,718
+(<i> crashing</i> )
+
+560
+00:25:11,718 --> 00:25:13,887
 Oh, damn, that sounds
 like the inertium ore.
 
-512
-00:25:14,799 --> 00:25:16,166
-I better go see what's going on.
+561
+00:25:13,887 --> 00:25:15,348
+I better go see
+what's going on.
 
-513
-00:25:16,202 --> 00:25:17,228
+562
+00:25:15,348 --> 00:25:16,390
 I'll give you a hand.
 
-514
-00:25:17,272 --> 00:25:19,072
+563
+00:25:16,390 --> 00:25:18,267
 I can take care of it.
 
-515
-00:25:20,145 --> 00:25:21,478
+564
+00:25:18,267 --> 00:25:20,853
 Of course.
 
-516
-00:25:22,820 --> 00:25:24,757
+565
+00:25:21,979 --> 00:25:23,981
 Sorry about Jake.
 
-517
-00:25:28,033 --> 00:25:29,263
+566
+00:25:27,193 --> 00:25:29,653
 How about coffee?
 
-518
-00:25:29,336 --> 00:25:31,466
+567
+00:25:29,653 --> 00:25:31,780
 Say tomorrow evening,
 1800 hours?
 
-519
-00:25:31,508 --> 00:25:33,844
+568
+00:25:31,780 --> 00:25:32,990
 Sounds good.
 
-520
-00:25:33,881 --> 00:25:36,353
+569
+00:25:32,990 --> 00:25:35,659
 I'll see you tomorrow.
 
-521
-00:25:55,738 --> 00:25:58,644
+570
+00:25:46,628 --> 00:25:49,465
+(<i> groaning</i> )
+
+571
+00:25:49,465 --> 00:25:51,217
+(<i> yawning</i> )
+
+572
+00:25:54,720 --> 00:25:57,764
 There's nothing like
 sleeping in your old room.
 
-522
-00:25:58,679 --> 00:26:02,051
-So, how was your night?
+573
+00:25:57,764 --> 00:26:01,227
+So, how was
+<i>your</i> night?
 
-523
-00:26:02,087 --> 00:26:03,717
+574
+00:26:01,227 --> 00:26:02,769
 Mother's been busy.
 
-524
-00:26:03,759 --> 00:26:06,493
+575
+00:26:02,769 --> 00:26:05,689
 Really? I didn't even know
 she was up yet.
 
-525
-00:26:06,532 --> 00:26:09,300
-I mean, she's been busy.
+576
+00:26:05,689 --> 00:26:06,857
+I mean
 
-526
-00:26:09,407 --> 00:26:12,245
+577
+00:26:06,857 --> 00:26:08,442
+she's been<i> busy.</i>
+
+578
+00:26:08,442 --> 00:26:11,237
 I've been doing some checking.
 
-527
-00:26:12,281 --> 00:26:14,776
+579
+00:26:11,237 --> 00:26:13,989
 This isn't about
 three bars of latinum.
 
-528
-00:26:14,821 --> 00:26:16,883
-You mean she earned more?
+580
+00:26:13,989 --> 00:26:16,158
+You mean
+she earned more?
 
-529
-00:26:16,926 --> 00:26:18,988
+581
+00:26:16,158 --> 00:26:18,202
 A lot more.
 
-530
-00:26:19,031 --> 00:26:23,168
-So much that I haven't been able
+582
+00:26:18,202 --> 00:26:19,577
+So much that I
+haven't been able
+
+583
+00:26:19,577 --> 00:26:21,455
 to track it all down.
 
-531
-00:26:24,246 --> 00:26:26,616
+584
+00:26:23,207 --> 00:26:25,751
 She's been operating
 under dozens
 
-532
-00:26:26,652 --> 00:26:29,956
+585
+00:26:25,751 --> 00:26:29,046
 of different aliases,
 conducting transactions
 
-533
-00:26:29,994 --> 00:26:32,364
-all over the Ferengi Alliance.
+586
+00:26:29,046 --> 00:26:31,507
+all over
+the Ferengi Alliance.
 
-534
-00:26:32,467 --> 00:26:35,635
+587
+00:26:31,507 --> 00:26:34,634
 Do you know what this means?
 
-535
-00:26:35,675 --> 00:26:38,740
+588
+00:26:34,634 --> 00:26:37,930
 It means Moogie's got
 the lobes for business.
 
-536
-00:26:41,256 --> 00:26:43,956
-Even if I sold everything I have
+589
+00:26:40,391 --> 00:26:43,060
+Even if I sold
+everything I have,
 
-537
-00:26:43,996 --> 00:26:48,667
+590
+00:26:43,060 --> 00:26:47,814
 I couldn't come close to paying
 back what she's earned.
 
-538
-00:26:53,220 --> 00:26:55,419
+591
+00:26:52,361 --> 00:26:54,488
 I'm ruined.
 
-539
-00:27:05,318 --> 00:27:06,344
+592
+00:27:05,249 --> 00:27:06,417
 Brother?
 
-540
-00:27:11,134 --> 00:27:13,402
-L-l-ls everything all right?
+593
+00:27:11,088 --> 00:27:13,466
+I-I-Is everything all right?
 
-541
-00:27:14,743 --> 00:27:15,734
+594
+00:27:14,592 --> 00:27:15,593
 Mm-hmm.
 
-542
-00:27:15,779 --> 00:27:16,839
+595
+00:27:15,593 --> 00:27:16,760
 Oh...
 
-543
-00:27:18,820 --> 00:27:20,518
+596
+00:27:18,596 --> 00:27:20,347
 I'm so proud of you, Quark.
 
-544
-00:27:20,592 --> 00:27:23,224
+597
+00:27:20,347 --> 00:27:23,100
 I mean, other people
 in your situation
 
-545
-00:27:23,265 --> 00:27:25,395
-might overreact
-and lose their temper
+598
+00:27:23,100 --> 00:27:25,394
+might overreact and
+lose their temper,
 
-546
-00:27:25,437 --> 00:27:27,705
+599
+00:27:25,394 --> 00:27:27,563
 make a bad situation worse.
 
-547
-00:27:27,743 --> 00:27:29,873
+600
+00:27:27,563 --> 00:27:29,731
 But not my brother. Hmm.
 
-548
-00:27:29,916 --> 00:27:32,286
+601
+00:27:29,731 --> 00:27:32,109
 You're too smart for that.
 
-549
-00:27:32,322 --> 00:27:36,287
+602
+00:27:32,109 --> 00:27:36,155
 You're going to sit there
-and study the problem
+and study the problem,
 
-550
-00:27:36,333 --> 00:27:41,074
+603
+00:27:36,155 --> 00:27:40,993
 and then come up with
 a clear, simple solution.
 
-551
-00:27:42,749 --> 00:27:43,877
+604
+00:27:42,536 --> 00:27:43,954
 I already have.
 
-552
-00:27:43,919 --> 00:27:45,822
+605
+00:27:43,954 --> 00:27:45,872
 Oh, you see?
 
-553
-00:27:45,857 --> 00:27:47,691
+606
+00:27:45,872 --> 00:27:47,707
 I told you.
 
-554
-00:27:49,834 --> 00:27:51,235
+607
+00:27:49,835 --> 00:27:51,295
 What is it?
 
-555
-00:27:51,271 --> 00:27:54,735
+608
+00:27:51,295 --> 00:27:54,756
 I'm going to kill her.
 
-556
-00:27:56,819 --> 00:27:58,983
+609
+00:27:56,716 --> 00:27:59,052
+(<i> yells</i> ):
 Moogie!
 
-557
-00:28:00,662 --> 00:28:01,722
+610
+00:28:00,596 --> 00:28:01,679
 Aha!
 
-558
-00:28:01,766 --> 00:28:03,292
+611
+00:28:01,679 --> 00:28:03,390
 Caught you.
 
-559
-00:28:03,336 --> 00:28:04,464
+612
+00:28:03,390 --> 00:28:04,600
 Give me that.
 
-560
-00:28:04,506 --> 00:28:05,668
+613
+00:28:04,600 --> 00:28:05,725
 Give you what?
 
-561
-00:28:05,709 --> 00:28:07,771
+614
+00:28:05,725 --> 00:28:07,685
 That padd you just hid.
 
-562
-00:28:07,814 --> 00:28:10,116
+615
+00:28:07,685 --> 00:28:10,230
 It's a letter
 to your cousin Stol.
 
-563
-00:28:10,154 --> 00:28:12,456
+616
+00:28:10,230 --> 00:28:12,690
 Likely story.
 
-564
-00:28:14,365 --> 00:28:15,595
+617
+00:28:14,151 --> 00:28:15,486
 Mm-hmm, I knew it.
 
-565
-00:28:15,635 --> 00:28:17,572
+618
+00:28:15,486 --> 00:28:17,530
 You were trying
 to hide more profits.
 
-566
-00:28:17,606 --> 00:28:19,041
+619
+00:28:17,530 --> 00:28:19,114
 Well, it won't work.
 
-567
-00:28:19,077 --> 00:28:21,983
+620
+00:28:19,114 --> 00:28:22,034
 I know all about your
 little financial empire.
 
-568
-00:28:22,018 --> 00:28:23,112
+621
+00:28:22,034 --> 00:28:23,202
 It's not so little.
 
-569
-00:28:23,154 --> 00:28:24,214
+622
+00:28:23,202 --> 00:28:24,203
 Then you admit it?
 
-570
-00:28:24,256 --> 00:28:25,316
+623
+00:28:24,203 --> 00:28:25,787
 Brother, calm down.
 
-571
-00:28:25,359 --> 00:28:27,455
+624
+00:28:25,787 --> 00:28:27,581
 I'm sure Moogie has
 a perfectly good explanation
 
-572
-00:28:27,499 --> 00:28:28,468
+625
+00:28:27,581 --> 00:28:28,582
 for what she's done.
 
-573
-00:28:28,501 --> 00:28:29,470
+626
+00:28:28,582 --> 00:28:29,625
 Don't you, Moogie?
 
-574
-00:28:29,504 --> 00:28:30,530
-Since when does a Ferengi
+627
+00:28:29,625 --> 00:28:30,917
+Since when
+does a Ferengi
 
-575
-00:28:30,574 --> 00:28:33,069
+628
+00:28:30,917 --> 00:28:33,128
 have to make excuses
 for making profit?
 
-576
-00:28:33,114 --> 00:28:35,552
+629
+00:28:33,128 --> 00:28:35,506
 You're a female.
 
-577
-00:28:35,587 --> 00:28:37,353
-And when it comes to profit
+630
+00:28:35,506 --> 00:28:37,383
+And when it comes to profit,
 
-578
-00:28:37,390 --> 00:28:41,663
+631
+00:28:37,383 --> 00:28:41,345
 this female is a better Ferengi
 than you'll ever be!
 
-579
-00:28:41,768 --> 00:28:42,862
+632
+00:28:41,345 --> 00:28:42,721
 You expect me
 
-580
-00:28:42,905 --> 00:28:45,309
-to believe you did all this
-on your own?
+633
+00:28:42,721 --> 00:28:45,391
+to believe you did
+all this on your own?
 
-581
-00:28:45,345 --> 00:28:48,478
+634
+00:28:45,391 --> 00:28:48,519
 Oh, you had help.
 
-582
-00:28:48,520 --> 00:28:50,514
+635
+00:28:48,519 --> 00:28:50,521
 Admit it.
 Tell me his name.
 
-583
-00:28:50,558 --> 00:28:52,792
+636
+00:28:50,521 --> 00:28:52,772
 I'll see to it the FCA
 hangs him by his lobes
 
-584
-00:28:52,831 --> 00:28:54,597
+637
+00:28:52,772 --> 00:28:54,774
 in the Sacred Marketplace.
 
-585
-00:28:56,741 --> 00:28:59,715
+638
+00:28:56,610 --> 00:28:58,278
 Quark, sometimes you can be
+
+639
+00:28:58,278 --> 00:28:59,697
 so thickheaded.
 
-586
-00:28:59,749 --> 00:29:01,720
+640
+00:28:59,697 --> 00:29:01,657
 Now, Moogie, there's no need
 to be insulting.
 
-587
-00:29:01,754 --> 00:29:02,653
+641
+00:29:01,657 --> 00:29:02,908
 Of course there is.
 
-588
-00:29:02,757 --> 00:29:05,321
+642
+00:29:02,908 --> 00:29:05,202
 Insults are
 the only thing he understands.
 
-589
-00:29:05,363 --> 00:29:08,394
+643
+00:29:05,202 --> 00:29:08,330
 He's so blind with jealousy,
 he can't even think straight.
 
-590
-00:29:08,438 --> 00:29:09,464
+644
+00:29:08,330 --> 00:29:09,623
 Me?
 
-591
-00:29:09,508 --> 00:29:11,604
+645
+00:29:09,623 --> 00:29:11,542
 Jealous of you?
 
-592
-00:29:11,646 --> 00:29:12,637
+646
+00:29:11,542 --> 00:29:12,585
 Ho, ho.
 
-593
-00:29:12,683 --> 00:29:16,750
-You're just like your father.
+647
+00:29:12,585 --> 00:29:15,128
+You're just
 
-594
-00:29:17,862 --> 00:29:19,958
+648
+00:29:15,128 --> 00:29:16,714
+like your father.
+
+649
+00:29:17,881 --> 00:29:19,550
 Why would Father
 be jealous of you?
 
-595
-00:29:20,002 --> 00:29:21,198
+650
+00:29:19,550 --> 00:29:20,967
 Because he knew
 
-596
-00:29:21,238 --> 00:29:24,076
+651
+00:29:20,967 --> 00:29:24,012
 I had the lobes for business,
 and he didn't.
 
-597
-00:29:24,112 --> 00:29:27,177
-I tried to help him...
-give him financial advice...
+652
+00:29:24,012 --> 00:29:27,140
+I tried to help him--
+give him financial advice--
 
-598
-00:29:27,220 --> 00:29:30,684
+653
+00:29:27,140 --> 00:29:30,519
 but he wouldn't listen to me,
 because I was a female.
 
-599
-00:29:30,730 --> 00:29:32,394
-What other reason did he need?
+654
+00:29:30,519 --> 00:29:32,438
+What other reason
+did he need?
 
-600
-00:29:32,433 --> 00:29:34,301
+655
+00:29:32,438 --> 00:29:34,147
 Females don't belong
 in business.
 
-601
-00:29:34,338 --> 00:29:37,176
+656
+00:29:34,147 --> 00:29:36,983
 Give me one reason why not.
 
-602
-00:29:37,213 --> 00:29:38,945
+657
+00:29:36,983 --> 00:29:38,736
 Because it's wrong.
 
-603
-00:29:38,984 --> 00:29:42,322
+658
+00:29:38,736 --> 00:29:41,988
 You're going to have
 to do better than that.
 
-604
-00:29:42,359 --> 00:29:43,658
+659
+00:29:41,988 --> 00:29:43,449
 No I'm not.
 It's the law.
 
-605
-00:29:43,696 --> 00:29:45,690
-That was good enough for Father
+660
+00:29:43,449 --> 00:29:45,451
+That was good
+enough for Father,
 
-606
-00:29:45,735 --> 00:29:47,569
-and it's good enough for me.
+661
+00:29:45,451 --> 00:29:47,411
+and it's good
+enough for me.
 
-607
-00:29:47,607 --> 00:29:51,447
+662
+00:29:47,411 --> 00:29:50,872
 A lot of things were good enough
 for your father.
 
-608
-00:29:51,483 --> 00:29:53,545
+663
+00:29:50,872 --> 00:29:53,292
 He was a lobeless failure!
 
-609
-00:29:53,588 --> 00:29:56,026
+664
+00:29:53,292 --> 00:29:55,835
 And if you're not careful,
 you're going to end up
 
-610
-00:29:56,062 --> 00:29:57,794
+665
+00:29:55,835 --> 00:29:57,588
 just like him!
 
-611
-00:29:57,833 --> 00:29:59,166
+666
+00:29:57,588 --> 00:29:59,089
 That does it!
 
-612
-00:29:59,203 --> 00:30:00,969
-Brother, where are you going?
+667
+00:29:59,089 --> 00:30:00,882
+ROM:
+Brother, where
+are you going?
 
-613
-00:30:01,008 --> 00:30:03,503
+668
+00:30:00,882 --> 00:30:03,510
 To the FCA.
 
-614
-00:30:03,548 --> 00:30:09,690
-Let's see what they have to say
+669
+00:30:03,510 --> 00:30:05,053
+Let's see
+
+670
+00:30:05,053 --> 00:30:06,846
+what<i> they</i> 
+have to say
+
+671
+00:30:06,846 --> 00:30:09,808
 about your financial empire.
 
-615
-00:30:18,553 --> 00:30:19,522
+672
+00:30:18,400 --> 00:30:19,485
 Brother, wait.
 
-616
-00:30:19,556 --> 00:30:20,855
+673
+00:30:19,485 --> 00:30:20,736
 Out of my way, Rom.
 
-617
-00:30:20,960 --> 00:30:22,520
-No, I'm not going
-to let you hurt Mother.
+674
+00:30:20,736 --> 00:30:22,279
+No, I'm not going to
+let you hurt Mother.
 
-618
-00:30:22,563 --> 00:30:23,862
-She's no mother of mine.
+675
+00:30:22,279 --> 00:30:23,697
+She's no mother
+of mine.
 
-619
-00:30:23,901 --> 00:30:26,669
-Why? Because of what she said
-about Father?
+676
+00:30:23,697 --> 00:30:26,700
+Why? Because of what
+she said about Father?
 
-620
-00:30:26,708 --> 00:30:29,510
+677
+00:30:26,700 --> 00:30:29,453
 Did it ever occur to you
 that she might be right?
 
-621
-00:30:29,549 --> 00:30:31,713
+678
+00:30:29,453 --> 00:30:31,705
 How dare you take her side
 against Father's?!
 
-622
-00:30:31,754 --> 00:30:34,318
-Oh, don't tell me about Father.
+679
+00:30:31,705 --> 00:30:34,249
+Oh, don't tell
+me about Father.
 
-623
-00:30:34,361 --> 00:30:36,264
-I knew him a lot better
-than you did.
+680
+00:30:34,249 --> 00:30:36,084
+I knew him a lot
+better than you did.
 
-624
-00:30:36,299 --> 00:30:38,737
-You went off as soon as you
-reached the Age of Ascension
+681
+00:30:36,084 --> 00:30:37,294
+You went off
+as soon as you
 
-625
-00:30:38,772 --> 00:30:40,173
+682
+00:30:37,294 --> 00:30:38,671
+reached the Age
+of Ascension,
+
+683
+00:30:38,671 --> 00:30:39,838
 but I stayed here
 for ten more years.
 
-626
-00:30:40,210 --> 00:30:41,270
+684
+00:30:39,838 --> 00:30:41,298
 Oh!
 
-627
-00:30:41,312 --> 00:30:43,580
+685
+00:30:41,298 --> 00:30:43,550
 And you know what I learned
 in those ten years?
 
-628
-00:30:43,618 --> 00:30:46,922
+686
+00:30:43,550 --> 00:30:46,762
 I learned that Father
 was no financial genius.
 
-629
-00:30:46,960 --> 00:30:47,929
+687
+00:30:46,762 --> 00:30:47,680
 Take that back!
 
-630
-00:30:47,963 --> 00:30:48,954
+688
+00:30:47,680 --> 00:30:48,764
 It's the truth!
 
-631
-00:30:49,968 --> 00:30:51,939
+689
+00:30:48,764 --> 00:30:49,973
+(<i> yells</i> )
+
+690
+00:30:49,973 --> 00:30:51,725
 He went from one bad
 deal to the next...
 
-632
-00:30:52,041 --> 00:30:54,035
-one failure after another!
+691
+00:30:51,725 --> 00:30:53,811
+one failure
+after another!
 
-633
-00:30:54,079 --> 00:30:58,716
-He couldn't hold onto latinum
-if you sewed it into his pants!
+692
+00:30:53,811 --> 00:30:55,479
+He couldn't hold
+onto latinum
 
-634
-00:30:58,757 --> 00:31:00,249
+693
+00:30:55,479 --> 00:30:58,732
+if you sewed it
+into his pants!
+
+694
+00:30:58,732 --> 00:31:00,150
 Take that back!
 
-635
-00:31:00,295 --> 00:31:01,457
+695
+00:31:00,150 --> 00:31:01,401
 No!
 
-636
-00:31:21,016 --> 00:31:23,454
+696
+00:31:01,401 --> 00:31:03,362
+(<i> yells</i> )
+
+697
+00:31:20,796 --> 00:31:23,131
 Quark, Rom!
 
-637
-00:31:23,489 --> 00:31:24,651
+698
+00:31:23,131 --> 00:31:24,299
 That's enough!
 
-638
-00:31:24,692 --> 00:31:27,825
-Let him go!
+699
+00:31:24,299 --> 00:31:25,676
+Let him
 
-639
-00:31:27,867 --> 00:31:28,961
+700
+00:31:25,676 --> 00:31:28,762
+go!
 But, Moogie!
 
-640
-00:31:29,003 --> 00:31:30,131
-Stop it!
+701
+00:31:28,762 --> 00:31:29,971
+Stop
+it!
 
-641
-00:31:30,172 --> 00:31:31,402
-Stop it, both of you!
+702
+00:31:29,971 --> 00:31:32,224
+Stop it,
+both of you!
 
-642
-00:31:32,512 --> 00:31:36,615
+703
+00:31:32,224 --> 00:31:34,934
 If your brother wants
-to go to the FCA, let him.
+to go to the FCA,
 
-643
-00:31:36,656 --> 00:31:37,920
-But you'll get in trouble.
+704
+00:31:34,934 --> 00:31:36,228
+let him.
 
-644
-00:31:37,960 --> 00:31:39,122
+705
+00:31:36,228 --> 00:31:37,270
+But you'll get
+in trouble.
+
+706
+00:31:37,270 --> 00:31:38,772
 I'll worry about that.
 
-645
-00:31:39,163 --> 00:31:41,191
-Go on.
-What are you waiting for?!
+707
+00:31:38,772 --> 00:31:41,066
+Go on. What are you
+waiting for?!
 
-646
-00:32:13,857 --> 00:32:18,164
+708
+00:31:58,751 --> 00:32:01,127
+(<i> thunder cracks</i> )
+
+709
+00:32:04,089 --> 00:32:06,466
+(<i> panting</i> )
+
+710
+00:32:15,225 --> 00:32:18,896
 That is the steepest
 40 flights of stairs
 
-647
-00:32:18,202 --> 00:32:20,139
+711
+00:32:18,896 --> 00:32:21,523
 I have ever climbed.
 
-648
-00:32:20,173 --> 00:32:23,979
+712
+00:32:21,523 --> 00:32:24,693
 Seven strips of latinum
 to use the elevator.
 
-649
-00:32:24,016 --> 00:32:26,146
+713
+00:32:24,693 --> 00:32:26,904
 Talk about inflation.
 
-650
-00:32:27,760 --> 00:32:32,431
+714
+00:32:26,904 --> 00:32:28,614
+(<i> panting</i> )
+
+715
+00:32:28,614 --> 00:32:31,491
 Huh, refined dilithium
+
+716
+00:32:31,491 --> 00:32:33,243
 down ten percent?
 
-651
-00:32:32,472 --> 00:32:33,998
+717
+00:32:33,243 --> 00:32:34,745
 Huh.
 
-652
-00:32:36,516 --> 00:32:38,646
+718
+00:32:37,289 --> 00:32:39,458
 The name's Quark.
 
-653
-00:32:38,688 --> 00:32:40,750
+719
+00:32:39,458 --> 00:32:41,835
 I'm here to see
 Liquidator Brunt.
 
-654
-00:32:42,833 --> 00:32:45,067
+720
+00:32:43,712 --> 00:32:45,798
 Of course.
 
-655
-00:32:46,542 --> 00:32:49,310
-I'll tell Liquidator Brunt
-you're here.
+721
+00:32:47,382 --> 00:32:50,260
+I'll tell Liquidator
+Brunt you're here.
 
-656
-00:32:49,349 --> 00:32:51,548
+722
+00:32:50,260 --> 00:32:52,554
 Have a seat.
 
-657
-00:32:55,298 --> 00:32:56,733
+723
+00:32:56,182 --> 00:32:57,726
 How much?
 
-658
-00:32:56,769 --> 00:32:58,865
+724
+00:32:57,726 --> 00:32:59,895
 Three slips.
 
-659
-00:32:58,907 --> 00:33:00,069
+725
+00:32:59,895 --> 00:33:00,896
 I'll stand.
 
-660
-00:33:00,144 --> 00:33:01,204
+726
+00:33:00,896 --> 00:33:02,021
 That'll be one slip.
 
-661
-00:33:01,247 --> 00:33:03,241
-I'll give you two for the chair.
+727
+00:33:02,021 --> 00:33:04,149
+I'll give you two
+for the chair.
 
-662
-00:33:12,008 --> 00:33:15,278
-If you're here to deliver
-an imprinted confession
+728
+00:33:11,865 --> 00:33:12,783
+(<i> sighs</i> )
 
-663
-00:33:15,316 --> 00:33:16,911
+729
+00:33:12,783 --> 00:33:14,117
+If you're here
+
+730
+00:33:14,117 --> 00:33:16,077
+to deliver
+an imprinted confession,
+
+731
+00:33:16,077 --> 00:33:17,663
 you can leave it with me.
 
-664
-00:33:16,954 --> 00:33:18,788
-I'll see that Liquidator Brunt
-gets it.
+732
+00:33:17,663 --> 00:33:19,748
+I'll see that
+Liquidator
+Brunt gets it.
 
-665
-00:33:18,826 --> 00:33:20,990
+733
+00:33:19,748 --> 00:33:21,792
 Tell Brunt
 I need to talk to him now.
 
-666
-00:33:21,032 --> 00:33:22,900
+734
+00:33:21,792 --> 00:33:23,669
 I have information
 that could shake
 
-667
-00:33:22,937 --> 00:33:25,341
+735
+00:33:23,669 --> 00:33:26,254
 the very foundation
 of the Ferengi Alliance.
 
-668
-00:33:25,376 --> 00:33:26,367
-Brother, wait!
+736
+00:33:26,254 --> 00:33:27,297
+Brother,
+wait!
 
-669
-00:33:29,720 --> 00:33:31,087
-I have to sit down.
+737
+00:33:27,297 --> 00:33:28,841
+(<i> panting</i> )
 
-670
-00:33:31,158 --> 00:33:32,525
+738
+00:33:30,467 --> 00:33:31,969
+I have to
+sit down.
+
+739
+00:33:31,969 --> 00:33:33,345
 Uh-uh!
 
-671
-00:33:32,561 --> 00:33:34,623
+740
+00:33:33,345 --> 00:33:35,639
 That'll be three slips
 of latinum.
 
-672
-00:33:35,736 --> 00:33:39,074
-Brother... can you loan me?
+741
+00:33:36,682 --> 00:33:40,018
+Brother... can you loan me...?
 
-673
-00:33:39,111 --> 00:33:41,275
+742
+00:33:40,018 --> 00:33:42,187
 Yeah, yeah.
 
-674
-00:33:43,590 --> 00:33:44,923
+743
+00:33:44,523 --> 00:33:45,983
 Here.
 
-675
-00:33:46,732 --> 00:33:48,258
+744
+00:33:47,651 --> 00:33:49,194
 Now what do you want?
 
-676
-00:33:48,302 --> 00:33:49,669
+745
+00:33:49,194 --> 00:33:50,821
 I have a message from Moogie.
 
-677
-00:33:49,706 --> 00:33:52,076
+746
+00:33:50,821 --> 00:33:52,948
 There's nothing she could say
 that would interest me.
 
-678
-00:33:52,112 --> 00:33:54,276
+747
+00:33:52,948 --> 00:33:55,158
 She'll share it with you.
 
-679
-00:33:58,228 --> 00:33:59,754
+748
+00:33:58,996 --> 00:34:00,747
 What was that?
 
-680
-00:33:59,798 --> 00:34:02,738
+749
+00:34:00,747 --> 00:34:04,668
 Her profits, 50-50.
 
-681
-00:34:04,076 --> 00:34:06,310
-Tell Brunt
-I'll talk to him later.
+750
+00:34:04,668 --> 00:34:07,253
+Tell Brunt I'll
+talk to him later.
 
-682
-00:34:06,349 --> 00:34:07,409
+751
+00:34:07,253 --> 00:34:08,338
 Come on.
 
-683
-00:34:07,452 --> 00:34:09,218
-Let's try out that elevator.
+752
+00:34:08,338 --> 00:34:10,048
+Let's try out
+that elevator.
 
-684
-00:34:09,257 --> 00:34:10,726
-But it's so expensive.
+753
+00:34:10,048 --> 00:34:11,758
+But it's so
+expensive.
 
-685
-00:34:10,761 --> 00:34:12,253
+754
+00:34:11,758 --> 00:34:13,176
 I can afford it.
 
-686
-00:34:13,769 --> 00:34:15,763
+755
+00:34:14,720 --> 00:34:16,805
 For your trouble.
 
-687
-00:34:27,471 --> 00:34:29,408
-Mother, I want to apologize
+756
+00:34:28,316 --> 00:34:30,276
+Mother, I want
+to apologize
 
-688
-00:34:29,443 --> 00:34:31,915
+757
+00:34:30,276 --> 00:34:32,905
 for all the terrible
 things I said.
 
-689
-00:34:31,949 --> 00:34:34,717
+758
+00:34:32,905 --> 00:34:35,657
 I was angry and I
 got carried away.
 
-690
-00:34:34,756 --> 00:34:36,316
+759
+00:34:35,657 --> 00:34:37,200
 I'm sorry.
 
-691
-00:34:37,831 --> 00:34:41,135
+760
+00:34:38,744 --> 00:34:41,788
 Apology accepted.
 
-692
-00:34:41,173 --> 00:34:43,975
+761
+00:34:41,788 --> 00:34:44,875
 I'm just glad Rom
 was able to catch you
 
-693
-00:34:44,013 --> 00:34:46,645
+762
+00:34:44,875 --> 00:34:47,544
 before you made
 a horrible mistake.
 
-694
-00:34:46,687 --> 00:34:50,093
-It would have been a shame
-to waste all of that profit.
+763
+00:34:47,544 --> 00:34:49,046
+It would have
+been a shame
 
-695
-00:34:50,130 --> 00:34:52,294
-I'm glad we agree.
+764
+00:34:49,046 --> 00:34:50,714
+to waste all
+of that profit.
 
-696
-00:34:53,304 --> 00:34:54,330
+765
+00:34:50,714 --> 00:34:53,132
+I'm glad
+we agree.
+
+766
+00:34:54,092 --> 00:34:55,134
 So...
 
-697
-00:34:54,374 --> 00:34:56,402
+767
+00:34:55,134 --> 00:34:57,220
 how much latinum have you made?
 
-698
-00:34:56,446 --> 00:34:57,847
+768
+00:34:57,220 --> 00:34:58,889
 Does it matter?
 
-699
-00:34:57,883 --> 00:35:00,914
+769
+00:34:58,889 --> 00:35:01,892
 I just want to make sure that
 everything is divided fairly.
 
-700
-00:35:00,957 --> 00:35:02,324
+770
+00:35:01,892 --> 00:35:03,142
 Divided?!
 
-701
-00:35:02,361 --> 00:35:04,423
+771
+00:35:03,142 --> 00:35:05,228
 50-50, just like you said.
 
-702
-00:35:04,467 --> 00:35:06,301
+772
+00:35:05,228 --> 00:35:07,022
 I never said that.
 
-703
-00:35:06,338 --> 00:35:08,002
+773
+00:35:07,022 --> 00:35:08,690
 You said he'd let me keep
 
-704
-00:35:08,042 --> 00:35:10,640
-all the profit for myself!
+774
+00:35:08,690 --> 00:35:11,484
+all the profit
+for myself!
 
-705
-00:35:10,683 --> 00:35:12,243
+775
+00:35:11,484 --> 00:35:13,111
 I said no such thing.
 
-706
-00:35:14,192 --> 00:35:16,664
-So I lied... to both of you.
+776
+00:35:14,905 --> 00:35:17,616
+So I lied...
+to both of you.
 
-707
-00:35:16,698 --> 00:35:18,566
+777
+00:35:17,616 --> 00:35:19,325
 I had no choice.
 
-708
-00:35:18,603 --> 00:35:19,572
+778
+00:35:19,325 --> 00:35:20,577
 It was the only way
 
-709
-00:35:19,606 --> 00:35:21,007
-to get the two of you
-talking again.
+779
+00:35:20,577 --> 00:35:21,745
+to get the two of
+you talking again.
 
-710
-00:35:21,043 --> 00:35:22,512
+780
+00:35:21,745 --> 00:35:23,371
 There's nothing to say!
 
-711
-00:35:22,547 --> 00:35:26,353
+781
+00:35:23,371 --> 00:35:26,792
 Don't get your lobes caught
 in the door on your way out!
 
-712
-00:35:26,390 --> 00:35:27,518
-That's enough bickering!
+782
+00:35:26,792 --> 00:35:28,126
+ROM:
+That's enough
+bickering!
 
-713
-00:35:27,560 --> 00:35:30,226
+783
+00:35:28,126 --> 00:35:30,921
 You're both acting
 like children!
 
-714
-00:35:30,267 --> 00:35:32,135
-Who do you think?
+784
+00:35:30,921 --> 00:35:32,839
+BOTH:
+Who do you think...?
 
-715
-00:35:32,172 --> 00:35:34,804
+785
+00:35:32,839 --> 00:35:35,634
 I will not stand by
 and let this family fall apart!
 
-716
-00:35:34,845 --> 00:35:36,907
+786
+00:35:35,634 --> 00:35:37,427
 Quark, you should be ashamed
 of yourself.
 
-717
-00:35:36,951 --> 00:35:40,187
-I've seen you treat Cardassians
+787
+00:35:37,427 --> 00:35:40,889
+I've seen you
+treat Cardassians
 with more respect
 
-718
-00:35:40,226 --> 00:35:41,786
-than you show your own mother.
+788
+00:35:40,889 --> 00:35:42,515
+than you show
+your own mother.
 
-719
-00:35:41,830 --> 00:35:43,231
+789
+00:35:42,515 --> 00:35:43,934
 And, Moogie...
 
-720
-00:35:43,268 --> 00:35:47,301
+790
+00:35:43,934 --> 00:35:47,145
 if Quark can uncover
-your hidden investments
+your hidden investments,
 
-721
-00:35:47,411 --> 00:35:50,317
+791
+00:35:47,145 --> 00:35:51,108
 eventually the FCA will, too!
 
-722
-00:35:50,386 --> 00:35:53,519
+792
+00:35:51,108 --> 00:35:54,319
 And then all that profit
 will be lost.
 
-723
-00:35:53,560 --> 00:35:55,463
-Think about that for a moment.
+793
+00:35:54,319 --> 00:35:56,154
+Think about that
+for a moment.
 
-724
-00:35:55,499 --> 00:35:59,236
+794
+00:35:56,154 --> 00:35:59,908
 Now, neither of you
 is going to leave this room
 
-725
-00:35:59,275 --> 00:36:01,543
+795
+00:35:59,908 --> 00:36:02,160
 until you've settled things!
 
-726
-00:36:01,581 --> 00:36:03,711
-Is that clear?!
+796
+00:36:02,160 --> 00:36:04,496
+Is that
+clear?!
 
-727
-00:36:03,753 --> 00:36:06,089
+797
+00:36:04,496 --> 00:36:07,040
+(<i> shouting</i> ):
 And no shouting!
 
-728
-00:36:07,263 --> 00:36:08,927
+798
+00:36:08,000 --> 00:36:09,918
 I'm going to take a nap.
 
-729
-00:36:14,819 --> 00:36:16,983
+799
+00:36:16,008 --> 00:36:18,093
 He's a sweet boy.
 
-730
-00:36:18,328 --> 00:36:20,162
-That's easy for you to say.
+800
+00:36:19,385 --> 00:36:21,220
+That's easy
+for you to say.
 
-731
-00:36:20,200 --> 00:36:22,330
+801
+00:36:21,220 --> 00:36:23,515
 He doesn't live
 next door to you.
 
-732
-00:36:24,678 --> 00:36:26,672
+802
+00:36:25,809 --> 00:36:27,936
 You're too hard on him.
 
-733
-00:36:32,364 --> 00:36:34,426
+803
+00:36:32,899 --> 00:36:35,360
 You always have been.
 
-734
-00:36:34,470 --> 00:36:35,666
+804
+00:36:35,360 --> 00:36:36,903
 I had to be.
 
-735
-00:36:35,707 --> 00:36:37,803
+805
+00:36:36,903 --> 00:36:38,989
 You were always too easy on him.
 
-736
-00:36:37,845 --> 00:36:40,613
+806
+00:36:38,989 --> 00:36:41,700
 Maybe if you pushed him
-a little bit harder
+a little bit harder,
 
-737
-00:36:40,652 --> 00:36:42,988
+807
+00:36:41,700 --> 00:36:43,994
 he would have amounted
 to something.
 
-738
-00:36:43,025 --> 00:36:45,189
+808
+00:36:43,994 --> 00:36:46,121
 I doubt it.
 
-739
-00:36:45,231 --> 00:36:48,764
+809
+00:36:46,121 --> 00:36:49,749
 When it comes to business,
 he's a lot like your father.
 
-740
-00:36:50,344 --> 00:36:53,078
+810
+00:36:51,043 --> 00:36:53,962
 You enjoy insulting Father,
 don't you?
 
-741
-00:36:53,118 --> 00:36:55,647
-I'm not insulting anyone.
+811
+00:36:53,962 --> 00:36:55,421
+I'm not
+insulting
 
-742
-00:36:55,691 --> 00:36:57,628
+812
+00:36:55,421 --> 00:36:56,756
+anyone.
+
+813
+00:36:56,756 --> 00:36:58,717
 I'm just being honest.
 
-743
-00:36:57,664 --> 00:37:00,536
+814
+00:36:58,717 --> 00:37:01,678
 Rom's a lot like his father.
 
-744
-00:37:02,710 --> 00:37:04,043
+815
+00:37:03,221 --> 00:37:04,973
 And you...
 
-745
-00:37:05,049 --> 00:37:07,715
+816
+00:37:05,974 --> 00:37:08,643
 I suppose, are a lot like me.
 
-746
-00:37:09,227 --> 00:37:11,825
+817
+00:37:10,020 --> 00:37:12,647
 I never knew you felt like that.
 
-747
-00:37:11,867 --> 00:37:14,396
+818
+00:37:12,647 --> 00:37:14,191
 Your father
 might have bought you
 
-748
-00:37:14,440 --> 00:37:17,710
+819
+00:37:14,191 --> 00:37:18,486
 your first copy
-of <i>The Rules of Acquisition</i>
+of<i> The Rules of Acquisition,</i>
 
-749
-00:37:17,749 --> 00:37:20,244
+820
+00:37:18,486 --> 00:37:21,198
 but who helped you
 memorize them?
 
-750
-00:37:20,289 --> 00:37:21,953
+821
+00:37:21,198 --> 00:37:22,657
 You did.
 
-751
-00:37:21,993 --> 00:37:25,730
+822
+00:37:22,657 --> 00:37:26,452
 I don't think
 I've ever been prouder...
 
-752
-00:37:25,769 --> 00:37:30,476
+823
+00:37:26,452 --> 00:37:31,249
 than the first time you made it
 through all 285 Rules
 
-753
-00:37:30,515 --> 00:37:33,785
-without a mistake.
+824
+00:37:31,249 --> 00:37:34,878
+without
+a mistake.
 
-754
-00:37:33,823 --> 00:37:36,729
+825
+00:37:34,878 --> 00:37:37,630
 Rom knows them
 just as well as I do.
 
-755
-00:37:36,765 --> 00:37:39,135
-But you understand them.
+826
+00:37:37,630 --> 00:37:39,883
+But<i> you</i> understand them.
 
-756
-00:37:41,811 --> 00:37:43,577
+827
+00:37:42,635 --> 00:37:44,345
 Rom never did.
 
-757
-00:37:43,616 --> 00:37:45,644
-And neither did his father.
+828
+00:37:44,345 --> 00:37:47,390
+And neither
+did his father.
 
-758
-00:37:46,924 --> 00:37:50,923
-But even if Keldar didn't know
-the first thing about profit
+829
+00:37:47,390 --> 00:37:49,684
+But even if Keldar
+didn't know
 
-759
-00:37:50,969 --> 00:37:55,572
-he knew everything about family.
+830
+00:37:49,684 --> 00:37:51,728
+the first thing
+about profit,
 
-760
-00:37:55,613 --> 00:37:58,678
-He was a good husband...
+831
+00:37:51,728 --> 00:37:56,315
+he knew everything
+about family.
 
-761
-00:37:58,722 --> 00:38:01,422
+832
+00:37:56,315 --> 00:37:59,485
+He was a good
+husband...
+
+833
+00:37:59,485 --> 00:38:02,072
 and a wonderful father.
 
-762
-00:38:01,463 --> 00:38:03,457
-And I loved him for that...
+834
+00:38:02,072 --> 00:38:04,199
+And I loved him
+for that--
 
-763
-00:38:03,501 --> 00:38:06,065
-the way I love Rom...
+835
+00:38:04,199 --> 00:38:06,993
+the way
+I love Rom...
 
-764
-00:38:07,144 --> 00:38:09,912
+836
+00:38:07,911 --> 00:38:10,872
 and the way I love you.
 
-765
-00:38:11,154 --> 00:38:12,487
+837
+00:38:11,873 --> 00:38:13,332
 You mean that?
 
-766
-00:38:13,995 --> 00:38:16,331
+838
+00:38:14,918 --> 00:38:17,129
 Yes, I suppose I do.
 
-767
-00:38:18,172 --> 00:38:20,336
+839
+00:38:18,797 --> 00:38:21,133
 If it'll make you happy...
 
-768
-00:38:21,515 --> 00:38:23,452
+840
+00:38:22,217 --> 00:38:24,219
 I'll give back the money.
 
-769
-00:38:23,486 --> 00:38:25,582
+841
+00:38:24,219 --> 00:38:26,263
 You'll imprint the confession?
 
-770
-00:38:25,625 --> 00:38:28,154
+842
+00:38:26,263 --> 00:38:28,807
 You're my son, Quark.
 How can I refuse you?
 
-771
-00:38:28,198 --> 00:38:30,830
-You don't know
-how much this means to me.
+843
+00:38:28,807 --> 00:38:31,601
+You don't know how
+much this means to me.
 
-772
-00:38:30,871 --> 00:38:34,540
-I know exactly
-how much this means to you.
+844
+00:38:31,601 --> 00:38:35,272
+I know exactly how
+much this means to you.
 
-773
-00:38:39,060 --> 00:38:41,396
+845
+00:38:35,272 --> 00:38:38,233
+(<i> both laughing</i> )
+
+846
+00:38:39,943 --> 00:38:42,154
 Oh, Moogie...
 
-774
-00:38:43,905 --> 00:38:46,139
+847
+00:38:44,739 --> 00:38:46,825
 I love you.
 
-775
-00:39:04,559 --> 00:39:06,723
+848
+00:39:05,177 --> 00:39:06,928
 There's no place
 like New Orleans
 
-776
-00:39:06,765 --> 00:39:09,705
-for simple pleasures...
+849
+00:39:06,928 --> 00:39:10,431
+for simple pleasures--
 good food, great music.
 
-777
-00:39:09,740 --> 00:39:12,042
+850
+00:39:10,431 --> 00:39:12,976
 Hmm. Sounds like a
 great place to grow up.
 
-778
-00:39:12,078 --> 00:39:13,570
+851
+00:39:12,976 --> 00:39:14,393
 The best.
 
-779
-00:39:15,053 --> 00:39:17,081
-Can I get you another <i>raktajino?</i>
+852
+00:39:15,687 --> 00:39:17,772
+Can I get you
+another<i> raktajino?</i>
 
-780
-00:39:17,125 --> 00:39:19,757
+853
+00:39:17,772 --> 00:39:20,399
 Uh, no, I'm... fine.
 
-781
-00:39:22,907 --> 00:39:24,969
-You seem a little preoccupied.
+854
+00:39:23,486 --> 00:39:25,655
+You seem a little
+preoccupied.
 
-782
-00:39:27,619 --> 00:39:30,183
+855
+00:39:27,991 --> 00:39:29,951
 It's just, when we
-made our plans
+made our plans,
 
-783
-00:39:30,226 --> 00:39:33,963
+856
+00:39:29,951 --> 00:39:34,580
 I forgot, uh... I had
 a previous engagement.
 
-784
-00:39:34,002 --> 00:39:35,836
+857
+00:39:34,580 --> 00:39:36,457
 I see.
 
-785
-00:39:35,873 --> 00:39:38,209
+858
+00:39:36,457 --> 00:39:38,751
 Oh, it's not what you think.
 
-786
-00:39:38,247 --> 00:39:41,187
-It's kind
-of a family obligation.
+859
+00:39:38,751 --> 00:39:41,713
+It's kind of a
+family obligation.
 
-787
-00:39:41,221 --> 00:39:43,785
+860
+00:39:41,713 --> 00:39:44,382
 You see, my youngest brother,
 he's a colonist on Cestus III.
 
-788
-00:39:43,828 --> 00:39:45,958
+861
+00:39:44,382 --> 00:39:46,301
 That's on the other side
 of the Federation.
 
-789
-00:39:46,001 --> 00:39:47,368
-Well, it's so far away
+862
+00:39:46,301 --> 00:39:47,969
+Well, it's
+so far away
 
-790
-00:39:47,437 --> 00:39:49,271
+863
+00:39:47,969 --> 00:39:49,554
 it takes two weeks
 for a subspace transmission
 
-791
-00:39:49,309 --> 00:39:51,075
+864
+00:39:49,554 --> 00:39:51,597
 to get here,
 and I'm expecting one tonight.
 
-792
-00:39:51,114 --> 00:39:53,278
+865
+00:39:51,597 --> 00:39:53,933
 I promised my brother
 I'd listen to it as it came in.
 
-793
-00:39:53,319 --> 00:39:55,587
+866
+00:39:53,933 --> 00:39:56,144
 I hope nothing's wrong.
 
-794
-00:39:55,625 --> 00:39:57,391
-Oh, not unless
-he hurt himself again.
+867
+00:39:56,144 --> 00:39:57,729
+Oh, not unless he
+hurt himself again.
 
-795
-00:39:57,430 --> 00:40:00,495
+868
+00:39:57,729 --> 00:40:00,899
 Last time, he tore some
 ligaments in his knee.
 
-796
-00:40:00,538 --> 00:40:02,168
-How'd that happen?
+869
+00:40:00,899 --> 00:40:02,817
+How'd that
+happen?
 
-797
-00:40:02,208 --> 00:40:03,575
+870
+00:40:02,817 --> 00:40:04,027
 Uh...
 
-798
-00:40:03,613 --> 00:40:04,946
+871
+00:40:04,027 --> 00:40:05,403
 he was doing something
 
-799
-00:40:04,983 --> 00:40:06,783
-called "sliding into second."
+872
+00:40:05,403 --> 00:40:07,322
+called "sliding
+into second."
 
-800
-00:40:09,728 --> 00:40:10,697
+873
+00:40:10,158 --> 00:40:11,159
 S-s...
 
-801
-00:40:10,731 --> 00:40:12,759
+874
+00:40:11,159 --> 00:40:13,370
 sliding into second?
 
-802
-00:40:12,803 --> 00:40:13,897
+875
+00:40:13,370 --> 00:40:14,495
 Yes.
 
-803
-00:40:13,939 --> 00:40:15,739
+876
+00:40:14,495 --> 00:40:16,373
 That sounds like baseball.
 
-804
-00:40:15,777 --> 00:40:17,941
+877
+00:40:16,373 --> 00:40:18,499
 You know about baseball?
 
-805
-00:40:19,086 --> 00:40:20,555
+878
+00:40:19,584 --> 00:40:20,919
 It's my favorite sport.
 
-806
-00:40:20,590 --> 00:40:23,062
+879
+00:40:20,919 --> 00:40:23,546
 But no one has played it
 for 200 years.
 
-807
-00:40:23,097 --> 00:40:25,159
+880
+00:40:23,546 --> 00:40:25,715
 Well, they're playing it
 on Cestus III.
 
-808
-00:40:25,202 --> 00:40:28,233
+881
+00:40:25,715 --> 00:40:28,801
 At least, they have been
 for the last six months.
 
-809
-00:40:28,276 --> 00:40:29,404
+882
+00:40:28,801 --> 00:40:29,761
 I had no idea.
 
-810
-00:40:29,446 --> 00:40:30,813
+883
+00:40:29,761 --> 00:40:30,970
 That's fantastic!
 
-811
-00:40:30,850 --> 00:40:32,217
+884
+00:40:30,970 --> 00:40:32,638
 How many teams are there?
 
-812
-00:40:32,253 --> 00:40:36,161
+885
+00:40:32,638 --> 00:40:36,559
 Uh, six, but they're trying
 to organize a couple more.
 
-813
-00:40:36,197 --> 00:40:38,931
+886
+00:40:36,559 --> 00:40:39,396
 I... I didn't know
 you liked baseball.
 
-814
-00:40:38,971 --> 00:40:42,435
+887
+00:40:39,396 --> 00:40:43,024
 I didn't know anyone else liked
 baseball except me and Jake.
 
-815
-00:40:44,652 --> 00:40:46,988
+888
+00:40:44,901 --> 00:40:48,280
 Uh, look, this transmission
 I mentioned
 
-816
-00:40:47,025 --> 00:40:49,019
+889
+00:40:48,280 --> 00:40:50,031
 uh, it's an audio recording
 of a game
 
-817
-00:40:49,063 --> 00:40:52,299
+890
+00:40:50,031 --> 00:40:52,825
 between my brother's team,
 the Pike City Pioneers
 
-818
-00:40:52,338 --> 00:40:53,807
+891
+00:40:52,825 --> 00:40:54,160
 and the Cestus Comets.
 
-819
-00:40:53,843 --> 00:40:56,042
-Uh... well, if you'd like
+892
+00:40:54,160 --> 00:40:56,413
+Uh... well, if you'd like,
 
-820
-00:40:56,081 --> 00:40:58,713
+893
+00:40:56,413 --> 00:40:59,207
 you're welcome to listen
 to it with me.
 
-821
-00:40:58,756 --> 00:40:59,747
+894
+00:40:59,207 --> 00:41:00,208
 Well, I'd...
 
-822
-00:40:59,791 --> 00:41:00,760
+895
+00:41:00,208 --> 00:41:01,334
 I'd love to.
 
-823
-00:41:00,794 --> 00:41:01,763
+896
+00:41:01,334 --> 00:41:02,335
 Oh, great.
 
-824
-00:41:01,797 --> 00:41:02,766
+897
+00:41:02,335 --> 00:41:03,336
 Well...
 
-825
-00:41:02,799 --> 00:41:04,063
+898
+00:41:03,336 --> 00:41:04,545
 Oh...
 
-826
-00:41:04,102 --> 00:41:05,594
-Tell me, does
-your brother's league
+899
+00:41:04,545 --> 00:41:06,089
+Tell me, does your
+brother's league
 
-827
-00:41:05,640 --> 00:41:07,440
-use a designated hitter rule?
+900
+00:41:06,089 --> 00:41:07,966
+use a designated
+hitter rule?
 
-828
-00:41:07,479 --> 00:41:10,247
-Oh, no, they thought about it,
-but decided against it.
+901
+00:41:07,966 --> 00:41:09,467
+Oh, no, they thought
+about it,
 
-829
-00:41:10,285 --> 00:41:12,279
-Ah. Wood bats or polyduranide?
+902
+00:41:09,467 --> 00:41:10,969
+but decided
+against it.
 
-830
-00:41:12,324 --> 00:41:13,623
+903
+00:41:10,969 --> 00:41:12,845
+Ah. Wood bats or
+polyduranide?
+
+904
+00:41:12,845 --> 00:41:14,097
 Wood, of course.
 
-831
-00:41:13,661 --> 00:41:16,760
-Do you think your brother could
-use a right-handed pitcher?
+905
+00:41:14,097 --> 00:41:16,057
+Do you think your
+brother could use
 
-832
-00:41:16,803 --> 00:41:18,272
+906
+00:41:16,057 --> 00:41:17,350
+a right-handed
+pitcher?
+
+907
+00:41:17,350 --> 00:41:19,018
+(<i> laughing</i> ):
 Oh, no.
 
-833
-00:41:33,512 --> 00:41:37,181
-Everything seems to be in order.
+908
+00:41:33,950 --> 00:41:35,701
+BRUNT:
+Everything seems
 
-834
-00:41:37,222 --> 00:41:40,424
+909
+00:41:35,701 --> 00:41:37,745
+to be in order.
+
+910
+00:41:37,745 --> 00:41:40,873
 I'm glad we can finally
 put an end to this matter.
 
-835
-00:41:40,463 --> 00:41:43,528
-I certainly hope you
-have learned your lesson.
+911
+00:41:40,873 --> 00:41:42,541
+I certainly hope<i> you</i>
 
-836
-00:41:43,572 --> 00:41:46,101
+912
+00:41:42,541 --> 00:41:43,960
+have learned
+your lesson.
+
+913
+00:41:43,960 --> 00:41:46,754
+(<i> sweetly</i> ):
 And what would that be?
 
-837
-00:41:48,016 --> 00:41:49,987
+914
+00:41:48,506 --> 00:41:50,383
 She's speaking to me again.
 
-838
-00:41:50,022 --> 00:41:51,150
-No, she wasn't.
+915
+00:41:50,383 --> 00:41:51,717
+No, she
+wasn't.
 
-839
-00:41:51,191 --> 00:41:53,355
+916
+00:41:51,717 --> 00:41:54,012
 She's speaking to me.
 
-840
-00:41:54,867 --> 00:41:57,635
+917
+00:41:55,263 --> 00:41:58,183
 Now, what were you
 saying about a lesson?
 
-841
-00:41:57,709 --> 00:41:59,646
+918
+00:41:58,183 --> 00:42:00,143
 Ah, the lesson is:
 
-842
-00:41:59,714 --> 00:42:02,688
-No one can outsmart the FCA.
+919
+00:42:00,143 --> 00:42:02,937
+No one can outsmart
+the FCA.
 
-843
-00:42:02,722 --> 00:42:04,420
+920
+00:42:02,937 --> 00:42:05,023
 I think she's
-certainly learned that.
+certainly
+learned that.
 
-844
-00:42:04,460 --> 00:42:07,457
+921
+00:42:05,023 --> 00:42:07,942
 Your mother's confession
 will serve as a warning
 
-845
-00:42:07,501 --> 00:42:09,529
+922
+00:42:07,942 --> 00:42:09,819
 to females
 all over the Alliance.
 
-846
-00:42:09,573 --> 00:42:12,706
-Oh, I don't think anyone
-has to know about this.
+923
+00:42:09,819 --> 00:42:13,239
+Oh, I don't think
+anyone has to
+know about this.
 
-847
-00:42:12,748 --> 00:42:15,312
-After all, what would people say
+924
+00:42:13,239 --> 00:42:15,908
+After all, what
+would people say
 
-848
-00:42:15,354 --> 00:42:18,226
+925
+00:42:15,908 --> 00:42:18,870
 if they knew
 a female had earned...
 
-849
-00:42:18,262 --> 00:42:20,028
+926
+00:42:18,870 --> 00:42:20,663
 that much latinum?
 
-850
-00:42:20,067 --> 00:42:22,403
+927
+00:42:20,663 --> 00:42:23,124
 I shudder to think.
 
-851
-00:42:23,709 --> 00:42:25,441
+928
+00:42:23,124 --> 00:42:24,209
+(<i> laughs</i> )
+
+929
+00:42:24,209 --> 00:42:26,169
 Good-bye.
 
-852
-00:42:28,790 --> 00:42:32,391
+930
+00:42:29,172 --> 00:42:32,758
 I sincerely hope I never see
 any of you again.
 
-853
-00:42:32,432 --> 00:42:34,528
+931
+00:42:32,758 --> 00:42:34,802
 The feeling is mutual.
 
-854
-00:42:42,324 --> 00:42:44,420
+932
+00:42:34,802 --> 00:42:35,928
+(<i> laughs</i> )
+
+933
+00:42:40,975 --> 00:42:42,852
+(<i> laughing sarcastically</i> )
+
+934
+00:42:42,852 --> 00:42:44,770
 I thought he'd never leave.
 
-855
-00:42:44,464 --> 00:42:47,198
+935
+00:42:44,770 --> 00:42:47,440
 Mother... must you?
 
-856
-00:42:47,237 --> 00:42:50,268
+936
+00:42:47,440 --> 00:42:50,735
 Quark, I've just given
 up a sizable fortune.
 
-857
-00:42:50,312 --> 00:42:52,648
-I'm in no mood for your nagging.
+937
+00:42:50,735 --> 00:42:53,071
+I'm in no mood
+for your nagging.
 
-858
-00:42:52,685 --> 00:42:54,120
+938
+00:42:53,071 --> 00:42:54,572
 You're absolutely right.
 
-859
-00:42:54,155 --> 00:42:56,423
+939
+00:42:54,572 --> 00:42:57,075
 If you want to wear clothes,
 go ahead.
 
-860
-00:42:56,461 --> 00:42:57,430
+940
+00:42:57,075 --> 00:42:57,992
 What do I care?
 
-861
-00:42:57,463 --> 00:42:58,727
+941
+00:42:57,992 --> 00:42:59,285
 I'm leaving, anyway.
 
-862
-00:42:58,834 --> 00:43:00,235
+942
+00:42:59,285 --> 00:43:00,578
 So soon?
 
-863
-00:43:00,271 --> 00:43:02,242
+943
+00:43:00,578 --> 00:43:02,747
 I have to reopen the bar.
 
-864
-00:43:02,276 --> 00:43:04,680
+944
+00:43:02,747 --> 00:43:04,916
 It's supporting all of us now.
 
-865
-00:43:04,716 --> 00:43:06,846
-Well, you know, you could
-call your mother
+945
+00:43:04,916 --> 00:43:07,293
+Well, you know, you
+could call your mother
 
-866
-00:43:06,888 --> 00:43:09,588
+946
+00:43:07,293 --> 00:43:10,088
 every once in a while...
 maybe even visit.
 
-867
-00:43:12,169 --> 00:43:13,969
+947
+00:43:12,590 --> 00:43:14,551
 I will.
 
-868
-00:43:14,007 --> 00:43:15,841
+948
+00:43:14,551 --> 00:43:16,386
 I promise.
 
-869
-00:43:23,030 --> 00:43:24,158
+949
+00:43:23,184 --> 00:43:24,394
 Let's go, Rom.
 
-870
-00:43:24,200 --> 00:43:26,262
-I'll be along in a moment,
-Brother.
+950
+00:43:24,394 --> 00:43:26,604
+I'll be along
+in a moment, Brother.
 
-871
-00:43:37,100 --> 00:43:40,370
-I'm glad to see you two
-are finally getting along.
+951
+00:43:37,532 --> 00:43:38,991
+I'm glad to see
+you two
 
-872
-00:43:40,408 --> 00:43:42,470
-Yeah, I think things will be
+952
+00:43:38,991 --> 00:43:40,868
+are finally
+getting along.
 
-873
-00:43:42,513 --> 00:43:45,213
-a lot better
-between us from now on.
+953
+00:43:40,868 --> 00:43:43,079
+Yeah, I think
+things will be
 
-874
-00:43:45,255 --> 00:43:47,089
-As long as he doesn't find out
+954
+00:43:43,079 --> 00:43:45,706
+a lot better between
+us from now on.
 
-875
-00:43:47,126 --> 00:43:49,998
-you only gave the FCA
-a third of your profits.
+955
+00:43:45,706 --> 00:43:47,584
+As long as he
+doesn't find out
 
-876
-00:43:50,033 --> 00:43:52,505
-If you ask me,
-a third was too much.
+956
+00:43:47,584 --> 00:43:49,085
+you only gave
+the FCA
 
-877
-00:43:52,539 --> 00:43:55,809
-Well, it's my own fault
-for not hiding it better.
+957
+00:43:49,085 --> 00:43:50,378
+a third
+of your profits.
 
-878
-00:43:55,882 --> 00:43:58,354
+958
+00:43:50,378 --> 00:43:53,047
+If you ask me, a
+third was too much.
+
+959
+00:43:53,047 --> 00:43:54,507
+Well, it's
+my own fault
+
+960
+00:43:54,507 --> 00:43:56,217
+for not hiding
+it better.
+
+961
+00:43:56,217 --> 00:43:58,761
 You sure the FCA
 won't find the rest?
 
-879
-00:43:58,389 --> 00:44:01,830
-I've got it hidden so well,
-I'll be lucky if I can find it.
+962
+00:43:58,761 --> 00:44:00,346
+I've got it
+hidden so well,
 
-880
-00:44:08,748 --> 00:44:11,050
+963
+00:44:00,346 --> 00:44:02,223
+I'll be lucky
+if<i> I</i> can find it.
+
+964
+00:44:02,223 --> 00:44:04,225
+(<i> both chuckle</i> )
+
+965
+00:44:09,147 --> 00:44:11,149
 Oh, Moogie...
 
-881
-00:44:11,088 --> 00:44:14,552
+966
+00:44:11,149 --> 00:44:15,194
 Now, Rom, don't start crying.
 You'll get me doing it.
 
-882
-00:44:14,597 --> 00:44:16,363
+967
+00:44:15,194 --> 00:44:16,529
 Go on, go on.
 
-883
-00:44:16,401 --> 00:44:18,099
-Quark's waiting for you.
+968
+00:44:16,529 --> 00:44:18,656
+Quark's
+waiting for you.
 
-884
-00:44:23,186 --> 00:44:26,126
+969
+00:44:23,702 --> 00:44:26,372
 Take good care of your brother.
-

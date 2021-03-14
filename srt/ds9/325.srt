@@ -1,3387 +1,3695 @@
-﻿1
-00:00:02,698 --> 00:00:05,398
-The Cardassians
+1
+00:00:02,461 --> 00:00:05,130
+COMPUTER: The Cardassians
 are still closing.
 
 2
-00:00:05,438 --> 00:00:08,502
+00:00:05,130 --> 00:00:08,175
 They have powered
 their weapon systems.
 
 3
-00:00:12,288 --> 00:00:16,195
+00:00:08,175 --> 00:00:10,385
+(<i> Nog sighing</i> )
+
+4
+00:00:10,385 --> 00:00:11,804
+(<i> console beeping</i> )
+
+5
+00:00:11,804 --> 00:00:15,766
 They have established
 weapons lock.
 
-4
-00:00:22,412 --> 00:00:24,474
+6
+00:00:21,939 --> 00:00:24,065
 Weapons lock broken.
 
-5
-00:00:25,586 --> 00:00:26,714
+7
+00:00:24,065 --> 00:00:25,150
+(<i> laughs</i> )
+
+8
+00:00:25,150 --> 00:00:26,360
 Going to warp.
 
-6
-00:00:33,004 --> 00:00:34,564
+9
+00:00:26,360 --> 00:00:28,445
+(<i> knocking</i> )
+
+10
+00:00:32,700 --> 00:00:34,034
 Get out of here, Jake!
 
-7
-00:00:34,607 --> 00:00:36,008
+11
+00:00:34,034 --> 00:00:35,744
 I'm-I'm in the middle
 of a simulation!
 
-8
-00:00:37,047 --> 00:00:38,482
+12
+00:00:36,745 --> 00:00:38,038
 I said get out of here!
 
-9
-00:00:38,517 --> 00:00:41,980
+13
+00:00:38,038 --> 00:00:41,667
 Computer, end program.
 
-10
-00:00:42,026 --> 00:00:43,256
+14
+00:00:41,667 --> 00:00:42,751
 Oh! Oh, oh!
 
-11
-00:00:43,296 --> 00:00:44,264
+15
+00:00:42,751 --> 00:00:43,752
 You okay?
 
-12
-00:00:44,298 --> 00:00:46,428
-Look what you made me do.
+16
+00:00:43,752 --> 00:00:45,880
+Look what you
+made me do.
 
-13
-00:00:46,470 --> 00:00:47,495
+17
+00:00:45,880 --> 00:00:47,046
 Well, you should know
 
-14
-00:00:47,538 --> 00:00:49,201
+18
+00:00:47,046 --> 00:00:48,757
 not to end a program
 sitting down.
 
-15
-00:00:49,243 --> 00:00:50,644
+19
+00:00:48,757 --> 00:00:50,217
 Why did you come in here?
 
-16
-00:00:50,680 --> 00:00:52,878
+20
+00:00:50,217 --> 00:00:52,386
 You were supposed to meet
 me half an hour ago.
 
-17
-00:00:54,155 --> 00:00:56,592
+21
+00:00:52,386 --> 00:00:56,181
 Well, I didn't realize
 it had gotten so late.
 
-18
-00:00:56,627 --> 00:00:57,595
+22
+00:00:56,181 --> 00:00:57,098
 Sorry.
 
-19
-00:00:57,630 --> 00:00:58,929
+23
+00:00:57,098 --> 00:00:58,350
 Don't worry about it.
 
-20
-00:00:58,966 --> 00:01:00,401
+24
+00:00:58,350 --> 00:00:59,852
 How's it going, anyway?
 
-21
-00:01:00,436 --> 00:01:03,102
-Pretty good, I've improved
-my reaction time
+25
+00:00:59,852 --> 00:01:02,604
+Pretty good, I've
+improved my reaction time
 
-22
-00:01:03,143 --> 00:01:04,407
+26
+00:01:02,604 --> 00:01:03,981
 by almost 20 percent
 
-23
-00:01:04,446 --> 00:01:06,975
+27
+00:01:03,981 --> 00:01:06,358
 but I've got to get it up
 another five.
 
-24
-00:01:07,019 --> 00:01:08,078
+28
+00:01:06,358 --> 00:01:07,776
 Is that the cutoff point
 
-25
-00:01:08,121 --> 00:01:10,183
+29
+00:01:07,776 --> 00:01:09,778
 for getting into the Academy
 Preparatory Program?
 
-26
-00:01:10,226 --> 00:01:11,627
+30
+00:01:09,778 --> 00:01:11,279
 Exactly.
 
-27
-00:01:12,800 --> 00:01:14,269
+31
+00:01:12,406 --> 00:01:13,866
 Don't worry about it, Nog.
 
-28
-00:01:14,370 --> 00:01:15,395
+32
+00:01:13,866 --> 00:01:14,867
 You'll get there.
 
-29
-00:01:15,439 --> 00:01:16,407
+33
+00:01:14,867 --> 00:01:16,284
 I'd better.
 
-30
-00:01:16,442 --> 00:01:18,709
+34
+00:01:16,284 --> 00:01:18,286
 Because if I don't
-get into the program
+get into the program,
 
-31
-00:01:18,747 --> 00:01:22,051
+35
+00:01:18,286 --> 00:01:21,665
 I'll never be admitted
 into the Academy next year.
 
-32
-00:01:22,088 --> 00:01:24,389
+36
+00:01:21,665 --> 00:01:23,918
 You think six weeks
 of summer classes
 
-33
-00:01:24,427 --> 00:01:25,896
+37
+00:01:23,918 --> 00:01:25,502
 will make the difference?
 
-34
-00:01:25,931 --> 00:01:27,025
+38
+00:01:25,502 --> 00:01:26,712
 If I do well.
 
-35
-00:01:27,067 --> 00:01:29,061
+39
+00:01:26,712 --> 00:01:28,756
 I have to show
 the admissions committee
 
-36
-00:01:29,105 --> 00:01:31,907
+40
+00:01:28,756 --> 00:01:31,508
 how determined I am
 to become a cadet.
 
-37
-00:01:31,946 --> 00:01:34,247
+41
+00:01:31,508 --> 00:01:33,969
 Don't worry so much, Nog.
 
-38
-00:01:34,284 --> 00:01:36,084
+42
+00:01:33,969 --> 00:01:35,804
 You'll be a great cadet.
 
-39
-00:01:36,121 --> 00:01:40,827
+43
+00:01:35,804 --> 00:01:37,973
 In the meantime,
+
+44
+00:01:37,973 --> 00:01:40,350
 you make a lousy stock boy.
 
-40
-00:01:40,867 --> 00:01:43,499
+45
+00:01:40,350 --> 00:01:42,978
 Why can't you take after
 your friend here?
 
-41
-00:01:43,540 --> 00:01:46,912
-He knows enough
-to stay out of Starfleet.
-
-42
-00:01:46,948 --> 00:01:49,010
-Even a human can see
-
-43
-00:01:49,052 --> 00:01:51,114
-there's a lot
-more profitable opportunities
-
-44
-00:01:51,157 --> 00:01:53,721
-out there for a young man
-with ambition.
-
-45
-00:01:53,764 --> 00:01:56,099
-Uncle, he wants to be a writer.
-
 46
-00:01:56,136 --> 00:01:58,107
-There's no profit in that.
+00:01:42,978 --> 00:01:46,565
+He knows enough
+to stay<i> out</i> of Starfleet.
 
 47
-00:01:58,141 --> 00:02:02,915
-On the contrary,
-writing holosuite programs...
+00:01:46,565 --> 00:01:48,567
+Even a human can see
 
 48
-00:02:02,953 --> 00:02:04,947
-especially the more
-intimate variety...
+00:01:48,567 --> 00:01:50,778
+there's a lot more
+profitable opportunities
 
 49
-00:02:04,991 --> 00:02:07,292
-is very profitable.
+00:01:50,778 --> 00:01:51,946
+out there for a young man
 
 50
-00:02:07,330 --> 00:02:08,594
-I'll bet.
+00:01:51,946 --> 00:01:53,280
+with ambition.
 
 51
-00:02:08,633 --> 00:02:09,658
-I'll tell you what.
+00:01:53,280 --> 00:01:55,699
+Uncle, he wants
+to be a writer.
 
 52
-00:02:09,702 --> 00:02:11,570
-The two of you come up
-with a proposal
+00:01:55,699 --> 00:01:57,534
+There's no profit in that.
 
 53
-00:02:11,607 --> 00:02:14,444
-and I'll put up the latinum
-for your first program.
+00:01:57,534 --> 00:02:02,497
+On the contrary,
+writing holosuite programs--
 
 54
-00:02:14,480 --> 00:02:17,044
-I don't think so, Uncle.
+00:02:02,497 --> 00:02:04,625
+especially the more
+intimate variety--
 
 55
-00:02:19,058 --> 00:02:21,029
-All right, fine...
+00:02:04,625 --> 00:02:06,710
+is<i> very</i> profitable.
 
 56
-00:02:21,063 --> 00:02:23,034
-join Starfleet.
+00:02:06,710 --> 00:02:08,003
+I'll bet.
 
 57
-00:02:23,068 --> 00:02:25,130
+00:02:08,003 --> 00:02:09,337
+I'll tell you what.
+
+58
+00:02:09,337 --> 00:02:11,090
+The two of you come up
+with a proposal,
+
+59
+00:02:11,090 --> 00:02:12,466
+and I'll put up the latinum
+
+60
+00:02:12,466 --> 00:02:13,968
+for your
+first program.
+
+61
+00:02:13,968 --> 00:02:18,179
+I don't think so, Uncle.
+
+62
+00:02:18,179 --> 00:02:20,474
+QUARK:
+All right, fine...
+
+63
+00:02:20,474 --> 00:02:22,350
+join Starfleet.
+
+64
+00:02:22,350 --> 00:02:24,603
 I don't know why I bother
 trying to help you anyway.
 
-58
-00:02:25,173 --> 00:02:26,973
+65
+00:02:24,603 --> 00:02:26,438
 Go down to the storeroom
 and get your father.
 
-59
-00:02:27,011 --> 00:02:29,073
-Tell him to get behind the bar.
+66
+00:02:26,438 --> 00:02:28,440
+Tell him to get
+behind the bar.
 
-60
-00:02:29,115 --> 00:02:31,952
+67
+00:02:28,440 --> 00:02:31,359
 Lieutenant Dax has asked me
 to join the senior staff
 
-61
-00:02:31,989 --> 00:02:34,483
+68
+00:02:31,359 --> 00:02:33,821
 for a very important
 meeting in the wardroom.
 
-62
-00:02:39,707 --> 00:02:40,801
+69
+00:02:39,118 --> 00:02:40,327
 Do you have any idea
 
-63
-00:02:40,844 --> 00:02:42,747
-what Dax wants
-to talk to us about?
+70
+00:02:40,327 --> 00:02:42,037
+what Dax wants to
+talk to us about?
 
-64
-00:02:42,782 --> 00:02:43,944
+71
+00:02:42,037 --> 00:02:43,413
 No.
 
-65
-00:02:43,984 --> 00:02:46,148
+72
+00:02:43,413 --> 00:02:45,332
 Apparently, she asked
 Leeta to come as well.
 
-66
-00:02:46,189 --> 00:02:47,658
+73
+00:02:45,332 --> 00:02:46,667
 Hmm. I've noticed
 they've been spending
 
-67
-00:02:47,693 --> 00:02:48,787
-quite a bit of time together.
+74
+00:02:46,667 --> 00:02:48,043
+quite a bit
+of time together.
 
-68
-00:02:48,829 --> 00:02:51,893
-Do you keep tabs
-on everybody, Constable?
+75
+00:02:48,043 --> 00:02:51,296
+Do you keep tabs on
+everybody, Constable?
 
-69
-00:02:51,936 --> 00:02:53,565
+76
+00:02:51,296 --> 00:02:52,506
 Not everyone.
 
-70
-00:02:53,608 --> 00:02:54,770
-But really, Doctor
+77
+00:02:52,506 --> 00:02:54,008
+But really, Doctor,
 
-71
-00:02:54,810 --> 00:02:57,247
+78
+00:02:54,008 --> 00:02:56,677
 two Delvin fluff pastries
 for breakfast this morning?
 
-72
-00:02:57,283 --> 00:02:58,877
+79
+00:02:56,677 --> 00:02:58,219
 You of all people
 should know better
 
-73
-00:02:58,920 --> 00:03:00,389
+80
+00:02:58,219 --> 00:02:59,847
 than to start
 your day like that.
 
-74
-00:03:07,674 --> 00:03:09,109
-Major. Chief.
-
-75
-00:03:09,144 --> 00:03:10,408
-Hello, Leeta
-
-76
-00:03:10,448 --> 00:03:11,416
-Oh, hello.
-
-77
-00:03:11,451 --> 00:03:12,977
-And how are you doing?
-
-78
-00:03:15,059 --> 00:03:16,426
-Thank you all for coming.
-
-79
-00:03:16,463 --> 00:03:17,431
-No problem.
-
-80
-00:03:17,465 --> 00:03:18,455
-What's up?
-
 81
-00:03:19,971 --> 00:03:22,637
-I'll get right to the point.
+00:02:59,847 --> 00:03:01,890
+(<i> laughs</i> )
 
 82
-00:03:22,677 --> 00:03:24,944
+00:03:01,890 --> 00:03:04,059
+(<i> quiet conversations</i> )
+
+83
+00:03:06,979 --> 00:03:08,605
+Major. Chief.
+
+84
+00:03:08,605 --> 00:03:09,731
+Hello, Leeta
+
+85
+00:03:09,731 --> 00:03:10,732
+Oh, hello.
+
+86
+00:03:10,732 --> 00:03:12,442
+And how are you doing?
+
+87
+00:03:14,444 --> 00:03:15,570
+Thank you all for coming.
+
+88
+00:03:15,570 --> 00:03:16,571
+BASHIR:
+No problem.
+
+89
+00:03:16,571 --> 00:03:17,781
+O'BRIEN:
+What's up?
+
+90
+00:03:19,240 --> 00:03:21,952
+I'll get
+right to the point.
+
+91
+00:03:21,952 --> 00:03:24,163
 You are the seven people
 on this station
 
-83
-00:03:24,983 --> 00:03:26,282
-that I feel closest to
+92
+00:03:24,163 --> 00:03:25,706
+that I feel closest to,
 
-84
-00:03:26,319 --> 00:03:28,917
+93
+00:03:25,706 --> 00:03:28,167
 and I want you all to be
-a part of my <i>zhian'tara.</i>
+a part of my<i> zhian'tara.</i>
 
-85
-00:03:28,959 --> 00:03:31,055
-<i>Zhian'tara,</i> what's that?
+94
+00:03:28,167 --> 00:03:30,335
+<i>Zhian'tara,</i>
+what's that?
 
-86
-00:03:31,097 --> 00:03:33,466
+95
+00:03:30,335 --> 00:03:32,504
 It's the Trill rite of closure.
 I've read about it.
 
-87
-00:03:33,503 --> 00:03:34,870
-The <i>zhian'tara</i> is a ritual
+96
+00:03:32,504 --> 00:03:34,213
+DAX:
+The<i> zhian'tara</i>
+is a ritual
 
-88
-00:03:34,906 --> 00:03:36,341
+97
+00:03:34,213 --> 00:03:35,799
 where joined Trills
 get a chance
 
-89
-00:03:36,377 --> 00:03:38,108
+98
+00:03:35,799 --> 00:03:37,551
 to actually meet
 their previous hosts.
 
-90
-00:03:38,148 --> 00:03:39,811
-Meet them... how?
+99
+00:03:37,551 --> 00:03:39,094
+Meet them-- how?
 
-91
-00:03:39,851 --> 00:03:42,049
-That's where you come in.
+100
+00:03:39,094 --> 00:03:41,346
+That's where
+you come in.
 
-92
-00:03:42,090 --> 00:03:45,758
-If you don't mind,
-I'd like to borrow your bodies
+101
+00:03:41,346 --> 00:03:45,100
+If you don't mind, I'd
+like to borrow your bodies
 
-93
-00:03:45,800 --> 00:03:47,030
+102
+00:03:45,100 --> 00:03:46,434
 for a few hours.
 
-94
-00:05:52,665 --> 00:05:54,829
+103
+00:05:52,351 --> 00:05:54,604
 What do you mean,
 "borrow" our bodies?
 
-95
-00:05:54,870 --> 00:05:56,169
+104
+00:05:54,604 --> 00:05:56,106
+DAX:
 Well, if you agree
 
-96
-00:05:56,207 --> 00:05:57,608
-to participate
+105
+00:05:56,106 --> 00:05:57,398
+to participate,
 
-97
-00:05:57,644 --> 00:05:59,581
+106
+00:05:57,398 --> 00:05:59,358
 the memories of one
 of my previous hosts
 
-98
-00:05:59,615 --> 00:06:01,609
+107
+00:05:59,358 --> 00:06:01,360
 will be temporarily removed
 from the symbiont
 
-99
-00:06:01,654 --> 00:06:02,713
+108
+00:06:01,360 --> 00:06:02,612
 and imprinted onto you.
 
-100
-00:06:02,756 --> 00:06:04,521
+109
+00:06:02,612 --> 00:06:04,363
 You essentially become
 one of my hosts
 
-101
-00:06:04,561 --> 00:06:06,532
-for the duration of the ritual.
+110
+00:06:04,363 --> 00:06:06,283
+for the duration
+of the ritual.
 
-102
-00:06:06,565 --> 00:06:08,194
-And how is this accomplished?
+111
+00:06:06,283 --> 00:06:08,202
+And how is this
+accomplished?
 
-103
-00:06:08,236 --> 00:06:11,141
+112
+00:06:08,202 --> 00:06:10,996
 The memories are transferred
 telepathically by a Guardian.
 
-104
-00:06:11,176 --> 00:06:12,509
+113
+00:06:10,996 --> 00:06:12,413
 A Guardian?
 
-105
-00:06:12,546 --> 00:06:14,209
-They take care of the symbionts.
+114
+00:06:12,413 --> 00:06:14,166
+LEETA:
+They take care of
+the symbionts.
 
-106
-00:06:14,250 --> 00:06:16,483
+115
+00:06:14,166 --> 00:06:16,293
 Usually, they're unjoined Trill.
 
-107
-00:06:16,522 --> 00:06:19,586
-Leeta is sort
-of an amateur sociologist.
+116
+00:06:16,293 --> 00:06:19,338
+Leeta is sort of an
+amateur sociologist.
 
-108
-00:06:19,630 --> 00:06:21,430
+117
+00:06:19,338 --> 00:06:21,089
 It comes in handy
 in my line of work.
 
-109
-00:06:21,467 --> 00:06:24,964
+118
+00:06:21,089 --> 00:06:24,843
 You never know who you'll meet
 at the dabo table.
 
-110
-00:06:25,009 --> 00:06:25,977
+119
+00:06:24,843 --> 00:06:26,136
 You're asking me
 
-111
-00:06:26,012 --> 00:06:28,483
+120
+00:06:26,136 --> 00:06:28,347
 to hand my body over
 to some dead person.
 
-112
-00:06:28,518 --> 00:06:30,546
+121
+00:06:28,347 --> 00:06:30,349
 Only for a few hours.
 
-113
-00:06:30,589 --> 00:06:33,961
-Uh-huh. What happens to me
-in the meantime?
+122
+00:06:30,349 --> 00:06:33,727
+Uh-huh. What happens
+to me in the meantime?
 
-114
-00:06:33,998 --> 00:06:35,763
-You'll remain conscious
+123
+00:06:33,727 --> 00:06:35,562
+You'll remain
+conscious
 
-115
-00:06:35,801 --> 00:06:37,566
-of everything
-that's going on around you.
+124
+00:06:35,562 --> 00:06:37,356
+of everything that's
+going on around you.
 
-116
-00:06:37,606 --> 00:06:40,204
-And at any time,
-you can reassert yourself
+125
+00:06:37,356 --> 00:06:40,150
+And at any time, you can
+reassert yourself
 
-117
-00:06:40,246 --> 00:06:41,545
-and regain control of your body.
+126
+00:06:40,150 --> 00:06:41,235
+and regain control
+of your body.
 
-118
-00:06:41,582 --> 00:06:42,983
+127
+00:06:41,235 --> 00:06:42,736
 But it's best to relax
 
-119
-00:06:43,019 --> 00:06:45,252
+128
+00:06:42,736 --> 00:06:45,113
 and let the host's
 memories emerge.
 
-120
-00:06:45,292 --> 00:06:47,559
+129
+00:06:45,113 --> 00:06:47,324
 The point is to give
 Jadzia a chance
 
-121
-00:06:47,597 --> 00:06:49,898
-to interact
-with her previous hosts.
+130
+00:06:47,324 --> 00:06:49,784
+to interact with
+her previous hosts.
 
-122
-00:06:49,936 --> 00:06:52,966
+131
+00:06:49,784 --> 00:06:52,787
 Curzon spoke very fondly
-of his <i>zhian'tara.</i>
+of his<i> zhian'tara.</i>
 
-123
-00:06:53,009 --> 00:06:54,171
+132
+00:06:52,787 --> 00:06:54,164
 He said it was one
 
-124
-00:06:54,213 --> 00:06:57,209
+133
+00:06:54,164 --> 00:06:57,000
 of the most powerful
 experiences of his life.
 
-125
-00:06:57,253 --> 00:07:00,021
+134
+00:06:57,000 --> 00:06:59,378
 I do have one question.
 
-126
-00:07:00,060 --> 00:07:01,256
+135
+00:06:59,378 --> 00:07:00,962
 What about Joran?
 
-127
-00:07:01,296 --> 00:07:06,172
+136
+00:07:00,962 --> 00:07:06,009
 Joran... wasn't he
-the, uh, crazy host of yours...
+the, uh, crazy host of yours--
 
-128
-00:07:06,208 --> 00:07:07,643
-the musician who killed someone?
+137
+00:07:06,009 --> 00:07:07,552
+the musician
+who killed someone?
 
-129
-00:07:07,678 --> 00:07:11,643
+138
+00:07:07,552 --> 00:07:11,472
 Uh, Commander Sisko has
 volunteered to embody Joran.
 
-130
-00:07:11,688 --> 00:07:13,180
+139
+00:07:11,472 --> 00:07:13,141
 We've already discussed
 
-131
-00:07:13,225 --> 00:07:16,357
+140
+00:07:13,141 --> 00:07:16,103
 taking certain precautions
 during the transfer.
 
-132
-00:07:16,399 --> 00:07:18,267
+141
+00:07:16,103 --> 00:07:18,272
 Well, count me in.
 
-133
-00:07:18,304 --> 00:07:19,705
+142
+00:07:18,272 --> 00:07:19,564
 Me, too.
 
-134
-00:07:21,011 --> 00:07:22,275
+143
+00:07:20,899 --> 00:07:22,192
 Yes.
 
-135
-00:07:22,313 --> 00:07:23,407
+144
+00:07:22,192 --> 00:07:23,193
 Agreed.
 
-136
-00:07:23,449 --> 00:07:24,439
+145
+00:07:23,193 --> 00:07:24,152
 Chief?
 
-137
-00:07:24,485 --> 00:07:26,353
+146
+00:07:24,152 --> 00:07:26,363
 Oh, yes, yeah, I'm in.
 
-138
-00:07:33,473 --> 00:07:35,307
+147
+00:07:33,036 --> 00:07:34,871
 Why is everybody looking at me?
 
-139
-00:07:35,345 --> 00:07:39,150
+148
+00:07:34,871 --> 00:07:38,875
 Because you're the only one who
 hasn't agreed to participate.
 
-140
-00:07:41,626 --> 00:07:44,565
+149
+00:07:41,295 --> 00:07:44,256
 I'm sorry, Lieutenant.
 
-141
-00:07:44,600 --> 00:07:47,972
+150
+00:07:44,256 --> 00:07:47,717
 You're going to have
 to find someone else.
 
-142
-00:07:48,008 --> 00:07:51,540
-I really want you to be
+151
+00:07:47,717 --> 00:07:51,179
+I<i> really</i> want you to be
 a part of this, Quark.
 
-143
-00:07:51,583 --> 00:07:55,685
+152
+00:07:51,179 --> 00:07:55,475
 I was hoping that you
 would embody Audrid for me.
 
-144
-00:07:55,727 --> 00:07:57,891
+153
+00:07:55,475 --> 00:07:57,602
 Well...
 
-145
-00:07:57,932 --> 00:08:01,168
-I think it will make us closer.
+154
+00:07:57,602 --> 00:08:01,064
+I think it will
+make us closer.
 
-146
-00:08:01,207 --> 00:08:05,012
+155
+00:08:01,064 --> 00:08:04,651
 Uh... when you put it
 that way...
 
-147
-00:08:05,049 --> 00:08:07,543
-I knew I could count on you.
+156
+00:08:04,651 --> 00:08:07,112
+DAX:
+I knew I could
+count on you.
 
-148
-00:08:07,589 --> 00:08:13,001
-Kira, I would like you
-to embody Lela, my first host.
+157
+00:08:07,112 --> 00:08:11,158
+Kira, I would like
+you to embody Lela
 
-149
-00:08:13,034 --> 00:08:16,440
+158
+00:08:11,158 --> 00:08:12,742
+my first host.
+
+159
+00:08:12,742 --> 00:08:14,077
 We'll start tomorrow
-after the Guardian arrives.
 
-150
-00:08:16,476 --> 00:08:17,809
+160
+00:08:14,077 --> 00:08:16,079
+after the Guardian
+arrives.
+
+161
+00:08:16,079 --> 00:08:17,414
 It means a lot to me
 
-151
-00:08:17,846 --> 00:08:20,444
+162
+00:08:17,414 --> 00:08:20,083
 that all of you are
 willing to do this.
 
-152
-00:08:20,486 --> 00:08:22,616
+163
+00:08:20,083 --> 00:08:22,294
 Thank you.
 
-153
-00:08:30,276 --> 00:08:33,614
+164
+00:08:29,968 --> 00:08:33,138
 Correct me if I'm wrong,
 but did Quark just agree
 
-154
-00:08:33,651 --> 00:08:35,588
+165
+00:08:33,138 --> 00:08:35,223
 to embody one
 of your female hosts?
 
-155
-00:08:35,622 --> 00:08:37,525
+166
+00:08:35,223 --> 00:08:37,142
 Yes, he did.
 
-156
-00:08:37,561 --> 00:08:39,429
+167
+00:08:37,142 --> 00:08:39,269
 Hmm.
 
-157
-00:08:45,145 --> 00:08:48,483
+168
+00:08:44,649 --> 00:08:48,445
 After that, comes the deductive
 reasoning portion of the exam
 
-158
-00:08:48,520 --> 00:08:50,718
+169
+00:08:48,445 --> 00:08:50,238
 and then the spatial
 orientation test.
 
-159
-00:08:50,758 --> 00:08:52,558
+170
+00:08:50,238 --> 00:08:52,032
 The whole thing should
 take about four days.
 
-160
-00:08:52,597 --> 00:08:56,197
+171
+00:08:52,032 --> 00:08:55,910
 Now, I know it must sound
 overwhelming to you.
 
-161
-00:08:56,305 --> 00:08:58,538
+172
+00:08:55,910 --> 00:08:58,121
 Just try to take it
 one day at a time.
 
-162
-00:08:58,577 --> 00:09:02,143
+173
+00:08:58,121 --> 00:09:01,875
 One day at a time, right.
 
-163
-00:09:02,219 --> 00:09:04,349
+174
+00:09:01,875 --> 00:09:04,085
 And today, all you
 have to worry about
 
-164
-00:09:04,391 --> 00:09:06,419
-is the stress reaction test.
+175
+00:09:04,085 --> 00:09:06,171
+is the stress
+reaction test.
 
-165
-00:09:06,463 --> 00:09:09,197
-Computer, run program delta 59.
+176
+00:09:06,171 --> 00:09:09,007
+Computer, run
+program delta 5 9.
 
-166
-00:09:11,842 --> 00:09:14,872
+177
+00:09:11,468 --> 00:09:14,346
 I-I thought this was going
 to be a runabout simulation.
 
-167
-00:09:14,917 --> 00:09:15,885
+178
+00:09:14,346 --> 00:09:15,430
 No.
 
-168
-00:09:15,919 --> 00:09:18,517
+179
+00:09:15,430 --> 00:09:18,016
 But... that's what I practiced.
 
-169
-00:09:18,559 --> 00:09:20,826
+180
+00:09:18,016 --> 00:09:20,310
 Well, if we tested you
-where you practiced
+where you practiced,
 
-170
-00:09:20,864 --> 00:09:23,496
+181
+00:09:20,310 --> 00:09:23,063
 it wouldn't exactly be
 stressful, now would it?
 
-171
-00:09:24,539 --> 00:09:25,838
+182
+00:09:23,063 --> 00:09:25,315
 Man your post.
 
-172
-00:09:25,876 --> 00:09:27,847
+183
+00:09:25,315 --> 00:09:27,401
 You're the Operations
 Officer on duty.
 
-173
-00:09:38,807 --> 00:09:39,832
+184
+00:09:36,951 --> 00:09:38,286
+(<i> rumbling</i> )
+
+185
+00:09:38,286 --> 00:09:39,329
 What was that?!
 
-174
-00:09:41,246 --> 00:09:42,408
+186
+00:09:39,329 --> 00:09:40,830
+(<i> console beeping</i> )
+
+187
+00:09:40,830 --> 00:09:42,082
 You tell me.
 
-175
-00:09:51,304 --> 00:09:54,038
-We've been trying to get Dax
+188
+00:09:50,798 --> 00:09:52,050
+We've been
+trying to get Dax
+
+189
+00:09:52,050 --> 00:09:53,510
 back to the homeworld
 
-176
-00:09:54,077 --> 00:09:56,548
-to perform the <i>zhian'tara</i>
+190
+00:09:53,510 --> 00:09:56,179
+to perform the<i> zhian'tara</i>
 for some time now.
 
-177
-00:09:56,583 --> 00:09:59,750
+191
+00:09:56,179 --> 00:09:59,182
 She kept putting us off,
 so the Symbiosis Commission
 
-178
-00:09:59,791 --> 00:10:03,129
+192
+00:09:59,182 --> 00:10:02,561
 decided to force the issue
 and send me here.
 
-179
-00:10:03,165 --> 00:10:05,295
+193
+00:10:02,561 --> 00:10:04,604
 I just haven't had time
 to get away.
 
-180
-00:10:05,404 --> 00:10:06,737
-You could have made the time.
+194
+00:10:04,604 --> 00:10:06,147
+You could have
+made the time.
 
-181
-00:10:06,774 --> 00:10:09,268
-Where is the <i>zhian'tara</i>
+195
+00:10:06,147 --> 00:10:08,816
+Where is the<i> zhian'tara</i>
 to take place?
 
-182
-00:10:09,313 --> 00:10:11,147
+196
+00:10:08,816 --> 00:10:10,651
 I have preparations
 to make.
 
-183
-00:10:11,184 --> 00:10:12,346
+197
+00:10:10,651 --> 00:10:11,945
 This way.
 
-184
-00:10:19,137 --> 00:10:21,769
+198
+00:10:18,535 --> 00:10:21,121
 <i>I'nora, ja'kala Dax...</i>
 
-185
-00:10:21,810 --> 00:10:25,011
+199
+00:10:21,121 --> 00:10:24,416
 <i>zhian'shee, Lela tanus rem.</i>
 
-186
-00:10:25,051 --> 00:10:28,115
+200
+00:10:24,416 --> 00:10:27,586
 <i>Gon'dar, Jadzia tor.</i>
 
-187
-00:10:28,158 --> 00:10:31,188
+201
+00:10:27,586 --> 00:10:30,630
 <i>Jadzia, zhian'tara vok.</i>
 
-188
-00:10:31,232 --> 00:10:34,205
+202
+00:10:30,630 --> 00:10:33,592
 <i>Tu Dax, zhian'tani ress.</i>
 
-189
-00:10:34,240 --> 00:10:39,480
+203
+00:10:33,592 --> 00:10:39,055
 <i>Zhian'par, Lela garu'koj...</i>
 
-190
-00:11:03,176 --> 00:11:05,374
+204
+00:11:02,579 --> 00:11:04,789
 Kira?
 
-191
-00:11:05,414 --> 00:11:08,478
+205
+00:11:04,789 --> 00:11:07,917
 No...
 
-192
-00:11:08,522 --> 00:11:10,253
+206
+00:11:07,917 --> 00:11:09,669
 Lela.
 
-193
-00:11:15,271 --> 00:11:17,800
+207
+00:11:14,424 --> 00:11:17,177
 You must be Dax's new host.
 
-194
-00:11:17,845 --> 00:11:18,973
+208
+00:11:17,177 --> 00:11:18,470
 I'm Jadzia.
 
-195
-00:11:19,013 --> 00:11:22,077
-Oh, what a beautiful name.
+209
+00:11:18,470 --> 00:11:21,515
+Oh, what a<i> beautiful</i> name.
 
-196
-00:11:22,121 --> 00:11:24,422
+210
+00:11:21,515 --> 00:11:23,724
 I have a few questions
 for both of you.
 
-197
-00:11:24,527 --> 00:11:25,689
+211
+00:11:23,724 --> 00:11:25,018
 I need to make sure
 
-198
-00:11:25,730 --> 00:11:27,997
+212
+00:11:25,018 --> 00:11:27,479
 the memory transference
 is complete.
 
-199
-00:11:28,035 --> 00:11:29,265
+213
+00:11:27,479 --> 00:11:28,687
 Go ahead.
 
-200
-00:11:29,305 --> 00:11:31,640
+214
+00:11:28,687 --> 00:11:30,898
 What is the last thing
 you remember?
 
-201
-00:11:31,677 --> 00:11:34,844
+215
+00:11:30,898 --> 00:11:34,194
 Talking to Curzon
-at his <i>zhian'tara.</i>
+at his<i> zhian'tara.</i>
 
-202
-00:11:34,885 --> 00:11:38,121
+216
+00:11:34,194 --> 00:11:37,572
 Can you tell me
 the name of the person
 
-203
-00:11:38,159 --> 00:11:41,793
+217
+00:11:37,572 --> 00:11:41,117
 who supervised Lela
 when she was an initiate?
 
-204
-00:11:41,835 --> 00:11:43,999
+218
+00:11:41,117 --> 00:11:43,370
 No, I can't remember.
 
-205
-00:11:44,040 --> 00:11:45,634
-Well, that's perfectly
-all right.
+219
+00:11:43,370 --> 00:11:44,954
+Well, that's
+perfectly all right.
 
-206
-00:11:45,678 --> 00:11:47,170
+220
+00:11:44,954 --> 00:11:46,623
 It just means Lela's memories
 
-207
-00:11:47,215 --> 00:11:49,482
+221
+00:11:46,623 --> 00:11:48,875
 have been temporarily
 removed from your mind.
 
-208
-00:11:49,520 --> 00:11:51,457
-It's a little disorienting
+222
+00:11:48,875 --> 00:11:50,960
+It's a little
+disorienting,
 
-209
-00:11:51,492 --> 00:11:53,121
+223
+00:11:50,960 --> 00:11:52,587
 like part of me
 is suddenly missing.
 
-210
-00:11:53,162 --> 00:11:54,859
-Not missing...
+224
+00:11:52,587 --> 00:11:54,214
+Not missing--
 
-211
-00:11:54,899 --> 00:11:57,029
-right here...
+225
+00:11:54,214 --> 00:11:56,341
+right here--
 
-212
-00:11:57,071 --> 00:12:01,947
+226
+00:11:56,341 --> 00:12:01,304
 and the name of my initiate
 supervisor was Jobel.
 
-213
-00:12:01,983 --> 00:12:06,153
+227
+00:12:01,304 --> 00:12:05,642
 Excellent, the transference
 seems to be complete.
 
-214
-00:12:06,193 --> 00:12:09,291
+228
+00:12:05,642 --> 00:12:08,520
 Unless either of you
-have any questions
+have any questions,
 
-215
-00:12:09,335 --> 00:12:11,329
+229
+00:12:08,520 --> 00:12:10,938
 I'll leave you alone
 for a few hours.
 
-216
-00:12:11,372 --> 00:12:12,705
+230
+00:12:10,938 --> 00:12:12,106
 Thank you.
 
-217
-00:12:19,459 --> 00:12:23,298
+231
+00:12:14,817 --> 00:12:18,905
+(<i> door opens, closes</i> )
+
+232
+00:12:18,905 --> 00:12:22,617
 Such odd fellows
 these Guardians are.
 
-218
-00:12:23,334 --> 00:12:25,134
+233
+00:12:22,617 --> 00:12:24,452
 I know.
 
-219
-00:12:25,172 --> 00:12:29,171
+234
+00:12:24,452 --> 00:12:28,582
 Well, it's understandable,
 I suppose.
 
-220
-00:12:29,215 --> 00:12:31,881
+235
+00:12:28,582 --> 00:12:30,250
 They spend most
-of their time underground
+of their time underground,
 
-221
-00:12:31,921 --> 00:12:34,758
+236
+00:12:30,250 --> 00:12:34,128
 tending symbiont pools
 full of this stuff.
 
-222
-00:12:37,903 --> 00:12:40,067
+237
+00:12:37,215 --> 00:12:39,342
 Ah, I love the smell of it.
 
-223
-00:12:40,108 --> 00:12:42,251
+238
+00:12:39,342 --> 00:12:40,801
 Don't you?
 
-224
-00:12:48,933 --> 00:12:53,399
+239
+00:12:48,309 --> 00:12:53,106
 It looks like you've ended up
 a long way from home, Jadzia.
 
-225
-00:12:57,019 --> 00:12:59,183
+240
+00:12:56,526 --> 00:12:58,695
 What is it?
 
-226
-00:12:59,224 --> 00:13:03,860
+241
+00:12:58,695 --> 00:13:03,283
 It's just, uh... I hold
 my hands behind my back...
 
-227
-00:13:03,902 --> 00:13:05,531
+242
+00:13:03,283 --> 00:13:04,951
 the same way you do.
 
-228
-00:13:05,573 --> 00:13:11,213
+243
+00:13:04,951 --> 00:13:10,789
 Ah, it's a habit I picked up
 when I was a legislator.
 
-229
-00:13:11,253 --> 00:13:15,628
+244
+00:13:10,789 --> 00:13:15,044
 I was one of the first women
 to serve as a council member.
 
-230
-00:13:15,663 --> 00:13:19,833
+245
+00:13:15,044 --> 00:13:19,382
 When I started out,
-I talked with my hands a lot
+I talked with my hands a lot,
 
-231
-00:13:19,874 --> 00:13:21,845
+246
+00:13:19,382 --> 00:13:21,342
 lots of emphatic gesturing.
 
-232
-00:13:21,879 --> 00:13:23,473
+247
+00:13:21,342 --> 00:13:22,885
 I discovered
 
-233
-00:13:23,516 --> 00:13:26,786
+248
+00:13:22,885 --> 00:13:26,347
 some of my male colleagues
-were imitating me
+were imitating me,
 
-234
-00:13:26,824 --> 00:13:29,456
+249
+00:13:26,347 --> 00:13:28,891
 so I started to do this.
 
-235
-00:13:29,497 --> 00:13:31,968
+250
+00:13:28,891 --> 00:13:31,436
 I just thought it was
 an unconscious habit.
 
-236
-00:13:32,003 --> 00:13:34,065
+251
+00:13:31,436 --> 00:13:33,354
 I never realized why I did it.
 
-237
-00:13:34,108 --> 00:13:38,483
+252
+00:13:33,354 --> 00:13:37,858
 Ah, that's the point
-of a <i>zhian'tara...</i>
+of a<i> zhian'tara--</i>
 
-238
-00:13:38,518 --> 00:13:43,553
-to discover these things
+253
+00:13:37,858 --> 00:13:42,989
+to discover these<i> things</i>
 about yourself.
 
-239
-00:13:43,597 --> 00:13:46,126
+254
+00:13:42,989 --> 00:13:45,659
 It's so strange.
 
-240
-00:13:46,170 --> 00:13:48,972
+255
+00:13:45,659 --> 00:13:48,411
 It's like you really are Lela.
 
-241
-00:13:49,010 --> 00:13:50,913
+256
+00:13:48,411 --> 00:13:50,413
 Well, in a sense, I am.
 
-242
-00:13:50,949 --> 00:13:56,155
+257
+00:13:50,413 --> 00:13:55,585
 After all, what is a person
 but a sum of their memories?
 
-243
-00:13:56,194 --> 00:13:59,395
+258
+00:13:55,585 --> 00:13:58,797
 Oh...
 
-244
-00:13:59,503 --> 00:14:03,639
+259
+00:13:58,797 --> 00:14:03,050
 I have a feeling that
 these next few days
 
-245
-00:14:03,678 --> 00:14:08,144
+260
+00:14:03,050 --> 00:14:07,597
 are going to be
 extraordinary for you.
 
-246
-00:14:17,479 --> 00:14:20,680
+261
+00:14:13,812 --> 00:14:15,229
+(<i> sighs</i> )
+
+262
+00:14:17,064 --> 00:14:20,151
 Tobin, I don't think
 Chief O'Brien
 
-247
-00:14:20,719 --> 00:14:23,624
+263
+00:14:20,151 --> 00:14:23,112
 is going to appreciate
 you biting his nails.
 
-248
-00:14:23,660 --> 00:14:26,656
+264
+00:14:23,112 --> 00:14:25,990
 Sorry.
 
-249
-00:14:26,701 --> 00:14:28,729
-I guess I'm a little nervous.
+265
+00:14:25,990 --> 00:14:28,242
+I guess I'm
+a little nervous.
 
-250
-00:14:29,942 --> 00:14:30,910
+266
+00:14:29,118 --> 00:14:30,328
 That's all right.
 
-251
-00:14:30,945 --> 00:14:32,779
-I get that way sometimes myself.
+267
+00:14:30,328 --> 00:14:32,288
+I get that way
+sometimes myself.
 
-252
-00:14:32,815 --> 00:14:36,016
+268
+00:14:32,288 --> 00:14:33,998
 And now you know
-who you have to thank for it.
 
-253
-00:14:36,057 --> 00:14:37,549
+269
+00:14:33,998 --> 00:14:35,375
+who you have
+to thank for it.
+
+270
+00:14:35,375 --> 00:14:36,793
 Sorry.
 
-254
-00:14:37,594 --> 00:14:39,963
+271
+00:14:36,793 --> 00:14:39,379
 Will you please stop
 saying you're sorry?
 
-255
-00:14:39,999 --> 00:14:41,195
+272
+00:14:39,379 --> 00:14:40,714
 Sorry.
 
-256
-00:14:41,235 --> 00:14:44,732
+273
+00:14:40,714 --> 00:14:44,050
 I've been working on
 finishing your proof
 
-257
-00:14:44,777 --> 00:14:46,873
+274
+00:14:44,050 --> 00:14:46,260
 of Fermat's Last Theorem.
 
-258
-00:14:46,916 --> 00:14:48,819
+275
+00:14:46,260 --> 00:14:48,095
 You have?!
 
-259
-00:14:48,854 --> 00:14:52,887
+276
+00:14:48,095 --> 00:14:52,308
 It's the most original
 approach to the proof...
 
-260
-00:14:52,930 --> 00:14:55,732
+277
+00:14:52,308 --> 00:14:55,102
 since Wiles, over 300 years ago.
 
-261
-00:14:55,770 --> 00:14:56,864
+278
+00:14:55,102 --> 00:14:56,062
 Thanks.
 
-262
-00:14:56,906 --> 00:15:00,073
-I guess I tend to look
+279
+00:14:56,062 --> 00:14:57,564
+I guess I
+tend to look
+
+280
+00:14:57,564 --> 00:14:59,399
 for original approaches myself.
 
-263
-00:15:00,114 --> 00:15:02,951
+281
+00:14:59,399 --> 00:15:02,443
 I guess I have you
 to thank for that as well.
 
-264
-00:15:09,937 --> 00:15:11,429
+282
+00:15:06,197 --> 00:15:07,574
+(<i> clapping</i> )
+
+283
+00:15:09,367 --> 00:15:10,744
 Very nice.
 
-265
-00:15:11,508 --> 00:15:13,741
-This is an excellent body
-you managed to get for me.
+284
+00:15:10,744 --> 00:15:11,870
+This is an
+excellent body
 
-266
-00:15:13,781 --> 00:15:15,684
+285
+00:15:11,870 --> 00:15:13,079
+you managed
+to get for me.
+
+286
+00:15:13,079 --> 00:15:14,955
 I'll be sure
 to pass that along.
 
-267
-00:15:15,718 --> 00:15:18,623
+287
+00:15:14,955 --> 00:15:17,958
 I remember when I first
-got the Dax symbiont
+got the Dax symbiont.
 
-268
-00:15:18,658 --> 00:15:19,888
+288
+00:15:17,958 --> 00:15:19,210
 I was worried that it might
 
-269
-00:15:19,928 --> 00:15:21,454
+289
+00:15:19,210 --> 00:15:20,879
 affect my coordination
 in some way.
 
-270
-00:15:21,565 --> 00:15:23,125
+290
+00:15:20,879 --> 00:15:22,171
 And hurt your gymnastics career.
 
-271
-00:15:23,170 --> 00:15:24,195
-As it turned out
+291
+00:15:22,171 --> 00:15:23,423
+As it turned out,
 
-272
-00:15:24,238 --> 00:15:26,607
+292
+00:15:23,423 --> 00:15:25,842
 being joined
 improved my concentration.
 
-273
-00:15:26,644 --> 00:15:30,085
-Really?
-I found that as well.
+293
+00:15:25,842 --> 00:15:29,512
+Really? I found
+that as well.
 
-274
-00:15:30,119 --> 00:15:31,452
+294
+00:15:29,512 --> 00:15:30,847
 You're a gymnast?
 
-275
-00:15:31,489 --> 00:15:34,587
-No, but I'm an expert
-in Klingon martial arts.
+295
+00:15:30,847 --> 00:15:32,599
+No, but I'm
+an expert
 
-276
-00:15:34,630 --> 00:15:36,156
+296
+00:15:32,599 --> 00:15:34,183
+in Klingon
+martial arts.
+
+297
+00:15:34,183 --> 00:15:35,643
 Oh.
 
-277
-00:15:36,201 --> 00:15:37,500
+298
+00:15:35,643 --> 00:15:37,019
 Did you take it up
 
-278
-00:15:37,537 --> 00:15:40,374
+299
+00:15:37,019 --> 00:15:39,856
 before or after
 you were joined?
 
-279
-00:15:40,411 --> 00:15:41,937
+300
+00:15:39,856 --> 00:15:41,357
 After.
 
-280
-00:15:45,222 --> 00:15:47,489
+301
+00:15:44,652 --> 00:15:46,821
 Why am I not surprised?
 
-281
-00:15:51,604 --> 00:15:55,306
+302
+00:15:50,991 --> 00:15:54,788
+(<i> in a soft, sweet voice):</i>
 Sit right here, and I'll
 tell you all about it.
 
-282
-00:15:58,086 --> 00:16:01,082
+303
+00:15:57,415 --> 00:16:00,460
 The day I was named head
 of the Symbiosis Commission
 
-283
-00:16:01,127 --> 00:16:03,827
+304
+00:16:00,460 --> 00:16:03,087
 was one of the happiest
 of my life.
 
-284
-00:16:03,867 --> 00:16:07,501
+305
+00:16:03,087 --> 00:16:07,091
 Right behind the day I gave
 birth to my first child.
 
-285
-00:16:10,215 --> 00:16:11,844
+306
+00:16:09,677 --> 00:16:11,137
 Are you a mother, Jadzia?
 
-286
-00:16:11,886 --> 00:16:13,253
+307
+00:16:11,137 --> 00:16:12,722
 No.
 
-287
-00:16:13,290 --> 00:16:16,856
+308
+00:16:12,722 --> 00:16:16,058
 Oh... I hope you
 will be someday.
 
-288
-00:16:16,898 --> 00:16:21,808
+309
+00:16:16,058 --> 00:16:21,188
 There's nothing quite like
-holding a baby to your breast
+holding a baby to your breast,
 
-289
-00:16:21,844 --> 00:16:23,313
+310
+00:16:21,188 --> 00:16:22,816
 nursing it...
 
-290
-00:16:26,421 --> 00:16:31,992
+311
+00:16:25,860 --> 00:16:31,407
 The entity that lent me
 this body wishes to speak.
 
-291
-00:16:34,139 --> 00:16:37,580
-How much longer am I going
-to have to do this?
+312
+00:16:33,451 --> 00:16:36,830
+(<i> normally</i> ):
+How much longer am I
+going to have to do this?
 
-292
-00:16:37,681 --> 00:16:39,709
+313
+00:16:36,830 --> 00:16:38,581
 Another hour at most.
 
-293
-00:16:39,753 --> 00:16:41,815
+314
+00:16:38,581 --> 00:16:40,667
 And the sooner
-we get back to it
+we get back to it,
 
-294
-00:16:41,858 --> 00:16:43,384
-the sooner it'll be over.
+315
+00:16:40,667 --> 00:16:42,502
+the sooner
+it'll be over.
 
-295
-00:16:43,428 --> 00:16:47,427
+316
+00:16:42,502 --> 00:16:46,673
 Just remember, not a word
 about this to anyone.
 
-296
-00:16:47,471 --> 00:16:50,103
+317
+00:16:46,673 --> 00:16:49,175
 I promise.
 
-297
-00:16:54,656 --> 00:16:57,093
+318
+00:16:53,721 --> 00:16:56,015
 Maybe you should go easy
 on those, Torias.
 
-298
-00:16:57,128 --> 00:16:58,563
+319
+00:16:56,015 --> 00:16:57,391
 Julian was just telling me
 the other day
 
-299
-00:16:58,598 --> 00:16:59,862
+320
+00:16:57,391 --> 00:16:59,101
 he's started
 to watch what he eats.
 
-300
-00:16:59,901 --> 00:17:02,465
+321
+00:16:59,101 --> 00:17:01,228
 Well, you should tell
 your friend to live a little.
 
-301
-00:17:02,508 --> 00:17:03,476
+322
+00:17:01,228 --> 00:17:02,605
 Life's too short
 
-302
-00:17:03,510 --> 00:17:06,039
+323
+00:17:02,605 --> 00:17:05,107
 to deprive yourself
 of the simple pleasures.
 
-303
-00:17:06,083 --> 00:17:07,484
+324
+00:17:05,107 --> 00:17:06,526
 I should know.
 
-304
-00:17:07,520 --> 00:17:10,584
+325
+00:17:06,526 --> 00:17:09,779
 You didn't exactly
 deprive yourself.
 
-305
-00:17:10,627 --> 00:17:13,498
-No, but my life was too short.
+326
+00:17:09,779 --> 00:17:12,657
+No, but my life<i> was</i> too short.
 
-306
-00:17:13,534 --> 00:17:15,299
+327
+00:17:12,657 --> 00:17:14,367
 The accident.
 
-307
-00:17:15,338 --> 00:17:17,275
+328
+00:17:14,367 --> 00:17:16,285
 Still, I'm lucky.
 
-308
-00:17:17,309 --> 00:17:21,080
+329
+00:17:16,285 --> 00:17:20,039
 I continue to exist,
-as part of you
+as part of you,
 
-309
-00:17:21,119 --> 00:17:22,919
+330
+00:17:20,039 --> 00:17:21,833
 just as Jadzia
 will go on existing
 
-310
-00:17:22,956 --> 00:17:25,393
+331
+00:17:21,833 --> 00:17:24,418
 when the symbiont
 is passed on to a new host.
 
-311
-00:17:25,429 --> 00:17:27,923
+332
+00:17:24,418 --> 00:17:26,963
 We're part of something
 bigger than any one of us.
 
-312
-00:17:27,968 --> 00:17:30,941
+333
+00:17:26,963 --> 00:17:30,132
 I just feel lucky
 to have been chosen.
 
-313
-00:17:30,975 --> 00:17:32,969
+334
+00:17:30,132 --> 00:17:32,010
 So do I.
 
-314
-00:17:35,119 --> 00:17:36,213
+335
+00:17:32,010 --> 00:17:34,136
+(<i> door chimes</i> )
+
+336
+00:17:34,136 --> 00:17:35,388
 Come in.
 
-315
-00:17:39,864 --> 00:17:41,493
+337
+00:17:38,725 --> 00:17:40,560
 It's late.
 
-316
-00:17:41,534 --> 00:17:45,499
+338
+00:17:40,560 --> 00:17:44,647
 I think it's time we returned
 Dr. Bashir's body to him.
 
-317
-00:17:47,548 --> 00:17:49,815
+339
+00:17:46,649 --> 00:17:49,027
 It was nice meeting you.
 
-318
-00:17:58,508 --> 00:17:59,636
+340
+00:17:57,493 --> 00:17:58,786
 I'm ready.
 
-319
-00:18:01,248 --> 00:18:03,242
+341
+00:18:00,162 --> 00:18:02,331
 Are you sure about this,
 Commander?
 
-320
-00:18:03,286 --> 00:18:04,585
+342
+00:18:02,331 --> 00:18:03,791
 Don't worry, Odo.
 
-321
-00:18:04,622 --> 00:18:06,820
+343
+00:18:03,791 --> 00:18:05,793
 Joran isn't going to be able
 to hurt anyone
 
-322
-00:18:06,861 --> 00:18:08,455
+344
+00:18:05,793 --> 00:18:07,545
 from inside of a holding cell.
 
-323
-00:18:08,499 --> 00:18:10,527
+345
+00:18:07,545 --> 00:18:09,547
 There's just one problem.
 
-324
-00:18:10,571 --> 00:18:12,838
-You're going to be
+346
+00:18:09,547 --> 00:18:11,925
+<i>You're</i> going to be
 in there with him.
 
-325
-00:18:12,876 --> 00:18:13,935
+347
+00:18:11,925 --> 00:18:13,092
 Hmm.
 
-326
-00:18:26,308 --> 00:18:28,472
+348
+00:18:25,438 --> 00:18:27,732
 Activate the force field.
 
-327
-00:18:50,499 --> 00:18:52,629
+349
+00:18:49,670 --> 00:18:51,589
 Joran.
 
-328
-00:18:52,672 --> 00:18:55,908
+350
+00:18:51,589 --> 00:18:55,217
+(<i> high, melodic voice):</i>
 Hello, Jadzia.
 
-329
-00:19:04,266 --> 00:19:07,502
+351
+00:19:02,683 --> 00:19:06,145
 If you need me,
 I'll be right outside.
 
-330
-00:19:07,540 --> 00:19:09,066
+352
+00:19:06,145 --> 00:19:07,605
 As will I.
 
-331
-00:19:14,992 --> 00:19:18,262
+353
+00:19:13,319 --> 00:19:16,823
 It's good to see you again,
 Jadzia.
 
-332
-00:19:26,953 --> 00:19:31,259
+354
+00:19:25,247 --> 00:19:30,210
 Tell me, have you been
 practicing your music?
 
-333
-00:19:31,298 --> 00:19:34,237
+355
+00:19:30,210 --> 00:19:33,172
 Yes, when I have the time.
 
-334
-00:19:34,271 --> 00:19:36,469
+356
+00:19:33,172 --> 00:19:35,382
 Good.
 
-335
-00:19:36,510 --> 00:19:38,777
+357
+00:19:35,382 --> 00:19:37,635
 Do you think of me
 when you play?
 
-336
-00:19:40,687 --> 00:19:41,380
+358
+00:19:39,428 --> 00:19:40,930
 Sometimes.
 
-337
-00:19:41,513 --> 00:19:44,714
+359
+00:19:40,930 --> 00:19:44,350
 I'm glad.
 
-338
-00:19:44,754 --> 00:19:50,598
-You're a very pretty girl,
-Jadzia.
+360
+00:19:44,350 --> 00:19:46,811
+You're a very
 
-339
-00:19:50,635 --> 00:19:52,833
+361
+00:19:46,811 --> 00:19:50,230
+pretty girl, Jadzia.
+
+362
+00:19:50,230 --> 00:19:52,525
 Very pretty.
 
-340
-00:19:54,912 --> 00:19:59,754
+363
+00:19:54,234 --> 00:19:59,323
 But unfortunately,
 that's all you are.
 
-341
-00:19:59,790 --> 00:20:02,193
+364
+00:19:59,323 --> 00:20:01,826
 You're nothing
 
-342
-00:20:02,263 --> 00:20:05,202
-compared to Lela, Torias
+365
+00:20:01,826 --> 00:20:04,787
+compared to
+Lela, Torias,
 
-343
-00:20:05,237 --> 00:20:07,903
+366
+00:20:04,787 --> 00:20:07,707
 or myself.
 
-344
-00:20:08,912 --> 00:20:11,383
+367
+00:20:08,582 --> 00:20:11,002
 You're a pretender.
 
-345
-00:20:11,418 --> 00:20:14,619
+368
+00:20:11,002 --> 00:20:14,172
 You must realize that by now.
 
-346
-00:20:14,659 --> 00:20:17,028
+369
+00:20:14,172 --> 00:20:16,590
 You don't know
 anything about me.
 
-347
-00:20:17,065 --> 00:20:20,163
+370
+00:20:16,590 --> 00:20:19,719
 Only what I can see.
 
-348
-00:20:20,206 --> 00:20:23,338
+371
+00:20:19,719 --> 00:20:22,930
 A little girl, not worthy
 
-349
-00:20:23,380 --> 00:20:26,478
+372
+00:20:22,930 --> 00:20:26,059
 of the noble creature
 nestled inside her.
 
-350
-00:20:26,521 --> 00:20:29,927
+373
+00:20:26,059 --> 00:20:29,603
 You're overwhelmed by it.
 
-351
-00:20:29,963 --> 00:20:32,230
+374
+00:20:29,603 --> 00:20:31,856
 You're in over your head.
 
-352
-00:20:34,307 --> 00:20:38,773
-And they said it was a mistake
-choosing me for joining.
+375
+00:20:31,856 --> 00:20:33,816
+(<i> snickers</i> )
 
-353
-00:20:42,726 --> 00:20:47,135
+376
+00:20:33,816 --> 00:20:35,985
+And they said
+it was a mistake
+
+377
+00:20:35,985 --> 00:20:38,487
+choosing<i> me</i> for joining.
+
+378
+00:20:42,282 --> 00:20:46,579
 But there is one hope
-for you, Jadzia
+for you, Jadzia,
 
-354
-00:20:47,171 --> 00:20:50,269
+379
+00:20:46,579 --> 00:20:49,790
 and that's me.
 
-355
-00:20:50,311 --> 00:20:53,774
+380
+00:20:49,790 --> 00:20:53,293
 My strength is within you.
 
-356
-00:20:53,820 --> 00:20:57,625
+381
+00:20:53,293 --> 00:20:57,131
 You don't have
 to be afraid of it.
 
-357
-00:20:57,662 --> 00:20:59,690
+382
+00:20:57,131 --> 00:20:59,299
 I'm not.
 
-358
-00:20:59,734 --> 00:21:04,200
-Then let me show you
+383
+00:20:59,299 --> 00:21:00,593
+Then let me
+show you
+
+384
+00:21:00,593 --> 00:21:03,763
 how to use it.
 
-359
-00:21:04,244 --> 00:21:08,414
+385
+00:21:03,763 --> 00:21:07,975
 Lower the force field, Jadzia.
 
-360
-00:21:08,454 --> 00:21:11,291
+386
+00:21:07,975 --> 00:21:10,770
 Lower it...
 
-361
-00:21:11,328 --> 00:21:17,435
+387
+00:21:10,770 --> 00:21:16,943
 and you will never have to be
 afraid of anything ever again.
 
-362
-00:21:19,147 --> 00:21:20,639
+388
+00:21:18,527 --> 00:21:19,695
 No.
 
-363
-00:21:27,600 --> 00:21:29,035
+389
+00:21:27,036 --> 00:21:28,579
 Joran!
 
-364
-00:21:30,140 --> 00:21:32,806
+390
+00:21:29,705 --> 00:21:32,250
 Stop it.
 You're hurting him!
 
-365
-00:21:32,846 --> 00:21:34,509
-Benjamin, take control!
+391
+00:21:32,250 --> 00:21:34,127
+Benjamin,
+take control!
 
-366
-00:21:37,858 --> 00:21:40,956
-I think that's enough
-of Joran for now.
+392
+00:21:37,379 --> 00:21:40,466
+(<i> normally</i> ): I think that's
+enough of Joran for now.
 
-367
-00:21:47,215 --> 00:21:48,445
+393
+00:21:46,180 --> 00:21:47,890
 Are you all right?
 
-368
-00:21:53,596 --> 00:21:55,031
+394
+00:21:52,979 --> 00:21:54,814
+JORAN:
 Surprise.
 
-369
-00:22:11,873 --> 00:22:13,502
+395
+00:22:10,537 --> 00:22:13,082
+(<i> normally</i> ):
 It's all right, old man.
 
-370
-00:22:13,544 --> 00:22:14,638
+396
+00:22:13,082 --> 00:22:14,083
 It's me.
 
-371
-00:22:19,157 --> 00:22:20,387
+397
+00:22:14,083 --> 00:22:16,169
+(<i> panting</i> )
+
+398
+00:22:18,129 --> 00:22:19,797
 Whoo!
 
-372
-00:22:20,460 --> 00:22:21,450
+399
+00:22:19,797 --> 00:22:20,923
 Thanks.
 
-373
-00:22:23,167 --> 00:22:24,659
+400
+00:22:22,382 --> 00:22:24,051
 For what?
 
-374
-00:22:24,704 --> 00:22:28,475
+401
+00:22:24,051 --> 00:22:27,847
 For not breaking any bones.
 
-375
-00:22:49,530 --> 00:22:51,660
+402
+00:22:48,784 --> 00:22:51,037
+PATRONS:
 Dabo!
 
-376
-00:23:00,958 --> 00:23:02,861
+403
+00:23:00,296 --> 00:23:02,173
 Will you stop doing that?
 
-377
-00:23:02,895 --> 00:23:04,125
+404
+00:23:02,173 --> 00:23:03,674
 It's very distracting.
 
-378
-00:23:05,635 --> 00:23:07,332
+405
+00:23:04,884 --> 00:23:06,719
 I'm trying to do the books.
 
-379
-00:23:07,373 --> 00:23:08,774
+406
+00:23:06,719 --> 00:23:08,346
 I can't help it.
 
-380
-00:23:08,810 --> 00:23:10,974
+407
+00:23:08,346 --> 00:23:10,223
 My son's future is being decided
 at this very minute.
 
-381
-00:23:11,015 --> 00:23:14,113
+408
+00:23:10,223 --> 00:23:13,559
 Well, pacing around
 like some Alvanian cave sloth
 
-382
-00:23:14,156 --> 00:23:15,750
+409
+00:23:13,559 --> 00:23:15,144
 isn't going to help him.
 
-383
-00:23:29,793 --> 00:23:30,783
+410
+00:23:29,033 --> 00:23:30,159
 What's that?
 
-384
-00:23:33,970 --> 00:23:35,599
+411
+00:23:32,745 --> 00:23:34,914
 Uh... a cadet's uniform.
 
-385
-00:23:35,640 --> 00:23:36,802
+412
+00:23:34,914 --> 00:23:36,165
 I got it for Nog.
 
-386
-00:23:36,844 --> 00:23:40,843
+413
+00:23:36,165 --> 00:23:40,211
 I had Garak make it to order.
 
-387
-00:23:40,886 --> 00:23:43,187
+414
+00:23:40,211 --> 00:23:42,504
 It cost five strips of latinum.
 
-388
-00:23:43,226 --> 00:23:44,354
+415
+00:23:42,504 --> 00:23:43,589
 Well, you wasted
 your money.
 
-389
-00:23:44,395 --> 00:23:45,762
+416
+00:23:43,589 --> 00:23:45,091
 He's not going to need it.
 
-390
-00:23:45,798 --> 00:23:47,097
+417
+00:23:45,091 --> 00:23:46,508
 Why not?
 
-391
-00:23:50,810 --> 00:23:53,510
+418
+00:23:49,929 --> 00:23:52,723
 Because...
 he'll be issued a uniform
 
-392
-00:23:53,550 --> 00:23:56,044
+419
+00:23:52,723 --> 00:23:55,351
 if and when he gets
 to the Academy.
 
-393
-00:23:56,090 --> 00:23:59,029
+420
+00:23:55,351 --> 00:23:58,396
 Well, now he'll have two.
 
-394
-00:24:01,703 --> 00:24:03,697
+421
+00:24:00,981 --> 00:24:03,067
 I keep thinking about Joran.
 
-395
-00:24:03,741 --> 00:24:05,370
+422
+00:24:03,067 --> 00:24:04,484
 I heard what he told you.
 
-396
-00:24:05,412 --> 00:24:07,815
+423
+00:24:04,484 --> 00:24:07,113
 I can't seem to get
 it out of my head.
 
-397
-00:24:07,851 --> 00:24:11,850
+424
+00:24:07,113 --> 00:24:11,158
 Jadzia, did you put off
-having your <i>zhian'tara</i>
+having your<i> zhian'tara</i>
 
-398
-00:24:11,894 --> 00:24:14,423
+425
+00:24:11,158 --> 00:24:12,910
 because you were afraid
 you wouldn't measure up
 
-399
-00:24:14,467 --> 00:24:15,526
+426
+00:24:12,910 --> 00:24:14,661
 to the other hosts?
 
-400
-00:24:15,570 --> 00:24:17,837
-I don't know, maybe I did.
+427
+00:24:14,661 --> 00:24:17,164
+I don't know,
+maybe I did.
 
-401
-00:24:17,875 --> 00:24:19,367
-Now that it's almost over
+428
+00:24:17,164 --> 00:24:18,582
+Now that it's almost over,
 
-402
-00:24:19,412 --> 00:24:21,440
+429
+00:24:18,582 --> 00:24:20,626
 I hope you realize
 you were wrong.
 
-403
-00:24:21,484 --> 00:24:23,978
+430
+00:24:20,626 --> 00:24:23,296
 I'm not so sure I was.
 
-404
-00:24:24,023 --> 00:24:26,085
+431
+00:24:23,296 --> 00:24:25,298
 I don't understand
 how you could say that.
 
-405
-00:24:26,129 --> 00:24:28,897
+432
+00:24:25,298 --> 00:24:28,134
 You were chosen for joining
-because you deserved it
+because you deserved it,
 
-406
-00:24:28,935 --> 00:24:30,803
+433
+00:24:28,134 --> 00:24:29,927
 just as much
 as any of the others.
 
-407
-00:24:30,839 --> 00:24:32,810
+434
+00:24:29,927 --> 00:24:32,054
 If that's true,
 then why did Curzon
 
-408
-00:24:32,844 --> 00:24:34,838
+435
+00:24:32,054 --> 00:24:34,056
 wash me
 out of the initiate program?
 
-409
-00:24:34,883 --> 00:24:36,512
+436
+00:24:34,056 --> 00:24:35,766
 You tell me.
 
-410
-00:24:38,424 --> 00:24:39,414
+437
+00:24:37,351 --> 00:24:38,685
 I've always believed
 
-411
-00:24:39,460 --> 00:24:41,454
+438
+00:24:38,685 --> 00:24:40,562
 it was because he
 wanted to challenge me
 
-412
-00:24:41,498 --> 00:24:44,027
+439
+00:24:40,562 --> 00:24:43,357
 so that I would reapply
 and try harder.
 
-413
-00:24:44,071 --> 00:24:46,372
+440
+00:24:43,357 --> 00:24:45,818
 Now I'm not so sure.
 
-414
-00:24:46,410 --> 00:24:47,845
+441
+00:24:45,818 --> 00:24:47,069
 Why not?
 
-415
-00:24:47,880 --> 00:24:49,874
-That's exactly what you did.
+442
+00:24:47,069 --> 00:24:49,113
+That's exactly
+what you did.
 
-416
-00:24:49,919 --> 00:24:53,416
+443
+00:24:49,113 --> 00:24:52,699
 Maybe Curzon just didn't
 think I was good enough.
 
-417
-00:24:53,460 --> 00:24:55,624
+444
+00:24:52,699 --> 00:24:54,576
 I find that hard to believe.
 
-418
-00:24:55,666 --> 00:24:57,830
+445
+00:24:54,576 --> 00:24:56,870
 But if that's
-what you're afraid of
+what you're afraid of,
 
-419
-00:24:57,871 --> 00:25:01,243
+446
+00:24:56,870 --> 00:25:00,458
 why don't you ask him
 when you see him?
 
-420
-00:25:01,279 --> 00:25:03,808
+447
+00:25:00,458 --> 00:25:02,960
 I will...
 
-421
-00:25:03,851 --> 00:25:07,622
+448
+00:25:02,960 --> 00:25:04,378
 but what if he tells me
-something I don't want to hear?
 
-422
-00:25:12,439 --> 00:25:14,433
+449
+00:25:04,378 --> 00:25:06,755
+something I don't
+want to hear?
+
+450
+00:25:11,677 --> 00:25:13,762
 I have to go.
 
-423
-00:25:21,561 --> 00:25:24,933
+451
+00:25:20,686 --> 00:25:24,148
 <i>Jadzia, zhian'tara vok.</i>
 
-424
-00:25:24,969 --> 00:25:27,202
+452
+00:25:24,148 --> 00:25:26,442
 <i>Tu Dax, zhian'tani ress.</i>
 
-425
-00:25:27,241 --> 00:25:30,373
+453
+00:25:26,442 --> 00:25:29,778
 <i>Zhian'par, Odo garu'koj...</i>
 
-426
-00:25:59,585 --> 00:26:01,749
+454
+00:25:58,182 --> 00:26:00,600
 I'm going to my office
 for a while.
 
-427
-00:26:04,430 --> 00:26:06,298
+455
+00:26:03,229 --> 00:26:05,356
 Benjamin!
 
-428
-00:26:06,335 --> 00:26:08,670
+456
+00:26:05,356 --> 00:26:07,774
 You do recognize me,
 don't you?
 
-429
-00:26:08,741 --> 00:26:10,301
+457
+00:26:07,774 --> 00:26:09,276
 Curzon?
 
-430
-00:26:10,344 --> 00:26:14,183
+458
+00:26:09,276 --> 00:26:13,239
 Don't tell me,
 the nose gave me away, huh?
 
-431
-00:26:15,223 --> 00:26:16,213
+459
+00:26:13,239 --> 00:26:14,198
+(<i> laughs</i> )
+
+460
+00:26:14,198 --> 00:26:15,324
 What's the matter?
 
-432
-00:26:16,259 --> 00:26:17,785
+461
+00:26:15,324 --> 00:26:16,992
 Aren't you happy to see me?
 
-433
-00:26:17,829 --> 00:26:21,292
-Of course.
+462
+00:26:16,992 --> 00:26:18,536
 Of course.
 
-434
-00:26:23,075 --> 00:26:24,237
+463
+00:26:18,536 --> 00:26:20,413
+Of course.
+
+464
+00:26:22,039 --> 00:26:23,123
 So, where's Jadzia?
 
-435
-00:26:24,278 --> 00:26:25,246
+465
+00:26:23,123 --> 00:26:24,291
 Ah, it's all right.
 
-436
-00:26:25,280 --> 00:26:26,510
+466
+00:26:24,291 --> 00:26:25,543
 I told her I wanted
 to come see you.
 
-437
-00:26:26,550 --> 00:26:27,712
+467
+00:26:25,543 --> 00:26:26,877
 That we'd meet up later
 at Quark's.
 
-438
-00:26:27,787 --> 00:26:29,951
+468
+00:26:26,877 --> 00:26:29,213
 I'm going to give
 that little toad
 
-439
-00:26:29,992 --> 00:26:31,461
+469
+00:26:29,213 --> 00:26:30,548
 the scare of his life.
 
-440
-00:26:31,495 --> 00:26:33,363
+470
+00:26:30,548 --> 00:26:32,466
 You sound like Odo.
 
-441
-00:26:33,400 --> 00:26:34,994
+471
+00:26:32,466 --> 00:26:34,176
 I am Odo.
 
-442
-00:26:35,037 --> 00:26:36,472
+472
+00:26:34,176 --> 00:26:35,469
 I don't understand.
 
-443
-00:26:36,507 --> 00:26:38,410
-I thought you were Curzon.
+473
+00:26:35,469 --> 00:26:37,388
+I thought you
+were Curzon.
 
-444
-00:26:38,446 --> 00:26:39,676
+474
+00:26:37,388 --> 00:26:38,805
 I'm both.
 
-445
-00:26:39,714 --> 00:26:42,744
+475
+00:26:38,805 --> 00:26:41,892
 The, uh, Guardian thinks
 it has something to do
 
-446
-00:26:42,789 --> 00:26:45,056
+476
+00:26:41,892 --> 00:26:43,977
 with my shape-shifting
 nature.
 
-447
-00:26:45,094 --> 00:26:48,933
+477
+00:26:43,977 --> 00:26:48,107
 It's as if Odo and Curzon
 have been joined.
 
-448
-00:26:48,970 --> 00:26:51,168
+478
+00:26:48,107 --> 00:26:50,192
 It's proven to be quite
 an interesting experience
 
-449
-00:26:51,210 --> 00:26:52,543
+479
+00:26:50,192 --> 00:26:51,609
 for both of us.
 
-450
-00:26:52,579 --> 00:26:56,247
-In any case, the Guardian says
-it's nothing to worry about.
+480
+00:26:51,609 --> 00:26:53,571
+In any case,
+the Guardian says
 
-451
-00:26:56,288 --> 00:26:58,316
-I like the beard, by the way.
+481
+00:26:53,571 --> 00:26:55,239
+it's nothing
+to worry about.
 
-452
-00:26:58,360 --> 00:26:59,659
+482
+00:26:55,239 --> 00:26:57,324
+I like the beard,
+by the way.
+
+483
+00:26:57,324 --> 00:26:58,492
 Yeah?
 
-453
-00:26:59,696 --> 00:27:00,995
+484
+00:26:58,492 --> 00:26:59,910
 Absolutely.
 
-454
-00:27:01,032 --> 00:27:05,999
+485
+00:26:59,910 --> 00:27:05,040
 So... when is Kasidy Yates
 coming back, huh?
 
-455
-00:27:06,044 --> 00:27:07,012
+486
+00:27:05,040 --> 00:27:06,292
 Huh?
 
-456
-00:27:07,047 --> 00:27:08,539
+487
+00:27:06,292 --> 00:27:07,625
 Not you, too.
 
-457
-00:27:08,584 --> 00:27:09,129
+488
+00:27:07,625 --> 00:27:10,003
 Well, she's a fine-looking
 woman, Ben.
 
-458
-00:27:09,129 --> 00:27:10,062
-Well, she's a fine-looking
-woman, Ben.
-
-459
-00:27:10,164 --> 00:27:13,001
+489
+00:27:10,003 --> 00:27:12,672
 Reminds me of the girl
 you took up with on Pelios...
 
-460
-00:27:13,038 --> 00:27:14,598
+490
+00:27:12,672 --> 00:27:14,341
 Why don't we join
 Jadzia in Quark's?
 
-461
-00:27:14,641 --> 00:27:16,737
+491
+00:27:14,341 --> 00:27:16,469
 And let Jake
 finish his homework.
 
-462
-00:27:16,780 --> 00:27:18,443
+492
+00:27:16,469 --> 00:27:18,137
 I'll tell you
 all about it later.
 
-463
-00:27:18,484 --> 00:27:19,452
+493
+00:27:18,137 --> 00:27:19,138
 Okay.
 
-464
-00:27:19,486 --> 00:27:21,149
+494
+00:27:19,138 --> 00:27:21,056
 Curzon, remember?
 
-465
-00:27:34,054 --> 00:27:35,717
+495
+00:27:33,819 --> 00:27:35,488
+(<i> gruffly</i> ):
 Quark!
 
-466
-00:27:39,000 --> 00:27:40,560
+496
+00:27:38,782 --> 00:27:40,284
 Odo?
 
-467
-00:27:41,640 --> 00:27:43,838
+497
+00:27:41,327 --> 00:27:43,454
 What happened to your face?
 
-468
-00:27:43,878 --> 00:27:45,746
+498
+00:27:43,454 --> 00:27:45,498
 Never mind my face.
 
-469
-00:27:47,921 --> 00:27:49,390
+499
+00:27:47,625 --> 00:27:49,209
 Did I ever mention
 
-470
-00:27:49,425 --> 00:27:51,453
+500
+00:27:49,209 --> 00:27:50,961
 you're a magnificent
 scoundrel?
 
-471
-00:27:51,497 --> 00:27:53,297
-Two <i>tranyas</i> please,
+501
+00:27:50,961 --> 00:27:53,172
+Two<i> tranyas</i> please,
 very cold.
 
-472
-00:27:54,537 --> 00:27:55,596
+502
+00:27:54,173 --> 00:27:55,299
 Right away.
 
-473
-00:28:01,454 --> 00:28:02,980
+503
+00:28:01,263 --> 00:28:02,722
 It's going to take Quark
 
-474
-00:28:03,024 --> 00:28:05,052
+504
+00:28:02,722 --> 00:28:04,724
 a little while
 to get over that.
 
-475
-00:28:05,096 --> 00:28:06,656
+505
+00:28:04,724 --> 00:28:06,352
 Jadzia.
 
-476
-00:28:06,700 --> 00:28:08,898
+506
+00:28:06,352 --> 00:28:08,604
 It looks like the two of you
 are having a good time.
 
-477
-00:28:08,938 --> 00:28:10,909
+507
+00:28:08,604 --> 00:28:10,606
 Well, as good a time as
 two gentlemen can have
 
-478
-00:28:10,943 --> 00:28:12,880
-without the company of a lady.
+508
+00:28:10,606 --> 00:28:12,690
+without the
+company of a lady.
 
-479
-00:28:12,915 --> 00:28:14,043
+509
+00:28:12,690 --> 00:28:13,900
 Please, join us.
 
-480
-00:28:16,957 --> 00:28:20,990
+510
+00:28:16,612 --> 00:28:20,824
 Excuse me while I slip into
 something more appropriate.
 
-481
-00:28:24,007 --> 00:28:25,101
+511
+00:28:23,785 --> 00:28:24,911
 Ah!
 
-482
-00:28:26,146 --> 00:28:27,911
+512
+00:28:24,911 --> 00:28:25,912
+(<i> laughs</i> )
+
+513
+00:28:25,912 --> 00:28:27,540
 I love being a changeling.
 
-483
-00:28:27,951 --> 00:28:29,443
+514
+00:28:27,540 --> 00:28:28,915
+SISKO:
 Well, if you two
 
-484
-00:28:29,488 --> 00:28:31,721
-don't mind,
-I think I'll be pushing off.
+515
+00:28:28,915 --> 00:28:31,377
+don't mind, I think
+I'll be pushing off.
 
-485
-00:28:31,760 --> 00:28:33,286
+516
+00:28:31,377 --> 00:28:33,086
 Benjamin, don't go.
 
-486
-00:28:33,330 --> 00:28:35,665
+517
+00:28:33,086 --> 00:28:35,297
 I have to finish evaluating
 Nog's test results.
 
-487
-00:28:35,703 --> 00:28:37,297
+518
+00:28:35,297 --> 00:28:37,174
 He's waiting
 to hear how he did.
 
-488
-00:28:39,578 --> 00:28:41,947
+519
+00:28:39,176 --> 00:28:41,720
 Thanks for stopping by,
 old man.
 
-489
-00:28:41,984 --> 00:28:43,681
+520
+00:28:41,720 --> 00:28:43,389
 It was good to see you.
 
-490
-00:28:43,722 --> 00:28:44,747
+521
+00:28:43,389 --> 00:28:44,473
 Oh!
 
-491
-00:28:47,564 --> 00:28:52,599
+522
+00:28:47,142 --> 00:28:52,272
 Well, there goes
 the best friend I ever had.
 
-492
-00:28:52,643 --> 00:28:54,010
+523
+00:28:52,272 --> 00:28:53,566
 Well?
 
-493
-00:29:01,063 --> 00:29:04,469
+524
+00:29:00,531 --> 00:29:03,992
 So... are you enjoying
-your <i>zhian'tara?</i>
+your<i> zhian'tara?</i>
 
-494
-00:29:04,505 --> 00:29:06,476
+525
+00:29:03,992 --> 00:29:05,994
 For the most part.
 
-495
-00:29:06,510 --> 00:29:10,417
+526
+00:29:05,994 --> 00:29:09,873
 What about that Tobin, huh?
 
-496
-00:29:10,452 --> 00:29:13,516
+527
+00:29:09,873 --> 00:29:12,751
 Did he tell you that I got him
 drunk for the first time
 
-497
-00:29:13,560 --> 00:29:14,756
-during my <i>zhian'tara?</i>
+528
+00:29:12,751 --> 00:29:14,253
+during my<i> zhian'tara?</i>
 
-498
-00:29:14,796 --> 00:29:16,129
+529
+00:29:14,253 --> 00:29:15,504
+(<i> laughing</i> ):
 No.
 
-499
-00:29:16,166 --> 00:29:18,364
+530
+00:29:15,504 --> 00:29:17,839
 But I can see why you did.
 
-500
-00:29:22,883 --> 00:29:25,252
+531
+00:29:22,094 --> 00:29:24,846
 Curzon, there's something
 I want to talk to you about.
 
-501
-00:29:25,321 --> 00:29:26,915
+532
+00:29:24,846 --> 00:29:26,348
 Oh?
 
-502
-00:29:26,958 --> 00:29:28,689
+533
+00:29:26,348 --> 00:29:28,141
 Do you remember when
 I was an initiate?
 
-503
-00:29:28,730 --> 00:29:32,672
-Do you see
-that Ferengi over there?
+534
+00:29:28,141 --> 00:29:32,145
+Do you see that
+Ferengi over there?
 
-504
-00:29:32,705 --> 00:29:35,176
+535
+00:29:32,145 --> 00:29:34,607
 A bulletin came in
 on him last week.
 
-505
-00:29:35,212 --> 00:29:37,410
-He's a <i>tongo</i> hustler.
+536
+00:29:34,607 --> 00:29:36,858
+He's a<i> tongo</i> hustler.
 
-506
-00:29:37,450 --> 00:29:39,421
+537
+00:29:36,858 --> 00:29:38,985
 I'd love to clean him out.
 
-507
-00:29:39,455 --> 00:29:41,426
+538
+00:29:38,985 --> 00:29:40,946
 We should get a game going.
 
-508
-00:29:52,753 --> 00:29:53,983
+539
+00:29:40,946 --> 00:29:42,531
+(<i> laughs</i> )
+
+540
+00:29:52,207 --> 00:29:53,459
 <i>Tongo!</i>
 
-509
-00:29:58,768 --> 00:30:02,539
-I just don't understand
-how I could have failed, Father.
+541
+00:29:53,459 --> 00:29:54,960
+(<i> laughs</i> )
 
-510
-00:30:02,577 --> 00:30:05,345
+542
+00:29:58,130 --> 00:29:59,673
+I just don't
+understand
+
+543
+00:29:59,673 --> 00:30:02,134
+how I could have
+failed, Father.
+
+544
+00:30:02,134 --> 00:30:04,928
 You've always been so good
 with spatial orientation.
 
-511
-00:30:05,384 --> 00:30:07,878
+545
+00:30:04,928 --> 00:30:07,347
 Remember the time
 we redid the floors
 
-512
-00:30:07,924 --> 00:30:10,157
+546
+00:30:07,347 --> 00:30:09,683
 and you managed
 to stack all the chairs
 
-513
-00:30:10,196 --> 00:30:11,996
-so they fit behind the bar?
+547
+00:30:09,683 --> 00:30:11,435
+so they fit
+behind the bar?
 
-514
-00:30:12,033 --> 00:30:16,567
-Now I won't qualify to take
-the Academy Entrance Exam.
+548
+00:30:11,435 --> 00:30:13,437
+Now I won't qualify
 
-515
-00:30:16,611 --> 00:30:20,177
-My Starfleet career is over
+549
+00:30:13,437 --> 00:30:16,106
+to take the Academy
+Entrance Exam.
+
+550
+00:30:16,106 --> 00:30:18,150
+My Starfleet
+career is over
+
+551
+00:30:18,150 --> 00:30:19,401
 before it even started.
 
-516
-00:30:20,220 --> 00:30:21,780
-He's right, you know.
+552
+00:30:19,401 --> 00:30:21,153
+QUARK:
+He's right,
+you know.
 
-517
-00:30:21,823 --> 00:30:23,156
+553
+00:30:21,153 --> 00:30:22,655
 And it's not fair.
 
-518
-00:30:23,193 --> 00:30:26,394
+554
+00:30:22,655 --> 00:30:26,032
 Starfleet has no idea
 who it's passing up.
 
-519
-00:30:26,502 --> 00:30:31,002
+555
+00:30:26,032 --> 00:30:30,370
 Nog, you would have
 made a good officer.
 
-520
-00:30:31,046 --> 00:30:33,746
+556
+00:30:30,370 --> 00:30:33,039
 I want you
 to know something.
 
-521
-00:30:33,786 --> 00:30:36,019
+557
+00:30:33,039 --> 00:30:35,417
 There will always be
-a place for you here...
+a place for you here--
 
-522
-00:30:36,058 --> 00:30:38,359
+558
+00:30:35,417 --> 00:30:37,919
 at Quark's.
 
-523
-00:30:50,525 --> 00:30:51,892
+559
+00:30:49,889 --> 00:30:51,308
 Sorry, Lonzo.
 
-524
-00:30:51,929 --> 00:30:54,663
+560
+00:30:51,308 --> 00:30:54,227
 Excuse me, folks,
 but the bar has been closed
 
-525
-00:30:54,702 --> 00:30:57,139
+561
+00:30:54,227 --> 00:30:56,438
 for over an hour now.
 
-526
-00:30:57,174 --> 00:30:59,577
+562
+00:30:56,438 --> 00:30:59,024
 I asked you nicely before,
-but if you don't leave
+but if you don't leave,
 
-527
-00:30:59,614 --> 00:31:01,345
+563
+00:30:59,024 --> 00:31:00,859
 I'm going to have
 to call Security.
 
-528
-00:31:01,384 --> 00:31:03,412
-I am Security.
+564
+00:31:00,859 --> 00:31:02,944
+I<i> am</i> Security.
 
-529
-00:31:03,523 --> 00:31:04,924
-Don't worry, Quark.
+565
+00:31:02,944 --> 00:31:04,404
+Don't worry,
+Quark.
 
-530
-00:31:04,960 --> 00:31:05,950
-We're going.
+566
+00:31:04,404 --> 00:31:05,447
+We're<i> going.</i>
 
-531
-00:31:16,889 --> 00:31:21,389
+567
+00:31:05,447 --> 00:31:07,533
+(<i> grumbling</i> )
+
+568
+00:31:11,286 --> 00:31:14,956
+(<i> Odo/Curzon sighs</i>
+<i>and chuckles</i> )
+
+569
+00:31:16,208 --> 00:31:20,754
 I confiscated this
 from a Yridian smuggler.
 
-532
-00:31:21,432 --> 00:31:23,129
+570
+00:31:20,754 --> 00:31:22,464
 Don't you need it for evidence?
 
-533
-00:31:23,171 --> 00:31:24,367
+571
+00:31:22,464 --> 00:31:23,923
 Bah!
 
-534
-00:31:26,712 --> 00:31:28,842
+572
+00:31:26,176 --> 00:31:28,261
 I still want to talk to you
 about what happened
 
-535
-00:31:28,884 --> 00:31:30,513
+573
+00:31:28,261 --> 00:31:29,888
 when I was an initiate.
 
-536
-00:31:33,328 --> 00:31:34,991
+574
+00:31:32,766 --> 00:31:34,434
 I know you do.
 
-537
-00:31:38,908 --> 00:31:40,343
+575
+00:31:38,230 --> 00:31:39,857
 So...
 
-538
-00:31:42,917 --> 00:31:45,754
-What is it you want to ask me?
+576
+00:31:42,150 --> 00:31:45,111
+What is it you
+want to ask me?
 
-539
-00:31:47,395 --> 00:31:48,694
+577
+00:31:46,822 --> 00:31:48,240
 Why didn't you object
 
-540
-00:31:48,731 --> 00:31:51,533
+578
+00:31:48,240 --> 00:31:50,826
 when you heard I was
 reinstated into the program?
 
-541
-00:31:51,606 --> 00:31:54,077
+579
+00:31:50,826 --> 00:31:53,119
 I don't know, Jadzia.
 
-542
-00:31:54,111 --> 00:31:56,777
+580
+00:31:53,119 --> 00:31:56,122
 Maybe I decided I'd
 been too hard on you.
 
-543
-00:31:56,818 --> 00:32:00,281
+581
+00:31:56,122 --> 00:31:59,543
 It was your job to be hard
 on initiates.
 
-544
-00:32:00,326 --> 00:32:01,886
+582
+00:31:59,543 --> 00:32:01,002
 Yes, but...
 
-545
-00:32:03,333 --> 00:32:05,236
+583
+00:32:01,002 --> 00:32:02,546
+(<i> sighs</i> )
+
+584
+00:32:02,546 --> 00:32:04,506
 The truth is
 
-546
-00:32:05,272 --> 00:32:06,536
+585
+00:32:04,506 --> 00:32:05,924
 I felt sorry for you.
 
-547
-00:32:09,314 --> 00:32:13,620
+586
+00:32:08,468 --> 00:32:12,972
 Well, you wanted
 to be joined so badly.
 
-548
-00:32:13,658 --> 00:32:17,691
+587
+00:32:12,972 --> 00:32:17,102
 You were so young, so lovely.
 
-549
-00:32:19,471 --> 00:32:22,205
+588
+00:32:18,645 --> 00:32:21,314
 I guess I've always had
 this nagging feeling
 
-550
-00:32:22,245 --> 00:32:24,716
+589
+00:32:21,314 --> 00:32:24,067
 I didn't have
 your complete confidence.
 
-551
-00:32:24,751 --> 00:32:27,086
-I-I tried to push it aside
+590
+00:32:24,067 --> 00:32:26,194
+I-I tried to push it aside,
 
-552
-00:32:27,123 --> 00:32:28,752
+591
+00:32:26,194 --> 00:32:28,071
 but now it turns out
 I was right.
 
-553
-00:32:28,794 --> 00:32:31,323
+592
+00:32:28,071 --> 00:32:30,490
 You never thought I was
 good enough to be a host.
 
-554
-00:32:31,367 --> 00:32:34,899
+593
+00:32:30,490 --> 00:32:34,077
 Whatever I may have thought
 doesn't matter.
 
-555
-00:32:34,942 --> 00:32:35,910
-You are a host.
+594
+00:32:34,077 --> 00:32:34,994
+You<i> are</i> a host.
 
-556
-00:32:35,944 --> 00:32:36,934
+595
+00:32:34,994 --> 00:32:36,121
 Isn't that enough?
 
-557
-00:32:36,981 --> 00:32:38,075
+596
+00:32:36,121 --> 00:32:37,289
 No.
 
-558
-00:32:39,787 --> 00:32:42,281
+597
+00:32:38,624 --> 00:32:41,460
 I feel like I don't
-have your respect
+have your respect,
 
-559
-00:32:42,326 --> 00:32:45,527
-and I'm afraid when your
-memories are restored to me
+598
+00:32:41,460 --> 00:32:43,044
+and I'm afraid
+when your memories
 
-560
-00:32:45,568 --> 00:32:48,838
+599
+00:32:43,044 --> 00:32:44,588
+are restored to me,
+
+600
+00:32:44,588 --> 00:32:47,966
 I'm going to feel
 like I don't respect myself.
 
-561
-00:32:48,876 --> 00:32:52,373
+601
+00:32:47,966 --> 00:32:51,428
 In that case,
 you'll be happy to know
 
-562
-00:32:52,418 --> 00:32:54,081
+602
+00:32:51,428 --> 00:32:53,012
 that I've come to a decision
 
-563
-00:32:54,122 --> 00:32:56,150
+603
+00:32:53,012 --> 00:32:55,390
 that's going to benefit
 both of us.
 
-564
-00:32:56,193 --> 00:32:57,719
+604
+00:32:55,390 --> 00:32:56,850
 What do you mean?
 
-565
-00:32:59,000 --> 00:33:03,409
+605
+00:32:58,268 --> 00:33:02,481
 I've decided to stay
 where I am, in this body.
 
-566
-00:33:03,444 --> 00:33:05,506
+606
+00:33:02,481 --> 00:33:04,858
 And I'm not just
 speaking as Curzon.
 
-567
-00:33:05,549 --> 00:33:07,577
+607
+00:33:04,858 --> 00:33:06,819
 This is Odo's decision as well.
 
-568
-00:33:07,621 --> 00:33:09,386
-We like what we've become
+608
+00:33:06,819 --> 00:33:08,570
+We like what we've become,
 
-569
-00:33:09,425 --> 00:33:12,991
+609
+00:33:08,570 --> 00:33:12,198
 and neither of us wants to go
 back to the way things were.
 
-570
-00:33:14,704 --> 00:33:15,832
+610
+00:33:13,450 --> 00:33:14,910
 Ahh!
 
-571
-00:33:23,124 --> 00:33:26,621
+611
+00:33:14,910 --> 00:33:16,745
+(<i> chuckling</i> )
+
+612
+00:33:22,125 --> 00:33:25,211
 There's no way to remove
 Curzon's memories from Odo
 
-572
-00:33:26,699 --> 00:33:28,533
+613
+00:33:25,211 --> 00:33:27,255
 without his cooperation.
 
-573
-00:33:28,571 --> 00:33:30,974
+614
+00:33:27,255 --> 00:33:29,174
 He has to give
 them up willingly.
 
-574
-00:33:31,009 --> 00:33:33,641
-What'll happen to Jadzia
-if we can't persuade him?
+615
+00:33:29,174 --> 00:33:30,425
+What'll happen
+to Jadzia
 
-575
-00:33:33,683 --> 00:33:37,819
-It'll take some time for her
-to adjust to the new balance
+616
+00:33:30,425 --> 00:33:32,093
+if we can't
+persuade him?
 
-576
-00:33:37,860 --> 00:33:39,660
+617
+00:33:32,093 --> 00:33:33,762
+It'll take
+some time for her
+
+618
+00:33:33,762 --> 00:33:36,348
+to adjust
+to the new balance,
+
+619
+00:33:36,348 --> 00:33:38,141
 but she'll be fine.
 
-577
-00:33:39,764 --> 00:33:42,201
-Do you want me
-to talk to Curzon?
+620
+00:33:38,141 --> 00:33:41,353
+Do you want me to
+talk to Curzon?
 
-578
-00:33:42,237 --> 00:33:43,934
+621
+00:33:41,353 --> 00:33:42,938
 I know him better than anyone.
 
-579
-00:33:43,975 --> 00:33:46,208
+622
+00:33:42,938 --> 00:33:45,398
 I might be able to get him
 to cooperate.
 
-580
-00:33:47,249 --> 00:33:48,741
+623
+00:33:46,316 --> 00:33:47,818
 I don't think so.
 
-581
-00:33:50,924 --> 00:33:53,624
+624
+00:33:49,820 --> 00:33:52,781
 I don't think
 I want to do anything.
 
-582
-00:33:53,664 --> 00:33:54,654
+625
+00:33:52,781 --> 00:33:53,824
 What do you mean?
 
-583
-00:33:54,700 --> 00:33:56,568
+626
+00:33:53,824 --> 00:33:55,868
 I mean I'm fine.
 
-584
-00:33:56,604 --> 00:34:00,603
+627
+00:33:55,868 --> 00:34:00,038
 And obviously, Odo and Curzon
 are well-suited to each other.
 
-585
-00:34:03,254 --> 00:34:04,795
+628
+00:34:02,290 --> 00:34:04,250
 Maybe it's better this way.
 
-586
-00:34:04,928 --> 00:34:08,767
+629
+00:34:04,250 --> 00:34:08,421
 I'd like to speak to Jadzia
 alone for a moment.
 
-587
-00:34:18,093 --> 00:34:21,431
+630
+00:34:17,556 --> 00:34:21,142
 Do you really want to leave
 things as they are?
 
-588
-00:34:21,468 --> 00:34:24,134
+631
+00:34:21,142 --> 00:34:23,770
 Or are you just trying
 to avoid a confrontation
 
-589
-00:34:24,174 --> 00:34:25,803
+632
+00:34:23,770 --> 00:34:25,605
 with Curzon?
 
-590
-00:34:29,487 --> 00:34:31,651
+633
+00:34:29,150 --> 00:34:31,361
 You once told me
 
-591
-00:34:31,692 --> 00:34:35,098
+634
+00:34:31,361 --> 00:34:34,907
 that Curzon intimidated you
 when you were an initiate.
 
-592
-00:34:35,134 --> 00:34:37,503
+635
+00:34:34,907 --> 00:34:37,158
 I looked up to him.
 
-593
-00:34:37,539 --> 00:34:39,737
+636
+00:34:37,158 --> 00:34:39,244
 I still do.
 
-594
-00:34:40,981 --> 00:34:43,977
-Maybe that's why I find it hard
-to challenge his decisions.
+637
+00:34:39,244 --> 00:34:40,370
+(<i> sighs</i> )
 
-595
-00:34:44,022 --> 00:34:47,827
+638
+00:34:40,370 --> 00:34:41,997
+Maybe that's why
+I find it hard
+
+639
+00:34:41,997 --> 00:34:43,749
+to challenge
+his decisions.
+
+640
+00:34:43,749 --> 00:34:47,586
 Let me tell you
 something about Curzon.
 
-596
-00:34:47,864 --> 00:34:49,128
-He was my friend
+641
+00:34:47,586 --> 00:34:48,670
+He was my friend,
 
-597
-00:34:49,168 --> 00:34:50,535
-he was my confidant.
+642
+00:34:48,670 --> 00:34:50,171
+he was
+my confidant.
 
-598
-00:34:50,571 --> 00:34:53,373
+643
+00:34:50,171 --> 00:34:52,966
 In a way, he was
-my teacher as well
+my teacher as well,
 
-599
-00:34:53,411 --> 00:34:58,013
+644
+00:34:52,966 --> 00:34:57,554
 but he was also manipulative,
-selfish and arrogant.
+selfish, and arrogant.
 
-600
-00:34:58,055 --> 00:34:59,820
+645
+00:34:57,554 --> 00:34:59,472
 Most people let him
 get away with it
 
-601
-00:34:59,860 --> 00:35:01,227
+646
+00:34:59,472 --> 00:35:00,766
 because he was so charming.
 
-602
-00:35:01,263 --> 00:35:04,704
+647
+00:35:00,766 --> 00:35:04,185
 Sometimes, I let him
-get away with it, too
+get away with it, too,
 
-603
-00:35:04,739 --> 00:35:09,341
+648
+00:35:04,185 --> 00:35:08,941
 but, from time to time,
-he'd push me too far
+he'd push me too far,
 
-604
-00:35:09,383 --> 00:35:14,761
-and I'd have to stand up to him,
-tell him he'd crossed the line.
+649
+00:35:08,941 --> 00:35:11,693
+and I'd have
+to stand up to him,
 
-605
-00:35:16,400 --> 00:35:18,097
+650
+00:35:11,693 --> 00:35:14,320
+tell him he'd
+crossed the line.
+
+651
+00:35:15,989 --> 00:35:17,490
 And how would he react?
 
-606
-00:35:18,137 --> 00:35:21,634
+652
+00:35:17,490 --> 00:35:20,994
 Sometimes, he'd just laugh
 and admit it.
 
-607
-00:35:21,678 --> 00:35:24,047
+653
+00:35:20,994 --> 00:35:23,413
 Sometimes, he'd be furious.
 
-608
-00:35:24,085 --> 00:35:28,289
+654
+00:35:23,413 --> 00:35:27,626
 But either way, he'd back off
 because he knew he was wrong.
 
-609
-00:35:29,597 --> 00:35:32,091
+655
+00:35:28,919 --> 00:35:31,463
 And he is wrong now.
 
-610
-00:35:32,137 --> 00:35:35,634
+656
+00:35:31,463 --> 00:35:35,092
 He's being selfish,
 and he's manipulated you
 
-611
-00:35:35,679 --> 00:35:38,481
-to get you to go along
-with what he wants.
+657
+00:35:35,092 --> 00:35:36,134
+to get you
+to go along
 
-612
-00:35:38,519 --> 00:35:40,079
+658
+00:35:36,134 --> 00:35:37,844
+with what<i> he</i> wants.
+
+659
+00:35:37,844 --> 00:35:39,554
 Now...
 
-613
-00:35:40,123 --> 00:35:42,321
+660
+00:35:39,554 --> 00:35:41,640
 are you going to confront him
 
-614
-00:35:42,395 --> 00:35:44,298
+661
+00:35:41,640 --> 00:35:43,600
 or let him get away with it?
 
-615
-00:35:46,170 --> 00:35:47,696
+662
+00:35:45,477 --> 00:35:47,104
 It's up to you.
 
-616
-00:36:04,548 --> 00:36:06,576
+663
+00:36:03,912 --> 00:36:06,039
 I know what you did.
 
-617
-00:36:06,620 --> 00:36:07,987
+664
+00:36:06,039 --> 00:36:07,499
 Take it easy.
 
-618
-00:36:08,023 --> 00:36:09,458
+665
+00:36:07,499 --> 00:36:08,834
 What's wrong with you?
 
-619
-00:36:09,493 --> 00:36:10,461
+666
+00:36:08,834 --> 00:36:10,085
 You know what's wrong.
 
-620
-00:36:10,495 --> 00:36:11,759
-You reconfigured the holosuite
+667
+00:36:10,085 --> 00:36:11,210
+You reconfigured
+the holosuite
 
-621
-00:36:11,798 --> 00:36:14,498
+668
+00:36:11,210 --> 00:36:12,378
 so that Nog would fail
-the spatial orientation test.
 
-622
-00:36:14,539 --> 00:36:17,775
-I did it for his own good, Rom.
+669
+00:36:12,378 --> 00:36:13,922
+the spatial
+orientation test.
 
-623
-00:36:17,813 --> 00:36:19,077
+670
+00:36:13,922 --> 00:36:17,216
+I did it for his
+own good, Rom.
+
+671
+00:36:17,216 --> 00:36:18,593
 I couldn't just stand by
 
-624
-00:36:19,116 --> 00:36:21,246
+672
+00:36:18,593 --> 00:36:20,679
 and watch my nephew
 throw his life away.
 
-625
-00:36:21,289 --> 00:36:23,317
-You had no right to interfere!
+673
+00:36:20,679 --> 00:36:22,514
+You had no right
+to interfere!
 
-626
-00:36:23,359 --> 00:36:25,193
+674
+00:36:22,514 --> 00:36:24,599
 I've already told Commander
-Sisko what you did
+Sisko what you did,
 
-627
-00:36:25,231 --> 00:36:26,928
+675
+00:36:24,599 --> 00:36:26,392
 and he's going to let
 Nog retake the test.
 
-628
-00:36:26,968 --> 00:36:27,993
+676
+00:36:26,392 --> 00:36:27,352
 You what?
 
-629
-00:36:28,038 --> 00:36:29,063
+677
+00:36:27,352 --> 00:36:28,436
 You heard me.
 
-630
-00:36:29,106 --> 00:36:32,603
-And if you ever do anything
-to hurt Nog again
+678
+00:36:28,436 --> 00:36:30,647
+And if you ever
+do anything
 
-631
-00:36:32,648 --> 00:36:34,379
-I'll burn the bar to the ground.
+679
+00:36:30,647 --> 00:36:31,857
+to hurt Nog again,
 
-632
-00:36:34,486 --> 00:36:35,955
+680
+00:36:31,857 --> 00:36:33,775
+I'll burn the bar
+to the ground.
+
+681
+00:36:33,775 --> 00:36:35,027
 You wouldn't dare.
 
-633
-00:36:35,990 --> 00:36:37,152
+682
+00:36:35,027 --> 00:36:36,528
 Oh, yes, I would.
 
-634
-00:36:37,193 --> 00:36:39,221
+683
+00:36:36,528 --> 00:36:38,655
 My son's happiness
 is more important to me
 
-635
-00:36:39,265 --> 00:36:40,632
-than anything, even latinum!
+684
+00:36:38,655 --> 00:36:39,990
+than anything,
+even<i> latinum!</i>
 
-636
-00:36:40,668 --> 00:36:43,300
-Remember that, Brother!
+685
+00:36:39,990 --> 00:36:42,868
+Remember<i> that,</i> Brother!
 
-637
-00:36:53,666 --> 00:36:55,431
+686
+00:36:53,003 --> 00:36:54,713
 Jadzia.
 
-638
-00:36:55,470 --> 00:36:57,304
+687
+00:36:54,713 --> 00:36:56,673
 Come in, come in.
 
-639
-00:36:58,443 --> 00:37:00,744
+688
+00:36:56,673 --> 00:36:57,674
+(<i> chuckles</i> )
+
+689
+00:36:57,674 --> 00:36:58,800
 I was just oozing
+
+690
+00:36:58,800 --> 00:37:00,010
 around the room.
 
-640
-00:37:00,783 --> 00:37:03,585
+691
+00:37:00,010 --> 00:37:02,929
 You have no idea
 what a liberating
 
-641
-00:37:03,623 --> 00:37:07,895
+692
+00:37:02,929 --> 00:37:07,266
 experience it is
 to be in a liquid state.
 
-642
-00:37:07,933 --> 00:37:10,063
+693
+00:37:07,266 --> 00:37:09,477
 We need to talk.
 
-643
-00:37:11,442 --> 00:37:12,741
+694
+00:37:10,603 --> 00:37:11,938
 All right.
 
-644
-00:37:12,779 --> 00:37:15,080
+695
+00:37:11,938 --> 00:37:14,482
 What is it you want
 to talk about?
 
-645
-00:37:15,117 --> 00:37:17,350
+696
+00:37:14,482 --> 00:37:16,693
 I want my memories back.
 
-646
-00:37:17,389 --> 00:37:19,154
+697
+00:37:16,693 --> 00:37:18,486
 Ah...
 
-647
-00:37:19,193 --> 00:37:21,061
+698
+00:37:18,486 --> 00:37:20,321
 I'm sorry.
 
-648
-00:37:21,098 --> 00:37:24,094
+699
+00:37:20,321 --> 00:37:23,408
 I realize this is
-difficult for you
+difficult for you,
 
-649
-00:37:24,138 --> 00:37:25,630
+700
+00:37:23,408 --> 00:37:24,826
 but you'll get over it.
 
-650
-00:37:25,676 --> 00:37:27,670
-Trust me, it's better this way.
+701
+00:37:24,826 --> 00:37:26,953
+Trust me, it's
+better this way.
 
-651
-00:37:27,714 --> 00:37:28,876
+702
+00:37:26,953 --> 00:37:28,121
 For you, maybe.
 
-652
-00:37:28,917 --> 00:37:30,751
+703
+00:37:28,121 --> 00:37:29,915
 You're both living out a life
 
-653
-00:37:30,788 --> 00:37:32,121
+704
+00:37:29,915 --> 00:37:31,332
 you never could have
 had otherwise.
 
-654
-00:37:32,158 --> 00:37:33,650
-But it's my life you're living.
+705
+00:37:31,332 --> 00:37:32,876
+But it's<i> my</i> life
+you're living.
 
-655
-00:37:33,695 --> 00:37:35,130
+706
+00:37:32,876 --> 00:37:34,460
 Those should be my memories.
 
-656
-00:37:35,165 --> 00:37:37,159
+707
+00:37:34,460 --> 00:37:36,421
 Not anymore.
 
-657
-00:37:37,204 --> 00:37:38,730
+708
+00:37:36,421 --> 00:37:37,881
 Maybe they never
 should have been.
 
-658
-00:37:38,774 --> 00:37:39,833
-That's where you're wrong.
+709
+00:37:37,881 --> 00:37:39,174
+That's where
+you're wrong.
 
-659
-00:37:39,876 --> 00:37:41,904
+710
+00:37:39,174 --> 00:37:41,134
 I earned the right to be joined.
 
-660
-00:37:41,948 --> 00:37:44,442
+711
+00:37:41,134 --> 00:37:43,636
 I am the only person
 in our planet's history
 
-661
-00:37:44,488 --> 00:37:46,686
+712
+00:37:43,636 --> 00:37:45,847
 who was ever readmitted
 to the initiate program
 
-662
-00:37:46,726 --> 00:37:47,820
+713
+00:37:45,847 --> 00:37:47,015
 after being washed out.
 
-663
-00:37:47,863 --> 00:37:50,266
-The only reason you got back in
+714
+00:37:47,015 --> 00:37:49,559
+The only reason
+you got back in
 
-664
-00:37:50,301 --> 00:37:52,899
-was because I
-felt sorry for you.
+715
+00:37:49,559 --> 00:37:52,145
+was because I felt
+sorry for you.
 
-665
-00:37:52,941 --> 00:37:54,638
+716
+00:37:52,145 --> 00:37:53,479
 Curzon was famous
 for rejecting initiates.
 
-666
-00:37:54,678 --> 00:37:56,079
+717
+00:37:53,479 --> 00:37:55,232
 Why feel sorry for me?
 
-667
-00:37:56,115 --> 00:37:59,817
+718
+00:37:55,232 --> 00:37:59,111
 Now don't you use that tone
 of voice with me, little girl.
 
-668
-00:37:59,857 --> 00:38:03,161
+719
+00:37:59,111 --> 00:38:02,530
 You can't intimidate me, Curzon.
 
-669
-00:38:04,836 --> 00:38:07,604
+720
+00:38:03,990 --> 00:38:06,910
 And I'm not
 a little girl anymore.
 
-670
-00:38:14,293 --> 00:38:16,491
+721
+00:38:11,623 --> 00:38:13,666
+(<i> sighs</i> )
+
+722
+00:38:13,666 --> 00:38:15,710
 No.
 
-671
-00:38:16,565 --> 00:38:18,763
+723
+00:38:15,710 --> 00:38:18,088
 I suppose you're not.
 
-672
-00:38:20,407 --> 00:38:22,104
+724
+00:38:19,589 --> 00:38:21,382
 The truth is
 
-673
-00:38:22,144 --> 00:38:26,644
+725
+00:38:21,382 --> 00:38:25,804
 you weren't a little girl
 back when you were an initiate.
 
-674
-00:38:26,689 --> 00:38:30,722
+726
+00:38:25,804 --> 00:38:30,016
 You were a brilliant
 and beautiful young woman.
 
-675
-00:38:42,326 --> 00:38:43,818
+727
+00:38:41,360 --> 00:38:43,113
 Very beautiful.
 
-676
-00:38:47,772 --> 00:38:49,469
+728
+00:38:46,950 --> 00:38:48,743
 You were in love with me?
 
-677
-00:38:56,059 --> 00:38:57,996
+729
+00:38:55,292 --> 00:38:57,252
 At first...
 
-678
-00:38:58,031 --> 00:38:59,796
+730
+00:38:57,252 --> 00:38:58,878
 I thought it was just
 
-679
-00:38:59,834 --> 00:39:02,636
+731
+00:38:58,878 --> 00:39:01,840
 an old man's
 passing infatuation.
 
-680
-00:39:04,111 --> 00:39:08,144
+732
+00:39:03,300 --> 00:39:07,553
 After all, I'd always
 had an eye for the ladies.
 
-681
-00:39:09,925 --> 00:39:12,419
+733
+00:39:08,888 --> 00:39:13,101
 But as we spent
-more time together...
+more time together,
 
-682
-00:39:13,935 --> 00:39:18,537
+734
+00:39:13,101 --> 00:39:17,772
 I started to realize
 it was something...
 
-683
-00:39:18,579 --> 00:39:20,173
+735
+00:39:17,772 --> 00:39:19,398
 deeper.
 
-684
-00:39:22,422 --> 00:39:24,825
-Then why were you so hard on me?
+736
+00:39:21,651 --> 00:39:24,863
+Then why were you
+so hard on me?
 
-685
-00:39:25,796 --> 00:39:28,165
+737
+00:39:24,863 --> 00:39:27,490
 I couldn't let you
 know the truth.
 
-686
-00:39:28,203 --> 00:39:29,536
+738
+00:39:27,490 --> 00:39:28,700
 You were an initiate.
 
-687
-00:39:29,573 --> 00:39:30,974
+739
+00:39:28,700 --> 00:39:30,243
 I was your supervisor.
 
-688
-00:39:31,010 --> 00:39:33,481
+740
+00:39:30,243 --> 00:39:32,745
 So you washed me out
 of the program.
 
-689
-00:39:33,515 --> 00:39:36,716
+741
+00:39:32,745 --> 00:39:35,790
 Later, I realized
 that I'd robbed you
 
-690
-00:39:36,757 --> 00:39:38,887
+742
+00:39:35,790 --> 00:39:38,043
 of something you'd
 wanted all your life.
 
-691
-00:39:38,928 --> 00:39:41,331
+743
+00:39:38,043 --> 00:39:40,586
 I felt so guilty,
 I nearly retired
 
-692
-00:39:41,367 --> 00:39:43,497
-from the Symbiosis Commission.
+744
+00:39:40,586 --> 00:39:42,839
+from the Symbiosis
+Commission.
 
-693
-00:39:43,539 --> 00:39:46,478
+745
+00:39:42,839 --> 00:39:45,884
 So when I reapplied,
 you didn't object.
 
-694
-00:39:46,513 --> 00:39:48,484
+746
+00:39:45,884 --> 00:39:47,760
 On the contrary.
 
-695
-00:39:48,518 --> 00:39:51,548
+747
+00:39:47,760 --> 00:39:50,930
 I was grateful
 when you reapplied.
 
-696
-00:39:51,592 --> 00:39:54,326
+748
+00:39:50,930 --> 00:39:53,683
 It let me off the hook.
 
-697
-00:39:57,373 --> 00:40:00,437
-So, now that you know
+749
+00:39:56,644 --> 00:39:59,647
+So, now that you know,
 
-698
-00:40:00,480 --> 00:40:04,319
+750
+00:39:59,647 --> 00:40:02,108
 you can see that it's best
 for both of us
 
-699
-00:40:04,355 --> 00:40:07,226
+751
+00:40:02,108 --> 00:40:06,238
 that I stay here in this body.
 
-700
-00:40:07,262 --> 00:40:09,358
+752
+00:40:06,238 --> 00:40:08,531
 Why?
 Because you loved me?
 
-701
-00:40:12,743 --> 00:40:15,078
+753
+00:40:11,659 --> 00:40:14,787
 Because I still love you.
 
-702
-00:40:24,270 --> 00:40:26,241
-There's no shame in that,
-Curzon.
+754
+00:40:23,255 --> 00:40:25,298
+There's no shame
+in that, Curzon.
 
-703
-00:40:26,275 --> 00:40:28,269
+755
+00:40:25,298 --> 00:40:27,300
 Yes, there is.
 
-704
-00:40:28,313 --> 00:40:32,449
+756
+00:40:27,300 --> 00:40:31,596
 And if we rejoin,
 you'll feel it, too.
 
-705
-00:40:33,960 --> 00:40:36,158
+757
+00:40:32,889 --> 00:40:35,225
 No, I won't...
 
-706
-00:40:36,199 --> 00:40:38,363
+758
+00:40:35,225 --> 00:40:37,394
 because I love you.
 
-707
-00:40:38,404 --> 00:40:41,172
+759
+00:40:37,394 --> 00:40:40,188
 You're a part of me,
 and I want you back.
 
-708
-00:40:41,211 --> 00:40:44,378
+760
+00:40:40,188 --> 00:40:43,482
 That way, Jadzia and
 Curzon can be together
 
-709
-00:40:44,418 --> 00:40:46,321
+761
+00:40:43,482 --> 00:40:45,402
 the way they should be...
 
-710
-00:40:46,356 --> 00:40:47,825
+762
+00:40:45,402 --> 00:40:46,778
 through Dax.
 
-711
-00:41:14,585 --> 00:41:16,385
+763
+00:41:01,834 --> 00:41:02,961
+(<i> dart board beeping</i> )
+
+764
+00:41:14,097 --> 00:41:16,015
 He's coming!
 
-712
-00:41:19,563 --> 00:41:20,793
+765
+00:41:16,015 --> 00:41:17,683
+(<i> Rom panting</i> )
+
+766
+00:41:19,060 --> 00:41:20,478
 He's coming.
 
-713
-00:41:29,821 --> 00:41:32,122
-Ladies and gentlemen
+767
+00:41:24,023 --> 00:41:25,691
+(<i> sighs</i> )
 
-714
-00:41:32,160 --> 00:41:35,965
+768
+00:41:29,404 --> 00:41:31,656
+Ladies and gentlemen,
+
+769
+00:41:31,656 --> 00:41:35,660
 I'd like to introduce
 Starfleet's...
 
-715
-00:41:36,003 --> 00:41:37,370
+770
+00:41:35,660 --> 00:41:36,911
 future...
 
-716
-00:41:37,405 --> 00:41:39,170
+771
+00:41:36,911 --> 00:41:38,913
 my son, Nog.
 
-717
-00:41:47,964 --> 00:41:49,456
+772
+00:41:47,546 --> 00:41:49,007
 Congratulations, Nog.
 
-718
-00:41:49,501 --> 00:41:50,629
+773
+00:41:49,007 --> 00:41:50,216
 Thank you, sir.
 
-719
-00:41:50,671 --> 00:41:53,200
+774
+00:41:50,216 --> 00:41:52,802
 Yeah, way to go.
 
-720
-00:41:53,244 --> 00:41:54,838
+775
+00:41:52,802 --> 00:41:54,262
 I'm afraid
 you've jumped the gun
 
-721
-00:41:54,881 --> 00:41:56,111
+776
+00:41:54,262 --> 00:41:55,721
 putting on that uniform.
 
-722
-00:41:56,151 --> 00:41:59,056
+777
+00:41:55,721 --> 00:41:58,683
 I know I haven't earned
-the right to wear it yet
+the right to wear it yet,
 
-723
-00:41:59,091 --> 00:42:01,893
+778
+00:41:58,683 --> 00:42:01,436
 but my father got it for me.
 
-724
-00:42:01,931 --> 00:42:03,799
+779
+00:42:01,436 --> 00:42:03,396
 Hopefully,
 you'll get to put on
 
-725
-00:42:03,835 --> 00:42:05,304
+780
+00:42:03,396 --> 00:42:04,856
 the real one next year.
 
-726
-00:42:07,344 --> 00:42:09,406
+781
+00:42:06,858 --> 00:42:10,195
 When you ace the Academy
 Entrance Exam.
 
-727
-00:42:14,327 --> 00:42:16,195
-What's the matter, Chief?
+782
+00:42:10,195 --> 00:42:11,237
+Yeah.
 
-728
-00:42:16,232 --> 00:42:18,203
+783
+00:42:13,656 --> 00:42:15,950
+What's the matter,
+Chief?
+
+784
+00:42:15,950 --> 00:42:17,910
 It just occurred to me.
 
-729
-00:42:18,237 --> 00:42:20,265
+785
+00:42:17,910 --> 00:42:19,704
 As soon as that kid
-graduates from the Academy
+graduates from the Academy,
 
-730
-00:42:20,308 --> 00:42:21,937
+786
+00:42:19,704 --> 00:42:21,622
 I'm going to have
 to call him "sir."
 
-731
-00:42:23,951 --> 00:42:25,648
+787
+00:42:23,582 --> 00:42:25,251
 Okay.
 
-732
-00:42:30,567 --> 00:42:32,561
-What can I get you, Nog?
+788
+00:42:30,048 --> 00:42:32,133
+What can I
+get you, Nog?
 
-733
-00:42:33,740 --> 00:42:35,039
+789
+00:42:33,301 --> 00:42:34,719
 Oh.
 
-734
-00:42:36,514 --> 00:42:37,949
+790
+00:42:36,012 --> 00:42:38,348
 A root beer.
 
-735
-00:42:39,054 --> 00:42:40,489
-It's an Earth drink...
+791
+00:42:38,348 --> 00:42:39,974
+It's an Earth drink--
 
-736
-00:42:40,524 --> 00:42:42,927
+792
+00:42:39,974 --> 00:42:42,560
 something they serve
 at the Academy.
 
-737
-00:42:45,869 --> 00:42:47,703
+793
+00:42:45,438 --> 00:42:47,232
 A root beer.
 
-738
-00:42:47,741 --> 00:42:51,011
+794
+00:42:47,232 --> 00:42:50,485
 This is the end
 of Ferengi civilization.
 
-739
-00:43:03,712 --> 00:43:06,081
-May I join you, Lieutenant?
+795
+00:43:03,164 --> 00:43:05,750
+May I join you,
+Lieutenant?
 
-740
-00:43:06,119 --> 00:43:07,554
+796
+00:43:05,750 --> 00:43:07,126
 Of course.
 
-741
-00:43:13,670 --> 00:43:18,170
+797
+00:43:10,380 --> 00:43:11,630
+(<i> sighs</i> )
+
+798
+00:43:12,965 --> 00:43:17,845
 I'd just like to apologize
 for my behavior
 
-742
-00:43:18,213 --> 00:43:20,777
+799
+00:43:17,845 --> 00:43:19,055
 while I was joined
+
+800
+00:43:19,055 --> 00:43:20,181
 with Curzon.
 
-743
-00:43:20,820 --> 00:43:23,725
+801
+00:43:20,181 --> 00:43:23,101
 There's no need to apologize.
 
-744
-00:43:23,760 --> 00:43:26,095
+802
+00:43:23,101 --> 00:43:25,644
 In a way, I'm glad it happened.
 
-745
-00:43:26,132 --> 00:43:29,937
+803
+00:43:25,644 --> 00:43:27,063
 It forced me to deal
-with some things about myself
 
-746
-00:43:29,975 --> 00:43:32,504
+804
+00:43:27,063 --> 00:43:29,399
+with some things
+about myself
+
+805
+00:43:29,399 --> 00:43:31,817
 I've never really faced.
 
-747
-00:43:32,548 --> 00:43:37,116
+806
+00:43:31,817 --> 00:43:36,531
 Besides, you've...
 given me a special gift.
 
-748
-00:43:38,429 --> 00:43:39,762
+807
+00:43:37,740 --> 00:43:39,117
 Oh?
 
-749
-00:43:41,336 --> 00:43:43,934
+808
+00:43:40,826 --> 00:43:43,329
 You see...
 
-750
-00:43:43,975 --> 00:43:45,843
+809
+00:43:43,329 --> 00:43:45,164
 now I have Curzon's memories
 
-751
-00:43:45,880 --> 00:43:48,444
+810
+00:43:45,164 --> 00:43:47,792
 of what it felt like
 to be a changeling.
 
-752
-00:43:48,553 --> 00:43:52,723
+811
+00:43:47,792 --> 00:43:52,004
 I never realized
 how much joy it gives you.
 
-753
-00:43:52,764 --> 00:43:56,831
+812
+00:43:52,004 --> 00:43:56,217
 And I never understood
 how much joy
 
-754
-00:43:56,873 --> 00:44:02,980
+813
+00:43:56,217 --> 00:44:02,348
 you humanoids experience
-in things like eating, drinking
+in things like eating, drinking,
 
-755
-00:44:03,021 --> 00:44:06,655
-staying up all night
-playing <i>tongo.</i>
+814
+00:44:02,348 --> 00:44:06,060
+staying up all night playing
+<i>tongo.</i>
 
-756
-00:44:08,133 --> 00:44:10,263
-Frankly, I don't see how Curzon
+815
+00:44:06,060 --> 00:44:07,562
+(<i> chuckling</i> )
 
-757
-00:44:10,305 --> 00:44:12,869
+816
+00:44:07,562 --> 00:44:09,522
+Frankly, I don't
+see how Curzon
+
+817
+00:44:09,522 --> 00:44:12,233
 ever managed to get
 any work done.
 
-758
-00:44:12,912 --> 00:44:16,444
+818
+00:44:12,233 --> 00:44:15,861
 He always seemed to somehow.
 
-759
-00:44:16,520 --> 00:44:18,149
+819
+00:44:15,861 --> 00:44:17,696
 Well...
 
-760
-00:44:19,627 --> 00:44:22,464
+820
+00:44:18,864 --> 00:44:21,826
 he must have been
 a remarkable man.
 
-761
-00:44:23,804 --> 00:44:26,071
+821
+00:44:23,161 --> 00:44:25,580
 Yes, he is.
-

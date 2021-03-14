@@ -1,3999 +1,4116 @@
-﻿1
-00:00:03,231 --> 00:00:06,670
-Commander's Log,
-Stardate 48481.2.
+1
+00:00:02,711 --> 00:00:06,298
+SISKO:<i> Commander's Log,</i>
+<i>Stardate 48481.2.</i>
 
 2
-00:00:06,705 --> 00:00:08,334
-My senior staff and I
-have been asked
+00:00:06,340 --> 00:00:08,175
+<i>My senior staff and I</i>
+<i>have been asked</i>
 
 3
-00:00:08,375 --> 00:00:10,436
-to address
-the annual Starfleet symposium
+00:00:08,216 --> 00:00:10,260
+<i>to address the annual</i>
+<i>Starfleet symposium</i>
 
 4
-00:00:10,479 --> 00:00:12,813
-on the current situation
-in the Gamma Quadrant.
+00:00:10,302 --> 00:00:12,429
+<i>on the current situation</i>
+<i>in the Gamma Quadrant.</i>
 
 5
-00:00:12,851 --> 00:00:15,117
-I'm looking forward
-to the opportunity
+00:00:12,471 --> 00:00:14,598
+<i>I'm looking forward</i>
+<i>to the opportunity</i>
 
 6
-00:00:15,155 --> 00:00:17,557
-and to visiting
-my sister in Portland.
+00:00:14,640 --> 00:00:16,892
+<i>and to visiting</i>
+<i>my sister in Portland.</i>
 
 7
-00:00:18,729 --> 00:00:21,394
+00:00:18,560 --> 00:00:20,562
 Entering Earth orbit.
 
 8
-00:00:21,434 --> 00:00:24,167
-Now there's something
-I never get tired of looking at.
+00:00:20,604 --> 00:00:23,565
+Now there's something I never
+get tired of looking at.
 
 9
-00:00:24,206 --> 00:00:26,540
+00:00:23,607 --> 00:00:25,985
 If you ask me, the seas
 could be a little more purple.
 
 10
-00:00:26,578 --> 00:00:27,910
-That's funny...
-I was just thinking
+00:00:26,025 --> 00:00:28,779
+That's funny, I was just
+thinking they weren't
+green enough.
 
 11
-00:00:27,947 --> 00:00:28,915
-they weren't green enough.
-
-12
-00:00:28,949 --> 00:00:30,612
+00:00:28,821 --> 00:00:30,364
 I guess it's true
 what they say.
 
-13
-00:00:30,653 --> 00:00:32,589
-"There is no place like home."
+12
+00:00:30,405 --> 00:00:32,324
+"There is no place
+like home."
 
-14
-00:00:32,624 --> 00:00:34,560
+13
+00:00:32,366 --> 00:00:34,242
 No matter what color
 the water is.
 
-15
-00:00:34,594 --> 00:00:36,028
-We'd better get ready, Benjamin.
+14
+00:00:34,284 --> 00:00:35,786
+We'd better get ready,
+Benjamin.
 
-16
-00:00:36,064 --> 00:00:37,761
+15
+00:00:35,828 --> 00:00:37,078
 Dinner tonight
 with Admiral Drazman.
 
-17
-00:00:37,801 --> 00:00:38,996
+16
+00:00:37,120 --> 00:00:38,413
 Oh.
 
-18
-00:00:39,036 --> 00:00:40,402
-Not "Droner" Drazman,
-the Commander
+17
+00:00:38,455 --> 00:00:39,874
+Not "Droner" Drazman?
 
-19
-00:00:40,439 --> 00:00:41,737
-of the Proxima
+18
+00:00:39,915 --> 00:00:41,583
+The Commander of the Proxima
 Maintenance Yards?
 
+19
+00:00:41,625 --> 00:00:42,960
+BASHIR: You're more than
+welcome to come along.
+
 20
-00:00:41,775 --> 00:00:44,211
-You're more than welcome
-to come along.
+00:00:43,002 --> 00:00:45,086
+The entire senior
+staff<i> was</i> invited.
 
 21
-00:00:44,246 --> 00:00:45,737
-The entire senior staff
-was invited.
-
-22
-00:00:45,783 --> 00:00:47,650
+00:00:45,128 --> 00:00:47,381
 Full dress uniform?
 Fine table linens?
 
-23
-00:00:47,687 --> 00:00:50,055
+22
+00:00:47,422 --> 00:00:49,424
 A different fork
 for every course?
 
-24
-00:00:50,092 --> 00:00:51,652
-Thanks, but no thanks.
+23
+00:00:49,466 --> 00:00:50,926
+Thanks, but
+no thanks.
 
-25
-00:00:51,695 --> 00:00:53,129
+24
+00:00:50,968 --> 00:00:52,678
 That's why I stayed
 an enlisted man.
 
-26
-00:00:53,164 --> 00:00:55,795
+25
+00:00:52,720 --> 00:00:53,846
 They don't expect me to show up
+
+26
+00:00:53,888 --> 00:00:55,806
 for these formal dinners.
 
 27
-00:00:55,837 --> 00:00:57,807
+00:00:55,848 --> 00:00:57,599
 Major, Constable,
 would you care to join us?
 
 28
-00:00:57,841 --> 00:00:59,743
+00:00:57,641 --> 00:00:59,100
 No, thank you.
 
 29
-00:00:59,778 --> 00:01:03,411
+00:00:59,142 --> 00:01:02,688
 I'd say this is strictly
 a Starfleet occasion.
 
 30
-00:01:03,451 --> 00:01:06,048
+00:01:02,730 --> 00:01:05,399
 Commander, I'm receiving
 an incoming emergency message.
 
 31
-00:01:06,090 --> 00:01:07,058
-It's from DS9.
+00:01:05,440 --> 00:01:07,776
+- It's from DS9.
+- On screen.
 
 32
-00:01:07,092 --> 00:01:08,458
-On screen.
-
-33
-00:01:08,495 --> 00:01:11,058
+00:01:07,818 --> 00:01:10,863
 Commander,
 am I glad to see you.
 
-34
-00:01:11,100 --> 00:01:12,899
-This better be good, Quark.
+33
+00:01:10,905 --> 00:01:12,280
+KIRA: This better
+be good, Quark.
 
-35
-00:01:12,937 --> 00:01:14,770
+34
+00:01:12,322 --> 00:01:14,157
 You're on an emergency channel.
 
-36
-00:01:14,808 --> 00:01:17,244
+35
+00:01:14,199 --> 00:01:16,952
 I just received a message
 from the Grand Nagus.
 
-37
-00:01:17,346 --> 00:01:20,375
+36
+00:01:16,994 --> 00:01:20,039
 He wants me to remind you
 of the critical role he played
 
-38
-00:01:20,419 --> 00:01:23,118
+37
+00:01:20,080 --> 00:01:22,750
 in establishing contact
 with the Dominion.
 
-39
-00:01:23,158 --> 00:01:25,560
-You can assure the Nagus
+38
+00:01:22,791 --> 00:01:24,919
+SISKO: You can assure the Nagus
 I will mention his assistance
 
-40
-00:01:25,596 --> 00:01:27,862
+39
+00:01:24,960 --> 00:01:27,254
 prominently in my report
 to Starfleet.
 
-41
-00:01:27,901 --> 00:01:30,429
+40
+00:01:27,295 --> 00:01:29,757
 There is one more thing,
 Commander.
 
-42
-00:01:30,472 --> 00:01:32,408
+41
+00:01:29,798 --> 00:01:31,800
 It seems the Nagus' nephew,
-Belongo
+
+42
+00:01:31,842 --> 00:01:33,886
+Belongo is currently being held
 
 43
-00:01:32,443 --> 00:01:34,140
-is currently being held
-
-44
-00:01:34,180 --> 00:01:37,482
+00:01:33,928 --> 00:01:37,096
 by Starfleet authorities
 on Aldebaran III.
 
-45
-00:01:37,519 --> 00:01:40,457
+44
+00:01:37,138 --> 00:01:39,767
 A slight misunderstanding,
 I'm sure.
 
-46
-00:01:40,492 --> 00:01:44,489
+45
+00:01:39,808 --> 00:01:43,812
 A misunderstanding the Nagus
 no doubt wants to be cleared up.
 
-47
-00:01:44,533 --> 00:01:46,503
+46
+00:01:43,854 --> 00:01:45,814
 I do owe him a favor.
 
-48
-00:01:46,537 --> 00:01:47,869
+47
+00:01:45,856 --> 00:01:47,566
 He thinks so, too.
 
-49
-00:01:47,907 --> 00:01:51,141
+48
+00:01:47,608 --> 00:01:50,402
 And to quote
 the 111th Rule of Acquisition...
 
-50
-00:01:51,180 --> 00:01:55,587
+49
+00:01:50,444 --> 00:01:54,907
 "Treat people in your debt
-like family... exploit them."
+like family-- exploit them."
 
-51
-00:01:55,623 --> 00:01:57,593
+50
+00:01:54,949 --> 00:01:56,825
 I have been reading up.
 
-52
-00:01:57,627 --> 00:02:00,895
+51
+00:01:56,867 --> 00:02:00,287
 You can tell the Nagus
 I will do everything I can
 
-53
-00:02:00,933 --> 00:02:04,839
+52
+00:02:00,328 --> 00:02:03,707
 but also remind him of the
 217th Rule of Acquisition...
 
-54
-00:02:04,875 --> 00:02:06,640
+53
+00:02:03,749 --> 00:02:06,043
 "You can't free a fish
 from water."
 
-55
-00:02:08,147 --> 00:02:11,278
+54
+00:02:07,377 --> 00:02:10,756
 I'll be sure the Nagus
 gets the message.
 
-56
-00:02:18,034 --> 00:02:19,765
+55
+00:02:17,471 --> 00:02:19,139
 She's all yours, Major.
 
-57
-00:02:19,804 --> 00:02:21,501
-Energize, Mr. O'Brien.
+56
+00:02:19,180 --> 00:02:20,849
+Energize,
+Mr. O'Brien.
 
-58
-00:02:21,541 --> 00:02:22,873
+57
+00:02:20,891 --> 00:02:22,392
 Aye, sir.
 
+58
+00:02:24,185 --> 00:02:25,479
+(<i> console beeping</i> )
+
 59
-00:02:26,183 --> 00:02:27,651
+00:02:25,520 --> 00:02:26,981
 That's strange.
 
 60
-00:02:27,687 --> 00:02:29,316
+00:02:27,022 --> 00:02:28,607
 What's wrong?
 
 61
-00:02:29,356 --> 00:02:30,756
+00:02:28,649 --> 00:02:30,191
 Well, nothing serious.
 
 62
-00:02:30,793 --> 00:02:32,227
+00:02:30,233 --> 00:02:31,610
 Just a power fluctuation
 
 63
-00:02:32,262 --> 00:02:34,528
+00:02:31,652 --> 00:02:33,946
 in the annular
 confinement beam.
 
 64
-00:02:36,972 --> 00:02:38,908
+00:02:36,406 --> 00:02:38,241
 Oh, well, that's impossible.
 
 65
-00:02:38,943 --> 00:02:40,206
+00:02:38,283 --> 00:02:39,660
 What happened?
 
 66
-00:02:40,245 --> 00:02:43,740
-Well, I stabilized the beam,
-but according to our sensors
+00:02:39,701 --> 00:02:41,036
+Well, I stabilized the beam
 
 67
-00:02:43,786 --> 00:02:46,018
+00:02:41,078 --> 00:02:43,080
+but according
+to our sensors
+
+68
+00:02:43,122 --> 00:02:45,457
 they never materialized
 at their destination.
 
-68
-00:02:46,057 --> 00:02:48,893
+69
+00:02:45,499 --> 00:02:48,418
 They're just... gone.
 
-69
-00:02:51,567 --> 00:02:54,300
-Okay, buddy, come on.
+70
+00:02:50,921 --> 00:02:53,590
+MAN: Okay, buddy, come on.
 Rise and shine.
 
-70
-00:02:54,340 --> 00:02:56,333
+71
+00:02:53,632 --> 00:02:55,550
 Come on!
 
-71
-00:02:56,377 --> 00:02:57,777
-Well, look what we have here.
-
 72
-00:02:57,814 --> 00:02:58,782
-Who are you?
+00:02:55,592 --> 00:02:57,176
+Well, look what
+we have here.
 
 73
-00:02:58,816 --> 00:02:59,784
-Who am I?
+00:02:57,218 --> 00:02:58,762
+Who are you?
 
 74
-00:02:59,818 --> 00:03:00,979
+00:02:58,804 --> 00:03:00,722
+Who am<i> I?</i>
 You believe this?
 
 75
-00:03:01,020 --> 00:03:03,787
+00:03:00,764 --> 00:03:03,350
 Sleeping Beauty
 asking me questions. Up!
 
 76
-00:03:08,702 --> 00:03:10,797
+00:03:08,105 --> 00:03:10,149
 Hey, Vin, we've been
 working all night.
 
 77
-00:03:10,840 --> 00:03:13,641
+00:03:10,189 --> 00:03:12,776
 Why don't we forget
 about these guys?
 
 78
-00:03:13,678 --> 00:03:14,873
+00:03:12,818 --> 00:03:14,528
 I just want to go home
 
 79
-00:03:14,914 --> 00:03:16,975
+00:03:14,569 --> 00:03:16,279
 and see Sonya and the kids
 and get some sleep.
 
 80
-00:03:17,019 --> 00:03:18,453
+00:03:16,321 --> 00:03:17,948
 What are you, an anarchist?
 
 81
-00:03:18,488 --> 00:03:20,958
+00:03:17,990 --> 00:03:20,450
 There's a law against
 sleeping in the streets.
 
 82
-00:03:20,993 --> 00:03:23,897
+00:03:20,492 --> 00:03:23,328
 Though I do like
 the matching pajamas.
 
 83
-00:03:23,932 --> 00:03:25,902
+00:03:23,370 --> 00:03:24,579
 All right.
 Let's see some logo.
 
 84
-00:03:25,936 --> 00:03:27,565
-Logo?
+00:03:24,621 --> 00:03:26,832
+- Logo?
+- VIN: I.D.
 
 85
-00:03:27,606 --> 00:03:29,132
-I.D. Identification.
+00:03:26,874 --> 00:03:28,667
+Identification.
 
 86
-00:03:29,176 --> 00:03:30,702
+00:03:28,709 --> 00:03:29,960
 UHC card.
 
 87
-00:03:30,746 --> 00:03:32,214
+00:03:30,002 --> 00:03:31,210
 Transit pass.
 
 88
-00:03:32,249 --> 00:03:33,342
+00:03:31,252 --> 00:03:32,546
 Where are we?
 
 89
-00:03:33,384 --> 00:03:35,183
+00:03:32,587 --> 00:03:34,381
 What happened
 to Starfleet Headquarters?
 
 90
-00:03:35,221 --> 00:03:37,886
+00:03:34,422 --> 00:03:37,134
 Perfect. Just what we need,
 two more dims.
 
 91
-00:03:37,927 --> 00:03:39,395
+00:03:37,176 --> 00:03:38,886
 Those shotguns, uniforms...
 
 92
-00:03:39,430 --> 00:03:41,764
+00:03:38,927 --> 00:03:42,097
 there's something
 very familiar about this.
 
 93
-00:03:41,802 --> 00:03:43,704
-Yeah, probably
-from the last time
-
-94
-00:03:43,739 --> 00:03:45,402
-you were
+00:03:42,139 --> 00:03:44,516
+Yeah, probably from
+the last time you were
 in a Sanctuary District.
 
-95
-00:03:45,442 --> 00:03:47,412
+94
+00:03:44,558 --> 00:03:46,643
 Sanctuary District?
 What year is this?
 
-96
-00:03:47,479 --> 00:03:50,110
-Same year as it was yesterday...
+95
+00:03:46,685 --> 00:03:49,396
+Same year as it was yesterday--
 2024.
 
-97
-00:03:50,151 --> 00:03:51,814
+96
+00:03:49,437 --> 00:03:51,314
 Let's go.
 
-98
-00:03:55,161 --> 00:03:57,154
-How do they find us?
+97
+00:03:54,693 --> 00:03:56,737
+VIN: How do they find us?
 
-99
-00:06:12,359 --> 00:06:13,349
+98
+00:06:12,455 --> 00:06:13,456
 Are you okay?
 
-100
-00:06:13,395 --> 00:06:14,829
+99
+00:06:13,498 --> 00:06:14,916
 Oh, my head.
 
-101
-00:06:14,864 --> 00:06:16,196
+100
+00:06:14,958 --> 00:06:16,293
 What happened?
 
-102
-00:06:16,267 --> 00:06:17,735
-Did you get jacked
-or something?
+101
+00:06:16,335 --> 00:06:17,878
+Did you get
+jacked or something?
 
-103
-00:06:17,770 --> 00:06:18,795
+102
+00:06:17,919 --> 00:06:18,962
 Jacked?
 
-104
-00:06:18,839 --> 00:06:20,433
+103
+00:06:19,004 --> 00:06:20,588
 You know, robbed.
 
-105
-00:06:20,475 --> 00:06:23,140
+104
+00:06:20,630 --> 00:06:23,175
 Oh...
 
-106
-00:06:23,181 --> 00:06:25,812
+105
+00:06:23,217 --> 00:06:25,886
 Did they get your
-credit chips, your I. D?
+credit chips, your I.D.?
+
+106
+00:06:25,927 --> 00:06:27,637
+(sighs)
 
 107
-00:06:27,556 --> 00:06:29,856
+00:06:27,679 --> 00:06:29,890
 Oh... it looks like
 they got everything
 
 108
-00:06:29,895 --> 00:06:32,161
-except my broach.
+00:06:29,931 --> 00:06:32,100
+except my brooch.
 
 109
-00:06:32,199 --> 00:06:34,396
-What? Do you
+00:06:32,142 --> 00:06:34,477
+What...? Do you
 live near here, uh?
 
 110
-00:06:34,437 --> 00:06:36,134
+00:06:34,519 --> 00:06:36,146
 Can you get home?
 
 111
-00:06:36,174 --> 00:06:38,041
+00:06:36,188 --> 00:06:38,065
 I was traveling
 with some friends
 
 112
-00:06:38,078 --> 00:06:40,914
+00:06:38,106 --> 00:06:40,775
 and uh, I guess
 we got separated.
 
 113
-00:06:40,950 --> 00:06:42,920
-Well, you shouldn't
-be walking around
+00:06:40,817 --> 00:06:44,403
+Well, you shouldn't be
+walking around without I.D.
 
 114
-00:06:42,954 --> 00:06:44,252
-without I.D.
-
-115
-00:06:44,290 --> 00:06:46,522
+00:06:44,445 --> 00:06:46,614
 You better order
 some replacements.
 
-116
-00:06:46,561 --> 00:06:50,000
+115
+00:06:46,656 --> 00:06:49,659
 You can use my Interface
-terminal, if you wish.
+terminal if you wish.
 
-117
-00:06:50,035 --> 00:06:52,062
+116
+00:06:49,701 --> 00:06:52,037
 My office is just
 around the corner.
 
-118
-00:06:52,106 --> 00:06:54,076
+117
+00:06:52,079 --> 00:06:54,039
 That's very kind of you... um?
 
-119
-00:06:54,110 --> 00:06:55,078
+118
+00:06:54,081 --> 00:06:55,082
 Chris, Chris Brynner.
 
-120
-00:06:55,112 --> 00:06:56,239
+119
+00:06:55,123 --> 00:06:56,208
 Jadzia.
 
-121
-00:06:56,281 --> 00:06:57,613
+120
+00:06:56,250 --> 00:06:57,751
 That's a pretty name.
 
-122
-00:06:57,650 --> 00:06:59,483
+121
+00:06:57,792 --> 00:06:59,586
 What is that, Dutch?
 
-123
-00:06:59,520 --> 00:07:01,149
+122
+00:06:59,627 --> 00:07:01,171
 Ah, something like that.
 
-124
-00:07:01,190 --> 00:07:03,387
+123
+00:07:01,213 --> 00:07:03,715
 It's very kind of you
 to help me.
 
-125
-00:07:03,428 --> 00:07:04,555
+124
+00:07:03,757 --> 00:07:05,592
 Oh, don't mention it.
 
+125
+00:07:05,633 --> 00:07:08,469
+It's not every day that I get
+to rescue a damsel in distress.
+
 126
-00:07:04,597 --> 00:07:05,895
-It's not every day
-
-127
-00:07:05,934 --> 00:07:08,097
-that I get to rescue
-a damsel in distress.
-
-128
-00:07:08,138 --> 00:07:09,698
+00:07:08,511 --> 00:07:09,971
 Let me help you.
 
-129
-00:07:16,554 --> 00:07:18,387
+127
+00:07:16,686 --> 00:07:18,563
 It's just this way.
 
-130
-00:07:29,880 --> 00:07:31,850
+128
+00:07:29,908 --> 00:07:31,826
 Check the Heisenberg
 compensators.
 
-131
-00:07:31,884 --> 00:07:34,685
+129
+00:07:31,868 --> 00:07:35,122
 I'll run a level-1 diagnostic
 of the pattern buffers.
 
-132
-00:07:34,724 --> 00:07:36,694
-See if there was
-any kind of field imbalance.
+130
+00:07:35,163 --> 00:07:37,082
+See if there was any
+kind of field imbalance.
 
-133
-00:07:36,728 --> 00:07:37,718
+131
+00:07:37,124 --> 00:07:38,583
 Chief?
 
-134
-00:07:37,763 --> 00:07:38,788
-Any news from Starfleet?
+132
+00:07:38,625 --> 00:07:40,419
+- Any news from Starfleet?
+- Nothing good.
 
-135
-00:07:38,832 --> 00:07:39,925
-Nothing good.
-
-136
-00:07:39,968 --> 00:07:41,995
+133
+00:07:40,460 --> 00:07:41,878
 As far as they can tell,
 Commander Sisko and the others
 
-137
-00:07:42,039 --> 00:07:44,407
+134
+00:07:41,920 --> 00:07:44,505
 never materialized
 in San Francisco.
 
-138
-00:07:44,443 --> 00:07:46,106
-According to their sensors
+135
+00:07:44,547 --> 00:07:46,341
+According to
+their sensors
 
-139
-00:07:46,147 --> 00:07:48,310
+136
+00:07:46,383 --> 00:07:48,385
 our transporter signal
 disintegrated
 
-140
-00:07:48,418 --> 00:07:50,718
+137
+00:07:48,427 --> 00:07:50,887
 immediately after we began
 the beam-out sequence.
 
-141
-00:07:50,756 --> 00:07:52,623
+138
+00:07:50,929 --> 00:07:53,014
 That doesn't agree
 with our records.
 
-142
-00:07:52,659 --> 00:07:53,718
+139
+00:07:53,056 --> 00:07:54,474
 The system log shows
 
-143
-00:07:53,762 --> 00:07:55,823
+140
+00:07:54,515 --> 00:07:56,393
 that the transport
 was successfully completed.
 
-144
-00:07:55,866 --> 00:07:57,597
+141
+00:07:56,435 --> 00:07:57,602
 They definitely
 materialized somewhere.
 
-145
-00:07:57,636 --> 00:07:58,968
-Well, that's good news, anyway
+142
+00:07:57,644 --> 00:07:59,187
+Well, that's
+good news, anyway
 
-146
-00:07:59,006 --> 00:08:00,532
-but the question is,
-where?
+143
+00:07:59,229 --> 00:08:01,815
+- but the question is, where?
+- Oh, I wish I knew.
 
-147
-00:08:00,575 --> 00:08:01,668
-Oh, I wish I knew.
-
-148
-00:08:01,711 --> 00:08:04,113
+144
+00:08:01,856 --> 00:08:04,943
 Whatever the answer is,
 it's not in the log.
 
-149
-00:08:04,150 --> 00:08:05,983
-The only unusual thing
-it recorded
+145
+00:08:04,985 --> 00:08:07,946
+The only unusual thing it
+recorded was the variance
 
-150
-00:08:06,020 --> 00:08:08,890
-was the variance in the annular
+146
+00:08:07,988 --> 00:08:09,323
+in the annular
 confinement beam.
 
-151
-00:08:08,925 --> 00:08:10,291
+147
+00:08:09,364 --> 00:08:10,615
 But you corrected for that.
 
-152
-00:08:10,362 --> 00:08:11,591
+148
+00:08:10,657 --> 00:08:12,451
 It was a simple adjustment.
 
-153
-00:08:11,631 --> 00:08:13,692
+149
+00:08:12,492 --> 00:08:14,161
 The beam was just reacting
 to the accumulation
 
-154
-00:08:13,735 --> 00:08:15,671
+150
+00:08:14,202 --> 00:08:15,996
 of chroniton particles
 on the ship's hull.
 
-155
-00:08:15,705 --> 00:08:17,937
+151
+00:08:16,037 --> 00:08:17,372
 Chroniton particles?
 
-156
-00:08:17,976 --> 00:08:19,502
+152
+00:08:17,414 --> 00:08:19,458
 They're emitted
 by the cloaking device.
 
-157
-00:08:19,547 --> 00:08:20,708
+153
+00:08:19,499 --> 00:08:20,792
 They sometimes become lodged
 
-158
-00:08:20,749 --> 00:08:22,275
+154
+00:08:20,834 --> 00:08:22,502
 in the ship's ablative
 armor matrix.
 
-159
-00:08:22,319 --> 00:08:23,982
+155
+00:08:22,543 --> 00:08:24,296
 But we've used the transporter
 
-160
-00:08:24,023 --> 00:08:26,186
+156
+00:08:24,338 --> 00:08:26,131
 many times since the cloaking
 device was installed.
 
-161
-00:08:26,227 --> 00:08:28,197
+157
+00:08:26,173 --> 00:08:28,425
 There's never been
 a problem before.
 
-162
-00:08:28,231 --> 00:08:30,724
-I don't know
-why there should be one now.
+158
+00:08:28,467 --> 00:08:30,927
+I don't know why
+there should be one now.
 
-163
-00:08:30,769 --> 00:08:32,329
+159
+00:08:30,969 --> 00:08:32,637
 Wait a minute.
 
-164
-00:08:32,439 --> 00:08:35,673
-It looks like there was a surge
-in temporal energy
+160
+00:08:32,679 --> 00:08:34,139
+It looks like there was
 
-165
-00:08:35,712 --> 00:08:37,875
+161
+00:08:34,181 --> 00:08:35,849
+a surge in temporal energy
+
+162
+00:08:35,890 --> 00:08:38,810
 seconds before the initiation
 of the transporter sequence.
 
-166
-00:08:37,916 --> 00:08:39,715
+163
+00:08:38,852 --> 00:08:39,894
 Tell me that's a clue.
 
-167
-00:08:39,753 --> 00:08:41,723
+164
+00:08:39,936 --> 00:08:41,771
 Oh, it's a clue, all right.
 
-168
-00:08:41,757 --> 00:08:43,454
+165
+00:08:41,813 --> 00:08:43,648
 I just don't know
 what it means yet.
 
-169
-00:08:57,890 --> 00:08:59,017
+166
+00:08:58,079 --> 00:08:59,080
+BASHIR:
 How do you feel?
 
-170
-00:08:59,059 --> 00:09:00,322
+167
+00:08:59,122 --> 00:09:00,248
 Better.
 
-171
-00:09:00,362 --> 00:09:01,421
+168
+00:09:00,290 --> 00:09:01,541
 Me, too.
 
-172
-00:09:01,464 --> 00:09:02,727
-Probably transporter shock.
+169
+00:09:01,582 --> 00:09:03,126
+Probably
+transporter shock.
 
-173
-00:09:02,766 --> 00:09:04,668
+170
+00:09:03,168 --> 00:09:04,836
 Disorienting, but it
 wears off quickly.
 
-174
-00:09:04,703 --> 00:09:05,671
-I know one thing.
+171
+00:09:04,878 --> 00:09:07,588
+I know one thing. We're
+definitely in San Francisco.
 
-175
-00:09:05,705 --> 00:09:06,866
-We're definitely
-in San Francisco.
+172
+00:09:07,630 --> 00:09:08,673
+I caught a glimpse of
+the Golden Gate Bridge
 
-176
-00:09:06,908 --> 00:09:08,434
-I caught a glimpse
-of the Golden Gate Bridge
-
-177
-00:09:08,478 --> 00:09:09,446
+173
+00:09:08,715 --> 00:09:09,757
 a few blocks back.
 
-178
-00:09:09,480 --> 00:09:10,812
+174
+00:09:09,799 --> 00:09:11,176
 I saw it, too.
 
-179
-00:09:10,849 --> 00:09:12,842
+175
+00:09:11,218 --> 00:09:13,345
 Do you know what happened
 to our combadges?
 
-180
-00:09:12,886 --> 00:09:15,483
+176
+00:09:13,387 --> 00:09:15,596
 They were probably stolen
 while we were unconscious.
 
-181
-00:09:15,525 --> 00:09:17,927
+177
+00:09:15,638 --> 00:09:18,058
 This is not the Earth
 we're used to, Doctor.
 
-182
-00:09:17,963 --> 00:09:20,365
+178
+00:09:18,099 --> 00:09:20,601
 That's still at least
 a century away.
 
-183
-00:09:20,468 --> 00:09:22,461
+179
+00:09:20,643 --> 00:09:23,021
 I wonder what happened to Dax.
 
-184
-00:09:22,506 --> 00:09:24,635
+180
+00:09:23,063 --> 00:09:24,898
 She was caught in the
 transporter beam with us.
 
-185
-00:09:24,677 --> 00:09:27,011
+181
+00:09:24,939 --> 00:09:27,108
 Whatever affected us,
 must have affected her, too.
 
-186
-00:09:27,048 --> 00:09:29,177
+182
+00:09:27,150 --> 00:09:29,361
 That means she's probably
 somewhere nearby.
 
-187
-00:09:29,220 --> 00:09:32,819
+183
+00:09:29,403 --> 00:09:33,114
 The first chance we get,
 we've got to find her.
 
-188
-00:09:32,859 --> 00:09:34,453
+184
+00:09:33,156 --> 00:09:34,699
 And then what?
 
-189
-00:09:35,865 --> 00:09:38,335
+185
+00:09:36,159 --> 00:09:38,453
 And then, we find a way home.
 
-190
-00:09:38,371 --> 00:09:40,364
-All right, let's go.
-Bring them.
+186
+00:09:38,495 --> 00:09:40,372
+VIN: All right, let's go.
+Bring 'em.
 
-191
-00:09:40,408 --> 00:09:42,537
+187
+00:09:40,414 --> 00:09:42,790
 Okay, let's go.
 Hurry it up.
 
-192
-00:09:44,717 --> 00:09:45,912
-Sonya's going to kill me.
+188
+00:09:44,792 --> 00:09:47,337
+- Sonya's going to kill me.
+- Eh.
 
-193
-00:09:45,952 --> 00:09:46,942
-Huh.
-
-194
-00:09:51,230 --> 00:09:53,200
+189
+00:09:51,341 --> 00:09:53,260
 What is this place?
 
-195
-00:09:53,234 --> 00:09:54,965
+190
+00:09:53,301 --> 00:09:55,136
 A Sanctuary District.
 
-196
-00:09:55,004 --> 00:09:58,705
-21st century history is
-not one of my strong points.
+191
+00:09:55,178 --> 00:09:58,890
+BASHIR: 21st century history
+is not one of my strong points.
 
-197
-00:09:58,745 --> 00:10:00,374
+192
+00:09:58,932 --> 00:10:00,434
 Too depressing.
 
-198
-00:10:00,415 --> 00:10:02,112
-It's been a hobby of mine.
+193
+00:10:00,475 --> 00:10:02,102
+It's been a
+hobby of mine.
 
-199
-00:10:02,152 --> 00:10:03,917
-They made some ugly mistakes.
+194
+00:10:02,143 --> 00:10:05,063
+They made some
+ugly mistakes.
 
-200
-00:10:03,955 --> 00:10:05,686
+195
+00:10:05,105 --> 00:10:08,233
 But they also paved the way
+for a lot of things we now
+take for granted.
 
-201
-00:10:05,725 --> 00:10:08,322
-for a lot of things
-we now take for granted.
-
-202
-00:10:08,364 --> 00:10:11,393
-And I assume this is
+196
+00:10:08,275 --> 00:10:12,904
+- And I assume this is
 one of those mistakes.
+- A bad one.
 
-203
-00:10:11,437 --> 00:10:12,735
-A bad one.
-
-204
-00:10:12,773 --> 00:10:15,039
+197
+00:10:12,946 --> 00:10:15,115
 By the early 2020s,
 there was a place
 
-205
-00:10:15,077 --> 00:10:17,479
+198
+00:10:15,156 --> 00:10:17,658
 like this in every major
 city in the United States.
 
-206
-00:10:17,582 --> 00:10:19,347
-Why are these people in here?
+199
+00:10:17,700 --> 00:10:19,453
+Why are these
+people in here?
 
-207
-00:10:19,386 --> 00:10:20,479
+200
+00:10:19,494 --> 00:10:20,787
 Are they criminals?
 
-208
-00:10:20,555 --> 00:10:22,252
-No, people with criminal records
+201
+00:10:20,828 --> 00:10:22,372
+No, people with
+criminal records
 
-209
-00:10:22,292 --> 00:10:24,820
-weren't allowed
-in the Sanctuary Districts.
+202
+00:10:22,414 --> 00:10:24,999
+weren't allowed in
+the Sanctuary Districts.
 
-210
-00:10:24,863 --> 00:10:27,994
+203
+00:10:25,041 --> 00:10:26,709
 Then what did they do
 to deserve this?
 
-211
-00:10:28,036 --> 00:10:29,129
+204
+00:10:26,751 --> 00:10:28,128
 Nothing.
 
-212
-00:10:29,173 --> 00:10:33,341
-Just people without jobs
-or places to live.
+205
+00:10:28,169 --> 00:10:30,338
+Just people...
 
-213
-00:10:33,381 --> 00:10:35,180
+206
+00:10:30,380 --> 00:10:32,549
+without jobs or
+places to live.
+
+207
+00:10:32,591 --> 00:10:35,135
 So, they get put in here?
 
-214
-00:10:35,218 --> 00:10:37,620
-Welcome to the 21st century,
-Doctor.
+208
+00:10:35,176 --> 00:10:37,762
+Welcome to the 21st
+century, Doctor.
 
-215
-00:10:37,656 --> 00:10:39,956
-Hold it right there.
+209
+00:10:37,804 --> 00:10:38,846
+VIN: Hold it right there.
 
-216
-00:10:39,993 --> 00:10:41,427
-You want to go home, go home.
-
-217
-00:10:41,464 --> 00:10:42,762
+210
+00:10:40,181 --> 00:10:42,892
+You wanna go home, go home.
 What do I care?
 
-218
-00:10:42,799 --> 00:10:44,290
+211
+00:10:42,934 --> 00:10:44,478
 Thanks, Vin.
 
-219
-00:10:47,007 --> 00:10:48,670
+212
+00:10:47,230 --> 00:10:48,856
 Shall we?
 
-220
-00:11:10,922 --> 00:11:12,049
+213
+00:11:08,335 --> 00:11:09,628
+(knocking)
+
+214
+00:11:11,171 --> 00:11:12,255
 Hi.
 
-221
-00:11:12,091 --> 00:11:15,325
-Sorry to keep you waiting.
+215
+00:11:13,672 --> 00:11:15,716
+Sorry to keep
+you waiting.
 
-222
-00:11:15,365 --> 00:11:17,858
-Were you able to order
-a new I. D?
+216
+00:11:15,758 --> 00:11:17,760
+Were you able
+to order a new I.D.?
 
-223
-00:11:17,903 --> 00:11:19,235
+217
+00:11:17,802 --> 00:11:19,971
 Just finished.
 
-224
-00:11:19,273 --> 00:11:21,300
+218
+00:11:20,013 --> 00:11:21,598
 It took me a while
 to convince them
 
-225
-00:11:21,343 --> 00:11:23,438
+219
+00:11:21,640 --> 00:11:23,517
 I was who I said I was.
 
-226
-00:11:23,481 --> 00:11:25,075
+220
+00:11:23,558 --> 00:11:25,768
 They'll be expressing
 a transit pass
 
-227
-00:11:25,117 --> 00:11:27,144
+221
+00:11:25,810 --> 00:11:27,228
 and a couple of credit
 chips in a few hours.
 
-228
-00:11:27,189 --> 00:11:28,521
+222
+00:11:27,270 --> 00:11:28,522
 I asked them to send it here.
 
-229
-00:11:28,558 --> 00:11:29,526
-I hope you don't mind.
+223
+00:11:28,563 --> 00:11:30,649
+- I hope you don't mind.
+- No problem.
 
-230
-00:11:29,560 --> 00:11:30,550
-No problem.
+224
+00:11:30,689 --> 00:11:34,611
+Thanks for letting me use your
+terminal and your account.
 
-231
-00:11:30,628 --> 00:11:32,188
-Thanks for letting me
+225
+00:11:37,864 --> 00:11:40,074
+You know, those are...
 
-232
-00:11:32,232 --> 00:11:34,395
-use your terminal
-and your account.
-
-233
-00:11:37,309 --> 00:11:42,445
-You know, those are
+226
+00:11:40,116 --> 00:11:42,494
 very unusual.
 
-234
-00:11:42,486 --> 00:11:44,422
+227
+00:11:42,536 --> 00:11:44,412
 Oh, you mean my tattoos?
 
-235
-00:11:44,456 --> 00:11:46,016
+228
+00:11:44,454 --> 00:11:45,955
 It is amazing work.
 
-236
-00:11:46,059 --> 00:11:47,585
+229
+00:11:45,997 --> 00:11:47,666
 Where did you have them done?
 Japan?
 
-237
-00:11:47,662 --> 00:11:49,153
+230
+00:11:47,706 --> 00:11:49,083
 How did you guess?
 
-238
-00:11:49,198 --> 00:11:51,361
+231
+00:11:49,125 --> 00:11:51,336
 Well, I used
 to have one myself.
 
-239
-00:11:51,403 --> 00:11:52,963
+232
+00:11:51,378 --> 00:11:52,920
 A Maori tribal pattern.
 
-240
-00:11:53,006 --> 00:11:55,203
+233
+00:11:52,962 --> 00:11:55,089
 It used to go all
 the way down my arm.
 
-241
-00:11:55,245 --> 00:11:57,613
+234
+00:11:55,131 --> 00:11:57,551
 I got it in high school,
 back in the '90s
 
-242
-00:11:57,649 --> 00:11:59,551
-just like everybody else.
+235
+00:11:57,592 --> 00:11:59,469
+just like
+everybody else.
 
-243
-00:11:59,586 --> 00:12:01,283
-Of course, I had
-to have it removed.
+236
+00:11:59,511 --> 00:12:01,346
+Of course, I had to have it
+removed.
 
-244
-00:12:01,323 --> 00:12:03,054
+237
+00:12:01,388 --> 00:12:03,097
 Well, you know how it is.
 
-245
-00:12:03,093 --> 00:12:06,293
-To get the government contracts,
+238
+00:12:03,139 --> 00:12:06,309
+To get the government contracts
 you have to look like
 
-246
-00:12:06,333 --> 00:12:08,326
+239
+00:12:06,351 --> 00:12:08,269
 all the rest of the drones.
 
-247
-00:12:08,371 --> 00:12:10,568
-So I guess
-that makes me a sellout.
+240
+00:12:08,311 --> 00:12:10,813
+So I guess that
+makes me a sellout.
 
-248
-00:12:10,675 --> 00:12:12,143
+241
+00:12:10,855 --> 00:12:13,024
 Not necessarily.
 
-249
-00:12:12,177 --> 00:12:14,579
+242
+00:12:13,066 --> 00:12:14,651
 What kind of business do you do?
 
-250
-00:12:14,683 --> 00:12:16,015
+243
+00:12:14,693 --> 00:12:15,943
 You don't know?
 
-251
-00:12:16,052 --> 00:12:17,715
+244
+00:12:15,985 --> 00:12:17,904
 Mm-mm.
 
-252
-00:12:19,660 --> 00:12:22,826
-Well, I guess
-I'll have to have a talk
+245
+00:12:19,698 --> 00:12:22,825
+Well, I guess I'll
+have to have a talk
 
-253
-00:12:22,866 --> 00:12:25,268
+246
+00:12:22,867 --> 00:12:25,203
 with my public relations people.
 
-254
-00:12:25,305 --> 00:12:27,104
+247
+00:12:25,245 --> 00:12:27,121
 I'm Chris Brynner...
 
-255
-00:12:27,141 --> 00:12:30,477
-Brynner Information Systems.
+248
+00:12:27,163 --> 00:12:30,417
+Brynner Information
+Systems.
 
-256
-00:12:30,515 --> 00:12:34,455
-You know, Interface operations,
+249
+00:12:30,458 --> 00:12:32,877
+You know,
+Interface operations
+
+250
+00:12:32,919 --> 00:12:34,379
 Net access, Channel 90.
 
-257
-00:12:34,489 --> 00:12:37,359
-That Chris Brynner.
+251
+00:12:34,421 --> 00:12:37,298
+<i>That</i> Chris Brynner.
 
-258
-00:12:40,133 --> 00:12:41,624
+252
+00:12:38,883 --> 00:12:40,009
+(chuckles)
+
+253
+00:12:40,051 --> 00:12:41,720
 So, what do you think?
 
-259
-00:12:41,704 --> 00:12:43,833
+254
+00:12:41,760 --> 00:12:43,680
 Does that make me
 a sellout or not?
 
-260
-00:12:43,874 --> 00:12:47,541
-Probably, but I won't hold it
-against you.
+255
+00:12:43,722 --> 00:12:47,684
+Probably, but I won't
+hold it against you.
 
-261
-00:12:47,582 --> 00:12:51,249
+256
+00:12:50,144 --> 00:12:52,480
 These friends of yours
 that you told me about...
 
-262
-00:12:51,290 --> 00:12:54,889
+257
+00:12:52,522 --> 00:12:54,982
 is there any way for you
 to get ahold of them?
 
-263
-00:12:56,834 --> 00:12:58,827
+258
+00:12:56,901 --> 00:12:59,028
 I wish I could.
 
-264
-00:13:06,152 --> 00:13:07,643
-Left hand.
+259
+00:13:06,160 --> 00:13:07,870
+VIN: Left hand.
 
-265
-00:13:11,830 --> 00:13:13,823
+260
+00:13:11,916 --> 00:13:14,085
 Other hand.
 
-266
-00:13:18,209 --> 00:13:19,700
+261
+00:13:18,214 --> 00:13:19,924
 Look straight ahead.
 
-267
-00:13:21,049 --> 00:13:23,212
+262
+00:13:21,008 --> 00:13:23,303
 Now stand over here.
 
-268
-00:13:27,896 --> 00:13:31,859
-Welcome to SafeTech's
-fingerprint database.
+263
+00:13:28,975 --> 00:13:32,479
+COMPUTER:<i> Welcome to SafeTech's</i>
+<i>fingerprint database.</i>
 
-269
-00:13:31,904 --> 00:13:35,674
-Your government discount
-has been accepted.
+264
+00:13:32,520 --> 00:13:35,649
+<i>Your government discount</i>
+<i>has been accepted.</i>
 
-270
-00:13:35,712 --> 00:13:37,642
-Remember,
-our new retinal scan service
+265
+00:13:35,690 --> 00:13:38,151
+<i>Remember, our new</i>
+<i>retinal scan service</i>
 
-271
-00:13:37,775 --> 00:13:40,211
-is now accessible
-on Channel 178.
+266
+00:13:38,192 --> 00:13:40,819
+<i>is now accessible</i>
+<i>on Channel 178.</i>
 
-272
-00:13:40,246 --> 00:13:42,580
+267
+00:13:40,861 --> 00:13:43,323
 Yeah, yeah,
 save the commercial.
 
-273
-00:13:45,256 --> 00:13:46,850
-We are sorry
+268
+00:13:45,450 --> 00:13:47,327
+COMPUTER:
+<i>We are sorry</i>
 
-274
-00:13:46,893 --> 00:13:49,729
-but the fingerprints you have
-provided are not on record.
+269
+00:13:47,368 --> 00:13:49,870
+<i>but the fingerprints you have</i>
+<i>provided are not on record.</i>
 
-275
-00:13:49,766 --> 00:13:52,704
-No I.D.,
-no fingerprint record
+270
+00:13:49,912 --> 00:13:51,289
+No I.D.
 
-276
-00:13:52,739 --> 00:13:54,139
+271
+00:13:51,331 --> 00:13:54,668
+No fingerprint record,
 no Interface account.
 
-277
-00:13:54,174 --> 00:13:57,146
+272
+00:13:54,709 --> 00:13:57,629
 It's like you two don't exist.
 
-278
-00:13:57,180 --> 00:13:59,616
+273
+00:13:57,671 --> 00:14:00,173
 Well, since we don't exist,
 why not let us go?
 
-279
-00:13:59,652 --> 00:14:01,588
+274
+00:14:00,214 --> 00:14:02,216
 Yeah, well, let's see.
 
-280
-00:14:01,623 --> 00:14:04,561
+275
+00:14:02,258 --> 00:14:05,136
 You don't have any I.D.,
 you don't have any money
 
-281
-00:14:04,596 --> 00:14:06,759
+276
+00:14:05,178 --> 00:14:07,347
 and you're both
 dressed like clowns.
 
-282
-00:14:06,800 --> 00:14:08,827
+277
+00:14:07,388 --> 00:14:09,432
 You figure it out.
 
-283
-00:14:08,871 --> 00:14:10,738
+278
+00:14:09,474 --> 00:14:11,225
 Please fill out these forms.
 
-284
-00:14:10,775 --> 00:14:12,711
+279
+00:14:11,267 --> 00:14:13,269
 Answer all questions
 to the best of your ability.
 
-285
-00:14:12,745 --> 00:14:15,181
+280
+00:14:13,311 --> 00:14:15,689
 If you cannot speak English,
 an interpreter will be provided.
 
-286
-00:14:15,216 --> 00:14:18,279
+281
+00:14:15,730 --> 00:14:17,856
 If you cannot read, questions
 will be given to you verbally.
 
-287
-00:14:18,322 --> 00:14:20,656
+282
+00:14:17,898 --> 00:14:19,776
 If there's any part of this form
 you do not understand
 
-288
-00:14:20,694 --> 00:14:22,220
+283
+00:14:19,818 --> 00:14:21,319
 ask one of our staff
 for assistance.
 
-289
-00:14:22,264 --> 00:14:25,202
+284
+00:14:21,361 --> 00:14:25,031
 Now, sit down, shut up
 and fill out the forms.
 
-290
-00:14:25,236 --> 00:14:27,799
+285
+00:14:25,072 --> 00:14:28,368
 And if you've got any problems,
 don't come to me with them.
 
-291
-00:14:27,842 --> 00:14:30,039
+286
+00:14:28,409 --> 00:14:30,662
 Thank you...
 
-292
-00:14:30,079 --> 00:14:31,946
+287
+00:14:30,704 --> 00:14:32,664
 very much.
 
-293
-00:14:37,628 --> 00:14:39,530
+288
+00:14:38,085 --> 00:14:40,338
 Tell Admiral Ngomo
 I appreciate her offer
 
-294
-00:14:39,566 --> 00:14:41,729
+289
+00:14:40,380 --> 00:14:42,006
 but I don't want anyone
 beaming onto this ship
 
-295
-00:14:41,770 --> 00:14:43,170
-until we know what's going on.
+290
+00:14:42,048 --> 00:14:43,550
+until we know
+what's going on.
 
-296
-00:14:43,206 --> 00:14:45,676
+291
+00:14:43,591 --> 00:14:46,219
 If they want to come up
 by shuttle, that's fine.
 
-297
-00:14:47,715 --> 00:14:49,810
-Major, I think
-I know what happened
+292
+00:14:48,179 --> 00:14:52,392
+Major, I think I know what
+happened to Commander
+Sisko and the others.
 
-298
-00:14:49,853 --> 00:14:51,948
-to Commander Sisko
-and the others.
-
-299
-00:14:51,990 --> 00:14:54,017
+293
+00:14:52,433 --> 00:14:56,229
 The temporal surge we detected
-
-300
-00:14:54,061 --> 00:14:57,522
 was caused by an explosion
-of a microscopic singularity
 
-301
-00:14:57,568 --> 00:14:59,435
+294
+00:14:56,270 --> 00:14:58,022
+of a microscopic
+singularity
+
+295
+00:14:58,064 --> 00:14:59,482
 passing through
 this solar system.
 
-302
-00:14:59,472 --> 00:15:00,633
+296
+00:14:59,524 --> 00:15:01,359
 Somehow, the energy emitted
 
+297
+00:15:01,401 --> 00:15:03,319
+by this singularity
+shifted the chroniton
+
+298
+00:15:03,361 --> 00:15:05,572
+particles in our hull
+into a high state
+
+299
+00:15:05,613 --> 00:15:08,115
+- of temporal polarization.
+- Which means what?
+
+300
+00:15:08,157 --> 00:15:10,910
+Which means the transporter
+beam was redirected
+
+301
+00:15:10,951 --> 00:15:12,620
+as it passed through
+the polarized particles.
+
+302
+00:15:12,662 --> 00:15:14,831
+- Redirected where?
+- Not where...
+
 303
-00:15:00,674 --> 00:15:02,871
-by this singularity shifted
-the chroniton particles
+00:15:14,873 --> 00:15:16,290
+<i>...when.</i>
 
 304
-00:15:02,912 --> 00:15:06,818
-in our hull into a high state
-of temporal polarization.
-
-305
-00:15:06,853 --> 00:15:08,321
-Which means what?
-
-306
-00:15:08,356 --> 00:15:10,292
-Which means the transporter beam
-was redirected
-
-307
-00:15:10,326 --> 00:15:12,228
-as it passed
-through the polarized particles.
-
-308
-00:15:12,264 --> 00:15:14,257
-Redirected where?
-
-309
-00:15:14,301 --> 00:15:15,769
-Not where... when.
-
-310
-00:15:15,804 --> 00:15:18,742
+00:15:16,332 --> 00:15:20,294
 The beam was redirected
 through time, not space.
 
-311
-00:15:18,777 --> 00:15:21,578
+305
+00:15:20,336 --> 00:15:22,004
 They arrived in San Francisco,
 just like they were supposed to.
 
-312
-00:15:21,616 --> 00:15:24,281
-But not when
-they were supposed to.
+306
+00:15:22,046 --> 00:15:24,799
+But not<i> when</i> they
+were supposed to.
 
-313
-00:15:24,321 --> 00:15:28,022
+307
+00:15:24,841 --> 00:15:28,511
 How much time are we
-talking about... days, weeks?
+talking about-- days, weeks?
 
-314
-00:15:28,062 --> 00:15:30,590
+308
+00:15:28,553 --> 00:15:31,222
 More like centuries.
 
-315
-00:15:49,237 --> 00:15:50,330
+309
+00:15:49,741 --> 00:15:51,075
 This is ridiculous.
 
-316
-00:15:50,373 --> 00:15:52,366
+310
+00:15:51,117 --> 00:15:52,911
 I mean, we've
 been here three hours
 
-317
-00:15:52,410 --> 00:15:54,539
+311
+00:15:52,952 --> 00:15:54,954
 and the line has
 barely moved at all.
 
-318
-00:15:54,582 --> 00:15:58,249
-I got one word for you, pal...
+312
+00:15:54,995 --> 00:15:56,956
+I got one word
+for you, pal--
+
+313
+00:15:56,997 --> 00:15:58,708
 plenty of overtime.
 
-319
-00:15:58,289 --> 00:15:59,883
+314
+00:15:58,750 --> 00:16:00,209
 That's three words.
 
-320
-00:15:59,926 --> 00:16:01,828
+315
+00:16:00,251 --> 00:16:02,462
 Hey, for a dim,
 you're pretty smart.
 
-321
-00:16:01,863 --> 00:16:03,297
+316
+00:16:02,503 --> 00:16:04,130
 Now, go back and take a seat.
 
-322
-00:16:06,706 --> 00:16:09,108
+317
+00:16:07,341 --> 00:16:08,509
 Oh, boy.
 
-323
-00:16:35,597 --> 00:16:38,398
+318
+00:16:31,950 --> 00:16:34,535
+- (sighs)
+- (woman shouting, indistinct)
+
+319
+00:16:36,162 --> 00:16:38,998
 Some of these people
 are mentally ill.
 
-324
-00:16:38,436 --> 00:16:40,736
+320
+00:16:39,039 --> 00:16:41,292
 They need proper
 medical treatment.
 
-325
-00:16:40,774 --> 00:16:42,767
+321
+00:16:41,334 --> 00:16:43,377
 I know, but they're
 not going to get it.
 
-326
-00:16:42,812 --> 00:16:44,041
+322
+00:16:43,419 --> 00:16:44,796
 Not now anyway.
 
-327
-00:16:46,151 --> 00:16:48,178
+323
+00:16:46,881 --> 00:16:48,675
 What? What is it?
 
-328
-00:16:48,289 --> 00:16:50,020
-That calendar over there...
+324
+00:16:48,716 --> 00:16:52,303
+SISKO: That calendar over
+there-- it says August 30, 2024.
 
-329
-00:16:50,059 --> 00:16:51,892
-it says August 30, 2024.
-
-330
-00:16:51,930 --> 00:16:53,125
+325
+00:16:52,345 --> 00:16:53,847
 I'm not sure I understand.
 
-331
-00:16:53,165 --> 00:16:54,656
-You ever hear of the Bell Riots?
+326
+00:16:53,888 --> 00:16:54,722
+You ever hear of
+the Bell Riots?
 
-332
-00:16:54,702 --> 00:16:55,931
+327
+00:16:54,764 --> 00:16:56,223
 Vaguely.
 
-333
-00:16:55,971 --> 00:16:58,407
+328
+00:16:56,265 --> 00:16:58,768
 It is one of the most
 violent civil disturbances
 
-334
-00:16:58,442 --> 00:16:59,432
-in American history
-
-335
-00:16:59,478 --> 00:17:01,710
-and it happened right here...
+329
+00:16:58,810 --> 00:17:02,104
+in American history and
+it happened right here,
 San Francisco
 
-336
-00:17:01,749 --> 00:17:03,343
+330
+00:17:02,146 --> 00:17:03,648
 Sanctuary District "A"
 
-337
-00:17:03,385 --> 00:17:05,719
-the first week of September,
-2024.
+331
+00:17:03,690 --> 00:17:06,317
+the first week of
+September, 2024.
 
-338
-00:17:05,757 --> 00:17:08,558
+332
+00:17:06,359 --> 00:17:08,152
 But that's only
 a few days from now.
 
-339
-00:17:08,597 --> 00:17:10,726
+333
+00:17:08,194 --> 00:17:11,238
 Which means if we don't
 get out of here soon
 
-340
-00:17:10,767 --> 00:17:13,500
-we'll be caught
-right in the middle of it.
+334
+00:17:11,280 --> 00:17:13,992
+we'll be caught right
+in the middle of it.
 
-341
-00:17:23,325 --> 00:17:26,695
+335
+00:17:23,668 --> 00:17:27,338
 Just how bad are these riots
 going to be, Commander?
 
-342
-00:17:26,733 --> 00:17:28,201
+336
+00:17:27,380 --> 00:17:29,549
 Bad.
 
-343
-00:17:28,235 --> 00:17:31,469
+337
+00:17:29,590 --> 00:17:32,051
 The Sanctuary residents
 will take over the district.
 
-344
-00:17:31,508 --> 00:17:33,307
+338
+00:17:32,092 --> 00:17:34,136
 Some of the guards
 will be taken hostage.
 
-345
-00:17:33,345 --> 00:17:36,579
+339
+00:17:34,178 --> 00:17:36,890
 The government will send
 in troops to restore order.
 
-346
-00:17:36,619 --> 00:17:39,557
+340
+00:17:36,931 --> 00:17:39,934
 Hundreds of Sanctuary
 residents will be killed.
 
-347
-00:17:39,592 --> 00:17:41,083
+341
+00:17:39,976 --> 00:17:41,686
 Hundreds?
 
-348
-00:17:43,098 --> 00:17:45,398
+342
+00:17:43,563 --> 00:17:45,899
 And there's nothing
 we can do to prevent it.
 
-349
-00:17:45,436 --> 00:17:48,374
+343
+00:17:45,940 --> 00:17:48,651
 Starfleet temporal
 displacement policy
 
-350
-00:17:48,409 --> 00:17:49,877
-may sound good in the classroom
+344
+00:17:48,693 --> 00:17:50,444
+may sound good
+in the classroom
 
-351
-00:17:49,912 --> 00:17:52,645
+345
+00:17:50,486 --> 00:17:53,031
 but to know that hundreds
 of people are going to die
 
-352
-00:17:52,685 --> 00:17:56,489
+346
+00:17:53,072 --> 00:17:56,910
 and to not be able to do
 a thing to save them.
 
-353
-00:17:56,525 --> 00:18:00,761
+347
+00:17:56,951 --> 00:18:01,039
 I sympathize, Doctor, but if it
 will make you feel any better
 
-354
-00:18:00,801 --> 00:18:03,294
+348
+00:18:01,080 --> 00:18:03,917
 the riots will be one
 of the watershed events
 
-355
-00:18:03,339 --> 00:18:05,036
+349
+00:18:03,958 --> 00:18:05,626
 of the 21st century.
 
-356
-00:18:05,076 --> 00:18:07,137
+350
+00:18:05,668 --> 00:18:07,336
 Gabriel Bell will see to that.
 
-357
-00:18:07,180 --> 00:18:08,307
-Bell?
-
-358
-00:18:08,349 --> 00:18:09,909
-The man they named
+351
+00:18:07,378 --> 00:18:10,172
+- Bell?
+- The man they named
 the riots after.
 
-359
-00:18:09,952 --> 00:18:12,149
-He is one
-of the Sanctuary residents
+352
+00:18:10,214 --> 00:18:12,299
+He is one of the
+Sanctuary residents
 
-360
-00:18:12,190 --> 00:18:14,217
+353
+00:18:12,341 --> 00:18:14,468
 who will be guarding
 the hostages.
 
-361
-00:18:14,327 --> 00:18:16,320
+354
+00:18:14,510 --> 00:18:16,470
 The government troops
 will storm this place
 
-362
-00:18:16,365 --> 00:18:18,494
+355
+00:18:16,512 --> 00:18:18,765
 based on rumors that the
 hostages have been killed.
 
-363
-00:18:18,535 --> 00:18:22,134
-It turns out
-the hostages were never harmed
+356
+00:18:18,806 --> 00:18:22,184
+It turns out the hostages
+were never harmed
 
-364
-00:18:22,176 --> 00:18:23,873
+357
+00:18:22,226 --> 00:18:24,144
 because of Gabriel Bell.
 
-365
-00:18:23,913 --> 00:18:27,717
+358
+00:18:24,186 --> 00:18:27,899
 In the end, Bell sacrifices
 his own life to save them.
 
-366
-00:18:27,755 --> 00:18:30,089
+359
+00:18:27,941 --> 00:18:30,317
 He'll become a national hero.
 
-367
-00:18:30,126 --> 00:18:32,119
-Outrage over his death
-and the death
+360
+00:18:30,359 --> 00:18:35,197
+Outrage over his death and the
+death of the other residents
 
-368
-00:18:32,163 --> 00:18:34,964
-of the other residents
+361
+00:18:35,239 --> 00:18:37,283
 will change public opinion
-
-369
-00:18:35,002 --> 00:18:36,470
 about the Sanctuaries.
 
-370
-00:18:36,505 --> 00:18:37,905
+362
+00:18:37,324 --> 00:18:39,368
 They'll be torn down.
 
-371
-00:18:37,941 --> 00:18:40,002
-And the United States
-will finally begin
+363
+00:18:39,410 --> 00:18:42,413
+And the United States will
+finally begin correcting
+the social problems
 
-372
-00:18:40,046 --> 00:18:42,209
-correcting the social problems
-
-373
-00:18:42,250 --> 00:18:44,813
+364
+00:18:42,455 --> 00:18:45,124
 it had struggled with
 for over 100 years.
 
-374
-00:18:44,855 --> 00:18:47,952
-And all of this is going
-to happen in the next few days.
+365
+00:18:45,165 --> 00:18:47,794
+And all of this is going to
+happen in the next few days.
 
-375
-00:18:47,995 --> 00:18:50,967
-Which means, if we warn these
-people about what's coming
+366
+00:18:47,835 --> 00:18:49,253
+Which means...
 
-376
-00:18:51,001 --> 00:18:53,164
-if we try to help them
-in any way
+367
+00:18:49,295 --> 00:18:51,171
+if we warn these people
+about what's coming
 
-377
-00:18:53,205 --> 00:18:56,234
-we risk altering
-a pivotal moment in history
+368
+00:18:51,213 --> 00:18:53,466
+if we try to help
+them in any way
 
-378
-00:18:56,278 --> 00:18:59,911
+369
+00:18:53,507 --> 00:18:56,427
+we risk altering a pivotal
+moment in history
+
+370
+00:18:56,469 --> 00:18:59,764
 and we can't let that happen.
 
-379
-00:18:59,952 --> 00:19:01,113
-Hey, I hate to break up
+371
+00:18:59,806 --> 00:19:02,266
+Hey, I hate to break up your
+intimate conversation,
 
-380
-00:19:01,154 --> 00:19:03,147
-your intimate conversation,
+372
+00:19:02,308 --> 00:19:03,434
 but you're next.
 
-381
-00:19:19,157 --> 00:19:21,093
+373
+00:19:03,476 --> 00:19:06,062
+<i>(phone ringing)</i>
+
+374
+00:19:20,284 --> 00:19:22,078
 Is there something wrong?
 
-382
-00:19:21,128 --> 00:19:24,294
+375
+00:19:22,120 --> 00:19:25,289
 Well, according to these forms
 you're supposed to be dims
 
-383
-00:19:24,334 --> 00:19:25,632
+376
+00:19:25,331 --> 00:19:26,499
 but you're not, are you?
 
-384
-00:19:25,670 --> 00:19:27,765
-I hope you're not disappointed.
+377
+00:19:26,540 --> 00:19:27,959
+I hope you're
+not disappointed.
 
-385
-00:19:27,808 --> 00:19:29,778
+378
+00:19:28,001 --> 00:19:30,753
 Pleasantly surprised
 is more like it.
 
-386
-00:19:29,812 --> 00:19:31,303
+379
+00:19:30,795 --> 00:19:32,755
 I guess I owe you an apology.
 
-387
-00:19:31,415 --> 00:19:34,251
-If I had known you were gimmes,
-I could've processed
+380
+00:19:32,797 --> 00:19:34,507
+If I had known you were
+gimmes I could've processed
 
-388
-00:19:34,287 --> 00:19:36,314
+381
+00:19:34,548 --> 00:19:36,801
 your application much sooner.
 
-389
-00:19:36,425 --> 00:19:37,324
+382
+00:19:36,843 --> 00:19:38,011
 Gimmes?
 
-390
-00:19:37,427 --> 00:19:39,090
-They're American slang terms.
+383
+00:19:38,052 --> 00:19:39,386
+They're American
+slang terms.
 
-391
-00:19:39,130 --> 00:19:41,623
-I try not to use them,
+384
+00:19:39,428 --> 00:19:40,513
+I try not to use them
+
+385
+00:19:40,554 --> 00:19:42,598
 but it's a bad habit.
 
-392
-00:19:41,668 --> 00:19:45,072
+386
+00:19:42,640 --> 00:19:45,351
 Gimmes are people like you,
 people who are looking for help.
 
-393
-00:19:45,109 --> 00:19:46,577
+387
+00:19:45,392 --> 00:19:46,894
 A job, a place to live.
 
-394
-00:19:46,611 --> 00:19:48,513
+388
+00:19:46,936 --> 00:19:48,521
 And what about the dims?
 
-395
-00:19:48,549 --> 00:19:50,314
+389
+00:19:48,562 --> 00:19:50,690
 Don't they need help?
 
-396
-00:19:50,352 --> 00:19:51,878
+390
+00:19:50,731 --> 00:19:52,232
 The dims should be in hospitals
 
-397
-00:19:51,923 --> 00:19:54,359
+391
+00:19:52,274 --> 00:19:54,401
 but the government can't
-afford to keep them there
+afford to keep them there,
 
-398
-00:19:54,461 --> 00:19:55,622
+392
+00:19:54,443 --> 00:19:55,903
 so we get them instead.
 
-399
-00:19:55,663 --> 00:19:58,464
-I hate it,
-but that's the way it is.
+393
+00:19:55,945 --> 00:19:58,781
+I hate it, but that's
+the way it is.
 
-400
-00:19:58,502 --> 00:20:01,941
+394
+00:19:58,823 --> 00:20:02,242
 I see here that you both have
 just arrived in San Francisco.
 
-401
-00:20:01,976 --> 00:20:03,553
+395
+00:20:02,284 --> 00:20:03,953
 Do you have any jobs lined up?
 
-402
-00:20:03,685 --> 00:20:05,814
+396
+00:20:03,995 --> 00:20:06,372
 No. Um, actually,
 we weren't planning
 
-403
-00:20:05,857 --> 00:20:07,656
+397
+00:20:06,413 --> 00:20:08,082
 on staying here very long.
 
-404
-00:20:07,693 --> 00:20:10,358
+398
+00:20:08,124 --> 00:20:10,793
 Have you got a place to stay,
 or anyone who can vouch for you?
 
-405
-00:20:10,399 --> 00:20:13,998
+399
+00:20:10,835 --> 00:20:14,421
 No, we were traveling with
 a friend, but we were separated
 
-406
-00:20:14,040 --> 00:20:15,406
+400
+00:20:14,463 --> 00:20:16,049
 right after we arrived.
 
-407
-00:20:15,442 --> 00:20:17,776
+401
+00:20:16,090 --> 00:20:18,176
 You have any way of contacting
 this friend of yours?
 
-408
-00:20:17,814 --> 00:20:19,443
+402
+00:20:18,217 --> 00:20:19,886
 Not at the moment.
 
-409
-00:20:19,484 --> 00:20:20,645
+403
+00:20:19,927 --> 00:20:22,055
 Well, in that case
 
-410
-00:20:20,686 --> 00:20:23,522
+404
+00:20:22,096 --> 00:20:23,764
 I'm afraid you're going
 to have to stay here
 
-411
-00:20:23,558 --> 00:20:25,892
+405
+00:20:23,806 --> 00:20:26,308
 in the Sanctuary
 for the time being.
 
-412
-00:20:25,930 --> 00:20:27,057
+406
+00:20:26,350 --> 00:20:27,601
 You mean we can't leave?
 
-413
-00:20:27,099 --> 00:20:28,590
-It's for your own safety.
+407
+00:20:27,643 --> 00:20:28,936
+It's for your
+own safety.
 
-414
-00:20:28,635 --> 00:20:29,728
+408
+00:20:28,978 --> 00:20:30,146
 Really?
 
-415
-00:20:29,772 --> 00:20:31,240
+409
+00:20:30,188 --> 00:20:31,772
 And it's the law.
 
-416
-00:20:31,274 --> 00:20:32,800
-What about jobs?
+410
+00:20:31,814 --> 00:20:33,149
+SISKO: What about jobs?
 
-417
-00:20:32,844 --> 00:20:35,246
-How are we supposed
-to find a place to work
+411
+00:20:33,191 --> 00:20:35,693
+How are we supposed to
+find a place to work
 
-418
-00:20:35,349 --> 00:20:37,946
+412
+00:20:35,735 --> 00:20:38,278
 and somewhere to live
 if we're stuck in here?
 
-419
-00:20:37,988 --> 00:20:41,085
+413
+00:20:38,320 --> 00:20:41,365
 Well, one of the services
 we provide is job placement.
 
-420
-00:20:41,127 --> 00:20:43,029
+414
+00:20:41,407 --> 00:20:43,325
 And how long does
 that usually take?
 
-421
-00:20:43,065 --> 00:20:46,094
+415
+00:20:43,367 --> 00:20:46,412
 I wish I could give you
 a definite answer
 
-422
-00:20:46,137 --> 00:20:48,607
+416
+00:20:46,453 --> 00:20:48,915
 but jobs are hard
 to come by right now
 
-423
-00:20:48,642 --> 00:20:50,578
-what with the economy and all.
+417
+00:20:48,956 --> 00:20:50,875
+what with the
+economy and all.
 
-424
-00:20:50,612 --> 00:20:52,980
+418
+00:20:50,917 --> 00:20:53,377
 My advice is to be patient.
 
-425
-00:20:53,018 --> 00:20:55,581
+419
+00:20:53,419 --> 00:20:55,838
 In the meantime, take these.
 
-426
-00:20:55,622 --> 00:20:57,854
-They're your ration cards.
+420
+00:20:55,880 --> 00:20:58,132
+They're your
+ration cards.
 
-427
-00:20:57,894 --> 00:20:59,523
+421
+00:20:58,174 --> 00:20:59,884
 You can use them
 to get food and water
 
-428
-00:20:59,564 --> 00:21:01,796
+422
+00:20:59,926 --> 00:21:01,844
 at any of the distribution
 points in the district.
 
-429
-00:21:01,836 --> 00:21:03,134
+423
+00:21:01,886 --> 00:21:03,387
 Hang onto them.
 
-430
-00:21:03,171 --> 00:21:06,075
+424
+00:21:03,429 --> 00:21:06,432
 Where are we supposed to stay
 while we're here?
 
-431
-00:21:06,111 --> 00:21:07,579
+425
+00:21:06,473 --> 00:21:08,184
 Anywhere you like.
 
-432
-00:21:07,613 --> 00:21:10,141
+426
+00:21:08,226 --> 00:21:10,603
 The buildings in the district
 are there for everyone to use.
 
-433
-00:21:11,956 --> 00:21:14,222
+427
+00:21:12,396 --> 00:21:14,774
 Thanks for your help.
 
-434
-00:21:14,260 --> 00:21:15,889
+428
+00:21:14,815 --> 00:21:16,358
 One more thing.
 
-435
-00:21:15,930 --> 00:21:17,559
+429
+00:21:16,400 --> 00:21:17,818
 A little advice.
 
-436
-00:21:17,600 --> 00:21:19,627
-Stay away
-from district security.
+430
+00:21:17,860 --> 00:21:19,820
+Stay away from
+district security.
 
-437
-00:21:19,670 --> 00:21:21,833
-They've had
-their budget cut again.
+431
+00:21:19,862 --> 00:21:22,073
+They've had their
+budget cut again.
 
-438
-00:21:21,876 --> 00:21:24,108
+432
+00:21:22,115 --> 00:21:24,533
 They're overworked
 and underpaid.
 
-439
-00:21:24,147 --> 00:21:27,551
+433
+00:21:24,575 --> 00:21:27,787
 Just give them a lot of space,
 and watch out for ghosts.
 
-440
-00:21:27,586 --> 00:21:28,554
-Ghosts?
+434
+00:21:27,828 --> 00:21:29,914
+- Ghosts?
+- That's what we call people
 
-441
-00:21:28,588 --> 00:21:29,681
-That's what we call
+435
+00:21:29,956 --> 00:21:33,000
+who haven't integrated well
+into the Sanctuary.
 
-442
-00:21:29,724 --> 00:21:32,252
-people who haven't integrated
-well into the Sanctuary.
-
-443
-00:21:32,296 --> 00:21:33,856
+436
+00:21:33,042 --> 00:21:34,460
 They can be dangerous
 
-444
-00:21:33,900 --> 00:21:35,870
+437
+00:21:34,501 --> 00:21:36,378
 and they tend to prey
 on other residents.
 
-445
-00:21:37,006 --> 00:21:38,235
+438
+00:21:37,463 --> 00:21:38,714
 Thanks for the warning.
 
-446
-00:21:38,275 --> 00:21:39,801
+439
+00:21:38,756 --> 00:21:40,299
 We'll stay away from them.
 
-447
-00:21:43,718 --> 00:21:45,847
+440
+00:21:44,095 --> 00:21:46,346
 Dax to Sisko.
 
-448
-00:21:47,693 --> 00:21:48,661
+441
+00:21:47,765 --> 00:21:49,100
 Dax to Bashir.
 
-449
-00:21:48,695 --> 00:21:50,858
+442
+00:21:49,142 --> 00:21:51,351
 If you can hear me,
 please respond.
 
-450
-00:21:55,309 --> 00:21:56,938
+443
+00:21:55,815 --> 00:21:57,357
 Okay.
 
-451
-00:21:56,979 --> 00:21:59,074
-My assistant was able to get you
+444
+00:21:57,399 --> 00:21:59,526
+My assistant was
+able to get you
 
-452
-00:21:59,116 --> 00:22:02,111
+445
+00:21:59,568 --> 00:22:02,529
 a room at the Clift
 for the next five nights.
 
-453
-00:22:02,156 --> 00:22:04,058
-You didn't have to do that.
+446
+00:22:02,571 --> 00:22:04,073
+You didn't have
+to do that.
 
-454
-00:22:04,093 --> 00:22:06,120
-I know that, but I wanted to.
+447
+00:22:04,115 --> 00:22:06,575
+I know that,
+but I wanted to.
 
-455
-00:22:06,164 --> 00:22:07,963
-So, uh, what are your plans?
+448
+00:22:06,617 --> 00:22:09,245
+So, uh, what
+are your plans?
 
-456
-00:22:08,001 --> 00:22:10,802
-I still have to find my friends.
+449
+00:22:09,287 --> 00:22:11,122
+I still have to
+find my friends.
 
-457
-00:22:10,840 --> 00:22:12,639
-Well, I hope you don't mind
+450
+00:22:11,164 --> 00:22:13,040
+Well, I hope
+you don't mind
 
-458
-00:22:12,676 --> 00:22:14,202
+451
+00:22:13,082 --> 00:22:14,917
 but I had Britt
 do some checking.
 
-459
-00:22:14,247 --> 00:22:16,775
+452
+00:22:14,959 --> 00:22:17,003
 No one matching their
 descriptions has been admitted
 
-460
-00:22:16,818 --> 00:22:19,311
+453
+00:22:17,044 --> 00:22:18,337
 to any of the city hospitals
-or trauma wards.
 
-461
-00:22:19,390 --> 00:22:20,653
-That's good news.
+454
+00:22:18,378 --> 00:22:20,881
+- or trauma wards.
+- That's good news.
 
-462
-00:22:20,692 --> 00:22:23,994
+455
+00:22:20,923 --> 00:22:24,426
 Look, uh, I would like to know
 how this turns out.
 
-463
-00:22:24,033 --> 00:22:27,996
+456
+00:22:24,468 --> 00:22:28,181
 I'm having a little get-together
-here tomorrow in the office
+here tomorrow in the office,
 
-464
-00:22:28,041 --> 00:22:29,738
-and I'd like you to come...
+457
+00:22:28,222 --> 00:22:30,057
+and I'd like
+you to come--
 
-465
-00:22:29,777 --> 00:22:32,111
-if you want...
-you and your friends.
+458
+00:22:30,099 --> 00:22:31,642
+if you want-- you
+and your friends.
 
-466
-00:22:32,149 --> 00:22:33,709
+459
+00:22:31,684 --> 00:22:34,228
 I'd like that.
 
-467
-00:22:39,830 --> 00:22:41,298
+460
+00:22:40,276 --> 00:22:41,861
 Well, good luck.
 
-468
-00:22:41,334 --> 00:22:43,327
+461
+00:22:41,902 --> 00:22:43,779
 Thanks. I could use it.
 
-469
-00:22:49,417 --> 00:22:51,785
+462
+00:22:49,910 --> 00:22:52,038
 Whoa. You guys
 can't come in here.
 
-470
-00:22:51,821 --> 00:22:53,916
-We're just looking
+463
+00:22:52,079 --> 00:22:54,123
+BASHIR: We're just looking
 for somewhere to sleep.
 
-471
-00:22:53,960 --> 00:22:56,021
-Well, you're going to have
-to look someplace else.
+464
+00:22:54,165 --> 00:22:56,209
+Well, you're going to
+have to look someplace else.
 
-472
-00:22:56,064 --> 00:22:58,592
-Oh, let me guess...
+465
+00:22:56,250 --> 00:22:58,878
+Oh, let me guess--
 this building is full.
 
-473
-00:22:58,635 --> 00:22:59,864
+466
+00:22:58,919 --> 00:23:00,171
 Sorry.
 
-474
-00:23:01,874 --> 00:23:04,573
+467
+00:23:02,131 --> 00:23:04,758
 Every building we go to,
 it's the same story.
 
-475
-00:23:04,613 --> 00:23:06,173
-They can't all be full.
+468
+00:23:04,800 --> 00:23:06,552
+They can't<i> all</i> be full.
 
-476
-00:23:06,217 --> 00:23:07,480
+469
+00:23:06,593 --> 00:23:07,887
 Don't be so sure.
 
-477
-00:23:07,519 --> 00:23:08,953
+470
+00:23:07,928 --> 00:23:09,680
 One of the main complaints
 
-478
-00:23:08,990 --> 00:23:11,187
+471
+00:23:09,722 --> 00:23:11,473
 against the Sanctuary Districts
 was overcrowding.
 
-479
-00:23:11,227 --> 00:23:13,094
+472
+00:23:11,515 --> 00:23:13,517
 It got to the point
 where they didn't care
 
-480
-00:23:13,131 --> 00:23:14,760
+473
+00:23:13,559 --> 00:23:15,144
 how many people were in here.
 
-481
-00:23:14,800 --> 00:23:16,736
-They just wanted
-to keep them out of sight.
+474
+00:23:15,186 --> 00:23:16,896
+They just wanted to
+keep them out of sight.
 
-482
-00:23:16,771 --> 00:23:20,005
-And once they were out of sight,
-what then?
+475
+00:23:16,937 --> 00:23:20,440
+And once they were out
+of sight, what then?
 
-483
-00:23:21,447 --> 00:23:23,474
+476
+00:23:21,901 --> 00:23:24,611
 I mean, look at this man.
 
-484
-00:23:23,518 --> 00:23:26,957
+477
+00:23:24,653 --> 00:23:28,032
 There's no need for him
 to live like that.
 
-485
-00:23:26,992 --> 00:23:29,053
+478
+00:23:28,074 --> 00:23:29,658
 With the right medication
 
-486
-00:23:29,096 --> 00:23:31,066
+479
+00:23:29,700 --> 00:23:31,451
 he could lead a full
 and normal life.
 
-487
-00:23:31,100 --> 00:23:32,729
+480
+00:23:31,493 --> 00:23:32,995
 Maybe in our time.
 
-488
-00:23:32,770 --> 00:23:34,261
+481
+00:23:33,037 --> 00:23:34,705
 Not just in our time.
 
-489
-00:23:34,306 --> 00:23:37,073
+482
+00:23:34,747 --> 00:23:37,333
 There are any number
 of effective treatments
 
-490
-00:23:37,112 --> 00:23:39,913
+483
+00:23:37,375 --> 00:23:40,127
 for schizophrenia,
 even in this day and age.
 
-491
-00:23:39,951 --> 00:23:41,853
+484
+00:23:40,169 --> 00:23:42,171
 They could cure
 that man now, today
 
-492
-00:23:41,888 --> 00:23:43,356
+485
+00:23:42,213 --> 00:23:43,672
 if they gave a damn.
 
-493
-00:23:43,391 --> 00:23:45,691
+486
+00:23:43,714 --> 00:23:45,925
 It's not that they
-don't give a damn
+don't give a damn,
 
-494
-00:23:45,729 --> 00:23:47,722
+487
+00:23:45,966 --> 00:23:47,968
 they've just given up.
 
-495
-00:23:47,766 --> 00:23:53,141
+488
+00:23:48,010 --> 00:23:53,391
 The social problems they face
 seem too enormous to deal with.
 
-496
-00:23:53,178 --> 00:23:55,843
-Well, that only makes things
-worse.
+489
+00:23:53,431 --> 00:23:56,018
+Well, that only
+makes things worse.
 
-497
-00:23:55,882 --> 00:23:58,011
-Causing people to suffer
+490
+00:23:56,060 --> 00:23:58,312
+Causing people
+to suffer
 
-498
-00:23:58,054 --> 00:24:00,719
-because you hate them
-is terrible
+491
+00:23:58,354 --> 00:24:00,981
+because you hate
+them is terrible
 
-499
-00:24:00,759 --> 00:24:03,025
-but causing people to suffer
+492
+00:24:01,023 --> 00:24:03,317
+but causing
+people to suffer
 
-500
-00:24:03,064 --> 00:24:05,159
+493
+00:24:03,359 --> 00:24:05,569
 because you have
-forgotten how to care...
+forgotten how to care--
 
-501
-00:24:06,838 --> 00:24:09,035
+494
+00:24:05,611 --> 00:24:06,987
+(sighs)
+
+495
+00:24:07,029 --> 00:24:09,407
 that's really hard
 to understand.
 
-502
-00:24:09,076 --> 00:24:10,841
+496
+00:24:09,447 --> 00:24:11,117
 They'll remember.
 
-503
-00:24:10,879 --> 00:24:13,851
+497
+00:24:11,158 --> 00:24:14,161
 It will take some time,
 and it won't be easy
 
-504
-00:24:13,885 --> 00:24:16,686
+498
+00:24:14,203 --> 00:24:16,872
 but eventually,
 people in this century
 
-505
-00:24:16,724 --> 00:24:18,694
-will remember how to care.
+499
+00:24:16,914 --> 00:24:18,832
+<i>will</i> remember how to care.
 
-506
-00:24:18,728 --> 00:24:23,670
+500
+00:24:18,874 --> 00:24:23,879
 Right, only it makes
 you wonder, doesn't it?
 
-507
-00:24:23,705 --> 00:24:29,205
-Are humans really any different
-than Cardassians or Romulans?
+501
+00:24:23,921 --> 00:24:26,966
+Are humans really
+any different
 
-508
-00:24:29,250 --> 00:24:33,748
+502
+00:24:27,007 --> 00:24:29,969
+than Cardassians
+or Romulans?
+
+503
+00:24:30,010 --> 00:24:34,014
 If push comes to shove,
 if something disastrous
 
-509
-00:24:33,791 --> 00:24:36,957
+504
+00:24:34,056 --> 00:24:35,515
 happens to the Federation,
-if we are frightened enough
 
-510
-00:24:36,999 --> 00:24:38,730
-or desperate enough
+505
+00:24:35,557 --> 00:24:39,019
+if we are frightened enough,
+or desperate enough,
 
-511
-00:24:38,768 --> 00:24:40,931
+506
+00:24:39,061 --> 00:24:42,189
 how would we react?
 
-512
-00:24:40,972 --> 00:24:44,878
-Would we stay true to our ideals
+507
+00:24:42,231 --> 00:24:45,109
+Would we stay true
+to our ideals
 
-513
-00:24:44,914 --> 00:24:47,977
-or would we just stay here
+508
+00:24:45,151 --> 00:24:48,237
+or would we
+just stay here
 
-514
-00:24:48,021 --> 00:24:51,187
-right back where we started?
+509
+00:24:48,279 --> 00:24:51,531
+right back
+where we started?
 
-515
-00:24:51,227 --> 00:24:53,322
+510
+00:24:51,573 --> 00:24:53,742
 I don't know.
 
-516
-00:24:53,364 --> 00:24:56,495
+511
+00:24:53,784 --> 00:24:56,912
 But as a Starfleet officer
 
-517
-00:24:56,604 --> 00:25:00,738
+512
+00:24:56,954 --> 00:25:01,292
 it's my job to make sure
 we never have to find out.
 
-518
-00:25:08,828 --> 00:25:10,319
+513
+00:25:05,796 --> 00:25:07,298
+(groaning)
+
+514
+00:25:08,966 --> 00:25:10,426
+MAN:
 Get his food card.
 
-519
-00:25:10,365 --> 00:25:13,964
+515
+00:25:10,468 --> 00:25:14,096
 Remember, Doctor,
 we can't interfere.
 
-520
-00:25:14,005 --> 00:25:16,066
+516
+00:25:14,138 --> 00:25:16,223
 You got a problem?
 
-521
-00:25:16,110 --> 00:25:17,704
+517
+00:25:16,265 --> 00:25:17,808
 No problem.
 
-522
-00:25:17,746 --> 00:25:19,477
-You look upset.
+518
+00:25:17,850 --> 00:25:19,517
+MAN: You look upset.
 
-523
-00:25:19,550 --> 00:25:21,952
+519
+00:25:19,559 --> 00:25:22,021
 If we've done anything
 to offend you
 
-524
-00:25:21,988 --> 00:25:25,290
+520
+00:25:22,062 --> 00:25:25,316
 please let us know, so that we
 can be sure not to do it again.
 
-525
-00:25:25,328 --> 00:25:26,854
+521
+00:25:25,358 --> 00:25:26,524
 Don't worry about us.
 
-526
-00:25:26,897 --> 00:25:28,024
-We're new here.
+522
+00:25:26,566 --> 00:25:28,068
+- We're new here.
+- Really?
 
-527
-00:25:28,067 --> 00:25:30,469
-Really?
-I never would have guessed.
+523
+00:25:28,110 --> 00:25:30,654
+- I never would have guessed.
+- (gang chuckles)
 
-528
-00:25:30,505 --> 00:25:33,909
+524
+00:25:30,696 --> 00:25:32,490
 But let me be the first
+
+525
+00:25:32,530 --> 00:25:33,949
 to welcome you.
 
-529
-00:25:33,945 --> 00:25:36,245
-Would you like a piece of this?
+526
+00:25:33,991 --> 00:25:36,410
+Would you like
+a piece of this?
 
-530
-00:25:36,284 --> 00:25:37,718
+527
+00:25:36,452 --> 00:25:38,037
 No, thanks.
 
-531
-00:25:39,790 --> 00:25:41,521
+528
+00:25:39,872 --> 00:25:41,748
 Gimmes...
 
-532
-00:25:41,560 --> 00:25:43,860
+529
+00:25:41,790 --> 00:25:43,834
 no sense of fun.
 
-533
-00:25:43,898 --> 00:25:46,802
+530
+00:25:43,876 --> 00:25:47,046
 We're just looking
 for a place to sleep.
 
-534
-00:25:49,076 --> 00:25:51,069
+531
+00:25:49,131 --> 00:25:51,133
 Well, in that case...
 
-535
-00:25:51,113 --> 00:25:53,983
+532
+00:25:51,175 --> 00:25:54,053
 you better look
 somewhere else...
 
-536
-00:25:54,018 --> 00:25:55,647
+533
+00:25:54,094 --> 00:25:55,804
 new boy.
 
-537
-00:25:58,194 --> 00:25:59,788
+534
+00:25:58,307 --> 00:25:59,766
 You heard what he said.
 
-538
-00:25:59,830 --> 00:26:01,162
+535
+00:25:59,808 --> 00:26:01,310
 Let's go.
 
-539
-00:26:04,640 --> 00:26:06,269
+536
+00:26:04,897 --> 00:26:06,482
 Enjoy your stay!
 
-540
-00:26:06,310 --> 00:26:08,280
+537
+00:26:06,524 --> 00:26:08,317
 And in a few days
 
-541
-00:26:08,314 --> 00:26:12,516
+538
+00:26:08,359 --> 00:26:11,111
 I know you're going
 to feel right at home.
 
-542
-00:26:12,556 --> 00:26:14,423
+539
+00:26:12,779 --> 00:26:14,698
 Bye!
 
-543
-00:26:25,548 --> 00:26:29,386
+540
+00:26:25,583 --> 00:26:28,879
 So, in theory, we should be able
 to travel into the past
 
-544
-00:26:29,423 --> 00:26:31,290
+541
+00:26:28,921 --> 00:26:30,756
 by focusing
 the transporter beam
 
-545
-00:26:31,327 --> 00:26:34,265
+542
+00:26:30,797 --> 00:26:34,301
 through the polarized
 chroniton particles.
 
-546
-00:26:34,299 --> 00:26:35,699
-The problem is, we don't know
+543
+00:26:34,343 --> 00:26:36,136
+The problem is,
+we don't know
 
-547
-00:26:35,735 --> 00:26:37,762
-where in time Sisko
+544
+00:26:36,178 --> 00:26:37,555
+<i>where</i> in time Sisko
 and the others are.
 
-548
-00:26:37,806 --> 00:26:38,899
+545
+00:26:37,595 --> 00:26:38,805
 I've narrowed it down
 
-549
-00:26:38,941 --> 00:26:40,570
-to a dozen
-different possibilities
+546
+00:26:38,847 --> 00:26:40,682
+to a dozen different
+possibilities,
 
-550
-00:26:40,678 --> 00:26:43,171
-but we only have
-enough polarized chronitons
+547
+00:26:40,724 --> 00:26:43,102
+but we only have enough
+polarized chronitons
 
-551
-00:26:43,217 --> 00:26:44,846
+548
+00:26:43,143 --> 00:26:44,811
 to make five or six attempts.
 
-552
-00:26:44,887 --> 00:26:47,187
+549
+00:26:44,853 --> 00:26:47,273
 Then we'll have
 to take our chances.
 
+550
+00:26:47,314 --> 00:26:49,442
+Pick the most
+likely time periods
+
+551
+00:26:49,483 --> 00:26:51,277
+and send a team down with
+tricorders to find them.
+
+552
+00:26:51,318 --> 00:26:53,320
+The hard part will be to find
+
 553
-00:26:47,225 --> 00:26:49,320
-Pick the most likely
-time periods
+00:26:53,362 --> 00:26:55,906
+a couple of volunteers
+crazy enough to risk
 
 554
-00:26:49,363 --> 00:26:51,595
-and send a team down
-with tricorders to find them.
-
-555
-00:26:51,700 --> 00:26:53,226
-The hard part will be
-
-556
-00:26:53,271 --> 00:26:55,868
-to find a couple of
-volunteers crazy enough
-
-557
-00:26:55,909 --> 00:26:58,072
-to risk getting lost in time
+00:26:55,948 --> 00:26:57,991
+getting lost in time
 to do the job.
 
-558
-00:26:58,113 --> 00:27:00,524
-I think I know
-a few likely candidates.
+555
+00:26:58,033 --> 00:26:59,952
+I think I know a few
+likely candidates.
 
-559
-00:27:19,896 --> 00:27:21,798
+556
+00:27:04,915 --> 00:27:08,752
+(scattered indistinct
+conversations)
+
+557
+00:27:20,222 --> 00:27:22,057
 Here you go, Julian.
 
-560
-00:27:21,834 --> 00:27:24,806
+558
+00:27:22,099 --> 00:27:24,977
 Oh... oh...
 
-561
-00:27:27,746 --> 00:27:29,841
+559
+00:27:25,018 --> 00:27:27,938
+(coughs)
+
+560
+00:27:27,980 --> 00:27:30,149
 Oh...
 
+561
+00:27:30,190 --> 00:27:31,484
+If we ever get home
+
 562
-00:27:29,883 --> 00:27:33,755
-If we ever get home,
+00:27:31,525 --> 00:27:33,860
 I promise never to complain
 
 563
-00:27:33,791 --> 00:27:37,731
+00:27:33,902 --> 00:27:37,573
 about the station's
 Cardassian beds ever again.
 
 564
-00:27:39,736 --> 00:27:41,433
-Oh, where is everybody?
+00:27:37,615 --> 00:27:39,825
+(both chuckle)
 
 565
-00:27:41,473 --> 00:27:44,206
+00:27:39,866 --> 00:27:41,827
+Oh, where
+is everybody?
+
+566
+00:27:41,868 --> 00:27:43,703
 In the food lines,
 waiting for breakfast.
 
-566
-00:27:44,246 --> 00:27:47,981
-It's not much to look at,
-but it's better than nothing.
-
 567
-00:27:48,019 --> 00:27:49,044
-Uh, I'm sorry.
+00:27:43,745 --> 00:27:46,332
+It's not much to look at
 
 568
-00:27:49,088 --> 00:27:50,579
-They ran out of utensils
+00:27:46,373 --> 00:27:47,874
+but it's better than nothing.
 
 569
-00:27:50,625 --> 00:27:52,185
-and napkins.
+00:27:47,916 --> 00:27:49,376
+Uh, I'm sorry.
 
 570
-00:27:52,228 --> 00:27:54,027
-Why am I not surprised?
+00:27:49,418 --> 00:27:51,878
+They ran out of utensils...
+and napkins.
 
 571
-00:27:54,065 --> 00:27:56,126
-When you're finished eating,
-I think we should get up
+00:27:51,920 --> 00:27:54,131
+Why am I not surprised?
 
 572
-00:27:56,169 --> 00:27:57,637
-on the roof
-of one of these buildings.
+00:27:54,173 --> 00:27:55,924
+When you're finished eating,
 
 573
-00:27:57,672 --> 00:27:59,301
-I want to get a better look
-at the place.
+00:27:55,966 --> 00:27:57,968
+I think we should get up on the
+roof of one of these buildings.
 
 574
-00:27:59,342 --> 00:28:01,403
-Do you think
-there's a way out of here?
+00:27:58,010 --> 00:27:59,595
+I want to get a better
+look at the place.
 
 575
-00:28:01,480 --> 00:28:04,316
-If there is, we'll find it.
+00:27:59,637 --> 00:28:01,514
+Do you think there's
+a way out of here?
 
 576
-00:28:04,352 --> 00:28:06,254
-Mm-hmm.
+00:28:01,555 --> 00:28:04,433
+If there is, we'll find it.
 
 577
-00:28:17,846 --> 00:28:19,246
-Hey.
+00:28:04,475 --> 00:28:06,435
+Mm-hmm.
 
 578
-00:28:19,282 --> 00:28:21,047
-Not you two guys again.
+00:28:17,863 --> 00:28:19,448
+Hey.
 
 579
-00:28:21,085 --> 00:28:23,955
-Look, I told you...
-we don't have any room.
+00:28:19,490 --> 00:28:22,159
+MAN: Not you two
+guys again.
 
 580
-00:28:23,991 --> 00:28:24,959
-We're not here to stay.
+00:28:22,201 --> 00:28:23,952
+Look, I told you,
+we don't have any room.
 
 581
-00:28:24,993 --> 00:28:26,461
-All we want to do
-is to get up on the roof
+00:28:23,994 --> 00:28:26,163
+We're not here to stay.
+All we want to do is
 
 582
-00:28:26,497 --> 00:28:27,465
-and take a look...
+00:28:26,205 --> 00:28:28,624
+- to get up on the roof and--
+- It doesn't matter what
+you want.
 
 583
-00:28:27,499 --> 00:28:28,865
-It doesn't matter what you want.
-
-584
-00:28:28,901 --> 00:28:29,960
+00:28:28,666 --> 00:28:30,042
 You can't come in.
 
-585
-00:28:30,003 --> 00:28:32,235
+584
+00:28:30,083 --> 00:28:32,336
 We got to protect
 what's ours around here.
 
-586
-00:28:32,275 --> 00:28:33,766
+585
+00:28:32,378 --> 00:28:34,463
 Look, maybe we could
 make a deal.
 
-587
-00:28:33,811 --> 00:28:35,644
-Isn't there something
-we could exchange
-
-588
-00:28:35,681 --> 00:28:38,312
-in order to get access
+586
+00:28:34,505 --> 00:28:38,384
+Isn't there something we could
+exchange in order to get access
 to the roof?
 
-589
-00:28:38,354 --> 00:28:40,221
+587
+00:28:38,425 --> 00:28:40,219
 I don't know.
 
+588
+00:28:40,260 --> 00:28:41,928
+What do you got
+to offer?
+
+589
+00:28:43,681 --> 00:28:45,474
+Uh-huh, that's
+what I thought.
+
 590
-00:28:40,258 --> 00:28:41,726
-What do you got to offer?
+00:28:45,516 --> 00:28:47,934
+Look, maybe you guys should
+try another building.
 
 591
-00:28:43,831 --> 00:28:45,425
-Uh-huh, that's what I thought.
+00:28:53,023 --> 00:28:54,441
+(whispers inaudibly)
 
 592
-00:28:45,468 --> 00:28:47,904
-Look, maybe you guys should try
-another building.
-
-593
-00:28:55,454 --> 00:28:57,424
+00:28:55,568 --> 00:28:57,194
 Hey, uh... wait a minute.
 
-594
-00:29:00,030 --> 00:29:03,902
+593
+00:28:59,905 --> 00:29:03,992
 Maybe... we can
 make a deal after all.
 
+594
+00:29:09,623 --> 00:29:11,833
+(door shuts)
+
 595
-00:29:14,559 --> 00:29:18,054
-Well, at least now
+00:29:14,670 --> 00:29:18,090
+SISKO: Well, at least now
 we look like we belong here.
 
 596
-00:29:18,099 --> 00:29:21,664
-Yeah, and we smell just as bad
-as everyone else, too.
+00:29:18,131 --> 00:29:21,218
+BASHIR: Yeah, and we smell just
+as bad as everyone else, too.
 
 597
-00:29:34,031 --> 00:29:35,830
-Stay away from him!
+00:29:26,223 --> 00:29:28,267
+(moans)
 
 598
-00:29:35,868 --> 00:29:37,302
-Whatever you say.
+00:29:34,064 --> 00:29:35,857
+Stay away from him!
 
 599
-00:29:37,338 --> 00:29:38,898
-Just put the knife down.
+00:29:35,899 --> 00:29:37,401
+Whatever you say.
 
 600
-00:29:38,941 --> 00:29:40,877
+00:29:37,443 --> 00:29:38,985
+Just put the
+knife down.
+
+601
+00:29:39,027 --> 00:29:40,862
 Step into the light,
 so I can see you.
 
-601
-00:29:42,749 --> 00:29:44,183
+602
+00:29:43,616 --> 00:29:45,033
 We're new here.
 
-602
-00:29:44,218 --> 00:29:46,415
+603
+00:29:45,075 --> 00:29:46,993
 We're just trying
 to get to the roof.
 
-603
-00:29:46,456 --> 00:29:48,358
-Get a better look at the place.
-
 604
-00:29:50,230 --> 00:29:52,700
+00:29:47,035 --> 00:29:48,328
+Get a better look
+at the place.
+
+605
+00:29:49,913 --> 00:29:52,750
 Believe me, it doesn't look
 any better from up there.
 
-605
-00:29:52,735 --> 00:29:53,725
+606
+00:29:52,791 --> 00:29:53,751
 Dad...
 
-606
-00:29:58,781 --> 00:30:01,412
-It's going to be okay, Danny.
-
 607
-00:30:01,453 --> 00:30:03,082
-What happened?
+00:29:53,792 --> 00:29:55,168
+(moans)
 
 608
-00:30:03,122 --> 00:30:06,026
-He was beaten up by some ghosts.
+00:29:58,589 --> 00:30:01,467
+It's going to
+be okay, Danny.
 
 609
-00:30:06,062 --> 00:30:08,123
-My wife went to get help,
-but there's only one doctor
+00:30:01,508 --> 00:30:03,051
+What happened?
 
 610
-00:30:08,166 --> 00:30:09,429
-on duty
-at the Processing Center.
+00:30:03,093 --> 00:30:06,012
+He was beaten up
+by some ghosts.
 
 611
-00:30:09,469 --> 00:30:11,439
+00:30:06,054 --> 00:30:08,223
+My wife went to get help, but
+there's only one doctor on duty
+
+612
+00:30:08,265 --> 00:30:09,600
+at the Processing Center.
+
+613
+00:30:09,642 --> 00:30:11,226
 Well, why don't you
 let me take a look?
 
-612
-00:30:11,473 --> 00:30:12,771
-I know a little bit
-about medicine.
-
-613
-00:30:12,809 --> 00:30:14,072
-Julian...
-
 614
-00:30:14,111 --> 00:30:16,343
-It can't hurt to just look.
+00:30:11,268 --> 00:30:13,019
+I know a little
+bit about medicine.
 
 615
-00:30:23,630 --> 00:30:25,361
-Hey.
+00:30:13,061 --> 00:30:14,354
+Julian...
 
 616
-00:30:25,401 --> 00:30:28,805
+00:30:14,396 --> 00:30:16,523
+It can't hurt
+to just look.
+
+617
+00:30:23,822 --> 00:30:25,407
+Hey.
+
+618
+00:30:25,449 --> 00:30:29,035
 I'm just going to take
 a quick look here, okay?
 
-617
-00:30:35,988 --> 00:30:37,617
+619
+00:30:36,001 --> 00:30:37,711
 Does that hurt?
 
-618
-00:30:42,067 --> 00:30:43,900
-Here?
+620
+00:30:39,045 --> 00:30:42,048
+(inhales sharply)
 
-619
-00:30:43,937 --> 00:30:46,271
+621
+00:30:42,090 --> 00:30:43,801
+BASHIR: Here?
+
+622
+00:30:43,842 --> 00:30:46,261
 Well, looks like
 you've been lucky.
 
-620
-00:30:46,308 --> 00:30:49,941
-No broken ribs, and these cuts
-are mostly superficial.
+623
+00:30:46,303 --> 00:30:49,931
+No broken ribs, and these
+cuts are mostly superficial.
 
-621
-00:30:49,983 --> 00:30:51,451
+624
+00:30:49,973 --> 00:30:51,433
 You're going to be okay.
 
-622
-00:30:51,486 --> 00:30:52,920
+625
+00:30:51,475 --> 00:30:54,144
 You're going to need
 some clean rags
 
-623
-00:30:52,955 --> 00:30:55,187
-and something
-to disinfect these wounds.
-
-624
-00:30:55,226 --> 00:30:56,524
-Alcohol should do.
-
-625
-00:30:56,563 --> 00:30:58,465
-I think I can get some.
-
 626
-00:30:59,769 --> 00:31:01,500
-Okay.
+00:30:54,186 --> 00:30:55,228
+and something to
+disinfect these wounds.
 
 627
-00:31:01,540 --> 00:31:03,703
-Here we go.
+00:30:55,270 --> 00:30:56,522
+Alcohol should do.
 
 628
-00:31:07,485 --> 00:31:09,978
-Looks like we made a new friend.
+00:30:56,563 --> 00:30:58,524
+I think I can get some.
 
 629
-00:31:14,164 --> 00:31:15,462
-Hey!
+00:30:59,817 --> 00:31:01,568
+Okay.
 
 630
-00:31:15,501 --> 00:31:17,801
+00:31:01,610 --> 00:31:03,903
+Here we go.
+
+631
+00:31:07,449 --> 00:31:09,993
+Looks like we
+made a new friend.
+
+632
+00:31:13,831 --> 00:31:15,666
+FATHER: Hey!
+
+633
+00:31:15,708 --> 00:31:17,710
 You know, the district
 could use another doctor.
 
-631
-00:31:17,839 --> 00:31:19,832
+634
+00:31:17,751 --> 00:31:19,670
 I don't really
 practice anymore.
 
-632
-00:31:19,876 --> 00:31:22,312
-But there are people here
-who need you.
+635
+00:31:19,712 --> 00:31:21,421
+But there are people
+here who need you.
 
-633
-00:31:22,347 --> 00:31:24,544
+636
+00:31:21,463 --> 00:31:24,383
 I'm sorry, but they'll have
 to get along without me.
 
-634
-00:31:26,389 --> 00:31:28,484
+637
+00:31:26,385 --> 00:31:28,512
 You two are new here
 
-635
-00:31:28,527 --> 00:31:30,292
+638
+00:31:28,554 --> 00:31:30,472
 so let me explain
 something to you.
 
-636
-00:31:30,330 --> 00:31:33,131
+639
+00:31:30,514 --> 00:31:33,058
 You can forget about getting
 out of here anytime soon.
 
-637
-00:31:33,169 --> 00:31:35,139
+640
+00:31:33,099 --> 00:31:35,018
 This is your home now.
 
-638
-00:31:35,173 --> 00:31:37,006
+641
+00:31:35,060 --> 00:31:36,770
 The only help we're going
 to get is from each other
 
-639
-00:31:37,043 --> 00:31:38,443
+642
+00:31:36,812 --> 00:31:38,313
 and if we don't start
 pulling together
 
-640
-00:31:38,480 --> 00:31:39,812
+643
+00:31:38,355 --> 00:31:39,523
 we're finished.
 
-641
-00:31:39,849 --> 00:31:41,546
-All we want
-is to be left alone.
+644
+00:31:39,565 --> 00:31:41,483
+All we want is
+to be left alone.
 
-642
-00:31:41,586 --> 00:31:43,020
+645
+00:31:41,525 --> 00:31:43,109
 My mistake.
 
-643
-00:31:43,055 --> 00:31:45,491
+646
+00:31:43,151 --> 00:31:45,404
 I thought you wanted
 to get out of here.
 
-644
-00:31:45,528 --> 00:31:46,291
+647
+00:31:45,445 --> 00:31:46,488
 We do.
 
-645
-00:31:46,328 --> 00:31:47,387
+648
+00:31:46,530 --> 00:31:48,114
 Well, the only way
 
-646
-00:31:47,431 --> 00:31:49,560
+649
+00:31:48,156 --> 00:31:50,033
 that's going to happen
 is if we get organized,
 
-647
-00:31:49,602 --> 00:31:52,335
+650
+00:31:50,075 --> 00:31:52,536
 and let people on the outside
 know what's going on in here.
 
-648
-00:31:52,374 --> 00:31:53,672
+651
+00:31:52,578 --> 00:31:53,620
 Do whatever you want.
 
-649
-00:31:53,710 --> 00:31:55,270
+652
+00:31:53,662 --> 00:31:55,038
 Just leave us out of it.
 
-650
-00:31:56,783 --> 00:31:59,983
+653
+00:31:56,790 --> 00:31:58,375
 If you want to be left alone...
 
-651
-00:32:00,023 --> 00:32:02,084
+654
+00:32:00,085 --> 00:32:02,796
 that's fine with me.
 
-652
-00:32:02,127 --> 00:32:04,860
+655
+00:32:02,838 --> 00:32:04,798
 But if you want to help us
 
-653
-00:32:04,899 --> 00:32:07,700
+656
+00:32:04,840 --> 00:32:07,634
 and help yourselves
 
-654
-00:32:07,738 --> 00:32:10,106
+657
+00:32:07,676 --> 00:32:08,844
 you know where to find me.
 
-655
-00:32:17,290 --> 00:32:19,317
-Our sea floor mining project
+658
+00:32:17,060 --> 00:32:19,271
+MAN: Our sea floor
+mining project
 
-656
-00:32:19,361 --> 00:32:21,854
+659
+00:32:19,312 --> 00:32:22,190
 is almost ready
 to go into operation.
 
-657
-00:32:21,900 --> 00:32:24,097
+660
+00:32:22,232 --> 00:32:24,317
 Now, the Pan-Caribbean
 government did have
 
-658
-00:32:24,137 --> 00:32:30,514
+661
+00:32:24,359 --> 00:32:30,866
 some misgivings, but I
 think we've won them over.
 
-659
-00:32:30,551 --> 00:32:34,423
+662
+00:32:30,908 --> 00:32:34,286
 I hear you just came
 back from Christchurch.
 
-660
-00:32:34,459 --> 00:32:36,725
+663
+00:32:34,327 --> 00:32:36,246
 Yes. Did a little
 skiing on Mount Cook.
 
-661
-00:32:36,763 --> 00:32:37,890
-You're lucky.
+664
+00:32:36,288 --> 00:32:39,666
+You're lucky. We had to cancel
+our trip to the Alps this year
 
-662
-00:32:37,932 --> 00:32:39,731
-We had to cancel our trip
-to the Alps this year
-
-663
-00:32:39,769 --> 00:32:41,762
+665
+00:32:39,708 --> 00:32:41,752
 because of the student
 protests in France.
 
-664
-00:32:41,840 --> 00:32:43,274
-I thought the Neo-Trotskyists
-
-665
-00:32:43,309 --> 00:32:45,006
-were going to put
-a stop to that.
-
 666
-00:32:45,046 --> 00:32:46,275
-They're not having
-any more luck
+00:32:41,794 --> 00:32:44,797
+I thought the Neo-Trotskyists
+were going to put a stop
+to that.
 
 667
-00:32:46,315 --> 00:32:47,442
-than the Gaullists did.
+00:32:44,838 --> 00:32:47,633
+They're not having any more
+luck than the Gaullists did.
 
 668
-00:32:47,485 --> 00:32:50,457
+00:32:47,674 --> 00:32:50,135
 Europe is falling apart.
 
 669
-00:32:50,491 --> 00:32:51,982
-Well, at least
-we don't have to worry
+00:32:50,176 --> 00:32:53,096
+Well, at least we don't
+have to worry about that
+kind of thing here.
 
 670
-00:32:52,027 --> 00:32:53,290
-about that kind of thing here.
-
-671
-00:32:55,066 --> 00:32:56,797
+00:32:53,138 --> 00:32:56,391
 Don't count on it.
 
-672
-00:32:58,406 --> 00:33:00,899
+671
+00:32:58,685 --> 00:33:00,813
 You'll have to excuse
 Jadzia's cynicism.
 
-673
-00:33:00,944 --> 00:33:02,846
+672
+00:33:00,854 --> 00:33:02,564
 She was just mugged yesterday.
 
-674
-00:33:02,882 --> 00:33:05,410
+673
+00:33:02,606 --> 00:33:05,275
 That kind of thing's bound
 to give a negative impression
 
-675
-00:33:05,453 --> 00:33:06,648
+674
+00:33:05,317 --> 00:33:06,485
 of the future.
 
-676
-00:33:06,690 --> 00:33:08,683
+675
+00:33:06,526 --> 00:33:08,570
 So... who mugged you?
 
-677
-00:33:08,727 --> 00:33:10,390
+676
+00:33:08,612 --> 00:33:10,238
 Did you see them?
 
-678
-00:33:10,430 --> 00:33:12,923
+677
+00:33:10,280 --> 00:33:12,532
 It doesn't really matter.
 
-679
-00:33:12,968 --> 00:33:15,769
-I'm just glad
-that I wasn't hurt.
+678
+00:33:12,574 --> 00:33:15,619
+I'm just glad that
+I wasn't hurt.
 
-680
-00:33:15,841 --> 00:33:17,868
+679
+00:33:15,661 --> 00:33:17,579
 Well, whoever it was
 did a very thorough job.
 
-681
-00:33:17,912 --> 00:33:20,246
+680
+00:33:17,621 --> 00:33:19,998
 They took everything
 she had, even her I.D.
 
-682
-00:33:20,283 --> 00:33:21,581
-Chris rescued me
+681
+00:33:20,039 --> 00:33:22,751
+Chris rescued me and
+let me use his computer
 
-683
-00:33:21,619 --> 00:33:24,352
-and let me use his computer
+682
+00:33:22,793 --> 00:33:24,336
 to get my replacement I.D.
 
-684
-00:33:24,391 --> 00:33:27,727
+683
+00:33:24,377 --> 00:33:27,130
 You were lucky the police
 didn't find you first.
 
-685
-00:33:27,765 --> 00:33:30,669
+684
+00:33:27,172 --> 00:33:29,967
 If they'd caught you
 on the street without I.D.
 
-686
-00:33:30,704 --> 00:33:33,676
-You might have ended up
+685
+00:33:30,008 --> 00:33:33,386
+you might have ended up
 in a Sanctuary District.
 
-687
-00:33:33,710 --> 00:33:35,270
-I thought they
+686
+00:33:33,428 --> 00:33:34,721
+WOMAN: I thought they
 stopped doing that.
 
-688
-00:33:35,313 --> 00:33:36,372
-Why would they?
+687
+00:33:34,763 --> 00:33:36,055
+MAN: Why would they?
 
-689
-00:33:36,415 --> 00:33:39,114
+688
+00:33:36,097 --> 00:33:38,976
 It's the only way
 to keep those people
 
-690
-00:33:39,154 --> 00:33:41,351
+689
+00:33:39,017 --> 00:33:40,936
 off the streets.
 
-691
-00:33:41,392 --> 00:33:43,385
+690
+00:33:40,978 --> 00:33:43,021
 Excuse us a minute.
 
+691
+00:33:47,192 --> 00:33:49,778
+- Is that true?
+- Is what true?
+
 692
-00:33:46,669 --> 00:33:47,967
-Is that true?
+00:33:49,820 --> 00:33:53,281
+About taking people without
+I.D. to a Sanctuary District.
 
 693
-00:33:48,005 --> 00:33:49,303
-Is what true?
-
-694
-00:33:49,341 --> 00:33:53,406
-About taking people without I.D.
-To a Sanctuary District.
-
-695
-00:33:53,449 --> 00:33:54,747
+00:33:53,323 --> 00:33:55,325
 Yes, it is. Why?
 
-696
-00:33:54,786 --> 00:33:56,619
+694
+00:33:55,367 --> 00:33:57,243
 I still haven't
 found my friends.
 
-697
-00:33:56,656 --> 00:33:58,853
+695
+00:33:57,285 --> 00:33:59,120
 And you think they might be
 in a Sanctuary District?
 
-698
-00:33:58,960 --> 00:34:00,121
+696
+00:33:59,162 --> 00:34:00,873
 It's possible.
 
-699
-00:34:00,163 --> 00:34:03,067
+697
+00:34:00,914 --> 00:34:03,375
 If you hadn't found me,
 I might have wound up in one.
 
-700
-00:34:03,102 --> 00:34:05,042
+698
+00:34:03,416 --> 00:34:05,293
 Can we check and see
 if they're inside?
 
-701
-00:34:05,175 --> 00:34:06,701
-Well, it might take some doing.
+699
+00:34:05,335 --> 00:34:07,629
+Well, it might
+take some doing.
 
-702
-00:34:06,745 --> 00:34:10,344
+700
+00:34:07,671 --> 00:34:10,716
 The Sanctuary District records
 are not posted on the Net.
 
-703
-00:34:12,156 --> 00:34:15,492
-But I might be able
+701
+00:34:12,258 --> 00:34:15,094
+<i>But</i> I might be able
 to pull in some favors.
 
-704
-00:34:23,980 --> 00:34:26,645
+702
+00:34:24,229 --> 00:34:26,481
 And I thought the lines
 at the Replimat were bad.
 
-705
-00:34:28,288 --> 00:34:31,158
+703
+00:34:26,523 --> 00:34:28,358
+(chuckles)
+
+704
+00:34:28,400 --> 00:34:30,443
 By the time we get dinner,
 it'll be time for breakfast.
 
-706
-00:34:31,194 --> 00:34:33,995
-You'd think that before
-they locked thousands of people
+705
+00:34:30,485 --> 00:34:34,197
+You'd think that before they
+locked thousands of people
 
-707
-00:34:34,033 --> 00:34:36,561
+706
+00:34:34,239 --> 00:34:36,700
 into a 20-square-block area,
 they'd give some thought
 
-708
-00:34:36,605 --> 00:34:38,768
+707
+00:34:36,742 --> 00:34:38,827
 as to how those people
 were going to get fed.
 
-709
-00:34:38,809 --> 00:34:42,213
-I'm going to see how much longer
-this is going to take.
+708
+00:34:38,869 --> 00:34:41,872
+I'm going to see how much
+longer this is going to take.
 
-710
-00:34:44,655 --> 00:34:46,989
+709
+00:34:45,625 --> 00:34:47,168
 Hey, Gimme!
 
-711
-00:34:47,026 --> 00:34:49,519
+710
+00:34:47,210 --> 00:34:49,629
 I'm talking to you.
 
-712
-00:34:49,564 --> 00:34:51,329
-Let me see your food card.
+711
+00:34:49,671 --> 00:34:51,673
+Let me see
+your food card.
 
-713
-00:34:51,367 --> 00:34:52,858
+712
+00:34:51,715 --> 00:34:53,132
 What for?
 
-714
-00:34:55,342 --> 00:34:57,141
+713
+00:34:55,677 --> 00:34:57,387
 Because I said so.
 
-715
-00:34:57,179 --> 00:34:58,238
+714
+00:34:57,429 --> 00:34:58,638
 Let him go!
 
-716
-00:35:01,354 --> 00:35:02,583
+715
+00:35:01,683 --> 00:35:02,768
 What?
 
-717
-00:35:02,624 --> 00:35:05,528
+716
+00:35:02,809 --> 00:35:05,771
 I said let him go!
 
-718
-00:35:05,562 --> 00:35:06,996
+717
+00:35:05,812 --> 00:35:07,313
 Oh.
 
-719
-00:35:07,032 --> 00:35:09,799
+718
+00:35:07,355 --> 00:35:09,983
 Well, when you
 put it like that...
 
+719
+00:35:30,629 --> 00:35:32,881
+(clattering)
+
 720
-00:35:35,055 --> 00:35:36,752
+00:35:35,341 --> 00:35:37,052
 Leave them alone!
 
 721
-00:35:41,501 --> 00:35:42,833
+00:35:41,848 --> 00:35:43,141
 Are you all right?
 
 722
-00:35:50,452 --> 00:35:51,852
-Get his card!
+00:35:46,853 --> 00:35:48,814
+(groaning)
 
 723
-00:35:51,889 --> 00:35:53,323
-Get his food card!
+00:35:50,649 --> 00:35:51,733
+Get his card!
 
 724
-00:35:55,963 --> 00:35:58,024
-Come on, let's get out of here!
+00:35:51,775 --> 00:35:53,026
+Get his food card!
 
 725
-00:35:58,068 --> 00:35:59,935
-Come on. Let's go!
+00:35:56,113 --> 00:35:58,156
+Come on, let's get out of here!
 
 726
-00:36:02,109 --> 00:36:03,202
-Help him!
+00:35:58,197 --> 00:35:59,741
+Come on. Let's go!
 
 727
-00:36:03,244 --> 00:36:04,576
-He never would
-have gotten hurt
+00:36:01,994 --> 00:36:03,662
+Help him!
 
 728
-00:36:04,613 --> 00:36:05,911
-if it wasn't for us.
+00:36:03,703 --> 00:36:05,371
+He never would have gotten
+hurt if it wasn't for us.
 
 729
-00:36:08,756 --> 00:36:11,090
-Breathe, damn you, breathe!
+00:36:08,875 --> 00:36:11,419
+Breathe, damn you,
+breathe!
 
 730
-00:36:12,764 --> 00:36:14,027
+00:36:12,921 --> 00:36:14,213
 God, he's gone.
 
 731
-00:36:15,435 --> 00:36:17,871
-Come on.
-We've got to get out of here!
+00:36:14,255 --> 00:36:15,757
+(alarm blares)
 
 732
-00:36:35,308 --> 00:36:36,799
-Cover!
+00:36:15,799 --> 00:36:18,135
+Come on. We've got
+to get out of here!
 
 733
-00:36:53,545 --> 00:36:55,412
-They're gone.
+00:36:35,568 --> 00:36:37,029
+Cover!
 
 734
-00:36:55,449 --> 00:36:58,649
+00:36:53,837 --> 00:36:55,588
+They're gone.
+
+735
+00:36:55,630 --> 00:36:58,758
 For now, but they're
 the least of our worries.
 
-735
-00:36:58,688 --> 00:37:02,458
-That man who just got killed
-trying to help us...
-
 736
-00:37:02,529 --> 00:37:05,933
-that man was Gabriel Bell.
+00:36:58,800 --> 00:37:02,637
+That man who just got
+killed trying to help us--
 
 737
-00:37:07,005 --> 00:37:08,405
-Oh...
+00:37:02,679 --> 00:37:06,391
+that man was
+Gabriel Bell.
 
 738
-00:37:13,451 --> 00:37:15,819
-If only I'd had my medkit
+00:37:07,266 --> 00:37:08,852
+Oh...
 
 739
-00:37:15,857 --> 00:37:18,020
-or even if I'd got him
-to a hospital
+00:37:13,940 --> 00:37:16,109
+If only I'd had my medkit,
 
 740
-00:37:18,061 --> 00:37:20,624
-I might have been able
-to save him.
+00:37:16,151 --> 00:37:18,403
+or even if I'd got
+him to a hospital
 
 741
-00:37:20,665 --> 00:37:22,498
-You did all you could, Doctor.
+00:37:18,444 --> 00:37:20,822
+I might have been
+able to save him.
 
 742
-00:37:22,569 --> 00:37:24,801
-But it wasn't enough, was it?
+00:37:20,864 --> 00:37:22,741
+You did all you
+could, Doctor.
 
 743
-00:37:26,043 --> 00:37:28,844
-A good man died because of us.
+00:37:22,782 --> 00:37:24,784
+But it wasn't
+enough, was it?
 
 744
-00:37:28,883 --> 00:37:30,112
-And what about the hostages?
+00:37:26,411 --> 00:37:29,164
+A good man died because of us.
 
 745
-00:37:30,151 --> 00:37:32,644
-What's going to happen
-to them?
+00:37:29,206 --> 00:37:30,498
+And what about the hostages?
 
 746
-00:37:32,689 --> 00:37:35,159
+00:37:30,540 --> 00:37:31,875
+What's going to happen to them?
+
+747
+00:37:31,917 --> 00:37:35,587
 Without Bell,
 there's a good chance
 
-747
-00:37:35,195 --> 00:37:37,529
+748
+00:37:35,628 --> 00:37:37,589
 those hostages are going to die.
 
-748
-00:37:37,566 --> 00:37:39,229
-And if that happens
-
 749
-00:37:39,270 --> 00:37:42,572
-how is it going to affect
-the future?
+00:37:37,630 --> 00:37:39,716
+And if that happens?
 
 750
-00:37:44,981 --> 00:37:46,712
-We have to save them.
+00:37:39,758 --> 00:37:42,510
+How is it going to affect
+the future?
 
 751
-00:37:46,751 --> 00:37:48,482
-Whatever it takes
+00:37:45,138 --> 00:37:46,765
+We have to save them.
 
 752
-00:37:48,521 --> 00:37:51,687
+00:37:46,806 --> 00:37:48,433
+Whatever it takes,
+
+753
+00:37:48,474 --> 00:37:51,436
 we have to make sure
 those hostages survive.
 
-753
-00:37:59,343 --> 00:38:00,311
-All right, Chief.
-
 754
-00:38:00,345 --> 00:38:01,677
-Let's get over
-to the transporter room
+00:37:53,646 --> 00:37:55,565
+(sighs)
 
 755
-00:38:01,714 --> 00:38:02,682
-before we change our minds.
+00:37:59,194 --> 00:38:00,987
+All right, Chief.
 
 756
-00:38:02,716 --> 00:38:04,116
-Too late, Major.
+00:38:01,029 --> 00:38:02,614
+Let's get over to
+the transporter room
+before we change our minds.
 
 757
-00:38:04,153 --> 00:38:06,716
+00:38:02,655 --> 00:38:04,282
+Too late, Major.
+
+758
+00:38:04,323 --> 00:38:06,618
 Looks like Starfleet's
 changed our minds for us.
 
-758
-00:38:06,757 --> 00:38:08,989
+759
+00:38:06,659 --> 00:38:09,621
 Headquarters thinks
 our plan's too risky.
 
-759
-00:38:09,029 --> 00:38:11,261
-They're afraid
-that while we're searching
-
 760
-00:38:11,300 --> 00:38:12,632
-for Sisko and the others
+00:38:09,662 --> 00:38:11,289
+They're afraid that
+while we're searching
 
 761
-00:38:12,669 --> 00:38:14,502
+00:38:11,330 --> 00:38:12,582
+for Sisko and the others
+
+762
+00:38:12,624 --> 00:38:14,375
 we may contaminate
 the timeline.
 
-762
-00:38:14,540 --> 00:38:15,838
+763
+00:38:14,417 --> 00:38:15,877
 Get me Admiral Wright.
 
-763
-00:38:15,876 --> 00:38:18,108
+764
+00:38:15,919 --> 00:38:18,088
 I had a feeling you'd say that.
 
-764
-00:38:19,583 --> 00:38:20,846
-That's odd.
-
 765
-00:38:20,886 --> 00:38:21,819
-What is it?
+00:38:19,422 --> 00:38:21,758
+- That's odd.
+- What is it?
 
 766
-00:38:21,855 --> 00:38:25,350
-I'm not getting any response
-from Starfleet.
+00:38:21,800 --> 00:38:24,094
+I'm not getting any
+response from Starfleet.
 
 767
-00:38:25,395 --> 00:38:28,026
+00:38:25,637 --> 00:38:28,056
 Is there something wrong
 with our communications array?
 
 768
-00:38:28,067 --> 00:38:30,003
+00:38:28,098 --> 00:38:30,100
 I was just talking
 to Starfleet Security
 
 769
-00:38:30,038 --> 00:38:31,336
-when my com line went dead.
+00:38:30,142 --> 00:38:31,643
+when my comm line went dead.
 
 770
-00:38:31,374 --> 00:38:32,934
-There's nothing wrong
-at our end.
+00:38:31,684 --> 00:38:33,019
+There's nothing
+wrong at our end.
 
 771
-00:38:32,977 --> 00:38:34,309
-Everything checks out fine.
+00:38:33,061 --> 00:38:35,272
+Everything
+checks out fine.
 
 772
-00:38:34,346 --> 00:38:37,011
+00:38:35,313 --> 00:38:37,107
 Could be interference
-on the com channels.
+on the comm channels.
 
 773
-00:38:37,052 --> 00:38:39,113
-Try a wide band subspace signal.
+00:38:37,149 --> 00:38:39,192
+Try a wide band
+subspace signal.
 
 774
-00:38:40,525 --> 00:38:42,358
+00:38:40,610 --> 00:38:42,279
 Still nothing.
 
 775
-00:38:42,396 --> 00:38:44,025
-Maybe if I direct it
+00:38:42,320 --> 00:38:45,323
+Maybe if I direct it toward
+one of the Federation
 
 776
-00:38:44,066 --> 00:38:46,936
-toward one of the Federation
+00:38:45,364 --> 00:38:47,659
 communications satellites
-
-777
-00:38:46,972 --> 00:38:48,440
 in Earth orbit...
 
-778
-00:38:51,013 --> 00:38:52,276
+777
+00:38:50,996 --> 00:38:52,247
 What is it, Chief?
 
-779
-00:38:52,315 --> 00:38:54,547
+778
+00:38:52,289 --> 00:38:54,874
 They're not there.
 
-780
-00:38:54,586 --> 00:38:58,822
-The entire
-Earth satellite network...
+779
+00:38:54,916 --> 00:38:58,586
+The entire Earth
+satellite network...
 
-781
-00:38:58,862 --> 00:39:00,491
+780
+00:38:58,628 --> 00:39:00,297
 it's gone.
 
-782
-00:39:00,532 --> 00:39:02,900
-The spacedocks,
+781
+00:39:00,338 --> 00:39:04,301
+- The spacedocks,
 the orbital habitats?
+- All of it!
+
+782
+00:39:04,342 --> 00:39:06,970
+The Utopia Planitia
+Yards on Mars,
 
 783
-00:39:02,937 --> 00:39:04,405
-All of it!
+00:39:07,012 --> 00:39:09,097
+the Terraforming
+Stations on Venus,
 
 784
-00:39:04,440 --> 00:39:06,433
-The Utopia Planitia Yards
-on Mars
+00:39:09,139 --> 00:39:10,932
+Starfleet
+Headquarters.
 
 785
-00:39:06,477 --> 00:39:08,572
-the Terraforming Stations
-on Venus
-
-786
-00:39:08,614 --> 00:39:10,982
-Starfleet Headquarters.
-
-787
-00:39:11,020 --> 00:39:13,992
+00:39:10,974 --> 00:39:14,019
 I'm not detecting a single sign
 of Starfleet activity
 
-788
-00:39:14,026 --> 00:39:15,392
+786
+00:39:14,060 --> 00:39:15,270
 anywhere in this sector.
 
-789
-00:39:15,428 --> 00:39:17,591
-Try a non-Federation frequency.
+787
+00:39:15,312 --> 00:39:17,730
+Try a non-Federation
+frequency.
 
-790
-00:39:17,699 --> 00:39:19,498
+788
+00:39:17,772 --> 00:39:19,316
 The only subspace signals
 
-791
-00:39:19,536 --> 00:39:23,031
+789
+00:39:19,398 --> 00:39:22,861
 I'm detecting are from
 the vicinity of Alpha Centauri
 
-792
-00:39:23,077 --> 00:39:24,706
+790
+00:39:22,902 --> 00:39:24,654
 and they're Romulan.
 
-793
-00:39:24,747 --> 00:39:26,307
+791
+00:39:24,696 --> 00:39:26,323
 Well, that's impossible.
 
-794
-00:39:26,350 --> 00:39:28,445
+792
+00:39:26,364 --> 00:39:28,449
 Do you think Sisko
 and the others
 
-795
-00:39:28,488 --> 00:39:31,051
+793
+00:39:28,491 --> 00:39:31,036
 might have somehow
 altered the timeline?
 
+794
+00:39:31,077 --> 00:39:32,370
+They must've.
+
+795
+00:39:32,411 --> 00:39:34,122
+Then why weren't
+we affected?
+
 796
-00:39:31,093 --> 00:39:32,322
-They must have.
-
-797
-00:39:32,362 --> 00:39:34,229
-Then why weren't we affected?
-
-798
-00:39:34,266 --> 00:39:35,757
+00:39:34,164 --> 00:39:35,790
 I'm not sure.
 
-799
-00:39:35,802 --> 00:39:39,970
+797
+00:39:35,832 --> 00:39:39,878
 But maybe...
 maybe when it exploded
 
-800
-00:39:40,011 --> 00:39:43,450
+798
+00:39:39,919 --> 00:39:43,464
 the singularity that polarized
 the chroniton particles
 
-801
-00:39:43,484 --> 00:39:45,818
+799
+00:39:43,506 --> 00:39:45,800
 created some kind
 of subspace bubble
 
+800
+00:39:45,842 --> 00:39:47,302
+around the ship--
+
+801
+00:39:47,344 --> 00:39:50,347
+isolated it from the
+changes in the timeline.
+
 802
-00:39:45,855 --> 00:39:47,255
-around the ship...
-
-803
-00:39:47,292 --> 00:39:50,594
-isolated it from the changes
-in the timeline.
-
-804
-00:39:50,632 --> 00:39:53,433
+00:39:50,388 --> 00:39:53,266
 I'm not sure,
 but I'll have to run some tests.
 
-805
-00:39:53,471 --> 00:39:55,134
-One thing's for certain.
+803
+00:39:53,308 --> 00:39:55,935
+One thing's
+for certain.
 
-806
-00:39:55,175 --> 00:39:59,616
+804
+00:39:55,977 --> 00:39:59,605
 Right now, this ship
 is all that's left of Starfleet.
 
-807
-00:40:05,161 --> 00:40:07,894
+805
+00:40:05,028 --> 00:40:07,697
 I thought you didn't want
 to get involved.
 
-808
-00:40:07,934 --> 00:40:10,667
-We've changed our minds.
+806
+00:40:07,739 --> 00:40:10,533
+We've changed
+our minds.
 
-809
-00:40:10,705 --> 00:40:12,334
+807
+00:40:10,575 --> 00:40:12,202
 Glad to hear it.
 
-810
-00:40:12,375 --> 00:40:14,903
-We can use
-all the help we can get.
+808
+00:40:12,244 --> 00:40:14,787
+We can use all
+the help we can get.
 
-811
-00:40:14,948 --> 00:40:17,180
+809
+00:40:14,829 --> 00:40:17,082
 This place is about to explode.
 
-812
-00:40:17,219 --> 00:40:21,455
+810
+00:40:17,123 --> 00:40:19,292
 Most of us agreed to live here
-because they promised us jobs.
+
+811
+00:40:19,334 --> 00:40:21,169
+because they
+promised us jobs.
+
+812
+00:40:21,211 --> 00:40:22,837
+I don't know about you,
 
 813
-00:40:21,493 --> 00:40:22,961
-I don't know about you
+00:40:22,879 --> 00:40:25,464
+but I haven't been on
+any job interviews lately
 
 814
-00:40:22,997 --> 00:40:25,662
-but I haven't been
-on any job interviews lately
-
-815
-00:40:25,702 --> 00:40:27,569
+00:40:25,506 --> 00:40:27,425
 and neither has anyone else.
 
-816
-00:40:27,606 --> 00:40:29,405
+815
+00:40:27,466 --> 00:40:29,302
 They've forgotten about us.
 
-817
-00:40:29,443 --> 00:40:30,741
+816
+00:40:29,344 --> 00:40:30,553
 So, what do we do?
 
-818
-00:40:30,845 --> 00:40:32,371
-We make them remember.
+817
+00:40:30,595 --> 00:40:32,264
+We make them
+remember.
 
-819
-00:40:32,415 --> 00:40:33,906
+818
+00:40:32,305 --> 00:40:34,015
 Day after tomorrow
 
-820
-00:40:33,952 --> 00:40:37,517
+819
+00:40:34,057 --> 00:40:37,352
 we're going to hold a rally
 outside the Processing Center.
 
-821
-00:40:37,559 --> 00:40:40,725
-I want everyone to be there...
-gimmes, ghosts
+820
+00:40:37,394 --> 00:40:40,605
+I want everyone to be there--
+gimmes, ghosts,
 
-822
-00:40:40,765 --> 00:40:42,063
+821
+00:40:40,646 --> 00:40:41,898
 even the dims.
 
-823
-00:40:42,102 --> 00:40:44,231
+822
+00:40:41,940 --> 00:40:43,983
 I want to remind
 the people outside
 
-824
-00:40:44,273 --> 00:40:46,607
+823
+00:40:44,025 --> 00:40:45,985
 that we haven't
 done anything wrong
 
-825
-00:40:46,644 --> 00:40:47,703
+824
+00:40:46,027 --> 00:40:47,737
 that we're not criminals
 
-826
-00:40:47,746 --> 00:40:49,579
+825
+00:40:47,779 --> 00:40:49,406
 and that we don't deserve
 to live like this.
 
-827
-00:40:49,616 --> 00:40:51,711
+826
+00:40:49,447 --> 00:40:51,449
 We'll spread the word.
 
-828
-00:40:51,754 --> 00:40:53,917
+827
+00:40:51,490 --> 00:40:53,618
 Good.
 
-829
-00:40:53,959 --> 00:40:55,622
+828
+00:40:53,659 --> 00:40:55,370
 One more thing.
 
+829
+00:40:55,412 --> 00:40:58,206
+Tell people when they
+come to the rally
+
 830
-00:40:55,662 --> 00:40:58,361
-Tell people
-when they come to the rally
+00:40:58,248 --> 00:40:59,916
+to bring their families,
 
 831
-00:40:58,401 --> 00:41:02,238
-to bring their families,
-their kids
+00:40:59,958 --> 00:41:02,460
+their kids,
 
 832
-00:41:02,371 --> 00:41:04,739
+00:41:02,501 --> 00:41:05,004
 and try to look their best.
 
 833
-00:41:04,776 --> 00:41:09,046
-We're not derelicts, no matter
-what they say about us.
+00:41:05,046 --> 00:41:06,589
+We're not derelicts
 
 834
-00:41:09,085 --> 00:41:11,385
-I could probably use a shave.
+00:41:06,631 --> 00:41:09,384
+no matter what they say
+about us.
 
 835
-00:41:11,423 --> 00:41:13,222
-Not to mention a bath.
+00:41:09,426 --> 00:41:11,719
+I could probably use a shave.
 
 836
-00:41:16,800 --> 00:41:18,531
-Yes.
+00:41:11,761 --> 00:41:13,679
+Not to mention a bath.
 
 837
-00:41:19,972 --> 00:41:21,372
-Yes, thank you.
+00:41:17,142 --> 00:41:18,893
+Yes.
 
 838
-00:41:23,180 --> 00:41:24,443
-You were right.
+00:41:20,353 --> 00:41:21,771
+Yes, thank you.
 
 839
-00:41:24,482 --> 00:41:27,249
-Your friends are
-in Sanctuary District "A."
+00:41:23,231 --> 00:41:24,941
+You were right.
 
 840
-00:41:27,288 --> 00:41:29,155
-When can we get them out?
+00:41:24,983 --> 00:41:27,568
+Your friends are in
+Sanctuary District "A."
 
 841
-00:41:29,192 --> 00:41:30,889
-Well, it might not be that easy.
+00:41:27,610 --> 00:41:29,446
+When can we get them out?
 
 842
-00:41:30,928 --> 00:41:32,693
+00:41:29,487 --> 00:41:31,197
+Well, it might
+not be that easy.
+
+843
+00:41:31,239 --> 00:41:33,241
 The Sanctuary personnel
 first have to find them.
 
-843
-00:41:32,732 --> 00:41:34,827
-There's something
-like 10,000 people in there.
-
 844
-00:41:34,869 --> 00:41:36,337
-Did they say
-how long it would take?
+00:41:33,283 --> 00:41:35,201
+And there's something like
+10,000 people in there.
 
 845
-00:41:36,373 --> 00:41:37,500
-They're not sure.
+00:41:35,243 --> 00:41:37,662
+- Did they say how
+long it would take?
+- They're not sure.
 
 846
-00:41:37,541 --> 00:41:39,568
+00:41:37,703 --> 00:41:39,372
 But don't worry,
 your friends are fine.
 
 847
-00:41:39,612 --> 00:41:41,479
+00:41:39,414 --> 00:41:41,082
 That's the whole point
-of the Sanctuary...
+of the Sanctuary--
 
 848
-00:41:41,516 --> 00:41:44,215
+00:41:41,124 --> 00:41:44,002
 to give people in trouble
 food and a place to stay.
 
 849
-00:41:44,255 --> 00:41:45,348
+00:41:44,043 --> 00:41:45,462
 If that's all it's for
 
 850
-00:41:45,424 --> 00:41:47,257
+00:41:45,503 --> 00:41:47,172
 then why is there
 a wall around it?
 
 851
-00:41:51,035 --> 00:41:52,902
-...in two days in front
-of the Processing Center.
+00:41:51,384 --> 00:41:52,969
+BASHIR: ...in two days, in
+front of the Processing Center.
 
 852
-00:41:52,938 --> 00:41:53,906
-Will you spread the word?
+00:41:53,011 --> 00:41:54,720
+- Will you spread the word?
+- MEN: All Right.
 
 853
-00:41:53,940 --> 00:41:55,135
-All Right.
-
-854
-00:41:55,177 --> 00:41:56,737
-Okay, you got it?
+00:41:54,762 --> 00:41:56,389
+SISKO: Okay, you got it?
 The day after tomorrow.
 
-855
-00:41:56,780 --> 00:41:59,148
+854
+00:41:56,431 --> 00:41:59,600
 Try to be there, and tell
 everyone else you know.
 
-856
-00:42:01,089 --> 00:42:03,321
+855
+00:42:01,353 --> 00:42:03,396
 That's, uh, 500 people
 we've talked to today.
 
-857
-00:42:03,427 --> 00:42:06,490
+856
+00:42:03,438 --> 00:42:06,732
 That only leaves
 about 9,000 to go.
 
-858
-00:42:06,533 --> 00:42:08,332
+857
+00:42:06,774 --> 00:42:08,567
 Whoa, whoa, whoa.
 Slow down!
 
-859
-00:42:08,403 --> 00:42:09,496
+858
+00:42:08,609 --> 00:42:09,902
 What's going on?
 
-860
-00:42:09,539 --> 00:42:10,734
-One of the guards got in a fight
+859
+00:42:09,944 --> 00:42:11,154
+One of the guards
+got in a fight
 
-861
-00:42:10,774 --> 00:42:12,174
+860
+00:42:11,196 --> 00:42:12,655
 with a dim down,
 down at Processing.
 
-862
-00:42:12,211 --> 00:42:13,645
+861
+00:42:12,697 --> 00:42:13,990
 Now everyone's going crazy.
 
-863
-00:42:13,680 --> 00:42:14,841
+862
+00:42:14,032 --> 00:42:15,200
 I have to find my dad.
 
+863
+00:42:15,241 --> 00:42:16,617
+(explosion)
+
 864
-00:42:43,473 --> 00:42:45,943
+00:42:16,659 --> 00:42:18,244
+(people yelling)
+
+865
+00:42:20,455 --> 00:42:22,374
+(alarm blaring)
+
+866
+00:42:26,752 --> 00:42:29,881
+(crowd shouting)
+
+867
+00:42:39,891 --> 00:42:41,142
+(grunting)
+
+868
+00:42:43,602 --> 00:42:46,356
 Give me that!
 Get back!
 
-865
-00:42:49,552 --> 00:42:52,080
+869
+00:42:47,690 --> 00:42:49,692
+(gunshot)
+
+870
+00:42:49,734 --> 00:42:52,237
 Get away!
 Get away from him!
 
-866
-00:42:52,124 --> 00:42:54,185
-Come on, we have to get him
-off the street!
+871
+00:42:52,278 --> 00:42:54,655
+Come on, we have to get
+him off the street!
 
-867
-00:43:08,290 --> 00:43:10,192
+872
+00:43:06,000 --> 00:43:08,461
+(crowd yelling)
+
+873
+00:43:08,503 --> 00:43:10,255
 Everybody put your hands
 on your head
 
-868
-00:43:10,227 --> 00:43:11,320
+874
+00:43:10,296 --> 00:43:11,423
 and face the wall!
 
-869
-00:43:11,362 --> 00:43:12,660
+875
+00:43:11,464 --> 00:43:12,882
 You can't do this.
 
-870
-00:43:12,698 --> 00:43:16,034
+876
+00:43:12,924 --> 00:43:16,219
 I can do anything I want.
 
-871
-00:43:16,071 --> 00:43:17,665
+877
+00:43:16,261 --> 00:43:17,887
 Now...
 
-872
-00:43:17,708 --> 00:43:19,405
-up against the wall.
+878
+00:43:17,929 --> 00:43:19,638
+up against
+the wall.
 
-873
-00:43:19,478 --> 00:43:21,175
+879
+00:43:19,680 --> 00:43:21,391
 That's enough!
 
-874
-00:43:24,622 --> 00:43:27,651
+880
+00:43:24,852 --> 00:43:28,314
 Well, look who we've got here.
 
-875
-00:43:27,695 --> 00:43:30,929
+881
+00:43:28,356 --> 00:43:31,150
 Way to show initiative, new boy.
 
-876
-00:43:32,671 --> 00:43:35,005
-Take him,
-and throw him back there
+882
+00:43:32,777 --> 00:43:34,320
+Take him, and throw
+him back there
 
-877
-00:43:35,042 --> 00:43:37,376
+883
+00:43:34,362 --> 00:43:37,449
 along with the rest
 of our, uh, guests.
 
-878
-00:43:37,414 --> 00:43:39,179
-What the hell do you think
-you're doing?
-
-879
-00:43:39,218 --> 00:43:42,554
-I think I am making
-a political statement.
-
-880
-00:43:43,927 --> 00:43:45,453
-Maybe if we're lucky
-
-881
-00:43:45,497 --> 00:43:48,628
-I might even be able to stage
-a nice little, uh, photo op.
-
-882
-00:43:48,670 --> 00:43:52,303
-I hope that meets
-with your approval.
-
-883
-00:43:54,215 --> 00:43:55,775
-Do as he says.
-
 884
-00:44:02,096 --> 00:44:03,793
-Well, all right!
+00:43:37,490 --> 00:43:39,200
+What the hell do you
+think you're doing?
 
 885
-00:44:03,833 --> 00:44:07,294
+00:43:39,242 --> 00:43:42,620
+I<i> think</i> I am making
+a political statement.
+
+886
+00:43:43,996 --> 00:43:46,249
+Maybe if we're lucky I might
+even be able to
+
+887
+00:43:46,291 --> 00:43:48,960
+stage a nice little,
+uh, photo op.
+
+888
+00:43:49,001 --> 00:43:50,295
+I hope that meets
+
+889
+00:43:50,336 --> 00:43:51,712
+with your approval.
+
+890
+00:43:54,507 --> 00:43:56,050
+Do as he says.
+
+891
+00:44:02,474 --> 00:44:03,933
+Well, all right!
+
+892
+00:44:03,975 --> 00:44:08,605
 I've waited a long time
 for this!
 
-886
-00:44:07,341 --> 00:44:11,076
+893
+00:44:08,646 --> 00:44:12,400
 And I know I won't
 be disappointed.
 
-887
-00:44:12,284 --> 00:44:13,775
+894
+00:44:12,442 --> 00:44:14,026
 Ain't that right, new boy?
 
-888
-00:44:16,359 --> 00:44:18,329
+895
+00:44:16,695 --> 00:44:18,531
 The name is Bell.
 
-889
-00:44:19,732 --> 00:44:21,497
+896
+00:44:19,698 --> 00:44:21,493
 Gabriel Bell.
-
