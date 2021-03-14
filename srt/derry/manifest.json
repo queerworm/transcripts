@@ -1,0 +1,48 @@
+{
+  "title": "Derry Girls",
+  "netflix": "80238565",
+  "episodes": {
+    "101": {
+      "netflix": "80993640"
+    },
+    "102": {
+      "netflix": "80993641"
+    },
+    "103": {
+      "netflix": "80993642"
+    },
+    "104": {
+      "netflix": "80993643"
+    },
+    "105": {
+      "netflix": "80993644"
+    },
+    "106": {
+      "netflix": "80993646"
+    },
+    "201": {
+      "title": "Across the Barricade",
+      "netflix": "81040624"
+    },
+    "202": {
+      "title": "Ms De Brún and the Child of Prague",
+      "netflix": "81040625"
+    },
+    "203": {
+      "title": "The Concert",
+      "netflix": "81040626"
+    },
+    "204": {
+      "title": "The Curse",
+      "netflix": "81040627"
+    },
+    "205": {
+      "title": "The Prom",
+      "netflix": "81040628"
+    },
+    "206": {
+      "title": "The President",
+      "netflix": "81040629"
+    }
+  }
+}

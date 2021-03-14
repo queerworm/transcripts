@@ -40,7 +40,10 @@ main() async {
       if (await srt.exists()) {
         available.add(episode.code);
         var html = template
-            .replaceAll('{{episode}}', episode.title)
+            .replaceAll(
+                '{{episode}}',
+                episode.title ??
+                    "Season ${episode.season}, Episode ${episode.episode}")
             .replaceAll('{{show}}', manifest.title)
             .replaceAll('{{netflix}}',
                 'https://www.netflix.com/watch/${episode.netflixId}?t=0')
@@ -87,7 +90,7 @@ class Manifest {
 
 class Episode {
   final String code;
-  final String title;
+  final String? title;
   final int season;
   final int episode;
   final String netflixId;
@@ -125,7 +128,8 @@ String srtToHtml(File srt, Episode episode) {
         // If the first text starts with a lowercase letter, assume it's a
         // continuation of the previous line (this doesn't work for all-caps
         // lines, but oh well)
-        if (expect == 'firsttext' &&
+        if (html.length > 3 &&
+            expect == 'firsttext' &&
             combineLowercaseWithPrevious &&
             line.startsWith(RegExp('[a-z]', caseSensitive: true))) {
           html.removeLast();
@@ -166,7 +170,8 @@ String makeEpisodeList(Manifest manifest, Set<String> available) {
     var season = entry.key;
     html += '<h4>Season ${season}</h4>\n';
     for (var episode in entry.value) {
-      var text = 'Episode ${episode.episode} - ${episode.title}';
+      var text = 'Episode ${episode.episode}';
+      if (episode.title != null) text += ' - ${episode.title}';
       if (available.contains(episode.code)) {
         text = '<a href="${episode.code}.html">$text</a>';
       }
