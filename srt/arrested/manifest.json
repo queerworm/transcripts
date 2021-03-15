@@ -1,0 +1,474 @@
+{
+  "title": "Arrested Development",
+  "netflix": "70140358",
+  "episodes": {
+    "101": {
+      "title": "Pilot",
+      "netflix": "70133673"
+    },
+    "102": {
+      "title": "Top Banana",
+      "netflix": "70133674"
+    },
+    "103": {
+      "title": "Bringing Up Buster",
+      "netflix": "70133675"
+    },
+    "104": {
+      "title": "Key Decisions",
+      "netflix": "70133677"
+    },
+    "105": {
+      "title": "Charity Drive",
+      "netflix": "70133678"
+    },
+    "106": {
+      "title": "Visiting Ours",
+      "netflix": "70133676"
+    },
+    "107": {
+      "title": "In God We Trust",
+      "netflix": "70133679"
+    },
+    "108": {
+      "title": "My Mother, the Car",
+      "netflix": "70133680"
+    },
+    "109": {
+      "title": "Storming the Castle",
+      "netflix": "70133681"
+    },
+    "110": {
+      "title": "Pier Pressure",
+      "netflix": "70133682"
+    },
+    "111": {
+      "title": "Public Relations",
+      "netflix": "70133683"
+    },
+    "112": {
+      "title": "Marta Complex",
+      "netflix": "70133684"
+    },
+    "113": {
+      "title": "Beef Consomme",
+      "netflix": "70133685"
+    },
+    "114": {
+      "title": "Shock and Aww",
+      "netflix": "70133686"
+    },
+    "115": {
+      "title": "Staff Infection",
+      "netflix": "70133687"
+    },
+    "116": {
+      "title": "Altar Egos",
+      "netflix": "70133689"
+    },
+    "117": {
+      "title": "Justice is Blind",
+      "netflix": "70133690"
+    },
+    "118": {
+      "title": "Missing Kitty",
+      "netflix": "70133688"
+    },
+    "119": {
+      "title": "Best Man for the Gob",
+      "netflix": "70133691"
+    },
+    "120": {
+      "title": "Whistler's Mother",
+      "netflix": "70133692"
+    },
+    "121": {
+      "title": "Not Without My Daughter",
+      "netflix": "70133693"
+    },
+    "122": {
+      "title": "Let 'Em Eat Cake",
+      "netflix": "70133694"
+    },
+    "201": {
+      "title": "The One Where Michael Leaves",
+      "netflix": "70133695"
+    },
+    "202": {
+      "title": "The One Where They Build a House",
+      "netflix": "70133696"
+    },
+    "203": {
+      "title": "iAmigos!",
+      "netflix": "70133697"
+    },
+    "204": {
+      "title": "Good Grief",
+      "netflix": "70133698"
+    },
+    "205": {
+      "title": "Sad Sack",
+      "netflix": "70133699"
+    },
+    "206": {
+      "title": "Afternoon Delight",
+      "netflix": "70133700"
+    },
+    "207": {
+      "title": "Switch Hitter",
+      "netflix": "70133701"
+    },
+    "208": {
+      "title": "Queen for a Day",
+      "netflix": "70133702"
+    },
+    "209": {
+      "title": "Burning Love",
+      "netflix": "70133703"
+    },
+    "210": {
+      "title": "Ready, Aim, Marry Me!",
+      "netflix": "70133704"
+    },
+    "211": {
+      "title": "Out on a Limb",
+      "netflix": "70133705"
+    },
+    "212": {
+      "title": "Hand to God",
+      "netflix": "70133706"
+    },
+    "213": {
+      "title": "Motherboy XXX",
+      "netflix": "70133707"
+    },
+    "214": {
+      "title": "The Immaculate Election",
+      "netflix": "70133708"
+    },
+    "215": {
+      "title": "Sword of Destiny",
+      "netflix": "70133711"
+    },
+    "216": {
+      "title": "Meat the Veals",
+      "netflix": "70133709"
+    },
+    "217": {
+      "title": "Spring Breakout",
+      "netflix": "70133710"
+    },
+    "218": {
+      "title": "The Righteous Brothers",
+      "netflix": "70133712"
+    },
+    "301": {
+      "title": "The Cabin Show",
+      "netflix": "70133713"
+    },
+    "302": {
+      "title": "For British Eyes Only",
+      "netflix": "70133714"
+    },
+    "303": {
+      "title": "Forget Me Now",
+      "netflix": "70133715"
+    },
+    "304": {
+      "title": "Notapusy",
+      "netflix": "70133716"
+    },
+    "305": {
+      "title": "Mr. F",
+      "netflix": "70133717"
+    },
+    "306": {
+      "title": "The Ocean Walker",
+      "netflix": "70133718"
+    },
+    "307": {
+      "title": "Prison Break-In",
+      "netflix": "70133720"
+    },
+    "308": {
+      "title": "Making a Stand",
+      "netflix": "70133719"
+    },
+    "309": {
+      "title": "S.O.B.s",
+      "netflix": "70133721"
+    },
+    "310": {
+      "title": "Fakin' It",
+      "netflix": "70133722"
+    },
+    "311": {
+      "title": "Family Ties",
+      "netflix": "70133723"
+    },
+    "312": {
+      "title": "Exit Strategy",
+      "netflix": "70133724"
+    },
+    "313": {
+      "title": "Development Arrested",
+      "netflix": "70133725"
+    },
+    "401": {
+      "title": "Flight of the Phoenix",
+      "netflix": "80995014"
+    },
+    "402": {
+      "title": "Borderline Personalities",
+      "netflix": "80995015"
+    },
+    "403": {
+      "title": "Indian Takers",
+      "netflix": "80995016"
+    },
+    "404": {
+      "title": "The B. Team",
+      "netflix": "80995017"
+    },
+    "405": {
+      "title": "A New Start",
+      "netflix": "80995018"
+    },
+    "406": {
+      "title": "Double Crossers",
+      "netflix": "80995019"
+    },
+    "407": {
+      "title": "Colony Collapse",
+      "netflix": "80995020"
+    },
+    "408": {
+      "title": "Red Hairing",
+      "netflix": "80995021"
+    },
+    "409": {
+      "title": "Smashed",
+      "netflix": "80995022"
+    },
+    "410": {
+      "title": "Queen B.",
+      "netflix": "80995023"
+    },
+    "411": {
+      "title": "A New Attitude",
+      "netflix": "80995024"
+    },
+    "412": {
+      "title": "Señoritis",
+      "netflix": "80995025"
+    },
+    "413": {
+      "title": "It Gets Better",
+      "netflix": "80995026"
+    },
+    "414": {
+      "title": "Off the Hook",
+      "netflix": "80995027"
+    },
+    "415": {
+      "title": "Blockheads",
+      "netflix": "80995028"
+    },
+    "R401": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 1,
+      "title": "Re Cap'n Bluth",
+      "netflix": "80241293"
+    },
+    "R402": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 2,
+      "title": "Three Half Men",
+      "netflix": "80241294"
+    },
+    "R403": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 3,
+      "title": "A Couple-A New Starts",
+      "netflix": "80241295"
+    },
+    "R404": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 4,
+      "title": "Just Deserters",
+      "netflix": "80241296"
+    },
+    "R405": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 5,
+      "title": "A Trial Run",
+      "netflix": "80241297"
+    },
+    "R406": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 6,
+      "title": "The Parent Traps",
+      "netflix": "80241298"
+    },
+    "R407": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 7,
+      "title": "One Degree of Separation",
+      "netflix": "80241299"
+    },
+    "R408": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 8,
+      "title": "The Weak Become the Strong",
+      "netflix": "80241800"
+    },
+    "R409": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 9,
+      "title": "Modern Marvels",
+      "netflix": "80241801"
+    },
+    "R410": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 10,
+      "title": "Recurring Dreams",
+      "netflix": "80241802"
+    },
+    "R411": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 11,
+      "title": "Fun Night",
+      "netflix": "80241803"
+    },
+    "R412": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 12,
+      "title": "Moving Pictures",
+      "netflix": "80241804"
+    },
+    "R413": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 13,
+      "title": "Get on Up",
+      "netflix": "80241805"
+    },
+    "R414": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 14,
+      "title": "What Goes Around",
+      "netflix": "80241806"
+    },
+    "R415": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 15,
+      "title": "Locked and Loaded",
+      "netflix": "80241807"
+    },
+    "R416": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 16,
+      "title": "Mixed Messages",
+      "netflix": "80241808"
+    },
+    "R417": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 17,
+      "title": "Dire Straights",
+      "netflix": "80241809"
+    },
+    "R418": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 18,
+      "title": "Turning on Each Other",
+      "netflix": "80241810"
+    },
+    "R419": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 19,
+      "title": "Fast Company",
+      "netflix": "80241811"
+    },
+    "R420": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 20,
+      "title": "Cinco de Cuatro I",
+      "netflix": "80241812"
+    },
+    "R421": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 21,
+      "title": "Cinco de Cuatro II",
+      "netflix": "80241813"
+    },
+    "R422": {
+      "season": "Season 4 Remix: Fateful Consequences",
+      "episode": 22,
+      "title": "Cinco de Cuatro III",
+      "netflix": "80241814"
+    },
+    "501": {
+      "title": "Family Leave",
+      "netflix": "80149283"
+    },
+    "502": {
+      "title": "Self-Deportation",
+      "netflix": "80207625"
+    },
+    "503": {
+      "title": "Everyone Gets Atrophy",
+      "netflix": "80207626"
+    },
+    "504": {
+      "title": "An Old Start",
+      "netflix": "80207627"
+    },
+    "505": {
+      "title": "Sinking Feelings",
+      "netflix": "80207628"
+    },
+    "506": {
+      "title": "Emotional Baggage",
+      "netflix": "80207629"
+    },
+    "507": {
+      "title": "Rom-Traum",
+      "netflix": "80207630"
+    },
+    "508": {
+      "title": "Premature Independence",
+      "netflix": "80207631"
+    },
+    "509": {
+      "title": "Unexpected Company",
+      "netflix": "80207632"
+    },
+    "510": {
+      "title": "Taste Makers",
+      "netflix": "80207633"
+    },
+    "511": {
+      "title": "Chain Migration",
+      "netflix": "80207634"
+    },
+    "512": {
+      "title": "Check Mates",
+      "netflix": "80207635"
+    },
+    "513": {
+      "title": "The Untethered Sole",
+      "netflix": "80207636"
+    },
+    "514": {
+      "title": "Saving For Arraignment Day",
+      "netflix": "80207637"
+    },
+    "515": {
+      "title": "Courting Disasters",
+      "netflix": "80207638"
+    },
+    "516": {
+      "title": "The Fallout",
+      "netflix": "80236530"
+    }
+  }
+}

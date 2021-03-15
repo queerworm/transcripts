@@ -91,7 +91,7 @@ class Manifest {
 class Episode {
   final String code;
   final String? title;
-  final int season;
+  final String season;
   final int episode;
   final String netflixId;
   final int netflixOffset;
@@ -100,8 +100,8 @@ class Episode {
       this.netflixOffset);
 
   factory Episode(String code, dynamic json, int globalOffset) {
-    int season =
-        json['season'] ?? int.parse(code.substring(0, code.length - 2));
+    var season =
+        json['season'] ?? 'Season ${code.substring(0, code.length - 2)}';
     int episode = json['episode'] ?? int.parse(code.substring(code.length - 2));
     return Episode._(code, json['title'], season, episode, json['netflix'],
         json['netflix_offset'] ?? globalOffset);
@@ -162,13 +162,13 @@ String timeToLink(String timeString, Episode episode) {
 
 String makeEpisodeList(Manifest manifest, Set<String> available) {
   var html = '';
-  var seasons = <int, List<Episode>>{};
+  var seasons = <String, List<Episode>>{};
   for (var episode in manifest.episodes) {
     seasons.putIfAbsent(episode.season, () => []).add(episode);
   }
   for (var entry in seasons.entries) {
     var season = entry.key;
-    html += '<h4>Season ${season}</h4>\n';
+    html += '<h4>$season</h4>\n';
     for (var episode in entry.value) {
       var text = 'Episode ${episode.episode}';
       if (episode.title != null) text += ' - ${episode.title}';
