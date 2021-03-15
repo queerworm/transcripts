@@ -1,0 +1,2826 @@
+1
+00:00:01,835 --> 00:00:03,044
+( beeping )
+
+2
+00:00:03,128 --> 00:00:05,755
+A transport shuttle, no armaments.
+
+3
+00:00:05,839 --> 00:00:08,633
+Their engines are down,
+life support failing.
+
+4
+00:00:08,717 --> 00:00:09,801
+Crew?
+
+5
+00:00:09,884 --> 00:00:11,553
+Two biosigns, human.
+
+6
+00:00:12,220 --> 00:00:13,638
+Tractor beam.
+
+7
+00:00:13,722 --> 00:00:15,640
+Send a squad to the docking port.
+
+8
+00:00:31,781 --> 00:00:32,866
+Move!
+
+9
+00:00:40,123 --> 00:00:41,666
+Walk, human!
+
+10
+00:00:44,586 --> 00:00:45,670
+( grunts )
+
+11
+00:00:48,381 --> 00:00:49,591
+( grunts )
+
+12
+00:01:14,324 --> 00:01:15,784
+Contact the high council.
+
+13
+00:01:15,867 --> 00:01:17,452
+Inform them of the prisoners.
+Request instructions.
+
+14
+00:01:17,535 --> 00:01:20,080
+Commander, disruptor fire near the brig.
+
+15
+00:01:20,163 --> 00:01:21,289
+( door opens )
+
+16
+00:01:22,916 --> 00:01:24,167
+<i>Qi'yah!</i>
+
+17
+00:01:27,712 --> 00:01:32,091
+♪ It's been a long road ♪
+
+18
+00:01:32,175 --> 00:01:35,261
+♪ Getting from there to here ♪
+
+19
+00:01:35,345 --> 00:01:39,057
+♪ It's been a long time ♪
+
+20
+00:01:39,140 --> 00:01:43,269
+♪ But my time is finally near ♪
+
+21
+00:01:43,353 --> 00:01:47,482
+♪ And I will see my dream
+come alive at last ♪
+
+22
+00:01:47,565 --> 00:01:50,777
+♪ I will touch the sky ♪
+
+23
+00:01:50,860 --> 00:01:54,614
+♪ And they're not gonna
+hold me down no more ♪
+
+24
+00:01:54,697 --> 00:01:57,826
+♪ No, they're not gonna
+change my mind ♪
+
+25
+00:01:57,909 --> 00:02:00,537
+{\an8}♪ 'Cause I've got faith ♪
+
+26
+00:02:00,620 --> 00:02:02,831
+{\an8}♪ Of the heart ♪
+
+27
+00:02:02,914 --> 00:02:05,750
+♪ I'm going where my heart
+will take me ♪
+
+28
+00:02:05,834 --> 00:02:10,547
+♪ I've got faith to believe ♪
+
+29
+00:02:10,630 --> 00:02:13,508
+{\an8}♪ I can do anything ♪
+
+30
+00:02:13,591 --> 00:02:18,179
+{\an8}♪ I've got strength
+of the soul ♪
+
+31
+00:02:18,263 --> 00:02:21,099
+♪ And no one's gonna bend
+or break me ♪
+
+32
+00:02:21,182 --> 00:02:26,938
+♪ I can reach any star ♪
+
+33
+00:02:27,021 --> 00:02:28,815
+♪ I've got faith ♪
+
+34
+00:02:28,898 --> 00:02:30,733
+{\an8}♪ I've got, I've got, I've got ♪
+
+35
+00:02:30,817 --> 00:02:34,571
+{\an8}♪ I've got faith ♪
+
+36
+00:02:34,654 --> 00:02:38,575
+♪ Faith of the heart ♪
+
+37
+00:02:56,843 --> 00:02:57,844
+( beeps )
+
+38
+00:02:57,927 --> 00:02:59,220
+MAN: <i>You have a visitor.</i>
+
+39
+00:03:00,513 --> 00:03:02,724
+I'm busy.
+
+40
+00:03:03,308 --> 00:03:05,518
+<i>Stand up, Doctor.</i>
+
+41
+00:03:08,146 --> 00:03:09,606
+( sighs )
+
+42
+00:03:15,653 --> 00:03:17,322
+{\an8}<i>Arms.</i>
+
+43
+00:03:17,405 --> 00:03:19,282
+{\an8}( magnetic humming )
+
+44
+00:03:21,534 --> 00:03:23,828
+{\an8}( door opens )
+
+45
+00:03:33,004 --> 00:03:34,756
+{\an8}Jonathan Archer.
+
+46
+00:03:36,799 --> 00:03:39,135
+{\an8}What brings you here?
+
+47
+00:03:39,219 --> 00:03:40,887
+{\an8}They're naming the prison after you?
+
+48
+00:03:41,721 --> 00:03:43,431
+{\an8}I need to ask you some questions.
+
+49
+00:03:43,514 --> 00:03:45,141
+{\an8}( scoffs )
+
+50
+00:03:45,225 --> 00:03:47,352
+{\an8}I'm kind of in the middle of something.
+
+51
+00:03:47,435 --> 00:03:48,686
+{\an8}It won't take long.
+
+52
+00:03:50,104 --> 00:03:51,689
+{\an8}Well, I suppose it's not every day
+
+53
+00:03:51,773 --> 00:03:55,902
+{\an8}one gets to speak to the man
+who "saved the planet."
+
+54
+00:03:56,569 --> 00:03:57,654
+{\an8}Please.
+
+55
+00:04:01,366 --> 00:04:03,868
+{\an8}I apologize for the clutter.
+
+56
+00:04:03,952 --> 00:04:06,996
+{\an8}I'm not allowed
+traditional recording devices.
+
+57
+00:04:07,622 --> 00:04:08,706
+{\an8}( beeping )
+
+58
+00:04:08,790 --> 00:04:14,003
+{\an8}You programmed a PADD to unlock
+every security door in the building.
+
+59
+00:04:14,087 --> 00:04:16,673
+{\an8}I was particularly proud of that.
+
+60
+00:04:16,756 --> 00:04:19,133
+{\an8}I made it all the way to Sausalito.
+
+61
+00:04:20,385 --> 00:04:23,012
+{\an8}On the rare occasion
+I get stuck on a problem,
+
+62
+00:04:23,096 --> 00:04:27,767
+{\an8}I find a vigorous escape attempt
+helps to clear the head.
+
+63
+00:04:31,229 --> 00:04:32,480
+{\an8}Go ahead.
+
+64
+00:04:34,065 --> 00:04:35,942
+{\an8}They're DNA sequences.
+
+65
+00:04:36,859 --> 00:04:40,405
+{\an8}That one's for a modification
+of the human T-cell.
+
+66
+00:04:40,488 --> 00:04:43,866
+{\an8}It would render Sharat Syndrome
+a thing of the past.
+
+67
+00:04:44,742 --> 00:04:46,286
+That one...
+
+68
+00:04:46,369 --> 00:04:49,998
+Increases the visual spectrum by 5%.
+
+69
+00:04:50,081 --> 00:04:52,792
+Of course,
+none of this will ever be tested.
+
+70
+00:04:52,875 --> 00:04:55,295
+{\an8}They clear out my room every few months.
+
+71
+00:04:55,378 --> 00:04:59,257
+{\an8}I'm told it all gets-- Poof-- Vaporized.
+
+72
+00:04:59,340 --> 00:05:02,969
+{\an8}Why invest so much time and energy
+on things no one will ever use?
+
+73
+00:05:03,052 --> 00:05:08,766
+{\an8}How can a supposedly intelligent species
+reject technology
+
+74
+00:05:08,850 --> 00:05:12,145
+{\an8}that would enhance ability,
+relieve suffering?
+
+75
+00:05:13,771 --> 00:05:17,900
+{\an8}Genetic engineering has caused
+a lot of suffering.
+
+76
+00:05:17,984 --> 00:05:19,610
+So did splitting the atom,
+
+77
+00:05:19,694 --> 00:05:22,280
+yet the first ships
+to colonize the solar system
+
+78
+00:05:22,363 --> 00:05:23,614
+were nuclear-powered.
+
+79
+00:05:23,698 --> 00:05:26,951
+But you're not here to discuss that.
+
+80
+00:05:27,910 --> 00:05:30,705
+Someone attacked a Klingon bird-of-prey.
+
+81
+00:05:30,788 --> 00:05:32,957
+The entire crew was massacred.
+The ship is missing.
+
+82
+00:05:33,624 --> 00:05:35,960
+I read the reports.
+
+83
+00:05:36,044 --> 00:05:38,921
+I understand the Klingons
+are quite annoyed.
+
+84
+00:05:39,005 --> 00:05:41,299
+Looks like you might have
+saved Earth for nothing.
+
+85
+00:05:41,382 --> 00:05:45,511
+Whoever's responsible
+jettisoned the Klingon crew into space.
+
+86
+00:05:45,595 --> 00:05:48,097
+DNA was recovered from the bodies.
+
+87
+00:05:48,181 --> 00:05:50,767
+Let me guess... human.
+
+88
+00:05:51,184 --> 00:05:52,268
+Not quite.
+
+89
+00:05:56,481 --> 00:05:57,690
+I see.
+
+90
+00:05:57,774 --> 00:06:00,109
+They were Augments.
+
+91
+00:06:00,193 --> 00:06:03,571
+Their genetically-enhanced DNA
+matched embryos
+
+92
+00:06:03,654 --> 00:06:07,200
+stolen from a medical facility
+over 20 years ago.
+
+93
+00:06:08,034 --> 00:06:09,535
+Stolen by you.
+
+94
+00:06:17,210 --> 00:06:20,421
+Soong used to work at Cold Station 12,
+
+95
+00:06:20,505 --> 00:06:23,091
+a top-secret medical research station.
+
+96
+00:06:23,174 --> 00:06:26,594
+Isn't that where Starfleet
+keeps a stockpile of infectious diseases?
+
+97
+00:06:26,677 --> 00:06:32,558
+Along with genetically engineered embryos
+left over from the Eugenics Wars.
+
+98
+00:06:32,642 --> 00:06:35,478
+It's been kept from the public
+for obvious reasons.
+
+99
+00:06:35,561 --> 00:06:37,396
+I remember Soong's trial.
+
+100
+00:06:37,480 --> 00:06:40,483
+He wouldn't say what he did
+with the embryos he stole.
+
+101
+00:06:40,566 --> 00:06:42,819
+Now he claims that
+he took them to a planet
+
+102
+00:06:42,902 --> 00:06:46,030
+in the Trialas system and raised them.
+
+103
+00:06:46,114 --> 00:06:49,117
+They were around 10 years old
+when he was captured...
+
+104
+00:06:49,200 --> 00:06:50,952
+A decade ago.
+
+105
+00:06:51,035 --> 00:06:53,121
+So there could be a bunch of Augments
+from the Eugenics Wars
+
+106
+00:06:53,204 --> 00:06:54,247
+running around loose.
+
+107
+00:06:54,330 --> 00:06:56,165
+Not a pretty thought.
+
+108
+00:06:56,249 --> 00:06:58,459
+What would they want
+with a Klingon bird-of-prey?
+
+109
+00:06:58,543 --> 00:07:01,420
+We don't know. Neither does Soong.
+
+110
+00:07:01,504 --> 00:07:04,090
+At least, he claims he doesn't.
+
+111
+00:07:04,173 --> 00:07:08,511
+But he does think he can convince them
+to surrender without a fight.
+
+112
+00:07:08,594 --> 00:07:10,721
+You're bringing him along.
+
+113
+00:07:10,805 --> 00:07:13,724
+There's also the fact that
+he spent time in the Borderland.
+
+114
+00:07:13,808 --> 00:07:15,560
+The Borderland?
+
+115
+00:07:15,643 --> 00:07:18,146
+It's the area where
+the Klingon ship was attacked.
+
+116
+00:07:18,229 --> 00:07:20,940
+It's a volatile region
+between the Klingon empire
+
+117
+00:07:21,023 --> 00:07:23,276
+and the Orion Syndicate.
+
+118
+00:07:23,359 --> 00:07:26,279
+It attracts the most dangerous
+elements from both.
+
+119
+00:07:26,362 --> 00:07:27,822
+Sorry I asked.
+
+120
+00:07:27,905 --> 00:07:31,325
+The Klingons have threatened to retaliate
+with everything they've got.
+
+121
+00:07:31,409 --> 00:07:35,329
+We're the fastest ship
+and the most experienced crew.
+
+122
+00:07:36,456 --> 00:07:39,417
+We have to find the Augments
+and bring them back.
+
+123
+00:07:41,210 --> 00:07:43,713
+It's the only way to avert a war.
+
+124
+00:07:45,756 --> 00:07:47,383
+We launch in six hours.
+
+125
+00:07:51,304 --> 00:07:53,973
+We've mastered their engine controls.
+
+126
+00:07:54,056 --> 00:07:57,268
+Wing-mounted disruptor cannons,
+photon torpedo launchers.
+
+127
+00:07:57,351 --> 00:07:59,395
+This ship's an arsenal.
+
+128
+00:07:59,479 --> 00:08:01,397
+We're finally free.
+
+129
+00:08:08,696 --> 00:08:10,072
+A fine ship.
+
+130
+00:08:13,075 --> 00:08:14,994
+( grunts )
+
+131
+00:08:21,709 --> 00:08:23,419
+I thought you'd be pleased.
+
+132
+00:08:23,503 --> 00:08:25,421
+I didn't sanction this attack.
+
+133
+00:08:25,505 --> 00:08:27,757
+If you'd failed,
+they would have come after all of us.
+
+134
+00:08:27,840 --> 00:08:29,050
+I didn't fail.
+
+135
+00:08:29,133 --> 00:08:30,676
+Their government knows what we did.
+
+136
+00:08:30,760 --> 00:08:32,678
+They have ships hunting for us right now.
+
+137
+00:08:32,762 --> 00:08:34,680
+They won't find us.
+
+138
+00:08:40,102 --> 00:08:43,189
+It was time for us to leave
+this godforsaken planet.
+
+139
+00:08:43,272 --> 00:08:45,691
+That was my decision, not yours!
+
+140
+00:08:47,109 --> 00:08:49,695
+Have you forgotten who I am?
+
+141
+00:08:49,779 --> 00:08:50,905
+Have you?
+
+142
+00:08:53,115 --> 00:08:54,867
+No, Raakin.
+
+143
+00:08:54,951 --> 00:08:56,202
+Say it.
+
+144
+00:08:57,745 --> 00:08:59,413
+You're our leader.
+
+145
+00:09:05,127 --> 00:09:08,214
+Don't ever make me ask you again.
+
+146
+00:09:08,297 --> 00:09:10,925
+Notify me when the rest
+of our supplies are on board.
+
+147
+00:09:11,509 --> 00:09:13,094
+We're leaving orbit.
+
+148
+00:09:26,315 --> 00:09:28,317
+Permission to come aboard, sir?
+
+149
+00:09:30,695 --> 00:09:32,572
+This is my science officer, T'Pol.
+
+150
+00:09:32,655 --> 00:09:34,115
+No need for an introduction.
+
+151
+00:09:34,198 --> 00:09:37,034
+I admire your people very much.
+
+152
+00:09:37,118 --> 00:09:39,078
+We share a similar view of humanity.
+
+153
+00:09:39,161 --> 00:09:40,413
+What view is that?
+
+154
+00:09:40,496 --> 00:09:42,540
+That it could stand some improvement.
+
+155
+00:09:43,082 --> 00:09:46,711
+I believe that's true of most species,
+if not all.
+
+156
+00:09:46,794 --> 00:09:47,962
+( chuckles )
+
+157
+00:09:48,045 --> 00:09:50,131
+My tactical officer, Lieutenant Reed.
+
+158
+00:09:50,214 --> 00:09:51,257
+Doctor.
+
+159
+00:09:51,340 --> 00:09:54,343
+I've heard of you,
+but I don't recognize your face.
+
+160
+00:09:54,427 --> 00:09:56,887
+You're not getting
+your fair share of publicity.
+
+161
+00:09:57,471 --> 00:09:59,181
+I think I've had all I can stand.
+
+162
+00:09:59,890 --> 00:10:01,726
+We've prepared some quarters.
+
+163
+00:10:01,809 --> 00:10:04,520
+You'll be under guard at all times.
+
+164
+00:10:04,604 --> 00:10:06,981
+If you should decide
+you need to "clear your head."
+
+165
+00:10:07,064 --> 00:10:08,232
+( scoffs )
+
+166
+00:10:08,316 --> 00:10:10,735
+We're on a starship
+soon to be at high warp.
+
+167
+00:10:10,818 --> 00:10:12,737
+Where exactly would I go?
+
+168
+00:10:13,613 --> 00:10:14,739
+It's this way.
+
+169
+00:10:17,033 --> 00:10:19,452
+If I could examine the DNA samples
+the Klingons recovered,
+
+170
+00:10:19,535 --> 00:10:22,580
+I could tell you something
+about the current state of the Augments.
+
+171
+00:10:22,663 --> 00:10:25,082
+I'll have the information
+sent to your quarters.
+
+172
+00:10:25,166 --> 00:10:28,377
+A laboratory would be preferable,
+your sickbay.
+
+173
+00:10:28,461 --> 00:10:31,213
+Dr. Phlox's reputation rivals my own...
+
+174
+00:10:31,297 --> 00:10:32,923
+Before I was imprisoned, of course.
+
+175
+00:10:33,007 --> 00:10:34,550
+I'd enjoy trading notes with him.
+
+176
+00:10:34,634 --> 00:10:36,302
+I'll consider it.
+
+177
+00:10:37,470 --> 00:10:39,138
+( device humming )
+
+178
+00:10:44,644 --> 00:10:46,979
+So, how was the honeymoon?
+
+179
+00:10:47,063 --> 00:10:49,148
+Honeymoon?
+
+180
+00:10:49,231 --> 00:10:51,942
+You were on Vulcan another
+two weeks after I left. I figured...
+
+181
+00:10:52,026 --> 00:10:53,569
+( door opens )
+
+182
+00:10:56,405 --> 00:10:57,907
+( sighs )
+
+183
+00:10:57,990 --> 00:11:00,660
+It comes with everything
+but its own protein resequencer.
+
+184
+00:11:00,743 --> 00:11:03,287
+For that, I'll need another day.
+
+185
+00:11:10,086 --> 00:11:11,504
+( sighs )
+
+186
+00:11:16,550 --> 00:11:18,260
+I like it.
+
+187
+00:11:18,344 --> 00:11:20,304
+We don't have time
+to go over all the details.
+
+188
+00:11:20,388 --> 00:11:22,681
+Just, uh, try not to hit that button.
+
+189
+00:11:23,933 --> 00:11:25,351
+We're cleared for launch.
+
+190
+00:11:32,733 --> 00:11:34,110
+Here we are again.
+
+191
+00:11:41,659 --> 00:11:43,369
+Wouldn't have it any other way.
+
+192
+00:11:49,959 --> 00:11:51,127
+Travis.
+
+193
+00:11:55,673 --> 00:11:57,800
+( energy humming )
+
+194
+00:12:23,909 --> 00:12:27,371
+I just received an intelligence report.
+
+195
+00:12:27,455 --> 00:12:30,666
+A Klingon warship was spotted
+near Proxima Colony.
+
+196
+00:12:30,749 --> 00:12:32,251
+Admiral Forrest thinks they could be
+
+197
+00:12:32,334 --> 00:12:35,671
+conducting reconnaissance
+for a future strike.
+
+198
+00:12:36,088 --> 00:12:37,673
+I wanted to keep you up to date.
+
+199
+00:12:38,215 --> 00:12:41,469
+My government is trying
+to work out a diplomatic solution.
+
+200
+00:12:41,552 --> 00:12:43,846
+There's still a chance
+they'll be successful.
+
+201
+00:12:44,472 --> 00:12:45,806
+Small chance.
+
+202
+00:12:47,516 --> 00:12:48,809
+One other thing.
+
+203
+00:12:53,689 --> 00:12:57,776
+It's your first official day of duty,
+Commander T'Pol.
+
+204
+00:13:00,196 --> 00:13:01,238
+A present.
+
+205
+00:13:06,577 --> 00:13:08,496
+It's from the early 20th century.
+
+206
+00:13:12,291 --> 00:13:14,752
+Should help keep you pointed
+in the right direction.
+
+207
+00:13:17,171 --> 00:13:18,881
+I'm glad you're with us.
+
+208
+00:13:23,636 --> 00:13:25,054
+Thank you, Captain.
+
+209
+00:13:27,890 --> 00:13:31,977
+ARCHER: <i>Captain's starlog, May 17, 2154.</i>
+
+210
+00:13:32,061 --> 00:13:33,979
+<i>We've crossed into the Borderland,</i>
+
+211
+00:13:34,063 --> 00:13:37,233
+<i>three light-years from where</i>
+<i>the Klingons were attacked.</i>
+
+212
+00:13:37,316 --> 00:13:39,527
+<i>Still no sign of their ship.</i>
+
+213
+00:13:40,277 --> 00:13:43,030
+Malik. ( laughing )
+
+214
+00:13:43,989 --> 00:13:44,990
+( sighs )
+
+215
+00:13:45,074 --> 00:13:47,826
+He was the rebellious one.
+
+216
+00:13:47,910 --> 00:13:50,663
+Reminded me of myself when I was his age.
+
+217
+00:13:53,207 --> 00:13:56,502
+I came to think of them
+as my own children.
+
+218
+00:13:56,585 --> 00:14:00,631
+Must have been difficult
+for you to leave them behind.
+
+219
+00:14:00,714 --> 00:14:02,883
+I knew they'd survive.
+
+220
+00:14:05,177 --> 00:14:08,806
+This is extremely sophisticated
+work for 20th-century Earth.
+
+221
+00:14:09,640 --> 00:14:12,935
+Well, I made some modifications of my own.
+
+222
+00:14:13,018 --> 00:14:15,646
+Oh, really? What kind of modifications?
+
+223
+00:14:16,021 --> 00:14:17,273
+Um...
+
+224
+00:14:17,856 --> 00:14:20,192
+I prefer to let my work speak for itself.
+
+225
+00:14:21,694 --> 00:14:22,987
+I think it already has.
+
+226
+00:14:24,864 --> 00:14:27,741
+I didn't realize you shared humanity's
+
+227
+00:14:27,825 --> 00:14:31,537
+reactionary attitude
+toward this field of medicine.
+
+228
+00:14:32,371 --> 00:14:34,415
+On the contrary.
+
+229
+00:14:34,498 --> 00:14:36,584
+We've used genetic engineering on Denobula
+
+230
+00:14:36,667 --> 00:14:39,211
+for over two centuries,
+to generally positive effect.
+
+231
+00:14:39,295 --> 00:14:41,463
+But you don't approve of what I've done.
+
+232
+00:14:41,547 --> 00:14:44,008
+You tried to redesign your species.
+
+233
+00:14:44,091 --> 00:14:45,634
+The first time
+that was attempted on Earth,
+
+234
+00:14:45,718 --> 00:14:48,304
+the result was 30 million deaths.
+
+235
+00:14:48,387 --> 00:14:51,724
+We can't let past mistakes hold us back.
+
+236
+00:14:51,807 --> 00:14:55,978
+It's your responsibility as a scientist
+to learn from past mistakes.
+
+237
+00:14:56,061 --> 00:14:58,397
+Well, what makes you think I haven't?
+
+238
+00:14:58,480 --> 00:15:00,232
+I can read.
+
+239
+00:15:07,031 --> 00:15:08,282
+( rumbling )
+
+240
+00:15:08,365 --> 00:15:09,825
+Two vessels are coming up behind us.
+
+241
+00:15:09,909 --> 00:15:11,744
+Orion interceptors.
+
+242
+00:15:11,827 --> 00:15:15,789
+Interesting way of saying hello. Hoshi?
+
+243
+00:15:15,873 --> 00:15:16,874
+No response.
+
+244
+00:15:16,957 --> 00:15:18,083
+( rumbling )
+
+245
+00:15:33,724 --> 00:15:36,226
+We're getting hammered down here!
+
+246
+00:15:36,310 --> 00:15:38,270
+Keep firing.
+
+247
+00:15:38,354 --> 00:15:40,189
+( beeping )
+
+248
+00:15:40,272 --> 00:15:42,733
+I'm picking up an energy surge
+from one of the interceptors.
+
+249
+00:15:42,816 --> 00:15:44,860
+-A weapon?
+-No.
+
+250
+00:15:51,158 --> 00:15:52,576
+Tucker to the bridge.
+
+251
+00:15:52,660 --> 00:15:54,370
+Two of my people just disappeared.
+
+252
+00:15:54,453 --> 00:15:56,830
+The interceptors have jumped to warp.
+
+253
+00:15:58,999 --> 00:16:00,584
+They're gone.
+
+254
+00:16:01,835 --> 00:16:04,421
+They took nine people, including T'Pol.
+
+255
+00:16:04,505 --> 00:16:05,923
+Hmm...
+
+256
+00:16:06,006 --> 00:16:08,926
+There never used to be
+Orions in this area.
+
+257
+00:16:09,009 --> 00:16:12,096
+They must have expanded
+their range of operations.
+
+258
+00:16:12,179 --> 00:16:13,514
+( clicks tongue )
+
+259
+00:16:13,597 --> 00:16:15,057
+It's a shame.
+
+260
+00:16:15,140 --> 00:16:17,142
+I really liked your science officer.
+
+261
+00:16:17,226 --> 00:16:18,519
+How do I get them back?
+
+262
+00:16:18,602 --> 00:16:20,771
+( sighs ) It's not going to be easy.
+
+263
+00:16:20,854 --> 00:16:22,523
+That's not what I asked you.
+
+264
+00:16:23,232 --> 00:16:26,318
+They've most likely been taken
+to a processing station.
+
+265
+00:16:26,402 --> 00:16:28,278
+The nearest one's on Verex III.
+
+266
+00:16:28,362 --> 00:16:29,405
+( communicator beeps )
+
+267
+00:16:29,488 --> 00:16:31,198
+-Archer to bridge.
+<i>-Reed.</i>
+
+268
+00:16:31,281 --> 00:16:33,867
+Set a course for Verex III,
+best possible speed.
+
+269
+00:16:33,951 --> 00:16:36,161
+<i>Yes, sir.</i>
+
+270
+00:16:36,245 --> 00:16:37,830
+What'll happen to them there?
+
+271
+00:16:37,913 --> 00:16:40,249
+They'll be ushered
+into their new profession...
+
+272
+00:16:40,332 --> 00:16:41,458
+As slaves.
+
+273
+00:16:42,751 --> 00:16:44,712
+These stations are heavily guarded.
+
+274
+00:16:44,795 --> 00:16:47,423
+Only legitimate traders
+are permitted to enter.
+
+275
+00:16:47,506 --> 00:16:49,508
+I have the feeling you found your way in.
+
+276
+00:16:50,676 --> 00:16:53,303
+I had to establish
+a relationship with the Orions.
+
+277
+00:16:53,387 --> 00:16:56,598
+They helped me acquire
+certain goods and equipment
+
+278
+00:16:56,682 --> 00:16:59,476
+I needed to survive.
+
+279
+00:16:59,560 --> 00:17:04,773
+I can get you inside,
+but I can't get your people out.
+
+280
+00:17:04,857 --> 00:17:06,734
+One step at a time.
+
+281
+00:17:16,243 --> 00:17:22,082
+Raakin is taking us to another system
+where we can live out our lives in peace.
+
+282
+00:17:23,959 --> 00:17:26,503
+But I'm sure he's already told you that.
+
+283
+00:17:26,587 --> 00:17:28,464
+He doesn't tell me everything.
+
+284
+00:17:28,547 --> 00:17:30,924
+This isn't what our father
+would have wanted.
+
+285
+00:17:31,008 --> 00:17:33,552
+He didn't raise us to run away and hide.
+
+286
+00:17:33,635 --> 00:17:36,180
+Well, what do you propose?
+
+287
+00:17:36,263 --> 00:17:39,850
+You could try
+to convince Raakin to reconsider.
+
+288
+00:17:39,933 --> 00:17:43,687
+He only wants one thing from me,
+and it isn't advice.
+
+289
+00:17:45,898 --> 00:17:47,649
+It doesn't suit you.
+
+290
+00:17:47,733 --> 00:17:49,193
+What?
+
+291
+00:17:49,276 --> 00:17:50,861
+Playing the victim.
+
+292
+00:17:58,327 --> 00:18:00,412
+You chose Raakin.
+
+293
+00:18:00,496 --> 00:18:02,873
+You wanted the strongest for yourself.
+
+294
+00:18:04,416 --> 00:18:06,418
+I still do.
+
+295
+00:18:06,502 --> 00:18:08,003
+( sighs )
+
+296
+00:18:08,087 --> 00:18:10,255
+What is it you want?
+
+297
+00:18:13,634 --> 00:18:14,718
+( gasps )
+
+298
+00:18:16,386 --> 00:18:18,847
+There's plenty of time for that.
+
+299
+00:18:24,144 --> 00:18:27,022
+-( electronic humming )
+-( groaning )
+
+300
+00:18:27,106 --> 00:18:30,150
+You are now the property
+of the Orion syndicate.
+
+301
+00:18:30,234 --> 00:18:32,945
+Break the rules and you will suffer.
+
+302
+00:18:33,028 --> 00:18:35,531
+Follow the rules and you will suffer less.
+
+303
+00:18:35,614 --> 00:18:36,865
+Take her.
+
+304
+00:18:36,949 --> 00:18:40,035
+( indistinct shouting )
+
+305
+00:18:56,426 --> 00:18:58,887
+-Ensign.
+-Commander!
+
+306
+00:18:58,971 --> 00:19:00,347
+Are you all right?
+
+307
+00:19:00,430 --> 00:19:02,224
+This thing, it hurts.
+
+308
+00:19:02,307 --> 00:19:04,101
+Don't touch it.
+
+309
+00:19:04,184 --> 00:19:05,769
+Have you seen anyone else from the ship?
+
+310
+00:19:05,853 --> 00:19:07,312
+-Just you.
+-( man screaming )
+
+311
+00:19:07,396 --> 00:19:10,232
+-Where are we?
+-An Orion slave market.
+
+312
+00:19:10,315 --> 00:19:11,733
+Slave market?
+
+313
+00:19:11,817 --> 00:19:14,611
+The Orions traffic in forced labor.
+
+314
+00:19:14,695 --> 00:19:16,780
+We're being processed for auction.
+
+315
+00:19:16,864 --> 00:19:18,282
+This can't be happening.
+
+316
+00:19:18,365 --> 00:19:20,742
+They're gonna come for us, right?
+The ship?
+
+317
+00:19:20,826 --> 00:19:21,743
+Ensign--
+
+318
+00:19:21,827 --> 00:19:23,036
+The Captain's gonna get us out of here!
+
+319
+00:19:23,120 --> 00:19:24,329
+Ensign!
+
+320
+00:19:26,707 --> 00:19:28,125
+I don't know your name.
+
+321
+00:19:28,208 --> 00:19:31,170
+Pierce. Jeffrey Pierce. I just signed on.
+
+322
+00:19:32,004 --> 00:19:33,463
+Jeffrey...
+
+323
+00:19:33,547 --> 00:19:36,508
+<i>Enterprise </i>will come.
+
+324
+00:19:36,592 --> 00:19:39,178
+It may take some time.
+
+325
+00:19:39,261 --> 00:19:42,139
+We should try to stay together
+until they get here.
+
+326
+00:19:42,222 --> 00:19:43,807
+( sobs )
+
+327
+00:19:49,646 --> 00:19:51,565
+MALE: <i>Transmit your identification code.</i>
+
+328
+00:19:51,648 --> 00:19:53,901
+( beeping )
+
+329
+00:19:55,194 --> 00:19:57,404
+Soong hasn't used this code in years.
+
+330
+00:19:57,988 --> 00:20:00,115
+Give it time.
+
+331
+00:20:02,242 --> 00:20:03,994
+MALE: <i>You're cleared to proceed.</i>
+
+332
+00:20:07,289 --> 00:20:08,707
+ARCHER: Phlox.
+
+333
+00:20:10,626 --> 00:20:13,712
+Transponder.
+It has a range of 10 kilometers.
+
+334
+00:20:13,795 --> 00:20:17,257
+You wander off more than a step or two,
+we bring you right back here.
+
+335
+00:20:19,009 --> 00:20:22,471
+You don't like me, do you,
+Commander Tucker?
+
+336
+00:20:22,554 --> 00:20:24,056
+No, I don't.
+
+337
+00:20:24,139 --> 00:20:28,602
+You probably blame me for
+what happened to your Vulcan... friend.
+
+338
+00:20:29,186 --> 00:20:30,979
+That's enough.
+
+339
+00:20:31,063 --> 00:20:33,607
+Your crew could use a sense of humor.
+
+340
+00:20:34,858 --> 00:20:36,610
+Make the engines a priority.
+
+341
+00:20:36,693 --> 00:20:39,905
+When it's time to leave, I have a feeling
+we're gonna need all the speed we can get.
+
+342
+00:20:41,573 --> 00:20:43,492
+( transporter humming )
+
+343
+00:20:43,575 --> 00:20:46,411
+I read every transcript of every mission.
+
+344
+00:20:46,495 --> 00:20:49,081
+I thought I was prepared,
+that I knew what to expect.
+
+345
+00:20:49,164 --> 00:20:50,123
+( metal clanks )
+
+346
+00:20:50,207 --> 00:20:52,501
+-( prisoners clamoring )
+-Boy, was I wrong.
+
+347
+00:20:52,584 --> 00:20:55,545
+If you wish, I can teach you
+how to minimize your anxiety.
+
+348
+00:20:55,629 --> 00:20:58,173
+Yeah, I'd like that.
+
+349
+00:20:58,257 --> 00:21:00,217
+( sniffs ) I'd like that a lot.
+
+350
+00:21:04,221 --> 00:21:06,807
+-Leave her alone!
+-( exclaims )
+
+351
+00:21:07,641 --> 00:21:08,934
+-Ensign, don't!
+
+352
+00:21:09,017 --> 00:21:10,644
+( screaming )
+
+353
+00:21:12,145 --> 00:21:14,273
+( loud beeping )
+
+354
+00:21:17,901 --> 00:21:19,528
+( laughing )
+
+355
+00:21:19,611 --> 00:21:21,822
+( beeping )
+
+356
+00:21:27,202 --> 00:21:28,745
+( laughing )
+
+357
+00:21:39,840 --> 00:21:41,425
+You're doing well.
+
+358
+00:21:47,723 --> 00:21:49,349
+( beeping )
+
+359
+00:21:52,853 --> 00:21:54,104
+( laughs )
+
+360
+00:21:54,187 --> 00:21:55,897
+( laughs )
+
+361
+00:21:55,981 --> 00:21:57,983
+Three million six!
+
+362
+00:21:58,066 --> 00:22:01,194
+Not even my last wife sold for that much.
+
+363
+00:22:01,278 --> 00:22:03,155
+( laughing )
+
+364
+00:22:07,117 --> 00:22:08,368
+MALE: Stand up!
+
+365
+00:22:10,787 --> 00:22:12,539
+Bring that woman.
+
+366
+00:22:15,709 --> 00:22:17,336
+Over here.
+
+367
+00:22:19,671 --> 00:22:21,173
+You, come with me.
+
+368
+00:22:26,762 --> 00:22:29,056
+At least we know four
+of your people are still here.
+
+369
+00:22:29,139 --> 00:22:31,933
+Doesn't seem to be
+much demand for humans.
+
+370
+00:22:32,017 --> 00:22:34,102
+ARCHER: Those devices on their necks...
+
+371
+00:22:34,186 --> 00:22:37,606
+Neurolytic restraints. Ingenious, really.
+
+372
+00:22:37,689 --> 00:22:41,526
+They induce convulsive seizures
+in disobedient slaves.
+
+373
+00:22:41,610 --> 00:22:44,237
+If a slave attempts
+to leave the premises...
+
+374
+00:22:45,864 --> 00:22:47,532
+So if you try to beam them out...
+
+375
+00:22:47,616 --> 00:22:49,785
+Wouldn't recommend it,
+not if you want them alive.
+
+376
+00:22:49,868 --> 00:22:51,244
+( beeping )
+
+377
+00:22:57,501 --> 00:23:00,003
+( loud beeping )
+
+378
+00:23:03,090 --> 00:23:05,300
+( beeping )
+
+379
+00:23:05,383 --> 00:23:07,010
+( buzzing )
+
+380
+00:23:19,439 --> 00:23:20,899
+They sell their own people?
+
+381
+00:23:20,982 --> 00:23:23,443
+Only the women.
+
+382
+00:23:23,527 --> 00:23:27,072
+Orion females are known
+for their extreme appetites,
+
+383
+00:23:27,155 --> 00:23:29,658
+their innate skills.
+
+384
+00:23:31,076 --> 00:23:32,786
+Come on.
+
+385
+00:23:32,869 --> 00:23:34,329
+( buzzing )
+
+386
+00:23:34,412 --> 00:23:36,623
+( indistinct conversations )
+
+387
+00:23:36,706 --> 00:23:37,999
+( beeping )
+
+388
+00:23:44,339 --> 00:23:45,841
+T'Pol.
+
+389
+00:23:48,385 --> 00:23:49,469
+You all right?
+
+390
+00:23:49,845 --> 00:23:51,138
+How many were taken?
+
+391
+00:23:51,221 --> 00:23:53,306
+Nine. We've located five so far.
+
+392
+00:23:53,390 --> 00:23:55,058
+We're working on a way to try and--
+
+393
+00:23:55,642 --> 00:23:59,771
+She's sold. Buyers are over there.
+
+394
+00:23:59,855 --> 00:24:02,691
+Uh, we-- we-- we made a wrong turn.
+
+395
+00:24:02,774 --> 00:24:03,817
+( chuckling )
+
+396
+00:24:03,900 --> 00:24:05,819
+Thank you so much, though.
+Thank you for your help.
+
+397
+00:24:05,902 --> 00:24:08,864
+Really. Thank you. Let's go.
+
+398
+00:24:15,078 --> 00:24:19,082
+He argues with every command I give,
+defies me in front of the others.
+
+399
+00:24:19,166 --> 00:24:22,085
+Some of them agree with what he did,
+taking this ship.
+
+400
+00:24:22,169 --> 00:24:23,795
+They've forgotten how we've
+stayed alive all these years.
+
+401
+00:24:23,879 --> 00:24:27,382
+My resolve was what kept us
+from starving to death on that rock.
+
+402
+00:24:27,465 --> 00:24:31,011
+They believe it's Malik
+who liberated us from that rock.
+
+403
+00:24:32,137 --> 00:24:34,139
+You agree with them.
+
+404
+00:24:34,222 --> 00:24:36,183
+How can you say that?
+
+405
+00:24:36,266 --> 00:24:38,185
+I hear it in your voice.
+
+406
+00:24:40,228 --> 00:24:43,356
+Malik's doing more than arguing
+with your commands.
+
+407
+00:24:44,733 --> 00:24:46,651
+He's plotting against you.
+
+408
+00:24:47,444 --> 00:24:49,738
+He wants to take your place.
+
+409
+00:24:50,322 --> 00:24:52,657
+How do you know that?
+
+410
+00:24:54,117 --> 00:24:56,036
+He told me.
+
+411
+00:24:56,953 --> 00:24:59,080
+Malik's always wanted me.
+
+412
+00:24:59,623 --> 00:25:04,544
+I knew he was planning something,
+so I let him think I wanted him as well.
+
+413
+00:25:06,463 --> 00:25:08,757
+He said that you're weak,
+
+414
+00:25:10,508 --> 00:25:12,886
+that you're making all of us weak,
+
+415
+00:25:14,137 --> 00:25:16,723
+that you're betraying Father's principles,
+
+416
+00:25:16,806 --> 00:25:19,226
+that if Father were here,
+
+417
+00:25:19,309 --> 00:25:21,978
+he'd choose Malik to lead us.
+
+418
+00:25:23,355 --> 00:25:26,608
+I will betray Father's principles.
+
+419
+00:25:29,027 --> 00:25:31,780
+I'm going to kill my own brother.
+
+420
+00:25:38,912 --> 00:25:40,997
+( loud beeping )
+
+421
+00:25:46,211 --> 00:25:51,216
+If you don't sell as a slave,
+I will sell you as food.
+
+422
+00:25:58,598 --> 00:26:00,183
+( buzzing )
+
+423
+00:26:10,110 --> 00:26:11,987
+( beeping )
+
+424
+00:26:13,822 --> 00:26:18,118
+( groans ) That's barely enough
+to cover the expense of processing you.
+
+425
+00:26:19,744 --> 00:26:21,037
+Archer to <i>Enterprise.</i>
+
+426
+00:26:21,121 --> 00:26:22,539
+<i>Tucker here.</i>
+
+427
+00:26:22,622 --> 00:26:24,541
+We've located everyone, including T'Pol.
+
+428
+00:26:24,624 --> 00:26:27,377
+I'm gonna need six kilos
+of tritanium cobalt.
+
+429
+00:26:27,460 --> 00:26:29,296
+-Nine.
+<i>-Make that nine.</i>
+
+430
+00:26:29,379 --> 00:26:30,755
+That's half our supply.
+
+431
+00:26:30,839 --> 00:26:32,799
+I'll explain later. Just get it ready.
+
+432
+00:26:32,882 --> 00:26:34,050
+<i>Yes, sir.</i>
+
+433
+00:26:37,637 --> 00:26:40,974
+ARCHER: They normally remove
+the restraint after a sale.
+
+434
+00:26:41,057 --> 00:26:43,518
+We used the extra tritanium
+to bribe one of the guards
+
+435
+00:26:43,601 --> 00:26:45,520
+to deactivate it but leave it on.
+
+436
+00:26:45,603 --> 00:26:47,355
+Why can't we just buy
+the rest of our people?
+
+437
+00:26:47,439 --> 00:26:48,940
+T'Pol's already been sold.
+
+438
+00:26:49,024 --> 00:26:51,067
+We don't have time
+to try and buy them all.
+
+439
+00:26:51,151 --> 00:26:52,902
+We're almost there. Try to hold still.
+
+440
+00:26:52,986 --> 00:26:54,738
+What kind of people are these?
+
+441
+00:26:54,821 --> 00:26:57,532
+I'd say they're not unlike
+some of your ancestors,
+
+442
+00:26:57,615 --> 00:26:58,908
+judging from your accent.
+
+443
+00:26:58,992 --> 00:27:00,618
+If I remember my history,
+
+444
+00:27:00,702 --> 00:27:03,038
+these Augments you love so much
+had plenty of slaves.
+
+445
+00:27:03,121 --> 00:27:05,540
+( chuckles ) They were more like subjects.
+
+446
+00:27:05,623 --> 00:27:08,501
+Oh. They were just treated like slaves.
+
+447
+00:27:09,502 --> 00:27:11,713
+( groaning )
+
+448
+00:27:11,796 --> 00:27:14,424
+T'Pol could be shipped out any second.
+
+449
+00:27:14,507 --> 00:27:15,925
+Work fast.
+
+450
+00:27:17,802 --> 00:27:20,555
+I told him everything.
+
+451
+00:27:20,638 --> 00:27:23,099
+He thinks
+you're planning an attack against him.
+
+452
+00:27:23,183 --> 00:27:24,601
+Is he going to move against me?
+
+453
+00:27:24,684 --> 00:27:25,935
+See for yourself.
+
+454
+00:27:27,604 --> 00:27:29,272
+Is this the move you expected?
+
+455
+00:27:30,982 --> 00:27:32,442
+It's between us.
+
+456
+00:27:33,526 --> 00:27:36,404
+I saved your life once
+when we were children,
+
+457
+00:27:36,488 --> 00:27:38,406
+pulled you from the river
+when you fell in.
+
+458
+00:27:38,490 --> 00:27:39,783
+I remember.
+
+459
+00:27:39,866 --> 00:27:42,577
+Now, 10 years later,
+you're plotting against me.
+
+460
+00:27:42,660 --> 00:27:45,622
+I'm the strongest... and the smartest.
+
+461
+00:27:45,705 --> 00:27:48,416
+Doesn't look that way from here.
+
+462
+00:27:48,500 --> 00:27:51,378
+You would never have trapped me like this.
+
+463
+00:27:51,461 --> 00:27:52,962
+( gun clicks )
+
+464
+00:27:53,046 --> 00:27:54,506
+But I have.
+
+465
+00:27:58,885 --> 00:28:00,470
+I'm sorry, Raakin.
+
+466
+00:28:00,553 --> 00:28:02,430
+( grunts )
+
+467
+00:28:03,348 --> 00:28:05,475
+It's between us.
+
+468
+00:28:05,558 --> 00:28:06,810
+Saul...
+
+469
+00:28:08,853 --> 00:28:11,106
+Jaya, listen to me.
+
+470
+00:28:11,189 --> 00:28:14,025
+They only listen to me now.
+
+471
+00:28:29,290 --> 00:28:33,294
+There was a time when I looked up to you,
+
+472
+00:28:35,296 --> 00:28:37,549
+when I called you my brother.
+
+473
+00:28:38,341 --> 00:28:40,093
+I am your brother.
+
+474
+00:28:40,176 --> 00:28:45,306
+When you rejected our father's wishes,
+you stopped being one of us.
+
+475
+00:28:45,890 --> 00:28:48,601
+And when that happened...
+
+476
+00:28:48,685 --> 00:28:50,854
+You ceased to exist.
+
+477
+00:28:52,147 --> 00:28:54,232
+-( blade plunges )
+-( gasps )
+
+478
+00:28:54,315 --> 00:28:56,401
+( groans )
+
+479
+00:28:58,069 --> 00:29:00,488
+Which makes this an act of mercy.
+
+480
+00:29:04,659 --> 00:29:06,035
+Get rid of him.
+
+481
+00:29:12,792 --> 00:29:13,877
+Don't.
+
+482
+00:29:16,504 --> 00:29:18,131
+Not for him.
+
+483
+00:29:21,092 --> 00:29:22,927
+TUCKER: <i>We're sending the code now.</i>
+
+484
+00:29:23,011 --> 00:29:24,429
+( beeps )
+
+485
+00:29:24,512 --> 00:29:25,764
+Got it.
+
+486
+00:29:37,442 --> 00:29:38,485
+( hypospray hisses )
+
+487
+00:29:38,568 --> 00:29:40,069
+( gasping )
+
+488
+00:29:58,880 --> 00:29:59,964
+( beeping )
+
+489
+00:30:04,093 --> 00:30:06,095
+( indistinct conversations )
+
+490
+00:30:10,600 --> 00:30:11,810
+Outside.
+
+491
+00:30:14,813 --> 00:30:16,564
+Outside.
+
+492
+00:30:24,072 --> 00:30:27,033
+( speaking indistinctly )
+
+493
+00:30:27,116 --> 00:30:29,118
+( beeping )
+
+494
+00:30:29,202 --> 00:30:30,703
+( device deactivates )
+
+495
+00:30:34,457 --> 00:30:36,209
+( grunts )
+
+496
+00:30:36,292 --> 00:30:37,335
+( beeping )
+
+497
+00:30:37,418 --> 00:30:40,296
+The restraints are off!
+
+498
+00:30:40,380 --> 00:30:42,632
+( indistinct shouting )
+
+499
+00:30:45,218 --> 00:30:48,972
+Slaves are loose! Slaves are loose!
+
+500
+00:30:49,055 --> 00:30:51,808
+( alarm blaring )
+
+501
+00:31:02,485 --> 00:31:03,778
+( groans )
+
+502
+00:31:03,862 --> 00:31:06,155
+Trip, start beaming them, five at a time.
+
+503
+00:31:06,239 --> 00:31:07,407
+( zaps )
+
+504
+00:31:10,827 --> 00:31:13,371
+Sorry, Captain. Hope you find your people.
+
+505
+00:31:13,454 --> 00:31:14,747
+Thanks for the ride.
+
+506
+00:31:22,255 --> 00:31:23,339
+( gasps )
+
+507
+00:31:24,883 --> 00:31:26,175
+You've got spirit.
+
+508
+00:31:26,259 --> 00:31:28,261
+I might just keep you for myself.
+
+509
+00:31:29,137 --> 00:31:30,638
+( groaning )
+
+510
+00:31:30,722 --> 00:31:32,140
+I'm not for sale.
+
+511
+00:31:36,811 --> 00:31:38,813
+Trip, have you got everyone?
+
+512
+00:31:38,897 --> 00:31:40,732
+You and Soong are the only ones left.
+
+513
+00:31:40,815 --> 00:31:43,651
+Soong got away.
+Locate him and beam him up.
+
+514
+00:31:46,070 --> 00:31:47,363
+( grunts )
+
+515
+00:31:47,447 --> 00:31:48,448
+( zaps )
+
+516
+00:31:48,531 --> 00:31:51,451
+( grunts )
+
+517
+00:31:52,160 --> 00:31:53,953
+( screaming )
+
+518
+00:31:59,792 --> 00:32:02,045
+Soong's transponder signal, it's dead.
+
+519
+00:32:02,128 --> 00:32:04,172
+Can you scan for his bio-sign?
+
+520
+00:32:04,255 --> 00:32:06,341
+We're trying,
+but there's too many people down there.
+
+521
+00:32:06,424 --> 00:32:08,468
+( indistinct shouting )
+
+522
+00:32:38,414 --> 00:32:39,791
+( beeping )
+
+523
+00:32:39,874 --> 00:32:42,001
+( grunting )
+
+524
+00:32:46,089 --> 00:32:47,757
+( grunting )
+
+525
+00:32:47,840 --> 00:32:49,425
+MALE: Help me!
+
+526
+00:32:49,509 --> 00:32:51,719
+( grunts )
+
+527
+00:32:51,803 --> 00:32:53,638
+Don't let them take me!
+
+528
+00:33:07,026 --> 00:33:08,111
+( grunts )
+
+529
+00:33:14,450 --> 00:33:15,868
+( beeping )
+
+530
+00:33:15,952 --> 00:33:17,161
+( exclaims )
+
+531
+00:33:19,664 --> 00:33:20,915
+( communicator beeps )
+
+532
+00:33:20,999 --> 00:33:23,710
+Trip, two to beam up.
+
+533
+00:33:34,012 --> 00:33:36,723
+ARCHER: You knew exactly where
+the Orions were operating.
+
+534
+00:33:36,806 --> 00:33:38,766
+You knew they'd abduct members of my crew.
+
+535
+00:33:38,850 --> 00:33:42,353
+Maybe you were even hoping they'd get you.
+
+536
+00:33:42,437 --> 00:33:44,063
+There was an outside chance.
+
+537
+00:33:44,147 --> 00:33:47,025
+You were determined to escape,
+no matter who got hurt.
+
+538
+00:33:47,108 --> 00:33:48,317
+No one was injured.
+
+539
+00:33:48,401 --> 00:33:51,362
+Nine of my people were
+nearly sold into slavery.
+
+540
+00:33:51,446 --> 00:33:53,823
+Two of them may have
+permanent physical damage
+
+541
+00:33:53,906 --> 00:33:55,033
+because of the restraints.
+
+542
+00:33:55,116 --> 00:33:57,160
+I didn't take this action lightly.
+
+543
+00:33:57,243 --> 00:33:59,120
+Is that supposed to justify what you did?
+
+544
+00:33:59,203 --> 00:34:04,625
+I'm simply saying it wasn't easy for me
+to place you and your crew in jeopardy.
+
+545
+00:34:06,335 --> 00:34:08,171
+I respect you, Captain.
+
+546
+00:34:08,921 --> 00:34:10,715
+Then tell me how to find the Augments.
+
+547
+00:34:12,592 --> 00:34:14,719
+You know where they're going.
+
+548
+00:34:14,802 --> 00:34:18,347
+They didn't steal a Klingon ship
+to go sightseeing.
+
+549
+00:34:18,431 --> 00:34:19,515
+They're dangerous.
+
+550
+00:34:19,599 --> 00:34:21,267
+They're the future.
+
+551
+00:34:21,350 --> 00:34:25,521
+They're stronger, smarter,
+free from sickness,
+
+552
+00:34:25,605 --> 00:34:28,691
+with lifespans twice as long as our own.
+
+553
+00:34:28,775 --> 00:34:30,485
+( sighs )
+
+554
+00:34:30,568 --> 00:34:33,196
+You, more than anyone,
+should appreciate what this means.
+
+555
+00:34:33,821 --> 00:34:34,822
+Why me?
+
+556
+00:34:35,740 --> 00:34:36,866
+Your father...
+
+557
+00:34:36,949 --> 00:34:39,243
+suffered from Clarke's Disease.
+
+558
+00:34:39,327 --> 00:34:43,039
+His final years were marked
+with extreme pain.
+
+559
+00:34:43,122 --> 00:34:45,083
+My father has nothing to do with this.
+
+560
+00:34:45,166 --> 00:34:47,293
+He didn't need to suffer.
+
+561
+00:34:47,376 --> 00:34:49,837
+Genetic engineering could have cured him.
+
+562
+00:34:49,921 --> 00:34:51,881
+Those who want to suppress my Augments
+
+563
+00:34:51,964 --> 00:34:56,302
+are the same ones who condemned
+your father to death.
+
+564
+00:34:56,385 --> 00:35:00,389
+Turn the ship around, Captain. Go home.
+
+565
+00:35:00,473 --> 00:35:02,642
+Leave them alone.
+
+566
+00:35:05,394 --> 00:35:08,022
+I'm gonna find them, Doctor...
+
+567
+00:35:08,106 --> 00:35:09,941
+Whether you help me or not.
+
+568
+00:35:11,901 --> 00:35:14,403
+( door opens )
+
+569
+00:35:28,417 --> 00:35:30,628
+You're supposed to be resting.
+
+570
+00:35:30,711 --> 00:35:33,464
+Dr. Phlox says I can resume
+my duties this afternoon.
+
+571
+00:35:33,548 --> 00:35:35,716
+I'm glad they got that thing off
+with no problem.
+
+572
+00:35:36,342 --> 00:35:39,053
+There's a slight ringing in my left ear,
+
+573
+00:35:39,137 --> 00:35:41,514
+but it should dissipate over time.
+
+574
+00:35:41,597 --> 00:35:43,307
+Good.
+
+575
+00:35:45,268 --> 00:35:47,228
+Well, I'll let you get back to that.
+
+576
+00:35:49,021 --> 00:35:52,567
+Vulcans don't have honeymoons.
+
+577
+00:35:52,650 --> 00:35:57,155
+After the ceremony,
+I went to Mount Seleya to meditate...
+
+578
+00:35:57,238 --> 00:35:58,239
+( clears throat )
+
+579
+00:35:58,322 --> 00:35:59,407
+Alone.
+
+580
+00:36:00,908 --> 00:36:03,369
+It's none of my business, anyway.
+
+581
+00:36:03,452 --> 00:36:05,621
+( explosions )
+
+582
+00:36:05,705 --> 00:36:08,416
+Orion interceptors, two of them,
+coming up fast.
+
+583
+00:36:08,499 --> 00:36:10,585
+-( beeping )
+-They're hailing us.
+
+584
+00:36:10,668 --> 00:36:12,044
+This is Captain Archer of the starship--
+
+585
+00:36:12,128 --> 00:36:13,754
+MALE: <i>You've stolen our property.</i>
+
+586
+00:36:13,838 --> 00:36:16,799
+They were members of my crew.
+You kidnapped them.
+
+587
+00:36:16,883 --> 00:36:20,386
+<i>Disengage your warp drive</i>
+<i>and deactivate your weapons.</i>
+
+588
+00:36:20,469 --> 00:36:22,221
+That isn't going to happen.
+
+589
+00:36:24,599 --> 00:36:25,766
+Malcolm.
+
+590
+00:36:33,482 --> 00:36:35,401
+They're targeting our Nacelles.
+
+591
+00:36:35,484 --> 00:36:37,236
+We're dropping out of warp.
+
+592
+00:36:37,320 --> 00:36:38,571
+Torpedoes.
+
+593
+00:36:41,449 --> 00:36:42,700
+There's another ship.
+
+594
+00:36:55,296 --> 00:36:57,840
+The second Orion's veering off.
+They're retreating.
+
+595
+00:36:57,924 --> 00:36:59,091
+( beeping )
+
+596
+00:36:59,175 --> 00:37:00,885
+The Klingons are requesting to dock.
+
+597
+00:37:13,439 --> 00:37:16,025
+I know he's on this ship.
+
+598
+00:37:16,108 --> 00:37:18,194
+We received his signal.
+
+599
+00:37:18,277 --> 00:37:22,240
+When he tried to escape,
+I saw him access a console.
+
+600
+00:37:22,323 --> 00:37:24,867
+You were expecting us.
+
+601
+00:37:24,951 --> 00:37:26,494
+Where is he?
+
+602
+00:37:26,577 --> 00:37:27,870
+In the brig.
+
+603
+00:37:27,954 --> 00:37:31,165
+In a prison cell.
+I want to speak with him.
+
+604
+00:37:31,249 --> 00:37:32,458
+I can't allow that.
+
+605
+00:37:32,541 --> 00:37:33,960
+We saved your ship.
+
+606
+00:37:34,043 --> 00:37:37,755
+My ship wouldn't have been in danger
+if we hadn't come looking for you.
+
+607
+00:37:40,549 --> 00:37:42,218
+What is it you want with us?
+
+608
+00:37:42,301 --> 00:37:44,303
+My orders are to take you back to Earth.
+
+609
+00:37:45,263 --> 00:37:46,847
+Earth...
+
+610
+00:37:46,931 --> 00:37:49,141
+Considers my father a criminal.
+
+611
+00:37:49,225 --> 00:37:50,476
+Why?
+
+612
+00:37:51,060 --> 00:37:52,478
+Because he brought us to life.
+
+613
+00:37:52,561 --> 00:37:56,399
+You want to take us back to a world
+that opposes our very existence.
+
+614
+00:37:56,482 --> 00:37:58,609
+You attacked a Klingon vessel.
+
+615
+00:37:58,693 --> 00:38:00,194
+They're threatening war.
+
+616
+00:38:00,278 --> 00:38:01,988
+That's not our problem.
+
+617
+00:38:03,739 --> 00:38:07,326
+We don't care what happens to you.
+
+618
+00:38:08,786 --> 00:38:10,746
+Humanity is no longer relevant.
+
+619
+00:38:11,205 --> 00:38:15,001
+To quote one of your philosophers...
+Nietzsche...
+
+620
+00:38:17,044 --> 00:38:20,423
+"Mankind is something to be surpassed."
+
+621
+00:38:23,092 --> 00:38:25,761
+You think he was talking about you?
+
+622
+00:38:30,433 --> 00:38:32,143
+I'm about to attack you.
+
+623
+00:38:33,477 --> 00:38:34,979
+You see?
+
+624
+00:38:35,062 --> 00:38:38,107
+Even with a warning,
+you're not fast enough.
+
+625
+00:38:38,190 --> 00:38:39,358
+Let him go.
+
+626
+00:38:39,442 --> 00:38:42,778
+We have five times your strength,
+double your intelligence.
+
+627
+00:38:42,862 --> 00:38:43,863
+Let him go!
+
+628
+00:38:43,946 --> 00:38:45,990
+I'll tear out his throat!
+
+629
+00:38:47,658 --> 00:38:49,201
+Lower your weapons.
+
+630
+00:38:52,288 --> 00:38:53,372
+Now.
+
+631
+00:39:02,590 --> 00:39:04,008
+Persis.
+
+632
+00:39:04,091 --> 00:39:06,510
+I've broken their security code,
+we're ready.
+
+633
+00:39:09,055 --> 00:39:10,181
+( door opens )
+
+634
+00:39:20,775 --> 00:39:22,234
+I'll kill him!
+
+635
+00:39:31,869 --> 00:39:33,621
+( door opens )
+
+636
+00:39:33,704 --> 00:39:35,289
+( grunts )
+
+637
+00:39:48,511 --> 00:39:49,678
+Persis.
+
+638
+00:39:50,471 --> 00:39:51,639
+Persis?
+
+639
+00:39:53,974 --> 00:39:55,976
+I can't believe it.
+
+640
+00:39:56,060 --> 00:39:57,478
+( sighs )
+
+641
+00:40:03,818 --> 00:40:05,528
+Father, here's Malik.
+
+642
+00:40:07,738 --> 00:40:08,823
+Malik.
+
+643
+00:40:10,074 --> 00:40:11,325
+( grunts )
+
+644
+00:40:17,748 --> 00:40:19,834
+I knew we'd see each other again.
+
+645
+00:40:20,292 --> 00:40:22,044
+I'm proud of you.
+
+646
+00:40:23,295 --> 00:40:24,797
+Of all of you.
+
+647
+00:40:25,214 --> 00:40:27,591
+Soong, listen to me.
+
+648
+00:40:28,008 --> 00:40:29,552
+There's nothing to say, Captain.
+
+649
+00:40:29,635 --> 00:40:31,846
+What should we do with them?
+
+650
+00:40:31,929 --> 00:40:33,431
+Let them go.
+
+651
+00:40:33,514 --> 00:40:35,391
+But they'll just come after us.
+
+652
+00:40:35,474 --> 00:40:37,184
+Their ship's disabled.
+
+653
+00:40:37,268 --> 00:40:41,105
+By the time it's repaired,
+we'll be far away.
+
+654
+00:40:41,188 --> 00:40:42,690
+It's been a pleasure, Captain.
+
+655
+00:40:45,860 --> 00:40:47,736
+Take my advice.
+
+656
+00:40:47,820 --> 00:40:50,573
+Go home and start learning
+how to speak Klingon.
+
+657
+00:41:11,927 --> 00:41:15,556
+There were times, back on Earth,
+
+658
+00:41:15,639 --> 00:41:18,559
+when I doubted myself,
+
+659
+00:41:18,642 --> 00:41:20,060
+my work.
+
+660
+00:41:21,562 --> 00:41:24,648
+But seeing you all,
+
+661
+00:41:24,732 --> 00:41:27,359
+I know that everything
+I've fought for was worth it.
+
+662
+00:41:28,819 --> 00:41:31,405
+We're going to build a new world.
+
+663
+00:41:31,489 --> 00:41:35,075
+But we can't begin that task just yet.
+
+664
+00:41:35,159 --> 00:41:38,996
+Thousands of your brothers and sisters
+are waiting to be born.
+
+665
+00:41:42,833 --> 00:41:44,752
+Let's go get them.
