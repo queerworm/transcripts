@@ -1,0 +1,3716 @@
+1
+00:00:03,083 --> 00:00:07,125
+<i>Captain's Log,</i>
+<i>Stardate 45376.3.</i>
+
+2
+00:00:07,125 --> 00:00:09,208
+<i>We're approaching</i>
+<i>the planet Bilana III</i>
+
+3
+00:00:09,208 --> 00:00:11,000
+<i>where a new method</i>
+<i>of propulsion</i>
+
+4
+00:00:11,000 --> 00:00:13,959
+<i>known as the "soliton wave"</i>
+<i>is being developed.</i>
+
+5
+00:00:13,959 --> 00:00:15,458
+<i>The</i> Enterprise<i> has been asked</i>
+
+6
+00:00:15,458 --> 00:00:17,375
+<i>to participate</i>
+<i>in one of the first tests</i>
+
+7
+00:00:17,375 --> 00:00:19,000
+<i>of this new technology.</i>
+
+8
+00:00:20,750 --> 00:00:22,542
+Data.
+
+9
+00:00:22,542 --> 00:00:24,208
+Data, isn't this exciting?
+
+10
+00:00:24,208 --> 00:00:27,834
+We are going to witness
+a moment in history.
+
+11
+00:00:27,834 --> 00:00:29,625
+Every nanosecond
+in this continuum
+
+12
+00:00:29,625 --> 00:00:31,875
+is a moment in history
+once it has elapsed.
+
+13
+00:00:31,875 --> 00:00:33,000
+No, no, no.
+
+14
+00:00:33,000 --> 00:00:34,291
+I mean we are going
+to see something
+
+15
+00:00:34,291 --> 00:00:36,875
+that people will talk about
+for years.
+
+16
+00:00:36,875 --> 00:00:38,166
+I mean, think about it
+
+17
+00:00:38,166 --> 00:00:40,750
+no more bulky warp engines
+or nacelles.
+
+18
+00:00:40,750 --> 00:00:42,750
+A ship just generates
+a soliton wave
+
+19
+00:00:42,750 --> 00:00:44,208
+and then rides it
+through space
+
+20
+00:00:44,208 --> 00:00:46,250
+like a surfboard.
+
+21
+00:00:46,250 --> 00:00:47,917
+This is going to be like
+being there
+
+22
+00:00:47,917 --> 00:00:50,417
+to watch Chuck Yeager
+break the sound barrier
+
+23
+00:00:50,417 --> 00:00:54,000
+or Zefram Cochrane
+engage the first warp drive.
+
+24
+00:00:54,000 --> 00:00:56,500
+It should be interesting.
+
+25
+00:00:56,500 --> 00:00:58,542
+Very exciting.
+
+26
+00:00:58,542 --> 00:01:00,291
+I'm talking
+to the wrong crowd.
+
+27
+00:01:00,291 --> 00:01:01,458
+Donaldson.
+
+28
+00:01:01,458 --> 00:01:03,458
+Donaldson, you're
+an engineer.
+
+29
+00:01:03,458 --> 00:01:06,000
+OFFICER:
+Lieutenant Worf, you have
+a subspace communication
+
+30
+00:01:06,000 --> 00:01:08,959
+from the transport ship<i> Milan.</i>
+
+31
+00:01:08,959 --> 00:01:10,917
+Transfer the signal
+to this station.
+
+32
+00:01:13,625 --> 00:01:16,291
+Hello, Worf.
+
+33
+00:01:16,291 --> 00:01:18,417
+Mother.
+
+34
+00:01:18,417 --> 00:01:20,667
+I hope you don't mind us
+dropping in on you like this
+
+35
+00:01:20,667 --> 00:01:24,333
+but when I heard the<i> Enterprise</i>
+was to be in this sector
+
+36
+00:01:24,333 --> 00:01:27,583
+we took the first transport,
+and here we are.
+
+37
+00:01:27,583 --> 00:01:28,917
+Is Father with you?
+
+38
+00:01:28,917 --> 00:01:32,250
+No, but I-I-I brought
+Alexander with me.
+
+39
+00:01:32,250 --> 00:01:36,041
+I thought the two of you
+would like the chance to visit.
+
+40
+00:01:36,041 --> 00:01:37,917
+Very well. I will make
+arrangements
+
+41
+00:01:37,917 --> 00:01:39,834
+for you to come aboard.
+
+42
+00:01:39,834 --> 00:01:41,041
+Good.
+
+43
+00:01:47,417 --> 00:01:50,291
+Worf.
+
+44
+00:01:50,291 --> 00:01:51,834
+Worf.
+
+45
+00:01:53,625 --> 00:01:55,208
+It's so good to see you.
+
+46
+00:01:55,208 --> 00:01:57,750
+You look wonderful.
+
+47
+00:01:57,750 --> 00:02:00,709
+Is that a touch of
+gray in your beard?
+
+48
+00:02:00,709 --> 00:02:02,166
+Don't worry.
+
+49
+00:02:02,166 --> 00:02:05,000
+The Rozhenko men have always
+had beards of iron gray.
+
+50
+00:02:12,542 --> 00:02:14,250
+Hello, Alexander.
+
+51
+00:02:16,500 --> 00:02:18,250
+Hello.
+
+52
+00:02:20,792 --> 00:02:23,375
+It's good to see you both.
+
+53
+00:02:23,375 --> 00:02:25,583
+How long can you stay?
+
+54
+00:02:25,583 --> 00:02:27,375
+I'm not going back.
+
+55
+00:03:02,917 --> 00:03:07,500
+PICARD:
+<i>Space, the final frontier.</i>
+
+56
+00:03:07,500 --> 00:03:11,667
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+57
+00:03:11,667 --> 00:03:13,458
+<i>Its continuing mission--</i>
+
+58
+00:03:13,458 --> 00:03:17,208
+<i>to explore</i>
+<i>strange new worlds</i>
+
+59
+00:03:17,208 --> 00:03:21,500
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+60
+00:03:21,500 --> 00:03:25,333
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+61
+00:04:34,417 --> 00:04:35,750
+Did you see the look
+on Alexander's face
+
+62
+00:04:35,750 --> 00:04:37,667
+when he saw the play area?
+
+63
+00:04:37,667 --> 00:04:39,917
+He's going to love it here.
+
+64
+00:04:39,917 --> 00:04:43,500
+Mother, why does Alexander
+believe he is remaining?
+
+65
+00:04:45,750 --> 00:04:48,792
+Lapsang souchong tea, please.
+
+66
+00:04:48,792 --> 00:04:49,792
+Are you eating?
+
+67
+00:04:49,792 --> 00:04:50,834
+You look thin.
+
+68
+00:04:50,834 --> 00:04:51,875
+Mother.
+
+69
+00:04:51,875 --> 00:04:53,333
+When your father
+was in Starfleet
+
+70
+00:04:53,333 --> 00:04:55,333
+I always had to make
+sure that I was...
+
+71
+00:04:55,333 --> 00:04:56,667
+Mother
+
+72
+00:04:56,667 --> 00:04:58,417
+we need to talk
+about Alexander.
+
+73
+00:05:07,166 --> 00:05:10,834
+Alexander is a,
+is a fine boy, Worf.
+
+74
+00:05:10,834 --> 00:05:13,834
+He's, he's smart and
+he's high-spirited--
+
+75
+00:05:13,834 --> 00:05:15,917
+a lot like you
+were at that age.
+
+76
+00:05:15,917 --> 00:05:18,583
+And sometimes, when he comes
+running through the house
+
+77
+00:05:18,583 --> 00:05:20,458
+and he knocks over
+that big green lamp
+
+78
+00:05:20,458 --> 00:05:23,083
+just like you used to do.
+
+79
+00:05:23,083 --> 00:05:24,542
+Well, I don't
+remember you smiling
+
+80
+00:05:24,542 --> 00:05:26,542
+when I knocked over
+that lamp.
+
+81
+00:05:26,542 --> 00:05:28,667
+Well, maybe once...
+
+82
+00:05:28,667 --> 00:05:32,625
+when you
+weren't looking.
+
+83
+00:05:32,625 --> 00:05:34,625
+When we learned Alexander
+was to come to live with us
+
+84
+00:05:34,625 --> 00:05:37,959
+we were so happy.
+
+85
+00:05:37,959 --> 00:05:40,333
+The house had been so empty
+since you left
+
+86
+00:05:40,333 --> 00:05:42,709
+and we thought,
+"here is our chance
+
+87
+00:05:42,709 --> 00:05:46,709
+to fill it with the sound
+of children again."
+
+88
+00:05:46,709 --> 00:05:49,458
+But the truth is, Worf,
+
+89
+00:05:49,458 --> 00:05:53,458
+your father and I,
+we're getting old.
+
+90
+00:05:53,458 --> 00:05:56,709
+Mother, you both
+have many years.
+
+91
+00:05:56,709 --> 00:05:58,750
+Oh, I don't mean
+we're ready for the grave.
+
+92
+00:05:58,750 --> 00:06:01,875
+Not yet anyway, but...
+
+93
+00:06:01,875 --> 00:06:04,250
+we're a little less active
+
+94
+00:06:04,250 --> 00:06:07,834
+and it's harder for us
+to keep up with Alexander.
+
+95
+00:06:07,834 --> 00:06:11,583
+We're ready to be
+just grandparents.
+
+96
+00:06:14,792 --> 00:06:19,166
+Alexander needs to be
+with his father, Worf.
+
+97
+00:06:19,166 --> 00:06:21,250
+Mother, that is not possible.
+
+98
+00:06:26,750 --> 00:06:28,959
+We must find another option.
+
+99
+00:06:28,959 --> 00:06:32,834
+He needs his father, Worf.
+
+100
+00:06:32,834 --> 00:06:34,458
+Alexander's...
+
+101
+00:06:36,041 --> 00:06:38,333
+he's having difficulties.
+
+102
+00:06:38,333 --> 00:06:39,834
+Difficulties?
+
+103
+00:06:41,250 --> 00:06:44,458
+He's disobedient.
+
+104
+00:06:44,458 --> 00:06:46,583
+Mother...
+
+105
+00:06:46,583 --> 00:06:50,083
+Klingon children
+are often difficult to control.
+
+106
+00:06:50,083 --> 00:06:53,917
+I do know something about
+how Klingon children behave.
+
+107
+00:06:53,917 --> 00:06:56,500
+It's not just his
+willful attitude.
+
+108
+00:06:59,583 --> 00:07:02,417
+He doesn't always
+tell the truth.
+
+109
+00:07:04,750 --> 00:07:06,834
+My son is a liar?
+
+110
+00:07:06,834 --> 00:07:09,083
+He is a boy, Worf
+
+111
+00:07:09,083 --> 00:07:11,875
+and-and boys sometimes
+take the wrong path.
+
+112
+00:07:11,875 --> 00:07:13,208
+They need guidance.
+
+113
+00:07:13,208 --> 00:07:15,000
+He needs a father--
+
+114
+00:07:15,000 --> 00:07:16,000
+his father--
+
+115
+00:07:16,000 --> 00:07:17,625
+to give him
+that guidance.
+
+116
+00:07:20,375 --> 00:07:22,500
+I have to leave soon.
+
+117
+00:07:22,500 --> 00:07:27,166
+The transport will be
+leaving for Earth.
+
+118
+00:07:27,166 --> 00:07:30,917
+You must do what you think
+is best for him.
+
+119
+00:07:30,917 --> 00:07:34,166
+That's all a parent
+can hope to do.
+
+120
+00:07:45,000 --> 00:07:47,750
+Did you enjoy going
+to school on Earth?
+
+121
+00:07:47,750 --> 00:07:49,291
+Yes.
+
+122
+00:07:55,458 --> 00:07:57,709
+Did you like your teachers?
+
+123
+00:07:57,709 --> 00:07:59,291
+Yes.
+
+124
+00:08:00,291 --> 00:08:01,917
+Good.
+
+125
+00:08:03,917 --> 00:08:06,041
+I understand you lived
+in my old room.
+
+126
+00:08:07,792 --> 00:08:10,208
+Uh-huh.
+
+127
+00:08:10,208 --> 00:08:12,041
+Good.
+
+128
+00:08:17,625 --> 00:08:18,875
+Come in.
+
+129
+00:08:20,625 --> 00:08:22,750
+Lieutenant Worf.
+
+130
+00:08:22,750 --> 00:08:25,208
+Very nice to
+see you again.
+
+131
+00:08:25,208 --> 00:08:27,375
+And you must be
+Alexander.
+
+132
+00:08:27,375 --> 00:08:30,208
+I hear you'll be coming
+to school with us for a while.
+
+133
+00:08:34,291 --> 00:08:37,917
+Well, we're very excited
+to have you with us.
+
+134
+00:08:37,917 --> 00:08:39,291
+I know the other
+boys and girls
+
+135
+00:08:39,291 --> 00:08:41,500
+will be happy
+to have a new classmate.
+
+136
+00:08:45,750 --> 00:08:47,291
+Uh, first, I need to get
+
+137
+00:08:47,291 --> 00:08:49,041
+some information
+from you.
+
+138
+00:08:56,208 --> 00:08:57,917
+Let's start with...
+
+139
+00:08:57,917 --> 00:08:59,792
+your name.
+
+140
+00:08:59,792 --> 00:09:02,667
+Alexander... Rozhenko.
+
+141
+00:09:02,667 --> 00:09:04,041
+Hmm. That's a tough one.
+
+142
+00:09:04,041 --> 00:09:05,709
+Maybe you could help me
+with that.
+
+143
+00:09:05,709 --> 00:09:07,250
+Could you spell
+your last name for me?
+
+144
+00:09:10,875 --> 00:09:12,417
+Alexander.
+
+145
+00:09:13,542 --> 00:09:15,834
+The teacher
+asked you a question.
+
+146
+00:09:15,834 --> 00:09:17,083
+It doesn't matter.
+
+147
+00:09:17,083 --> 00:09:19,166
+I think I can figure it out.
+
+148
+00:09:19,166 --> 00:09:20,875
+Date of birth.
+
+149
+00:09:32,583 --> 00:09:33,959
+(<i> sighing</i> )
+
+150
+00:09:33,959 --> 00:09:39,083
+The 43rd day of Maktag,
+Stardate 43205.
+
+151
+00:09:39,083 --> 00:09:40,125
+Yes.
+
+152
+00:09:40,125 --> 00:09:42,166
+Yes, of course.
+
+153
+00:09:42,166 --> 00:09:43,667
+I'll get
+the rest
+
+154
+00:09:43,667 --> 00:09:46,250
+of his personal records
+from the school on Earth.
+
+155
+00:09:46,250 --> 00:09:47,834
+And, oh, one last question.
+
+156
+00:09:47,834 --> 00:09:50,542
+How long will he be staying
+aboard ship?
+
+157
+00:09:50,542 --> 00:09:52,458
+It has not been decided.
+
+158
+00:10:03,041 --> 00:10:04,375
+(<i> door chimes</i> )
+
+159
+00:10:04,375 --> 00:10:05,792
+Come.
+
+160
+00:10:07,917 --> 00:10:09,166
+Mr. Worf, I thought
+our meeting
+
+161
+00:10:09,166 --> 00:10:10,917
+was scheduled
+for 1100 hours.
+
+162
+00:10:10,917 --> 00:10:12,750
+I apologize for being late,
+Captain.
+
+163
+00:10:12,750 --> 00:10:14,542
+I was detained
+in school.
+
+164
+00:10:16,834 --> 00:10:19,750
+I-I was enrolling my son
+in class.
+
+165
+00:10:19,750 --> 00:10:21,834
+I see.
+
+166
+00:10:21,834 --> 00:10:22,959
+Well, Mr. Worf,
+as you are aware
+
+167
+00:10:22,959 --> 00:10:24,542
+several new security officers
+
+168
+00:10:24,542 --> 00:10:26,375
+will be transferred
+into the<i> Enterprise</i> next week
+
+169
+00:10:26,375 --> 00:10:27,417
+and I would like to discuss...
+
+170
+00:10:27,417 --> 00:10:29,291
+Kyle to Lieutenant Worf.
+
+171
+00:10:30,667 --> 00:10:32,667
+Worf here.
+I'm sorry to bother you again,
+
+172
+00:10:32,667 --> 00:10:33,834
+Lieutenant, but I forgot
+
+173
+00:10:33,834 --> 00:10:35,500
+to mention
+that we need to arrange
+
+174
+00:10:35,500 --> 00:10:38,166
+for a series of placement
+examinations for Alexander.
+
+175
+00:10:38,166 --> 00:10:39,333
+If you could...
+
+176
+00:10:39,333 --> 00:10:40,667
+This is not a good time.
+
+177
+00:10:40,667 --> 00:10:44,250
+I will contact you shortly,
+Ms. Kyle.
+
+178
+00:10:44,250 --> 00:10:45,750
+Sorry, Captain.
+
+179
+00:10:45,750 --> 00:10:48,000
+I would like to discuss
+with you the specific areas
+
+180
+00:10:48,000 --> 00:10:49,625
+of ship security
+that I would like...
+
+181
+00:10:49,625 --> 00:10:51,375
+Sick Bay to Worf.
+
+182
+00:10:51,375 --> 00:10:53,041
+Yes, Doctor?
+
+183
+00:10:53,041 --> 00:10:56,000
+I need to schedule a physical
+examination for Alexander.
+
+184
+00:10:56,000 --> 00:10:58,500
+I also need his complete
+medical records from Earth
+
+185
+00:10:58,500 --> 00:10:59,917
+and the medical records
+of his...
+
+186
+00:10:59,917 --> 00:11:02,542
+I would rather discuss this
+at a later time.
+
+187
+00:11:02,542 --> 00:11:04,542
+There's no rush.
+Crusher out.
+
+188
+00:11:04,542 --> 00:11:10,500
+Mr. Worf, you are not
+the first officer on this ship
+
+189
+00:11:10,500 --> 00:11:12,542
+to have a new family member.
+
+190
+00:11:12,542 --> 00:11:14,709
+Take care of your son.
+
+191
+00:11:14,709 --> 00:11:16,500
+The security
+matters can wait.
+
+192
+00:11:19,458 --> 00:11:21,542
+Thank you, Captain.
+
+193
+00:11:33,166 --> 00:11:36,083
+23 field coils
+working in concert
+
+194
+00:11:36,083 --> 00:11:37,625
+will generate
+the soliton wave
+
+195
+00:11:37,625 --> 00:11:40,709
+from this point on
+the planet surface.
+
+196
+00:11:40,709 --> 00:11:42,041
+We will have
+our test ship
+
+197
+00:11:42,041 --> 00:11:43,667
+towed to a position
+
+198
+00:11:43,667 --> 00:11:47,625
+approximately two million
+kilometers from Bilana III.
+
+199
+00:11:47,625 --> 00:11:49,750
+If our theories are correct
+
+200
+00:11:49,750 --> 00:11:53,667
+the wave will envelope the ship
+and push it into warp.
+
+201
+00:11:56,000 --> 00:11:59,083
+Warp without warp drive.
+
+202
+00:11:59,083 --> 00:12:00,625
+They're going to put you
+out of a job, Geordi.
+
+203
+00:12:00,625 --> 00:12:01,792
+I hope so, Commander.
+
+204
+00:12:01,792 --> 00:12:02,959
+DATA:
+Dr. Ja'Dar
+
+205
+00:12:02,959 --> 00:12:04,166
+how closely
+will the<i> Enterprise</i>
+
+206
+00:12:04,166 --> 00:12:05,917
+need to follow
+the test vehicle?
+
+207
+00:12:05,917 --> 00:12:10,291
+The soliton emits a great deal
+of subspace radio interference.
+
+208
+00:12:10,291 --> 00:12:13,333
+You'll need to remain
+within 20 kilometers
+
+209
+00:12:13,333 --> 00:12:15,750
+in order to receive telemetry.
+
+210
+00:12:15,750 --> 00:12:17,709
+Doctor, how will you end
+the experiment?
+
+211
+00:12:17,709 --> 00:12:20,583
+The wave will be directed
+toward Lemma II
+
+212
+00:12:20,583 --> 00:12:23,291
+about three
+light-years' distance.
+
+213
+00:12:23,291 --> 00:12:27,125
+Our sister facility there
+will generate a scattering field
+
+214
+00:12:27,125 --> 00:12:28,875
+which will dissipate the wave
+
+215
+00:12:28,875 --> 00:12:31,208
+and bring the ship
+out of warp.
+
+216
+00:12:31,208 --> 00:12:34,083
+I'll be sending you more
+detailed operational plans
+
+217
+00:12:34,083 --> 00:12:36,000
+within the hour.
+
+218
+00:12:36,000 --> 00:12:37,375
+Very well, Doctor.
+
+219
+00:12:37,375 --> 00:12:38,625
+We'll contact you again
+when we've finished
+
+220
+00:12:38,625 --> 00:12:40,750
+studying
+the mission specs.
+
+221
+00:12:54,291 --> 00:12:57,083
+Worf.
+
+222
+00:12:57,083 --> 00:12:59,583
+I was just talking to Mrs. Kyle,
+the primary school teacher.
+
+223
+00:12:59,583 --> 00:13:01,000
+She told me you'd
+enrolled Alexander
+
+224
+00:13:01,000 --> 00:13:03,750
+in her class
+this morning.
+
+225
+00:13:03,750 --> 00:13:04,875
+Yes.
+
+226
+00:13:04,875 --> 00:13:06,375
+I'm sure he'll
+do very well.
+
+227
+00:13:06,375 --> 00:13:08,208
+She's a wonderful teacher.
+
+228
+00:13:08,208 --> 00:13:09,458
+Good.
+
+229
+00:13:09,458 --> 00:13:10,583
+Did she tell you about the
+father/son
+
+230
+00:13:10,583 --> 00:13:11,875
+field trip this
+afternoon?
+
+231
+00:13:11,875 --> 00:13:13,625
+Yes. We cannot attend.
+
+232
+00:13:13,625 --> 00:13:15,291
+Why not?
+
+233
+00:13:15,291 --> 00:13:17,041
+I have a personnel review
+scheduled
+
+234
+00:13:17,041 --> 00:13:18,709
+at 1300 hours.
+
+235
+00:13:21,500 --> 00:13:23,458
+This would be
+a good opportunity
+
+236
+00:13:23,458 --> 00:13:26,208
+for you to meet
+some of the other
+students and parents.
+
+237
+00:13:30,250 --> 00:13:33,542
+Well, I might be able
+to reschedule the review.
+
+238
+00:13:33,542 --> 00:13:34,917
+Good.
+
+239
+00:13:34,917 --> 00:13:36,417
+I'll let them know
+you're coming.
+
+240
+00:13:42,458 --> 00:13:45,375
+KYLE:
+As the value
+of their horns increased
+
+241
+00:13:45,375 --> 00:13:48,291
+the number of white rhinos
+in the wild kept falling
+
+242
+00:13:48,291 --> 00:13:53,625
+until they finally became
+extinct about two centuries ago.
+
+243
+00:13:53,625 --> 00:13:56,250
+Now, I'd like to show you
+a pair of animals
+
+244
+00:13:56,250 --> 00:13:58,500
+that we're trying
+to save from extinction.
+
+245
+00:13:58,500 --> 00:14:00,125
+Would you follow me?
+
+246
+00:14:00,125 --> 00:14:02,500
+(<i> quiet conversations</i> )
+
+247
+00:14:18,417 --> 00:14:21,041
+They're from Corvan II
+
+248
+00:14:21,041 --> 00:14:24,291
+where their homes
+in the rain forests
+
+249
+00:14:24,291 --> 00:14:27,667
+are being threatened
+by industrial pollutants.
+
+250
+00:14:27,667 --> 00:14:30,333
+They're called Corvan<i> gilvos.</i>
+
+251
+00:14:33,291 --> 00:14:34,917
+Well, they're a little shy.
+
+252
+00:14:34,917 --> 00:14:37,125
+Oh...
+Oh...
+
+253
+00:14:37,125 --> 00:14:39,583
+Wow.
+
+254
+00:14:39,583 --> 00:14:40,583
+The eating habits
+
+255
+00:14:40,583 --> 00:14:42,125
+of the<i> gilvos</i>
+
+256
+00:14:42,125 --> 00:14:45,291
+are very similar to those
+of Earth's Draco lizards
+
+257
+00:14:45,291 --> 00:14:49,083
+which died out
+over 300 years ago.
+
+258
+00:14:49,083 --> 00:14:52,834
+There are only 14<i> gilvos</i>
+left on Corvan II.
+
+259
+00:14:52,834 --> 00:14:54,291
+We're transplanting
+these two
+
+260
+00:14:54,291 --> 00:14:56,542
+to the protected
+planet Brentalia
+
+261
+00:14:56,542 --> 00:14:58,667
+where they
+should thrive.
+
+262
+00:14:58,667 --> 00:15:00,750
+Well, why don't you all have
+a look around
+
+263
+00:15:00,750 --> 00:15:02,291
+on your own for a while
+
+264
+00:15:02,291 --> 00:15:05,291
+and if you have any questions,
+please feel free to ask.
+
+265
+00:15:12,667 --> 00:15:14,250
+Alexander
+
+266
+00:15:14,250 --> 00:15:16,667
+I'm sorry. I forgot
+to tell everyone
+
+267
+00:15:16,667 --> 00:15:18,333
+that the models
+on the tables
+
+268
+00:15:18,333 --> 00:15:20,583
+were for everyone to play with.
+
+269
+00:15:20,583 --> 00:15:22,917
+So I guess you didn't know you
+weren't supposed to take them.
+
+270
+00:15:27,875 --> 00:15:29,166
+I saw you playing
+
+271
+00:15:29,166 --> 00:15:31,500
+with the lizard model
+a while ago.
+
+272
+00:15:31,500 --> 00:15:33,375
+Do you still
+have it?
+
+273
+00:15:33,375 --> 00:15:35,959
+Are you accusing him
+of stealing?
+
+274
+00:15:35,959 --> 00:15:37,834
+Lieutenant Worf,
+I can only tell you...
+
+275
+00:15:37,834 --> 00:15:39,291
+Alexander.
+
+276
+00:15:41,417 --> 00:15:44,583
+Did you take the model
+of the lizard from the table?
+
+277
+00:15:44,583 --> 00:15:46,125
+No, sir.
+
+278
+00:15:48,792 --> 00:15:50,375
+Lieutenant
+
+279
+00:15:50,375 --> 00:15:54,250
+I saw Alexander put the model
+inside of his jacket.
+
+280
+00:16:13,792 --> 00:16:18,458
+<i>Lieutenant Worf, Personal Log,</i>
+<i>Stardate 45376.8.</i>
+
+281
+00:16:18,458 --> 00:16:20,208
+<i>Alexander has acted shamefully</i>
+
+282
+00:16:20,208 --> 00:16:22,917
+<i>and, as his father,</i>
+<i>I must now deal with him</i>
+
+283
+00:16:22,917 --> 00:16:25,959
+<i>but I find that I would rather</i>
+<i>fight ten Balduk warriors</i>
+
+284
+00:16:25,959 --> 00:16:28,625
+<i>than face one small child.</i>
+
+285
+00:16:28,625 --> 00:16:30,875
+A Klingon's honor
+
+286
+00:16:30,875 --> 00:16:33,000
+is more important to him
+than his life.
+
+287
+00:16:35,583 --> 00:16:39,959
+A Klingon would gladly face
+the most horrible punishment
+
+288
+00:16:39,959 --> 00:16:44,208
+rather than bring shame
+or disgrace to his family name.
+
+289
+00:16:44,208 --> 00:16:46,625
+His word is his bond.
+
+290
+00:16:46,625 --> 00:16:48,208
+Without it, he is nothing.
+
+291
+00:16:50,834 --> 00:16:52,750
+Do you understand?
+
+292
+00:16:58,583 --> 00:17:01,041
+Why did you lie to me?
+
+293
+00:17:01,041 --> 00:17:04,208
+I don't know.
+
+294
+00:17:04,208 --> 00:17:08,458
+Did you fear the punishment
+you would receive?
+
+295
+00:17:08,458 --> 00:17:09,917
+I don't know.
+
+296
+00:17:09,917 --> 00:17:12,500
+You don't know why you lied,
+and yet you did.
+
+297
+00:17:12,500 --> 00:17:14,583
+You don't know why you stole
+and yet you did!
+
+298
+00:17:27,417 --> 00:17:29,375
+Alexander, come here.
+
+299
+00:17:45,583 --> 00:17:49,667
+When I was a child,
+younger than you
+
+300
+00:17:49,667 --> 00:17:51,667
+I lost my parents...
+
+301
+00:17:51,667 --> 00:17:53,542
+my family...
+
+302
+00:17:53,542 --> 00:17:54,917
+my people.
+
+303
+00:17:54,917 --> 00:17:57,750
+Everything I had
+was taken from me
+
+304
+00:17:57,750 --> 00:18:00,667
+except my sense of honor.
+
+305
+00:18:00,667 --> 00:18:05,417
+It was the one thing I had
+that was<i> truly</i> Klingon
+
+306
+00:18:05,417 --> 00:18:08,917
+which no one
+could take away.
+
+307
+00:18:08,917 --> 00:18:10,709
+Do you know
+who they are?
+
+308
+00:18:12,917 --> 00:18:14,875
+Kahless?
+
+309
+00:18:14,875 --> 00:18:17,834
+And his brother Morath.
+
+310
+00:18:17,834 --> 00:18:21,375
+They fought
+for 12 days and 12 nights
+
+311
+00:18:21,375 --> 00:18:24,000
+because Morath
+had broken his word
+
+312
+00:18:24,000 --> 00:18:26,208
+and brought shame
+to his family.
+
+313
+00:18:29,875 --> 00:18:35,417
+When you lie or steal,
+you not only dishonor yourself
+
+314
+00:18:35,417 --> 00:18:37,291
+but your family.
+
+315
+00:18:39,208 --> 00:18:41,375
+You dishonor me.
+
+316
+00:18:42,875 --> 00:18:45,250
+I'm sorry, Father.
+
+317
+00:18:45,250 --> 00:18:47,166
+I won't do it
+ever again.
+
+318
+00:18:47,166 --> 00:18:48,917
+I promise.
+
+319
+00:18:51,375 --> 00:18:55,250
+I accept your word.
+
+320
+00:18:55,250 --> 00:18:57,291
+We will not speak of this again.
+
+321
+00:19:05,291 --> 00:19:07,208
+Worf?
+
+322
+00:19:07,208 --> 00:19:08,333
+Counselor.
+
+323
+00:19:08,333 --> 00:19:09,542
+I just wanted to know
+
+324
+00:19:09,542 --> 00:19:11,291
+how the field trip
+went yesterday.
+
+325
+00:19:11,291 --> 00:19:12,625
+You have not heard?
+
+326
+00:19:12,625 --> 00:19:14,208
+No. Why?
+
+327
+00:19:17,000 --> 00:19:19,041
+Bridge.
+
+328
+00:19:19,041 --> 00:19:21,625
+There was an... incident.
+
+329
+00:19:21,625 --> 00:19:23,166
+Alexander stole a small model
+
+330
+00:19:23,166 --> 00:19:25,208
+and then told
+a falsehood
+
+331
+00:19:25,208 --> 00:19:28,333
+but I have remedied
+the situation.
+
+332
+00:19:28,333 --> 00:19:31,917
+May I ask how?
+
+333
+00:19:31,917 --> 00:19:33,583
+I pointed out his error
+
+334
+00:19:33,583 --> 00:19:35,792
+told him about
+Kahless and Morath
+
+335
+00:19:35,792 --> 00:19:38,208
+and explained
+the value of honor.
+
+336
+00:19:38,208 --> 00:19:40,458
+The boy understood.
+
+337
+00:19:40,458 --> 00:19:41,834
+I see.
+
+338
+00:19:43,959 --> 00:19:46,208
+Sometimes these things
+aren't over
+
+339
+00:19:46,208 --> 00:19:49,667
+as quickly as they seem to be.
+
+340
+00:19:49,667 --> 00:19:51,000
+I'd be happy to help
+if you have
+
+341
+00:19:51,000 --> 00:19:52,250
+any further
+problems.
+
+342
+00:19:52,250 --> 00:19:53,417
+Thank you.
+
+343
+00:19:53,417 --> 00:19:54,834
+That will not be necessary.
+
+344
+00:19:54,834 --> 00:19:57,041
+Alexander will not repeat
+this mistake.
+
+345
+00:20:03,000 --> 00:20:05,208
+DATA:
+The prototype has been
+towed into position, Captain.
+
+346
+00:20:05,208 --> 00:20:07,375
+RIKER:
+Initiate a radio link
+to the ship.
+
+347
+00:20:07,375 --> 00:20:08,667
+LA FORGE:
+Link established.
+
+348
+00:20:08,667 --> 00:20:11,458
+Receiving prelaunch
+telemetry now.
+
+349
+00:20:11,458 --> 00:20:13,667
+Incoming message
+from Dr. Ja'Dar.
+
+350
+00:20:13,667 --> 00:20:15,875
+On screen.
+
+351
+00:20:15,875 --> 00:20:19,291
+Captain, we're ready to begin
+the launch sequence.
+
+352
+00:20:19,291 --> 00:20:20,625
+Mr. Riker.
+
+353
+00:20:20,625 --> 00:20:22,208
+RIKER:
+All science labs standing by.
+
+354
+00:20:22,208 --> 00:20:24,000
+Course laid in, sir.
+
+355
+00:20:24,000 --> 00:20:25,709
+PICARD:
+The<i> Enterprise</i>
+is ready, Doctor.
+
+356
+00:20:25,709 --> 00:20:28,208
+This is Dr. Ja'Dar
+to all stations.
+
+357
+00:20:28,208 --> 00:20:30,583
+You may begin
+the launch sequence.
+
+358
+00:20:30,583 --> 00:20:33,041
+And, Doctor...
+
+359
+00:20:33,041 --> 00:20:34,709
+good luck.
+
+360
+00:20:34,709 --> 00:20:36,917
+Thank you, Captain.
+
+361
+00:20:36,917 --> 00:20:38,291
+DATA:
+Sensors indicate
+
+362
+00:20:38,291 --> 00:20:40,166
+the field generators
+on the planet surface
+
+363
+00:20:40,166 --> 00:20:42,000
+are charging, Captain.
+
+364
+00:20:42,000 --> 00:20:44,792
+The soliton wave
+has been initiated.
+
+365
+00:20:44,792 --> 00:20:46,083
+It's heading for the test ship.
+
+366
+00:20:50,458 --> 00:20:51,667
+The test ship
+
+367
+00:20:51,667 --> 00:20:53,750
+has successfully
+entered warp, sir.
+
+368
+00:20:53,750 --> 00:20:55,333
+Ensign, engage.
+
+369
+00:21:03,709 --> 00:21:06,500
+Ensign, bring us to within
+20 kilometers of the test ship.
+
+370
+00:21:06,500 --> 00:21:07,542
+Aye, sir.
+
+371
+00:21:07,542 --> 00:21:09,417
+Telemetry looks good.
+
+372
+00:21:09,417 --> 00:21:11,000
+Soliton wave is steady.
+
+373
+00:21:11,000 --> 00:21:14,583
+The test ship is maintaining
+at warp 2.35, sir.
+
+374
+00:21:14,583 --> 00:21:16,333
+That's a little faster
+than they anticipated
+
+375
+00:21:16,333 --> 00:21:18,959
+but still,
+well within mission parameters.
+
+376
+00:21:18,959 --> 00:21:21,083
+We're at 20 kilometers, Captain.
+
+377
+00:21:21,083 --> 00:21:24,792
+Mr. Data, is the wave
+affecting our warp drive?
+
+378
+00:21:24,792 --> 00:21:26,083
+No, sir.
+
+379
+00:21:26,083 --> 00:21:27,375
+The effect has been localized
+to within
+
+380
+00:21:27,375 --> 00:21:29,375
+two kilometers
+of the wave front.
+
+381
+00:21:37,166 --> 00:21:39,041
+Mr. La Forge, what's the power
+efficiency of the wave?
+
+382
+00:21:39,041 --> 00:21:42,583
+Energy transfer
+is... 98%!
+
+383
+00:21:42,583 --> 00:21:44,500
+RIKER:
+98?
+
+384
+00:21:44,500 --> 00:21:46,000
+LA FORGE:
+Yes, sir. There's less than
+two percent energy loss
+
+385
+00:21:46,000 --> 00:21:48,792
+between the wave and the ship.
+
+386
+00:21:48,792 --> 00:21:50,792
+That is 450%
+more efficient
+
+387
+00:21:50,792 --> 00:21:53,000
+than our own warp drive.
+
+388
+00:21:53,000 --> 00:21:54,875
+Astonishing.
+
+389
+00:21:54,875 --> 00:21:56,583
+Commander Riker, have
+Science Lab Three
+
+390
+00:21:56,583 --> 00:21:58,834
+begin a series of
+gamma emission tests.
+
+391
+00:21:58,834 --> 00:22:02,291
+Sir, the wave's power signature
+is fluctuating.
+
+392
+00:22:02,291 --> 00:22:05,625
+Wave efficiency
+has dropped to 73%.
+
+393
+00:22:05,625 --> 00:22:07,583
+The test ship's warp field
+is becoming unstable.
+
+394
+00:22:07,583 --> 00:22:09,250
+Sensors show multiple
+disruptions.
+
+395
+00:22:09,250 --> 00:22:14,041
+I'm reading a severe
+subspace distortion, sir.
+
+396
+00:22:14,041 --> 00:22:15,875
+It is expanding
+toward us.
+
+397
+00:22:15,875 --> 00:22:18,250
+It appears to be interfering
+with our engines, Captain.
+
+398
+00:22:18,250 --> 00:22:20,709
+I can't compensate for it!
+
+399
+00:22:20,709 --> 00:22:22,709
+Bring us out of warp,
+Ensign. All stop.
+
+400
+00:22:22,709 --> 00:22:23,792
+Aye, sir.
+
+401
+00:22:23,792 --> 00:22:24,959
+All stop.
+
+402
+00:22:32,083 --> 00:22:33,417
+Hold on!
+
+403
+00:22:45,208 --> 00:22:46,834
+RIKER:
+Damage report.
+
+404
+00:22:46,834 --> 00:22:48,875
+LA FORGE:
+Sensors and warp
+drive are off-line.
+
+405
+00:22:48,875 --> 00:22:51,375
+Deflectors
+down to 15%.
+
+406
+00:22:51,375 --> 00:22:53,375
+WORF:
+Several injuries
+reported on deck 27.
+
+407
+00:22:53,375 --> 00:22:54,458
+No fatalities.
+
+408
+00:22:54,458 --> 00:22:55,875
+What happened
+to the test ship?
+
+409
+00:22:55,875 --> 00:22:57,625
+Our last readings indicate
+the craft exploded
+
+410
+00:22:57,625 --> 00:23:00,583
+due to extreme shearing stress.
+
+411
+00:23:00,583 --> 00:23:03,208
+Incoming message from
+Bilana III, Captain.
+
+412
+00:23:03,208 --> 00:23:05,041
+On screen.
+
+413
+00:23:05,041 --> 00:23:06,792
+Captain, are you all right?
+
+414
+00:23:06,792 --> 00:23:07,875
+Was anyone hurt?
+
+415
+00:23:07,875 --> 00:23:09,333
+We sustained
+some minor damage.
+
+416
+00:23:09,333 --> 00:23:10,917
+Do you know what happened?
+
+417
+00:23:10,917 --> 00:23:12,709
+The preliminary data
+we've received
+
+418
+00:23:12,709 --> 00:23:15,709
+indicate
+a transient power imbalance.
+
+419
+00:23:15,709 --> 00:23:17,041
+That would be consistent
+
+420
+00:23:17,041 --> 00:23:18,667
+with our telemetry readings
+from the ship.
+
+421
+00:23:18,667 --> 00:23:20,875
+We detected a sudden drop
+in transfer efficiency
+
+422
+00:23:20,875 --> 00:23:22,750
+just before the explosion.
+
+423
+00:23:22,750 --> 00:23:24,375
+Are you still tracking the wave?
+
+424
+00:23:24,375 --> 00:23:26,542
+No. The explosion damaged
+our main sensor array
+
+425
+00:23:26,542 --> 00:23:28,625
+but I think we'll have it
+repaired in a couple of hours.
+
+426
+00:23:28,625 --> 00:23:30,792
+We'll contact you as soon
+as the sensors are back on line.
+
+427
+00:23:32,834 --> 00:23:34,583
+LA FORGE:
+Doctor...
+
+428
+00:23:36,333 --> 00:23:38,959
+you did it--
+warp without warp drive.
+
+429
+00:23:38,959 --> 00:23:41,375
+For a while there,
+it was really something to see.
+
+430
+00:23:41,375 --> 00:23:43,625
+Well, I hope you're here
+to see it
+
+431
+00:23:43,625 --> 00:23:46,000
+next time we try, Mr. La Forge.
+
+432
+00:23:46,000 --> 00:23:47,500
+LA FORGE:
+So do I, Doctor.
+
+433
+00:23:57,542 --> 00:23:58,792
+I apologize.
+
+434
+00:23:58,792 --> 00:24:00,208
+I was detained.
+
+435
+00:24:00,208 --> 00:24:01,375
+It's quite all right.
+
+436
+00:24:01,375 --> 00:24:03,125
+Please, sit down.
+
+437
+00:24:03,125 --> 00:24:04,917
+Thank you.
+
+438
+00:24:09,500 --> 00:24:13,750
+Lieutenant, your son
+is a very bright
+
+439
+00:24:13,750 --> 00:24:16,166
+very spirited young man.
+
+440
+00:24:16,166 --> 00:24:17,750
+From his test scores
+
+441
+00:24:17,750 --> 00:24:22,041
+I'm sure he'll turn out
+to be one of my best students.
+
+442
+00:24:22,041 --> 00:24:27,125
+However, from his behavior
+in class so far
+
+443
+00:24:27,125 --> 00:24:29,250
+I do have
+some concerns.
+
+444
+00:24:29,250 --> 00:24:32,166
+What sort of concerns?
+
+445
+00:24:32,166 --> 00:24:35,250
+Frankly, he's defiant.
+
+446
+00:24:35,250 --> 00:24:36,542
+He's overly aggressive
+
+447
+00:24:36,542 --> 00:24:38,667
+toward the other students
+
+448
+00:24:38,667 --> 00:24:40,083
+and he has a great deal
+of difficulty
+
+449
+00:24:40,083 --> 00:24:41,834
+paying attention.
+
+450
+00:24:41,834 --> 00:24:44,166
+Perhaps you do not
+have experience
+
+451
+00:24:44,166 --> 00:24:46,208
+dealing with Klingon children.
+
+452
+00:24:46,208 --> 00:24:49,083
+They require a firm hand.
+
+453
+00:24:49,083 --> 00:24:53,750
+And he seems to still have
+difficulty telling the truth.
+
+454
+00:24:53,750 --> 00:24:55,959
+He takes toys from
+the other students
+
+455
+00:24:55,959 --> 00:24:58,834
+and then denies
+taking them.
+
+456
+00:24:58,834 --> 00:25:00,458
+He acts like a bully
+
+457
+00:25:00,458 --> 00:25:04,875
+and then says someone else
+started the fight
+
+458
+00:25:04,875 --> 00:25:08,500
+<i>and</i> he's bluntly
+told me<i> you</i> said
+
+459
+00:25:08,500 --> 00:25:13,375
+"Klingons do not listen
+to teachers."
+
+460
+00:25:13,375 --> 00:25:15,125
+I did not tell him that.
+
+461
+00:25:15,125 --> 00:25:18,500
+No, of course not.
+
+462
+00:25:18,500 --> 00:25:21,875
+He's acting
+on his internal feelings
+
+463
+00:25:21,875 --> 00:25:24,250
+and then making up stories
+to explain them.
+
+464
+00:25:27,583 --> 00:25:30,500
+It might be a good idea
+for the two of you to sit down
+
+465
+00:25:30,500 --> 00:25:32,083
+with Counselor Troi
+and try...
+
+466
+00:25:32,083 --> 00:25:34,625
+Computer,
+where is Alexander Rozhenko?
+
+467
+00:25:34,625 --> 00:25:38,667
+Alexander Rozhenko
+is on Holodeck Four.
+
+468
+00:25:38,667 --> 00:25:41,125
+Lieutenant, I-I
+think we should...
+
+469
+00:25:41,125 --> 00:25:43,375
+<i>I</i> will handle this.
+
+470
+00:25:50,709 --> 00:25:52,667
+Computer,
+what program is being run?
+
+471
+00:25:52,667 --> 00:25:55,250
+Calisthenics program
+of Lieutenant Worf.
+
+472
+00:25:55,250 --> 00:25:57,083
+Difficulty level: novice.
+
+473
+00:26:01,458 --> 00:26:03,458
+(<i> growling</i> )
+
+474
+00:26:03,458 --> 00:26:04,709
+(<i> grunting</i> )
+
+475
+00:26:29,375 --> 00:26:30,625
+(<i> grunting with exertion</i> )
+
+476
+00:26:35,917 --> 00:26:37,542
+Computer, freeze program.
+
+477
+00:26:41,875 --> 00:26:43,208
+Did you see it, Father?
+
+478
+00:26:43,208 --> 00:26:44,375
+I won!
+
+479
+00:26:44,375 --> 00:26:46,250
+Yes, I saw.
+
+480
+00:26:46,250 --> 00:26:47,792
+Why are you here?
+
+481
+00:26:47,792 --> 00:26:49,333
+I'm training.
+
+482
+00:26:49,333 --> 00:26:52,166
+But you did not ask permission
+to take my bat'leth
+
+483
+00:26:52,166 --> 00:26:54,333
+or permission to use
+the holodeck.
+
+484
+00:26:54,333 --> 00:26:56,709
+But you said you wanted me
+to be a warrior.
+
+485
+00:26:56,709 --> 00:26:59,625
+I also said I wanted you
+to obey your teachers
+
+486
+00:26:59,625 --> 00:27:02,458
+and keep your promise to me.
+
+487
+00:27:02,458 --> 00:27:05,875
+Ms. Kyle told me
+about your behavior...
+
+488
+00:27:05,875 --> 00:27:07,291
+about your lies.
+
+489
+00:27:07,291 --> 00:27:08,834
+I have not lied!
+
+490
+00:27:08,834 --> 00:27:10,625
+Alexander, do not continue to...
+She's lying!
+
+491
+00:27:10,625 --> 00:27:11,959
+She hates me.
+
+492
+00:27:11,959 --> 00:27:14,208
+That's why she makes up stories
+about me.
+
+493
+00:27:14,208 --> 00:27:16,125
+I will not listen to more lies.
+
+494
+00:27:21,291 --> 00:27:23,333
+Return to our quarters.
+
+495
+00:27:23,333 --> 00:27:26,083
+But you said we could go
+see the<i> gilvos</i> again.
+
+496
+00:27:26,083 --> 00:27:29,083
+Not now, not after you have
+broken your word.
+
+497
+00:27:29,083 --> 00:27:31,709
+You promised.
+You<i> said</i> that we could.
+
+498
+00:27:31,709 --> 00:27:33,083
+Enough!
+
+499
+00:27:34,041 --> 00:27:35,458
+It is now clear to me
+
+500
+00:27:35,458 --> 00:27:39,208
+that I have failed in my duties
+as your father.
+
+501
+00:27:39,208 --> 00:27:40,792
+You have no understanding
+
+502
+00:27:40,792 --> 00:27:42,709
+about what it means
+to be Klingon.
+
+503
+00:27:46,959 --> 00:27:50,959
+I will arrange for you
+to attend a Klingon school.
+
+504
+00:27:50,959 --> 00:27:52,166
+There you will learn the lessons
+
+505
+00:27:52,166 --> 00:27:53,792
+I have failed
+to teach you.
+
+506
+00:27:53,792 --> 00:27:55,458
+No. I won't go!
+
+507
+00:27:58,166 --> 00:28:00,792
+Would you further dishonor
+our family
+
+508
+00:28:00,792 --> 00:28:02,417
+with your disobedience?
+
+509
+00:28:06,083 --> 00:28:07,834
+No, sir.
+
+510
+00:28:07,834 --> 00:28:09,458
+You will go to our quarters
+
+511
+00:28:09,458 --> 00:28:11,458
+and remain there until I return.
+
+512
+00:28:22,583 --> 00:28:24,125
+Riker to Engineering.
+
+513
+00:28:24,125 --> 00:28:25,917
+What's your estimate
+on the engines, Geordi?
+
+514
+00:28:25,917 --> 00:28:27,458
+I need another hour, Commander.
+
+515
+00:28:27,458 --> 00:28:30,291
+I still have to replace
+three power couplings.
+
+516
+00:28:30,291 --> 00:28:31,583
+Understood.
+
+517
+00:28:31,583 --> 00:28:33,458
+Sir, sensors are
+coming back on line.
+
+518
+00:28:33,458 --> 00:28:34,834
+Good.
+
+519
+00:28:34,834 --> 00:28:36,792
+Begin a sensor sweep
+for the soliton wave.
+
+520
+00:28:36,792 --> 00:28:38,750
+Aye, sir.
+
+521
+00:28:38,750 --> 00:28:40,250
+The wave is continuing
+on a course
+
+522
+00:28:40,250 --> 00:28:42,417
+to the Lemma II colony.
+
+523
+00:28:42,417 --> 00:28:46,208
+It is bearing
+020 mark 329.
+
+524
+00:28:46,208 --> 00:28:48,875
+Open a channel back here
+to Dr. Ja'Dar.
+
+525
+00:28:48,875 --> 00:28:52,583
+Sir, the wave
+has increased in velocity
+
+526
+00:28:52,583 --> 00:28:54,208
+to warp 4.1.
+
+527
+00:28:57,041 --> 00:28:58,542
+Doctor, we've located
+the soliton wave.
+
+528
+00:28:58,542 --> 00:29:00,000
+It's still on a course
+to Lemma II.
+
+529
+00:29:00,000 --> 00:29:03,542
+However, the velocity has
+increased to warp 4.1.
+
+530
+00:29:03,542 --> 00:29:04,834
+Have you checked the
+frequency resonance
+
+531
+00:29:04,834 --> 00:29:06,333
+of the subspace...?
+
+532
+00:29:06,333 --> 00:29:08,750
+Sir, the energy level
+of the wave has increased
+
+533
+00:29:08,750 --> 00:29:10,792
+by a factor of 12.
+
+534
+00:29:10,792 --> 00:29:13,041
+At this rate, it will have
+increased by a factor of 200
+
+535
+00:29:13,041 --> 00:29:15,125
+by the time it
+reaches Lemma II.
+
+536
+00:29:15,125 --> 00:29:17,000
+Will we still be able
+to dissipate the wave?
+
+537
+00:29:17,000 --> 00:29:18,709
+Commander, at
+that energy level
+
+538
+00:29:18,709 --> 00:29:20,959
+the wave will not only destroy
+the colony
+
+539
+00:29:20,959 --> 00:29:22,750
+it'll take most of the planet
+with it.
+
+540
+00:29:29,834 --> 00:29:31,959
+Are you sure
+this is what you want?
+
+541
+00:29:34,375 --> 00:29:37,500
+It is not a question
+of what<i> I</i> want.
+
+542
+00:29:37,500 --> 00:29:40,542
+It is a question
+of what is best for the boy.
+
+543
+00:29:40,542 --> 00:29:43,083
+He will be better off
+at a Klingon school.
+
+544
+00:29:43,083 --> 00:29:45,375
+Have you discussed this
+with Alexander?
+
+545
+00:29:45,375 --> 00:29:46,959
+He is a child.
+
+546
+00:29:46,959 --> 00:29:49,166
+I informed him
+of my decision.
+
+547
+00:29:49,166 --> 00:29:52,583
+I see.
+
+548
+00:29:52,583 --> 00:29:55,500
+You disapprove.
+
+549
+00:29:55,500 --> 00:29:57,375
+I'm not here
+to approve or disapprove
+
+550
+00:29:57,375 --> 00:30:00,291
+of the way you raise your son.
+
+551
+00:30:00,291 --> 00:30:01,667
+My concern right now
+
+552
+00:30:01,667 --> 00:30:04,458
+is how this decision
+is going to affect you.
+
+553
+00:30:04,458 --> 00:30:06,458
+How will you feel
+when Alexander's gone?
+
+554
+00:30:13,875 --> 00:30:15,375
+I will be pleased
+
+555
+00:30:15,375 --> 00:30:19,250
+that he is receiving
+the guidance he requires.
+
+556
+00:30:19,250 --> 00:30:20,542
+Is that how you felt
+
+557
+00:30:20,542 --> 00:30:22,250
+when he left to live
+with your parents?
+
+558
+00:30:26,750 --> 00:30:29,500
+That was different.
+
+559
+00:30:29,500 --> 00:30:34,667
+At the time, I felt he needed
+a home, a family--
+
+560
+00:30:34,667 --> 00:30:37,417
+the things I could not provide
+for him.
+
+561
+00:30:37,417 --> 00:30:40,000
+I understand.
+
+562
+00:30:40,000 --> 00:30:44,875
+The idea of raising a child
+can seem a tremendous burden
+
+563
+00:30:44,875 --> 00:30:47,583
+especially to a solitary parent.
+
+564
+00:30:47,583 --> 00:30:50,875
+He was no burden.
+
+565
+00:30:50,875 --> 00:30:54,041
+I simply knew
+that a Klingon child
+
+566
+00:30:54,041 --> 00:30:59,208
+required more... attention
+than I could provide.
+
+567
+00:30:59,208 --> 00:31:00,709
+I see.
+
+568
+00:31:05,458 --> 00:31:07,625
+Have you ever wondered
+how Alexander felt
+
+569
+00:31:07,625 --> 00:31:09,208
+about being sent away?
+
+570
+00:31:12,917 --> 00:31:14,917
+He was... very young.
+
+571
+00:31:17,625 --> 00:31:19,959
+I am sure that he was confused.
+
+572
+00:31:19,959 --> 00:31:24,291
+Do you think he felt abandoned?
+
+573
+00:31:24,291 --> 00:31:25,792
+After all
+
+574
+00:31:25,792 --> 00:31:29,083
+he left very soon
+after K'Ehleyr's death.
+
+575
+00:31:29,083 --> 00:31:32,041
+In a way, he not only
+lost his mother
+
+576
+00:31:32,041 --> 00:31:34,166
+he lost his father
+as well.
+
+577
+00:31:40,458 --> 00:31:44,291
+Are you saying
+that his misconduct
+
+578
+00:31:44,291 --> 00:31:47,542
+is a result
+of feeling abandoned?
+
+579
+00:31:47,542 --> 00:31:49,417
+It's possible.
+
+580
+00:31:50,917 --> 00:31:52,792
+Children don't have
+the experience
+
+581
+00:31:52,792 --> 00:31:56,041
+to handle emotional crises.
+
+582
+00:31:56,041 --> 00:31:58,625
+Instead of dealing
+with their feelings
+
+583
+00:31:58,625 --> 00:31:59,917
+they act on them.
+
+584
+00:32:11,583 --> 00:32:14,917
+Tell me about the last time
+you spoke with K'Ehleyr...
+
+585
+00:32:14,917 --> 00:32:16,417
+the night she died.
+
+586
+00:32:18,959 --> 00:32:20,750
+We argued.
+
+587
+00:32:20,750 --> 00:32:21,959
+About what?
+
+588
+00:32:21,959 --> 00:32:23,917
+Alexander.
+
+589
+00:32:23,917 --> 00:32:25,291
+About how she did not
+tell me about him
+
+590
+00:32:25,291 --> 00:32:27,500
+when he was born.
+
+591
+00:32:27,500 --> 00:32:30,375
+So you were angry with her.
+
+592
+00:32:30,375 --> 00:32:32,375
+Yes.
+
+593
+00:32:32,375 --> 00:32:33,959
+Are you still angry with her?
+
+594
+00:32:36,125 --> 00:32:39,542
+Of course not.
+
+595
+00:32:39,542 --> 00:32:43,166
+It would be very normal
+to be angry with her--
+
+596
+00:32:43,166 --> 00:32:45,250
+angry because she died
+and left you alone
+
+597
+00:32:45,250 --> 00:32:47,000
+with a son
+you never knew you had.
+
+598
+00:32:51,917 --> 00:32:56,750
+Being angry doesn't mean
+you loved her any less, Worf,
+
+599
+00:32:56,750 --> 00:33:00,375
+but you can't hide
+from your feelings
+
+600
+00:33:00,375 --> 00:33:04,583
+just as Alexander
+can't hide from his.
+
+601
+00:33:04,583 --> 00:33:08,583
+You both have
+a lot of healing to do.
+
+602
+00:33:08,583 --> 00:33:11,000
+Perhaps you should think
+about doing it together.
+
+603
+00:33:24,125 --> 00:33:25,834
+(<i> door opens</i> )
+
+604
+00:33:29,333 --> 00:33:30,750
+Alexander...
+
+605
+00:33:30,750 --> 00:33:32,417
+I'm almost done.
+
+606
+00:33:32,417 --> 00:33:33,792
+Stop for a moment.
+
+607
+00:33:33,792 --> 00:33:34,792
+Let us talk.
+
+608
+00:33:34,792 --> 00:33:36,792
+Why?
+
+609
+00:33:36,792 --> 00:33:40,750
+I want you to understand
+why you are going away.
+
+610
+00:33:40,750 --> 00:33:41,959
+I understand.
+
+611
+00:33:41,959 --> 00:33:43,667
+You're ashamed of me.
+
+612
+00:33:43,667 --> 00:33:46,625
+You do not understand.
+
+613
+00:33:46,625 --> 00:33:49,583
+I'm concerned
+about<i> your</i> future.
+
+614
+00:33:49,583 --> 00:33:52,375
+A Klingon school will be
+a better environment for you.
+
+615
+00:33:52,375 --> 00:33:54,208
+You don't care about me.
+
+616
+00:33:54,208 --> 00:33:55,458
+That is not true.
+
+617
+00:33:55,458 --> 00:33:57,625
+All you care about is
+your honor.
+
+618
+00:33:57,625 --> 00:33:59,250
+Alex...
+
+619
+00:34:02,083 --> 00:34:04,125
+If your mother were here
+
+620
+00:34:04,125 --> 00:34:07,250
+I do not think that she would
+want us to fight like this.
+
+621
+00:34:07,250 --> 00:34:09,709
+My mother wouldn't send me away.
+
+622
+00:34:09,709 --> 00:34:11,166
+RIKER:
+Lieutenant Worf
+
+623
+00:34:11,166 --> 00:34:14,458
+please report
+to the observation lounge.
+
+624
+00:34:14,458 --> 00:34:16,000
+Acknowledged.
+
+625
+00:34:16,000 --> 00:34:17,291
+Remain here.
+
+626
+00:34:17,291 --> 00:34:18,875
+I will return shortly.
+
+627
+00:34:22,208 --> 00:34:24,417
+(<i> breathing heavily</i> )
+
+628
+00:34:34,000 --> 00:34:36,083
+Report.
+
+629
+00:34:36,083 --> 00:34:37,250
+The soliton wave
+
+630
+00:34:37,250 --> 00:34:39,000
+has continued
+to increase in...
+
+631
+00:34:41,000 --> 00:34:42,333
+Excuse me.
+
+632
+00:34:42,333 --> 00:34:43,583
+DATA:
+The soliton wave
+has continued
+
+633
+00:34:43,583 --> 00:34:45,000
+to increase in power.
+
+634
+00:34:45,000 --> 00:34:47,834
+Its energy level has risen
+by a factor of 96.
+
+635
+00:34:47,834 --> 00:34:50,500
+At its current rate of
+acceleration, the wave
+should hit the planet
+
+636
+00:34:50,500 --> 00:34:51,834
+in a couple of hours.
+
+637
+00:34:51,834 --> 00:34:53,166
+How do we stop it?
+
+638
+00:34:53,166 --> 00:34:55,000
+Well, there are
+two possibilities.
+
+639
+00:34:55,000 --> 00:34:56,959
+We could attempt to use
+our own warp engines
+
+640
+00:34:56,959 --> 00:34:59,375
+to generate an
+inverse resonance wave.
+
+641
+00:34:59,375 --> 00:35:02,000
+If we could match the exact
+frequency and amplitude
+
+642
+00:35:02,000 --> 00:35:05,667
+of the soliton, then
+we<i> should</i> be able
+to neutralize it.
+
+643
+00:35:05,667 --> 00:35:07,291
+You don't sound very confident.
+
+644
+00:35:07,291 --> 00:35:09,333
+DATA:
+Because the soliton is
+constantly changing
+
+645
+00:35:09,333 --> 00:35:11,709
+in both frequency and amplitude
+
+646
+00:35:11,709 --> 00:35:15,709
+it will be extremely difficult
+to achieve an exact match.
+
+647
+00:35:15,709 --> 00:35:17,125
+Let's hear the second option.
+
+648
+00:35:17,125 --> 00:35:18,709
+Well, it's a little
+more dangerous
+
+649
+00:35:18,709 --> 00:35:21,041
+but I think there's a
+better chance for success.
+
+650
+00:35:21,041 --> 00:35:23,458
+We could create a backfire--
+
+651
+00:35:23,458 --> 00:35:24,792
+an explosive force set off
+
+652
+00:35:24,792 --> 00:35:26,834
+just in front
+of the soliton wave.
+
+653
+00:35:26,834 --> 00:35:30,417
+A large enough explosion,
+say five photon torpedoes
+
+654
+00:35:30,417 --> 00:35:32,250
+should be enough to
+disrupt the wave
+
+655
+00:35:32,250 --> 00:35:34,417
+and allow it to dissipate.
+
+656
+00:35:34,417 --> 00:35:36,458
+How fast is
+the wave traveling now?
+
+657
+00:35:36,458 --> 00:35:38,291
+Warp 6.37, Sir.
+
+658
+00:35:38,291 --> 00:35:39,625
+The good news is
+we can catch it
+
+659
+00:35:39,625 --> 00:35:40,917
+but the bad news is
+
+660
+00:35:40,917 --> 00:35:42,667
+that in order to set up
+this backfire
+
+661
+00:35:42,667 --> 00:35:44,083
+we have to be
+in front of it.
+
+662
+00:35:44,083 --> 00:35:45,417
+Which would require the
+<i>Enterprise</i>
+
+663
+00:35:45,417 --> 00:35:46,750
+to go through the wave.
+
+664
+00:35:46,750 --> 00:35:48,500
+Why can't we go around it?
+
+665
+00:35:48,500 --> 00:35:51,417
+The wave has been growing
+in size as well as power.
+
+666
+00:35:51,417 --> 00:35:53,000
+There's insufficient time
+remaining for us
+
+667
+00:35:53,000 --> 00:35:56,583
+to circumvent it
+before it reaches Lemma II.
+
+668
+00:35:56,583 --> 00:35:58,458
+How much protection
+will the shields provide
+
+669
+00:35:58,458 --> 00:36:00,583
+if we attempt to penetrate
+the wave?
+
+670
+00:36:00,583 --> 00:36:02,959
+The shields have not been
+fully restored.
+
+671
+00:36:02,959 --> 00:36:04,041
+Shield strength is down
+
+672
+00:36:04,041 --> 00:36:06,333
+to 33%.
+
+673
+00:36:06,333 --> 00:36:08,667
+It's going to be quite a ride.
+
+674
+00:36:08,667 --> 00:36:10,125
+(<i> sighing</i> )
+
+675
+00:36:10,125 --> 00:36:13,166
+It's the better choice.
+
+676
+00:36:13,166 --> 00:36:15,041
+Lay in a course
+for the soliton wave.
+
+677
+00:36:20,291 --> 00:36:21,750
+Ensign, after we've passed
+through the wave
+
+678
+00:36:21,750 --> 00:36:23,417
+I want you to take us
+to a relative position
+
+679
+00:36:23,417 --> 00:36:24,917
+23 kilometers
+in front of it.
+
+680
+00:36:24,917 --> 00:36:26,375
+Aye, sir.
+
+681
+00:36:26,375 --> 00:36:28,083
+Alert Sick Bay to prepare
+for possible casualties.
+
+682
+00:36:28,083 --> 00:36:29,375
+Aye, sir.
+
+683
+00:36:29,375 --> 00:36:30,500
+The wave has increased in speed
+
+684
+00:36:30,500 --> 00:36:32,250
+to warp 7.2., Captain.
+
+685
+00:36:32,250 --> 00:36:35,417
+Ensign, take her
+to warp 7.21.
+
+686
+00:36:40,041 --> 00:36:42,542
+We're approaching the wave,
+Captain. Distance...
+
+687
+00:36:42,542 --> 00:36:43,792
+200 kilometers.
+
+688
+00:36:43,792 --> 00:36:45,041
+Let's see it.
+
+689
+00:36:47,959 --> 00:36:49,166
+PICARD:
+Stand by to increase speed
+
+690
+00:36:49,166 --> 00:36:51,625
+to warp 7.3--
+on my mark.
+
+691
+00:36:51,625 --> 00:36:52,834
+Red Alert!
+
+692
+00:36:52,834 --> 00:36:53,959
+Load torpedo bays.
+
+693
+00:36:53,959 --> 00:36:55,792
+Set warhead yields
+to level 16.
+
+694
+00:36:55,792 --> 00:36:57,083
+Aye, sir.
+
+695
+00:36:57,083 --> 00:36:58,792
+All decks, this is the Bridge.
+
+696
+00:36:58,792 --> 00:37:00,750
+Brace for impact.
+
+697
+00:37:00,750 --> 00:37:03,917
+Torpedoes loaded.
+
+698
+00:37:03,917 --> 00:37:05,333
+Engage.
+
+699
+00:37:07,417 --> 00:37:08,834
+(<i> squeaky trilling</i> )
+
+700
+00:37:40,542 --> 00:37:42,041
+Report.
+
+701
+00:37:42,041 --> 00:37:44,125
+DATA:
+We have passed through
+the wave, Captain.
+
+702
+00:37:44,125 --> 00:37:46,500
+We have dropped
+to warp 7.2.
+
+703
+00:37:46,500 --> 00:37:49,959
+The wave is directly astern
+at a distance of 23 kilometers.
+
+704
+00:37:49,959 --> 00:37:53,041
+WORF:
+Deflector strength
+is down to 12%.
+
+705
+00:37:53,041 --> 00:37:56,500
+There are fluctuations in
+several warp transfer conduits.
+
+706
+00:37:56,500 --> 00:37:59,208
+Tractor beams
+and transporters off-line.
+
+707
+00:37:59,208 --> 00:38:02,000
+We have some gaps
+in the aft shields, Captain.
+
+708
+00:38:02,000 --> 00:38:03,417
+When the torpedoes explode
+
+709
+00:38:03,417 --> 00:38:04,583
+these areas
+will be contaminated
+
+710
+00:38:04,583 --> 00:38:06,041
+with ion radiation.
+
+711
+00:38:06,041 --> 00:38:10,208
+We need to evacuate
+sections 24 to 47
+
+712
+00:38:10,208 --> 00:38:11,583
+decks 35 to 38.
+
+713
+00:38:11,583 --> 00:38:14,000
+Make it so.
+
+714
+00:38:14,000 --> 00:38:16,625
+WORF:
+Sir, there is a fire
+in Biolab Four.
+
+715
+00:38:16,625 --> 00:38:18,875
+The fire suppression apparatus
+is not functioning.
+
+716
+00:38:18,875 --> 00:38:20,375
+Seal off
+that compartment.
+
+717
+00:38:20,375 --> 00:38:21,959
+Prepare to vent
+the air...
+
+718
+00:38:21,959 --> 00:38:24,000
+Sir, there are life-forms
+present in that biolab.
+
+719
+00:38:24,000 --> 00:38:26,417
+We're transporting endangered
+animals from Corvan II.
+
+720
+00:38:26,417 --> 00:38:27,625
+DATA:
+Readings also indicate
+
+721
+00:38:27,625 --> 00:38:29,333
+the presence
+of a humanoid, Captain.
+
+722
+00:38:29,333 --> 00:38:31,333
+Computer, identify
+humanoid life-form
+
+723
+00:38:31,333 --> 00:38:32,834
+in Biolab Four.
+
+724
+00:38:32,834 --> 00:38:35,834
+Life-form is identified
+as Alexander Rozhenko.
+
+725
+00:38:44,375 --> 00:38:45,583
+Bridge to Biolab Four.
+
+726
+00:38:45,583 --> 00:38:47,750
+Alexander,
+can you hear us?
+
+727
+00:38:47,750 --> 00:38:50,250
+Sensors show he is alive.
+He may be injured.
+
+728
+00:38:50,250 --> 00:38:51,792
+Can we transport him
+out of there?
+
+729
+00:38:51,792 --> 00:38:53,583
+Transporters are still off-line.
+
+730
+00:38:53,583 --> 00:38:55,083
+Captain,
+warp power is dropping.
+
+731
+00:38:55,083 --> 00:38:56,500
+We're losing speed.
+
+732
+00:38:56,500 --> 00:38:58,417
+Riker to Engineering.
+Geordi, what is going on?
+
+733
+00:38:58,417 --> 00:39:01,208
+We lost four warp transfer
+conduits, Commander.
+
+734
+00:39:01,208 --> 00:39:03,250
+RIKER:
+The wave is gaining on us.
+We need more speed.
+
+735
+00:39:03,250 --> 00:39:05,125
+LA FORGE:
+I doubt that I can keep
+<i>this</i> speed up
+
+736
+00:39:05,125 --> 00:39:06,250
+much longer, Commander.
+
+737
+00:39:06,250 --> 00:39:07,625
+You'd better
+fire those torpedoes
+
+738
+00:39:07,625 --> 00:39:09,291
+while we're still in front
+of the wave.
+
+739
+00:39:09,291 --> 00:39:11,250
+Mr. Data, how long
+before the wave
+overtakes us?
+
+740
+00:39:11,250 --> 00:39:12,792
+At our current speed,
+four minutes
+
+741
+00:39:12,792 --> 00:39:14,166
+30 seconds, sir.
+
+742
+00:39:14,166 --> 00:39:15,750
+Captain, permission
+to leave the Bridge.
+
+743
+00:39:15,750 --> 00:39:17,333
+Granted. Commander,
+will you accompany Mr. Worf
+
+744
+00:39:17,333 --> 00:39:18,667
+to Biolab Four.
+
+745
+00:39:18,667 --> 00:39:20,500
+DATA:
+Captain, Biolab Four
+is one of the areas
+
+746
+00:39:20,500 --> 00:39:22,625
+that will be flooded
+with ion radiation.
+
+747
+00:39:22,625 --> 00:39:25,834
+Commander, I can't let the
+soliton wave hit the colony.
+
+748
+00:39:25,834 --> 00:39:27,500
+You have three minutes,
+not one second more.
+
+749
+00:39:40,709 --> 00:39:42,291
+Primary control's shorted out.
+
+750
+00:39:46,667 --> 00:39:49,250
+(<i> grunting</i> )
+
+751
+00:39:56,583 --> 00:39:57,917
+Stand clear.
+
+752
+00:40:04,667 --> 00:40:06,792
+(<i> alarm wailing</i> )
+
+753
+00:40:10,875 --> 00:40:11,875
+WORF:
+Alexander!
+
+754
+00:40:11,875 --> 00:40:13,917
+RIKER:
+Alexander!
+
+755
+00:40:13,917 --> 00:40:15,792
+Can you hear me?
+
+756
+00:40:15,792 --> 00:40:17,458
+Alexander!
+
+757
+00:40:17,458 --> 00:40:20,750
+The soliton wave has closed
+to ten kilometers, Captain.
+
+758
+00:40:20,750 --> 00:40:22,500
+Stand by to fire torpedoes
+on my command.
+
+759
+00:40:25,709 --> 00:40:27,834
+RIKER:
+Alexander!
+
+760
+00:40:29,625 --> 00:40:32,417
+Commander, I've found him.
+
+761
+00:40:32,417 --> 00:40:33,583
+Worf!
+
+762
+00:40:37,917 --> 00:40:39,750
+Where are you,
+Worf?
+
+763
+00:40:39,750 --> 00:40:41,000
+Over here.
+
+764
+00:40:42,959 --> 00:40:44,792
+(<i> coughing</i> )
+
+765
+00:40:48,375 --> 00:40:49,625
+Help me.
+
+766
+00:40:55,083 --> 00:40:59,375
+It's too heavy. I've got to
+find something to help us.
+
+767
+00:40:59,375 --> 00:41:00,875
+(<i> groaning</i> )
+
+768
+00:41:00,875 --> 00:41:02,667
+Father?
+
+769
+00:41:02,667 --> 00:41:04,291
+Be still. I am here.
+
+770
+00:41:04,291 --> 00:41:06,792
+My leg hurts.
+
+771
+00:41:06,792 --> 00:41:08,500
+I'm scared.
+
+772
+00:41:41,625 --> 00:41:42,709
+The<i> gilvos!</i>
+
+773
+00:41:42,709 --> 00:41:43,709
+There's no time.
+
+774
+00:41:43,709 --> 00:41:45,750
+Please! They'll die!
+
+775
+00:41:48,208 --> 00:41:50,542
+The wave has closed
+to one kilometer, Captain.
+
+776
+00:41:50,542 --> 00:41:53,625
+Picard to Commander Riker.
+
+777
+00:41:53,625 --> 00:41:54,750
+Bridge to Lieutenant Worf.
+
+778
+00:41:54,750 --> 00:41:56,125
+Acknowledge.
+
+779
+00:41:56,125 --> 00:41:57,959
+The wave
+is about to overtake us, sir.
+
+780
+00:41:57,959 --> 00:41:59,375
+Commander Riker, acknowledge!
+
+781
+00:42:02,500 --> 00:42:03,542
+Fire torpedoes.
+
+782
+00:42:11,542 --> 00:42:14,083
+(<i> all coughing</i> )
+
+783
+00:42:21,750 --> 00:42:24,000
+The wave has been
+disrupted, sir.
+
+784
+00:42:24,000 --> 00:42:25,250
+Picard to Riker.
+
+785
+00:42:26,875 --> 00:42:29,625
+Riker here, Captain.
+
+786
+00:42:29,625 --> 00:42:31,834
+We made it, sir.
+
+787
+00:42:31,834 --> 00:42:33,875
+The boy's going
+to be all right.
+
+788
+00:42:47,041 --> 00:42:48,959
+You're a very
+lucky little boy.
+
+789
+00:42:48,959 --> 00:42:50,375
+Just some minor
+smoke inhalation
+
+790
+00:42:50,375 --> 00:42:53,667
+and a hairline
+fracture of the tibia.
+
+791
+00:42:53,667 --> 00:42:55,291
+That's a bone in your leg.
+
+792
+00:42:56,417 --> 00:42:57,709
+I'd like to keep him
+here overnight
+
+793
+00:42:57,709 --> 00:42:59,542
+but he should be
+fine by tomorrow.
+
+794
+00:42:59,542 --> 00:43:00,792
+Thank you, Doctor.
+
+795
+00:43:10,709 --> 00:43:14,500
+Are you going to get in trouble
+because of me?
+
+796
+00:43:14,500 --> 00:43:16,834
+Do not concern yourself
+with that.
+
+797
+00:43:16,834 --> 00:43:20,166
+Am<i> I</i> in trouble?
+
+798
+00:43:20,166 --> 00:43:22,667
+Yes...
+
+799
+00:43:22,667 --> 00:43:25,875
+but we will discuss that
+at a later time.
+
+800
+00:43:25,875 --> 00:43:28,625
+I'm sorry.
+
+801
+00:43:28,625 --> 00:43:31,500
+I promise I'll be good
+at the Klingon school.
+
+802
+00:43:31,500 --> 00:43:35,792
+I'll make you proud of me.
+
+803
+00:43:35,792 --> 00:43:39,458
+Klingon schools are designed
+to be difficult.
+
+804
+00:43:39,458 --> 00:43:41,583
+The physical
+and mental hardships
+
+805
+00:43:41,583 --> 00:43:43,166
+faced by the students
+
+806
+00:43:43,166 --> 00:43:45,709
+are meant to build
+character and strength.
+
+807
+00:43:49,750 --> 00:43:51,417
+However...
+
+808
+00:43:54,041 --> 00:43:58,417
+if you wish to face
+a greater challenge
+
+809
+00:43:58,417 --> 00:44:01,625
+you may stay here with me.
+
+810
+00:44:01,625 --> 00:44:03,500
+It will not be easy...
+
+811
+00:44:04,667 --> 00:44:07,667
+for either of us
+
+812
+00:44:07,667 --> 00:44:10,834
+but perhaps we can
+face the challenge together.
+
+813
+00:44:12,709 --> 00:44:14,917
+I accept your challenge, Father.
+
+814
+00:44:14,917 --> 00:44:16,917
+I will stay.
+
+815
+00:44:18,625 --> 00:44:20,625
+I believe your mother
+would be pleased.

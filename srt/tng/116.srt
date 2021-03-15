@@ -1,0 +1,3887 @@
+1
+00:00:01,333 --> 00:00:05,792
+<i>Captain's Log,</i>
+<i>Stardate 41309.5:</i>
+
+2
+00:00:05,792 --> 00:00:08,083
+<i>We are in orbit</i>
+<i>around Persephone V</i>
+
+3
+00:00:08,083 --> 00:00:09,458
+<i>where I have been sent</i>
+
+4
+00:00:09,458 --> 00:00:11,709
+<i>to confer</i>
+<i>with Admiral Mark Jameson</i>
+
+5
+00:00:11,709 --> 00:00:14,917
+<i>in regard</i>
+<i>to an extraordinary situation.</i>
+
+6
+00:00:14,917 --> 00:00:18,125
+Starfleet received
+this subspace transmission
+
+7
+00:00:18,125 --> 00:00:19,583
+two days ago, Admiral.
+
+8
+00:00:19,583 --> 00:00:21,125
+Let's see it, Captain.
+
+9
+00:00:21,125 --> 00:00:22,417
+On viewer.
+
+10
+00:00:26,875 --> 00:00:29,959
+I am Karnas,
+governor of Mordan IV.
+
+11
+00:00:29,959 --> 00:00:32,959
+A dissident group
+of terrorists have taken
+
+12
+00:00:32,959 --> 00:00:36,750
+Federation Ambassador Hawkins
+and his staff hostage.
+
+13
+00:00:36,750 --> 00:00:39,083
+They will not
+discuss terms with me.
+
+14
+00:00:39,083 --> 00:00:42,458
+This is a crisis
+I cannot resolve.
+
+15
+00:00:42,458 --> 00:00:46,166
+The terrorists are demanding
+a Federation negotiator.
+
+16
+00:00:46,166 --> 00:00:48,208
+I feel there is
+only one negotiator
+
+17
+00:00:48,208 --> 00:00:51,750
+with the skills
+to resolve this situation.
+
+18
+00:00:51,750 --> 00:00:54,000
+The lives of the hostages
+will depend
+
+19
+00:00:54,000 --> 00:00:57,667
+on Starfleet delivering
+this man to Mordan--
+
+20
+00:00:57,667 --> 00:00:59,875
+Commander Mark Jameson.
+
+21
+00:00:59,875 --> 00:01:01,959
+<i>Admiral</i> Jameson.
+
+22
+00:01:01,959 --> 00:01:04,875
+The terrorists have given you
+six Earth days
+
+23
+00:01:04,875 --> 00:01:09,750
+to bring him here
+or the hostages will die.
+
+24
+00:01:09,750 --> 00:01:11,792
+PICARD:
+Starfleet cannot
+understand
+
+25
+00:01:11,792 --> 00:01:14,208
+how or why this crisis
+has developed.
+
+26
+00:01:14,208 --> 00:01:16,083
+Mordan IV has finally
+gained peace
+
+27
+00:01:16,083 --> 00:01:17,834
+after decades
+of civil war.
+
+28
+00:01:17,834 --> 00:01:20,750
+40 years of civil war, Captain.
+
+29
+00:01:20,750 --> 00:01:22,083
+Yes, sir.
+
+30
+00:01:22,083 --> 00:01:24,166
+Karnas was largely responsible
+
+31
+00:01:24,166 --> 00:01:26,166
+for the planet's unification
+and peace.
+
+32
+00:01:26,166 --> 00:01:28,834
+Why should he now
+be unable to deal
+
+33
+00:01:28,834 --> 00:01:31,125
+with this rebellious faction?
+
+34
+00:01:31,125 --> 00:01:33,125
+45 years ago
+
+35
+00:01:33,125 --> 00:01:37,125
+I negotiated a hostage situation
+on Mordan, Captain.
+
+36
+00:01:37,125 --> 00:01:42,041
+Karnas was a young man then,
+but so was I.
+
+37
+00:01:42,041 --> 00:01:45,250
+He seems to feel that I can
+handle the situation again.
+
+38
+00:01:45,250 --> 00:01:47,083
+I'm detailed to take you
+to Mordan IV
+
+39
+00:01:47,083 --> 00:01:49,291
+as soon as you
+can be ready, Admiral.
+
+40
+00:01:49,291 --> 00:01:54,333
+My wife and I will beam aboard
+at 1500 hours, Captain.
+
+41
+00:01:54,333 --> 00:01:55,917
+Acknowledge.
+
+42
+00:01:55,917 --> 00:01:57,417
+Received and acknowledged, sir.
+
+43
+00:01:57,417 --> 00:01:58,417
+Picard out.
+
+44
+00:01:58,417 --> 00:02:00,792
+Nearly 1500 now, sir.
+
+45
+00:02:02,041 --> 00:02:03,333
+Well, Number One
+
+46
+00:02:03,333 --> 00:02:06,166
+let's go and welcome
+the Admiral aboard.
+
+47
+00:02:16,792 --> 00:02:19,792
+Welcome aboard, Admiral.
+
+48
+00:02:19,792 --> 00:02:22,834
+This is my executive officer,
+Commander William Riker.
+
+49
+00:02:22,834 --> 00:02:23,834
+My pleasure, sir.
+
+50
+00:02:23,834 --> 00:02:24,875
+Ma'am.
+
+51
+00:02:24,875 --> 00:02:27,333
+My wife, Anne.
+
+52
+00:02:27,333 --> 00:02:31,208
+Captain, there are certain
+details of this mission
+
+53
+00:02:31,208 --> 00:02:33,792
+that you should understand
+before we begin.
+
+54
+00:02:33,792 --> 00:02:35,000
+Yes, sir.
+
+55
+00:02:35,000 --> 00:02:36,625
+I am not simply
+an advisor.
+
+56
+00:02:36,625 --> 00:02:38,834
+On any assignment
+I accompany
+
+57
+00:02:38,834 --> 00:02:42,041
+Starfleet has designated me
+Senior Mission Officer.
+
+58
+00:02:42,041 --> 00:02:44,458
+I control the away team
+and all its actions.
+
+59
+00:02:44,458 --> 00:02:46,458
+Is that understood?
+
+60
+00:02:46,458 --> 00:02:48,083
+Of course, Captain
+
+61
+00:02:48,083 --> 00:02:49,875
+you command the ship
+
+62
+00:02:49,875 --> 00:02:52,208
+but the mission is mine.
+
+63
+00:02:52,208 --> 00:02:54,834
+I trust you are
+in full agreement.
+
+64
+00:02:56,834 --> 00:02:58,250
+Yes, sir.
+
+65
+00:02:58,250 --> 00:02:59,709
+Of course.
+
+66
+00:03:20,750 --> 00:03:25,083
+<i>Space, the final frontier.</i>
+
+67
+00:03:25,083 --> 00:03:29,291
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+68
+00:03:29,291 --> 00:03:31,208
+<i>Its continuing mission--</i>
+
+69
+00:03:31,208 --> 00:03:35,041
+<i>to explore</i>
+<i>strange new worlds</i>
+
+70
+00:03:35,041 --> 00:03:39,750
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+71
+00:03:39,750 --> 00:03:44,291
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+72
+00:04:51,333 --> 00:04:55,166
+Message coming in
+from Mordan, sir.
+
+73
+00:04:55,166 --> 00:04:59,041
+Put it on the
+screen, Mr. Data.
+
+74
+00:04:59,041 --> 00:05:00,959
+Mordan IV to<i> Enterprise.</i>
+
+75
+00:05:00,959 --> 00:05:01,959
+This is Karnas.
+
+76
+00:05:01,959 --> 00:05:03,792
+I will speak to the Captain.
+
+77
+00:05:03,792 --> 00:05:05,750
+I am Captain Picard
+
+78
+00:05:05,750 --> 00:05:07,375
+commanding
+the<i> Enterprise.</i>
+
+79
+00:05:07,375 --> 00:05:09,750
+Is Admiral Jameson on board?
+
+80
+00:05:09,750 --> 00:05:12,333
+He's here beside
+my First Officer.
+
+81
+00:05:12,333 --> 00:05:14,500
+Do you wish to
+speak to him now?
+
+82
+00:05:14,500 --> 00:05:19,583
+So, Jameson, I see time
+has not been kind.
+
+83
+00:05:19,583 --> 00:05:21,417
+It seldom is, Karnas.
+
+84
+00:05:21,417 --> 00:05:25,583
+However, we could save
+a good deal of it now
+
+85
+00:05:25,583 --> 00:05:27,750
+if you'll outline
+the terrorists' demands.
+
+86
+00:05:27,750 --> 00:05:29,166
+They insist
+
+87
+00:05:29,166 --> 00:05:31,750
+all discussions will take place
+here on Mordan.
+
+88
+00:05:31,750 --> 00:05:36,000
+They refuse to speak to me--
+only to a Federation mediator.
+
+89
+00:05:36,000 --> 00:05:39,458
+They say
+they will brook no excuses.
+
+90
+00:05:39,458 --> 00:05:40,750
+If there are any offered
+
+91
+00:05:40,750 --> 00:05:43,375
+your ambassador
+and his people will die...
+
+92
+00:05:43,375 --> 00:05:44,792
+...unpleasantly.
+
+93
+00:05:44,792 --> 00:05:46,250
+I believe them.
+
+94
+00:05:46,250 --> 00:05:48,000
+So should you, Admiral.
+
+95
+00:05:49,500 --> 00:05:55,375
+Tell them I accept
+the conditions of negotiation.
+
+96
+00:05:55,375 --> 00:05:58,375
+I will do so immediately.
+
+97
+00:05:58,375 --> 00:06:00,875
+For a man in his position
+
+98
+00:06:00,875 --> 00:06:03,166
+he doesn't seem to know much
+about the situation.
+
+99
+00:06:03,166 --> 00:06:05,625
+Wrong, Number One.
+
+100
+00:06:05,625 --> 00:06:08,208
+He told me that the terrorists
+
+101
+00:06:08,208 --> 00:06:11,500
+are desperate enough to kill
+if they are crossed.
+
+102
+00:06:11,500 --> 00:06:14,875
+They are willing
+to talk one on one
+
+103
+00:06:14,875 --> 00:06:17,625
+but not to him.
+
+104
+00:06:17,625 --> 00:06:19,041
+Counselor?
+
+105
+00:06:19,041 --> 00:06:21,000
+From his body language
+
+106
+00:06:21,000 --> 00:06:22,875
+as well as
+his words and tone
+
+107
+00:06:22,875 --> 00:06:26,375
+I judge that what
+Karnas said was honest
+
+108
+00:06:26,375 --> 00:06:29,583
+but I sensed
+a holding back.
+
+109
+00:06:29,583 --> 00:06:31,959
+Perhaps he knows more
+about the terrorists
+
+110
+00:06:31,959 --> 00:06:33,458
+than he's prepared to admit.
+
+111
+00:06:33,458 --> 00:06:37,583
+Possible, but I suspect
+it's closer to the mark
+
+112
+00:06:37,583 --> 00:06:41,041
+if we said
+he doesn't want to admit
+
+113
+00:06:41,041 --> 00:06:44,542
+failure of his own
+efforts to negotiate.
+
+114
+00:06:44,542 --> 00:06:46,417
+He is
+a proud man.
+
+115
+00:06:46,417 --> 00:06:47,875
+That could be, sir.
+
+116
+00:06:47,875 --> 00:06:51,083
+Karnas has established
+himself as a powerful man
+
+117
+00:06:51,083 --> 00:06:52,500
+on Mordan.
+
+118
+00:06:52,500 --> 00:06:56,333
+Suddenly, in this situation,
+his power is useless.
+
+119
+00:06:56,333 --> 00:06:58,000
+BEVERLY:
+Sick Bay to Bridge.
+
+120
+00:06:58,000 --> 00:07:00,375
+I'm ready
+for Admiral Jameson now.
+
+121
+00:07:00,375 --> 00:07:02,208
+In a few moments, Doctor.
+
+122
+00:07:02,208 --> 00:07:05,125
+Ready for what, Captain?
+
+123
+00:07:05,125 --> 00:07:07,625
+It's just a routine
+medical checkup.
+
+124
+00:07:07,625 --> 00:07:09,750
+Ship's regulations.
+
+125
+00:07:17,750 --> 00:07:19,333
+What I don't
+understand, sir
+
+126
+00:07:19,333 --> 00:07:22,500
+is how Karnas knew
+that you were still available.
+
+127
+00:07:22,500 --> 00:07:24,375
+Still alive,
+you mean.
+
+128
+00:07:24,375 --> 00:07:26,625
+So far as he knew, sir,
+you could have been dead.
+
+129
+00:07:26,625 --> 00:07:29,041
+Quite right, Commander,
+but I am not
+
+130
+00:07:29,041 --> 00:07:32,333
+and I imagine Ambassador Hawkins
+has told him that.
+
+131
+00:07:32,333 --> 00:07:34,500
+I briefed the ambassador
+about Mordan
+
+132
+00:07:34,500 --> 00:07:37,208
+before he left
+to take up residence.
+
+133
+00:07:37,208 --> 00:07:39,250
+PICARD:
+All right, Karnas
+has a problem
+
+134
+00:07:39,250 --> 00:07:40,834
+he thinks you
+can resolve.
+
+135
+00:07:40,834 --> 00:07:42,208
+What do the terrorists need
+
+136
+00:07:42,208 --> 00:07:45,667
+that Karnas can't
+or won't give them?
+
+137
+00:07:45,667 --> 00:07:48,041
+DATA:
+Mordan's had peace
+for five years.
+
+138
+00:07:48,041 --> 00:07:50,333
+They have finally come
+to a state of productivity
+
+139
+00:07:50,333 --> 00:07:52,458
+which satisfies
+their planetary needs
+
+140
+00:07:52,458 --> 00:07:54,208
+but no more than that.
+
+141
+00:07:54,208 --> 00:07:57,000
+Perhaps the dissidents
+feel the Federation
+
+142
+00:07:57,000 --> 00:07:58,375
+could provide them with more.
+
+143
+00:07:58,375 --> 00:08:00,500
+JAMESON:
+I have negotiated
+many treaties
+
+144
+00:08:00,500 --> 00:08:02,250
+on many planets, Picard.
+
+145
+00:08:02,250 --> 00:08:05,208
+I have found that peace
+or the appearance of it
+
+146
+00:08:05,208 --> 00:08:07,333
+is often a prelude to war.
+
+147
+00:08:07,333 --> 00:08:10,000
+Admiral, are you suggesting
+
+148
+00:08:10,000 --> 00:08:12,500
+the terrorists want arms
+and weapons?
+
+149
+00:08:12,500 --> 00:08:15,208
+They may.
+I am suggesting that Karnas
+
+150
+00:08:15,208 --> 00:08:17,875
+is the last man to give them
+such weapons.
+
+151
+00:08:17,875 --> 00:08:20,375
+TROI:
+I see. You believe
+that Karnas
+
+152
+00:08:20,375 --> 00:08:23,125
+would not negotiate
+on that point
+
+153
+00:08:23,125 --> 00:08:27,083
+and so the terrorists demanded
+an outside negotiator.
+
+154
+00:08:27,083 --> 00:08:29,792
+I know Karnas.
+He is a warrior.
+
+155
+00:08:29,792 --> 00:08:31,041
+He lives for challenge.
+
+156
+00:08:31,041 --> 00:08:33,125
+These people have
+insulted his honor
+
+157
+00:08:33,125 --> 00:08:35,542
+by taking the embassy
+staff hostage.
+
+158
+00:08:35,542 --> 00:08:37,250
+Now, I'll negotiate
+
+159
+00:08:37,250 --> 00:08:40,917
+but I'll have to be very careful
+in dealing with Karnas.
+
+160
+00:08:40,917 --> 00:08:42,750
+He'll want revenge
+
+161
+00:08:42,750 --> 00:08:44,333
+for that insult.
+
+162
+00:08:49,583 --> 00:08:51,417
+(<i> beeping</i> )
+
+163
+00:08:54,709 --> 00:08:57,041
+Well...
+
+164
+00:08:57,041 --> 00:08:59,208
+About time.
+
+165
+00:08:59,208 --> 00:09:00,959
+Couldn't get away
+from the Bridge?
+
+166
+00:09:00,959 --> 00:09:02,792
+Didn't want to.
+
+167
+00:09:02,792 --> 00:09:04,959
+Feels good to be
+on one again.
+
+168
+00:09:06,709 --> 00:09:08,625
+I'm glad, Mark.
+
+169
+00:09:08,625 --> 00:09:10,583
+You want me
+to help you up?
+
+170
+00:09:13,417 --> 00:09:15,333
+(<i> groaning</i> )
+
+171
+00:09:20,959 --> 00:09:23,917
+You're stronger today.
+
+172
+00:09:23,917 --> 00:09:25,208
+I'm fine.
+
+173
+00:09:25,208 --> 00:09:27,125
+I feel like a kid again.
+
+174
+00:09:28,750 --> 00:09:31,834
+This ship is
+magnificent.
+
+175
+00:09:31,834 --> 00:09:33,250
+It even has
+family quarters.
+
+176
+00:09:33,250 --> 00:09:35,000
+(<i> groaning</i> )
+
+177
+00:09:35,000 --> 00:09:38,583
+Pity we didn't have them
+20, 30 years ago.
+
+178
+00:09:38,583 --> 00:09:42,250
+We could have been together
+almost all of your career.
+
+179
+00:09:42,250 --> 00:09:43,458
+(<i> beeping</i> )
+
+180
+00:09:43,458 --> 00:09:46,750
+(<i> groaning</i> )
+
+181
+00:09:46,750 --> 00:09:48,333
+Mark!
+
+182
+00:09:48,333 --> 00:09:50,250
+Mark!
+
+183
+00:09:50,250 --> 00:09:51,208
+I'll get Sick Bay.
+
+184
+00:09:51,208 --> 00:09:53,250
+No. No.
+
+185
+00:09:53,250 --> 00:09:54,375
+There's no need.
+
+186
+00:09:54,375 --> 00:09:57,792
+It's happened
+before.
+
+187
+00:09:57,792 --> 00:09:59,125
+When?
+
+188
+00:09:59,125 --> 00:10:00,959
+You haven't said anything.
+
+189
+00:10:00,959 --> 00:10:02,417
+It'll pass.
+
+190
+00:10:02,417 --> 00:10:04,458
+Just give me
+a moment.
+
+191
+00:10:05,750 --> 00:10:08,125
+See, I'm... I'm better.
+
+192
+00:10:08,125 --> 00:10:09,458
+It's going away.
+
+193
+00:10:11,083 --> 00:10:12,542
+What is it?
+
+194
+00:10:12,542 --> 00:10:14,375
+Do... the doctors know?
+
+195
+00:10:14,375 --> 00:10:16,458
+Just body changes.
+
+196
+00:10:16,458 --> 00:10:17,583
+Last checkup
+
+197
+00:10:17,583 --> 00:10:19,959
+they said I... I'd
+have to expect it.
+
+198
+00:10:22,000 --> 00:10:23,875
+You're sure?
+
+199
+00:10:23,875 --> 00:10:25,875
+Don't lie to me.
+
+200
+00:10:25,875 --> 00:10:27,959
+I'm sure.
+
+201
+00:10:29,417 --> 00:10:32,583
+Oh...
+
+202
+00:10:32,583 --> 00:10:36,083
+All the medical information
+the Admiral provided
+
+203
+00:10:36,083 --> 00:10:37,458
+is satisfactory, sir.
+
+204
+00:10:37,458 --> 00:10:38,875
+Excellent, Doctor.
+
+205
+00:10:38,875 --> 00:10:40,542
+Except for one thing.
+
+206
+00:10:40,542 --> 00:10:43,792
+The test results he gave me
+aren't two days old.
+
+207
+00:10:43,792 --> 00:10:45,333
+They're two months old.
+
+208
+00:10:45,333 --> 00:10:47,792
+The medical records coder
+always includes the date
+
+209
+00:10:47,792 --> 00:10:49,500
+as part of the file number.
+
+210
+00:10:49,500 --> 00:10:52,500
+He lied to me, sir,
+and I don't know why.
+
+211
+00:10:53,792 --> 00:10:56,333
+He is 85 years old, Doctor.
+
+212
+00:10:56,333 --> 00:10:58,083
+For some, the memory begins
+to fail.
+
+213
+00:10:58,083 --> 00:11:00,166
+He suffers
+from Iverson's disease, sir.
+
+214
+00:11:00,166 --> 00:11:01,417
+That affects the body
+
+215
+00:11:01,417 --> 00:11:03,583
+not the mind.
+
+216
+00:11:03,583 --> 00:11:05,750
+Now, I have a gut feeling
+he's hiding something.
+
+217
+00:11:06,709 --> 00:11:07,917
+Now, that is an observation
+
+218
+00:11:07,917 --> 00:11:09,875
+I would expect
+from Counselor Troi.
+
+219
+00:11:13,041 --> 00:11:14,917
+Doctor.
+
+220
+00:11:17,667 --> 00:11:22,375
+Doctor, I do respect
+your opinion, and...
+
+221
+00:11:22,375 --> 00:11:24,917
+I want you on the Bridge
+for the next day or so.
+
+222
+00:11:24,917 --> 00:11:27,166
+The Admiral must remain
+in the best of health
+
+223
+00:11:27,166 --> 00:11:28,792
+for these negotiations
+
+224
+00:11:28,792 --> 00:11:32,709
+and he might require
+your services.
+
+225
+00:11:38,125 --> 00:11:40,834
+Admiral, we're approaching
+the Idini Star Cluster.
+
+226
+00:11:40,834 --> 00:11:42,291
+Would you like
+to take the conn
+
+227
+00:11:42,291 --> 00:11:44,291
+as we make transit?
+
+228
+00:11:44,291 --> 00:11:47,709
+Thank you, Captain. I would.
+
+229
+00:12:10,667 --> 00:12:12,709
+(<i> gasping</i> )
+
+230
+00:12:23,875 --> 00:12:28,834
+Well, Admiral, quite a little
+surprise you've pulled on us.
+
+231
+00:12:28,834 --> 00:12:31,417
+Yes, quite.
+
+232
+00:12:31,417 --> 00:12:33,792
+Neglected to mention.
+
+233
+00:12:33,792 --> 00:12:37,208
+I began some new
+therapy before... I left.
+
+234
+00:12:37,208 --> 00:12:38,583
+Seems to be working.
+
+235
+00:12:38,583 --> 00:12:40,333
+I haven't felt this good
+
+236
+00:12:40,333 --> 00:12:41,959
+since the last time
+I was in space--
+
+237
+00:12:41,959 --> 00:12:43,542
+the<i> Gettysburg.</i>
+
+238
+00:12:43,542 --> 00:12:46,834
+All I needed to get me out of
+that chair was the thought
+
+239
+00:12:46,834 --> 00:12:50,333
+of walking the decks
+in command of a starship again.
+
+240
+00:12:50,333 --> 00:12:53,083
+Admiral, you only have
+the conn temporarily.
+
+241
+00:12:53,083 --> 00:12:54,834
+A figure of speech.
+
+242
+00:12:54,834 --> 00:12:56,417
+Of course she's your ship.
+
+243
+00:12:56,417 --> 00:13:00,875
+I'll just keep an eye
+on her for a while.
+
+244
+00:13:12,792 --> 00:13:16,583
+The Admiral displayed
+a remarkable improvement.
+
+245
+00:13:16,583 --> 00:13:19,542
+Captain, no one recovers
+from Iverson's disease.
+
+246
+00:13:19,542 --> 00:13:20,542
+There's no known cure.
+
+247
+00:13:20,542 --> 00:13:21,583
+There have been no cases
+
+248
+00:13:21,583 --> 00:13:22,709
+where it's gone
+into remission.
+
+249
+00:13:22,709 --> 00:13:24,375
+I have never heard
+of any therapy
+
+250
+00:13:24,375 --> 00:13:26,125
+that would produce
+results like that.
+
+251
+00:13:26,125 --> 00:13:27,417
+Then how do you
+account for it?
+
+252
+00:13:27,417 --> 00:13:29,375
+I can't. All I can tell you
+
+253
+00:13:29,375 --> 00:13:30,834
+is that the Admiral
+has been confined
+
+254
+00:13:30,834 --> 00:13:32,709
+to his support chair
+for the last four years
+
+255
+00:13:32,709 --> 00:13:34,083
+by the effects of Iverson's.
+
+256
+00:13:34,083 --> 00:13:36,000
+By all the medical
+facts we know
+
+257
+00:13:36,000 --> 00:13:38,709
+he should never
+have walked again.
+
+258
+00:13:38,709 --> 00:13:41,458
+I want you to look into it,
+Doctor-- thoroughly.
+
+259
+00:13:41,458 --> 00:13:43,208
+Yes, sir.
+
+260
+00:13:43,208 --> 00:13:44,917
+The terrorists have given you
+
+261
+00:13:44,917 --> 00:13:46,875
+six Earth days
+to bring him here
+
+262
+00:13:46,875 --> 00:13:51,291
+or the hostages will die.
+
+263
+00:13:54,125 --> 00:13:56,291
+I don't know how much
+more information
+
+264
+00:13:56,291 --> 00:13:59,750
+you think you can get
+from that tape.
+
+265
+00:13:59,750 --> 00:14:01,083
+Mark!
+
+266
+00:14:01,083 --> 00:14:03,000
+My God,
+what's happened?
+
+267
+00:14:03,000 --> 00:14:04,542
+It's the new therapy
+I'm taking.
+
+268
+00:14:04,542 --> 00:14:06,583
+It's... it's
+working, Annie.
+
+269
+00:14:06,583 --> 00:14:09,375
+Oh, darling!
+
+270
+00:14:15,125 --> 00:14:16,750
+Mark...?
+
+271
+00:14:16,750 --> 00:14:21,709
+I told you I just needed
+to get back in space again.
+
+272
+00:14:21,709 --> 00:14:25,041
+You really are
+looking much better.
+
+273
+00:14:25,041 --> 00:14:27,000
+It's the new treatment.
+
+274
+00:14:27,000 --> 00:14:29,458
+No.
+
+275
+00:14:29,458 --> 00:14:30,625
+Come here.
+
+276
+00:14:30,625 --> 00:14:32,583
+I hope you're heading
+for the bedroom.
+
+277
+00:14:32,583 --> 00:14:34,667
+You stop it.
+
+278
+00:14:35,834 --> 00:14:37,625
+Darling...
+
+279
+00:14:37,625 --> 00:14:41,250
+you look like you
+looked 20 years ago.
+
+280
+00:14:41,250 --> 00:14:43,083
+You flatter me.
+
+281
+00:14:43,083 --> 00:14:45,458
+Now you tell me what the hell
+is going on.
+
+282
+00:14:45,458 --> 00:14:47,000
+(<i> gasping and groaning</i> )
+
+283
+00:14:47,000 --> 00:14:48,000
+I don't know.
+
+284
+00:14:48,000 --> 00:14:48,959
+Mark!
+
+285
+00:14:48,959 --> 00:14:51,709
+(<i> groaning</i> )
+
+286
+00:14:51,709 --> 00:14:52,709
+Sick Bay.
+
+287
+00:14:52,709 --> 00:14:53,709
+Medical emergency
+
+288
+00:14:53,709 --> 00:14:55,458
+in the Admiral's
+quarters.
+
+289
+00:14:55,458 --> 00:14:57,583
+(<i> groaning</i> )
+
+290
+00:15:00,500 --> 00:15:02,375
+I found traces
+of chemical substances
+
+291
+00:15:02,375 --> 00:15:04,125
+in his blood
+and tissue samples
+
+292
+00:15:04,125 --> 00:15:06,667
+but none of them are
+in our pharmacopoeia.
+
+293
+00:15:06,667 --> 00:15:08,542
+I'm still working
+on alien references
+
+294
+00:15:08,542 --> 00:15:10,166
+to substances
+like these.
+
+295
+00:15:10,166 --> 00:15:11,625
+All I can tell you
+
+296
+00:15:11,625 --> 00:15:13,250
+is that he's
+ingested something
+
+297
+00:15:13,250 --> 00:15:14,917
+that's strongly
+affecting his body.
+
+298
+00:15:14,917 --> 00:15:16,208
+Specifics, Doctor.
+
+299
+00:15:16,208 --> 00:15:17,917
+Captain, there's so
+many things going on
+
+300
+00:15:17,917 --> 00:15:20,500
+I can't give you specifics
+until I do a lot more tests.
+
+301
+00:15:20,500 --> 00:15:22,500
+Well, give me
+what you have now.
+
+302
+00:15:22,500 --> 00:15:24,542
+His red cell count
+is running riot.
+
+303
+00:15:24,542 --> 00:15:27,291
+The cellular structure of his
+body is radically changing.
+
+304
+00:15:27,291 --> 00:15:28,750
+We can't make
+any decisions on that
+
+305
+00:15:28,750 --> 00:15:30,709
+until we know
+what it's changing<i> to.</i>
+
+306
+00:15:30,709 --> 00:15:32,333
+His DNA is skewed.
+
+307
+00:15:32,333 --> 00:15:33,625
+Don't ask me how
+
+308
+00:15:33,625 --> 00:15:35,667
+but he even
+<i>looks</i> younger.
+
+309
+00:15:35,667 --> 00:15:37,208
+And Captain--
+
+310
+00:15:37,208 --> 00:15:40,625
+there are absolutely no traces
+of Iverson's disease.
+
+311
+00:15:40,625 --> 00:15:43,000
+You said there was no cure
+for Iverson's.
+
+312
+00:15:43,000 --> 00:15:45,083
+None that we know of.
+
+313
+00:15:45,083 --> 00:15:46,750
+Well, whatever
+these substances
+
+314
+00:15:46,750 --> 00:15:47,917
+are doing to his body
+
+315
+00:15:47,917 --> 00:15:49,291
+at least they've
+done that for him.
+
+316
+00:15:49,291 --> 00:15:51,792
+But how or why?
+
+317
+00:15:51,792 --> 00:15:55,166
+It's too early to say.
+
+318
+00:15:55,166 --> 00:16:00,291
+Get me some answers, Doctor,
+as soon as possible.
+
+319
+00:16:00,291 --> 00:16:01,959
+Yes, sir.
+
+320
+00:16:03,709 --> 00:16:05,917
+(<i> door chimes</i> )
+
+321
+00:16:08,417 --> 00:16:09,583
+Captain.
+
+322
+00:16:09,583 --> 00:16:12,375
+Mrs. Jameson, I have
+to ask the Admiral
+
+323
+00:16:12,375 --> 00:16:14,000
+some questions.
+
+324
+00:16:14,000 --> 00:16:15,625
+Ask away.
+
+325
+00:16:19,041 --> 00:16:21,583
+There's nothing
+to hide now.
+
+326
+00:16:25,500 --> 00:16:27,208
+Admiral, in addition
+to your rank
+
+327
+00:16:27,208 --> 00:16:30,792
+you are a particularly
+valuable commodity just now.
+
+328
+00:16:30,792 --> 00:16:33,834
+Starfleet has a right
+to some answers.
+
+329
+00:16:33,834 --> 00:16:36,750
+I had planned this
+for a long time now--
+
+330
+00:16:36,750 --> 00:16:39,834
+ever since I learned
+that I had Iverson's disease--
+
+331
+00:16:39,834 --> 00:16:41,625
+since it put me
+in that chair.
+
+332
+00:16:41,625 --> 00:16:44,125
+What did you do, Mark?
+
+333
+00:16:44,125 --> 00:16:47,083
+There is a planet
+in the Cerebus system--
+
+334
+00:16:47,083 --> 00:16:48,458
+Cerebus II--
+
+335
+00:16:48,458 --> 00:16:50,458
+they say the natives there
+have a process
+
+336
+00:16:50,458 --> 00:16:53,917
+that rejuvenates the body;
+gives you your youth back.
+
+337
+00:16:53,917 --> 00:16:56,458
+Yes, I've heard of that story.
+It's a myth.
+
+338
+00:16:56,458 --> 00:16:58,166
+It's true, Picard.
+
+339
+00:16:58,166 --> 00:17:00,000
+I am living proof.
+
+340
+00:17:00,000 --> 00:17:01,500
+Oh, it's dangerous.
+
+341
+00:17:01,500 --> 00:17:04,542
+The mortality rate
+is high, and...
+
+342
+00:17:04,542 --> 00:17:06,792
+it's very painful.
+
+343
+00:17:06,792 --> 00:17:09,583
+Aliens are seldom allowed
+to obtain the process
+
+344
+00:17:09,583 --> 00:17:11,083
+but I managed it.
+
+345
+00:17:11,083 --> 00:17:14,583
+I negotiated a treaty
+for Cerebus II some years ago
+
+346
+00:17:14,583 --> 00:17:19,041
+and they felt obligated to honor
+my request for the process.
+
+347
+00:17:19,041 --> 00:17:22,333
+Obviously it works very rapidly,
+but how does it work?
+
+348
+00:17:22,333 --> 00:17:25,917
+The herb and drug combinations
+are self-administered slowly
+
+349
+00:17:25,917 --> 00:17:28,291
+over a period of two years.
+
+350
+00:17:28,291 --> 00:17:31,041
+Every response
+is different
+
+351
+00:17:31,041 --> 00:17:32,583
+depending on a being's DNA.
+
+352
+00:17:32,583 --> 00:17:34,500
+I got enough
+for both of us, Annie
+
+353
+00:17:34,500 --> 00:17:36,709
+but I had to test it
+on myself first.
+
+354
+00:17:36,709 --> 00:17:38,834
+I-I couldn't risk you.
+
+355
+00:17:38,834 --> 00:17:41,333
+If I died...
+well, I was half a man,
+
+356
+00:17:41,333 --> 00:17:43,875
+so what did it matter?
+
+357
+00:17:43,875 --> 00:17:46,333
+It would matter to me.
+
+358
+00:17:46,333 --> 00:17:48,583
+But I was starting
+to change, Annie.
+
+359
+00:17:48,583 --> 00:17:50,792
+It... it was
+almost undetectable
+
+360
+00:17:50,792 --> 00:17:53,000
+but the improvement was there.
+
+361
+00:17:53,000 --> 00:17:55,041
+And then when this hostage
+situation came up
+
+362
+00:17:55,041 --> 00:17:58,000
+I... I knew I had to be
+at my peak to deal with it.
+
+363
+00:17:58,000 --> 00:18:00,583
+I didn't have time to wait
+for the drug
+
+364
+00:18:00,583 --> 00:18:01,959
+to-to work
+naturally.
+
+365
+00:18:01,959 --> 00:18:03,542
+So you took the whole dose.
+
+366
+00:18:03,542 --> 00:18:05,333
+I took<i> both</i> of them.
+
+367
+00:18:05,333 --> 00:18:07,041
+And look at me,
+Annie!
+
+368
+00:18:07,041 --> 00:18:08,375
+Look at me.
+
+369
+00:18:08,375 --> 00:18:10,500
+I'm-I'm strong, I'm alert, fit.
+
+370
+00:18:10,500 --> 00:18:12,083
+I'm fitter than you are, Picard
+
+371
+00:18:12,083 --> 00:18:14,208
+and I'm getting
+younger.
+
+372
+00:18:21,125 --> 00:18:23,000
+The only question I have,
+Admiral
+
+373
+00:18:23,000 --> 00:18:26,625
+is why you thought
+it necessary to be young
+
+374
+00:18:26,625 --> 00:18:28,542
+to negotiate the release
+of the hostages--
+
+375
+00:18:28,542 --> 00:18:31,709
+even willing to put
+your life at risk for it.
+
+376
+00:18:37,625 --> 00:18:40,792
+I'll be on the Bridge, Admiral,
+if you want to talk further.
+
+377
+00:18:49,500 --> 00:18:52,917
+Why didn't you tell me, Mark?
+
+378
+00:18:52,917 --> 00:18:56,542
+We've always been honest
+with each other until now.
+
+379
+00:18:56,542 --> 00:18:58,667
+Annie, I did it for us.
+
+380
+00:18:58,667 --> 00:19:03,208
+Oh... oh, I'm sure
+you believed that--
+
+381
+00:19:03,208 --> 00:19:06,125
+until you had a chance
+to head up a mission
+
+382
+00:19:06,125 --> 00:19:07,917
+and to
+command again.
+
+383
+00:19:07,917 --> 00:19:12,792
+And then you just upended
+the bottle or whatever it was
+
+384
+00:19:12,792 --> 00:19:14,917
+and damn everything.
+
+385
+00:19:14,917 --> 00:19:17,083
+Did you think about me
+
+386
+00:19:17,083 --> 00:19:18,458
+at all?
+
+387
+00:19:18,458 --> 00:19:22,333
+I obtained enough of the dosage
+for both of us.
+
+388
+00:19:22,333 --> 00:19:25,166
+But you never asked
+if I wanted it.
+
+389
+00:19:25,166 --> 00:19:26,959
+It's just like you, Mark
+
+390
+00:19:26,959 --> 00:19:31,083
+to assume that what you felt
+was right was the only answer.
+
+391
+00:19:31,083 --> 00:19:33,291
+But it was the right answer
+for me.
+
+392
+00:19:33,291 --> 00:19:36,208
+It was killing you having
+to take care of an invalid.
+
+393
+00:19:36,208 --> 00:19:38,041
+Annie, what good was I to you?
+
+394
+00:19:38,041 --> 00:19:39,417
+We can be together again.
+
+395
+00:19:39,417 --> 00:19:41,417
+Let me go!
+
+396
+00:19:41,417 --> 00:19:44,166
+I can get you another
+supply of the drug.
+
+397
+00:19:46,500 --> 00:19:49,709
+(<i> door opens and closes</i> )
+
+398
+00:20:05,458 --> 00:20:06,750
+(<i> communications beep</i> )
+
+399
+00:20:06,750 --> 00:20:08,875
+Commander Data
+
+400
+00:20:08,875 --> 00:20:14,250
+I wish to open a communication
+frequency to Karnas.
+
+401
+00:20:14,250 --> 00:20:15,375
+Aye, sir.
+
+402
+00:20:15,375 --> 00:20:16,917
+One moment, Mr. Data.
+
+403
+00:20:16,917 --> 00:20:19,166
+Admiral, this is Picard.
+
+404
+00:20:19,166 --> 00:20:21,959
+May I know the reason
+for this communication?
+
+405
+00:20:21,959 --> 00:20:25,500
+Karnas must have tried
+to negotiate with the terrorists
+
+406
+00:20:25,500 --> 00:20:27,291
+before he was forced
+to call on me.
+
+407
+00:20:27,291 --> 00:20:30,834
+I want all the information
+he has access to.
+
+408
+00:20:30,834 --> 00:20:33,834
+You said Karnas was a proud man,
+Admiral, probably sensitive
+
+409
+00:20:33,834 --> 00:20:35,875
+to his failure
+to deal with this situation.
+
+410
+00:20:35,875 --> 00:20:37,750
+Is it wise to press him on this?
+
+411
+00:20:37,750 --> 00:20:39,875
+I am the negotiator, Picard.
+
+412
+00:20:39,875 --> 00:20:42,500
+Karnas will have to cooperate
+with me and the terrorists
+
+413
+00:20:42,500 --> 00:20:44,250
+and damn his sensitivities.
+
+414
+00:20:44,250 --> 00:20:47,667
+Then may I suggest
+a secure channel, Admiral?
+
+415
+00:20:47,667 --> 00:20:50,709
+A sensible precaution, Picard.
+
+416
+00:20:50,709 --> 00:20:52,250
+Make it so.
+
+417
+00:20:52,250 --> 00:20:54,834
+Make it so.
+
+418
+00:20:54,834 --> 00:20:56,208
+Aye, sir.
+
+419
+00:20:56,208 --> 00:20:59,709
+Frequency open
+and secured.
+
+420
+00:20:59,709 --> 00:21:01,375
+Karnas.
+
+421
+00:21:01,375 --> 00:21:03,333
+What is it you want, Admiral?
+
+422
+00:21:03,333 --> 00:21:05,041
+We're on a secure channel,
+Karnas.
+
+423
+00:21:05,041 --> 00:21:07,500
+You can talk freely.
+
+424
+00:21:07,500 --> 00:21:09,625
+Who's behind this thing?
+
+425
+00:21:09,625 --> 00:21:11,250
+You said dissidents.
+
+426
+00:21:11,250 --> 00:21:14,875
+Yes-- political opponents
+who feel the Federation
+
+427
+00:21:14,875 --> 00:21:17,583
+will disavow me
+as governor if...
+
+428
+00:21:17,583 --> 00:21:20,166
+if they stir up enough trouble
+here on Mordan.
+
+429
+00:21:20,166 --> 00:21:23,041
+Then who is it? Ardan? Gilnor?
+
+430
+00:21:23,041 --> 00:21:26,458
+They're dead, Jameson--
+a long time now.
+
+431
+00:21:26,458 --> 00:21:30,083
+A long time I thought
+you were dead, too.
+
+432
+00:21:30,083 --> 00:21:32,875
+I almost died a couple of times
+on missions
+
+433
+00:21:32,875 --> 00:21:35,583
+but I always
+made it through somehow.
+
+434
+00:21:35,583 --> 00:21:38,959
+Yes. Now you're coming
+back to Mordan
+
+435
+00:21:38,959 --> 00:21:41,041
+to negotiate for hostages again.
+
+436
+00:21:41,041 --> 00:21:42,542
+It's almost as though
+
+437
+00:21:42,542 --> 00:21:46,041
+the 45 years in between
+never happened.
+
+438
+00:21:48,500 --> 00:21:51,417
+You've never forgiven me.
+
+439
+00:21:51,417 --> 00:21:52,667
+Of course I have.
+
+440
+00:21:52,667 --> 00:21:54,917
+It-it was years ago.
+
+441
+00:21:56,709 --> 00:22:00,000
+There are no dissidents,
+are there?
+
+442
+00:22:00,000 --> 00:22:01,583
+No terrorists.
+
+443
+00:22:01,583 --> 00:22:03,333
+You have the hostages!
+
+444
+00:22:03,333 --> 00:22:09,041
+And if I have,
+you're coming to Mordan, Jameson
+
+445
+00:22:09,041 --> 00:22:11,875
+and you're going to negotiate
+for their lives
+
+446
+00:22:11,875 --> 00:22:15,417
+and I'm going to ask
+a very, very high price.
+
+447
+00:22:15,417 --> 00:22:17,250
+What if I refuse?
+
+448
+00:22:17,250 --> 00:22:19,542
+Then the hostages will die.
+
+449
+00:22:19,542 --> 00:22:22,291
+You've seen
+how my executioners work.
+
+450
+00:22:22,291 --> 00:22:24,834
+They are still as efficient
+as they were--
+
+451
+00:22:24,834 --> 00:22:27,208
+perhaps even more skilled now.
+
+452
+00:22:27,208 --> 00:22:30,750
+You'll come
+
+453
+00:22:30,750 --> 00:22:34,583
+even if you don't have
+much honor left.
+
+454
+00:22:45,000 --> 00:22:50,041
+Conn, are we still on schedule
+to arrive at Mordan
+
+455
+00:22:50,041 --> 00:22:51,000
+in 38 hours?
+
+456
+00:22:51,000 --> 00:22:53,250
+Aye, sir.
+We're at warp 4.
+
+457
+00:22:53,250 --> 00:22:55,875
+Picard, I want to jump
+to warp 8
+
+458
+00:22:55,875 --> 00:22:59,000
+so that we arrive ahead
+of our announced ETA.
+
+459
+00:22:59,000 --> 00:23:00,709
+It will throw Karnas
+off balance
+
+460
+00:23:00,709 --> 00:23:03,458
+and we can catch him
+before he's ready.
+
+461
+00:23:03,458 --> 00:23:05,375
+Ready for what,
+exactly, Admiral?
+
+462
+00:23:05,375 --> 00:23:07,709
+I believe Karnas
+has the hostages
+
+463
+00:23:07,709 --> 00:23:09,917
+and there never were
+any dissidents.
+
+464
+00:23:09,917 --> 00:23:11,917
+What has happened
+to bring you to
+that conclusion?
+
+465
+00:23:11,917 --> 00:23:13,041
+That's quite a big jump.
+
+466
+00:23:13,041 --> 00:23:14,834
+I'm not at liberty
+to say, Picard
+
+467
+00:23:14,834 --> 00:23:17,792
+but negotiations are
+no longer the answer.
+
+468
+00:23:17,792 --> 00:23:22,291
+Isn't the most important thing
+the hostages' lives?
+
+469
+00:23:22,291 --> 00:23:24,166
+And you agree
+with that, too, Riker?
+
+470
+00:23:24,166 --> 00:23:25,166
+I do, sir.
+
+471
+00:23:25,166 --> 00:23:26,917
+Good, 'cause I plan
+
+472
+00:23:26,917 --> 00:23:29,000
+to personally lead
+the away team
+
+473
+00:23:29,000 --> 00:23:32,875
+on an armed rescue mission
+to get them out of there.
+
+474
+00:23:37,792 --> 00:23:39,667
+Commander Data
+
+475
+00:23:39,667 --> 00:23:42,709
+bring up the plans I requested
+on the viewscreen, please.
+
+476
+00:23:42,709 --> 00:23:43,750
+Aye, sir.
+
+477
+00:23:43,750 --> 00:23:45,667
+Most of Mordan's
+principal city
+
+478
+00:23:45,667 --> 00:23:48,208
+was devastated
+during the war.
+
+479
+00:23:48,208 --> 00:23:50,166
+What was left
+consisted largely
+
+480
+00:23:50,166 --> 00:23:52,291
+of a network
+of underground tunnels--
+
+481
+00:23:52,291 --> 00:23:54,000
+a rat's maze.
+
+482
+00:23:54,000 --> 00:23:56,291
+When they rebuilt the city
+
+483
+00:23:56,291 --> 00:23:59,041
+they simply built over
+the existing tunnels.
+
+484
+00:23:59,041 --> 00:24:00,625
+I have it, sir.
+
+485
+00:24:05,792 --> 00:24:08,291
+Pardon me, sir
+but where do these tunnels
+
+486
+00:24:08,291 --> 00:24:09,625
+come into the picture?
+
+487
+00:24:09,625 --> 00:24:12,000
+This is where Karnas
+held his hostages before
+
+488
+00:24:12,000 --> 00:24:15,417
+and where I believe
+he has them now.
+
+489
+00:24:15,417 --> 00:24:17,375
+Wouldn't that be
+a little obvious, Admiral?
+
+490
+00:24:17,375 --> 00:24:20,291
+Karnas is a dogged
+strategist, Picard--
+
+491
+00:24:20,291 --> 00:24:21,583
+not a brilliant one.
+
+492
+00:24:21,583 --> 00:24:23,250
+He sticks to what works.
+
+493
+00:24:23,250 --> 00:24:25,166
+He will kill the hostages
+
+494
+00:24:25,166 --> 00:24:27,542
+if we do not get
+them out of there.
+
+495
+00:24:27,542 --> 00:24:29,667
+Therefore you see
+this armed raid
+
+496
+00:24:29,667 --> 00:24:30,959
+as the only option?
+
+497
+00:24:30,959 --> 00:24:32,709
+You don't agree?
+
+498
+00:24:32,709 --> 00:24:34,667
+With respect, Admiral,
+I would point out
+
+499
+00:24:34,667 --> 00:24:37,458
+that no one else has heard
+or considered Karnas's demands.
+
+500
+00:24:37,458 --> 00:24:39,667
+The Federation might
+view them differently
+
+501
+00:24:39,667 --> 00:24:41,583
+if they knew what they were.
+
+502
+00:24:41,583 --> 00:24:46,875
+Starfleet has given
+me command of the
+away team, Picard
+
+503
+00:24:46,875 --> 00:24:50,792
+and I intend to use
+them as I see fit.
+
+504
+00:24:54,125 --> 00:24:58,125
+Our anniversary is next week--
+our 50th.
+
+505
+00:24:58,125 --> 00:25:02,166
+In his heart, he's still
+the same man you married, Anne.
+
+506
+00:25:02,166 --> 00:25:03,500
+That's true.
+
+507
+00:25:03,500 --> 00:25:05,375
+He still
+cares for you
+
+508
+00:25:05,375 --> 00:25:07,917
+despite the physical changes
+he's undergoing.
+
+509
+00:25:07,917 --> 00:25:10,208
+But he's getting younger
+
+510
+00:25:10,208 --> 00:25:14,333
+and I'm...
+well, look at me.
+
+511
+00:25:14,333 --> 00:25:16,917
+Why did he do this?
+
+512
+00:25:16,917 --> 00:25:20,125
+Because there are lives
+at stake, Mrs. Jameson.
+
+513
+00:25:20,125 --> 00:25:21,959
+Well, what about our lives?
+
+514
+00:25:21,959 --> 00:25:23,625
+His and mine.
+
+515
+00:25:23,625 --> 00:25:27,333
+I was looking forward
+to time together finally.
+
+516
+00:25:27,333 --> 00:25:28,750
+Our retirement.
+
+517
+00:25:28,750 --> 00:25:31,625
+Now he's
+young again
+
+518
+00:25:31,625 --> 00:25:34,000
+and has his life to live over.
+
+519
+00:25:36,000 --> 00:25:38,291
+Doctor, she has to know.
+
+520
+00:25:38,291 --> 00:25:40,375
+Know what?
+
+521
+00:25:42,792 --> 00:25:46,750
+Anne, your husband...
+
+522
+00:25:46,750 --> 00:25:48,208
+What is it?
+
+523
+00:25:48,208 --> 00:25:50,333
+He's not stabilizing.
+
+524
+00:25:50,333 --> 00:25:53,709
+He may not have that life
+to live over.
+
+525
+00:26:13,875 --> 00:26:17,041
+We'll be at Mordan
+in three hours.
+
+526
+00:26:19,792 --> 00:26:23,041
+I couldn't sleep, either.
+
+527
+00:26:23,041 --> 00:26:26,333
+I never could
+before a mission.
+
+528
+00:26:26,333 --> 00:26:29,041
+Always wound up
+in the observation lounge
+
+529
+00:26:29,041 --> 00:26:32,083
+staring out at the stars,
+thinking.
+
+530
+00:26:32,083 --> 00:26:36,041
+Perhaps in this case,
+rethinking?
+
+531
+00:26:47,792 --> 00:26:50,500
+Why is this mission
+so important to you?
+
+532
+00:26:50,500 --> 00:26:53,458
+Why did you risk your life
+to lead it personally?
+
+533
+00:26:53,458 --> 00:26:56,166
+I want to save lives, Captain.
+
+534
+00:26:56,166 --> 00:26:58,166
+Noble sentiments...
+
+535
+00:26:58,166 --> 00:27:00,000
+but that's too easy an answer.
+
+536
+00:27:00,000 --> 00:27:01,667
+You've been here before.
+
+537
+00:27:01,667 --> 00:27:05,291
+You negotiated a release of the
+hostages with Karnas before.
+
+538
+00:27:05,291 --> 00:27:09,625
+Why is it now your answer
+is an armed raid?
+
+539
+00:27:09,625 --> 00:27:13,291
+It's my away team
+you're sending in there.
+
+540
+00:27:13,291 --> 00:27:15,125
+I think there's something
+you're not telling me
+
+541
+00:27:15,125 --> 00:27:17,250
+and I have a right
+to know what it is.
+
+542
+00:27:18,709 --> 00:27:21,583
+Do you know the background?
+
+543
+00:27:23,250 --> 00:27:25,500
+The Mordanites had
+some sophistication
+
+544
+00:27:25,500 --> 00:27:29,500
+but were still ruled
+by family tribal units.
+
+545
+00:27:29,500 --> 00:27:34,792
+Karnas's father was
+the ruling chief
+
+546
+00:27:34,792 --> 00:27:36,000
+of one of the families.
+
+547
+00:27:36,000 --> 00:27:39,417
+Another tribe had him
+assassinated.
+
+548
+00:27:39,417 --> 00:27:42,625
+Karnas seized the passengers
+of a starliner
+
+549
+00:27:42,625 --> 00:27:44,166
+and held them hostage
+
+550
+00:27:44,166 --> 00:27:47,125
+demanding that Starfleet
+provide him with weapons
+
+551
+00:27:47,125 --> 00:27:49,458
+that would enable him
+to defeat his rivals.
+
+552
+00:27:49,458 --> 00:27:52,625
+That's the official record.
+
+553
+00:27:52,625 --> 00:27:57,041
+<i>Officially</i> the story is
+
+554
+00:27:57,041 --> 00:28:02,375
+that after two other
+mediators were murdered...
+
+555
+00:28:02,375 --> 00:28:04,125
+I went in
+
+556
+00:28:04,125 --> 00:28:06,333
+and negotiated
+with Karnas
+
+557
+00:28:06,333 --> 00:28:08,959
+to bring out the
+hostages safely.
+
+558
+00:28:08,959 --> 00:28:11,542
+Are you saying
+that's not the truth?
+
+559
+00:28:11,542 --> 00:28:17,709
+It wasn't my golden oratory
+that saved them, Captain.
+
+560
+00:28:19,208 --> 00:28:22,417
+I gave Karnas the weapons
+he wanted.
+
+561
+00:28:23,875 --> 00:28:25,875
+You did what?
+
+562
+00:28:25,875 --> 00:28:28,792
+I gave exactly the same weapons
+to his rivals.
+
+563
+00:28:28,792 --> 00:28:31,375
+My interpretation
+of the prime directive:
+
+564
+00:28:31,375 --> 00:28:32,875
+Let them solve
+their problems
+
+565
+00:28:32,875 --> 00:28:35,709
+with those arms
+on an equal basis.
+
+566
+00:28:39,500 --> 00:28:44,583
+And that decision plunged them
+into 40 years of civil war.
+
+567
+00:28:44,583 --> 00:28:45,959
+I didn't know that would happen.
+
+568
+00:28:45,959 --> 00:28:48,083
+I thought a minor war...
+
+569
+00:28:48,083 --> 00:28:49,709
+It would be settled
+in less than a year.
+
+570
+00:28:49,709 --> 00:28:52,959
+How would I know
+it would take four decades?
+
+571
+00:28:52,959 --> 00:28:56,750
+But I...
+
+572
+00:28:56,750 --> 00:28:59,583
+I falsified the records
+to Starfleet.
+
+573
+00:28:59,583 --> 00:29:03,500
+But I lived with that
+on my soul, Picard.
+
+574
+00:29:03,500 --> 00:29:06,834
+63 people came away safe,
+but millions died on Mordan
+
+575
+00:29:06,834 --> 00:29:09,417
+because I delivered
+those weapons.
+
+576
+00:29:09,417 --> 00:29:12,917
+Karnas could have worked
+for peace
+
+577
+00:29:12,917 --> 00:29:15,291
+during those years
+instead of continuing the war.
+
+578
+00:29:15,291 --> 00:29:17,208
+It's not all on your head,
+Admiral.
+
+579
+00:29:17,208 --> 00:29:18,250
+But I started it.
+
+580
+00:29:18,250 --> 00:29:19,792
+I lit the match.
+
+581
+00:29:19,792 --> 00:29:21,959
+Now, finally,
+I can vindicate myself
+
+582
+00:29:21,959 --> 00:29:23,792
+if only in a small way.
+
+583
+00:29:23,792 --> 00:29:26,417
+I came to negotiate
+
+584
+00:29:26,417 --> 00:29:29,083
+but that isn't
+what Karnas wants.
+
+585
+00:29:29,083 --> 00:29:31,375
+Revenge.
+
+586
+00:29:31,375 --> 00:29:32,875
+That's why he demanded you
+
+587
+00:29:32,875 --> 00:29:34,917
+when he knew that you
+were still alive.
+
+588
+00:29:34,917 --> 00:29:37,792
+And I'm not going
+to give it to him, Picard.
+
+589
+00:29:37,792 --> 00:29:41,000
+I'm going to do
+what I should have
+done the first time.
+
+590
+00:29:41,000 --> 00:29:43,959
+We're taking the hostages
+out by force if necessary.
+
+591
+00:29:43,959 --> 00:29:46,333
+No deals.
+
+592
+00:29:52,667 --> 00:29:54,792
+Prepare to
+energize, chief.
+
+593
+00:29:54,792 --> 00:29:56,291
+Belay that.
+
+594
+00:29:56,291 --> 00:29:58,959
+Admiral, your proper
+place is on the Bridge.
+
+595
+00:29:58,959 --> 00:30:02,083
+I will remind you
+one more time, Picard--
+
+596
+00:30:02,083 --> 00:30:04,125
+I am the Senior
+Mission Commander
+
+597
+00:30:04,125 --> 00:30:06,208
+and I am leading this team.
+
+598
+00:30:06,208 --> 00:30:08,667
+Sir?
+
+599
+00:30:08,667 --> 00:30:10,542
+The Admiral is correct,
+Number One.
+
+600
+00:30:10,542 --> 00:30:12,417
+He has that right
+
+601
+00:30:12,417 --> 00:30:14,709
+but I am the Captain
+of this ship
+
+602
+00:30:14,709 --> 00:30:17,709
+and I have a right
+to accompany him.
+
+603
+00:30:21,542 --> 00:30:23,834
+Riker, you're in command
+of the<i> Enterprise.</i>
+
+604
+00:30:23,834 --> 00:30:25,291
+Energize.
+
+605
+00:30:52,333 --> 00:30:54,083
+Yes, perfect.
+
+606
+00:30:54,083 --> 00:30:55,500
+We are in the M-4 tunnel
+
+607
+00:30:55,500 --> 00:30:57,917
+directly under
+the governor's residence.
+
+608
+00:30:57,917 --> 00:30:59,625
+M-4 is a subsidiary tunnel
+
+609
+00:30:59,625 --> 00:31:02,250
+but it crosses and links
+with several main ones.
+
+610
+00:31:02,250 --> 00:31:03,792
+I am sorry, sir.
+
+611
+00:31:03,792 --> 00:31:05,375
+That does not correspond
+with the information
+
+612
+00:31:05,375 --> 00:31:06,583
+in my tricorder.
+
+613
+00:31:06,583 --> 00:31:08,500
+Your information
+is incorrect, Commander.
+
+614
+00:31:08,500 --> 00:31:11,000
+I know these tunnels
+like the back of my own hand.
+
+615
+00:31:11,000 --> 00:31:13,166
+Keep scanning for signs
+of human life-forms.
+
+616
+00:31:13,166 --> 00:31:16,125
+Karnas held the hostages
+in these tunnels before.
+
+617
+00:31:16,125 --> 00:31:17,291
+He'll do it again.
+
+618
+00:31:27,542 --> 00:31:29,917
+Captain.
+
+619
+00:31:29,917 --> 00:31:32,417
+The Admiral is
+definitely incorrect.
+
+620
+00:31:32,417 --> 00:31:33,917
+The tunnel schematics we have
+
+621
+00:31:33,917 --> 00:31:35,500
+show this to be
+a dead end.
+
+622
+00:31:35,500 --> 00:31:36,917
+It was sealed off
+two years ago.
+
+623
+00:31:36,917 --> 00:31:38,583
+I have no doubt you're
+right, Mr. Data.
+
+624
+00:31:38,583 --> 00:31:40,083
+However, 45 years ago
+
+625
+00:31:40,083 --> 00:31:41,875
+I'm sure it linked in
+with the tunnels
+
+626
+00:31:41,875 --> 00:31:43,709
+the Admiral
+remembers.
+
+627
+00:31:51,375 --> 00:31:53,166
+Damn!
+
+628
+00:31:54,125 --> 00:31:55,333
+Geordi?
+
+629
+00:31:55,333 --> 00:31:58,875
+This is... steelplast, sir.
+
+630
+00:31:58,875 --> 00:32:00,500
+Fairly recent
+installation.
+
+631
+00:32:00,500 --> 00:32:01,917
+This is the most
+direct route.
+
+632
+00:32:01,917 --> 00:32:04,250
+Set phasers
+to cut through it.
+
+633
+00:32:04,250 --> 00:32:06,458
+(<i> phasers beeping</i> )
+
+634
+00:32:23,917 --> 00:32:26,375
+(<i> clanking</i> )
+
+635
+00:32:29,208 --> 00:32:30,792
+If you have
+the coordinates
+
+636
+00:32:30,792 --> 00:32:32,333
+where you think
+the hostages are, sir
+
+637
+00:32:32,333 --> 00:32:33,709
+we could just
+beam in over there.
+
+638
+00:32:33,709 --> 00:32:36,750
+Karnas may not have them
+in the same place.
+
+639
+00:32:36,750 --> 00:32:38,458
+There's no substitute,
+Lieutenant
+
+640
+00:32:38,458 --> 00:32:41,083
+for a little personal
+reconnoiter.
+
+641
+00:32:52,709 --> 00:32:56,083
+Admiral, there's an
+infrared light signal up ahead--
+
+642
+00:32:56,083 --> 00:32:57,166
+steady beam,
+straight across
+
+643
+00:32:57,166 --> 00:32:58,500
+the tunnel,
+chest high.
+
+644
+00:32:58,500 --> 00:33:00,667
+There's another one
+at... about waist level.
+
+645
+00:33:00,667 --> 00:33:02,291
+An alarm trigger or...?
+
+646
+00:33:02,291 --> 00:33:03,625
+Reset phasers to stun.
+
+647
+00:33:03,625 --> 00:33:04,750
+(<i> beeping</i> )
+
+648
+00:33:04,750 --> 00:33:05,834
+PICARD:
+Take cover!
+
+649
+00:33:08,792 --> 00:33:10,500
+(<i> phaser fire</i> )
+
+650
+00:33:16,458 --> 00:33:17,792
+Sir, look out!
+
+651
+00:33:29,458 --> 00:33:30,458
+Their phasers, sir.
+
+652
+00:33:30,458 --> 00:33:31,417
+Set on kill.
+
+653
+00:33:31,417 --> 00:33:32,500
+Thank you, Mr. Data.
+
+654
+00:33:32,500 --> 00:33:34,458
+I have heard the sound before.
+
+655
+00:33:37,333 --> 00:33:39,709
+(<i> groaning</i> )
+
+656
+00:33:44,750 --> 00:33:46,709
+(<i> groaning</i> )
+
+657
+00:33:49,959 --> 00:33:51,792
+(<i> groaning</i> )
+
+658
+00:33:51,792 --> 00:33:52,792
+YAR:
+Is he hit?
+
+659
+00:33:52,792 --> 00:33:54,458
+No sign
+of a wound.
+
+660
+00:33:56,667 --> 00:33:59,083
+<i>Enterprise,</i>
+this is Picard.
+
+661
+00:33:59,083 --> 00:34:00,125
+Six to beam up, now!
+
+662
+00:34:15,667 --> 00:34:17,417
+The Admiral?
+Sick Bay.
+
+663
+00:34:17,417 --> 00:34:20,250
+"Not good" is a
+galactic understatement.
+
+664
+00:34:20,250 --> 00:34:22,166
+Sir? Karnas again.
+
+665
+00:34:22,166 --> 00:34:23,917
+On screen.
+
+666
+00:34:23,917 --> 00:34:27,125
+<i>Enterprise,</i> there has been
+an armed intrusion
+
+667
+00:34:27,125 --> 00:34:28,959
+in the tunnels beneath the city.
+
+668
+00:34:28,959 --> 00:34:31,083
+Now, that smells of Jameson.
+
+669
+00:34:31,083 --> 00:34:33,875
+Where is he?
+
+670
+00:34:33,875 --> 00:34:35,959
+Karnas, this
+is Picard.
+
+671
+00:34:35,959 --> 00:34:37,291
+I'm sorry
+to inform you
+
+672
+00:34:37,291 --> 00:34:39,291
+the Admiral is
+critically ill.
+
+673
+00:34:39,291 --> 00:34:42,041
+That is not my concern.
+
+674
+00:34:42,041 --> 00:34:43,875
+Sick or well
+
+675
+00:34:43,875 --> 00:34:46,250
+you have ten minutes
+to beam him down.
+
+676
+00:34:46,250 --> 00:34:47,542
+(<i> communications beep</i> )
+
+677
+00:34:47,542 --> 00:34:49,083
+TROI:
+Sick Bay to Bridge.
+
+678
+00:34:49,083 --> 00:34:50,458
+Picard.
+
+679
+00:34:50,458 --> 00:34:52,208
+Dr. Crusher requests
+your presence
+
+680
+00:34:52,208 --> 00:34:53,834
+in Sick Bay immediately, sir.
+
+681
+00:34:53,834 --> 00:34:55,709
+I'm on my way.
+
+682
+00:34:59,291 --> 00:35:01,041
+Sick Bay.
+
+683
+00:35:03,291 --> 00:35:05,375
+What is it, Doctor?
+
+684
+00:35:05,375 --> 00:35:08,291
+I think you better see
+for yourself, Captain.
+
+685
+00:35:16,834 --> 00:35:18,417
+Picard.
+
+686
+00:35:21,625 --> 00:35:23,500
+Picard, I have to get to Karnas.
+
+687
+00:35:23,500 --> 00:35:25,875
+I can't let him out
+of my care, Captain.
+
+688
+00:35:25,875 --> 00:35:27,625
+It's my last option.
+
+689
+00:35:27,625 --> 00:35:28,917
+The raid failed.
+
+690
+00:35:28,917 --> 00:35:31,375
+All I have left to bargain with
+is myself.
+
+691
+00:35:31,375 --> 00:35:33,500
+RIKER:
+Bridge to Picard.
+
+692
+00:35:33,500 --> 00:35:34,667
+Picard here.
+
+693
+00:35:34,667 --> 00:35:36,583
+A new message from Karnas, sir.
+
+694
+00:35:36,583 --> 00:35:38,417
+If we don't deliver Jameson
+in five minutes
+
+695
+00:35:38,417 --> 00:35:40,458
+one of the hostages
+will be executed.
+
+696
+00:35:40,458 --> 00:35:43,750
+15 minutes after that,
+another.
+
+697
+00:35:43,750 --> 00:35:46,208
+He promises
+the method of execution
+
+698
+00:35:46,208 --> 00:35:48,208
+will be most painful.
+
+699
+00:35:48,208 --> 00:35:50,208
+Let me go.
+
+700
+00:35:50,208 --> 00:35:53,792
+If I give myself over to him,
+he'll let the hostages go.
+
+701
+00:35:53,792 --> 00:35:56,041
+It's me he wants.
+
+702
+00:35:56,041 --> 00:35:58,291
+It means almost
+certain death for you, Admiral.
+
+703
+00:35:58,291 --> 00:36:02,667
+My life for
+how many hostages, Picard? 20?
+
+704
+00:36:02,667 --> 00:36:05,625
+Let me go.
+
+705
+00:36:12,834 --> 00:36:14,250
+Number One, inform Karnas
+
+706
+00:36:14,250 --> 00:36:16,458
+we'll be beaming down
+in less than five minutes.
+
+707
+00:36:16,458 --> 00:36:18,458
+Did you say "we," sir?
+
+708
+00:36:18,458 --> 00:36:20,667
+You have your orders,
+Number One.
+
+709
+00:36:20,667 --> 00:36:23,291
+Aye, sir.
+
+710
+00:36:34,625 --> 00:36:36,834
+Who are you?
+
+711
+00:36:36,834 --> 00:36:39,041
+I want Jameson.
+
+712
+00:36:39,041 --> 00:36:44,834
+Karnas, this<i> is</i>
+Admiral Mark Jameson.
+
+713
+00:36:52,792 --> 00:36:55,875
+This... charade...
+
+714
+00:36:55,875 --> 00:36:58,542
+will accomplish
+nothing, Picard.
+
+715
+00:36:58,542 --> 00:37:02,500
+Beam down Jameson and the
+hostages will be freed.
+
+716
+00:37:02,500 --> 00:37:04,875
+Continue this
+and I promise you
+
+717
+00:37:04,875 --> 00:37:06,792
+they will die,
+and you with them.
+
+718
+00:37:06,792 --> 00:37:10,542
+Peritor Karnas, you always
+were a stubborn man.
+
+719
+00:37:10,542 --> 00:37:12,667
+I thought you wanted me.
+
+720
+00:37:12,667 --> 00:37:14,125
+I'm here.
+
+721
+00:37:14,125 --> 00:37:16,208
+Release the hostages now.
+
+722
+00:37:16,208 --> 00:37:18,667
+Peritor was my old title.
+
+723
+00:37:18,667 --> 00:37:20,834
+Why do you call me that?
+
+724
+00:37:20,834 --> 00:37:22,792
+I warn you, Picard.
+
+725
+00:37:22,792 --> 00:37:24,750
+This trick is
+going on too far.
+
+726
+00:37:24,750 --> 00:37:26,417
+He has been
+coached for some...
+
+727
+00:37:26,417 --> 00:37:28,709
+some devious reason.
+
+728
+00:37:28,709 --> 00:37:31,875
+If this farce does
+not stop immediately
+
+729
+00:37:31,875 --> 00:37:35,166
+you and the hostages
+will be put to death!
+
+730
+00:37:35,166 --> 00:37:36,500
+(<i> groans</i> )
+
+731
+00:37:36,500 --> 00:37:37,417
+Doctor!
+
+732
+00:37:37,417 --> 00:37:39,125
+(<i> yelling</i> )
+
+733
+00:37:41,375 --> 00:37:43,834
+I am waiting for an
+explanation, Captain.
+
+734
+00:37:43,834 --> 00:37:45,875
+He is the Admiral, Karnas!
+
+735
+00:37:45,875 --> 00:37:48,083
+Before we left on this mission,
+he administered an overdose
+
+736
+00:37:48,083 --> 00:37:50,792
+of an alien de-aging
+drug to himself. He...
+
+737
+00:37:50,792 --> 00:37:52,250
+he wanted to face you
+
+738
+00:37:52,250 --> 00:37:55,000
+with strength again
+on even terms.
+
+739
+00:37:55,000 --> 00:37:57,083
+This is what the drug
+has done to him.
+
+740
+00:37:57,083 --> 00:38:00,333
+This story you are telling
+me is unbelievable.
+
+741
+00:38:00,333 --> 00:38:05,250
+Jameson is a man of more
+than 80 years, not this!
+
+742
+00:38:05,250 --> 00:38:08,792
+I want that old man, Picard.
+
+743
+00:38:08,792 --> 00:38:12,583
+I want to show him this world
+he helped to make
+
+744
+00:38:12,583 --> 00:38:15,417
+the scars
+on old soldiers' bodies
+
+745
+00:38:15,417 --> 00:38:18,458
+the graveyards
+of our young dead
+
+746
+00:38:18,458 --> 00:38:21,875
+the wasted cities that we are
+still rebuilding.
+
+747
+00:38:21,875 --> 00:38:23,500
+(<i> groaning</i> )
+
+748
+00:38:23,500 --> 00:38:27,417
+And all of it
+caused by him.
+
+749
+00:38:27,417 --> 00:38:28,792
+As I understand it, Karnas
+
+750
+00:38:28,792 --> 00:38:30,667
+it was you
+who demanded the weapons
+
+751
+00:38:30,667 --> 00:38:32,417
+to avenge your
+father's death.
+
+752
+00:38:32,417 --> 00:38:36,000
+But Jameson didn't give
+weapons to only us.
+
+753
+00:38:36,000 --> 00:38:39,417
+If he had, we would have quickly
+triumphed over our enemies
+
+754
+00:38:39,417 --> 00:38:42,291
+and there would
+have been peace in
+all these decades.
+
+755
+00:38:42,291 --> 00:38:46,667
+I want him to pay for that,
+Picard.
+
+756
+00:38:46,667 --> 00:38:48,125
+(<i> Jameson groans loudly</i> )
+
+757
+00:38:48,125 --> 00:38:50,709
+Captain, I think Mrs. Jameson
+
+758
+00:38:50,709 --> 00:38:52,041
+should beam down now.
+
+759
+00:38:52,041 --> 00:38:53,917
+<i>Enterprise,</i> this is Picard.
+
+760
+00:38:53,917 --> 00:38:56,375
+Have Mrs. Jameson prepare
+to beam down.
+
+761
+00:38:56,375 --> 00:38:58,709
+Karnas, I asked Dr. Crusher
+to bring with her
+
+762
+00:38:58,709 --> 00:39:01,500
+the visual records we made
+of the Admiral's deterioration.
+
+763
+00:39:01,500 --> 00:39:02,542
+Will you look at them?
+
+764
+00:39:02,542 --> 00:39:04,375
+You're wasting my time, Picard.
+
+765
+00:39:04,375 --> 00:39:06,333
+Just a few moments.
+
+766
+00:39:06,333 --> 00:39:08,792
+You saw the Admiral
+on the<i> Enterprise</i>
+
+767
+00:39:08,792 --> 00:39:10,250
+when he was en route
+for Mordan?
+Yes.
+
+768
+00:39:10,250 --> 00:39:11,750
+And you recognized him?
+Yes.
+
+769
+00:39:11,750 --> 00:39:13,792
+Is this the man
+you saw?
+
+770
+00:39:13,792 --> 00:39:16,625
+This is the man I want.
+
+771
+00:39:16,625 --> 00:39:17,792
+He's here, Karnas.
+
+772
+00:39:17,792 --> 00:39:18,834
+Look.
+
+773
+00:39:32,041 --> 00:39:35,375
+Once he took the compound,
+there was no way to stop it.
+
+774
+00:39:43,750 --> 00:39:46,000
+(<i> gasping</i> )
+
+775
+00:39:53,792 --> 00:39:56,291
+You'll have to deal
+with me, Karnas.
+
+776
+00:39:56,291 --> 00:39:59,291
+Whatever you wanted from Jameson
+isn't possible anymore
+
+777
+00:39:59,291 --> 00:40:01,041
+and you wanted revenge.
+
+778
+00:40:01,041 --> 00:40:03,208
+You blamed your war on him
+
+779
+00:40:03,208 --> 00:40:05,625
+and there's no doubt he had
+a lot to do with it
+
+780
+00:40:05,625 --> 00:40:08,500
+but you had the weapons
+and you used them.
+
+781
+00:40:08,500 --> 00:40:10,208
+You could have tried
+for negotiations
+
+782
+00:40:10,208 --> 00:40:12,792
+for peace on your planet
+long ago.
+
+783
+00:40:12,792 --> 00:40:14,500
+Instead, you chose to fight.
+
+784
+00:40:14,500 --> 00:40:16,750
+How many of those 40 years
+of civil war
+
+785
+00:40:16,750 --> 00:40:18,208
+are on your head, Karnas?
+
+786
+00:40:18,208 --> 00:40:19,875
+Jameson must pay
+for his crimes.
+
+787
+00:40:19,875 --> 00:40:21,834
+I have sworn it
+to my people.
+
+788
+00:40:21,834 --> 00:40:24,125
+45 years ago he made
+the wrong decision.
+
+789
+00:40:24,125 --> 00:40:27,375
+He wanted to come back,
+to somehow right it
+
+790
+00:40:27,375 --> 00:40:31,041
+to atone for
+what he did.
+
+791
+00:40:31,041 --> 00:40:36,208
+Now, all he can do is
+give himself up to you.
+
+792
+00:40:36,208 --> 00:40:38,417
+He brought this retribution
+on himself.
+
+793
+00:40:38,417 --> 00:40:39,750
+No!
+
+794
+00:40:39,750 --> 00:40:41,000
+I don't believe you.
+
+795
+00:40:41,000 --> 00:40:42,125
+You're shielding Jameson
+on the ship
+
+796
+00:40:42,125 --> 00:40:43,500
+and you're telling me this tale
+
+797
+00:40:43,500 --> 00:40:45,709
+to save his life.
+
+798
+00:40:45,709 --> 00:40:48,291
+Peritor Karnas...
+
+799
+00:40:48,291 --> 00:40:52,041
+There were only two of us
+in the meeting.
+
+800
+00:40:52,041 --> 00:40:55,083
+You didn't even trust
+your lieutenants there.
+
+801
+00:40:55,083 --> 00:40:59,208
+You told me that
+old Peritor Sane
+
+802
+00:40:59,208 --> 00:41:01,959
+had ordered your father's
+assassination.
+
+803
+00:41:01,959 --> 00:41:06,000
+You told me that you wanted arms
+to destroy him.
+
+804
+00:41:06,000 --> 00:41:10,208
+Peace... wasn't on your mind.
+
+805
+00:41:10,208 --> 00:41:13,000
+All you wanted was revenge
+
+806
+00:41:13,000 --> 00:41:16,250
+and I gave you the weapons
+to do it.
+
+807
+00:41:16,250 --> 00:41:20,792
+Jameson told you this.
+
+808
+00:41:20,792 --> 00:41:23,000
+If it is you...
+
+809
+00:41:23,000 --> 00:41:24,709
+show me the scar.
+
+810
+00:41:24,709 --> 00:41:27,083
+There!
+
+811
+00:41:27,083 --> 00:41:31,542
+The blood cut you gave me
+to seal our bargain!
+
+812
+00:41:34,667 --> 00:41:37,917
+It is you.
+
+813
+00:41:37,917 --> 00:41:43,291
+Somehow... it is you.
+
+814
+00:41:44,333 --> 00:41:47,667
+(<i> gasping</i> )
+
+815
+00:41:50,166 --> 00:41:53,333
+Then die by your own weapon!
+
+816
+00:41:57,750 --> 00:41:59,834
+No.
+
+817
+00:41:59,834 --> 00:42:04,500
+No, my revenge will be
+in seeing you live like this.
+
+818
+00:42:06,792 --> 00:42:09,583
+(<i> groans</i> )
+
+819
+00:42:12,333 --> 00:42:14,458
+Such pain.
+
+820
+00:42:14,458 --> 00:42:17,208
+The compound he took
+is forcing his cells and organs
+
+821
+00:42:17,208 --> 00:42:19,750
+to go further, younger,
+and they can't take the stress.
+
+822
+00:42:19,750 --> 00:42:21,834
+It's like they're imploding.
+
+823
+00:42:21,834 --> 00:42:23,959
+And I can't give him
+anything to stop it.
+
+824
+00:42:23,959 --> 00:42:26,041
+Can you ease
+the pain?
+
+825
+00:42:27,917 --> 00:42:29,083
+Mark...
+
+826
+00:42:29,083 --> 00:42:31,667
+can you hear me?
+
+827
+00:42:31,667 --> 00:42:33,583
+Yes.
+
+828
+00:42:33,583 --> 00:42:36,875
+I will always love you.
+
+829
+00:42:36,875 --> 00:42:41,333
+Annie, with the golden hair.
+
+830
+00:42:41,333 --> 00:42:45,041
+Flatterer.
+
+831
+00:42:45,041 --> 00:42:47,125
+It's gray now.
+
+832
+00:42:50,792 --> 00:42:54,166
+I see only the gold.
+
+833
+00:42:56,000 --> 00:42:57,875
+(<i> groans</i> )
+
+834
+00:43:01,792 --> 00:43:05,041
+(<i> crying</i> )
+
+835
+00:43:11,792 --> 00:43:15,458
+Rest, Jameson.
+
+836
+00:43:15,458 --> 00:43:20,500
+Your long night... and mine...
+
+837
+00:43:20,500 --> 00:43:23,000
+are over.
+
+838
+00:43:25,417 --> 00:43:30,875
+The hostages will be freed
+immediately, Captain.
+
+839
+00:43:30,875 --> 00:43:35,500
+I'm prepared
+to be cooperative.
+
+840
+00:43:44,333 --> 00:43:47,834
+The hostages have been freed
+by Karnas unharmed
+
+841
+00:43:47,834 --> 00:43:50,625
+and the body
+of Admiral Mark Jameson
+
+842
+00:43:50,625 --> 00:43:54,000
+has been buried on Mordan
+at the request of his widow
+
+843
+00:43:54,000 --> 00:43:56,291
+and by the permission
+of Karnas.
+
+844
+00:43:58,125 --> 00:44:01,041
+The quest for youth,
+Number One.
+
+845
+00:44:01,041 --> 00:44:03,250
+So futile.
+
+846
+00:44:03,250 --> 00:44:06,458
+Age and wisdom have
+their graces, too.
+
+847
+00:44:06,458 --> 00:44:10,250
+I wonder if one doesn't
+have to have age and wisdom
+
+848
+00:44:10,250 --> 00:44:11,792
+to appreciate that, sir.
+
+849
+00:44:11,792 --> 00:44:15,792
+I hope not, Number One.
+
+850
+00:44:15,792 --> 00:44:18,291
+Mr. La Forge, prepare
+to take us out of orbit.
+
+851
+00:44:18,291 --> 00:44:20,667
+Set course for Isis III.
+
+852
+00:44:20,667 --> 00:44:22,208
+Aye, sir.
+
+853
+00:44:22,208 --> 00:44:24,291
+Leaving orbit.

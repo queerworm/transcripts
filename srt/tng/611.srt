@@ -1,0 +1,3331 @@
+1
+00:00:01,250 --> 00:00:05,291
+<i>Last time on</i> Star Trek:
+The Next Generation...
+
+2
+00:00:05,333 --> 00:00:07,834
+"You are hereby requested
+and required
+
+3
+00:00:07,875 --> 00:00:09,417
+"to relinquish command
+of your vessel
+
+4
+00:00:09,458 --> 00:00:11,917
+"to captain Edward Jellico,
+Commanding Officer
+
+5
+00:00:11,959 --> 00:00:14,250
+USS<i> Cairo,</i> as of this date."
+
+6
+00:00:14,291 --> 00:00:16,375
+I want this ship
+ready for action
+
+7
+00:00:16,417 --> 00:00:17,834
+and I don't have time
+
+8
+00:00:17,875 --> 00:00:22,250
+to give Will Riker,
+or anyone else a "chance."
+
+9
+00:00:22,291 --> 00:00:24,000
+And forgive me
+for being blunt
+
+10
+00:00:24,041 --> 00:00:26,375
+but the<i> Enterprise</i> is mine now.
+
+11
+00:00:29,875 --> 00:00:32,417
+Our orders are to penetrate
+
+12
+00:00:32,458 --> 00:00:34,834
+the Celtris III
+installation.
+
+13
+00:00:38,875 --> 00:00:40,041
+It's a trap! Come on!
+
+14
+00:00:50,583 --> 00:00:51,875
+Let's go.
+
+15
+00:00:51,917 --> 00:00:53,041
+The captain!
+
+16
+00:00:53,083 --> 00:00:54,542
+No. There are
+five more of them
+
+17
+00:00:54,583 --> 00:00:56,125
+heading this way
+from another tunnel.
+
+18
+00:01:04,542 --> 00:01:06,959
+You should prove
+an interesting challenge.
+
+19
+00:01:07,000 --> 00:01:09,959
+Possibly the most interesting
+to come through that door
+
+20
+00:01:10,000 --> 00:01:11,625
+in many years.
+
+21
+00:01:11,667 --> 00:01:13,417
+What do you want?
+
+22
+00:01:13,458 --> 00:01:15,250
+Why, you, of course.
+
+23
+00:01:17,458 --> 00:01:18,792
+<i>And now, the conclusion.</i>
+
+24
+00:01:20,166 --> 00:01:22,583
+Your place
+of birth?
+
+25
+00:01:22,625 --> 00:01:25,667
+(<i> detached monotone</i> ):
+La Barre, France.
+
+26
+00:01:25,709 --> 00:01:27,542
+Mother's name?
+
+27
+00:01:27,583 --> 00:01:30,208
+Yvette Gessard.
+
+28
+00:01:30,250 --> 00:01:31,333
+He's ready.
+
+29
+00:01:31,375 --> 00:01:34,917
+Keep the serum
+at that level.
+
+30
+00:01:34,959 --> 00:01:38,959
+What is your
+current assignment?
+
+31
+00:01:39,000 --> 00:01:42,417
+Special operations
+on Celtris III.
+
+32
+00:01:42,458 --> 00:01:45,375
+What is your mission
+on Celtris III?
+
+33
+00:01:45,417 --> 00:01:48,458
+To seek and destroy
+a metagenic weapon.
+
+34
+00:01:48,500 --> 00:01:51,083
+How many others
+were part of this mission?
+
+35
+00:01:51,125 --> 00:01:52,291
+Two.
+
+36
+00:01:52,333 --> 00:01:55,542
+Name and rank?
+
+37
+00:01:55,583 --> 00:01:58,417
+Chief Medical Officer
+Beverly Crusher.
+
+38
+00:01:58,458 --> 00:02:01,000
+Lieutenant Worf.
+
+39
+00:02:01,041 --> 00:02:05,333
+What are the Federation's
+defense plans for Minos Korva?
+
+40
+00:02:07,667 --> 00:02:09,834
+I don't know.
+
+41
+00:02:09,875 --> 00:02:13,125
+Increase the level
+slightly to .31.
+
+42
+00:02:16,166 --> 00:02:19,041
+Let's begin again,
+shall we?
+
+43
+00:02:19,083 --> 00:02:21,583
+Name?
+
+44
+00:02:21,625 --> 00:02:23,291
+Picard, Jean-Luc.
+
+45
+00:02:23,333 --> 00:02:25,125
+Place of birth?
+
+46
+00:02:25,166 --> 00:02:28,500
+La Barre, France.
+
+47
+00:02:56,000 --> 00:03:01,125
+PICARD:
+<i>Space, the final frontier.</i>
+
+48
+00:03:01,166 --> 00:03:04,250
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+49
+00:03:04,291 --> 00:03:06,834
+<i>Its continuing mission--</i>
+
+50
+00:03:06,875 --> 00:03:10,125
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+51
+00:03:10,166 --> 00:03:15,458
+<i>to seek out new life</i>
+<i>and new civilizations...</i>
+
+52
+00:03:15,500 --> 00:03:18,750
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+53
+00:04:15,917 --> 00:04:19,875
+JELLICO:
+<i>Captain's Log,</i>
+<i>Stardate 46360.8.</i>
+
+54
+00:04:19,917 --> 00:04:21,250
+<i>The negotiations</i>
+<i>with the Cardassians</i>
+
+55
+00:04:21,291 --> 00:04:23,709
+<i>have made little progress.</i>
+
+56
+00:04:23,750 --> 00:04:25,291
+<i>I believe</i>
+<i>a military confrontation</i>
+
+57
+00:04:25,333 --> 00:04:27,333
+<i>may be unavoidable.</i>
+
+58
+00:04:27,375 --> 00:04:30,542
+Gul Lemec, I assure you
+that what the Federation wants
+
+59
+00:04:30,583 --> 00:04:33,792
+above all,
+is the preservation of peace.
+
+60
+00:04:33,834 --> 00:04:35,458
+Then, how do you
+explain the fact
+
+61
+00:04:35,500 --> 00:04:38,250
+that a Federation team
+launched an unprovoked assault
+
+62
+00:04:38,291 --> 00:04:41,583
+on Cardassian territory
+less than 14 hours ago?
+
+63
+00:04:41,625 --> 00:04:43,750
+I don't know
+what you're talking about.
+
+64
+00:04:43,792 --> 00:04:45,792
+Then let me explain.
+
+65
+00:04:50,041 --> 00:04:52,709
+Captain Jean-Luc Picard,
+Lieutenant Worf,
+
+66
+00:04:52,750 --> 00:04:55,542
+and Dr. Beverly Crusher
+landed on Celtris III
+
+67
+00:04:55,583 --> 00:04:58,709
+attacked one of our outposts
+in a brutal assault
+
+68
+00:04:58,750 --> 00:05:01,417
+and killed over
+55 men, women
+
+69
+00:05:01,458 --> 00:05:04,333
+and children.
+
+70
+00:05:04,375 --> 00:05:06,208
+What evidence
+do you have of that?
+
+71
+00:05:06,250 --> 00:05:07,875
+We have all the
+evidence we need.
+
+72
+00:05:07,917 --> 00:05:10,125
+We have Captain Picard.
+
+73
+00:05:11,667 --> 00:05:13,041
+Is he alive?
+
+74
+00:05:14,750 --> 00:05:16,417
+The Cardassian Union
+
+75
+00:05:16,458 --> 00:05:19,792
+has yet to decide
+how it will respond
+
+76
+00:05:19,834 --> 00:05:25,792
+to this latest provocation,
+but rest assured...
+
+77
+00:05:27,458 --> 00:05:29,542
+we will respond.
+
+78
+00:05:37,000 --> 00:05:39,625
+Is there any truth
+in what he's saying?
+
+79
+00:05:39,667 --> 00:05:41,333
+Captain Picard
+and the others
+
+80
+00:05:41,375 --> 00:05:43,041
+were sent
+to investigate reports
+
+81
+00:05:43,083 --> 00:05:45,834
+of a metagenic weapon
+on Celtris III.
+
+82
+00:05:45,875 --> 00:05:50,834
+It's possible that they
+may have been captured,
+
+83
+00:05:50,875 --> 00:05:52,417
+but if they did escape
+
+84
+00:05:52,458 --> 00:05:54,417
+they'll head for
+the Lyshan system.
+
+85
+00:05:54,458 --> 00:05:57,792
+The<i> Enterprise</i> is supposed to
+meet them there in eight hours.
+
+86
+00:05:57,834 --> 00:06:00,417
+Will, I want you to take
+a shuttlecraft
+
+87
+00:06:00,458 --> 00:06:03,083
+and head
+for the rendezvous point.
+
+88
+00:06:03,125 --> 00:06:05,500
+The<i> Enterprise</i> 
+will have to remain here
+
+89
+00:06:05,542 --> 00:06:08,667
+until the endgame
+with Gul Lemec is played out.
+
+90
+00:06:08,709 --> 00:06:10,125
+Aye, sir.
+
+91
+00:06:21,709 --> 00:06:23,875
+Captain Picard.
+
+92
+00:06:23,917 --> 00:06:26,166
+I demand to see
+a neutral representative
+
+93
+00:06:26,208 --> 00:06:29,125
+as required by
+the Federation-Cardassian
+peace treaty.
+
+94
+00:06:32,500 --> 00:06:36,291
+We have already sent a message
+to Tohvun III--
+
+95
+00:06:36,333 --> 00:06:39,750
+the nearest
+neutral planet.
+
+96
+00:06:39,792 --> 00:06:41,041
+They assure us
+
+97
+00:06:41,083 --> 00:06:43,250
+they will dispatch
+someone immediately.
+
+98
+00:06:43,291 --> 00:06:46,917
+Will you allow me
+to remove your restraints?
+
+99
+00:06:51,583 --> 00:06:53,875
+(<i> beeping, clicking</i> )
+
+100
+00:07:02,083 --> 00:07:04,625
+I understand that you are
+a student of archaeology.
+
+101
+00:07:04,667 --> 00:07:06,709
+Did you know
+that Cardassia boasts
+
+102
+00:07:06,750 --> 00:07:09,000
+some of the most ancient
+and splendid ruins
+
+103
+00:07:09,041 --> 00:07:10,500
+in the entire galaxy?
+
+104
+00:07:13,000 --> 00:07:15,375
+I know that the burial vaults
+
+105
+00:07:15,417 --> 00:07:17,583
+of the first
+Hebitian civilization
+
+106
+00:07:17,625 --> 00:07:20,709
+are said to be magnificent.
+
+107
+00:07:20,750 --> 00:07:23,208
+Apparently, when they
+were first unearthed
+
+108
+00:07:23,250 --> 00:07:25,792
+200 years ago, they were.
+
+109
+00:07:25,834 --> 00:07:28,875
+The burial vaults contained
+unimaginably beautiful
+
+110
+00:07:28,917 --> 00:07:31,792
+artifacts made of jevonite--
+
+111
+00:07:31,834 --> 00:07:36,875
+a rare, breathtaking stone--
+
+112
+00:07:36,917 --> 00:07:39,542
+but most
+of those objects are gone.
+
+113
+00:07:39,583 --> 00:07:43,375
+What happened to them?
+
+114
+00:07:43,417 --> 00:07:46,417
+What happens
+to impoverished societies--
+
+115
+00:07:46,458 --> 00:07:51,500
+the tombs were plundered,
+priceless treasures stolen.
+
+116
+00:07:51,542 --> 00:07:53,250
+A few were preserved in museums
+
+117
+00:07:53,291 --> 00:07:55,291
+but even those
+were eventually sold
+
+118
+00:07:55,333 --> 00:07:57,291
+in order to pay
+for our war efforts.
+
+119
+00:07:57,333 --> 00:08:02,291
+That war cost you hundreds
+of thousands of lives.
+
+120
+00:08:02,333 --> 00:08:04,041
+It depleted your food supplies
+
+121
+00:08:04,083 --> 00:08:08,417
+left your population
+weakened and miserable
+
+122
+00:08:08,458 --> 00:08:10,625
+and yet you risk another war.
+
+123
+00:08:10,667 --> 00:08:16,375
+Let's not waste time arguing
+about issues we cannot resolve.
+
+124
+00:08:16,417 --> 00:08:19,917
+Would you care to tour
+the Hebitian burial vaults?
+
+125
+00:08:19,959 --> 00:08:24,208
+What I would like
+is to be returned to my ship.
+
+126
+00:08:26,041 --> 00:08:30,125
+My dear Captain,
+you are a criminal.
+
+127
+00:08:30,166 --> 00:08:31,291
+You've been apprehended
+
+128
+00:08:31,333 --> 00:08:33,583
+invading one of our
+secret facilities.
+
+129
+00:08:33,625 --> 00:08:36,709
+The least that will happen
+is for you to stand trial
+
+130
+00:08:36,750 --> 00:08:38,625
+and be punished.
+
+131
+00:08:38,667 --> 00:08:40,750
+But I'm offering you
+the opportunity
+
+132
+00:08:40,792 --> 00:08:42,875
+for that experience to be...
+
+133
+00:08:45,166 --> 00:08:46,375
+civilized.
+
+134
+00:08:46,417 --> 00:08:48,625
+What is the price
+of that opportunity?
+
+135
+00:08:48,667 --> 00:08:50,750
+Cooperation.
+
+136
+00:08:50,792 --> 00:08:52,291
+We need to know
+the Federation's
+
+137
+00:08:52,333 --> 00:08:55,208
+defense strategy
+for Minos Korva.
+
+138
+00:08:55,250 --> 00:08:58,125
+You've injected me with drugs.
+
+139
+00:08:58,166 --> 00:08:59,792
+Surely, you must realize
+
+140
+00:08:59,834 --> 00:09:01,709
+that I've already answered
+truthfully
+
+141
+00:09:01,750 --> 00:09:03,417
+every question you've put to me.
+
+142
+00:09:03,458 --> 00:09:09,375
+Captain, we have gone to great
+lengths to lure you here
+
+143
+00:09:09,417 --> 00:09:11,959
+because we know that,
+in the event of an invasion
+
+144
+00:09:12,000 --> 00:09:15,750
+the<i> Enterprise</i> will be
+the command ship for the sector
+
+145
+00:09:15,792 --> 00:09:18,333
+encompassing
+Minos Korva.
+
+146
+00:09:18,375 --> 00:09:20,041
+Then, it seems you have
+
+147
+00:09:20,083 --> 00:09:22,792
+more knowledge of
+the situation than I.
+
+148
+00:09:36,250 --> 00:09:39,041
+Wasted energy, Captain.
+
+149
+00:09:39,083 --> 00:09:41,208
+You might come to wish
+you hadn't expended it
+
+150
+00:09:41,250 --> 00:09:43,291
+in such a futile effort.
+
+151
+00:09:43,333 --> 00:09:45,166
+Torture is expressly forbidden
+
+152
+00:09:45,208 --> 00:09:47,125
+under the terms
+of the Seldonis IV Convention
+
+153
+00:09:47,166 --> 00:09:49,333
+governing the treatment
+of prisoners of war!
+
+154
+00:10:03,250 --> 00:10:05,166
+Are you in good health?
+
+155
+00:10:05,208 --> 00:10:07,125
+Do you have any
+physical ailments
+
+156
+00:10:07,166 --> 00:10:08,792
+I should know about?
+
+157
+00:10:12,542 --> 00:10:15,542
+Beautiful, isn't it?
+
+158
+00:10:15,583 --> 00:10:19,291
+The stone is jevonite,
+
+159
+00:10:19,333 --> 00:10:24,041
+and now you know why
+it is so highly prized.
+
+160
+00:10:25,667 --> 00:10:27,333
+From this point on
+
+161
+00:10:27,375 --> 00:10:29,625
+you will enjoy
+no privilege of rank
+
+162
+00:10:29,667 --> 00:10:33,208
+no privileges of person.
+
+163
+00:10:33,250 --> 00:10:39,333
+From now on, I will refer
+to you only as "human."
+
+164
+00:10:40,417 --> 00:10:42,458
+You have no other identity.
+
+165
+00:10:56,625 --> 00:10:57,750
+(<i> beep</i> )
+
+166
+00:11:13,333 --> 00:11:15,417
+RIKER:
+<i>First Officer's Log,</i>
+<i>supplemental.</i>
+
+167
+00:11:15,458 --> 00:11:17,125
+<i>I have returned</i>
+<i>from the rendezvous point</i>
+
+168
+00:11:17,166 --> 00:11:18,542
+<i>in the Lyshan system</i>
+
+169
+00:11:18,583 --> 00:11:20,458
+<i>with Dr. Crusher</i>
+<i>and Lieutenant Worf.</i>
+
+170
+00:11:20,500 --> 00:11:23,542
+<i>Captain Picard's fate</i>
+<i>is still unknown.</i>
+
+171
+00:11:23,583 --> 00:11:24,709
+There was no chance
+
+172
+00:11:24,750 --> 00:11:25,792
+to go back
+for the captain.
+
+173
+00:11:25,834 --> 00:11:27,041
+We barely made it back
+
+174
+00:11:27,083 --> 00:11:29,542
+to the Ferengi cargo ship
+ourselves.
+
+175
+00:11:29,583 --> 00:11:31,875
+You were smart
+not to try.
+
+176
+00:11:31,917 --> 00:11:34,166
+I don't feel so smart.
+
+177
+00:11:34,208 --> 00:11:35,667
+Get some rest, Doctor.
+
+178
+00:11:35,709 --> 00:11:37,375
+Will.
+
+179
+00:11:45,959 --> 00:11:47,291
+I want Geordi to
+analyze the readings
+
+180
+00:11:47,333 --> 00:11:49,625
+from Beverly's tricorder.
+
+181
+00:11:49,667 --> 00:11:52,041
+Tell him to scrutinize
+every detail
+
+182
+00:11:52,083 --> 00:11:53,041
+of those caverns
+on Celtris III.
+
+183
+00:11:53,083 --> 00:11:54,625
+Aye, sir.
+
+184
+00:11:54,667 --> 00:11:58,709
+Request permission to begin
+planning a rescue operation.
+
+185
+00:11:58,750 --> 00:12:01,834
+I know you were
+close to him, Will,
+
+186
+00:12:01,875 --> 00:12:03,917
+but we don't even know
+if he's still alive.
+
+187
+00:12:03,959 --> 00:12:05,709
+Under the circumstances
+
+188
+00:12:05,750 --> 00:12:07,959
+a rescue mission
+would be foolhardy.
+
+189
+00:12:08,000 --> 00:12:09,792
+Shouldn't we assume
+that he<i> is</i> alive
+
+190
+00:12:09,834 --> 00:12:11,500
+until it's been
+proved otherwise?
+
+191
+00:12:11,542 --> 00:12:12,834
+We cannot just abandon him.
+
+192
+00:12:12,875 --> 00:12:14,542
+He's gone.
+
+193
+00:12:14,583 --> 00:12:18,500
+I'm sorry, Will, but you're
+going to have to accept that.
+
+194
+00:12:24,000 --> 00:12:27,709
+I want those tricorder readings
+analyzed by 1400 hours.
+
+195
+00:12:31,667 --> 00:12:33,625
+Yes, sir.
+
+196
+00:12:44,542 --> 00:12:46,959
+Good morning.
+I trust you slept well.
+
+197
+00:13:03,333 --> 00:13:05,333
+(<i> panting</i> )
+
+198
+00:13:27,500 --> 00:13:28,875
+Thirsty?
+
+199
+00:13:30,667 --> 00:13:33,375
+I would imagine so.
+
+200
+00:13:38,208 --> 00:13:40,250
+Well...
+
+201
+00:13:40,291 --> 00:13:43,291
+it's time to move on.
+
+202
+00:13:43,333 --> 00:13:45,291
+I told you all that I know.
+
+203
+00:13:45,333 --> 00:13:47,291
+Yes, I'm sure you have.
+
+204
+00:13:52,000 --> 00:13:53,583
+How many lights
+do you see there?
+
+205
+00:13:56,709 --> 00:13:58,125
+I see four lights.
+
+206
+00:13:58,166 --> 00:13:59,583
+No.
+
+207
+00:13:59,625 --> 00:14:01,834
+There are five.
+
+208
+00:14:01,875 --> 00:14:04,792
+Are you quite sure?
+
+209
+00:14:04,834 --> 00:14:06,333
+There are four lights.
+
+210
+00:14:06,375 --> 00:14:09,917
+Perhaps you're aware
+of the incision in your chest.
+
+211
+00:14:09,959 --> 00:14:12,875
+While you were under
+the influence of our drugs
+
+212
+00:14:12,917 --> 00:14:15,500
+you were implanted
+with a small device.
+
+213
+00:14:15,542 --> 00:14:17,750
+It's a remarkable invention.
+
+214
+00:14:25,166 --> 00:14:27,834
+By entering commands
+in this PADD
+
+215
+00:14:27,875 --> 00:14:29,166
+I can produce pain
+
+216
+00:14:29,208 --> 00:14:32,333
+in any part of your body--
+at various levels
+
+217
+00:14:32,375 --> 00:14:33,417
+of severity.
+
+218
+00:14:33,458 --> 00:14:35,000
+Forgive me.
+
+219
+00:14:35,041 --> 00:14:37,125
+I don't enjoy this,
+but I must demonstrate.
+
+220
+00:14:37,166 --> 00:14:38,750
+It will make everything clearer.
+
+221
+00:14:38,792 --> 00:14:40,792
+(<i> gasps in pain</i> )
+
+222
+00:14:43,875 --> 00:14:45,625
+Surprising, isn't it?
+
+223
+00:14:45,667 --> 00:14:48,625
+Most people feel at first they
+can steel themselves against it,
+
+224
+00:14:48,667 --> 00:14:49,750
+but they're
+completely unprepared
+
+225
+00:14:49,792 --> 00:14:52,041
+for the intensity of the pain.
+
+226
+00:14:52,083 --> 00:14:54,458
+That was the lowest
+possible setting.
+
+227
+00:14:54,500 --> 00:14:58,083
+I know nothing
+about Minos Korva.
+
+228
+00:14:58,125 --> 00:15:01,500
+But I've told you
+that I believe you.
+
+229
+00:15:01,542 --> 00:15:05,083
+I didn't ask you
+about Minos Korva.
+
+230
+00:15:05,125 --> 00:15:08,208
+I asked how many
+lights you see.
+
+231
+00:15:13,959 --> 00:15:15,750
+There are four lights.
+
+232
+00:15:17,875 --> 00:15:23,625
+I don't understand
+how you can be so mistaken.
+
+233
+00:15:23,667 --> 00:15:25,417
+(<i> intense groans</i> )
+
+234
+00:15:29,458 --> 00:15:32,750
+What is your
+current assignment?
+
+235
+00:15:32,792 --> 00:15:35,750
+Special operations
+on Celtris III.
+
+236
+00:15:38,041 --> 00:15:39,500
+Do you have anything to say?
+
+237
+00:15:39,542 --> 00:15:42,458
+Captain Picard was not
+acting under my orders.
+
+238
+00:15:42,500 --> 00:15:45,542
+And if we wish to execute him?
+
+239
+00:15:45,583 --> 00:15:47,125
+Under the terms
+
+240
+00:15:47,166 --> 00:15:49,125
+of the Seldonis Convention,
+Captain Picard...
+
+241
+00:15:49,166 --> 00:15:52,166
+The Seldonis Convention
+applies to prisoners of war.
+
+242
+00:15:52,208 --> 00:15:53,875
+Which means you
+would have to acknowledge
+
+243
+00:15:53,917 --> 00:15:55,542
+that he was captured
+during a mission
+
+244
+00:15:55,583 --> 00:15:57,291
+authorized by the Federation.
+
+245
+00:15:57,333 --> 00:16:00,125
+Are you willing to make
+such an admission?
+
+246
+00:16:00,166 --> 00:16:01,375
+No.
+
+247
+00:16:01,417 --> 00:16:03,542
+Then, he will be treated
+as a terrorist.
+
+248
+00:16:05,250 --> 00:16:07,208
+It's not my concern.
+
+249
+00:16:08,834 --> 00:16:12,917
+There is, of course,
+an alternative.
+
+250
+00:16:12,959 --> 00:16:14,792
+JELLICO:
+I'm listening.
+
+251
+00:16:14,834 --> 00:16:16,583
+If the Federation agreed
+
+252
+00:16:16,625 --> 00:16:19,583
+to a complete and immediate
+withdrawal from this sector
+
+253
+00:16:19,625 --> 00:16:23,250
+then we would be... disposed
+
+254
+00:16:23,291 --> 00:16:25,291
+to release Captain Picard
+
+255
+00:16:25,333 --> 00:16:29,125
+and forget about this incident.
+
+256
+00:16:29,166 --> 00:16:32,250
+I'll have to discuss this
+with my superiors.
+
+257
+00:16:32,291 --> 00:16:34,083
+Of course.
+
+258
+00:16:34,125 --> 00:16:36,166
+You have seven hours.
+
+259
+00:16:39,125 --> 00:16:41,000
+What are you going to do?
+
+260
+00:16:41,041 --> 00:16:42,458
+Send a message
+to Admiral Nechayev.
+
+261
+00:16:42,500 --> 00:16:46,000
+I recommend that she reject
+Lemec's proposal
+
+262
+00:16:46,041 --> 00:16:48,917
+and deploy additional
+starships along the border.
+
+263
+00:16:48,959 --> 00:16:51,667
+What about
+Captain Picard?
+
+264
+00:16:55,709 --> 00:16:58,000
+I'm not suggesting you
+trade an entire star system
+
+265
+00:16:58,041 --> 00:16:59,375
+for one man's life,
+
+266
+00:16:59,417 --> 00:17:00,667
+but you've got
+to acknowledge
+
+267
+00:17:00,709 --> 00:17:02,041
+that these were
+Federation orders
+
+268
+00:17:02,083 --> 00:17:03,250
+and that he<i> is</i>
+a prisoner of war.
+
+269
+00:17:03,291 --> 00:17:04,291
+No.
+
+270
+00:17:04,333 --> 00:17:05,583
+He will have
+the protection
+
+271
+00:17:05,625 --> 00:17:07,125
+of the Seldonis Convention.
+
+272
+00:17:07,166 --> 00:17:09,000
+That would play right
+into Gul Lemec's hand.
+
+273
+00:17:09,041 --> 00:17:11,291
+He's just waiting for some
+sign of weakness on our part
+
+274
+00:17:11,333 --> 00:17:12,667
+before he starts
+making more demands.
+
+275
+00:17:12,709 --> 00:17:14,625
+I can't believe you're
+willing to sacrifice
+
+276
+00:17:14,667 --> 00:17:17,375
+Captain Picard's life
+as a negotiation tactic.
+
+277
+00:17:17,417 --> 00:17:19,959
+Will, Captain,
+we're all concerned about...
+
+278
+00:17:20,000 --> 00:17:22,125
+Are you questioning
+my judgment, Commander?
+
+279
+00:17:22,166 --> 00:17:24,667
+As first officer,
+it is my responsibility
+
+280
+00:17:24,709 --> 00:17:27,458
+to point out any actions
+that may be mistakes
+
+281
+00:17:27,500 --> 00:17:29,500
+by a commanding officer, sir.
+
+282
+00:17:29,542 --> 00:17:30,625
+Then, maybe it's time
+
+283
+00:17:30,667 --> 00:17:32,792
+you found other
+responsibilities.
+
+284
+00:17:32,834 --> 00:17:34,750
+You're relieved.
+
+285
+00:17:34,792 --> 00:17:36,333
+Don't...
+
+286
+00:17:36,375 --> 00:17:39,667
+make me confine you
+to quarters as well.
+
+287
+00:17:42,125 --> 00:17:43,291
+Sir.
+
+288
+00:18:00,208 --> 00:18:01,500
+They went to a
+lot of trouble
+
+289
+00:18:01,542 --> 00:18:03,875
+to lure a Federation
+team to that planet.
+
+290
+00:18:03,917 --> 00:18:05,166
+Why?
+
+291
+00:18:05,208 --> 00:18:06,917
+It is possible
+the Cardassians
+
+292
+00:18:06,959 --> 00:18:09,917
+were specifically interested
+in capturing Captain Picard.
+
+293
+00:18:09,959 --> 00:18:11,667
+Why do you say that?
+
+294
+00:18:11,709 --> 00:18:13,542
+The metagenic weapon
+they were supposedly developing
+
+295
+00:18:13,583 --> 00:18:17,250
+used a theta-band
+subspace delivery system.
+
+296
+00:18:17,291 --> 00:18:20,250
+Captain Picard is one
+of only three Starfleet captains
+
+297
+00:18:20,291 --> 00:18:23,250
+with extensive experience
+in theta-band devices.
+
+298
+00:18:23,291 --> 00:18:25,083
+The other two
+are no longer in Starfleet.
+
+299
+00:18:25,125 --> 00:18:28,583
+So they tailored a fake
+weapon to lure Picard.
+
+300
+00:18:28,625 --> 00:18:31,208
+But why?
+
+301
+00:18:31,250 --> 00:18:33,417
+They must have known
+
+302
+00:18:33,458 --> 00:18:36,583
+we'd change all his access codes
+and security protocols.
+
+303
+00:18:36,625 --> 00:18:39,208
+Maybe they were interested
+in something that he did
+in the past--
+
+304
+00:18:39,250 --> 00:18:41,375
+something that happened while he
+was captain of the<i> Enterprise.</i>
+
+305
+00:18:41,417 --> 00:18:43,875
+Or something he was going to do
+in the future.
+
+306
+00:18:43,917 --> 00:18:46,625
+In case of a Cardassian attack
+
+307
+00:18:46,667 --> 00:18:50,000
+the<i> Enterprise</i> will be assigned
+as command ship for this sector.
+
+308
+00:18:50,041 --> 00:18:52,083
+If the Cardassians
+got wind of that...
+
+309
+00:18:52,125 --> 00:18:53,583
+They might have assumed
+
+310
+00:18:53,625 --> 00:18:55,709
+that captain Picard would know
+those defense plans.
+
+311
+00:18:55,750 --> 00:18:58,959
+If your theory is correct,
+the Cardassians may be planning
+
+312
+00:18:59,000 --> 00:19:00,625
+an attack somewhere
+in this sector.
+
+313
+00:19:00,667 --> 00:19:02,458
+The question is where.
+
+314
+00:19:02,500 --> 00:19:03,917
+Geordi, I want you
+
+315
+00:19:03,959 --> 00:19:05,875
+to conduct a discreet scan
+of Gul Lemec's ship.
+
+316
+00:19:05,917 --> 00:19:07,542
+Look for anything unusual--
+
+317
+00:19:07,583 --> 00:19:11,208
+anything that might indicate
+where they've been lately.
+
+318
+00:19:11,250 --> 00:19:14,208
+Aye, sir.
+
+319
+00:19:19,083 --> 00:19:22,083
+I want you to be very careful
+with your wompat
+
+320
+00:19:22,125 --> 00:19:24,667
+from now on,
+Jil Orra.
+
+321
+00:19:24,709 --> 00:19:26,875
+Now that she's separated
+from her mother
+
+322
+00:19:26,917 --> 00:19:27,959
+she depends on you.
+
+323
+00:19:28,000 --> 00:19:32,208
+I will, Father.
+
+324
+00:19:32,250 --> 00:19:34,792
+Do humans have
+mothers and fathers?
+
+325
+00:19:34,834 --> 00:19:37,500
+Yes...
+
+326
+00:19:37,542 --> 00:19:39,083
+but human mothers
+and fathers
+
+327
+00:19:39,125 --> 00:19:41,709
+don't love their children
+as we do.
+
+328
+00:19:41,750 --> 00:19:43,959
+They're not the same
+as we are.
+
+329
+00:19:44,000 --> 00:19:45,875
+Will you read
+to me tonight?
+
+330
+00:19:45,917 --> 00:19:48,125
+Yes, of course, I will.
+
+331
+00:19:48,166 --> 00:19:50,250
+I'll see you later.
+
+332
+00:19:53,875 --> 00:19:56,917
+(<i> squeaking</i> )
+
+333
+00:20:03,875 --> 00:20:06,750
+(<i> door closes</i> )
+
+334
+00:20:06,792 --> 00:20:08,834
+Your daughter is lovely.
+
+335
+00:20:08,875 --> 00:20:12,667
+Yes, I think so.
+
+336
+00:20:12,709 --> 00:20:14,667
+And unusually bright.
+
+337
+00:20:14,709 --> 00:20:17,250
+It's amazing,
+isn't it--
+
+338
+00:20:17,291 --> 00:20:20,458
+the way they're able
+to sneak into your heart?
+
+339
+00:20:20,500 --> 00:20:22,583
+I must admit
+I was completely unprepared
+
+340
+00:20:22,625 --> 00:20:26,000
+for the power
+she had over me...
+
+341
+00:20:26,041 --> 00:20:27,959
+from the moment she was born.
+
+342
+00:20:28,000 --> 00:20:33,917
+I am surprised that...
+you let her come in here.
+
+343
+00:20:33,959 --> 00:20:36,166
+Why?
+
+344
+00:20:38,125 --> 00:20:43,500
+To expose a child to... this--
+
+345
+00:20:44,750 --> 00:20:47,125
+to someone
+who is suffering.
+
+346
+00:20:47,166 --> 00:20:48,417
+To see that
+
+347
+00:20:48,458 --> 00:20:52,417
+it is you
+that inflict that suffering.
+
+348
+00:20:52,458 --> 00:20:54,625
+From the time,
+Jil Orra could crawl
+
+349
+00:20:54,667 --> 00:20:56,917
+she's been taught about
+the enemies of the Cardassians
+
+350
+00:20:56,959 --> 00:20:59,083
+and that enemies
+deserve their fates.
+
+351
+00:20:59,125 --> 00:21:03,792
+When children learn
+to devalue others
+
+352
+00:21:03,834 --> 00:21:08,709
+they can devalue anyone,
+including their parents.
+
+353
+00:21:11,458 --> 00:21:16,500
+What a blind,
+narrow view you have.
+
+354
+00:21:18,959 --> 00:21:23,458
+What an arrogant man you are.
+
+355
+00:21:23,500 --> 00:21:25,542
+What do you know
+of Cardassian history?
+
+356
+00:21:27,667 --> 00:21:30,875
+I know that once you
+were a peaceful people
+
+357
+00:21:30,917 --> 00:21:33,125
+with a rich spiritual life.
+
+358
+00:21:33,166 --> 00:21:35,500
+And what did peace
+and spirituality get us?
+
+359
+00:21:35,542 --> 00:21:37,166
+People starved
+by the millions.
+
+360
+00:21:37,208 --> 00:21:40,583
+Bodies went unburied.
+Disease was rampant.
+
+361
+00:21:40,625 --> 00:21:41,875
+The suffering
+was unimaginable.
+
+362
+00:21:41,917 --> 00:21:43,667
+Since the military
+took over
+
+363
+00:21:43,709 --> 00:21:46,792
+hundreds of thousands
+more have died.
+
+364
+00:21:46,834 --> 00:21:49,417
+But we are feeding the people.
+
+365
+00:21:52,041 --> 00:21:55,417
+We acquired territory
+during the wars.
+
+366
+00:21:55,458 --> 00:21:57,625
+We developed new resources.
+
+367
+00:21:57,667 --> 00:22:00,375
+We initiated
+a rebuilding program.
+
+368
+00:22:00,417 --> 00:22:03,375
+We have mandated
+agricultural programs.
+
+369
+00:22:03,417 --> 00:22:09,208
+<i>That...</i> is what the military
+has done for Cardassia.
+
+370
+00:22:09,250 --> 00:22:13,166
+And because of that
+
+371
+00:22:13,208 --> 00:22:15,834
+my daughter will never
+worry about going hungry.
+
+372
+00:22:15,875 --> 00:22:18,250
+Her belly may be full
+
+373
+00:22:18,291 --> 00:22:20,208
+but her spirit will be empty.
+
+374
+00:22:39,208 --> 00:22:41,625
+Shall we begin again?
+
+375
+00:22:41,667 --> 00:22:44,250
+How many lights
+are there?
+
+376
+00:22:47,166 --> 00:22:49,333
+What lights?
+
+377
+00:23:04,083 --> 00:23:06,583
+(<i> agonized groaning</i> )
+
+378
+00:23:09,041 --> 00:23:10,959
+LA FORGE:
+It looks like they had
+
+379
+00:23:11,000 --> 00:23:13,542
+some minor hull degradation
+along their warp nacelles.
+
+380
+00:23:13,583 --> 00:23:15,166
+The distribution pattern
+
+381
+00:23:15,208 --> 00:23:18,375
+indicates a recent exposure
+to a molecular dispersion field.
+
+382
+00:23:18,417 --> 00:23:20,583
+Where could they have run
+into a dispersion field?
+
+383
+00:23:20,625 --> 00:23:23,375
+The McAllister C-5 Nebula
+is just across the border.
+
+384
+00:23:23,417 --> 00:23:25,542
+It's approximately
+seven light years
+from Federation space.
+
+385
+00:23:25,583 --> 00:23:27,625
+Could there be
+Cardassian ships
+
+386
+00:23:27,667 --> 00:23:29,166
+inside the McAllister Nebula?
+
+387
+00:23:29,208 --> 00:23:30,667
+Well, it's possible,
+but they wouldn't be able
+
+388
+00:23:30,709 --> 00:23:31,875
+to stay in there
+for very long.
+
+389
+00:23:31,917 --> 00:23:33,542
+The particle flux
+from the nebula
+
+390
+00:23:33,583 --> 00:23:36,041
+would begin to break
+down a ship's hull
+just after 72 hours.
+
+391
+00:23:36,083 --> 00:23:39,750
+Is there a Federation system
+near the McAllister Nebula
+
+392
+00:23:39,792 --> 00:23:42,208
+that might interest
+the Cardassians?
+
+393
+00:23:42,250 --> 00:23:45,375
+Minos Korva is just 11 light
+years from the nebula
+
+394
+00:23:45,417 --> 00:23:49,875
+and the Cardassians tried
+to annex it during the war.
+
+395
+00:23:51,250 --> 00:23:54,959
+Data, I want to be
+at Minos Korva in one hour.
+
+396
+00:23:55,000 --> 00:23:56,458
+Aye, sir.
+
+397
+00:23:56,500 --> 00:24:01,166
+Set course 350 mark 215
+and engage at warp 8.5.
+
+398
+00:24:07,667 --> 00:24:15,041
+(<i> mumbling</i> ):
+♪<i> Sur le pont... d'avignon...</i>
+<i>l'on y... l'on y danse...</i> ♪
+
+399
+00:24:15,083 --> 00:24:16,667
+Wake up.
+
+400
+00:24:21,834 --> 00:24:23,792
+Where were you?
+
+401
+00:24:25,834 --> 00:24:27,542
+At home.
+
+402
+00:24:30,583 --> 00:24:34,959
+Sunday dinner.
+
+403
+00:24:35,000 --> 00:24:38,792
+We would all
+sing afterwards.
+
+404
+00:24:38,834 --> 00:24:41,834
+What a charming picture.
+
+405
+00:24:41,875 --> 00:24:45,208
+The Picard family...
+
+406
+00:24:45,250 --> 00:24:49,375
+voices raised in song.
+
+407
+00:24:49,417 --> 00:24:51,208
+Is that what's keeping you
+from breaking?
+
+408
+00:24:51,250 --> 00:24:53,041
+Memories of home
+and hearth?
+
+409
+00:24:53,083 --> 00:24:54,750
+Images of happier times?
+
+410
+00:24:54,792 --> 00:24:56,709
+I must
+congratulate you.
+
+411
+00:24:56,750 --> 00:24:58,625
+You're remarkably
+strong-willed.
+
+412
+00:24:58,667 --> 00:25:00,375
+I see no point
+in holding you further.
+
+413
+00:25:00,417 --> 00:25:01,625
+You may go.
+
+414
+00:25:09,667 --> 00:25:11,000
+Someone will give you
+clean clothing
+
+415
+00:25:11,041 --> 00:25:13,375
+before we return you
+to your ship.
+
+416
+00:25:49,166 --> 00:25:53,667
+We will get what we need
+from the human female.
+
+417
+00:25:57,291 --> 00:25:59,750
+What female are
+you referring to?
+
+418
+00:25:59,792 --> 00:26:01,208
+The human who was part
+
+419
+00:26:01,250 --> 00:26:02,917
+of your abortive
+assault team, of course--
+
+420
+00:26:02,959 --> 00:26:04,625
+Dr. Beverly Crusher.
+
+421
+00:26:08,959 --> 00:26:11,041
+What have you
+done to her?
+
+422
+00:26:11,083 --> 00:26:13,583
+Not a thing.
+
+423
+00:26:15,375 --> 00:26:18,959
+She's quite safe.
+
+424
+00:26:19,000 --> 00:26:21,291
+I wanted to finish
+my interviews with you
+
+425
+00:26:21,333 --> 00:26:22,875
+before I interrogated her.
+
+426
+00:26:22,917 --> 00:26:26,959
+I had hoped
+it might not be necessary.
+
+427
+00:26:27,000 --> 00:26:29,667
+Lieutenant Worf?
+
+428
+00:26:29,709 --> 00:26:30,917
+He left us few options.
+
+429
+00:26:30,959 --> 00:26:32,375
+We had to kill him.
+
+430
+00:26:32,417 --> 00:26:35,375
+I'm more optimistic
+about getting what we need
+
+431
+00:26:35,417 --> 00:26:36,542
+from the woman.
+
+432
+00:26:38,458 --> 00:26:43,625
+Dr. Crusher has no knowledge
+of any Starfleet operations.
+
+433
+00:26:45,208 --> 00:26:47,333
+She's a medical officer.
+
+434
+00:26:47,375 --> 00:26:49,458
+You might be right, I'll have
+to determine that for myself.
+
+435
+00:27:03,291 --> 00:27:05,875
+Are you choosing
+to stay with me?
+
+436
+00:27:09,083 --> 00:27:10,333
+Excellent.
+
+437
+00:27:10,375 --> 00:27:13,792
+I can't tell you
+how pleased that makes me.
+
+438
+00:27:19,792 --> 00:27:21,834
+Starfleet now believes
+the Cardassians
+
+439
+00:27:21,875 --> 00:27:23,959
+are preparing to
+invade Minos Korva.
+
+440
+00:27:24,000 --> 00:27:26,000
+I'm convinced that
+their invasion fleet
+
+441
+00:27:26,041 --> 00:27:28,458
+is hiding in
+the McAllister Nebula.
+
+442
+00:27:28,500 --> 00:27:30,166
+I intend to hit it
+before they leave it.
+
+443
+00:27:30,208 --> 00:27:33,583
+Captain,
+what if you're wrong?
+
+444
+00:27:33,625 --> 00:27:35,375
+What if the Cardassians
+are in that nebula
+
+445
+00:27:35,417 --> 00:27:37,333
+to conduct
+scientific research?
+
+446
+00:27:37,375 --> 00:27:40,166
+You'd have to have
+some pretty good evidence
+to convince me of that.
+
+447
+00:27:40,208 --> 00:27:43,333
+You're still gambling
+hundreds of lives.
+
+448
+00:27:43,375 --> 00:27:45,000
+This discussion is moot.
+
+449
+00:27:45,041 --> 00:27:47,709
+The plan has been approved
+and we are going ahead.
+
+450
+00:27:47,750 --> 00:27:50,458
+Mr. Data,
+by your calculations,
+
+451
+00:27:50,500 --> 00:27:53,667
+how long could the Cardassian
+ships stay in the nebula?
+
+452
+00:27:53,709 --> 00:27:55,542
+In 17 hours,
+their hull degradation
+
+453
+00:27:55,583 --> 00:27:57,166
+will reach dangerous levels.
+
+454
+00:27:57,208 --> 00:27:58,917
+They will have to
+leave before that.
+
+455
+00:27:58,959 --> 00:28:00,542
+All right.
+
+456
+00:28:00,583 --> 00:28:04,667
+Worf, prepare a series
+of 500 antimatter mines
+
+457
+00:28:04,709 --> 00:28:07,458
+with magnetic
+targeting capabilities.
+
+458
+00:28:07,500 --> 00:28:08,917
+WORF: Aye, sir.
+
+459
+00:28:08,959 --> 00:28:11,041
+Geordi, we're going
+to need a shuttle
+
+460
+00:28:11,083 --> 00:28:14,667
+specially outfitted to operate
+in the nebula by 1400 hours.
+
+461
+00:28:14,709 --> 00:28:17,917
+Beverly, you'll need to...
+
+462
+00:28:17,959 --> 00:28:20,959
+Have Sick Bay ready
+for the casualties
+you're about to send me.
+
+463
+00:28:21,000 --> 00:28:23,959
+That's right.
+
+464
+00:28:24,000 --> 00:28:25,458
+Dismissed.
+
+465
+00:28:41,500 --> 00:28:44,375
+Ah, you're awake.
+
+466
+00:28:46,875 --> 00:28:49,375
+Have something to eat.
+
+467
+00:28:50,875 --> 00:28:52,542
+I insist.
+
+468
+00:28:54,625 --> 00:28:56,875
+Boiled taspar egg.
+
+469
+00:28:56,917 --> 00:29:00,291
+It's a delicacy
+I'm happy to share with you.
+
+470
+00:29:25,125 --> 00:29:28,375
+(<i> chuckling</i> )
+Wonderful.
+
+471
+00:29:28,417 --> 00:29:30,959
+Wonderful.
+I like you, human.
+
+472
+00:29:31,000 --> 00:29:33,208
+Most people become ill
+
+473
+00:29:33,250 --> 00:29:36,583
+at the sight of
+live taspar.
+
+474
+00:29:36,625 --> 00:29:39,875
+I remember the first time
+
+475
+00:29:39,917 --> 00:29:42,792
+I ate a live taspar.
+
+476
+00:29:42,834 --> 00:29:45,208
+I was six years old
+
+477
+00:29:45,250 --> 00:29:48,083
+and living on the streets
+of Lakat.
+
+478
+00:29:48,125 --> 00:29:51,291
+There was a band of children--
+four, five, six years old
+
+479
+00:29:51,333 --> 00:29:54,333
+some even smaller--
+
+480
+00:29:54,375 --> 00:29:57,208
+desperately
+trying to survive.
+
+481
+00:29:57,250 --> 00:30:00,083
+We were thin,
+scrawny little animals,
+
+482
+00:30:00,125 --> 00:30:02,542
+constantly hungry,
+always cold.
+
+483
+00:30:02,583 --> 00:30:04,500
+We slept together
+in doorways
+
+484
+00:30:04,542 --> 00:30:07,500
+like packs of wild
+<i>gettles</i> for warmth.
+
+485
+00:30:07,542 --> 00:30:09,583
+Once, I found a nest.
+
+486
+00:30:09,625 --> 00:30:12,041
+Taspars had mated
+and built a nest
+
+487
+00:30:12,083 --> 00:30:13,500
+in the eaves of
+a burnt-out building
+
+488
+00:30:13,542 --> 00:30:16,291
+and I found
+three eggs in it.
+
+489
+00:30:16,333 --> 00:30:19,458
+It was like
+finding treasure.
+
+490
+00:30:19,500 --> 00:30:21,583
+I cracked one open
+on the spot and ate it,
+
+491
+00:30:21,625 --> 00:30:23,792
+very much
+as you just did.
+
+492
+00:30:23,834 --> 00:30:25,709
+I planned to save
+the other two.
+
+493
+00:30:25,750 --> 00:30:27,875
+They would keep me alive
+for another week.
+
+494
+00:30:29,750 --> 00:30:33,375
+Of course, an older boy
+saw them and wanted them...
+
+495
+00:30:35,417 --> 00:30:38,625
+and he got them.
+
+496
+00:30:38,667 --> 00:30:41,208
+But he had to
+break my arm to do it.
+
+497
+00:30:41,250 --> 00:30:44,333
+(<i> weakly</i> )
+Must be rewarding to you to...
+
+498
+00:30:44,375 --> 00:30:48,792
+to repay others for
+all those years of misery.
+
+499
+00:30:50,750 --> 00:30:52,250
+What do you mean?
+
+500
+00:30:52,291 --> 00:30:54,875
+Torture has never been
+a reliable means
+
+501
+00:30:54,917 --> 00:30:58,041
+of extracting information.
+
+502
+00:30:58,083 --> 00:31:02,792
+It is ultimately self-defeating
+as a means of control.
+
+503
+00:31:02,834 --> 00:31:05,458
+One wonders that
+it's still practiced.
+
+504
+00:31:05,500 --> 00:31:08,166
+I fail to see where this
+analysis is leading.
+
+505
+00:31:08,208 --> 00:31:11,125
+Whenever I...
+
+506
+00:31:11,166 --> 00:31:13,625
+look at you now,
+
+507
+00:31:13,667 --> 00:31:17,583
+I won't see a powerful
+Cardassian warrior.
+
+508
+00:31:17,625 --> 00:31:20,709
+I will see
+a six-year-old boy
+
+509
+00:31:20,750 --> 00:31:22,875
+who is powerless
+to protect himself.
+
+510
+00:31:22,917 --> 00:31:25,917
+Be quiet!
+
+511
+00:31:25,959 --> 00:31:28,792
+In spite of all
+you have done to me,
+
+512
+00:31:28,834 --> 00:31:31,041
+I find you a pitiable man.
+
+513
+00:31:31,083 --> 00:31:33,875
+Picard, stop it
+
+514
+00:31:33,917 --> 00:31:35,959
+or I will turn this on
+
+515
+00:31:36,000 --> 00:31:38,458
+and leave you in agony
+all night.
+
+516
+00:31:38,500 --> 00:31:41,166
+You called me "Picard."
+
+517
+00:31:41,208 --> 00:31:44,792
+What are the Federation's
+defense plans for Minos Korva?
+
+518
+00:31:44,834 --> 00:31:47,250
+There are four lights.
+
+519
+00:31:47,291 --> 00:31:49,000
+(<i> gasping painfully</i> )
+
+520
+00:31:49,041 --> 00:31:51,125
+There are<i> five</i> lights.
+
+521
+00:31:51,166 --> 00:31:53,208
+How many do you see now?
+
+522
+00:31:53,250 --> 00:31:56,667
+You are six years old,
+
+523
+00:31:56,709 --> 00:31:59,542
+weak and helpless.
+
+524
+00:31:59,583 --> 00:32:02,959
+You cannot hurt me!
+
+525
+00:32:03,000 --> 00:32:04,667
+How many?
+
+526
+00:32:04,709 --> 00:32:07,125
+♪ Sur le pont... ♪
+
+527
+00:32:07,166 --> 00:32:09,750
+♪ ...d'avignon... ♪
+
+528
+00:32:09,792 --> 00:32:11,917
+♪ ...on'y danse... ♪
+
+529
+00:32:20,083 --> 00:32:22,250
+How are we doing?
+
+530
+00:32:22,291 --> 00:32:23,834
+We're almost done, sir.
+
+531
+00:32:23,875 --> 00:32:25,417
+I've shielded
+the engine nacelles
+
+532
+00:32:25,458 --> 00:32:27,166
+and the transporter system,
+so they won't be affected
+
+533
+00:32:27,208 --> 00:32:29,542
+by the particle flux
+from the nebula.
+
+534
+00:32:29,583 --> 00:32:31,375
+Good.
+
+535
+00:32:35,125 --> 00:32:39,291
+Been a while since
+I flew one of these.
+
+536
+00:32:39,333 --> 00:32:41,041
+You're a pilot yourself,
+aren't you, Geordi?
+
+537
+00:32:41,083 --> 00:32:43,166
+Yes, sir.
+
+538
+00:32:43,208 --> 00:32:47,000
+Began my career
+as a shuttle pilot
+
+539
+00:32:47,041 --> 00:32:48,667
+on the Jovian run.
+
+540
+00:32:48,709 --> 00:32:50,959
+From Jupiter to
+Saturn and back--
+
+541
+00:32:51,000 --> 00:32:52,709
+once a day,
+every day.
+
+542
+00:32:52,750 --> 00:32:54,083
+Is that right?
+
+543
+00:32:54,125 --> 00:32:57,041
+I was on that run myself
+for a while.
+
+544
+00:32:57,083 --> 00:32:59,750
+Then, you must have
+done Titan's turn.
+
+545
+00:33:01,500 --> 00:33:03,125
+Oh, yeah.
+
+546
+00:33:03,166 --> 00:33:05,250
+You set a course
+directly for Titan,
+
+547
+00:33:05,291 --> 00:33:07,917
+hold it till you're just
+brushing the atmosphere
+
+548
+00:33:07,959 --> 00:33:09,667
+throw the helm hard over
+
+549
+00:33:09,709 --> 00:33:11,625
+and whip around the moon
+at point seven "C."
+
+550
+00:33:11,667 --> 00:33:13,834
+And pray like hell
+nobody saw you.
+
+551
+00:33:15,709 --> 00:33:17,917
+You know, this trip into the
+nebula is going to need someone
+
+552
+00:33:17,959 --> 00:33:20,417
+who can do Titan's turn
+in their sleep.
+
+553
+00:33:20,458 --> 00:33:22,000
+These mines need to be laid
+
+554
+00:33:22,041 --> 00:33:24,500
+within two kilometers
+of the Cardassian ships,
+
+555
+00:33:24,542 --> 00:33:26,333
+but the particle flux
+from the nebula
+
+556
+00:33:26,375 --> 00:33:29,875
+will blind every sensor, except
+for this proximity detector.
+
+557
+00:33:29,917 --> 00:33:32,875
+You're going to need one heck
+of a pilot to pull that off.
+
+558
+00:33:32,917 --> 00:33:35,208
+Is that you?
+
+559
+00:33:35,250 --> 00:33:37,667
+I could do it,
+but, truthfully,
+
+560
+00:33:37,709 --> 00:33:40,500
+the man you want
+is Commander Riker.
+
+561
+00:33:42,417 --> 00:33:43,875
+He's the best there is.
+
+562
+00:33:57,291 --> 00:34:00,000
+(<i> door chimes</i> )
+Come in.
+
+563
+00:34:03,834 --> 00:34:05,041
+Am I disturbing you?
+
+564
+00:34:06,625 --> 00:34:08,709
+Not at all.
+
+565
+00:34:11,166 --> 00:34:12,417
+Musician.
+
+566
+00:34:12,458 --> 00:34:14,250
+Yes.
+
+567
+00:34:14,291 --> 00:34:16,959
+Classical?
+Contemporary?
+
+568
+00:34:17,000 --> 00:34:18,709
+Jazz.
+
+569
+00:34:18,750 --> 00:34:20,834
+Ah.
+
+570
+00:34:22,166 --> 00:34:24,917
+Is there something I can
+do for you, Captain?
+
+571
+00:34:28,333 --> 00:34:30,750
+Are you aware of
+our plans to attack
+
+572
+00:34:30,792 --> 00:34:32,875
+the Cardassian
+invasion fleet?
+
+573
+00:34:32,917 --> 00:34:34,709
+Yes, sir.
+
+574
+00:34:34,750 --> 00:34:37,333
+I understand you've been talking
+to every shuttle pilot on board.
+
+575
+00:34:39,542 --> 00:34:41,333
+Let's drop the
+ranks for a moment.
+
+576
+00:34:41,375 --> 00:34:43,792
+I don't like you.
+
+577
+00:34:43,834 --> 00:34:45,959
+I think you're
+insubordinate,
+
+578
+00:34:46,000 --> 00:34:47,583
+arrogant, willful
+
+579
+00:34:47,625 --> 00:34:49,625
+and I don't think
+you're a particularly
+
+580
+00:34:49,667 --> 00:34:52,000
+good first officer,
+
+581
+00:34:52,041 --> 00:34:55,709
+but you are also
+the best pilot on the ship.
+
+582
+00:34:55,750 --> 00:34:57,458
+Well...
+
+583
+00:34:57,500 --> 00:34:59,959
+now that the ranks
+are dropped, Captain,
+
+584
+00:35:00,000 --> 00:35:01,583
+I don't like you either.
+
+585
+00:35:01,625 --> 00:35:04,875
+You<i> are</i> arrogant
+and closed-minded.
+
+586
+00:35:04,917 --> 00:35:07,834
+You need to control
+everything and everyone.
+
+587
+00:35:07,875 --> 00:35:10,166
+You don't provide
+an atmosphere of trust
+
+588
+00:35:10,208 --> 00:35:12,667
+and you don't inspire
+these people to go out of
+their way for you.
+
+589
+00:35:12,709 --> 00:35:15,458
+You've got everybody
+wound up so tight
+
+590
+00:35:15,500 --> 00:35:17,959
+there's no joy
+in anything.
+
+591
+00:35:18,000 --> 00:35:21,291
+I don't think you're
+a particularly good captain.
+
+592
+00:35:25,500 --> 00:35:27,542
+I won't...
+
+593
+00:35:27,583 --> 00:35:29,834
+order you to fly this mission.
+
+594
+00:35:31,333 --> 00:35:32,959
+Then ask me.
+
+595
+00:35:33,000 --> 00:35:37,000
+Will you pilot
+the shuttle, Commander?
+
+596
+00:35:37,041 --> 00:35:38,959
+Yes.
+
+597
+00:35:40,166 --> 00:35:41,959
+You're welcome.
+
+598
+00:35:50,583 --> 00:35:53,000
+We've lost
+primary navigation.
+
+599
+00:35:53,041 --> 00:35:54,500
+Switching
+to secondary systems.
+
+600
+00:35:54,542 --> 00:35:56,709
+Inertial dampers
+compensating.
+
+601
+00:35:56,750 --> 00:35:58,667
+Sensors inoperative.
+
+602
+00:35:58,709 --> 00:36:00,709
+Right on schedule.
+
+603
+00:36:00,750 --> 00:36:03,500
+LA FORGE:
+Proximity detector is working.
+
+604
+00:36:03,542 --> 00:36:05,125
+We should be able
+to read their ships
+
+605
+00:36:05,166 --> 00:36:07,417
+at a distance
+of 500 meters.
+
+606
+00:36:07,458 --> 00:36:08,959
+Don't make this too easy.
+
+607
+00:36:09,000 --> 00:36:11,375
+(<i> chuckles</i> )
+
+608
+00:36:11,417 --> 00:36:13,333
+(<i> beeping</i> )
+
+609
+00:36:15,667 --> 00:36:16,875
+Hang on.
+
+610
+00:36:20,000 --> 00:36:22,375
+Do I want to know
+how close that was?
+
+611
+00:36:22,417 --> 00:36:23,959
+No.
+
+612
+00:36:24,000 --> 00:36:26,041
+Get ready to deploy
+the mines.
+
+613
+00:36:33,250 --> 00:36:36,333
+Captain, the shuttle
+is emerging from the nebula.
+
+614
+00:36:36,375 --> 00:36:38,000
+<i>Enterprise</i> to shuttle.
+
+615
+00:36:38,041 --> 00:36:40,417
+Were you successful,
+Commander?
+
+616
+00:36:40,458 --> 00:36:42,667
+RIKER: Aye, sir,
+the mines are laid.
+
+617
+00:36:42,709 --> 00:36:45,500
+Very well.
+Red alert.
+
+618
+00:36:45,542 --> 00:36:48,750
+Stand by to detonate
+the mines on my command.
+
+619
+00:36:48,792 --> 00:36:50,875
+Standing by.
+
+620
+00:36:50,917 --> 00:36:53,750
+Open a channel
+to the<i> Reklar.</i>
+
+621
+00:36:53,792 --> 00:36:56,583
+This is Cardassian territory,
+Captain.
+
+622
+00:36:56,625 --> 00:36:59,083
+Your presence here is another
+deliberate provocation...
+
+623
+00:36:59,125 --> 00:37:01,375
+I'm not going to argue
+with you, Gul Lemec.
+
+624
+00:37:01,417 --> 00:37:03,333
+Every one of your ships
+has a mine on its belly,
+
+625
+00:37:03,375 --> 00:37:06,917
+my finger's on the button and
+you're in a very bad position.
+
+626
+00:37:06,959 --> 00:37:08,792
+You can't intimidate us.
+
+627
+00:37:08,834 --> 00:37:12,333
+Mr. Worf,
+set off alpha-four-two.
+
+628
+00:37:12,375 --> 00:37:13,667
+Aye, sir.
+
+629
+00:37:14,834 --> 00:37:16,625
+JELLICO:
+That was just a baby...
+
+630
+00:37:16,667 --> 00:37:18,917
+the big boys are
+sitting on your hull
+
+631
+00:37:18,959 --> 00:37:20,792
+just waiting for me
+to say the word.
+
+632
+00:37:20,834 --> 00:37:22,875
+What are your terms?
+
+633
+00:37:22,917 --> 00:37:25,625
+Your ships will leave
+the nebula one by one.
+
+634
+00:37:25,667 --> 00:37:28,792
+Each ship will eject
+its primary phaser coil
+
+635
+00:37:28,834 --> 00:37:31,750
+before setting course
+for the nearest Cardassian base.
+
+636
+00:37:31,792 --> 00:37:33,417
+But that will leave us
+defenseless.
+
+637
+00:37:33,458 --> 00:37:36,458
+Mr. Worf,
+prepare to detonate...
+
+638
+00:37:36,500 --> 00:37:38,709
+I will agree to your terms.
+
+639
+00:37:38,750 --> 00:37:40,834
+Excellent.
+
+640
+00:37:41,959 --> 00:37:44,417
+Oh, and one more thing.
+
+641
+00:37:44,458 --> 00:37:46,667
+I understand you're holding
+a Starfleet officer
+
+642
+00:37:46,709 --> 00:37:48,917
+named Jean-Luc Picard.
+
+643
+00:37:48,959 --> 00:37:53,291
+I expect him returned...
+immediately.
+
+644
+00:38:25,959 --> 00:38:28,917
+That won't help.
+I have many more.
+
+645
+00:38:31,792 --> 00:38:34,875
+Still, it felt good.
+
+646
+00:38:34,917 --> 00:38:38,583
+Enjoy your good feelings
+while you can.
+
+647
+00:38:38,625 --> 00:38:42,125
+There may not be
+many more of them.
+
+648
+00:38:42,166 --> 00:38:44,667
+I've just received word.
+
+649
+00:38:44,709 --> 00:38:46,625
+There's been a battle.
+
+650
+00:38:46,667 --> 00:38:50,208
+The<i> Enterprise</i> 
+is burning in space.
+
+651
+00:38:50,250 --> 00:38:53,667
+The invasion of Minos Korva
+has been successful.
+
+652
+00:38:53,709 --> 00:38:55,792
+I don't believe you.
+
+653
+00:38:55,834 --> 00:38:59,041
+There's no need for any further
+information from you.
+
+654
+00:38:59,083 --> 00:39:01,041
+Our troops were successful
+
+655
+00:39:01,083 --> 00:39:03,291
+in spite of your refusal
+to help me.
+
+656
+00:39:03,333 --> 00:39:05,583
+You might have saved yourself
+a great deal of torment
+
+657
+00:39:05,625 --> 00:39:07,250
+by yielding
+at the beginning.
+
+658
+00:39:07,291 --> 00:39:09,834
+I want... to see a...
+
+659
+00:39:09,875 --> 00:39:13,250
+neutral representative.
+
+660
+00:39:13,291 --> 00:39:15,542
+There is no such person.
+
+661
+00:39:15,583 --> 00:39:20,083
+The word will be that
+you perished with your crew.
+
+662
+00:39:20,125 --> 00:39:23,583
+No one will ever know
+that you are here with us
+
+663
+00:39:23,625 --> 00:39:27,917
+as you will be
+for a long, long time.
+
+664
+00:39:36,041 --> 00:39:39,166
+You do, however,
+have a choice.
+
+665
+00:39:39,208 --> 00:39:42,750
+You can live out your life
+in misery, held here,
+
+666
+00:39:42,792 --> 00:39:45,291
+subject to my whims...
+
+667
+00:39:45,333 --> 00:39:46,959
+or you can live in comfort
+
+668
+00:39:47,000 --> 00:39:49,458
+with good food
+and warm clothing...
+
+669
+00:39:49,500 --> 00:39:51,458
+women as you
+desire them...
+
+670
+00:39:51,500 --> 00:39:54,458
+allowed to pursue your studies
+of philosophy and history.
+
+671
+00:39:54,500 --> 00:39:56,792
+I would enjoy
+debating with you.
+
+672
+00:39:56,834 --> 00:39:58,834
+You have a keen mind.
+
+673
+00:39:58,875 --> 00:40:00,959
+It's up to you.
+
+674
+00:40:01,000 --> 00:40:05,166
+A life of ease, of reflection,
+and intellectual challenge...
+
+675
+00:40:07,166 --> 00:40:09,208
+or this.
+
+676
+00:40:13,166 --> 00:40:15,500
+What must I do?
+
+677
+00:40:15,542 --> 00:40:17,792
+Nothing, really.
+
+678
+00:40:19,959 --> 00:40:24,083
+Tell me...
+how many lights you see.
+
+679
+00:40:30,083 --> 00:40:32,083
+How many?
+
+680
+00:40:39,583 --> 00:40:41,542
+How many lights?
+
+681
+00:40:41,583 --> 00:40:43,542
+This is your last chance.
+
+682
+00:40:43,583 --> 00:40:46,375
+The guards are coming.
+Don't be a stubborn fool.
+
+683
+00:40:46,417 --> 00:40:49,417
+How many?
+
+684
+00:40:49,458 --> 00:40:51,917
+You told me
+he would be ready to go.
+
+685
+00:40:51,959 --> 00:40:55,709
+We had some
+unfinished business.
+
+686
+00:40:55,750 --> 00:40:58,583
+Get him cleaned up.
+
+687
+00:40:58,625 --> 00:41:01,291
+A ship is waiting to take him
+back to the<i> Enterprise.</i>
+
+688
+00:41:03,208 --> 00:41:06,625
+Captain Picard,
+
+689
+00:41:06,667 --> 00:41:10,375
+if you'll go with the guards,
+they'll take care of you.
+
+690
+00:41:23,542 --> 00:41:28,250
+There... are...
+four lights!
+
+691
+00:41:52,792 --> 00:41:54,959
+Captain on the Bridge.
+
+692
+00:41:58,250 --> 00:42:00,250
+Welcome home,
+Jean-Luc.
+
+693
+00:42:00,291 --> 00:42:01,667
+Thank you.
+
+694
+00:42:01,709 --> 00:42:04,208
+Just the way you left it.
+
+695
+00:42:04,250 --> 00:42:06,375
+Maybe a little better.
+
+696
+00:42:06,417 --> 00:42:08,959
+Computer, transfer
+all command codes
+
+697
+00:42:09,000 --> 00:42:10,959
+to Captain
+Jean-Luc Picard.
+
+698
+00:42:11,000 --> 00:42:14,291
+Voice authorization:
+Jellico-alpha-three-one.
+
+699
+00:42:14,333 --> 00:42:15,917
+COMPUTER:
+Transfer complete.
+
+700
+00:42:15,959 --> 00:42:17,709
+USS<i> Enterprise</i> 
+now under command
+
+701
+00:42:17,750 --> 00:42:20,542
+of Captain
+Jean-Luc Picard.
+
+702
+00:42:20,583 --> 00:42:23,667
+I relieve you, sir.
+I stand relieved.
+
+703
+00:42:27,333 --> 00:42:29,875
+It's been an honor
+serving with you.
+
+704
+00:42:31,542 --> 00:42:33,250
+You have the Bridge,
+Number One.
+
+705
+00:42:33,291 --> 00:42:35,375
+Aye, sir.
+
+706
+00:42:49,667 --> 00:42:52,583
+I, uh...
+
+707
+00:42:52,625 --> 00:42:54,875
+I don't know
+where to begin.
+
+708
+00:42:56,667 --> 00:42:59,041
+It was, uh...
+
+709
+00:43:04,834 --> 00:43:06,875
+I read your report.
+
+710
+00:43:10,250 --> 00:43:13,041
+What I didn't put
+in the report
+
+711
+00:43:13,083 --> 00:43:15,709
+was that, at the end,
+
+712
+00:43:15,750 --> 00:43:19,709
+he gave me a choice
+between a life of comfort...
+
+713
+00:43:22,166 --> 00:43:24,083
+or more torture.
+
+714
+00:43:24,125 --> 00:43:25,834
+All I had to do
+
+715
+00:43:25,875 --> 00:43:29,333
+was to say that
+I could see five lights
+
+716
+00:43:29,375 --> 00:43:32,583
+when, in fact,
+there were only four.
+
+717
+00:43:32,625 --> 00:43:34,792
+You didn't say it.
+
+718
+00:43:34,834 --> 00:43:38,542
+No. No...
+
+719
+00:43:38,583 --> 00:43:40,375
+but I was going to.
+
+720
+00:43:40,417 --> 00:43:43,000
+I would have told
+him anything.
+
+721
+00:43:43,041 --> 00:43:45,250
+Anything at all.
+
+722
+00:43:47,041 --> 00:43:49,375
+But more than that...
+
+723
+00:43:51,709 --> 00:43:55,166
+I believed that
+I could see...
+
+724
+00:43:56,375 --> 00:43:58,959
+five lights.

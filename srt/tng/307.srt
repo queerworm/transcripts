@@ -1,0 +1,3019 @@
+1
+00:00:04,250 --> 00:00:06,917
+(<i> electrical static</i> )
+
+2
+00:00:10,834 --> 00:00:13,500
+(<i> winds howling</i> )
+
+3
+00:00:17,375 --> 00:00:19,208
+<i>(shouting</i> )
+Placing beam-out marker.
+
+4
+00:00:19,250 --> 00:00:22,500
+Return transport,
+14 minutes, 40 seconds.
+
+5
+00:00:23,583 --> 00:00:25,250
+Is your view any better,
+Geordi?
+
+6
+00:00:25,291 --> 00:00:26,583
+Not too bad, Commander.
+
+7
+00:00:26,625 --> 00:00:29,500
+A lot of charged
+particle precipitation,
+
+8
+00:00:29,542 --> 00:00:31,041
+but I can compensate.
+
+9
+00:00:31,083 --> 00:00:32,875
+Communicators
+are dysfunctional.
+
+10
+00:00:32,917 --> 00:00:34,542
+Tricorders?
+
+11
+00:00:34,583 --> 00:00:36,959
+Readings only found
+within five meters.
+
+12
+00:00:37,000 --> 00:00:38,667
+Good thing we didn't
+bring Data.
+
+13
+00:00:38,709 --> 00:00:42,125
+We'd be unscrambling
+his circuits for a week.
+
+14
+00:00:43,625 --> 00:00:48,417
+Commander, picking up something
+on the positron scan.
+
+15
+00:00:50,500 --> 00:00:52,750
+(<i> thunderclap</i> )
+
+16
+00:00:55,041 --> 00:00:56,959
+GEORDI:
+Over here.
+
+17
+00:00:57,000 --> 00:01:00,000
+Some electrically
+conductive objects.
+
+18
+00:01:10,542 --> 00:01:13,083
+Recognize those
+markings, Worf?
+
+19
+00:01:13,125 --> 00:01:16,000
+Yes, sir.
+Romulan.
+
+20
+00:01:16,041 --> 00:01:17,583
+What the hell
+were they doing
+
+21
+00:01:17,625 --> 00:01:20,417
+in the Federation sector?
+
+22
+00:01:20,458 --> 00:01:24,291
+Picking up traces
+of ultritium residue.
+
+23
+00:01:24,333 --> 00:01:25,959
+An explosive device
+must've been used
+
+24
+00:01:26,000 --> 00:01:30,041
+to destroy the craft
+after it crashed.
+
+25
+00:01:30,083 --> 00:01:32,667
+All right, let's spread
+out, 25-meter radius.
+
+26
+00:01:32,709 --> 00:01:36,333
+Our window back
+closes in 12 minutes.
+
+27
+00:01:55,291 --> 00:01:56,792
+Commander!
+
+28
+00:02:09,583 --> 00:02:11,291
+Commander Riker!
+
+29
+00:02:13,959 --> 00:02:16,250
+(<i> grunting</i> )
+
+30
+00:02:39,583 --> 00:02:41,625
+(<i> screaming</i> )
+
+31
+00:02:54,834 --> 00:02:56,250
+Four minutes
+to beam-up.
+
+32
+00:02:56,291 --> 00:02:57,583
+Where is he?
+
+33
+00:02:57,625 --> 00:02:59,291
+Wait here.
+
+34
+00:03:02,709 --> 00:03:04,792
+(<i> coughing</i> )
+
+35
+00:03:31,917 --> 00:03:33,667
+(<i> groaning</i> )
+
+36
+00:03:38,959 --> 00:03:41,250
+Worf!
+
+37
+00:03:41,291 --> 00:03:44,250
+Worf!
+
+38
+00:03:44,291 --> 00:03:46,542
+Commander Riker!
+
+39
+00:03:52,542 --> 00:03:54,041
+RIKER:
+Geordi!
+
+40
+00:03:57,083 --> 00:03:59,500
+Geordi!
+
+41
+00:04:07,917 --> 00:04:10,208
+Worf!
+
+42
+00:04:10,250 --> 00:04:11,500
+Commander Riker!
+
+43
+00:04:18,667 --> 00:04:21,166
+Hold your position,
+Mr. Worf.
+
+44
+00:04:29,250 --> 00:04:31,333
+Worf!
+
+45
+00:04:32,625 --> 00:04:34,333
+(<i> sighs</i> )
+
+46
+00:05:00,667 --> 00:05:05,000
+<i>Space, the final frontier.</i>
+
+47
+00:05:05,041 --> 00:05:09,083
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+48
+00:05:09,125 --> 00:05:10,917
+<i>Its continuing mission--</i>
+
+49
+00:05:10,959 --> 00:05:14,542
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+50
+00:05:14,583 --> 00:05:19,083
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+51
+00:05:19,125 --> 00:05:23,750
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+52
+00:06:23,083 --> 00:06:27,166
+<i>Captain's log,</i>
+<i>Stardate 43349.2.</i>
+
+53
+00:06:27,208 --> 00:06:30,500
+<i>An unidentified distress signal</i>
+<i>has led to the discovery</i>
+
+54
+00:06:30,542 --> 00:06:32,125
+<i>of a crashed Romulan vessel</i>
+
+55
+00:06:32,166 --> 00:06:34,250
+<i>on the surface</i>
+<i>of Galorndon Core,</i>
+
+56
+00:06:34,291 --> 00:06:36,000
+<i>a Federation planet.</i>
+
+57
+00:06:36,041 --> 00:06:38,000
+<i>We have recovered</i>
+<i>one survivor.</i>
+
+58
+00:06:38,041 --> 00:06:39,667
+<i>But Lieutenant</i>
+<i>Commander La Forge</i>
+
+59
+00:06:39,709 --> 00:06:42,333
+<i>did not report back</i>
+<i>with the away team,</i>
+
+60
+00:06:42,375 --> 00:06:45,291
+<i>and is still missing.</i>
+
+61
+00:06:45,333 --> 00:06:46,709
+Get him to sick bay.
+
+62
+00:06:46,750 --> 00:06:48,250
+Secure sick bay,
+post a guard
+
+63
+00:06:48,291 --> 00:06:50,000
+in visual contact
+at all times.
+
+64
+00:06:50,041 --> 00:06:52,625
+He's not going anywhere,
+Lieutenant.
+
+65
+00:06:54,458 --> 00:06:56,000
+I'm sorry, Commander,
+there's just no way
+
+66
+00:06:56,041 --> 00:06:57,208
+to lock in on
+anything down there.
+
+67
+00:06:57,250 --> 00:06:59,083
+Keep trying, O'Brien.
+
+68
+00:07:00,750 --> 00:07:03,291
+The electrical storm's
+creating thousands of ghosts.
+
+69
+00:07:03,333 --> 00:07:04,542
+Well, beam some of
+those ghosts back.
+
+70
+00:07:04,583 --> 00:07:06,208
+One of them may be Geordi.
+
+71
+00:07:06,250 --> 00:07:07,792
+Permission to lead
+another away team, sir.
+
+72
+00:07:07,834 --> 00:07:09,458
+Denied.
+
+73
+00:07:09,500 --> 00:07:11,375
+When we get another
+window in the storms.
+
+74
+00:07:11,417 --> 00:07:12,792
+The crash site?
+
+75
+00:07:12,834 --> 00:07:15,000
+The Romulan craft
+is a total loss.
+
+76
+00:07:15,041 --> 00:07:16,417
+There's nothing
+there to salvage.
+
+77
+00:07:16,458 --> 00:07:18,166
+Unless you wanna
+use tweezers.
+
+78
+00:07:18,208 --> 00:07:19,375
+No sign of others?
+
+79
+00:07:19,417 --> 00:07:20,834
+Well, you couldn't
+see more than two meters
+
+80
+00:07:20,875 --> 00:07:22,792
+in front of yourself
+down there.
+
+81
+00:07:22,834 --> 00:07:24,458
+That certainly is
+the last place
+
+82
+00:07:24,500 --> 00:07:27,959
+one would expect
+Romulan encroachment.
+
+83
+00:07:28,000 --> 00:07:31,709
+On the other hand,
+Galorndon Core
+
+84
+00:07:31,750 --> 00:07:33,291
+would provide ideal cover
+
+85
+00:07:33,333 --> 00:07:35,625
+for the opening move
+of a new offensive.
+
+86
+00:07:35,667 --> 00:07:38,625
+I doubt if they were
+there for the climate.
+
+87
+00:09:05,625 --> 00:09:07,709
+BEVERLY: We thought it would
+be like working on Vulcans.
+
+88
+00:09:07,750 --> 00:09:10,709
+But there are subtle
+differences, too many of them.
+
+89
+00:09:10,750 --> 00:09:11,875
+Can you treat him?
+
+90
+00:09:11,917 --> 00:09:14,291
+He has cell damage
+to vital areas.
+
+91
+00:09:14,333 --> 00:09:17,083
+He's going to need a transfusion
+of compatible ribosomes
+
+92
+00:09:17,125 --> 00:09:18,792
+in order to recover.
+
+93
+00:09:18,834 --> 00:09:21,750
+I'm setting up a schedule to
+test every member of the crew.
+
+94
+00:09:21,792 --> 00:09:23,208
+We can't use
+the replicator?
+
+95
+00:09:23,250 --> 00:09:25,250
+BEVERLY:
+The molecules are too complex.
+
+96
+00:09:25,291 --> 00:09:26,583
+Will he survive?
+
+97
+00:09:27,875 --> 00:09:29,375
+I can't answer that yet.
+
+98
+00:09:29,417 --> 00:09:31,041
+Well, let me put it in
+another way-- will he survive
+
+99
+00:09:31,083 --> 00:09:32,959
+long enough to tell us what
+he was doing down there?
+
+100
+00:09:33,000 --> 00:09:35,959
+Doctor, it's an important
+consideration.
+
+101
+00:09:36,000 --> 00:09:38,792
+I can bring him around
+for a few minutes.
+
+102
+00:09:38,834 --> 00:09:41,458
+But there is one
+serious complication.
+
+103
+00:09:43,083 --> 00:09:46,917
+His brain waves indicate early
+neural pathway degeneration.
+
+104
+00:09:46,959 --> 00:09:48,041
+Head injury?
+
+105
+00:09:48,083 --> 00:09:50,291
+There's no obvious
+cranial trauma.
+
+106
+00:09:50,333 --> 00:09:52,583
+I'm guessing his exposure
+to the magnetic fields
+
+107
+00:09:52,625 --> 00:09:54,917
+on the surface
+were slowly breaking down
+
+108
+00:09:54,959 --> 00:09:56,834
+his synaptic
+connections.
+
+109
+00:09:56,875 --> 00:09:59,083
+Will that affect
+Geordi the same way?
+
+110
+00:10:06,417 --> 00:10:08,458
+(<i> inhaling deeply</i> )
+
+111
+00:10:08,500 --> 00:10:10,500
+BEVERLY: He'll be conscious
+for a minute or two.
+
+112
+00:10:15,583 --> 00:10:20,083
+RIKER: You are on board the
+Federation Starship<i> Enterprise.</i>
+
+113
+00:10:20,125 --> 00:10:23,250
+We're treating your injuries.
+
+114
+00:10:23,291 --> 00:10:26,291
+How long were you down
+on Galorndon Core?
+
+115
+00:10:28,917 --> 00:10:30,250
+Do you understand me?
+
+116
+00:10:30,291 --> 00:10:34,333
+I will not answer questions.
+
+117
+00:10:34,375 --> 00:10:37,750
+We need to know if there are
+other survivors on the surface.
+
+118
+00:10:39,041 --> 00:10:41,417
+I am alone.
+
+119
+00:10:41,458 --> 00:10:45,125
+I will not answer
+any questions.
+
+120
+00:10:45,166 --> 00:10:47,125
+Do you have a mother ship
+who should be advised
+
+121
+00:10:47,166 --> 00:10:48,667
+of your condition?
+
+122
+00:10:58,583 --> 00:11:01,542
+The only answer he wants to
+give is that he was alone.
+
+123
+00:11:01,583 --> 00:11:04,083
+Which suggests
+that he wasn't.
+
+124
+00:11:09,417 --> 00:11:11,583
+(<i> grunting</i> )
+
+125
+00:11:53,583 --> 00:11:56,959
+Something, anything
+to cut through the storm,
+
+126
+00:11:57,000 --> 00:12:00,917
+some way to get a signal
+through to him.
+
+127
+00:12:00,959 --> 00:12:02,834
+A neutrino pulse.
+
+128
+00:12:02,875 --> 00:12:05,333
+We could build a portable
+neutrino source and send it
+
+129
+00:12:05,375 --> 00:12:07,041
+in a probe to the
+planet's surface.
+
+130
+00:12:07,083 --> 00:12:08,875
+It'll act like a beacon.
+
+131
+00:12:08,917 --> 00:12:11,250
+DATA: A neutrino pulse would
+send non-charged particles
+
+132
+00:12:11,291 --> 00:12:12,667
+back up through the atmosphere,
+
+133
+00:12:12,709 --> 00:12:14,750
+and would be detectable
+by Geordi's visor.
+
+134
+00:12:14,792 --> 00:12:17,417
+He can show us that he's found
+it by modifying the pulse.
+
+135
+00:12:17,458 --> 00:12:19,375
+Make it so.
+
+136
+00:12:21,125 --> 00:12:23,542
+Captain, I have
+a new transmission
+
+137
+00:12:23,583 --> 00:12:26,041
+on a parallel frequency
+to the distress call.
+
+138
+00:12:26,083 --> 00:12:27,542
+From the surface?
+
+139
+00:12:27,583 --> 00:12:30,417
+No, sir, from inside
+the Romulan zone.
+
+140
+00:12:30,458 --> 00:12:33,291
+We should be able to
+view the transmission.
+
+141
+00:12:33,333 --> 00:12:35,709
+On screen.
+
+142
+00:12:35,750 --> 00:12:38,959
+MALE VOICE:
+Tomalak to Pi.
+
+143
+00:12:39,000 --> 00:12:40,875
+We have received your
+distress signal.
+
+144
+00:12:40,917 --> 00:12:43,917
+Respond.
+
+145
+00:12:43,959 --> 00:12:46,166
+If you can hear me,
+
+146
+00:12:46,208 --> 00:12:49,750
+we are entering
+the Neutral Zone now.
+
+147
+00:12:49,792 --> 00:12:53,458
+We will reach you in six hours.
+
+148
+00:13:03,166 --> 00:13:07,667
+Mr. Worf,
+hail the Romulan vessel.
+
+149
+00:13:07,709 --> 00:13:10,125
+Hailing frequencies
+open, sir.
+
+150
+00:13:10,166 --> 00:13:13,333
+Romulan vessel, this is
+Captain Jean-Luc Picard
+
+151
+00:13:13,375 --> 00:13:16,375
+of the Federation
+Starship<i> Enterprise.</i>
+
+152
+00:13:20,709 --> 00:13:22,875
+The frequency<i> is</i> open, sir.
+
+153
+00:13:22,917 --> 00:13:24,542
+Commander Tomalak,
+
+154
+00:13:24,583 --> 00:13:27,083
+we have intercepted
+your transmission.
+
+155
+00:13:27,125 --> 00:13:31,792
+You are<i> not</i> to enter
+Federation space.
+
+156
+00:13:31,834 --> 00:13:35,458
+Captain Picard, my apologies.
+
+157
+00:13:35,500 --> 00:13:37,375
+Had I known you were
+in this sector,
+
+158
+00:13:37,417 --> 00:13:39,125
+I certainly would have
+advised you
+
+159
+00:13:39,166 --> 00:13:41,458
+before crossing
+the Neutral Zone.
+
+160
+00:13:41,500 --> 00:13:42,750
+Indeed.
+
+161
+00:13:42,792 --> 00:13:45,250
+I'm sure you will
+understand when I explain.
+
+162
+00:13:45,291 --> 00:13:48,000
+One of our ships had a slight
+navigational error
+
+163
+00:13:48,041 --> 00:13:50,792
+and apparently crashed
+on Galorndon Core.
+
+164
+00:13:50,834 --> 00:13:53,250
+A slight navigational error?
+
+165
+00:13:53,291 --> 00:13:56,208
+Nearly half a light year
+past the Neutral Zone?
+
+166
+00:13:56,250 --> 00:14:01,041
+I assure you, Captain,
+no aggression was intended.
+
+167
+00:14:01,083 --> 00:14:06,500
+Commander, we have recovered
+one of your survivors.
+
+168
+00:14:06,542 --> 00:14:08,959
+He is on board your ship?
+
+169
+00:14:09,000 --> 00:14:11,750
+He is being treated
+for severe injuries.
+
+170
+00:14:13,458 --> 00:14:14,834
+And his craft?
+
+171
+00:14:14,875 --> 00:14:18,166
+Destroyed,
+deliberately...
+
+172
+00:14:18,208 --> 00:14:20,000
+after the crash.
+
+173
+00:14:20,041 --> 00:14:22,000
+I'm sure you are prepared
+to leave at once
+
+174
+00:14:22,041 --> 00:14:24,208
+and rendezvous
+with me in the Neutral Zone.
+
+175
+00:14:24,250 --> 00:14:26,458
+I have an away team
+on the planet.
+
+176
+00:14:26,500 --> 00:14:29,083
+We are waiting for a window
+in the storm to beam them up.
+
+177
+00:14:29,125 --> 00:14:31,959
+And then you will return
+my officer?
+
+178
+00:14:33,333 --> 00:14:35,125
+Are there any other Romulans
+
+179
+00:14:35,166 --> 00:14:38,208
+we should be looking to
+recover from Galorndon Core?
+
+180
+00:14:39,583 --> 00:14:43,792
+No, it was a one-man craft.
+
+181
+00:14:43,834 --> 00:14:46,792
+Captain, we will be
+at the Federation border
+
+182
+00:14:46,834 --> 00:14:48,875
+of the Neutral Zone in
+roughly five hours.
+
+183
+00:14:48,917 --> 00:14:52,458
+We will expect you to
+rendezvous at that time.
+
+184
+00:14:54,959 --> 00:14:56,625
+Counselor?
+
+185
+00:14:56,667 --> 00:15:00,041
+There's great hostility
+behind his smile.
+
+186
+00:15:00,083 --> 00:15:02,500
+He'll stop at nothing
+to complete his mission.
+
+187
+00:15:02,542 --> 00:15:04,667
+Including the Neutral Zone
+border.
+
+188
+00:15:04,709 --> 00:15:08,834
+Captain, I see no reason to
+return the Romulan to his ship.
+
+189
+00:15:08,875 --> 00:15:10,667
+He should be held
+and interrogated.
+
+190
+00:15:10,709 --> 00:15:13,250
+We have every right
+to detain him, sir.
+
+191
+00:15:13,291 --> 00:15:15,375
+Without evidence of
+intent, Number One,
+
+192
+00:15:15,417 --> 00:15:17,083
+it will not be
+a simple matter.
+
+193
+00:15:17,125 --> 00:15:19,375
+It obviously wasn't
+pilot's error.
+
+194
+00:15:19,417 --> 00:15:21,291
+I think it demands
+a response from us.
+
+195
+00:15:21,333 --> 00:15:24,208
+But we must measure
+our response carefully,
+
+196
+00:15:24,250 --> 00:15:27,041
+or history may remember
+Galorndon Core
+
+197
+00:15:27,083 --> 00:15:32,250
+along with Pearl Harbor
+and Station Salem-One
+
+198
+00:15:32,291 --> 00:15:36,166
+as the stage for a
+bloody preamble to war.
+
+199
+00:15:45,959 --> 00:15:49,458
+I want him off all the drugs.
+They're not doing anything.
+
+200
+00:15:49,500 --> 00:15:50,834
+Dr. Crusher to Picard.
+
+201
+00:15:50,875 --> 00:15:52,208
+PICARD:
+Go ahead, doctor.
+
+202
+00:15:52,250 --> 00:15:55,166
+My patient is not responding
+to treatment.
+
+203
+00:15:55,208 --> 00:15:57,750
+You haven't found
+a compatible ribosome donor?
+
+204
+00:15:57,792 --> 00:16:00,333
+BEVERLY: The lab is still
+processing the tests.
+
+205
+00:16:00,375 --> 00:16:02,041
+Early results indicate humans
+
+206
+00:16:02,083 --> 00:16:04,458
+have far too many
+bio-rejection factors.
+
+207
+00:16:04,500 --> 00:16:06,834
+I've also ruled out the
+Vulcans we've tested.
+
+208
+00:16:06,875 --> 00:16:10,208
+I think I'll try a little
+old-fashioned country medicine,
+
+209
+00:16:10,250 --> 00:16:13,583
+keep the fever down, try to
+let the body heal itself.
+
+210
+00:16:13,625 --> 00:16:16,041
+Keep me advised.
+Picard out.
+
+211
+00:16:16,083 --> 00:16:17,917
+Captain, the neutrino
+beacon is operational
+
+212
+00:16:17,959 --> 00:16:19,583
+and we've placed it
+aboard a class 3 probe.
+
+213
+00:16:19,625 --> 00:16:22,667
+Well done, Ensign.
+Mr. Worf, launch the probe.
+
+214
+00:16:22,709 --> 00:16:25,041
+Aye, aye, sir.
+
+215
+00:16:30,375 --> 00:16:33,041
+(<i> howling winds and thunder</i> )
+
+216
+00:16:34,750 --> 00:16:36,625
+(<i> grunting</i> )
+
+217
+00:16:47,458 --> 00:16:49,709
+(<i> yelling</i> )
+
+218
+00:17:12,041 --> 00:17:14,125
+(<i> beeping</i> )
+
+219
+00:17:14,166 --> 00:17:16,417
+Probe has reached
+the surface, sir.
+
+220
+00:17:16,458 --> 00:17:19,125
+The neutrino stream
+is coming in strongly.
+
+221
+00:17:19,166 --> 00:17:22,667
+Sensors are tracking the probe
+despite the interference.
+
+222
+00:17:32,875 --> 00:17:35,458
+(<i> panting</i> )
+
+223
+00:17:44,667 --> 00:17:48,709
+LA FORGE: A stationary
+neutrino source.
+
+224
+00:17:48,750 --> 00:17:50,834
+Wesley Crusher.
+
+225
+00:17:50,875 --> 00:17:53,709
+Thank you, Wesley.
+
+226
+00:18:12,667 --> 00:18:14,500
+(<i> grunts</i> )
+
+227
+00:18:32,917 --> 00:18:34,583
+You are my prisoner!
+
+228
+00:18:35,500 --> 00:18:39,000
+Right.
+Congratulations.
+
+229
+00:18:39,041 --> 00:18:42,208
+Surely a strategic triumph
+for the Romulan empire.
+
+230
+00:18:42,250 --> 00:18:43,834
+Stay there!
+
+231
+00:18:45,458 --> 00:18:48,041
+Shoes are getting
+full of sand.
+
+232
+00:18:48,083 --> 00:18:49,750
+I just hate that,
+don't you?
+
+233
+00:18:49,792 --> 00:18:52,458
+Name and rank.
+
+234
+00:18:52,500 --> 00:18:56,458
+Lieutenant Commander
+Geordi La Forge.
+
+235
+00:18:56,500 --> 00:18:58,000
+I don't think I got yours.
+
+236
+00:18:58,041 --> 00:19:00,834
+A Romulan ship
+will arrive shortly.
+
+237
+00:19:00,875 --> 00:19:02,667
+You will accompany me
+on board.
+
+238
+00:19:02,709 --> 00:19:04,125
+I don't think so.
+
+239
+00:19:04,166 --> 00:19:07,792
+See, we heard your message,
+too, and, well...
+
+240
+00:19:07,834 --> 00:19:09,792
+the fleet's in, Commodore.
+
+241
+00:19:09,834 --> 00:19:12,041
+Sky is full of
+Federation ships.
+
+242
+00:19:12,083 --> 00:19:13,625
+You're lying.
+
+243
+00:19:13,667 --> 00:19:18,125
+I never lie when I've got sand
+in my shoes, Commodore.
+
+244
+00:19:18,166 --> 00:19:19,792
+Get up.
+
+245
+00:19:21,667 --> 00:19:24,000
+Seriously...
+
+246
+00:19:24,041 --> 00:19:26,000
+the only way out of here
+
+247
+00:19:26,041 --> 00:19:27,625
+is for you to put
+that thing down,
+
+248
+00:19:27,667 --> 00:19:30,959
+and soon as there's
+a window in the storm...
+
+249
+00:19:58,667 --> 00:20:01,083
+(<i> coughing</i> )
+
+250
+00:20:03,583 --> 00:20:05,875
+GEORDI:
+You okay?
+
+251
+00:20:09,208 --> 00:20:11,208
+(<i> coughing</i> )
+
+252
+00:20:18,709 --> 00:20:20,709
+You gotta be kidding.
+
+253
+00:20:20,750 --> 00:20:22,417
+Sit.
+
+254
+00:20:29,333 --> 00:20:32,000
+Welcome to Galorndon Core,
+
+255
+00:20:32,041 --> 00:20:36,333
+where no good deed
+goes unpunished.
+
+256
+00:20:45,375 --> 00:20:47,125
+Yes, Doctor?
+
+257
+00:20:48,125 --> 00:20:49,875
+Lieutenant, good.
+
+258
+00:20:49,917 --> 00:20:52,208
+Come in.
+Please, sit down.
+
+259
+00:20:58,166 --> 00:21:01,166
+We have finally found a
+compatible ribosome match
+
+260
+00:21:01,208 --> 00:21:03,583
+for the Romulan,
+but only one.
+
+261
+00:21:03,625 --> 00:21:05,959
+You.
+
+262
+00:21:06,000 --> 00:21:08,667
+That is impossible.
+I am a Klingon.
+
+263
+00:21:08,709 --> 00:21:10,834
+Different species, yes.
+
+264
+00:21:10,875 --> 00:21:13,875
+But many humanoids have
+comparable cell structures,
+
+265
+00:21:13,917 --> 00:21:17,041
+and you have what
+this Romulan needs.
+
+266
+00:21:17,083 --> 00:21:20,542
+There's absolutely
+no risk to you.
+
+267
+00:21:23,750 --> 00:21:25,583
+You did understand
+that was the purpose
+
+268
+00:21:25,625 --> 00:21:26,709
+of all the testing?
+
+269
+00:21:26,750 --> 00:21:30,000
+I have no objection
+to tests.
+
+270
+00:21:34,291 --> 00:21:37,667
+You have an objection
+to being a donor.
+
+271
+00:21:37,709 --> 00:21:39,125
+Yes.
+
+272
+00:21:41,709 --> 00:21:45,750
+Lieutenant, I understand your
+feelings about the Romulans,
+
+273
+00:21:45,792 --> 00:21:48,000
+but this is not the
+time or the place--
+
+274
+00:21:48,041 --> 00:21:50,792
+If you had seen them
+kill your parents,
+
+275
+00:21:50,834 --> 00:21:52,709
+you would understand, Doctor.
+
+276
+00:21:52,750 --> 00:21:55,500
+It is always the time and place
+for those feelings.
+
+277
+00:21:55,542 --> 00:21:59,125
+<i>This</i> Romulan didn't murder
+your parents,
+
+278
+00:21:59,166 --> 00:22:02,834
+and you are the only one
+who can save his life.
+
+279
+00:22:05,875 --> 00:22:07,917
+Then he will die.
+
+280
+00:22:14,750 --> 00:22:17,041
+I sure wish you'd
+put that away.
+
+281
+00:22:17,083 --> 00:22:18,500
+You're afraid of dying?
+
+282
+00:22:18,542 --> 00:22:20,125
+You bet I am.
+
+283
+00:22:20,166 --> 00:22:21,709
+Who isn't?
+I'm not.
+
+284
+00:22:21,750 --> 00:22:23,083
+(<i> scoffs</i> )
+Right.
+
+285
+00:22:23,125 --> 00:22:25,000
+To die in the service
+of my people...?
+
+286
+00:22:25,041 --> 00:22:28,500
+Oh, the Romulan
+path to glory.
+
+287
+00:22:28,542 --> 00:22:30,750
+You can be sarcastic now.
+
+288
+00:22:30,792 --> 00:22:33,583
+But in a few millennia,
+when humans are extinct
+
+289
+00:22:33,625 --> 00:22:37,542
+and the Romulan empire
+spans the galaxy...
+
+290
+00:22:37,583 --> 00:22:40,333
+You really believe that stuff,
+don't you, Commodore?
+
+291
+00:22:41,583 --> 00:22:45,709
+You may address me
+as Centurion Bochra.
+
+292
+00:22:45,750 --> 00:22:48,250
+Bochra.
+
+293
+00:22:48,291 --> 00:22:51,458
+Good, solid Romulan name.
+
+294
+00:22:51,500 --> 00:22:54,166
+(<i> coughing</i> )
+
+295
+00:22:55,792 --> 00:22:57,041
+What's the matter?
+
+296
+00:22:57,083 --> 00:22:58,250
+Nothing.
+Wrong.
+
+297
+00:22:58,291 --> 00:23:00,542
+Your heart rate
+just shot way up.
+
+298
+00:23:06,166 --> 00:23:09,625
+It translates a wide range of
+radiation into neural impulses.
+
+299
+00:23:09,667 --> 00:23:11,083
+Allows me to see.
+
+300
+00:23:13,041 --> 00:23:16,250
+Without it, you're blind?
+
+301
+00:23:16,291 --> 00:23:17,625
+Yeah.
+
+302
+00:23:19,542 --> 00:23:21,542
+How did this happen?
+
+303
+00:23:21,583 --> 00:23:24,041
+(<i> sighs</i> )
+I was born that way.
+
+304
+00:23:25,000 --> 00:23:26,875
+And your parents let you live?
+
+305
+00:23:26,917 --> 00:23:28,583
+What kind of
+question is that?
+
+306
+00:23:28,625 --> 00:23:30,583
+Of course, they let me live.
+
+307
+00:23:30,625 --> 00:23:33,417
+No wonder
+your race is weak.
+
+308
+00:23:33,458 --> 00:23:37,083
+You waste time and resources
+on defective children.
+
+309
+00:23:40,750 --> 00:23:42,417
+Whoa.
+
+310
+00:23:47,875 --> 00:23:52,125
+Must be having some sort
+of polarity shift.
+
+311
+00:23:54,875 --> 00:23:57,542
+The diagnostic insists
+everything's fine.
+
+312
+00:23:57,583 --> 00:23:59,333
+(<i> coughs</i> )
+
+313
+00:24:03,375 --> 00:24:05,875
+Hey.
+
+314
+00:24:05,917 --> 00:24:07,583
+Hey, your body temperature
+has gone up
+
+315
+00:24:07,625 --> 00:24:09,291
+almost another full point.
+
+316
+00:24:09,333 --> 00:24:10,792
+What are you saying?
+
+317
+00:24:10,834 --> 00:24:14,667
+I don't know, I...
+It-- it must be this place.
+
+318
+00:24:14,709 --> 00:24:17,083
+It's all that
+electromagnetic soup.
+
+319
+00:24:17,125 --> 00:24:19,542
+It's wreaking havoc on
+our nervous systems.
+
+320
+00:24:19,583 --> 00:24:21,125
+Your metabolism's
+messed up.
+
+321
+00:24:21,166 --> 00:24:24,083
+So is my interface
+with the visor.
+
+322
+00:24:24,125 --> 00:24:25,458
+We gotta get out of here
+while we still can--
+
+323
+00:24:25,500 --> 00:24:26,917
+Sit down!
+Bochra...
+
+324
+00:24:26,959 --> 00:24:28,417
+Sit down!
+
+325
+00:24:28,458 --> 00:24:30,000
+(<i> sighs</i> )
+
+326
+00:24:39,500 --> 00:24:42,083
+(<i> coughing</i> )
+
+327
+00:24:43,667 --> 00:24:45,291
+What is that?
+
+328
+00:24:47,333 --> 00:24:50,083
+It's just a background
+fluctuation, Commander.
+
+329
+00:24:50,125 --> 00:24:51,667
+He hasn't found it yet.
+
+330
+00:24:51,709 --> 00:24:54,959
+Then he must be
+hurt... or dead.
+
+331
+00:24:58,417 --> 00:25:00,709
+When does our next
+window open up, Mr. Data?
+
+332
+00:25:00,750 --> 00:25:02,625
+There's no indication,
+Commander.
+
+333
+00:25:02,667 --> 00:25:03,959
+I have no way to predict.
+
+334
+00:25:04,000 --> 00:25:06,959
+Incoming Romulan
+transmission, Captain.
+
+335
+00:25:07,000 --> 00:25:08,333
+They're early.
+
+336
+00:25:08,375 --> 00:25:10,000
+DATA: The Romulan
+Warbird should still be
+
+337
+00:25:10,041 --> 00:25:12,291
+29 minutes away from the
+edge of the Neutral Zone.
+
+338
+00:25:12,333 --> 00:25:16,333
+Close enough, however,
+to see that we're not there.
+
+339
+00:25:16,375 --> 00:25:19,709
+(<i> sighs</i> )
+On screen.
+
+340
+00:25:19,750 --> 00:25:22,834
+Picard, I'm approaching
+the Federation border
+
+341
+00:25:22,875 --> 00:25:24,959
+and the<i> Enterprise</i>
+is not to be found.
+
+342
+00:25:25,000 --> 00:25:26,417
+Why?
+
+343
+00:25:26,458 --> 00:25:29,208
+My away team is unable
+to leave the surface
+
+344
+00:25:29,250 --> 00:25:31,375
+because of the storms.
+
+345
+00:25:31,417 --> 00:25:34,083
+TOMALAK:
+And my officer?
+
+346
+00:25:34,125 --> 00:25:35,417
+He is alive.
+
+347
+00:25:35,458 --> 00:25:38,333
+His life remains in jeopardy?
+
+348
+00:25:39,625 --> 00:25:40,834
+Yes.
+
+349
+00:25:40,875 --> 00:25:42,875
+And yet you will
+<i>still</i> not permit me
+
+350
+00:25:42,917 --> 00:25:45,375
+to cross into your precious
+Federation space
+
+351
+00:25:45,417 --> 00:25:47,083
+to retrieve him?
+
+352
+00:25:47,125 --> 00:25:49,709
+If the point has not yet been
+made clearly, Commander,
+
+353
+00:25:49,750 --> 00:25:51,208
+let me make it again.
+
+354
+00:25:51,250 --> 00:25:54,208
+Romulan warships
+do not enter Federation space
+
+355
+00:25:54,250 --> 00:25:56,208
+unless they are prepared
+to do battle.
+
+356
+00:25:56,250 --> 00:25:58,875
+But a mission of mercy?
+
+357
+00:25:58,917 --> 00:26:02,625
+A mission to recover one
+of your officers
+
+358
+00:26:02,667 --> 00:26:06,333
+who has been caught
+on a Federation planet...
+
+359
+00:26:06,375 --> 00:26:07,917
+for reasons as yet unknown.
+
+360
+00:26:07,959 --> 00:26:10,041
+TOMALAK:
+I have already explained.
+
+361
+00:26:10,083 --> 00:26:12,166
+And I have rejected
+your explanation!
+
+362
+00:26:13,291 --> 00:26:15,750
+Territories.
+
+363
+00:26:15,792 --> 00:26:19,542
+You would
+measure territories
+
+364
+00:26:19,583 --> 00:26:22,959
+against a man's life?
+
+365
+00:26:23,000 --> 00:26:24,542
+Commander, I am
+singularly impressed
+
+366
+00:26:24,583 --> 00:26:26,750
+by your concern
+for<i> a</i> life.
+
+367
+00:26:26,792 --> 00:26:30,166
+Do not risk any more lives
+by leaving the Neutral Zone.
+
+368
+00:26:30,208 --> 00:26:31,458
+Picard out.
+
+369
+00:26:40,125 --> 00:26:43,208
+Bochra.
+
+370
+00:26:43,250 --> 00:26:45,875
+Bochra, you're in bad shape.
+And my vision's getting worse.
+
+371
+00:26:45,917 --> 00:26:48,583
+Now, there's a beacon
+out there
+
+372
+00:26:48,625 --> 00:26:49,834
+that'll get us
+back to my ship.
+
+373
+00:26:49,875 --> 00:26:51,625
+But<i> not</i> if I can't
+find it.
+
+374
+00:26:51,667 --> 00:26:54,166
+I cannot surrender
+to the Federation.
+
+375
+00:26:54,208 --> 00:26:56,250
+Then stay here and die.
+
+376
+00:26:58,166 --> 00:27:01,333
+If the situation were reversed,
+
+377
+00:27:01,375 --> 00:27:04,208
+would you not die
+to avoid capture?
+
+378
+00:27:04,250 --> 00:27:05,583
+I don't know.
+
+379
+00:27:05,625 --> 00:27:09,083
+I might,<i> if</i> I thought
+it was necessary,
+
+380
+00:27:09,125 --> 00:27:10,417
+if the stakes were high enough.
+
+381
+00:27:10,458 --> 00:27:13,083
+But they'd have to be
+pretty damned high.
+
+382
+00:27:13,125 --> 00:27:15,709
+(<i> scoffs</i> )
+
+383
+00:27:15,750 --> 00:27:18,375
+I guess I'd make a pretty
+lousy Romulan, huh?
+
+384
+00:27:18,417 --> 00:27:20,709
+(<i> chuckles</i> )
+
+385
+00:27:20,750 --> 00:27:23,875
+I no more wish to
+die than you do.
+
+386
+00:27:23,917 --> 00:27:26,542
+Bochra...
+
+387
+00:27:26,583 --> 00:27:29,333
+there are times
+when it's necessary
+
+388
+00:27:29,375 --> 00:27:32,291
+to die for one's ideals.
+
+389
+00:27:34,208 --> 00:27:37,125
+Do you believe
+this is one of those times?
+
+390
+00:27:48,333 --> 00:27:51,041
+Come on.
+Let's go find that beacon.
+
+391
+00:27:58,208 --> 00:28:00,125
+Whoa.
+
+392
+00:28:00,166 --> 00:28:02,291
+What is it?
+
+393
+00:28:02,333 --> 00:28:04,417
+Everything's gone blank.
+
+394
+00:28:10,417 --> 00:28:12,000
+I'm blind.
+
+395
+00:28:25,041 --> 00:28:26,125
+(<i> door chimes</i> )
+
+396
+00:28:26,166 --> 00:28:27,792
+Come.
+
+397
+00:28:28,959 --> 00:28:30,500
+Worf.
+
+398
+00:28:36,709 --> 00:28:39,709
+You are busy.
+Forgive my intrusion.
+
+399
+00:28:39,750 --> 00:28:41,500
+For what it's worth,
+
+400
+00:28:41,542 --> 00:28:43,542
+I understand
+your bitterness.
+
+401
+00:28:43,583 --> 00:28:46,750
+With respect, sir,
+you cannot.
+
+402
+00:28:48,875 --> 00:28:51,458
+I am asked to give up the
+very lifeblood of my mother
+
+403
+00:28:51,500 --> 00:28:54,375
+<i>and</i> my father to those
+who murdered them.
+
+404
+00:28:54,417 --> 00:28:55,583
+So, you blame all
+Romulans for that?
+
+405
+00:28:55,625 --> 00:28:57,709
+Yes.
+Forever?
+
+406
+00:28:59,750 --> 00:29:03,375
+What if someday, the Federation
+made peace with the Romulans?
+
+407
+00:29:04,792 --> 00:29:07,166
+Impossible.
+
+408
+00:29:07,208 --> 00:29:10,917
+That's what your people said
+a few years ago about humans.
+
+409
+00:29:13,417 --> 00:29:16,291
+Think how many died
+on both sides in that war.
+
+410
+00:29:16,333 --> 00:29:18,959
+Would you and I be
+here now, like this,
+
+411
+00:29:19,000 --> 00:29:23,041
+if we hadn't been able to let
+go of the anger and the blame?
+
+412
+00:29:23,083 --> 00:29:25,417
+Where does it end, Worf?
+
+413
+00:29:25,458 --> 00:29:29,709
+If that Romulan dies,
+does his family
+
+414
+00:29:29,750 --> 00:29:32,291
+carry the bitterness
+on another generation?
+
+415
+00:29:37,333 --> 00:29:39,667
+Then<i> you</i> believe I should.
+
+416
+00:29:39,709 --> 00:29:43,875
+What I believe
+doesn't matter.
+
+417
+00:29:43,917 --> 00:29:48,166
+My Starfleet training
+tells me one thing.
+
+418
+00:29:48,208 --> 00:29:51,041
+But everything
+I am tells me another.
+
+419
+00:29:51,083 --> 00:29:53,500
+BEVERLY: Lieutenant Worf,
+report to sick bay.
+
+420
+00:29:53,542 --> 00:29:55,375
+Acknowledged.
+
+421
+00:30:07,041 --> 00:30:09,709
+(<i> shivering</i> )
+
+422
+00:30:17,125 --> 00:30:20,667
+Lieutenant, his life
+is coming to an end.
+
+423
+00:30:20,709 --> 00:30:24,417
+I thought it important
+for you to see him again.
+
+424
+00:30:24,458 --> 00:30:27,625
+It's not too late to
+change your mind.
+
+425
+00:30:42,125 --> 00:30:44,500
+Come close to me, Klingon.
+
+426
+00:30:46,333 --> 00:30:49,792
+Let me die with my hands
+at your throat.
+
+427
+00:30:49,834 --> 00:30:52,750
+There is a substance
+within my cells
+
+428
+00:30:52,792 --> 00:30:54,625
+which you need to survive.
+
+429
+00:30:57,625 --> 00:31:01,625
+Then you've come to hear me
+beg for my life.
+
+430
+00:31:02,583 --> 00:31:04,208
+No.
+
+431
+00:31:10,166 --> 00:31:12,667
+I would rather die
+
+432
+00:31:12,709 --> 00:31:17,375
+than pollute my body
+with Klingon filth.
+
+433
+00:31:31,333 --> 00:31:35,041
+I've lost almost all
+feeling in my legs.
+
+434
+00:31:35,083 --> 00:31:37,750
+My synapses must be
+turning to jelly.
+
+435
+00:31:37,792 --> 00:31:41,458
+The visor's fine,
+I just can't see a thing.
+
+436
+00:31:41,500 --> 00:31:44,333
+How do we locate
+the beacon?
+
+437
+00:31:46,875 --> 00:31:49,458
+We don't.
+
+438
+00:31:53,417 --> 00:31:57,417
+Do all humans
+give up so easily?
+
+439
+00:31:57,458 --> 00:32:00,000
+Bochra, we're lost.
+
+440
+00:32:00,041 --> 00:32:02,792
+Unless you've got something
+that can smell neutrinos.
+
+441
+00:32:05,875 --> 00:32:08,583
+We have the sensor device
+you're carrying.
+
+442
+00:32:08,625 --> 00:32:10,834
+Tricorder.
+
+443
+00:32:10,875 --> 00:32:13,208
+It's not set up
+to detect neutrinos.
+
+444
+00:32:13,250 --> 00:32:16,500
+Your eye device does.
+Connect them.
+
+445
+00:32:16,542 --> 00:32:19,166
+That's crazy, they don't
+speak the same language.
+
+446
+00:32:19,208 --> 00:32:22,917
+Besides, I'd never be able
+to get an accurate sampling.
+
+447
+00:32:22,959 --> 00:32:24,917
+Wait a second.
+
+448
+00:32:26,250 --> 00:32:28,375
+Wait, I wouldn't need
+an accurate sampling,
+
+449
+00:32:28,417 --> 00:32:31,208
+just a-- a pointer.
+
+450
+00:32:31,250 --> 00:32:33,709
+A neutrino Geiger counter.
+
+451
+00:32:34,959 --> 00:32:38,834
+(<i> sighs</i> )
+It's still not possible.
+
+452
+00:32:38,875 --> 00:32:40,083
+You cannot do it.
+
+453
+00:32:40,125 --> 00:32:42,208
+Under normal circumstances,
+maybe.
+
+454
+00:32:42,250 --> 00:32:44,500
+Here, no way.
+
+455
+00:32:44,542 --> 00:32:45,667
+Why?
+
+456
+00:32:45,709 --> 00:32:48,583
+Because I can't see!
+
+457
+00:32:50,875 --> 00:32:53,500
+Adapting the neural output pods
+of the visor is tricky work.
+
+458
+00:32:53,542 --> 00:32:56,166
+It can't be done by touch.
+
+459
+00:33:01,458 --> 00:33:05,291
+Then I will be your eyes.
+
+460
+00:33:12,250 --> 00:33:14,125
+The storm is beginning
+to subside, Captain.
+
+461
+00:33:14,166 --> 00:33:16,834
+We should have a window
+in less than an hour.
+
+462
+00:33:16,875 --> 00:33:20,250
+There's still no indication
+that he's found the beacon, sir.
+
+463
+00:33:20,291 --> 00:33:22,667
+Assemble an away team.
+Yes, sir.
+
+464
+00:33:22,709 --> 00:33:25,875
+Captain, the Romulan warship has
+crossed the Neutral Zone border.
+
+465
+00:33:25,917 --> 00:33:29,542
+It is in Federation space,
+and heading towards us.
+
+466
+00:33:29,583 --> 00:33:31,750
+Belay that order,
+Number One.
+
+467
+00:33:34,208 --> 00:33:35,959
+Red alert.
+
+468
+00:33:36,000 --> 00:33:38,667
+(<i> alarm sounding</i> )
+
+469
+00:33:42,333 --> 00:33:44,000
+GEORDI: Make sure the
+scanner select limiter
+
+470
+00:33:44,041 --> 00:33:45,792
+matches the visor
+output range.
+
+471
+00:33:45,834 --> 00:33:47,917
+BOCHRA:
+Not so fast.
+
+472
+00:33:50,083 --> 00:33:52,417
+Now, place the
+neural output pods
+
+473
+00:33:52,458 --> 00:33:55,500
+in contact with the tricorder
+scanner heads.
+
+474
+00:33:57,750 --> 00:33:58,917
+Ready.
+
+475
+00:33:58,959 --> 00:34:00,625
+Let her rip.
+
+476
+00:34:02,792 --> 00:34:05,458
+(<i> beeping</i> )
+
+477
+00:34:07,625 --> 00:34:08,750
+Bearing 3-5-0.
+
+478
+00:34:08,792 --> 00:34:11,792
+<i>( laughing</i> )
+We did it!
+
+479
+00:34:11,834 --> 00:34:15,125
+The first Federation-Romulan
+co-venture.
+
+480
+00:34:17,291 --> 00:34:19,208
+The storm may be breaking.
+
+481
+00:34:19,250 --> 00:34:21,291
+With any luck, there'll be
+an electromagnetic window
+
+482
+00:34:21,333 --> 00:34:23,750
+opening up, and we
+can get out of here.
+
+483
+00:34:23,792 --> 00:34:27,208
+At which point,
+I'll be your prisoner.
+
+484
+00:34:30,208 --> 00:34:32,667
+Can you walk?
+
+485
+00:34:32,709 --> 00:34:34,417
+I don't know.
+
+486
+00:34:34,458 --> 00:34:36,750
+Well, let's find out.
+
+487
+00:34:38,291 --> 00:34:39,792
+Come on.
+
+488
+00:34:43,625 --> 00:34:45,083
+Okay, let's go.
+
+489
+00:34:45,125 --> 00:34:47,458
+Straight ahead.
+Okay.
+
+490
+00:34:52,458 --> 00:34:54,333
+To the right.
+
+491
+00:34:55,542 --> 00:34:56,959
+(<i> door chimes</i> )
+
+492
+00:34:57,000 --> 00:34:58,625
+Come.
+
+493
+00:35:00,500 --> 00:35:02,041
+You wish to see me, Captain?
+
+494
+00:35:02,083 --> 00:35:04,125
+Yes, Lieutenant.
+
+495
+00:35:04,166 --> 00:35:06,458
+I assume you know
+what it's about.
+
+496
+00:35:07,458 --> 00:35:09,959
+Yes.
+
+497
+00:35:10,000 --> 00:35:13,625
+The Romulan vessel
+will reach us within the hour.
+
+498
+00:35:15,417 --> 00:35:18,375
+If our patient dies,
+
+499
+00:35:18,417 --> 00:35:22,291
+it may be just the excuse
+the Romulan Commander needs
+
+500
+00:35:22,333 --> 00:35:25,959
+to start an incident.
+
+501
+00:35:26,000 --> 00:35:30,959
+The death of a Romulan officer
+at the hands of the Federation.
+
+502
+00:35:31,000 --> 00:35:32,250
+Think of it.
+
+503
+00:35:32,291 --> 00:35:34,417
+I have, Captain.
+
+504
+00:35:34,458 --> 00:35:37,875
+So, there is no question
+that the Romulan officer
+
+505
+00:35:37,917 --> 00:35:41,583
+is more valuable to us
+alive than dead.
+
+506
+00:35:41,625 --> 00:35:43,792
+I understand.
+
+507
+00:35:46,458 --> 00:35:49,750
+Lieutenant...
+
+508
+00:35:49,792 --> 00:35:55,166
+sometimes the moral
+obligations of command
+
+509
+00:35:55,208 --> 00:35:56,917
+are less than clear.
+
+510
+00:35:56,959 --> 00:36:00,000
+I have to weigh the
+good of the many
+
+511
+00:36:00,041 --> 00:36:02,375
+against the needs
+of the individual,
+
+512
+00:36:02,417 --> 00:36:06,583
+and try to balance them as
+realistically as possible.
+
+513
+00:36:06,625 --> 00:36:09,083
+God knows, I don't
+always succeed.
+
+514
+00:36:09,125 --> 00:36:11,333
+I have not had cause
+to complain, Captain.
+
+515
+00:36:11,375 --> 00:36:14,667
+Oh, Lieutenant,
+you wouldn't complain
+
+516
+00:36:14,709 --> 00:36:17,458
+even if you had cause.
+
+517
+00:36:20,000 --> 00:36:23,375
+If you order me to agree
+to the transfusion,
+
+518
+00:36:23,417 --> 00:36:25,333
+I will obey, of course.
+
+519
+00:36:26,458 --> 00:36:30,583
+I don't want to
+order you...
+
+520
+00:36:30,625 --> 00:36:32,417
+but I ask you.
+
+521
+00:36:32,458 --> 00:36:37,250
+I... beg you...
+
+522
+00:36:37,291 --> 00:36:39,208
+to volunteer.
+
+523
+00:36:39,250 --> 00:36:41,166
+I cannot.
+
+524
+00:36:51,917 --> 00:36:53,625
+Lieutenant?
+
+525
+00:36:56,000 --> 00:36:57,250
+Sir?
+
+526
+00:36:58,959 --> 00:37:00,750
+That will be all.
+
+527
+00:37:08,917 --> 00:37:10,583
+Picard to Dr. Crusher.
+
+528
+00:37:10,625 --> 00:37:11,959
+BEVERLY:
+Go ahead.
+
+529
+00:37:12,041 --> 00:37:14,583
+Do not continue to enlist
+the cooperation
+
+530
+00:37:14,625 --> 00:37:16,834
+of Lieutenant Worf.
+
+531
+00:37:16,875 --> 00:37:19,583
+I won't have to,
+Captain.
+
+532
+00:37:19,625 --> 00:37:21,750
+The Romulan has died.
+
+533
+00:37:23,875 --> 00:37:26,542
+(<i> storm roaring</i> )
+
+534
+00:37:39,917 --> 00:37:42,875
+BOCHRA:
+We've found it!
+
+535
+00:37:42,917 --> 00:37:45,125
+GEORDI: Now, we have to
+alter its signal pattern
+
+536
+00:37:45,166 --> 00:37:47,250
+so the<i> Enterprise</i> knows
+we've found it.
+
+537
+00:37:47,291 --> 00:37:48,625
+Will that
+be difficult?
+
+538
+00:37:48,667 --> 00:37:51,375
+No!
+Not with your help.
+
+539
+00:37:55,709 --> 00:37:58,333
+Scanners are showing
+a window, Captain.
+
+540
+00:37:58,375 --> 00:37:59,834
+Expected duration?
+
+541
+00:37:59,875 --> 00:38:02,041
+Nine minutes,
+40 seconds, sir.
+
+542
+00:38:02,083 --> 00:38:04,709
+No change in the neutrino
+beacon signal, sir.
+
+543
+00:38:04,750 --> 00:38:06,125
+Romulan ship
+approaching.
+
+544
+00:38:06,166 --> 00:38:08,458
+Bearing 3-54,
+mark 2-8-7.
+
+545
+00:38:08,500 --> 00:38:10,375
+On screen.
+
+546
+00:38:14,250 --> 00:38:16,208
+WORF:
+Entering phaser range.
+
+547
+00:38:16,250 --> 00:38:18,333
+We are being hailed, sir.
+
+548
+00:38:18,375 --> 00:38:21,041
+On viewer.
+
+549
+00:38:21,083 --> 00:38:27,041
+You have one chance to
+escape destruction, Picard.
+
+550
+00:38:27,083 --> 00:38:30,458
+Return my officer at once.
+
+551
+00:38:30,500 --> 00:38:32,709
+Commander, you have entered
+Federation space
+
+552
+00:38:32,750 --> 00:38:33,959
+despite my warning.
+
+553
+00:38:34,000 --> 00:38:36,959
+<i>You</i> forced the situation!
+
+554
+00:38:37,000 --> 00:38:40,083
+I will not leave
+without him.
+
+555
+00:38:42,834 --> 00:38:44,542
+He's dead.
+
+556
+00:38:47,834 --> 00:38:52,959
+Then he is but the first
+to fall, Picard.
+
+557
+00:38:54,333 --> 00:38:56,291
+The Romulan ship
+is routing power
+
+558
+00:38:56,333 --> 00:38:57,834
+to its forward
+disruptor array.
+
+559
+00:38:57,875 --> 00:39:00,583
+All shields to maximum.
+
+560
+00:39:00,625 --> 00:39:02,458
+Aye, sir.
+
+561
+00:39:02,500 --> 00:39:04,417
+Lock phasers on target.
+
+562
+00:39:04,458 --> 00:39:07,792
+WORF:
+Phasers locked and ready.
+
+563
+00:39:07,834 --> 00:39:10,166
+Captain, the signal pattern
+from the beacon is modulating.
+
+564
+00:39:10,208 --> 00:39:11,959
+It's Geordi.
+
+565
+00:39:12,000 --> 00:39:13,875
+We can't transport him
+with the shields up.
+
+566
+00:39:13,917 --> 00:39:16,458
+If we lower our shields,
+the Romulan<i> will</i> strike.
+
+567
+00:39:16,500 --> 00:39:19,583
+The electromagnetic window
+on the planet is closing, sir.
+
+568
+00:39:19,625 --> 00:39:21,000
+Three minutes remain.
+
+569
+00:39:21,041 --> 00:39:22,709
+Transporter room,
+lock onto
+
+570
+00:39:22,750 --> 00:39:24,625
+the neutrino beam
+and stand by.
+
+571
+00:39:24,667 --> 00:39:26,375
+O'BRIEN:
+Standing by, Captain.
+
+572
+00:39:26,417 --> 00:39:28,917
+The window is allowing
+intermittent sensor readings.
+
+573
+00:39:28,959 --> 00:39:30,500
+There's still numerous
+ghost images,
+
+574
+00:39:30,542 --> 00:39:32,125
+but I believe
+we are picking up
+
+575
+00:39:32,166 --> 00:39:34,041
+two life-forms near
+the beacon.
+
+576
+00:39:35,750 --> 00:39:37,291
+Another Romulan?
+
+577
+00:39:37,333 --> 00:39:39,083
+I cannot say.
+
+578
+00:39:39,125 --> 00:39:42,417
+The electromagnetic interference
+prevents an accurate reading.
+
+579
+00:39:42,458 --> 00:39:45,125
+But that's a likely
+hypothesis, Number One.
+
+580
+00:39:45,166 --> 00:39:48,875
+If Commander La Forge has
+located a second survivor...
+
+581
+00:39:48,917 --> 00:39:52,375
+Lieutenant,
+hail the Romulan vessel.
+
+582
+00:39:52,417 --> 00:39:54,041
+Aye, sir.
+
+583
+00:39:55,834 --> 00:39:57,583
+They are ignoring our hail.
+
+584
+00:39:57,625 --> 00:39:59,375
+Repeat the hail,
+all channels.
+
+585
+00:39:59,417 --> 00:40:00,917
+You say they have
+no way of knowing
+
+586
+00:40:00,959 --> 00:40:03,000
+how accurate
+our sensors are?
+
+587
+00:40:04,458 --> 00:40:07,583
+Put on your best
+poker face, Number One.
+
+588
+00:40:07,625 --> 00:40:09,750
+Open a frequency.
+
+589
+00:40:09,792 --> 00:40:12,125
+Commander Tomalak.
+
+590
+00:40:12,166 --> 00:40:13,709
+It would appear our away team
+
+591
+00:40:13,750 --> 00:40:18,709
+has located a<i> second</i> man
+from your<i> one-man</i> ship.
+
+592
+00:40:18,750 --> 00:40:21,834
+We're preparing to beam them
+to the<i> Enterprise.</i>
+
+593
+00:40:21,875 --> 00:40:25,500
+After which, of course, we will
+return the survivor to you.
+
+594
+00:40:26,917 --> 00:40:28,792
+No acknowledgement, sir.
+
+595
+00:40:30,750 --> 00:40:35,417
+Commander, both our ships
+are ready to fight.
+
+596
+00:40:35,458 --> 00:40:38,667
+We have two extremely powerful
+
+597
+00:40:38,709 --> 00:40:42,458
+and destructive arsenals
+at our command.
+
+598
+00:40:42,500 --> 00:40:45,625
+Our next actions will
+have serious repercussions.
+
+599
+00:40:47,250 --> 00:40:49,417
+We have good reason to
+mistrust one another,
+
+600
+00:40:49,458 --> 00:40:53,417
+but we have even better reason
+to set those differences aside.
+
+601
+00:40:53,458 --> 00:40:58,166
+Now, of course, the question is:
+who will take the initiative?
+
+602
+00:40:59,959 --> 00:41:03,917
+Who will make the first
+gesture of trust?
+
+603
+00:41:10,583 --> 00:41:12,542
+The answer is, I will.
+
+604
+00:41:12,583 --> 00:41:16,458
+I must lower our shields
+to beam those men up
+
+605
+00:41:16,500 --> 00:41:18,709
+from the planet surface.
+
+606
+00:41:23,834 --> 00:41:26,375
+Once the shields are down
+
+607
+00:41:26,417 --> 00:41:29,792
+you will, of course, have
+the opportunity to fire on us.
+
+608
+00:41:29,834 --> 00:41:31,583
+If you do,
+you will destroy
+
+609
+00:41:31,625 --> 00:41:34,208
+not only the<i> Enterprise</i>
+and its crew,
+
+610
+00:41:34,250 --> 00:41:35,959
+but the cease-fire
+
+611
+00:41:36,000 --> 00:41:39,417
+that the Romulans
+and the Federation now enjoy.
+
+612
+00:41:42,542 --> 00:41:45,667
+Lieutenant, lower the shields.
+
+613
+00:41:46,834 --> 00:41:48,959
+Leave the hailing frequency
+open.
+
+614
+00:41:50,583 --> 00:41:53,125
+Yes, sir.
+
+615
+00:41:53,166 --> 00:41:55,417
+WORF:
+Shields down.
+
+616
+00:41:55,458 --> 00:41:57,959
+Mr. O'Brien,
+transport Commander La Forge
+
+617
+00:41:58,000 --> 00:41:59,625
+and the Romulan directly
+to the bridge.
+
+618
+00:41:59,667 --> 00:42:02,000
+O'BRIEN:
+Aye, sir. Energizing.
+
+619
+00:42:08,375 --> 00:42:09,792
+Security team
+to the bridge.
+
+620
+00:42:09,834 --> 00:42:12,125
+Belay that order,
+Lieutenant. Shields up.
+
+621
+00:42:16,083 --> 00:42:19,542
+No one is gonna harm you.
+
+622
+00:42:19,583 --> 00:42:22,583
+You have<i> my</i> word on that.
+
+623
+00:42:25,333 --> 00:42:27,834
+Well, Commander?
+
+624
+00:42:30,208 --> 00:42:33,834
+If he has been
+in any way mistreated...
+
+625
+00:42:37,583 --> 00:42:41,125
+I have given them
+no information, Commander,
+
+626
+00:42:41,166 --> 00:42:44,500
+but I have not
+been mistreated.
+
+627
+00:42:44,542 --> 00:42:50,333
+In fact, this human
+saved my life.
+
+628
+00:42:51,333 --> 00:42:54,792
+Tomalak, how is it possible
+
+629
+00:42:54,834 --> 00:42:56,959
+that you didn't know
+of the second Romulan
+
+630
+00:42:57,000 --> 00:43:00,041
+on Galorndon Core?
+
+631
+00:43:00,083 --> 00:43:03,250
+A simple misunderstaing,
+Captain Picard.
+
+632
+00:43:03,291 --> 00:43:07,917
+I was obviously misinformed
+as to the size of the craft.
+
+633
+00:43:07,959 --> 00:43:11,041
+I assure you,
+I intended no deception.
+
+634
+00:43:11,083 --> 00:43:13,542
+Of course not.
+
+635
+00:43:13,583 --> 00:43:16,250
+You doubt my good faith?
+
+636
+00:43:16,291 --> 00:43:18,500
+Let's just say my faith
+would be strengthened
+
+637
+00:43:18,542 --> 00:43:20,333
+by a gesture from you--
+
+638
+00:43:20,375 --> 00:43:23,333
+such as powering down
+your disruptors.
+
+639
+00:43:27,083 --> 00:43:28,917
+Disruptors powering down.
+
+640
+00:43:28,959 --> 00:43:30,375
+Thank you.
+
+641
+00:43:30,417 --> 00:43:33,792
+Cancel red alert,
+Lieutenant.
+
+642
+00:43:33,834 --> 00:43:36,125
+Commander, we shall
+return your officer
+
+643
+00:43:36,166 --> 00:43:38,208
+and escort your ship
+to the Neutral Zone.
+
+644
+00:43:38,250 --> 00:43:40,542
+That is acceptable.
+
+645
+00:43:43,500 --> 00:43:46,333
+It's good to have
+you back, Commander.
+
+646
+00:43:46,375 --> 00:43:47,917
+It's good to be back, sir.
+
+647
+00:43:47,959 --> 00:43:50,125
+Actually, I have
+Centurion Bochra
+
+648
+00:43:50,166 --> 00:43:51,667
+to thank for it.
+
+649
+00:43:52,959 --> 00:43:54,166
+Indeed.
+
+650
+00:43:58,750 --> 00:44:02,917
+Commander La Forge
+<i>and</i> Lieutenant Worf,
+
+651
+00:44:02,959 --> 00:44:05,959
+escort our guest to
+Transporter Room One.
+
+652
+00:44:06,000 --> 00:44:08,625
+Yes, sir.
+
+653
+00:44:08,667 --> 00:44:10,083
+Come on.
+
+654
+00:44:13,583 --> 00:44:14,917
+Close call.
+
+655
+00:44:14,959 --> 00:44:17,709
+Too close, Number One.
+
+656
+00:44:17,750 --> 00:44:20,959
+Brinkmanship is
+a dangerous game.

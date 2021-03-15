@@ -1,0 +1,3936 @@
+1
+00:00:01,458 --> 00:00:05,458
+<i>Captain's Log,</i>
+<i>Stardate 42402.7.</i>
+
+2
+00:00:05,500 --> 00:00:08,250
+<i>We are traveling</i>
+<i>in the Omega Sagitta system</i>
+
+3
+00:00:08,291 --> 00:00:10,458
+<i>traversing</i>
+<i>between the twin planets</i>
+
+4
+00:00:10,500 --> 00:00:12,709
+<i>that form the Coalition</i>
+<i>of Madena.</i>
+
+5
+00:00:12,750 --> 00:00:15,667
+<i>Both worlds are populated</i>
+<i>by a humanoid race</i>
+
+6
+00:00:15,709 --> 00:00:18,542
+<i>which colonized the planets</i>
+<i>two centuries ago</i>
+
+7
+00:00:18,583 --> 00:00:20,041
+<i>and which now coexist</i>
+
+8
+00:00:20,083 --> 00:00:23,375
+<i>under a precarious</i>
+<i>but successful treaty.</i>
+
+9
+00:00:23,417 --> 00:00:27,166
+Unidentified vessel
+approaching.
+
+10
+00:00:32,417 --> 00:00:34,250
+DATA:
+Sensor readings
+show it to be
+
+11
+00:00:34,291 --> 00:00:35,959
+a small Class 9 vessel.
+
+12
+00:00:36,000 --> 00:00:38,917
+Probably an interplanetary
+cargo ship.
+
+13
+00:00:38,959 --> 00:00:41,667
+One life sign aboard, sir.
+
+14
+00:00:41,709 --> 00:00:44,750
+WORF:
+It appears
+to be humanoid.
+
+15
+00:00:44,792 --> 00:00:46,834
+I have its call sign now, sir.
+
+16
+00:00:46,875 --> 00:00:48,000
+WORF:
+Confirmed.
+
+17
+00:00:48,041 --> 00:00:50,709
+Armed with lasers only.
+
+18
+00:00:50,750 --> 00:00:52,625
+Its cargo holds are empty.
+
+19
+00:00:52,667 --> 00:00:55,959
+The readout shows its guidance
+system is malfunctioning.
+
+20
+00:00:56,000 --> 00:00:59,583
+The pilot is attempting
+to hold course manually.
+
+21
+00:00:59,625 --> 00:01:00,750
+I recommend
+we set the<i> Enterprise</i>
+
+22
+00:01:00,792 --> 00:01:02,125
+on an intercept course
+
+23
+00:01:02,166 --> 00:01:03,959
+in case he needs
+emergency assistance.
+
+24
+00:01:04,000 --> 00:01:05,792
+Make it so, Mr. Crusher.
+
+25
+00:01:25,834 --> 00:01:28,125
+We're in position now,
+Captain.
+
+26
+00:01:28,166 --> 00:01:30,291
+Open hailing
+frequencies.
+
+27
+00:01:30,333 --> 00:01:32,000
+Hailing frequencies open.
+
+28
+00:01:32,041 --> 00:01:33,583
+On viewer.
+
+29
+00:01:33,625 --> 00:01:35,417
+This is the USS<i> Enterprise</i>
+
+30
+00:01:35,458 --> 00:01:37,000
+Captain Jean-Luc Picard.
+
+31
+00:01:37,041 --> 00:01:39,208
+And this is the Cargo Carrier
+<i>Erstwhile.</i>
+
+32
+00:01:39,250 --> 00:01:41,250
+Captain Okona
+at your service, sir.
+
+33
+00:01:41,291 --> 00:01:43,333
+There's no need
+for your phasers, Captain.
+
+34
+00:01:43,375 --> 00:01:46,083
+I'm harmless
+and not quite yet ready
+
+35
+00:01:46,125 --> 00:01:47,917
+for a mercy killing.
+
+36
+00:01:47,959 --> 00:01:49,458
+You were never considered
+a danger, Captain.
+
+37
+00:01:49,500 --> 00:01:51,083
+Oh, that's a shame.
+
+38
+00:01:51,125 --> 00:01:54,792
+I can remember when I was
+at least considered a risk.
+
+39
+00:01:56,208 --> 00:01:58,166
+I'm the owner and operator
+of this craft
+
+40
+00:01:58,208 --> 00:02:00,959
+and since we both know
+that you've already scanned it
+
+41
+00:02:01,000 --> 00:02:04,625
+you know I'm alone and empty,
+which is truly a rare occasion
+
+42
+00:02:04,667 --> 00:02:07,750
+for a man
+of my charm and talent.
+
+43
+00:02:07,792 --> 00:02:09,375
+Mute main viewer.
+
+44
+00:02:09,417 --> 00:02:10,458
+Counselor?
+
+45
+00:02:10,500 --> 00:02:12,208
+His emotions
+suggest
+
+46
+00:02:12,250 --> 00:02:16,917
+he's mischievous, irreverent,
+and somewhat brazen.
+
+47
+00:02:16,959 --> 00:02:21,625
+The word that seems
+to best describe him is "rogue."
+
+48
+00:02:21,667 --> 00:02:24,166
+Rogue?
+
+49
+00:02:24,208 --> 00:02:28,792
+Ah, cad, knave, rake, rascal,
+villain, wild elephant...
+
+50
+00:02:28,834 --> 00:02:32,959
+Yes, Data, but there is
+no malevolence or ill will.
+
+51
+00:02:34,500 --> 00:02:36,583
+Audio on.
+Do you have a burnout
+
+52
+00:02:36,625 --> 00:02:37,959
+in your guidance system,
+Captain?
+
+53
+00:02:38,000 --> 00:02:39,625
+Whoa.
+
+54
+00:02:39,667 --> 00:02:41,375
+Since you're able
+to diagnose my problems
+
+55
+00:02:41,417 --> 00:02:43,333
+how about helping me fix them?
+
+56
+00:02:43,375 --> 00:02:48,458
+Captain, we can easily repair
+the type of system he uses.
+
+57
+00:02:48,500 --> 00:02:50,208
+We can accommodate
+you, Captain.
+
+58
+00:02:50,250 --> 00:02:51,750
+This is the First Officer, sir.
+
+59
+00:02:51,792 --> 00:02:53,625
+If you prepare
+to shut down your engines
+
+60
+00:02:53,667 --> 00:02:55,667
+we can lock on the tractor
+and beam you over here.
+
+61
+00:02:55,709 --> 00:02:59,000
+Sir, recommend limited access
+to our ship.
+
+62
+00:02:59,041 --> 00:03:00,291
+Agreed.
+
+63
+00:03:00,333 --> 00:03:01,625
+Data, lock on the tractor beam.
+
+64
+00:03:01,667 --> 00:03:03,500
+Transporter Chief,
+prepare to beam him aboard.
+
+65
+00:03:03,542 --> 00:03:05,208
+Ready on your command, sir.
+
+66
+00:03:05,250 --> 00:03:07,917
+OKONA:
+Excuse me, Commander.
+
+67
+00:03:07,959 --> 00:03:09,917
+Is that a woman's voice I hear?
+
+68
+00:03:12,291 --> 00:03:15,333
+Yes. Now please
+follow Commander
+Riker's instructions
+
+69
+00:03:15,375 --> 00:03:17,583
+so our ship can get back
+to its normal routine.
+
+70
+00:03:17,625 --> 00:03:19,417
+Whatever you say, Captain.
+
+71
+00:03:19,458 --> 00:03:21,458
+Something funny?
+
+72
+00:03:21,500 --> 00:03:25,166
+Well, the unexpected<i> is</i>
+our normal routine.
+
+73
+00:03:45,583 --> 00:03:50,166
+<i>Space, the final frontier.</i>
+
+74
+00:03:50,208 --> 00:03:54,250
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+75
+00:03:54,291 --> 00:03:56,083
+<i>Its continuing mission--</i>
+
+76
+00:03:56,125 --> 00:04:00,125
+<i>to explore</i>
+<i>strange new worlds</i>
+
+77
+00:04:00,166 --> 00:04:04,667
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+78
+00:04:04,709 --> 00:04:09,166
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+79
+00:05:10,041 --> 00:05:12,125
+Hold it steady, Wesley.
+
+80
+00:05:12,166 --> 00:05:14,291
+Ready to link up on my command.
+
+81
+00:05:14,333 --> 00:05:15,500
+Aye, sir.
+
+82
+00:05:15,542 --> 00:05:17,291
+Easy.
+
+83
+00:05:17,333 --> 00:05:18,875
+Easy.
+
+84
+00:05:23,667 --> 00:05:25,291
+Engage.
+
+85
+00:05:29,375 --> 00:05:31,291
+Captain Okona,
+shut down your engines.
+
+86
+00:05:31,333 --> 00:05:32,875
+Understood.
+
+87
+00:05:32,917 --> 00:05:34,625
+Transporter Room, prepare
+for the beaming operation.
+
+88
+00:05:34,667 --> 00:05:35,709
+We're on our way.
+
+89
+00:05:35,750 --> 00:05:37,917
+Wesley, Data,
+let's go.
+
+90
+00:05:53,375 --> 00:05:55,542
+Your weapons, please.
+
+91
+00:05:55,583 --> 00:05:59,041
+A Klingon security officer.
+
+92
+00:05:59,083 --> 00:06:00,709
+Yes.
+
+93
+00:06:00,750 --> 00:06:03,041
+No wars available, eh?
+
+94
+00:06:12,792 --> 00:06:15,625
+It's more a piece of jewelry
+than a weapon.
+
+95
+00:06:15,667 --> 00:06:17,125
+A remembrance.
+
+96
+00:06:21,750 --> 00:06:24,333
+Welcome aboard, Captain Okona.
+I'm Commander Riker.
+
+97
+00:06:24,375 --> 00:06:25,959
+If you'll turn over
+the inoperative part
+
+98
+00:06:26,000 --> 00:06:27,917
+to Commander Data,
+we can begin repairs.
+
+99
+00:06:27,959 --> 00:06:30,375
+I'd be most happy to do the work
+myself, Commander.
+
+100
+00:06:30,417 --> 00:06:32,500
+I'm sort of the hands-on type.
+
+101
+00:06:32,542 --> 00:06:35,792
+I think you'd find the tools
+we use rather unusual, sir.
+
+102
+00:06:35,834 --> 00:06:37,500
+I can believe that.
+
+103
+00:06:37,542 --> 00:06:38,959
+May I at least watch?
+
+104
+00:06:39,000 --> 00:06:41,041
+That can be arranged.
+
+105
+00:06:41,083 --> 00:06:42,417
+Good then.
+
+106
+00:06:42,458 --> 00:06:45,125
+Commander, I leave this
+in your capable hands.
+
+107
+00:06:45,166 --> 00:06:47,166
+Sir, this is
+Commander Data.
+
+108
+00:06:47,208 --> 00:06:48,667
+I'm just an acting ensign.
+
+109
+00:06:48,709 --> 00:06:51,375
+Well, acting ensigns have names,
+don't they?
+
+110
+00:06:51,417 --> 00:06:53,333
+Wesley.
+
+111
+00:06:53,375 --> 00:06:54,333
+Wesley Crusher.
+
+112
+00:06:54,375 --> 00:06:55,834
+Nice to meet you
+
+113
+00:06:55,875 --> 00:06:57,500
+Acting Ensign
+Wesley, Wesley Crusher.
+
+114
+00:07:00,500 --> 00:07:04,041
+And thank you
+for beaming me here
+
+115
+00:07:04,083 --> 00:07:08,709
+and enabling me to see
+a truly beautiful woman.
+
+116
+00:07:08,750 --> 00:07:10,709
+You have the
+majestic carriage
+and loveliness
+
+117
+00:07:10,750 --> 00:07:14,125
+that could surely
+be traced back to
+the noblest families.
+
+118
+00:07:15,959 --> 00:07:18,959
+Well, I'm sure
+you've said that
+to many ladies before.
+
+119
+00:07:19,000 --> 00:07:21,500
+And it was no more true
+then, than it is now.
+
+120
+00:07:21,542 --> 00:07:24,959
+But it's how I say it
+that's really important.
+
+121
+00:07:25,000 --> 00:07:30,500
+The warmth, the attraction
+that I have for you
+
+122
+00:07:30,542 --> 00:07:34,250
+the attraction that we share.
+
+123
+00:07:36,917 --> 00:07:40,834
+Mr. Okona appears
+to have excellent vision
+
+124
+00:07:40,875 --> 00:07:43,333
+as well as a healthy libido.
+
+125
+00:07:44,625 --> 00:07:47,959
+Captain Okona, if you'll
+follow Commander Data
+
+126
+00:07:48,000 --> 00:07:49,834
+you can get started right away.
+
+127
+00:07:58,750 --> 00:08:01,792
+Now, that's sex appeal.
+
+128
+00:08:01,834 --> 00:08:03,875
+Sexual attraction
+in this context
+
+129
+00:08:03,917 --> 00:08:05,709
+is not a part
+of my programming.
+
+130
+00:08:05,750 --> 00:08:09,208
+I am an android.
+
+131
+00:08:09,250 --> 00:08:13,792
+Well then, have you seen any
+good-looking computers lately?
+
+132
+00:08:17,125 --> 00:08:18,208
+That's a joke.
+
+133
+00:08:18,250 --> 00:08:19,917
+It's funny.
+
+134
+00:08:19,959 --> 00:08:21,125
+Oh.
+
+135
+00:08:21,166 --> 00:08:22,458
+Of course it is.
+
+136
+00:08:22,500 --> 00:08:25,417
+(<i> forced laughter</i> )
+
+137
+00:08:31,667 --> 00:08:33,750
+Will that do
+what the original did?
+
+138
+00:08:33,792 --> 00:08:36,166
+Sure will,
+and better.
+
+139
+00:08:36,208 --> 00:08:37,375
+Let me show you.
+
+140
+00:08:37,417 --> 00:08:38,834
+On your old one here
+
+141
+00:08:38,875 --> 00:08:41,417
+the zelebium contacts
+wore down and then fused.
+
+142
+00:08:41,458 --> 00:08:42,583
+Now, what I've done
+
+143
+00:08:42,625 --> 00:08:45,834
+is replace them
+with tricellite.
+
+144
+00:08:45,875 --> 00:08:47,875
+Tricellite isn't available
+in this system.
+
+145
+00:08:47,917 --> 00:08:49,208
+If I ever had
+to replace it...
+
+146
+00:08:49,250 --> 00:08:50,417
+Don't worry, you won't.
+
+147
+00:08:50,458 --> 00:08:52,458
+Your ship will never
+outlast this part.
+
+148
+00:08:52,500 --> 00:08:54,166
+Because of the part
+or the way I fly my ship?
+
+149
+00:08:54,208 --> 00:08:55,792
+(<i> laughing</i> )
+
+150
+00:08:55,834 --> 00:08:57,458
+Well, this part,
+<i>but</i> the stress test
+
+151
+00:08:57,500 --> 00:08:58,875
+did show that you tend
+to push your ship
+
+152
+00:08:58,917 --> 00:09:00,959
+a little beyond
+its design capabilities.
+
+153
+00:09:01,000 --> 00:09:05,750
+(<i> chuckling</i> ):
+Blame the pattern of my life,
+Lieutenant La Forge.
+
+154
+00:09:05,792 --> 00:09:08,250
+Because it relegates me
+to cargo carrying
+
+155
+00:09:08,291 --> 00:09:10,875
+rather than the grand
+explorations you enjoy
+
+156
+00:09:10,917 --> 00:09:14,875
+I am forced to add a measure
+of flamboyancy and zest
+
+157
+00:09:14,917 --> 00:09:17,792
+to the doldrum
+of my existence.
+
+158
+00:09:23,375 --> 00:09:24,875
+Have you ever been cold?
+
+159
+00:09:24,917 --> 00:09:26,208
+No.
+
+160
+00:09:26,250 --> 00:09:28,166
+Warm, then?
+
+161
+00:09:28,208 --> 00:09:29,542
+No.
+
+162
+00:09:29,583 --> 00:09:31,583
+What about drunk?
+Ever do that?
+
+163
+00:09:31,625 --> 00:09:32,834
+From alcohol?
+
+164
+00:09:32,875 --> 00:09:34,667
+That is not possible
+for me, sir.
+
+165
+00:09:34,709 --> 00:09:36,291
+Pity.
+
+166
+00:09:36,333 --> 00:09:37,875
+What about love?
+
+167
+00:09:37,917 --> 00:09:40,291
+The act or the emotion?
+
+168
+00:09:40,333 --> 00:09:42,667
+They're both the same.
+
+169
+00:09:42,709 --> 00:09:46,291
+I believe that statement
+to be inaccurate, sir.
+
+170
+00:09:46,333 --> 00:09:48,583
+Maybe.
+
+171
+00:09:48,625 --> 00:09:52,667
+Life is like loading
+twice your cargo weight
+
+172
+00:09:52,709 --> 00:09:54,333
+onto your spacecraft.
+
+173
+00:09:54,375 --> 00:09:55,959
+If it's canaries
+
+174
+00:09:56,000 --> 00:10:00,208
+and you can keep half of them
+flying all of the time
+
+175
+00:10:00,250 --> 00:10:02,166
+you're all right.
+
+176
+00:10:02,208 --> 00:10:05,250
+I doubt that statement is
+entirely accurate either, sir.
+
+177
+00:10:05,291 --> 00:10:08,333
+Accurate?
+That was a joke
+I just told you.
+
+178
+00:10:08,375 --> 00:10:11,041
+I do not understand.
+
+179
+00:10:11,083 --> 00:10:12,750
+You don't know
+what a joke is?
+
+180
+00:10:12,792 --> 00:10:14,166
+Of course I do.
+
+181
+00:10:14,208 --> 00:10:17,125
+It is a witticism,
+a gag, a<i> bon mot</i>
+
+182
+00:10:17,166 --> 00:10:19,667
+a fluctuation of words
+concluding with a trick ending.
+
+183
+00:10:19,709 --> 00:10:20,959
+That's the dictionary meaning.
+
+184
+00:10:21,000 --> 00:10:23,250
+I'm talking about humor, fun.
+
+185
+00:10:23,291 --> 00:10:24,875
+Do you know what funny is?
+
+186
+00:10:28,417 --> 00:10:29,834
+Where is 806?
+
+187
+00:10:29,875 --> 00:10:31,792
+Right over there, sir.
+
+188
+00:10:31,834 --> 00:10:33,375
+Why?
+
+189
+00:10:33,417 --> 00:10:38,458
+You probably wouldn't
+understand that, either.
+
+190
+00:10:45,834 --> 00:10:47,792
+Hello there.
+
+191
+00:11:09,041 --> 00:11:10,458
+Status on the repair?
+
+192
+00:11:10,500 --> 00:11:13,250
+Working on it.
+
+193
+00:11:13,291 --> 00:11:16,291
+Commander, what do you
+think of Captain Okona?
+
+194
+00:11:16,333 --> 00:11:19,834
+Well, Okona is
+an interesting man, certainly.
+
+195
+00:11:19,875 --> 00:11:21,583
+We've seen
+how he handles his ship.
+
+196
+00:11:21,625 --> 00:11:23,750
+Apparently, he knows how
+to handle people as well.
+
+197
+00:11:23,792 --> 00:11:26,250
+Then, why does he work alone?
+
+198
+00:11:26,291 --> 00:11:29,333
+He's a man who lives his life
+by his own rules.
+
+199
+00:11:29,375 --> 00:11:30,917
+He does what he does by choice--
+
+200
+00:11:30,959 --> 00:11:33,583
+by his choice.
+
+201
+00:11:33,625 --> 00:11:35,667
+Someday, you'll make yours.
+
+202
+00:11:36,625 --> 00:11:38,458
+I already have.
+
+203
+00:11:45,792 --> 00:11:48,083
+So, you agree with Okona
+
+204
+00:11:48,125 --> 00:11:49,125
+that I am missing
+
+205
+00:11:49,166 --> 00:11:50,667
+a very important
+human factor.
+
+206
+00:11:50,709 --> 00:11:52,083
+I never said that.
+
+207
+00:11:52,125 --> 00:11:53,667
+I simply said
+
+208
+00:11:53,709 --> 00:11:55,375
+that I've never
+seen you laugh.
+
+209
+00:11:55,417 --> 00:12:00,375
+I am capable of that function
+when it is expected of me.
+
+210
+00:12:00,417 --> 00:12:04,792
+Data, do you even
+know what a joke is?
+
+211
+00:12:04,834 --> 00:12:06,542
+Of course I do.
+
+212
+00:12:06,583 --> 00:12:09,583
+It is a witticism, a gag,
+a<i> bon mot,</i> a fluctuation...
+
+213
+00:12:09,625 --> 00:12:10,625
+Stop.
+
+214
+00:12:10,667 --> 00:12:12,834
+Look, it's just you and I here.
+
+215
+00:12:12,875 --> 00:12:15,709
+We're talking, we're having
+an intimate conversation.
+
+216
+00:12:15,750 --> 00:12:17,083
+Why?
+
+217
+00:12:17,125 --> 00:12:20,500
+Because you're a droid
+and I'm a noid.
+
+218
+00:12:20,542 --> 00:12:21,583
+But why?
+
+219
+00:12:21,625 --> 00:12:23,000
+Because that's what I am.
+
+220
+00:12:23,041 --> 00:12:25,917
+Have I said something
+to offend you?
+
+221
+00:12:25,959 --> 00:12:27,333
+No.
+
+222
+00:12:27,375 --> 00:12:29,083
+Then why are you annoyed?
+
+223
+00:12:29,125 --> 00:12:32,250
+Because you're a droid
+
+224
+00:12:32,291 --> 00:12:36,917
+and I'm<i> a noid.</i>
+
+225
+00:12:36,959 --> 00:12:38,834
+Humanoid.
+
+226
+00:12:38,875 --> 00:12:39,834
+Yes.
+
+227
+00:12:39,875 --> 00:12:41,083
+You told a joke?
+Yes.
+
+228
+00:12:41,125 --> 00:12:42,125
+I am not laughing.
+
+229
+00:12:42,166 --> 00:12:43,583
+Yes!
+
+230
+00:12:43,625 --> 00:12:47,083
+Perhaps the joke was not funny.
+
+231
+00:12:47,125 --> 00:12:48,709
+No, the joke was funny.
+
+232
+00:12:48,750 --> 00:12:50,208
+It's you, Data.
+
+233
+00:12:51,125 --> 00:12:52,166
+Are you sure?
+
+234
+00:12:52,208 --> 00:12:53,542
+Yes.
+
+235
+00:12:53,583 --> 00:12:55,083
+I agree.
+
+236
+00:12:55,125 --> 00:12:56,625
+What do I do?
+
+237
+00:12:56,667 --> 00:12:58,834
+Well, under normal
+circumstances
+
+238
+00:12:58,875 --> 00:13:00,959
+I'd say seek
+a higher power.
+
+239
+00:13:01,000 --> 00:13:02,125
+But, in your case
+
+240
+00:13:02,166 --> 00:13:04,959
+probably a smarter
+computer's in order.
+
+241
+00:13:11,125 --> 00:13:15,000
+Computer, I wish to know
+more about humor.
+
+242
+00:13:15,041 --> 00:13:18,041
+Why certain combinations
+of words and actions
+
+243
+00:13:18,083 --> 00:13:19,834
+make humans laugh.
+
+244
+00:13:19,875 --> 00:13:22,792
+Source material
+on that subject is extensive.
+
+245
+00:13:22,834 --> 00:13:24,333
+Please specify.
+
+246
+00:13:24,375 --> 00:13:29,083
+Animated presentation,
+humanoid, interaction required.
+
+247
+00:13:29,125 --> 00:13:32,583
+Physical humor, cerebral,
+or general raconteur?
+
+248
+00:13:32,625 --> 00:13:37,875
+Of all performers available
+who is considered funniest?
+
+249
+00:13:37,917 --> 00:13:39,917
+23rd century, Stano Riga.
+
+250
+00:13:39,959 --> 00:13:43,166
+Specialized in jokes
+about quantum mathematics.
+
+251
+00:13:43,208 --> 00:13:45,959
+No, too esoteric.
+
+252
+00:13:46,000 --> 00:13:47,417
+More generic.
+
+253
+00:13:47,458 --> 00:13:48,792
+Accessing.
+
+254
+00:13:53,709 --> 00:13:54,875
+That one.
+
+255
+00:13:54,917 --> 00:13:57,500
+RW 96321.
+
+256
+00:13:57,542 --> 00:13:58,667
+20th century.
+
+257
+00:13:58,709 --> 00:14:00,125
+Program complete.
+
+258
+00:14:00,166 --> 00:14:01,667
+You may enter.
+
+259
+00:14:14,917 --> 00:14:16,291
+Thank you,
+ladies and gentlemen.
+
+260
+00:14:16,333 --> 00:14:18,375
+Thank you very much.
+You've been great.
+
+261
+00:14:18,417 --> 00:14:20,333
+As a matter of fact, I'd like
+to take you all home with me.
+
+262
+00:14:20,375 --> 00:14:22,625
+Unfortunately, I took
+the last audience home
+
+263
+00:14:22,667 --> 00:14:23,667
+and there's no more room.
+
+264
+00:14:23,709 --> 00:14:24,625
+Ba-boom.
+
+265
+00:14:24,667 --> 00:14:25,625
+But thank you, really.
+
+266
+00:14:25,667 --> 00:14:26,959
+Thank you.
+
+267
+00:14:27,000 --> 00:14:28,375
+Hey, and thank you
+for bringing me here.
+
+268
+00:14:28,417 --> 00:14:29,709
+What's up?
+
+269
+00:14:29,750 --> 00:14:32,875
+Mr. Comic, I wish to know
+what is funny.
+
+270
+00:14:32,917 --> 00:14:34,875
+Funny? I don't know.
+
+271
+00:14:34,917 --> 00:14:37,208
+It's a matter of opinion
+I guess, uh...
+
+272
+00:14:37,250 --> 00:14:39,291
+Tip O'Neill in a dress.
+
+273
+00:14:39,333 --> 00:14:41,458
+Some people say words
+that end with a "k"
+
+274
+00:14:41,500 --> 00:14:43,125
+are funny.
+
+275
+00:14:43,166 --> 00:14:44,709
+A briefcase
+that looks like a fish--
+
+276
+00:14:44,750 --> 00:14:46,625
+personally,
+I find that hysterical.
+
+277
+00:14:46,667 --> 00:14:51,500
+Tip O'Neill-- accessing.
+
+278
+00:14:51,542 --> 00:14:55,959
+20th century male, politician,
+overweight.
+
+279
+00:14:56,000 --> 00:14:57,625
+Wearing female clothing.
+
+280
+00:14:57,667 --> 00:15:00,709
+Carrying a valise
+that looks like a fish.
+
+281
+00:15:00,750 --> 00:15:06,125
+So, the juxtaposition of gender
+and an amphibian briefcase
+
+282
+00:15:06,166 --> 00:15:07,750
+is funny.
+
+283
+00:15:07,792 --> 00:15:11,583
+Well, I think whatever
+makes you laugh is funny.
+
+284
+00:15:14,709 --> 00:15:17,709
+Nothing makes me laugh.
+I wish to learn.
+
+285
+00:15:17,750 --> 00:15:20,500
+Well, how much time
+do we have here?
+
+286
+00:15:20,542 --> 00:15:21,792
+Unlimited.
+
+287
+00:15:21,834 --> 00:15:23,125
+We're going to need it.
+
+288
+00:15:23,166 --> 00:15:25,959
+Because you, pal,
+are a tough room.
+
+289
+00:15:26,000 --> 00:15:27,959
+Tough room?
+
+290
+00:15:28,000 --> 00:15:28,959
+Ah.
+
+291
+00:15:29,000 --> 00:15:30,291
+A colloquialism meaning
+
+292
+00:15:30,333 --> 00:15:33,041
+a severe, rigid,
+close-minded audience.
+
+293
+00:15:33,083 --> 00:15:34,250
+I understand.
+
+294
+00:15:34,291 --> 00:15:36,625
+I will attempt to be
+an easy room.
+
+295
+00:15:36,667 --> 00:15:38,458
+Show me what is funny.
+
+296
+00:15:38,500 --> 00:15:40,458
+All right, you're on.
+
+297
+00:15:40,500 --> 00:15:41,750
+Uh...
+
+298
+00:15:41,792 --> 00:15:44,834
+Jerry Lewis.
+Jerry Lewis.
+
+299
+00:15:46,417 --> 00:15:48,709
+(<i> imitating Jerry Lewis):</i>
+Haaa!
+
+300
+00:15:48,750 --> 00:15:50,208
+Ooh!
+
+301
+00:15:50,250 --> 00:15:52,125
+I'd be short for a moment
+if I could just...
+
+302
+00:15:52,166 --> 00:15:53,125
+Say, I...
+
+303
+00:15:53,166 --> 00:15:55,667
+Oh! Ooh...
+
+304
+00:15:55,709 --> 00:15:57,000
+Mr. Robot, would you
+
+305
+00:15:57,041 --> 00:15:58,041
+like to come
+up and try...
+
+306
+00:15:58,083 --> 00:15:59,000
+I am an android.
+
+307
+00:15:59,041 --> 00:16:00,250
+Oh, I'm terribly
+sorry.
+
+308
+00:16:00,291 --> 00:16:01,834
+Mr. Android, here, here, teeth.
+
+309
+00:16:01,875 --> 00:16:02,917
+Put them in your mouth.
+
+310
+00:16:02,959 --> 00:16:04,125
+Come up, mister...
+
+311
+00:16:04,166 --> 00:16:05,125
+Where did he go?
+
+312
+00:16:05,166 --> 00:16:07,000
+Where did Mr....?
+
+313
+00:16:07,041 --> 00:16:10,166
+Here, try, if you would...
+
+314
+00:16:10,208 --> 00:16:11,750
+You do "haaa."
+
+315
+00:16:11,792 --> 00:16:13,750
+Haaa.
+No, "ha-hiyee."
+
+316
+00:16:13,792 --> 00:16:15,083
+Ha-hiyee.
+Eeeh!
+
+317
+00:16:15,125 --> 00:16:18,291
+Eeeh!
+
+318
+00:16:18,333 --> 00:16:19,375
+You go "hee!"
+Hee!
+
+319
+00:16:19,417 --> 00:16:20,875
+Ya!
+
+320
+00:16:23,458 --> 00:16:24,792
+That is consider...
+
+321
+00:16:26,583 --> 00:16:28,834
+That is considered
+to be funny?
+
+322
+00:16:28,875 --> 00:16:31,333
+Actually, it brought
+the house down at Teaneck.
+
+323
+00:16:31,375 --> 00:16:33,333
+Ah, a word that
+ends in a "k."
+
+324
+00:16:33,375 --> 00:16:36,291
+So, if you put funny
+teeth in your mouth
+
+325
+00:16:36,333 --> 00:16:38,250
+and jump around
+like an idiot
+
+326
+00:16:38,291 --> 00:16:40,792
+that is considered funny?
+
+327
+00:16:40,834 --> 00:16:42,250
+I'm sorry, I didn't
+get your name.
+
+328
+00:16:42,291 --> 00:16:43,667
+Data.
+
+329
+00:16:43,709 --> 00:16:46,917
+Data, look, did you ever
+consider, uh... juggling?
+
+330
+00:16:46,959 --> 00:16:49,000
+Weird birdcalls?
+Something like that?
+
+331
+00:16:49,041 --> 00:16:50,667
+That does not apply.
+
+332
+00:16:50,709 --> 00:16:53,709
+I simply want to know
+what is funny.
+
+333
+00:16:53,750 --> 00:16:57,291
+I want to involve myself
+in other people's laughter.
+
+334
+00:16:57,333 --> 00:16:59,291
+I wish to join in.
+
+335
+00:16:59,333 --> 00:17:01,000
+Well, I think that's nice.
+
+336
+00:17:01,041 --> 00:17:02,625
+You know, let's put
+the physical stuff
+
+337
+00:17:02,667 --> 00:17:03,834
+aside for awhile, all right?
+
+338
+00:17:03,875 --> 00:17:05,542
+And we'll do uh, uh...
+some jokes.
+
+339
+00:17:05,583 --> 00:17:06,750
+You see, that's not my forte
+
+340
+00:17:06,792 --> 00:17:07,917
+but I think that would
+work good for you.
+
+341
+00:17:07,959 --> 00:17:09,417
+If you would just have a seat
+
+342
+00:17:09,458 --> 00:17:11,500
+and we'll try some jokes.
+
+343
+00:17:11,542 --> 00:17:12,709
+Like, uh, I don't know--
+
+344
+00:17:12,750 --> 00:17:14,125
+we'll start
+with the classics.
+
+345
+00:17:14,166 --> 00:17:16,125
+See, there's
+this traveling
+salesman, now
+
+346
+00:17:16,166 --> 00:17:17,750
+and he's going down the road
+and his car breaks down.
+
+347
+00:17:17,792 --> 00:17:19,959
+Access faster.
+He comes upon this farmhouse...
+
+348
+00:17:20,000 --> 00:17:22,041
+(<i> speaking very fast</i> ):
+Now it's probably best
+when you do something like this
+
+349
+00:17:22,083 --> 00:17:24,125
+is using a little cigar
+because it's kind of a prop
+kind of thing...
+
+350
+00:17:24,166 --> 00:17:25,250
+Faster.
+
+351
+00:17:25,291 --> 00:17:26,709
+Move to maximum speed.
+
+352
+00:17:26,750 --> 00:17:30,250
+(<i> speaking</i>
+<i>at tape fast forward speed</i> )
+
+353
+00:17:39,417 --> 00:17:41,917
+A guy walks into
+the doctor's office.
+
+354
+00:17:41,959 --> 00:17:44,083
+The doctor tells him,
+"You need an operation."
+
+355
+00:17:44,125 --> 00:17:46,083
+The guy says, "I want
+a second opinion."
+
+356
+00:17:46,125 --> 00:17:47,875
+The doctor says, "Okay,
+you're ugly, too."
+
+357
+00:17:47,917 --> 00:17:49,375
+Ba-doom-boom.
+
+358
+00:17:51,000 --> 00:17:52,500
+Was I funny?
+
+359
+00:17:52,542 --> 00:17:54,291
+No.
+
+360
+00:18:01,542 --> 00:18:02,792
+Data...
+
+361
+00:18:02,834 --> 00:18:05,875
+you spoiled the joke.
+
+362
+00:18:05,917 --> 00:18:07,750
+It could have been
+your timing.
+
+363
+00:18:07,792 --> 00:18:09,792
+My timing is digital.
+
+364
+00:18:11,250 --> 00:18:12,750
+What?
+
+365
+00:18:13,792 --> 00:18:15,208
+That's funny.
+
+366
+00:18:15,250 --> 00:18:16,667
+Why?
+
+367
+00:18:16,709 --> 00:18:19,333
+It would take
+too long to explain.
+
+368
+00:18:19,375 --> 00:18:21,041
+Tell me another joke.
+
+369
+00:18:21,083 --> 00:18:25,583
+A monk, a clone and a Ferengi
+decided to go bowling together.
+
+370
+00:18:25,625 --> 00:18:28,750
+PICARD:
+Commander Data, report
+to the Main Bridge immediately.
+
+371
+00:18:29,709 --> 00:18:31,834
+I will be back.
+
+372
+00:18:34,041 --> 00:18:36,083
+Bring new jokes.
+
+373
+00:18:42,583 --> 00:18:46,041
+WORF:
+We have an "unidentified"
+at 12 mark 4.
+
+374
+00:18:48,583 --> 00:18:50,959
+No response to our inquiries.
+
+375
+00:18:51,000 --> 00:18:53,625
+Extend hailing frequencies,
+all languages, all channels.
+
+376
+00:18:53,667 --> 00:18:55,417
+Extending.
+
+377
+00:18:55,458 --> 00:18:58,417
+DATA:
+Sensors show it to be
+an interplanetary vessel, sir.
+
+378
+00:18:58,458 --> 00:19:01,750
+Class 7, crew complement 26.
+
+379
+00:19:01,792 --> 00:19:03,417
+WORF:
+Still no
+response.
+
+380
+00:19:24,709 --> 00:19:29,125
+Captain, they are now
+locking lasers on us.
+
+381
+00:19:29,166 --> 00:19:31,500
+Lasers?
+Yes, sir.
+
+382
+00:19:31,542 --> 00:19:34,083
+Lasers can't even penetrate
+our navigation shields.
+
+383
+00:19:34,125 --> 00:19:35,375
+Don't they know that?
+
+384
+00:19:35,417 --> 00:19:38,750
+Regulations do call
+for a yellow alert.
+
+385
+00:19:38,792 --> 00:19:41,417
+Hmm, very old regulation.
+
+386
+00:19:41,458 --> 00:19:43,417
+Well, make it so, Number One.
+
+387
+00:19:43,458 --> 00:19:45,375
+And reduce speed.
+
+388
+00:19:45,417 --> 00:19:47,750
+Drop main shields
+as well.
+
+389
+00:19:47,792 --> 00:19:49,959
+May I ask why, sir?
+
+390
+00:19:50,000 --> 00:19:53,625
+In case we decide to surrender
+to them, Number One.
+
+391
+00:19:56,709 --> 00:19:59,041
+(<i> disgruntled growl</i> )
+
+392
+00:20:07,000 --> 00:20:09,166
+Still no response to our hail,
+sir.
+
+393
+00:20:09,208 --> 00:20:10,250
+It is slowing
+
+394
+00:20:10,291 --> 00:20:12,709
+and holding its
+position, Captain.
+
+395
+00:20:12,750 --> 00:20:15,917
+Sir,<i> we</i> are now
+being hailed.
+
+396
+00:20:15,959 --> 00:20:18,000
+Viewer on.
+
+397
+00:20:20,250 --> 00:20:21,750
+Federation vessel
+
+398
+00:20:21,792 --> 00:20:24,083
+you have no rights
+in this solar system.
+
+399
+00:20:24,125 --> 00:20:26,083
+I am Debin of Planet Atlec
+
+400
+00:20:26,125 --> 00:20:30,375
+ordering you to heave to
+and prepare to be boarded.
+
+401
+00:20:30,417 --> 00:20:32,750
+Shades of
+<i>Gulliver's Travels.</i>
+
+402
+00:20:32,792 --> 00:20:34,375
+He actually meant it.
+
+403
+00:20:34,417 --> 00:20:35,542
+But he is right.
+
+404
+00:20:35,583 --> 00:20:39,333
+We are in their
+solar system.
+
+405
+00:20:39,375 --> 00:20:41,041
+Open a channel.
+
+406
+00:20:41,083 --> 00:20:43,542
+Open, sir.
+
+407
+00:20:43,583 --> 00:20:47,583
+I'm Captain Jean-Luc Picard
+of the USS<i> Enterprise.</i>
+
+408
+00:20:47,625 --> 00:20:50,542
+For what reason have you locked
+your weapons on us?
+
+409
+00:20:50,583 --> 00:20:52,792
+<i>Enterprise,</i> you are towing
+the spacecraft
+
+410
+00:20:52,834 --> 00:20:54,375
+of a known criminal.
+
+411
+00:20:55,959 --> 00:20:58,667
+He was in need
+of emergency repair.
+
+412
+00:20:58,709 --> 00:21:00,625
+It was our obligation to assist.
+
+413
+00:21:00,667 --> 00:21:03,542
+You have a man aboard
+by the name of Okona.
+
+414
+00:21:03,583 --> 00:21:05,375
+I want him.
+
+415
+00:21:05,417 --> 00:21:07,417
+On what authority?
+
+416
+00:21:07,458 --> 00:21:08,792
+He is guilty of crimes
+
+417
+00:21:08,834 --> 00:21:10,583
+committed on the planet Atlec.
+
+418
+00:21:10,625 --> 00:21:15,542
+I expect him to be turned over
+to my authority immediately.
+
+419
+00:21:15,583 --> 00:21:16,542
+Mute.
+
+420
+00:21:16,583 --> 00:21:19,417
+What do you think, Counselor?
+
+421
+00:21:19,458 --> 00:21:21,041
+He believes what he's saying.
+
+422
+00:21:21,083 --> 00:21:22,917
+His anger is genuine.
+
+423
+00:21:24,208 --> 00:21:26,333
+Open.
+
+424
+00:21:29,458 --> 00:21:31,625
+What crimes are
+you referring to?
+
+425
+00:21:31,667 --> 00:21:33,959
+That is neither important
+nor necessary.
+
+426
+00:21:34,000 --> 00:21:36,000
+I want Okona now!
+
+427
+00:21:36,041 --> 00:21:39,834
+Captain, we have another class 7
+armed spacecraft approaching
+
+428
+00:21:39,875 --> 00:21:41,375
+from the opposite sector.
+
+429
+00:21:41,417 --> 00:21:43,458
+Another ship from Atlec?
+
+430
+00:21:43,500 --> 00:21:46,166
+Similar in
+specifications
+and capabilities
+
+431
+00:21:46,208 --> 00:21:47,792
+but a variation
+in markings
+
+432
+00:21:47,834 --> 00:21:49,542
+and hailing language.
+
+433
+00:21:49,583 --> 00:21:51,458
+Debin, hold this position.
+
+434
+00:21:51,500 --> 00:21:52,792
+Viewer off.
+
+435
+00:21:54,834 --> 00:21:56,166
+Data, identify.
+
+436
+00:21:56,208 --> 00:21:58,959
+Sensors indicate it
+is a security vessel
+
+437
+00:21:59,000 --> 00:22:01,041
+from the planet Straleb.
+
+438
+00:22:01,083 --> 00:22:04,250
+Another glob fly.
+
+439
+00:22:04,291 --> 00:22:06,458
+Glob fly?
+
+440
+00:22:06,500 --> 00:22:08,333
+DATA:
+A Klingon fly
+
+441
+00:22:08,375 --> 00:22:09,750
+half the size
+of an Earth mosquito
+
+442
+00:22:09,792 --> 00:22:12,709
+with no sting and
+a buzzing sound like this...
+
+443
+00:22:12,750 --> 00:22:14,417
+Data, viewer on.
+
+444
+00:22:14,458 --> 00:22:15,875
+Hailing frequencies.
+
+445
+00:22:15,917 --> 00:22:17,291
+Open, sir.
+
+446
+00:22:17,333 --> 00:22:19,959
+I am Secretary Kushell
+
+447
+00:22:20,000 --> 00:22:22,917
+from the Legation of Unity
+of the planet Straleb.
+
+448
+00:22:22,959 --> 00:22:24,917
+I am Captain Jean-Luc Picard.
+
+449
+00:22:24,959 --> 00:22:27,417
+We know who you are,
+Captain Picard.
+
+450
+00:22:27,458 --> 00:22:30,250
+We've been monitoring
+your communications
+
+451
+00:22:30,291 --> 00:22:31,500
+and we know of the demands
+
+452
+00:22:31,542 --> 00:22:34,458
+made by Debin
+of the planet Atlec.
+
+453
+00:22:34,500 --> 00:22:35,792
+Then you're aware
+
+454
+00:22:35,834 --> 00:22:37,834
+that we have no
+hostile intention.
+
+455
+00:22:37,875 --> 00:22:41,458
+You only have to concede
+to one demand.
+
+456
+00:22:41,500 --> 00:22:45,834
+That word "demand" has
+a tone of finality.
+
+457
+00:22:45,875 --> 00:22:48,792
+It is a word I have chosen.
+
+458
+00:22:48,834 --> 00:22:53,417
+We<i> demand</i> that you turn
+Okona over to us immediately.
+
+459
+00:22:56,000 --> 00:22:57,166
+Mute.
+
+460
+00:22:57,208 --> 00:23:00,166
+Mr. Okona, to the Bridge
+immediately!
+
+461
+00:23:00,208 --> 00:23:02,250
+Open.
+
+462
+00:23:02,291 --> 00:23:04,959
+The same demand
+has been made
+
+463
+00:23:05,000 --> 00:23:06,667
+by the Atlec legation.
+
+464
+00:23:06,709 --> 00:23:09,709
+I have no interest
+in their request
+
+465
+00:23:09,750 --> 00:23:13,291
+but we intend to back up
+our legal rights to Okona.
+
+466
+00:23:13,333 --> 00:23:17,667
+I would rather not escalate
+this situation any further.
+
+467
+00:23:17,709 --> 00:23:20,291
+Our honor and prestige
+are at stake!
+
+468
+00:23:20,333 --> 00:23:22,250
+We are prepared
+to take Okona by force
+
+469
+00:23:22,291 --> 00:23:24,875
+and die in the doing of it
+if necessary.
+
+470
+00:23:24,917 --> 00:23:29,333
+I trust
+that that can be avoided.
+
+471
+00:23:29,375 --> 00:23:32,125
+I will respond
+to your request shortly.
+
+472
+00:23:32,166 --> 00:23:33,291
+Viewer off.
+
+473
+00:23:34,625 --> 00:23:37,709
+Captain Okona has not
+responded, sir.
+
+474
+00:23:37,750 --> 00:23:40,917
+He's been reported
+in three different
+crew quarters.
+
+475
+00:23:40,959 --> 00:23:42,500
+Find him, get him up here.
+
+476
+00:23:42,542 --> 00:23:43,834
+Yes, sir.
+
+477
+00:24:08,208 --> 00:24:10,917
+You will come with me
+to the Main Bridge.
+
+478
+00:24:10,959 --> 00:24:14,041
+I'm sure it can wait
+a few minutes.
+
+479
+00:24:17,667 --> 00:24:18,917
+Now!
+
+480
+00:24:28,000 --> 00:24:31,750
+I'd like that...
+
+481
+00:24:33,250 --> 00:24:36,917
+but I have my orders.
+
+482
+00:24:36,959 --> 00:24:40,291
+Some other time.
+
+483
+00:24:43,667 --> 00:24:45,208
+Remember what
+it took
+
+484
+00:24:45,250 --> 00:24:47,458
+to drag me
+from your arms.
+
+485
+00:25:06,041 --> 00:25:08,792
+Am I going to meet
+Captain Picard?
+
+486
+00:25:08,834 --> 00:25:10,000
+(<i> chuckling</i> )
+
+487
+00:25:10,041 --> 00:25:11,166
+Definitely.
+
+488
+00:25:11,208 --> 00:25:13,583
+Did I say
+something funny?
+
+489
+00:25:24,542 --> 00:25:26,583
+Captain Picard
+
+490
+00:25:26,625 --> 00:25:30,500
+<i>this</i> is Thadiun Okona.
+
+491
+00:25:33,000 --> 00:25:34,542
+Mr. Okona
+
+492
+00:25:34,583 --> 00:25:35,750
+you were welcomed
+aboard
+
+493
+00:25:35,792 --> 00:25:38,083
+without any undue
+investigation.
+
+494
+00:25:38,125 --> 00:25:39,667
+In turn, it was assumed
+
+495
+00:25:39,709 --> 00:25:41,959
+that you did not come
+under false pretenses.
+
+496
+00:25:42,000 --> 00:25:43,959
+It now seems
+that you may have done.
+
+497
+00:25:44,000 --> 00:25:47,834
+Captain, if you mean
+my socializing with the members
+
+498
+00:25:47,875 --> 00:25:49,875
+of the crew...
+
+499
+00:25:49,917 --> 00:25:51,709
+Mr. Okona
+
+500
+00:25:51,750 --> 00:25:54,834
+you are free to socialize
+with the members of my crew.
+
+501
+00:25:54,875 --> 00:25:58,458
+I'm talking about
+a man named Debin.
+
+502
+00:25:58,500 --> 00:26:00,417
+He's from Atlec.
+
+503
+00:26:00,458 --> 00:26:01,750
+I've had dealings
+with some of his family.
+
+504
+00:26:01,792 --> 00:26:03,834
+Then, perhaps
+you can explain
+
+505
+00:26:03,875 --> 00:26:06,500
+why his craft is
+threatening to attack us
+
+506
+00:26:06,542 --> 00:26:07,917
+unless I give him
+custody of you.
+
+507
+00:26:07,959 --> 00:26:10,125
+I can't.
+
+508
+00:26:10,166 --> 00:26:13,667
+Then, tell me why Kushell
+of the planet Straleb
+
+509
+00:26:13,709 --> 00:26:16,041
+is demanding the same thing.
+
+510
+00:26:16,083 --> 00:26:17,458
+He's here also?
+
+511
+00:26:17,500 --> 00:26:21,667
+Mm-hmm, and quite adamant.
+
+512
+00:26:21,709 --> 00:26:25,458
+Mr. Okona, what crimes
+are you accused of?
+
+513
+00:26:25,500 --> 00:26:29,041
+I am not a criminal.
+
+514
+00:26:29,083 --> 00:26:30,583
+Why do these men want you?
+
+515
+00:26:32,792 --> 00:26:35,250
+I can't say.
+
+516
+00:26:35,291 --> 00:26:37,792
+They're threatening
+to attack the<i> Enterprise.</i>
+
+517
+00:26:37,834 --> 00:26:39,959
+They would be crazy.
+They wouldn't stand
+a chance!
+
+518
+00:26:40,000 --> 00:26:41,250
+Right.
+
+519
+00:26:43,834 --> 00:26:46,959
+So you can offer no reason
+
+520
+00:26:47,000 --> 00:26:51,667
+why they are set
+on this provocative course?
+
+521
+00:26:54,083 --> 00:26:56,917
+I can't think
+of one right now.
+
+522
+00:26:56,959 --> 00:26:58,917
+On viewer.
+
+523
+00:26:58,959 --> 00:26:59,959
+Which ship?
+
+524
+00:27:00,000 --> 00:27:01,041
+What?
+
+525
+00:27:01,083 --> 00:27:05,083
+Uh, the first one--
+Captain Debin.
+
+526
+00:27:05,125 --> 00:27:08,166
+Captain, let me
+ask you again.
+
+527
+00:27:08,208 --> 00:27:10,542
+What are
+Okona's crimes?
+
+528
+00:27:10,583 --> 00:27:12,542
+That is not your concern.
+
+529
+00:27:12,583 --> 00:27:14,875
+It is if you wish me
+to release him to you.
+
+530
+00:27:14,917 --> 00:27:18,166
+All right, you want
+to know what he did?
+
+531
+00:27:18,208 --> 00:27:20,709
+You want to know why I have
+chased him across this system?
+
+532
+00:27:20,750 --> 00:27:23,709
+All right, here--
+this is his crime.
+
+533
+00:27:27,792 --> 00:27:29,792
+He dishonored my daughter.
+
+534
+00:27:29,834 --> 00:27:32,709
+He took advantage of her,
+then he ran off and left her
+
+535
+00:27:32,750 --> 00:27:34,208
+carrying his
+bastard child.
+
+536
+00:27:34,250 --> 00:27:36,792
+He'll return, and he'll
+do the right thing
+
+537
+00:27:36,834 --> 00:27:40,375
+or I'll hunt him
+to the ends of the galaxy.
+
+538
+00:27:45,458 --> 00:27:47,250
+<i>Captain's log, supplemental.</i>
+
+539
+00:27:47,291 --> 00:27:50,375
+<i>Some of the mystery surrounding</i>
+<i>this ancient morality play</i>
+
+540
+00:27:50,417 --> 00:27:52,667
+<i>we've been dragged into</i>
+<i>has been revealed.</i>
+
+541
+00:27:52,709 --> 00:27:56,417
+<i>One of Captain Okona's pursuers</i>
+<i>is an outraged father</i>
+
+542
+00:27:56,458 --> 00:28:00,125
+<i>with a heartfelt, if arcane,</i>
+<i>sense of righteousness.</i>
+
+543
+00:28:00,166 --> 00:28:02,000
+Your advice, Counselor.
+
+544
+00:28:02,041 --> 00:28:04,625
+We are dealing
+with ancient codes
+
+545
+00:28:04,667 --> 00:28:06,542
+involving procreation.
+
+546
+00:28:06,583 --> 00:28:08,959
+While they may appear
+meaningless to us
+
+547
+00:28:09,000 --> 00:28:11,333
+to Debin, they
+represent his honor.
+
+548
+00:28:11,375 --> 00:28:14,542
+He will fight, risking
+himself, his crew
+
+549
+00:28:14,583 --> 00:28:17,125
+his daughter
+and her unborn child.
+
+550
+00:28:17,166 --> 00:28:18,875
+You know, Captain,
+your Counselor's right--
+
+551
+00:28:18,917 --> 00:28:20,000
+he will fight.
+
+552
+00:28:20,041 --> 00:28:21,333
+The Captain
+of the other ship
+
+553
+00:28:21,375 --> 00:28:23,041
+is demanding to be heard.
+
+554
+00:28:23,083 --> 00:28:26,166
+I don't suppose you can give me
+any indication
+
+555
+00:28:26,208 --> 00:28:27,792
+why<i> this</i> man wants you.
+
+556
+00:28:27,834 --> 00:28:29,709
+(<i> sighs</i> )
+
+557
+00:28:33,000 --> 00:28:35,125
+Let's put all this together.
+
+558
+00:28:35,166 --> 00:28:38,667
+Lieutenant Worf, multiple image,
+full conference mode.
+
+559
+00:28:38,709 --> 00:28:39,917
+Let them all see each other.
+
+560
+00:28:39,959 --> 00:28:41,959
+Yes, sir.
+
+561
+00:28:42,000 --> 00:28:44,250
+Here you are, Debin
+
+562
+00:28:44,291 --> 00:28:46,750
+trying to save
+this criminal.
+
+563
+00:28:46,792 --> 00:28:49,208
+My purpose is
+not your concern.
+
+564
+00:28:49,250 --> 00:28:52,333
+It is if it
+involves Okona.
+Gentlemen.
+
+565
+00:28:52,375 --> 00:28:55,458
+Please, let's try
+and resolve this matter.
+
+566
+00:28:55,500 --> 00:28:57,875
+Captain Kushell,
+what crime has Okona
+
+567
+00:28:57,917 --> 00:28:59,250
+allegedly committed
+against you?
+
+568
+00:28:59,291 --> 00:29:00,709
+He is a thief.
+
+569
+00:29:00,750 --> 00:29:05,083
+He stole the Jewel of Thesia,
+a national heritage.
+
+570
+00:29:05,125 --> 00:29:07,083
+A thing, an item.
+
+571
+00:29:07,125 --> 00:29:08,917
+My case involves
+the victimization
+
+572
+00:29:08,959 --> 00:29:11,750
+of my daughter
+and my honor.
+
+573
+00:29:11,792 --> 00:29:13,458
+I'll have Okona now!
+
+574
+00:29:13,500 --> 00:29:15,333
+He is mine!
+
+575
+00:29:15,375 --> 00:29:16,542
+One at a time.
+
+576
+00:29:16,583 --> 00:29:18,709
+Who accuses me
+of stealing?
+
+577
+00:29:18,750 --> 00:29:19,959
+I do.
+
+578
+00:29:20,000 --> 00:29:21,542
+My son, Benzan and I.
+
+579
+00:29:21,583 --> 00:29:22,750
+Father, please...
+
+580
+00:29:22,792 --> 00:29:24,542
+He used you
+to become my friend.
+
+581
+00:29:24,583 --> 00:29:26,000
+He used my daughter!
+
+582
+00:29:26,041 --> 00:29:29,000
+He used my son to plunder
+a national treasure!
+
+583
+00:29:29,041 --> 00:29:30,583
+Mute.
+
+584
+00:29:30,625 --> 00:29:33,917
+(<i> no audio</i> )
+
+585
+00:29:42,125 --> 00:29:44,208
+Terminate communications.
+
+586
+00:29:44,250 --> 00:29:45,959
+Come with me.
+
+587
+00:29:51,959 --> 00:29:53,792
+Captain, you can't
+be afraid of those two
+
+588
+00:29:53,834 --> 00:29:54,917
+or what they can do
+to your ship.
+
+589
+00:29:54,959 --> 00:29:56,333
+No.
+
+590
+00:29:56,375 --> 00:29:58,000
+They could fire
+until their
+lasers ran dry
+
+591
+00:29:58,041 --> 00:29:59,375
+they wouldn't hurt the
+<i>Enterprise.</i>
+
+592
+00:29:59,417 --> 00:30:00,959
+My predicament is
+what to do with you.
+
+593
+00:30:01,000 --> 00:30:02,291
+I'm sorry.
+
+594
+00:30:02,333 --> 00:30:03,834
+I'm sorry my ship broke down.
+
+595
+00:30:03,875 --> 00:30:05,083
+I'm sorry
+you stopped to help.
+
+596
+00:30:05,125 --> 00:30:06,417
+I'm sorry you're involved.
+
+597
+00:30:06,458 --> 00:30:08,000
+But you're right.
+Whatever happens,
+
+598
+00:30:08,041 --> 00:30:10,000
+however it goes,
+someone gets hurt.
+
+599
+00:30:10,041 --> 00:30:12,875
+Hand me over to Kushell
+and Debin goes to war.
+
+600
+00:30:12,917 --> 00:30:15,667
+And if I hand you over to Debin,
+it's the same thing.
+
+601
+00:30:15,709 --> 00:30:18,083
+I wish I could...
+
+602
+00:30:21,250 --> 00:30:23,250
+I wish I could
+make it easier.
+
+603
+00:30:23,291 --> 00:30:25,583
+I'm sure you do.
+
+604
+00:30:27,375 --> 00:30:29,959
+I'm not going to apologize
+for the way I am
+
+605
+00:30:30,000 --> 00:30:31,709
+or how I live my life
+
+606
+00:30:31,750 --> 00:30:34,333
+but, just for the record,
+I did not steal
+
+607
+00:30:34,375 --> 00:30:35,917
+the Jewel of Thesia.
+
+608
+00:30:35,959 --> 00:30:37,834
+I am not a criminal, Captain.
+
+609
+00:30:37,875 --> 00:30:42,750
+And, as to the other business,
+that's between me and Yanar.
+
+610
+00:30:42,792 --> 00:30:44,500
+No one else.
+
+611
+00:30:44,542 --> 00:30:49,083
+In truth, I simply do not
+have authority in this matter.
+
+612
+00:30:49,125 --> 00:30:53,792
+I'm not your judge, nor
+is it my duty to arbitrate.
+
+613
+00:30:53,834 --> 00:30:57,625
+But you are in my custody
+and that creates the dilemma.
+
+614
+00:30:57,667 --> 00:30:59,166
+How about this?
+
+615
+00:31:01,166 --> 00:31:02,667
+Do what you said.
+
+616
+00:31:02,709 --> 00:31:04,792
+Fix my guidance system
+and let me leave.
+
+617
+00:31:04,834 --> 00:31:07,500
+According
+to Starfleet regulations
+
+618
+00:31:07,542 --> 00:31:09,333
+that would be
+my only course of action.
+
+619
+00:31:09,375 --> 00:31:12,333
+But their ships
+are faster than yours.
+
+620
+00:31:12,375 --> 00:31:13,875
+I'm not doing you a favor.
+
+621
+00:31:13,917 --> 00:31:17,417
+Captain, with all due respect,
+that's not your concern.
+
+622
+00:31:17,458 --> 00:31:21,959
+Besides, I can
+take care of myself.
+
+623
+00:31:33,917 --> 00:31:35,291
+You're quite
+a craftsman
+
+624
+00:31:35,333 --> 00:31:36,709
+Lieutenant La Forge.
+
+625
+00:31:36,750 --> 00:31:38,458
+How soon?
+
+626
+00:31:38,500 --> 00:31:39,875
+What's the rush?
+
+627
+00:31:39,917 --> 00:31:41,250
+I thought you
+liked it here.
+
+628
+00:31:41,291 --> 00:31:42,375
+I did.
+
+629
+00:31:42,417 --> 00:31:44,375
+It stopped liking me.
+
+630
+00:31:44,417 --> 00:31:46,667
+Time to disappear.
+
+631
+00:31:46,709 --> 00:31:48,250
+Where will you go?
+
+632
+00:31:48,291 --> 00:31:49,208
+What?
+
+633
+00:31:49,250 --> 00:31:51,166
+I said, where
+will you go?
+
+634
+00:31:51,208 --> 00:31:55,000
+A new place,
+if I make it.
+
+635
+00:31:55,041 --> 00:31:57,083
+Don't you ever
+stay anywhere?
+
+636
+00:31:57,125 --> 00:31:59,667
+Not for long.
+
+637
+00:31:59,709 --> 00:32:02,250
+I couldn't be like that.
+
+638
+00:32:02,291 --> 00:32:03,750
+Oh?
+
+639
+00:32:03,792 --> 00:32:06,250
+I mean, always being alone.
+
+640
+00:32:06,291 --> 00:32:08,125
+Commander Riker says
+you choose to live
+
+641
+00:32:08,166 --> 00:32:09,875
+the way you do,
+and like it.
+
+642
+00:32:09,917 --> 00:32:11,583
+Is that what he says?
+
+643
+00:32:11,625 --> 00:32:14,458
+Yeah.
+
+644
+00:32:14,500 --> 00:32:17,875
+It would be difficult for me
+to be leaving all the time.
+
+645
+00:32:17,917 --> 00:32:22,959
+I'd miss my friends,
+the people I love.
+
+646
+00:32:23,000 --> 00:32:27,583
+I guess leaving's
+gotten easy for you.
+
+647
+00:32:27,625 --> 00:32:30,583
+I seem to have a way
+of using up a place.
+
+648
+00:32:30,625 --> 00:32:33,625
+I wasn't talking
+about a place.
+
+649
+00:32:33,667 --> 00:32:36,083
+I know.
+
+650
+00:32:36,125 --> 00:32:37,834
+I know what you
+were talking about.
+
+651
+00:32:37,875 --> 00:32:40,542
+LA FORGE:
+It's ready.
+
+652
+00:32:40,583 --> 00:32:43,250
+You should be able
+to install this
+
+653
+00:32:43,291 --> 00:32:46,709
+in roughly five minutes.
+
+654
+00:32:46,750 --> 00:32:48,375
+(<i> sighs</i> )
+
+655
+00:32:48,417 --> 00:32:51,583
+Like you said, Geordi,
+what's the rush?
+
+656
+00:32:51,625 --> 00:32:54,166
+I have some friends
+around here.
+
+657
+00:32:54,208 --> 00:32:56,959
+I think it's time
+to make a stand.
+
+658
+00:33:12,875 --> 00:33:14,583
+Mr. Okona.
+
+659
+00:33:17,291 --> 00:33:20,208
+Captain, I've decided
+not to leave.
+
+660
+00:33:20,250 --> 00:33:21,542
+Oh?
+
+661
+00:33:21,583 --> 00:33:23,959
+Don't worry,
+I'm not staying, either.
+
+662
+00:33:24,000 --> 00:33:25,750
+Just what are
+your plans, Mr. Okona?
+
+663
+00:33:25,792 --> 00:33:28,083
+I've decided
+to surrender myself.
+
+664
+00:33:28,125 --> 00:33:29,834
+To which one?
+
+665
+00:33:29,875 --> 00:33:32,375
+(<i> chuckling</i> ):
+There's really only one option.
+
+666
+00:33:34,875 --> 00:33:36,291
+Viewer on.
+
+667
+00:33:42,041 --> 00:33:45,542
+Gentlemen, communicating like
+this is very distracting.
+
+668
+00:33:45,583 --> 00:33:48,250
+I suggest that we beam you
+up to the<i> Enterprise</i>
+
+669
+00:33:48,291 --> 00:33:50,500
+and we'll resolve this
+face-to-face.
+
+670
+00:33:50,542 --> 00:33:52,041
+Excellent.
+
+671
+00:33:52,083 --> 00:33:53,667
+Agreed.
+
+672
+00:33:53,709 --> 00:33:55,500
+RIKER:
+Leave your weapons behind.
+
+673
+00:33:55,542 --> 00:33:56,959
+Let's keep this
+civilized.
+
+674
+00:33:57,000 --> 00:33:58,583
+Number One,
+you have the Bridge.
+
+675
+00:33:58,625 --> 00:34:00,208
+Counselor Troi,
+would you accompany me
+
+676
+00:34:00,250 --> 00:34:02,500
+to Deck 14 Conference Room?
+
+677
+00:34:02,542 --> 00:34:04,417
+Worf, see to our guests.
+
+678
+00:34:04,458 --> 00:34:06,291
+Aye, sir.
+
+679
+00:34:20,041 --> 00:34:22,542
+They have no weapons.
+
+680
+00:34:22,583 --> 00:34:24,041
+This way.
+
+681
+00:34:39,667 --> 00:34:42,500
+Okona, you are
+without shame.
+
+682
+00:34:42,542 --> 00:34:44,583
+For once, I agree
+with Debin.
+
+683
+00:34:44,625 --> 00:34:46,792
+You<i> are</i> without shame.
+
+684
+00:34:46,834 --> 00:34:48,166
+I trusted you.
+
+685
+00:34:48,208 --> 00:34:50,792
+My son treated you
+like a brother.
+
+686
+00:34:50,834 --> 00:34:53,208
+And then
+to steal from us...
+
+687
+00:34:53,250 --> 00:34:55,166
+I want him<i> now.</i>
+
+688
+00:34:55,208 --> 00:34:57,375
+No, he's coming with me.
+
+689
+00:34:57,417 --> 00:34:59,792
+Captain, my complaint
+was registered first.
+
+690
+00:34:59,834 --> 00:35:02,750
+Now, please.
+Please be calm.
+
+691
+00:35:02,792 --> 00:35:04,583
+Lieutenant,
+thank you.
+
+692
+00:35:09,083 --> 00:35:10,625
+Everyone is talking about me
+
+693
+00:35:10,667 --> 00:35:12,792
+and no one's talking<i> </i>
+<i>to</i> me.
+
+694
+00:35:14,250 --> 00:35:16,542
+You all
+believe
+
+695
+00:35:16,583 --> 00:35:18,500
+that I stole the jewel
+
+696
+00:35:18,542 --> 00:35:21,083
+and it was I who
+fathered the child.
+
+697
+00:35:21,125 --> 00:35:24,667
+You dare call
+my daughter a liar?
+
+698
+00:35:24,709 --> 00:35:28,834
+And now, I am offered
+these two choices
+
+699
+00:35:28,875 --> 00:35:31,333
+and given these
+two options--
+
+700
+00:35:31,375 --> 00:35:33,917
+condemnation as a thief
+
+701
+00:35:33,959 --> 00:35:37,333
+or marriage to the
+beautiful Yanar.
+
+702
+00:35:37,375 --> 00:35:41,917
+I will take
+the more pleasant sentence.
+
+703
+00:35:41,959 --> 00:35:43,834
+I will take Yanar
+
+704
+00:35:43,875 --> 00:35:45,333
+as my wife.
+
+705
+00:35:45,375 --> 00:35:47,125
+No, you can't.
+
+706
+00:35:47,166 --> 00:35:48,291
+My son is right!
+
+707
+00:35:48,333 --> 00:35:49,750
+You can't
+escape that way.
+
+708
+00:35:49,792 --> 00:35:50,959
+That's not what I mean.
+
+709
+00:35:51,000 --> 00:35:53,625
+It's not up to you
+nor to Okona.
+
+710
+00:35:53,667 --> 00:35:55,333
+I've been dishonored.
+
+711
+00:35:55,375 --> 00:35:56,542
+I will decide.
+
+712
+00:35:56,583 --> 00:35:57,875
+YANAR:
+Wait.
+
+713
+00:35:57,917 --> 00:35:59,083
+Since all of you believe
+
+714
+00:35:59,125 --> 00:36:00,709
+Okona is the father
+of this child
+
+715
+00:36:00,750 --> 00:36:02,417
+then so be it.
+
+716
+00:36:06,750 --> 00:36:08,250
+I'll marry you.
+
+717
+00:36:08,291 --> 00:36:09,625
+BENZAN:
+No.
+
+718
+00:36:09,667 --> 00:36:10,875
+You can't.
+
+719
+00:36:10,917 --> 00:36:13,041
+Yes, I can.
+
+720
+00:36:13,083 --> 00:36:15,041
+Okona is still
+a thief.
+
+721
+00:36:15,083 --> 00:36:17,208
+No, he's not.
+
+722
+00:36:17,250 --> 00:36:19,208
+Nothing has
+been stolen.
+
+723
+00:36:19,250 --> 00:36:23,166
+The Jewel of Thesia has been
+taken into custody
+
+724
+00:36:23,208 --> 00:36:26,834
+by it's rightful heir,<i> me.</i>
+
+725
+00:36:26,875 --> 00:36:30,166
+I was to give it to Yanar
+as our pledge of marriage.
+
+726
+00:36:30,208 --> 00:36:32,208
+Marriage?
+
+727
+00:36:34,000 --> 00:36:37,333
+Yanar is carrying my child.
+
+728
+00:36:37,375 --> 00:36:41,417
+Oh, you said it was Okona's.
+
+729
+00:36:42,917 --> 00:36:44,917
+If I told you it was Benzan
+
+730
+00:36:44,959 --> 00:36:47,125
+you would have gone
+to war with his father.
+
+731
+00:36:47,166 --> 00:36:49,792
+So I let you believe
+it was Okona.
+
+732
+00:36:49,834 --> 00:36:51,875
+See how a man
+gets a reputation?
+
+733
+00:36:51,917 --> 00:36:54,125
+If I had told you
+that I was giving the jewel
+
+734
+00:36:54,166 --> 00:36:57,333
+to Debin's daughter,
+you'd have disowned me.
+
+735
+00:36:57,375 --> 00:36:59,291
+Now we're hearing some truth.
+
+736
+00:36:59,333 --> 00:37:02,083
+KUSHELL:
+So, you let me
+chase Okona
+
+737
+00:37:02,125 --> 00:37:03,834
+when you knew he was innocent.
+
+738
+00:37:03,875 --> 00:37:06,709
+Yes, because I didn't
+believe for one moment
+
+739
+00:37:06,750 --> 00:37:08,834
+that you could catch him.
+
+740
+00:37:08,875 --> 00:37:10,583
+Well said.
+He never would have.
+
+741
+00:37:10,625 --> 00:37:13,500
+And once Yanar
+accepted the jewel
+
+742
+00:37:13,542 --> 00:37:15,458
+the marriage would
+have been made.
+
+743
+00:37:15,500 --> 00:37:17,333
+Well, I never got it.
+
+744
+00:37:17,375 --> 00:37:19,834
+Then Okona does have the jewel.
+
+745
+00:37:19,875 --> 00:37:24,542
+I never had the chance
+to deliver it.
+
+746
+00:37:24,583 --> 00:37:25,875
+Anyway, it's too late.
+
+747
+00:37:25,917 --> 00:37:27,625
+I won't marry Benzan.
+
+748
+00:37:27,667 --> 00:37:29,583
+Then you'll marry Okona.
+
+749
+00:37:29,625 --> 00:37:32,667
+I won't marry anyone.
+
+750
+00:37:37,041 --> 00:37:39,375
+I have reinstated
+the same program.
+
+751
+00:37:39,417 --> 00:37:41,250
+Along with some
+new jokes, I hope.
+
+752
+00:37:41,291 --> 00:37:44,083
+COMPUTER:
+Program complete.
+Enter when ready.
+
+753
+00:37:56,208 --> 00:37:58,000
+Comic, continue.
+
+754
+00:37:58,041 --> 00:37:59,417
+More freebies, huh?
+
+755
+00:37:59,458 --> 00:38:00,625
+No cover, no minimum?
+
+756
+00:38:00,667 --> 00:38:02,583
+Just "comic, continue"?
+
+757
+00:38:02,625 --> 00:38:05,375
+So tell me, Data,
+what happened?
+
+758
+00:38:05,417 --> 00:38:06,625
+I told a joke.
+
+759
+00:38:06,667 --> 00:38:07,542
+And?
+
+760
+00:38:07,583 --> 00:38:09,208
+No one laughed.
+No one?
+
+761
+00:38:09,250 --> 00:38:10,417
+Nobody in the
+whole room?
+
+762
+00:38:10,458 --> 00:38:11,875
+I was the whole room.
+
+763
+00:38:11,917 --> 00:38:13,750
+She said I spoiled the joke.
+
+764
+00:38:13,792 --> 00:38:15,750
+Actually, "killed" would
+have been a better word.
+
+765
+00:38:15,792 --> 00:38:17,750
+You know, Data,
+I think I know what
+your problem is.
+
+766
+00:38:17,792 --> 00:38:18,750
+You should
+always try out
+
+767
+00:38:18,792 --> 00:38:20,709
+new material
+on an audience.
+
+768
+00:38:20,750 --> 00:38:21,917
+You know, he could be right.
+
+769
+00:38:21,959 --> 00:38:24,667
+Perhaps an audience
+is what you need.
+
+770
+00:38:27,333 --> 00:38:32,417
+Computer, program an audience
+appropriate to this venue.
+
+771
+00:38:32,458 --> 00:38:35,583
+(<i> buzz of conversation</i> )
+
+772
+00:38:37,000 --> 00:38:39,083
+Yanar.
+
+773
+00:38:44,542 --> 00:38:47,750
+You're angry at the
+embarrassment of all this
+
+774
+00:38:47,792 --> 00:38:49,917
+and maybe the timing
+and the approach
+
+775
+00:38:49,959 --> 00:38:52,583
+is not the most
+romantic,<i> but...</i>
+
+776
+00:38:52,625 --> 00:38:56,333
+I know you love Benzan
+
+777
+00:38:56,375 --> 00:38:58,542
+and I don't want to see you
+throw away that feeling
+
+778
+00:38:58,583 --> 00:39:01,750
+just because your parents
+have been quarreling for years
+
+779
+00:39:01,792 --> 00:39:04,917
+and don't know
+how to behave properly.
+
+780
+00:39:07,834 --> 00:39:10,041
+I've carried your messages
+back and forth
+
+781
+00:39:10,083 --> 00:39:11,500
+for almost six months.
+
+782
+00:39:11,542 --> 00:39:13,375
+I've smuggled each of you
+into the other's homeland.
+
+783
+00:39:13,417 --> 00:39:18,542
+You feel for him
+the same way he feels for you.
+
+784
+00:39:34,000 --> 00:39:38,083
+I do love you.
+
+785
+00:39:38,125 --> 00:39:40,500
+It is your child.
+
+786
+00:39:40,542 --> 00:39:42,166
+It's our child.
+
+787
+00:39:45,291 --> 00:39:48,542
+Marry me.
+
+788
+00:39:48,583 --> 00:39:50,542
+Yes.
+
+789
+00:39:50,583 --> 00:39:51,875
+(<i> whistles</i> )
+
+790
+00:40:02,834 --> 00:40:04,667
+We'll find a new
+planet to live on.
+
+791
+00:40:04,709 --> 00:40:06,041
+(<i> laughing</i> )
+
+792
+00:40:06,083 --> 00:40:08,709
+You'll live on Straleb.
+
+793
+00:40:08,750 --> 00:40:10,250
+No, no,
+no, no.
+
+794
+00:40:10,291 --> 00:40:11,333
+You'll live
+on Atlec.
+
+795
+00:40:11,375 --> 00:40:14,166
+KUSHELL:
+I will not have
+
+796
+00:40:14,208 --> 00:40:16,041
+this man raising
+my grandson.
+
+797
+00:40:16,083 --> 00:40:18,458
+The rest of this is an issue,
+gentlemen
+
+798
+00:40:18,500 --> 00:40:20,083
+to be settled
+between yourselves.
+
+799
+00:40:20,125 --> 00:40:22,125
+Now, if you will excuse us,
+we have business.
+
+800
+00:40:22,166 --> 00:40:23,500
+Thank you, Captain.
+
+801
+00:40:23,542 --> 00:40:24,834
+<i>Your</i> grandson?
+
+802
+00:40:24,875 --> 00:40:26,917
+KUSHELL:
+My grandson.
+
+803
+00:40:26,959 --> 00:40:29,667
+(<i> drumroll</i> )
+
+804
+00:40:29,709 --> 00:40:32,208
+Thank you, thank you.
+
+805
+00:40:32,250 --> 00:40:34,667
+Thank you.
+Thanks for coming, folks.
+
+806
+00:40:34,709 --> 00:40:36,583
+We got a great show
+for you tonight.
+
+807
+00:40:36,625 --> 00:40:38,583
+I'm so excited this evening.
+
+808
+00:40:38,625 --> 00:40:41,917
+Tonight, I have for you
+the funny man of the stars.
+
+809
+00:40:41,959 --> 00:40:43,834
+The android of antics.
+
+810
+00:40:43,875 --> 00:40:46,250
+That Lieutenant
+Commander of mirth.
+
+811
+00:40:46,291 --> 00:40:48,250
+Please, give him a nice welcome,
+ladies and gentlemen.
+
+812
+00:40:48,291 --> 00:40:51,333
+None other than--
+he's just the best--
+
+813
+00:40:51,375 --> 00:40:52,291
+Data.
+
+814
+00:40:52,333 --> 00:40:55,500
+(<i> cheering</i> )
+
+815
+00:41:02,792 --> 00:41:05,166
+Good evening,
+ladies and germs.
+
+816
+00:41:05,208 --> 00:41:08,959
+(<i> laughter</i> )
+
+817
+00:41:12,291 --> 00:41:14,208
+(<i> drumroll</i> )
+
+818
+00:41:17,917 --> 00:41:19,917
+I come from a town so small
+
+819
+00:41:19,959 --> 00:41:21,917
+we had a fraction
+for a zip code.
+
+820
+00:41:21,959 --> 00:41:24,041
+(<i> laughter</i> )
+
+821
+00:41:24,083 --> 00:41:25,834
+You made a living
+doing this?
+
+822
+00:41:25,875 --> 00:41:27,709
+Yes, I did.
+
+823
+00:41:27,750 --> 00:41:28,917
+It was so small, in fact
+
+824
+00:41:28,959 --> 00:41:31,166
+we didn't have
+a godfather of crime.
+
+825
+00:41:31,208 --> 00:41:32,417
+We had a nephew.
+
+826
+00:41:32,458 --> 00:41:34,625
+(<i> laughter</i> )
+
+827
+00:41:36,208 --> 00:41:43,125
+(<i> laughter</i> )
+
+828
+00:41:44,542 --> 00:41:46,667
+I was so ugly as a child
+
+829
+00:41:46,709 --> 00:41:48,667
+they hung a pork chop
+around my neck...
+
+830
+00:41:48,709 --> 00:41:52,041
+(<i> laughter</i> )
+
+831
+00:41:53,375 --> 00:41:56,458
+so the dog would play with me.
+
+832
+00:41:56,500 --> 00:42:00,667
+(<i> laughter</i> )
+
+833
+00:42:02,000 --> 00:42:03,709
+And then there was
+the human cannonball...
+
+834
+00:42:03,750 --> 00:42:05,125
+(<i> laughter</i> )
+
+835
+00:42:05,166 --> 00:42:07,542
+that was hired and fired
+in the same night.
+
+836
+00:42:10,125 --> 00:42:15,625
+(<i> laughter</i> )
+
+837
+00:42:15,667 --> 00:42:18,959
+Audience program off.
+
+838
+00:42:19,000 --> 00:42:21,166
+(<i> laughter</i> )
+
+839
+00:42:29,208 --> 00:42:31,709
+Discontinue comic.
+
+840
+00:42:40,625 --> 00:42:42,709
+It was a holodeck audience.
+
+841
+00:42:42,750 --> 00:42:45,750
+They were programmed
+to laugh at everything.
+
+842
+00:42:45,792 --> 00:42:48,583
+Perhaps I should
+reprogram the audience
+
+843
+00:42:48,625 --> 00:42:50,709
+to display
+a more accurate response.
+
+844
+00:42:50,750 --> 00:42:54,125
+Data, let me give you one.
+
+845
+00:42:54,166 --> 00:42:58,000
+Being able to make people laugh
+or being able to laugh
+
+846
+00:42:58,041 --> 00:43:00,792
+is not the end-all and be-all
+of being human.
+
+847
+00:43:00,834 --> 00:43:06,458
+No, but there is nothing
+more uniquely human.
+
+848
+00:43:21,083 --> 00:43:24,083
+Hold your speed,
+Captain Okona.
+
+849
+00:43:24,125 --> 00:43:26,709
+Disengage.
+
+850
+00:43:26,750 --> 00:43:28,709
+Separated.
+
+851
+00:43:28,750 --> 00:43:30,291
+I'm under my own power, now.
+
+852
+00:43:30,333 --> 00:43:32,000
+Thank you,<i> Enterprise.</i>
+
+853
+00:43:32,041 --> 00:43:33,875
+Thank you, Captain Picard.
+
+854
+00:43:33,917 --> 00:43:35,667
+Good-bye, Captain Okona.
+
+855
+00:43:35,709 --> 00:43:37,917
+Bye, Captain Okona.
+
+856
+00:43:39,750 --> 00:43:41,834
+Say good-bye, Data.
+
+857
+00:43:41,875 --> 00:43:43,792
+Good-bye, Data.
+
+858
+00:43:43,834 --> 00:43:46,000
+(<i> chuckling</i> )
+
+859
+00:43:46,041 --> 00:43:48,250
+Was that funny?
+
+860
+00:43:50,208 --> 00:43:53,166
+Accessing.
+
+861
+00:43:53,208 --> 00:43:55,291
+Ah, Burns and Allen.
+
+862
+00:43:55,333 --> 00:43:58,000
+Roxy Theater,
+New York City, 1932.
+
+863
+00:43:58,041 --> 00:44:00,750
+It still works.
+
+864
+00:44:00,792 --> 00:44:02,375
+Then there was the one
+
+865
+00:44:02,417 --> 00:44:03,959
+about the girl
+in the nudist colony
+
+866
+00:44:04,000 --> 00:44:05,166
+that nothing looked good on.
+
+867
+00:44:05,208 --> 00:44:07,333
+We're ready to get underway,
+sir.
+
+868
+00:44:07,375 --> 00:44:10,208
+Take my Worf... please.
+
+869
+00:44:10,250 --> 00:44:11,959
+Warp speed, sir?
+
+870
+00:44:12,000 --> 00:44:14,166
+Please.

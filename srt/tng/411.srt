@@ -1,0 +1,4027 @@
+1
+00:00:01,583 --> 00:00:06,834
+DATA:
+<i>Second Officer's Personal Log,</i>
+<i>Stardate 44390.1.</i>
+
+2
+00:00:06,875 --> 00:00:10,417
+<i>Record entry for transmission</i>
+<i>to Commander Bruce Maddox</i>
+
+3
+00:00:10,458 --> 00:00:13,291
+<i>Cybernetics Division,</i>
+<i>Daystrom Institute.</i>
+
+4
+00:00:13,333 --> 00:00:14,792
+<i>Dear Commander Maddox</i>
+
+5
+00:00:14,834 --> 00:00:17,000
+<i>in reference</i>
+<i>to your most recent letter</i>
+
+6
+00:00:17,041 --> 00:00:20,417
+<i>I agree that your study lacks</i>
+<i>sufficient primary source</i>
+
+7
+00:00:20,458 --> 00:00:23,083
+<i>information on my programming</i>
+<i>and operation.</i>
+
+8
+00:00:23,125 --> 00:00:26,542
+<i>Therefore, in response to your</i>
+<i>request, this correspondence</i>
+
+9
+00:00:26,583 --> 00:00:28,041
+<i>will include a complete record</i>
+
+10
+00:00:28,083 --> 00:00:30,083
+<i>of my activities</i>
+<i>during a normal day</i>
+
+11
+00:00:30,125 --> 00:00:33,458
+<i>with particular emphasis on</i>
+<i>my perceptions of friendship.</i>
+
+12
+00:00:36,041 --> 00:00:38,375
+Commander Riker,
+you are 15 minutes early.
+
+13
+00:00:38,417 --> 00:00:39,834
+Well, it's a very special day.
+
+14
+00:00:39,875 --> 00:00:41,875
+I thought the father
+of the bride would enjoy
+
+15
+00:00:41,917 --> 00:00:43,667
+being relieved early
+on the wedding day.
+
+16
+00:00:43,709 --> 00:00:44,792
+Thank you, sir.
+
+17
+00:00:44,834 --> 00:00:45,792
+Nervous?
+
+18
+00:00:45,834 --> 00:00:47,417
+I cannot become nervous, sir.
+
+19
+00:00:47,458 --> 00:00:50,041
+However, I do sense
+a certain... anticipation
+
+20
+00:00:50,083 --> 00:00:52,250
+regarding my role
+in the wedding.
+
+21
+00:00:52,291 --> 00:00:53,917
+Anything to report?
+
+22
+00:00:53,959 --> 00:00:55,959
+All systems are normal, sir.
+
+23
+00:00:56,000 --> 00:01:00,375
+Sick Bay reports
+that Lieutenant Juarez
+went into labor at 0400.
+
+24
+00:01:00,417 --> 00:01:03,250
+We remain at station
+awaiting the arrival
+of Starship<i> Zhukov</i>
+
+25
+00:01:03,291 --> 00:01:05,375
+and guest quarters
+have been prepared
+for Ambassador T'Pel.
+
+26
+00:01:05,417 --> 00:01:06,375
+Thank you.
+
+27
+00:01:06,417 --> 00:01:07,417
+I have the Bridge.
+
+28
+00:01:07,458 --> 00:01:08,750
+Aye, sir.
+
+29
+00:01:09,792 --> 00:01:11,041
+Begin day watch.
+
+30
+00:01:11,083 --> 00:01:13,000
+DATA:
+<i>Initially, Commander Maddox</i>
+
+31
+00:01:13,041 --> 00:01:15,458
+<i>I found it difficult</i>
+<i>to maintain friendships</i>
+
+32
+00:01:15,500 --> 00:01:18,500
+<i>since human emotions</i>
+<i>are often puzzling to me.</i>
+
+33
+00:01:22,417 --> 00:01:24,834
+<i>Eventually,</i>
+<i>I developed a program</i>
+
+34
+00:01:24,875 --> 00:01:28,166
+<i>enabling me to predict</i>
+<i>human emotional responses</i>
+
+35
+00:01:28,208 --> 00:01:29,709
+<i>to specific actions.</i>
+
+36
+00:01:29,750 --> 00:01:31,291
+(<i> door chimes</i> )
+
+37
+00:01:33,166 --> 00:01:34,709
+Come in.
+
+38
+00:01:37,709 --> 00:01:39,917
+It is time for the
+wedding rehearsal.
+
+39
+00:01:39,959 --> 00:01:41,458
+I know.
+
+40
+00:01:41,500 --> 00:01:44,834
+Data, I've decided
+not to go through with it.
+
+41
+00:01:44,875 --> 00:01:46,959
+You do not wish to rehearse?
+
+42
+00:01:47,000 --> 00:01:49,792
+No, I'm calling off the wedding.
+
+43
+00:01:49,834 --> 00:01:51,750
+May I ask why?
+
+44
+00:01:51,792 --> 00:01:54,667
+It's just the right thing to do.
+
+45
+00:01:54,709 --> 00:01:58,417
+Have your feelings
+for Chief O'Brien changed?
+
+46
+00:02:02,917 --> 00:02:05,667
+I'm supposed
+to be getting married, Data.
+
+47
+00:02:05,709 --> 00:02:07,333
+I should be happy, but I'm not.
+
+48
+00:02:07,375 --> 00:02:08,667
+I just feel this weight
+
+49
+00:02:08,709 --> 00:02:10,417
+pressing down on me.
+
+50
+00:02:10,458 --> 00:02:13,291
+Will canceling the wedding
+make you happy?
+
+51
+00:02:14,375 --> 00:02:15,834
+Yes.
+
+52
+00:02:15,875 --> 00:02:19,917
+He'll probably
+be just as relieved as I am.
+
+53
+00:02:19,959 --> 00:02:21,875
+Data
+
+54
+00:02:21,917 --> 00:02:24,291
+you introduced us to each other.
+
+55
+00:02:24,333 --> 00:02:26,750
+You mean a lot to both of us.
+
+56
+00:02:26,792 --> 00:02:28,875
+I would really appreciate it
+
+57
+00:02:28,917 --> 00:02:31,750
+if you would talk to Miles
+for me.
+
+58
+00:02:31,792 --> 00:02:33,583
+If you wish.
+
+59
+00:02:42,667 --> 00:02:44,834
+<i>My friend Chief O'Brien</i>
+<i>often says</i>
+
+60
+00:02:44,875 --> 00:02:47,834
+<i>that above all else,</i>
+<i>he wants to make Keiko happy.</i>
+
+61
+00:02:47,875 --> 00:02:50,125
+<i>Since canceling the wedding</i>
+<i>will make her happy</i>
+
+62
+00:02:50,166 --> 00:02:53,000
+<i>I must conclude the Chief will</i>
+<i>be pleased at her decision.</i>
+
+63
+00:02:53,041 --> 00:02:54,291
+I have good news.
+
+64
+00:02:54,333 --> 00:02:55,875
+Oh?
+
+65
+00:02:55,917 --> 00:02:57,625
+Keiko has made a decision
+
+66
+00:02:57,667 --> 00:03:00,166
+designed to increase
+her happiness.
+
+67
+00:03:00,208 --> 00:03:02,041
+She has canceled the wedding.
+
+68
+00:03:02,083 --> 00:03:03,917
+She what?
+
+69
+00:03:03,959 --> 00:03:06,500
+Canceled the wedding?!
+
+70
+00:03:06,542 --> 00:03:08,166
+Today?
+
+71
+00:03:08,208 --> 00:03:09,834
+Without even a word?
+
+72
+00:03:09,875 --> 00:03:14,750
+Of all the childish, selfish,
+irresponsible things to do!
+
+73
+00:03:14,792 --> 00:03:18,917
+Next time, maybe I should
+deliver the good news.
+
+74
+00:03:20,583 --> 00:03:23,709
+<i>Commander Maddox,</i>
+<i>it would appear that my</i>
+<i>program</i>
+
+75
+00:03:23,750 --> 00:03:29,333
+<i>designed to predict emotional</i>
+<i>responses needs... adjustment.</i>
+
+76
+00:03:56,333 --> 00:04:00,750
+<i>Space, the final frontier.</i>
+
+77
+00:04:00,792 --> 00:04:04,709
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+78
+00:04:04,750 --> 00:04:06,583
+<i>Its continuing mission--</i>
+
+79
+00:04:06,625 --> 00:04:10,542
+<i>to explore</i>
+<i>strange new worlds</i>
+
+80
+00:04:10,583 --> 00:04:14,959
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+81
+00:04:15,000 --> 00:04:19,625
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+82
+00:05:16,917 --> 00:05:20,208
+DATA:
+<i>Second Officer's Personal Log,</i>
+<i>supplemental.</i>
+
+83
+00:05:20,250 --> 00:05:22,041
+<i>This is the 1,550th day</i>
+
+84
+00:05:22,083 --> 00:05:23,667
+<i>since the</i> Enterprise
+<i>was commissioned.</i>
+
+85
+00:05:23,709 --> 00:05:26,709
+<i>Besides the arrival</i>
+<i>of Ambassador T'Pel</i>
+
+86
+00:05:26,750 --> 00:05:28,291
+<i>other events occurring today</i>
+
+87
+00:05:28,333 --> 00:05:30,625
+<i>include four birthdays,</i>
+<i>two personal transfers</i>
+
+88
+00:05:30,667 --> 00:05:33,583
+<i>a celebration</i>
+<i>of the Hindu Festival of</i>
+<i>Lights</i>
+
+89
+00:05:33,625 --> 00:05:36,125
+<i>two chess tournaments,</i>
+<i>one secondary school play</i>
+
+90
+00:05:36,166 --> 00:05:37,542
+<i>and four promotions.</i>
+
+91
+00:05:37,583 --> 00:05:39,834
+<i>Overall, an ordinary day.</i>
+
+92
+00:05:39,875 --> 00:05:42,333
+The<i> Zhukov</i> is ready
+for transport, sir.
+
+93
+00:05:42,375 --> 00:05:44,417
+Energize.
+
+94
+00:05:50,625 --> 00:05:53,917
+Welcome aboard the<i> Enterprise,</i>
+Ambassador.
+
+95
+00:05:53,959 --> 00:05:56,959
+I would meet
+with your Captain.
+
+96
+00:06:00,709 --> 00:06:03,583
+<i>Since I am not affected</i>
+<i>by emotional considerations</i>
+
+97
+00:06:03,625 --> 00:06:06,000
+<i>I am closer to being Vulcan</i>
+<i>than human.</i>
+
+98
+00:06:06,041 --> 00:06:07,792
+<i>However, while their devotion</i>
+<i>to logic</i>
+
+99
+00:06:07,834 --> 00:06:09,583
+<i>does have a certain appeal</i>
+
+100
+00:06:09,625 --> 00:06:13,917
+<i>I find their stark philosophy</i>
+<i>to be somewhat... limited.</i>
+
+101
+00:06:13,959 --> 00:06:14,959
+(<i> door chimes</i> )
+
+102
+00:06:15,000 --> 00:06:17,250
+Come.
+
+103
+00:06:17,291 --> 00:06:18,834
+Ambassador T'Pel.
+
+104
+00:06:18,875 --> 00:06:20,208
+I come to serve.
+
+105
+00:06:20,250 --> 00:06:21,792
+Your service honors us.
+
+106
+00:06:21,834 --> 00:06:24,333
+This is my First Officer,
+Commander William Riker.
+
+107
+00:06:24,375 --> 00:06:26,291
+Leave us, please.
+
+108
+00:06:34,250 --> 00:06:37,166
+<i>Charming</i> woman.
+
+109
+00:06:37,208 --> 00:06:38,792
+<i>The tone</i>
+<i>of Commander Riker's voice</i>
+
+110
+00:06:38,834 --> 00:06:40,917
+<i>makes me suspect</i>
+<i>that he is not serious</i>
+
+111
+00:06:40,959 --> 00:06:43,333
+<i>about finding</i>
+<i>Ambassador T'Pel charming.</i>
+
+112
+00:06:43,375 --> 00:06:46,542
+<i>My experience suggests</i>
+<i>that, in fact, he may mean</i>
+
+113
+00:06:46,583 --> 00:06:48,917
+<i>the exact opposite</i>
+<i>of what he says.</i>
+
+114
+00:06:48,959 --> 00:06:50,458
+<i>Irony is a form of expression</i>
+
+115
+00:06:50,500 --> 00:06:52,917
+<i>I have not yet</i>
+<i>been able to master.</i>
+
+116
+00:06:52,959 --> 00:06:54,542
+You don't need
+a haircut.
+
+117
+00:06:54,583 --> 00:06:56,166
+You were just
+in here last week.
+
+118
+00:06:56,208 --> 00:06:58,083
+Hey, if you'd done it
+right the first time
+
+119
+00:06:58,125 --> 00:06:59,792
+I wouldn't need to be
+back here so soon.
+
+120
+00:06:59,834 --> 00:07:01,959
+(<i> chuckles</i> ):
+I know you want
+to look beautiful
+
+121
+00:07:02,000 --> 00:07:04,959
+but I'm just a barber,
+not a miracle worker.
+
+122
+00:07:05,000 --> 00:07:08,000
+Just try to keep my ears
+on straight today, all right?
+
+123
+00:07:08,041 --> 00:07:10,000
+<i>Friendly insults and jibes--</i>
+
+124
+00:07:10,041 --> 00:07:13,000
+<i>another form of human speech</i>
+<i>that I am attempting to</i>
+<i>master.</i>
+
+125
+00:07:13,041 --> 00:07:16,250
+<i>In this case, with the help</i>
+<i>of Commander Geordi La Forge.</i>
+
+126
+00:07:16,291 --> 00:07:18,166
+Hi, Data.
+
+127
+00:07:18,208 --> 00:07:21,834
+<i>I consider Geordi</i>
+<i>to be my best friend.</i>
+
+128
+00:07:21,875 --> 00:07:23,458
+Here for a trim?
+
+129
+00:07:23,500 --> 00:07:26,458
+My hair does not require
+trimming, you lunkhead.
+
+130
+00:07:26,500 --> 00:07:28,041
+What?
+
+131
+00:07:28,083 --> 00:07:29,500
+My hair does not require
+trimming...
+
+132
+00:07:29,542 --> 00:07:31,000
+Lunkhead?
+
+133
+00:07:31,041 --> 00:07:33,792
+I am experimenting
+with friendly jibes and insults.
+
+134
+00:07:33,834 --> 00:07:36,083
+It was not meant
+as a serious disparagement.
+
+135
+00:07:36,125 --> 00:07:37,709
+(<i> chuckles</i> )
+
+136
+00:07:37,750 --> 00:07:40,583
+Well... just don't try it
+on the Captain.
+
+137
+00:07:40,625 --> 00:07:42,959
+No.
+
+138
+00:07:43,000 --> 00:07:46,166
+Geordi, I am still confused
+
+139
+00:07:46,208 --> 00:07:48,583
+by Chief O'Brien's reaction
+this morning.
+
+140
+00:07:48,625 --> 00:07:50,125
+Mm, yeah.
+
+141
+00:07:50,166 --> 00:07:51,709
+He was just surprised, Data.
+
+142
+00:07:51,750 --> 00:07:53,875
+He didn't mean
+to blow up like that.
+
+143
+00:07:53,917 --> 00:07:55,375
+He knows that Keiko
+
+144
+00:07:55,417 --> 00:07:57,667
+probably doesn't want
+to call off the marriage.
+
+145
+00:07:57,709 --> 00:07:59,583
+She's just getting cold feet.
+
+146
+00:07:59,625 --> 00:08:01,000
+(<i> instrument humming</i> )
+
+147
+00:08:01,041 --> 00:08:02,792
+Cold feet?
+
+148
+00:08:02,834 --> 00:08:03,792
+Jitters.
+
+149
+00:08:03,834 --> 00:08:05,041
+A nervous reaction
+
+150
+00:08:05,083 --> 00:08:07,500
+to an impending event
+of great importance.
+
+151
+00:08:07,542 --> 00:08:09,542
+Right.
+Don't worry.
+
+152
+00:08:09,583 --> 00:08:11,208
+Everything's
+going to be fine.
+
+153
+00:08:11,250 --> 00:08:12,959
+She'll change her mind again.
+
+154
+00:08:13,000 --> 00:08:14,208
+She will?
+
+155
+00:08:14,250 --> 00:08:16,000
+Absolutely.
+
+156
+00:08:16,041 --> 00:08:18,917
+So, you believe that
+the marriage will still proceed?
+
+157
+00:08:18,959 --> 00:08:20,625
+Trust me.
+
+158
+00:08:20,667 --> 00:08:24,291
+They're going to get married,
+so you'd better find a gift.
+
+159
+00:08:25,875 --> 00:08:27,834
+<i>I find Lieutenant Worf</i>
+
+160
+00:08:27,875 --> 00:08:30,083
+<i>to be what is called</i>
+<i>a kindred spirit.</i>
+
+161
+00:08:30,125 --> 00:08:33,208
+<i>We were both orphans</i>
+<i>rescued by Starfleet officers.</i>
+
+162
+00:08:33,250 --> 00:08:38,542
+<i>In many ways, we are both still</i>
+<i>outsiders in human society.</i>
+
+163
+00:08:38,583 --> 00:08:42,166
+Are you here
+to find a wedding gift?
+Yes.
+
+164
+00:08:42,208 --> 00:08:45,750
+I would appreciate
+your help in selecting
+an appropriate item.
+
+165
+00:08:45,792 --> 00:08:47,375
+Of course.
+
+166
+00:08:47,417 --> 00:08:50,834
+I have attended human
+weddings before.
+
+167
+00:08:53,667 --> 00:08:54,917
+WORF:
+Hold.
+
+168
+00:08:54,959 --> 00:08:56,667
+DATA:
+This is a
+traditional gift?
+
+169
+00:08:56,709 --> 00:09:02,000
+Yes, my adoptive parents
+often give these...<i> things</i>
+
+170
+00:09:02,041 --> 00:09:04,583
+at family weddings.
+
+171
+00:09:04,625 --> 00:09:07,208
+A human custom.
+
+172
+00:09:09,417 --> 00:09:11,041
+WORF:
+Hold.
+
+173
+00:09:11,083 --> 00:09:14,750
+It is my understanding
+that the item selected
+
+174
+00:09:14,792 --> 00:09:17,625
+should reflect the personality
+of whoever is giving it.
+
+175
+00:09:17,667 --> 00:09:19,959
+This does not
+remind me of you.
+
+176
+00:09:22,083 --> 00:09:24,542
+Have you ever been
+an actual participant
+
+177
+00:09:24,583 --> 00:09:25,792
+in a human wedding?
+
+178
+00:09:25,834 --> 00:09:27,625
+No.
+
+179
+00:09:27,667 --> 00:09:30,625
+You would not consider it
+to be an honor?
+
+180
+00:09:30,667 --> 00:09:32,667
+An honor, perhaps
+
+181
+00:09:32,709 --> 00:09:34,875
+but human
+bonding rituals
+
+182
+00:09:34,917 --> 00:09:38,291
+often involve a
+great deal of talking
+
+183
+00:09:38,333 --> 00:09:40,583
+and dancing and...
+
+184
+00:09:40,625 --> 00:09:42,625
+crying.
+
+185
+00:09:42,667 --> 00:09:44,583
+Dancing?
+
+186
+00:09:47,875 --> 00:09:49,417
+<i>I am rarely in need</i>
+
+187
+00:09:49,458 --> 00:09:51,959
+<i>of Dr. Beverly Crusher's</i>
+<i>professional services</i>
+
+188
+00:09:52,000 --> 00:09:53,750
+<i>as my biomechanical</i>
+<i>maintenance program</i>
+
+189
+00:09:53,792 --> 00:09:55,500
+<i>is self-sufficient</i>
+
+190
+00:09:55,542 --> 00:09:58,709
+<i>but I often observe as she</i>
+<i>practices medicine on others</i>
+
+191
+00:09:58,750 --> 00:10:00,041
+<i>and have learned a great deal</i>
+
+192
+00:10:00,083 --> 00:10:03,291
+<i>about human interaction</i>
+<i>from her.</i>
+
+193
+00:10:03,333 --> 00:10:06,208
+Doctor, may I ask
+a favor of you?
+
+194
+00:10:06,250 --> 00:10:07,375
+Of course, Data.
+
+195
+00:10:07,417 --> 00:10:09,875
+Would you teach
+me to dance?
+
+196
+00:10:12,291 --> 00:10:13,583
+What?!
+
+197
+00:10:13,625 --> 00:10:15,417
+I would like to learn
+how to dance.
+
+198
+00:10:15,458 --> 00:10:16,417
+Why me?
+
+199
+00:10:16,458 --> 00:10:18,208
+It was in your service record--
+
+200
+00:10:18,250 --> 00:10:20,458
+"Awarded first prize, tap and
+jazz competition, St. Louis..."
+
+201
+00:10:20,500 --> 00:10:23,375
+Okay, okay.
+
+202
+00:10:23,417 --> 00:10:25,375
+Have I said something
+to upset you?
+
+203
+00:10:25,417 --> 00:10:29,417
+It's just that... that
+was a long time ago
+
+204
+00:10:29,458 --> 00:10:32,625
+and I don't want to be known
+as "The Dancing Doctor..."
+
+205
+00:10:32,667 --> 00:10:34,333
+again.
+
+206
+00:10:34,375 --> 00:10:36,792
+Then your answer is no.
+
+207
+00:10:37,792 --> 00:10:40,166
+All right, but...
+
+208
+00:10:40,208 --> 00:10:44,125
+let's keep this
+between you and me.
+
+209
+00:10:44,166 --> 00:10:45,959
+Of course, Doctor.
+
+210
+00:10:46,000 --> 00:10:49,250
+PICARD:
+Commander Data,
+please report to the Bridge.
+
+211
+00:10:49,291 --> 00:10:50,709
+Acknowledged.
+
+212
+00:10:53,834 --> 00:10:55,500
+(<i> door opens</i> )
+
+213
+00:10:55,542 --> 00:10:58,083
+Data, I want a tactical
+projection of possible
+
+214
+00:10:58,125 --> 00:11:00,291
+Romulan deployments
+along the Neutral Zone.
+
+215
+00:11:00,333 --> 00:11:02,750
+Access all Federation
+records on the subject
+
+216
+00:11:02,792 --> 00:11:04,375
+and report
+to my ready room.
+
+217
+00:11:04,417 --> 00:11:07,709
+Captain, is there a specific
+area you wish me to study?
+
+218
+00:11:10,417 --> 00:11:13,208
+No.
+Ambassador.
+
+219
+00:11:13,250 --> 00:11:18,125
+Number One, set a course
+130 mark 246, warp seven.
+
+220
+00:11:18,166 --> 00:11:20,458
+That will take us very close
+to the Neutral Zone, Captain.
+
+221
+00:11:20,500 --> 00:11:23,625
+I'm aware of
+that, Number One.
+Proceed.
+
+222
+00:11:23,667 --> 00:11:25,375
+Lay in the course.
+
+223
+00:11:29,625 --> 00:11:33,041
+<i>It is fortunate that I am</i>
+<i>able to perform my duties</i>
+
+224
+00:11:33,083 --> 00:11:36,250
+<i>without emotional distractions.</i>
+
+225
+00:11:36,291 --> 00:11:37,959
+<i>If that were not the case</i>
+
+226
+00:11:38,000 --> 00:11:40,375
+<i>a sudden course correction</i>
+<i>toward the Neutral Zone</i>
+
+227
+00:11:40,417 --> 00:11:44,750
+<i>would make me very...</i>
+<i>nervous.</i>
+
+228
+00:11:54,500 --> 00:11:55,709
+Mr. Data, based
+
+229
+00:11:55,750 --> 00:11:56,875
+on your analysis
+
+230
+00:11:56,917 --> 00:11:58,917
+what is the current
+Romulan strategy
+
+231
+00:11:58,959 --> 00:12:01,333
+behind the deployment
+of their ships in this sector?
+
+232
+00:12:01,375 --> 00:12:02,875
+Their ships are deployed
+
+233
+00:12:02,917 --> 00:12:05,750
+to support a policy of
+confrontation designed to test
+
+234
+00:12:05,792 --> 00:12:08,041
+Federation defenses
+along the Neutral Zone.
+
+235
+00:12:08,083 --> 00:12:10,083
+Do you predict any change
+in the near future?
+
+236
+00:12:10,125 --> 00:12:12,208
+I predict a 90% probability
+
+237
+00:12:12,250 --> 00:12:15,125
+that they will continue
+to support that policy.
+
+238
+00:12:15,166 --> 00:12:16,542
+And is there any indication
+
+239
+00:12:16,583 --> 00:12:19,333
+of a more conciliatory attitude
+on their part?
+
+240
+00:12:19,375 --> 00:12:21,125
+No, sir.
+
+241
+00:12:21,166 --> 00:12:23,250
+Caution is clearly called for,
+Captain.
+
+242
+00:12:23,291 --> 00:12:25,834
+However, the mission
+must proceed as planned.
+
+243
+00:12:25,875 --> 00:12:30,667
+Starfleet Command
+agrees with you
+
+244
+00:12:30,709 --> 00:12:33,709
+but I would feel better if you
+would consent to an escort
+
+245
+00:12:33,750 --> 00:12:35,375
+or a...
+
+246
+00:12:38,417 --> 00:12:40,375
+Thank you, Mr. Data.
+
+247
+00:12:52,583 --> 00:12:58,291
+Feline supplement... 74.
+
+248
+00:13:08,000 --> 00:13:09,792
+(<i> meowing</i> )
+
+249
+00:13:22,500 --> 00:13:26,417
+(<i> beeping</i> )
+
+250
+00:13:27,583 --> 00:13:30,250
+(<i> meows</i> )
+
+251
+00:13:30,291 --> 00:13:35,500
+Computer,
+run fluidic sensor diagnostic.
+
+252
+00:13:35,542 --> 00:13:37,083
+COMPUTER:
+Diagnostic complete.
+
+253
+00:13:37,125 --> 00:13:40,208
+All systems functioning
+within normal parameters.
+
+254
+00:13:40,250 --> 00:13:42,417
+(<i> door chimes</i> )
+
+255
+00:13:42,458 --> 00:13:43,792
+Come in.
+
+256
+00:13:49,375 --> 00:13:50,959
+Am I intruding,
+Commander?
+
+257
+00:13:51,000 --> 00:13:52,000
+No.
+
+258
+00:13:52,041 --> 00:13:54,041
+Would you care to sit down?
+
+259
+00:13:54,083 --> 00:13:56,917
+<i>When one of my friends</i>
+<i>is distraught, I have learned</i>
+
+260
+00:13:56,959 --> 00:13:58,542
+<i>that the thoughtful thing to do</i>
+
+261
+00:13:58,583 --> 00:14:01,625
+<i>is to attempt to make him</i>
+<i>feel more comfortable.</i>
+
+262
+00:14:03,250 --> 00:14:05,917
+May I offer you some
+refreshment, Chief?
+
+263
+00:14:05,959 --> 00:14:09,041
+No, thank you, sir.
+
+264
+00:14:09,083 --> 00:14:11,625
+First of all,
+I'd like to apologize
+
+265
+00:14:11,667 --> 00:14:13,333
+for this morning in Ten-Forward.
+
+266
+00:14:13,375 --> 00:14:15,417
+There is no need to apologize.
+
+267
+00:14:15,458 --> 00:14:17,000
+I was not offended.
+
+268
+00:14:17,041 --> 00:14:18,375
+Would you like a pillow
+
+269
+00:14:18,417 --> 00:14:20,834
+or a more comfortable
+chair to sit upon?
+
+270
+00:14:20,875 --> 00:14:22,458
+No, sir.
+
+271
+00:14:22,500 --> 00:14:23,917
+Thank you, sir.
+
+272
+00:14:25,375 --> 00:14:27,250
+Perhaps you would
+like some music?
+
+273
+00:14:27,291 --> 00:14:29,875
+Brahms? Aurelia?
+
+274
+00:14:29,917 --> 00:14:32,417
+No, really, sir, I'm fine.
+
+275
+00:14:32,458 --> 00:14:36,208
+I came to ask for your help.
+
+276
+00:14:36,250 --> 00:14:38,083
+It's about Keiko.
+
+277
+00:14:38,125 --> 00:14:39,542
+I'd like you to talk to her--
+
+278
+00:14:39,583 --> 00:14:42,000
+convince her to go through
+with the wedding.
+
+279
+00:14:42,041 --> 00:14:45,250
+Would Counselor Troi not be
+a more appropriate choice
+
+280
+00:14:45,291 --> 00:14:46,333
+to speak with Keiko?
+
+281
+00:14:46,375 --> 00:14:47,709
+She already has.
+
+282
+00:14:47,750 --> 00:14:50,208
+Didn't help.
+
+283
+00:14:50,250 --> 00:14:52,208
+You've known her longer
+than I have.
+
+284
+00:14:52,250 --> 00:14:54,542
+I just thought
+she might listen to you.
+
+285
+00:14:54,583 --> 00:14:56,458
+She won't even talk to me.
+
+286
+00:14:56,500 --> 00:14:59,583
+I do not know
+what to say to her.
+
+287
+00:14:59,625 --> 00:15:02,875
+Just talk with her--
+make her see reason.
+
+288
+00:15:02,917 --> 00:15:05,709
+She's going off half-cocked,
+not thinking this through.
+
+289
+00:15:05,750 --> 00:15:08,583
+You've worked with her
+for a long time.
+
+290
+00:15:08,625 --> 00:15:10,667
+She respects your opinion.
+
+291
+00:15:22,208 --> 00:15:24,166
+Perhaps...
+
+292
+00:15:26,417 --> 00:15:29,750
+Perhaps she has not
+fully analyzed her decision.
+
+293
+00:15:29,792 --> 00:15:31,291
+I will try.
+
+294
+00:15:32,333 --> 00:15:34,166
+Thank you, sir.
+
+295
+00:15:34,208 --> 00:15:36,166
+I won't forget this.
+
+296
+00:15:38,542 --> 00:15:40,917
+<i>Commander Maddox,</i>
+<i>I noted that Keiko</i>
+
+297
+00:15:40,959 --> 00:15:42,583
+<i>was quite calm and rational</i>
+
+298
+00:15:42,625 --> 00:15:45,208
+<i>when she informed me</i>
+<i>of her decision this morning.</i>
+
+299
+00:15:45,250 --> 00:15:48,291
+<i>Therefore, I can predict</i>
+<i>that she will respond</i>
+
+300
+00:15:48,333 --> 00:15:50,667
+<i>to an objective analysis</i>
+<i>of the situation</i>
+
+301
+00:15:50,709 --> 00:15:52,041
+<i>based on the available facts.</i>
+
+302
+00:15:52,083 --> 00:15:53,834
+<i>It is fortunate</i>
+<i>that she has not</i>
+
+303
+00:15:53,875 --> 00:15:56,291
+<i>let emotional considerations</i>
+<i>cloud her judgment.</i>
+
+304
+00:15:56,333 --> 00:15:59,041
+<i>It should make my task</i>
+<i>much simpler.</i>
+
+305
+00:15:59,083 --> 00:16:00,041
+What?
+
+306
+00:16:00,083 --> 00:16:01,333
+I believe you have made
+
+307
+00:16:01,375 --> 00:16:03,125
+an incorrect analysis
+of the facts at hand.
+
+308
+00:16:03,166 --> 00:16:04,583
+What do you mean?
+
+309
+00:16:04,625 --> 00:16:06,959
+You do not seem happy.
+
+310
+00:16:07,000 --> 00:16:08,625
+Well...
+
+311
+00:16:11,250 --> 00:16:13,417
+Your decision was based
+on the assumption
+
+312
+00:16:13,458 --> 00:16:16,125
+that canceling the wedding
+would make you happy.
+
+313
+00:16:16,166 --> 00:16:17,834
+This has proven
+to be incorrect.
+
+314
+00:16:17,875 --> 00:16:19,625
+Data, it's not that simple.
+
+315
+00:16:19,667 --> 00:16:20,959
+Since your actions
+
+316
+00:16:21,041 --> 00:16:23,625
+did not produce
+the desired result
+
+317
+00:16:23,667 --> 00:16:26,166
+the only advisable solution
+would be to reexamine
+
+318
+00:16:26,208 --> 00:16:27,458
+your decision-making process
+
+319
+00:16:27,500 --> 00:16:28,667
+and look for errors.
+
+320
+00:16:28,709 --> 00:16:30,125
+I knew what I was doing.
+
+321
+00:16:30,166 --> 00:16:31,125
+It's my decision.
+
+322
+00:16:31,166 --> 00:16:32,709
+That fact is not in dispute.
+
+323
+00:16:32,750 --> 00:16:35,083
+However, you may have
+acted with undue haste
+
+324
+00:16:35,125 --> 00:16:39,000
+and in doing so,
+unintentionally hurt
+Chief O'Brien's feelings.
+
+325
+00:16:39,041 --> 00:16:40,458
+I did what I had to!
+
+326
+00:16:40,500 --> 00:16:42,125
+Why are you doing this?
+
+327
+00:16:43,166 --> 00:16:44,834
+I thought you
+were my friend.
+
+328
+00:16:44,875 --> 00:16:46,041
+I am your friend.
+
+329
+00:16:46,083 --> 00:16:47,834
+Then leave me alone.
+
+330
+00:16:47,875 --> 00:16:49,458
+If I have offended...
+
+331
+00:16:49,500 --> 00:16:51,166
+Just leave me alone!
+
+332
+00:16:52,417 --> 00:16:55,000
+<i>It is clear</i>
+<i>that I need guidance</i>
+
+333
+00:16:55,041 --> 00:16:56,917
+<i>to resolve this situation.</i>
+
+334
+00:16:56,959 --> 00:17:00,709
+<i>Counselor Troi's advice</i>
+<i>should be useful.</i>
+
+335
+00:17:00,750 --> 00:17:02,750
+<i>In many ways, Deanna Troi</i>
+
+336
+00:17:02,792 --> 00:17:04,750
+<i>is the friend</i>
+<i>I understand the least.</i>
+
+337
+00:17:04,792 --> 00:17:06,625
+<i>Her life and her duties</i>
+<i>are predicated</i>
+
+338
+00:17:06,667 --> 00:17:09,375
+<i>on her understanding</i>
+<i>and perception of emotions.</i>
+
+339
+00:17:09,417 --> 00:17:11,667
+<i>Since I have none,</i>
+<i>no doubt she finds me</i>
+
+340
+00:17:11,709 --> 00:17:15,083
+<i>as much a mystery</i>
+<i>as I find her.</i>
+
+341
+00:17:15,125 --> 00:17:17,166
+Chief O'Brien
+talks to me.
+
+342
+00:17:17,208 --> 00:17:19,166
+Keiko talks to you.
+
+343
+00:17:19,208 --> 00:17:22,208
+Why do they not talk
+to each other?
+
+344
+00:17:22,250 --> 00:17:24,291
+That's a good question, Data.
+
+345
+00:17:24,333 --> 00:17:27,083
+I wish I had
+a good answer for you.
+
+346
+00:17:27,125 --> 00:17:29,000
+Perhaps, when they're ready,
+they will.
+
+347
+00:17:29,041 --> 00:17:30,667
+Hmm.
+
+348
+00:17:30,709 --> 00:17:33,959
+Many aspects of this situation
+are puzzling to me.
+
+349
+00:17:34,000 --> 00:17:36,083
+I have been studying
+various texts
+
+350
+00:17:36,125 --> 00:17:37,542
+on the subject of marriage
+
+351
+00:17:37,583 --> 00:17:39,625
+but I have not found
+a suitable guide.
+
+352
+00:17:39,667 --> 00:17:41,583
+A suitable guide for what?
+
+353
+00:17:41,625 --> 00:17:45,333
+In an effort to be helpful,
+I am attempting to calculate
+
+354
+00:17:45,375 --> 00:17:48,792
+the variables involved
+in a successful marriage.
+
+355
+00:17:48,834 --> 00:17:50,917
+Good luck.
+
+356
+00:17:50,959 --> 00:17:52,959
+There are
+many opinions.
+
+357
+00:17:53,000 --> 00:17:56,500
+On Galvin V, a marriage
+is considered successful
+
+358
+00:17:56,542 --> 00:17:59,667
+only if children are produced
+within a year of the marriage.
+
+359
+00:17:59,709 --> 00:18:03,250
+Andorian marriages require
+groups of four, unless...
+
+360
+00:18:03,291 --> 00:18:06,750
+Data, would you like my advice
+on how to help them?
+
+361
+00:18:07,750 --> 00:18:09,583
+Don't.
+
+362
+00:18:09,625 --> 00:18:12,333
+This is something they have
+to work out for themselves.
+
+363
+00:18:12,375 --> 00:18:14,875
+But... I am their friend.
+
+364
+00:18:14,917 --> 00:18:18,083
+Should I not stand with them
+in a time of difficulty?
+
+365
+00:18:18,125 --> 00:18:20,834
+There are many ways
+to help a friend
+
+366
+00:18:20,875 --> 00:18:23,834
+and sometimes the best way
+is to leave them alone.
+
+367
+00:18:26,417 --> 00:18:28,834
+Do you believe it
+to be the correct decision
+
+368
+00:18:28,875 --> 00:18:29,875
+for them to marry?
+
+369
+00:18:29,917 --> 00:18:31,709
+I don't know.
+
+370
+00:18:31,750 --> 00:18:35,500
+They're very much in love,
+but sometimes that isn't enough.
+
+371
+00:18:35,542 --> 00:18:36,834
+Marriage is an agreement
+
+372
+00:18:36,875 --> 00:18:39,542
+to share who you are
+with someone else
+
+373
+00:18:39,583 --> 00:18:42,667
+to spend your lives together,
+to grow old together.
+
+374
+00:18:42,709 --> 00:18:44,917
+"To grow old together"?
+
+375
+00:18:44,959 --> 00:18:47,709
+That is an integral component
+of marriage?
+
+376
+00:18:47,750 --> 00:18:50,500
+Usually.
+Why do you ask?
+
+377
+00:18:50,542 --> 00:18:52,000
+Although I am an android
+
+378
+00:18:52,041 --> 00:18:54,291
+I have not excluded
+the possibility
+
+379
+00:18:54,333 --> 00:18:57,458
+that I, too, may someday marry.
+
+380
+00:18:57,500 --> 00:19:00,208
+Data, I had no idea
+
+381
+00:19:00,250 --> 00:19:02,125
+you'd thought
+about getting married.
+
+382
+00:19:02,166 --> 00:19:05,333
+I believe I have much
+to offer a potential mate
+
+383
+00:19:05,375 --> 00:19:08,333
+however, we cannot
+grow old together because...
+
+384
+00:19:08,375 --> 00:19:10,625
+I will not grow old.
+
+385
+00:19:11,959 --> 00:19:13,458
+Data...
+
+386
+00:19:15,792 --> 00:19:18,375
+you do have
+a lot to offer.
+
+387
+00:19:18,417 --> 00:19:21,667
+Commander Data,
+this is Ambassador T'Pel.
+
+388
+00:19:21,709 --> 00:19:23,542
+Please report to my quarters.
+
+389
+00:19:23,583 --> 00:19:25,875
+Acknowledged.
+
+390
+00:19:31,750 --> 00:19:34,250
+(<i> door chimes</i> )
+
+391
+00:19:34,291 --> 00:19:35,667
+Enter.
+
+392
+00:19:39,667 --> 00:19:41,750
+You have
+priority three clearance
+
+393
+00:19:41,792 --> 00:19:43,083
+aboard the<i> Enterprise?</i>
+
+394
+00:19:43,125 --> 00:19:44,709
+That is correct,
+Ambassador.
+
+395
+00:19:44,750 --> 00:19:46,500
+I require information
+
+396
+00:19:46,542 --> 00:19:49,709
+on the ship's defense
+and navigational systems.
+
+397
+00:19:49,750 --> 00:19:54,083
+Access code kappa alpha 4601704.
+
+398
+00:19:54,125 --> 00:19:55,959
+The code is valid.
+
+399
+00:19:56,000 --> 00:19:59,750
+What is the field strength
+of this ship's deflector shields
+
+400
+00:19:59,792 --> 00:20:01,417
+at maximum output?
+
+401
+00:20:01,458 --> 00:20:05,166
+May I ask the purpose
+of your request?
+
+402
+00:20:05,208 --> 00:20:07,834
+I require
+this information.
+
+403
+00:20:07,875 --> 00:20:09,792
+I have the same
+safeguards
+
+404
+00:20:09,834 --> 00:20:11,166
+as the ship's computer.
+
+405
+00:20:11,208 --> 00:20:13,083
+Therefore, I must
+report any inquiry
+
+406
+00:20:13,125 --> 00:20:14,750
+regarding restricted
+information
+
+407
+00:20:14,792 --> 00:20:16,667
+to the Captain.
+
+408
+00:20:16,709 --> 00:20:20,625
+Your reaction suggests
+you do not wish the Captain
+
+409
+00:20:20,667 --> 00:20:22,166
+to be informed of your inquiry.
+
+410
+00:20:22,208 --> 00:20:25,333
+I was not interested
+in the information.
+
+411
+00:20:25,375 --> 00:20:28,125
+I was curious
+as to your security safeguards.
+
+412
+00:20:28,166 --> 00:20:30,041
+They appear to be adequate.
+
+413
+00:20:30,083 --> 00:20:31,333
+Cancel the request.
+
+414
+00:20:31,375 --> 00:20:32,625
+You may leave.
+
+415
+00:20:36,625 --> 00:20:39,750
+<i>Commander Maddox, I have</i>
+<i>often wished for the sense</i>
+
+416
+00:20:39,792 --> 00:20:42,709
+<i>that humans</i>
+<i>call intuition or instinct.</i>
+
+417
+00:20:42,750 --> 00:20:44,792
+<i>Since Vulcans</i>
+<i>are incapable of lying</i>
+
+418
+00:20:44,834 --> 00:20:48,125
+<i>I must accept the Ambassador's</i>
+<i>explanation as the truth</i>
+
+419
+00:20:48,166 --> 00:20:50,917
+<i>but I would still prefer</i>
+<i>a "gut feeling"</i>
+
+420
+00:20:50,959 --> 00:20:53,375
+<i>to back up this conclusion.</i>
+
+421
+00:21:08,125 --> 00:21:11,458
+COMPUTER:
+Program Crusher four
+in progress.
+
+422
+00:21:16,583 --> 00:21:18,041
+Hi, Data.
+
+423
+00:21:18,083 --> 00:21:19,375
+(<i> shoes tapping</i> )
+
+424
+00:21:19,417 --> 00:21:20,500
+Well, what do you think?
+
+425
+00:21:20,542 --> 00:21:22,166
+It is a re-creation
+of the studio
+
+426
+00:21:22,208 --> 00:21:23,959
+I had my first
+dance lesson in.
+
+427
+00:21:24,000 --> 00:21:24,917
+It appears to be
+
+428
+00:21:24,959 --> 00:21:26,667
+quite suitable, Doctor.
+
+429
+00:21:26,709 --> 00:21:29,625
+Let's start
+with something simple.
+
+430
+00:21:29,667 --> 00:21:31,500
+Stomp... hop.
+
+431
+00:21:31,542 --> 00:21:32,583
+Try it.
+
+432
+00:21:32,625 --> 00:21:33,709
+(<i> shoes tapping</i> )
+
+433
+00:21:33,750 --> 00:21:35,709
+Again.
+
+434
+00:21:35,750 --> 00:21:37,208
+Good.
+
+435
+00:21:37,250 --> 00:21:38,417
+Good!
+
+436
+00:21:38,458 --> 00:21:40,625
+Am I dancing, Doctor?
+
+437
+00:21:40,667 --> 00:21:41,834
+Not quite.
+
+438
+00:21:41,875 --> 00:21:43,458
+Stop, Data.
+
+439
+00:21:43,500 --> 00:21:45,166
+Now try this.
+
+440
+00:21:45,208 --> 00:21:46,959
+Doctor, perhaps
+
+441
+00:21:47,000 --> 00:21:49,542
+it would be beneficial
+to teach me the final lesson.
+
+442
+00:21:51,792 --> 00:21:53,625
+Okay.
+
+443
+00:21:55,125 --> 00:21:57,166
+(<i> complicated tap rhythm</i> )
+
+444
+00:22:02,750 --> 00:22:05,000
+That's great.
+
+445
+00:22:05,041 --> 00:22:06,375
+Watch.
+
+446
+00:22:08,208 --> 00:22:10,417
+Good.
+
+447
+00:22:10,458 --> 00:22:11,792
+Triples.
+
+448
+00:22:14,250 --> 00:22:15,667
+Watch.
+
+449
+00:22:23,208 --> 00:22:25,250
+Stop, Data.
+
+450
+00:22:25,291 --> 00:22:29,875
+And you say you've
+never done this before?
+
+451
+00:22:29,917 --> 00:22:31,667
+Try this.
+
+452
+00:22:32,625 --> 00:22:35,667
+(<i> rapid tap rhythm</i> )
+
+453
+00:23:08,625 --> 00:23:10,375
+Stop, Data!
+
+454
+00:23:12,333 --> 00:23:14,375
+Not bad.
+
+455
+00:23:14,417 --> 00:23:16,333
+Yeah, not bad.
+
+456
+00:23:16,375 --> 00:23:18,417
+Then I have successfully
+learned to dance?
+
+457
+00:23:18,458 --> 00:23:21,375
+I'd say you've
+picked up the basics.
+
+458
+00:23:21,417 --> 00:23:22,667
+Thank you, Doctor.
+
+459
+00:23:22,709 --> 00:23:24,792
+I am now prepared
+to dance at the wedding.
+
+460
+00:23:24,834 --> 00:23:25,792
+Wedding?
+
+461
+00:23:25,834 --> 00:23:28,333
+Keiko's wedding.
+
+462
+00:23:28,375 --> 00:23:31,875
+Data, you never told me
+this was for the wedding.
+
+463
+00:23:31,917 --> 00:23:33,125
+Is that important?
+
+464
+00:23:33,166 --> 00:23:34,500
+Well, yes.
+
+465
+00:23:34,542 --> 00:23:37,792
+They don't do a lot
+of tap dancing at weddings.
+
+466
+00:23:37,834 --> 00:23:38,917
+Why?
+
+467
+00:23:38,959 --> 00:23:41,709
+Well, Data, because...
+
+468
+00:23:41,750 --> 00:23:44,208
+I don't really
+know why, Data.
+
+469
+00:23:44,250 --> 00:23:46,000
+Look, why don't I
+just teach you
+
+470
+00:23:46,041 --> 00:23:47,667
+a style of dancing
+that they<i> will</i> do
+
+471
+00:23:47,709 --> 00:23:49,500
+at the wedding.
+
+472
+00:23:49,542 --> 00:23:53,000
+Computer, run...
+
+473
+00:23:53,041 --> 00:23:55,542
+"Isn't It Romantic?"
+
+474
+00:23:55,583 --> 00:23:57,250
+(<i> music starts</i> )
+
+475
+00:23:57,291 --> 00:23:59,625
+Now, compared
+to what we've just done
+
+476
+00:23:59,667 --> 00:24:01,458
+this will be simple.
+
+477
+00:24:01,500 --> 00:24:04,417
+Just look up
+and follow me.
+
+478
+00:24:04,458 --> 00:24:07,750
+One, two, ready and...
+
+479
+00:24:09,041 --> 00:24:10,417
+No, Data, wait a minute.
+
+480
+00:24:10,458 --> 00:24:13,041
+Ow! No, no, you're just
+moving... move slowly.
+
+481
+00:24:13,083 --> 00:24:15,166
+Ow! Ow!
+Stop music!
+
+482
+00:24:15,208 --> 00:24:16,625
+Sorry, Doctor.
+
+483
+00:24:16,667 --> 00:24:18,417
+I don't understand, Data.
+
+484
+00:24:18,458 --> 00:24:20,875
+You picked up
+the tap dancing so quickly.
+
+485
+00:24:20,917 --> 00:24:22,750
+I cannot reproduce
+your performance
+
+486
+00:24:22,792 --> 00:24:24,333
+if I cannot
+see your feet.
+
+487
+00:24:27,166 --> 00:24:28,709
+All right.
+
+488
+00:24:28,750 --> 00:24:30,667
+Well, let's try it again
+
+489
+00:24:30,709 --> 00:24:33,917
+and this time,
+watch my feet.
+
+490
+00:24:33,959 --> 00:24:36,750
+Computer, start music.
+
+491
+00:24:36,792 --> 00:24:39,709
+(<i> music starts</i> )
+And...
+
+492
+00:24:43,208 --> 00:24:46,083
+Now, don't just imitate me.
+
+493
+00:24:46,125 --> 00:24:47,792
+You've got to lead.
+
+494
+00:24:47,834 --> 00:24:49,500
+Lead where, Doctor?
+
+495
+00:24:49,542 --> 00:24:52,250
+Well, indicate to your partner
+where you want her to step.
+
+496
+00:24:52,291 --> 00:24:57,500
+And how is that
+accomplished?
+
+497
+00:24:57,542 --> 00:24:58,875
+I'll show you.
+
+498
+00:24:58,917 --> 00:25:00,375
+<i>I'll</i> lead.
+
+499
+00:25:04,625 --> 00:25:07,041
+Now you'll notice that
+I don't just repeat
+
+500
+00:25:07,083 --> 00:25:09,000
+the same pattern over and over.
+
+501
+00:25:09,041 --> 00:25:10,792
+I improvise.
+
+502
+00:25:12,333 --> 00:25:13,875
+Now you lead.
+
+503
+00:25:17,750 --> 00:25:19,709
+That's good.
+
+504
+00:25:19,750 --> 00:25:21,917
+Now look up, Data.
+
+505
+00:25:21,959 --> 00:25:24,041
+Look into my eyes.
+
+506
+00:25:24,083 --> 00:25:26,083
+You're holding me too tight.
+
+507
+00:25:26,125 --> 00:25:29,083
+This is a very complex
+set of variables
+
+508
+00:25:29,125 --> 00:25:30,333
+to coordinate, Doctor.
+
+509
+00:25:30,375 --> 00:25:32,083
+You are doing fine.
+
+510
+00:25:32,125 --> 00:25:33,917
+Now, smile.
+
+511
+00:25:33,959 --> 00:25:37,917
+Act like you're
+enjoying yourself.
+
+512
+00:25:37,959 --> 00:25:41,208
+NURSE:
+Dr. Crusher, please
+report to Sick Bay.
+
+513
+00:25:41,250 --> 00:25:42,834
+Is it Lieutenant Juarez?
+
+514
+00:25:42,875 --> 00:25:45,542
+Yes, Doctor, her contractions
+are now one minute apart.
+
+515
+00:25:45,583 --> 00:25:46,834
+I'm on my way.
+
+516
+00:25:46,875 --> 00:25:48,208
+Why don't you, uh...
+
+517
+00:25:48,250 --> 00:25:50,917
+program up an artificial
+dance partner?
+
+518
+00:25:50,959 --> 00:25:53,583
+And don't be afraid
+to experiment.
+
+519
+00:25:53,625 --> 00:25:54,583
+I will.
+
+520
+00:25:54,625 --> 00:25:55,875
+Thank you, Doctor.
+
+521
+00:25:55,917 --> 00:26:00,458
+Computer, create dance partner--
+female.
+
+522
+00:26:06,250 --> 00:26:07,917
+Begin music.
+
+523
+00:26:07,959 --> 00:26:09,875
+(<i> music starts</i> )
+
+524
+00:26:33,417 --> 00:26:36,667
+RIKER:
+Then just as the headsman swings
+the axe and the blade is...
+
+525
+00:26:36,709 --> 00:26:38,583
+<i>Commander Riker's</i>
+<i>easygoing manner</i>
+
+526
+00:26:38,625 --> 00:26:40,875
+<i>and sense of humor</i>
+<i>is fascinating to me.</i>
+
+527
+00:26:40,917 --> 00:26:42,208
+<i>I believe it to be one reason</i>
+
+528
+00:26:42,250 --> 00:26:44,500
+<i>he is so popular</i>
+<i>among the crew.</i>
+
+529
+00:26:44,542 --> 00:26:46,625
+<i>It may also be</i>
+<i>partly responsible</i>
+
+530
+00:26:46,667 --> 00:26:49,083
+<i>for his success</i>
+<i>in matters of love.</i>
+
+531
+00:26:49,125 --> 00:26:51,583
+<i>There may be a correlation</i>
+<i>between humor and sex.</i>
+
+532
+00:26:51,625 --> 00:26:55,166
+<i>The need for more research</i>
+<i>is clearly indicated.</i>
+
+533
+00:26:58,500 --> 00:27:00,333
+(<i> console beeping</i> )
+
+534
+00:27:00,375 --> 00:27:01,709
+Commander.
+
+535
+00:27:04,625 --> 00:27:06,125
+Picard to the Bridge.
+
+536
+00:27:06,166 --> 00:27:07,583
+All stop.
+
+537
+00:27:07,625 --> 00:27:08,917
+Aye, sir.
+
+538
+00:27:10,709 --> 00:27:14,083
+DATA:
+Sir, we have reached
+the designated coordinates.
+
+539
+00:27:14,125 --> 00:27:15,667
+Hold this position.
+
+540
+00:27:15,709 --> 00:27:17,458
+Long range scan.
+
+541
+00:27:17,500 --> 00:27:19,750
+Captain, I am
+detecting a ship
+
+542
+00:27:19,792 --> 00:27:20,917
+in the Neutral Zone.
+
+543
+00:27:20,959 --> 00:27:22,500
+Configuration...
+
+544
+00:27:22,542 --> 00:27:25,458
+Romulan warbird.
+
+545
+00:27:25,500 --> 00:27:27,750
+Yellow Alert.
+
+546
+00:27:29,709 --> 00:27:32,125
+Hail the warbird,
+Mr. Worf.
+
+547
+00:27:32,166 --> 00:27:33,417
+Aye, sir.
+
+548
+00:27:33,458 --> 00:27:35,458
+They are responding.
+
+549
+00:27:35,500 --> 00:27:38,291
+Text only.
+
+550
+00:27:38,333 --> 00:27:40,166
+We are to proceed
+
+551
+00:27:40,208 --> 00:27:41,709
+to the agreed
+coordinates.
+
+552
+00:27:41,750 --> 00:27:48,500
+Set course 037 mark 005,
+warp four.
+
+553
+00:27:48,542 --> 00:27:50,917
+Take us into the Neutral Zone,
+Ensign.
+
+554
+00:27:58,125 --> 00:28:00,875
+Captain, the warbird
+is holding position.
+
+555
+00:28:00,917 --> 00:28:03,750
+In three minutes, we will be
+within phaser range.
+
+556
+00:28:03,792 --> 00:28:04,792
+Red Alert.
+
+557
+00:28:04,834 --> 00:28:06,458
+(<i> alarm blaring</i> )
+
+558
+00:28:07,709 --> 00:28:09,834
+I trust my crew, Ambassador.
+
+559
+00:28:09,875 --> 00:28:11,917
+They will take
+no provocative action
+
+560
+00:28:11,959 --> 00:28:13,875
+unless I order them.
+
+561
+00:28:15,959 --> 00:28:17,333
+Hold position
+
+562
+00:28:17,375 --> 00:28:18,709
+on these coordinates.
+
+563
+00:28:18,750 --> 00:28:20,333
+Slow to half impulse.
+
+564
+00:28:20,375 --> 00:28:22,375
+Open a channel.
+
+565
+00:28:23,709 --> 00:28:25,041
+Open.
+
+566
+00:28:26,125 --> 00:28:28,917
+I am Ambassador T'Pel.
+
+567
+00:28:28,959 --> 00:28:31,500
+I am Admiral Mendak.
+
+568
+00:28:31,542 --> 00:28:33,083
+There is no
+established protocol
+
+569
+00:28:33,125 --> 00:28:35,208
+for a meeting of this nature.
+
+570
+00:28:35,250 --> 00:28:37,375
+The logical course
+is that I transport
+
+571
+00:28:37,417 --> 00:28:39,834
+aboard your ship and
+begin the negotiations.
+
+572
+00:28:39,875 --> 00:28:41,250
+Yes.
+
+573
+00:28:41,291 --> 00:28:45,208
+Captain, I note
+your defensive systems
+
+574
+00:28:45,250 --> 00:28:46,709
+have been activated.
+
+575
+00:28:46,750 --> 00:28:48,041
+As have yours.
+
+576
+00:28:48,083 --> 00:28:50,125
+It was not meant
+as an accusation.
+
+577
+00:28:50,166 --> 00:28:53,333
+Indeed, I salute
+your show of strength.
+
+578
+00:28:53,375 --> 00:28:56,667
+Ambassador, we are honored
+by your presence.
+
+579
+00:28:56,709 --> 00:28:59,917
+You may transport aboard
+at your convenience.
+
+580
+00:28:59,959 --> 00:29:01,625
+The honor is mine.
+
+581
+00:29:03,500 --> 00:29:06,041
+Have your transporter room
+stand by.
+
+582
+00:29:06,083 --> 00:29:07,959
+I will beam
+aboard their ship
+
+583
+00:29:08,000 --> 00:29:09,583
+with no further delay.
+
+584
+00:29:09,625 --> 00:29:13,208
+Ambassador, I urge you
+once more to reconsider.
+
+585
+00:29:13,250 --> 00:29:16,208
+The<i> Enterprise</i> can
+accommodate a
+Romulan delegation
+
+586
+00:29:16,250 --> 00:29:17,917
+without sacrificing
+our security or...
+
+587
+00:29:17,959 --> 00:29:21,291
+Captain Picard, I find
+your argument illogical.
+
+588
+00:29:21,333 --> 00:29:23,417
+Please carry out
+my instructions.
+
+589
+00:29:27,417 --> 00:29:28,709
+Picard to Chief O'Brien.
+
+590
+00:29:28,750 --> 00:29:30,667
+O'Brien here.
+
+591
+00:29:30,709 --> 00:29:33,583
+Prepare to transport
+Ambassador T'Pel to
+the Romulan vessel.
+
+592
+00:29:33,625 --> 00:29:35,208
+Aye, sir.
+
+593
+00:29:35,250 --> 00:29:37,667
+Mr. Worf, maintain
+a lock on her signal
+once she's aboard.
+
+594
+00:29:37,709 --> 00:29:40,000
+At the first sign of
+trouble, I want to be
+able to bring her back.
+
+595
+00:29:40,041 --> 00:29:41,709
+Understood.
+
+596
+00:29:43,959 --> 00:29:45,834
+Transporter activated.
+
+597
+00:29:45,875 --> 00:29:47,083
+(<i> console beeping insistently)</i>
+
+598
+00:29:47,125 --> 00:29:48,208
+Captain...
+
+599
+00:29:48,250 --> 00:29:49,250
+O'BRIEN:
+Transporter emergency!
+
+600
+00:29:49,291 --> 00:29:51,250
+I'm losing her signal.
+
+601
+00:29:51,291 --> 00:29:53,083
+Boosting power
+to autosequencers.
+
+602
+00:29:53,125 --> 00:29:55,000
+Engaging computer override.
+
+603
+00:29:55,041 --> 00:29:56,542
+O'Brien, what happened
+down there?
+
+604
+00:29:56,583 --> 00:29:58,250
+I'm losing the pattern.
+
+605
+00:29:58,291 --> 00:30:00,583
+Trying to reestablish.
+
+606
+00:30:02,333 --> 00:30:03,875
+I'm sorry, sir.
+
+607
+00:30:03,917 --> 00:30:07,333
+I wasn't able
+to retrieve the signal.
+
+608
+00:30:07,375 --> 00:30:09,875
+The Ambassador is dead.
+
+609
+00:30:14,959 --> 00:30:18,291
+DATA:
+<i>Second Officer's Personal Log,</i>
+<i>supplemental.</i>
+
+610
+00:30:18,333 --> 00:30:21,291
+<i>The risks aboard a starship</i>
+<i>are accepted by all who serve</i>
+
+611
+00:30:21,333 --> 00:30:23,166
+<i>but I have never failed</i>
+<i>to observe</i>
+
+612
+00:30:23,208 --> 00:30:26,125
+<i>a deep emotional response</i>
+<i>to the loss of a comrade.</i>
+
+613
+00:30:26,166 --> 00:30:27,917
+<i>It is at times like this</i>
+
+614
+00:30:27,959 --> 00:30:30,834
+<i>that I greatly miss the ability</i>
+<i>to share human feelings.</i>
+
+615
+00:30:30,875 --> 00:30:33,166
+The signal lock
+wasn't broken, sir.
+
+616
+00:30:33,208 --> 00:30:35,083
+I had just entered
+the transfer sequence
+
+617
+00:30:35,125 --> 00:30:37,583
+when the Ambassador's
+pattern began to break up.
+
+618
+00:30:37,625 --> 00:30:40,208
+I tried to switch to
+emergency manual control
+
+619
+00:30:40,250 --> 00:30:43,542
+but the pattern
+deteriorated too
+quickly and...
+
+620
+00:30:43,583 --> 00:30:46,583
+Captain, there is no prior
+record of this type of accident
+
+621
+00:30:46,625 --> 00:30:48,500
+occurring aboard a starship.
+
+622
+00:30:48,542 --> 00:30:49,959
+Backup systems and safeguards
+
+623
+00:30:50,000 --> 00:30:52,333
+are designed to prevent
+just such an occurrence.
+
+624
+00:30:52,375 --> 00:30:55,750
+I can't find any system flaws
+in the unit, Captain.
+
+625
+00:30:55,792 --> 00:30:57,375
+The engineering status
+reports were all normal
+
+626
+00:30:57,417 --> 00:30:58,875
+none of the backups
+were activated
+
+627
+00:30:58,917 --> 00:31:01,458
+and the autosequencers were
+all functioning normally.
+
+628
+00:31:01,500 --> 00:31:04,500
+Any prior malfunctions
+on this transporter unit?
+No, sir.
+
+629
+00:31:04,542 --> 00:31:06,959
+In fact, we replaced
+the transition coil
+only last week.
+
+630
+00:31:07,000 --> 00:31:08,166
+Could there have been
+some sort of
+
+631
+00:31:08,208 --> 00:31:09,417
+interference
+from the Romulans?
+
+632
+00:31:09,458 --> 00:31:10,667
+Nothing that I could see.
+
+633
+00:31:10,709 --> 00:31:11,834
+The shields were down.
+
+634
+00:31:11,875 --> 00:31:13,041
+There was no power
+interruption
+
+635
+00:31:13,083 --> 00:31:14,625
+no subspace bias.
+
+636
+00:31:14,667 --> 00:31:16,750
+I want this unit pulled
+and its systems checked again
+
+637
+00:31:16,792 --> 00:31:20,041
+and I want a level-one
+diagnostic on all transporters.
+
+638
+00:31:20,083 --> 00:31:22,000
+Yes, sir.
+
+639
+00:31:22,041 --> 00:31:23,333
+Her molecular structure
+
+640
+00:31:23,375 --> 00:31:25,875
+dissipated instantly
+once the pattern was lost.
+
+641
+00:31:25,917 --> 00:31:28,291
+There were some organic
+compounds left on the pad
+
+642
+00:31:28,333 --> 00:31:30,709
+but there wasn't enough
+material to do an autopsy.
+
+643
+00:31:33,750 --> 00:31:35,792
+To die...
+
+644
+00:31:37,583 --> 00:31:40,083
+on a transporter.
+
+645
+00:31:40,125 --> 00:31:41,667
+Hardly a fitting end
+
+646
+00:31:41,709 --> 00:31:44,166
+for one of the Federation's
+most honored diplomats.
+
+647
+00:31:44,208 --> 00:31:46,208
+WORF:
+Bridge to Captain Picard.
+
+648
+00:31:46,250 --> 00:31:47,709
+Admiral Mendak is hailing.
+
+649
+00:31:47,750 --> 00:31:49,333
+He wishes to speak with you.
+
+650
+00:31:51,083 --> 00:31:53,208
+(<i> sighs</i> )
+
+651
+00:31:54,333 --> 00:31:56,625
+We're still waiting, Captain.
+
+652
+00:31:56,667 --> 00:31:58,208
+Is there a problem?
+
+653
+00:31:58,250 --> 00:31:59,917
+PICARD:
+There's been an accident.
+
+654
+00:31:59,959 --> 00:32:04,000
+Ambassador T'Pel has been killed
+in a transporter malfunction.
+
+655
+00:32:04,041 --> 00:32:06,625
+What kind of malfunction?
+
+656
+00:32:06,667 --> 00:32:09,083
+We are still investigating that.
+As soon as...
+
+657
+00:32:09,125 --> 00:32:10,750
+I should have known
+the Federation
+
+658
+00:32:10,792 --> 00:32:12,875
+wasn't serious
+about this conference.
+
+659
+00:32:12,917 --> 00:32:14,417
+Admiral, I assure you
+
+660
+00:32:14,458 --> 00:32:17,291
+the Federation
+places the highest priority
+
+661
+00:32:17,333 --> 00:32:19,291
+on this mission and its goal.
+
+662
+00:32:19,333 --> 00:32:20,750
+Well played, Captain.
+
+663
+00:32:20,792 --> 00:32:22,250
+Well played.
+
+664
+00:32:22,291 --> 00:32:25,083
+Starfleet opposes
+normalization of relations
+
+665
+00:32:25,125 --> 00:32:26,583
+with the Romulan Empire
+
+666
+00:32:26,625 --> 00:32:30,917
+and so you are ordered
+to create... an "accident."
+
+667
+00:32:30,959 --> 00:32:32,166
+You are mistaken.
+
+668
+00:32:32,208 --> 00:32:33,834
+I am ready and willing
+
+669
+00:32:33,875 --> 00:32:37,417
+to discuss the establishment
+of full diplomatic relations
+
+670
+00:32:37,458 --> 00:32:40,291
+under the same terms
+as Ambassador T'Pel.
+
+671
+00:32:40,333 --> 00:32:42,542
+A generous offer, since you know
+
+672
+00:32:42,583 --> 00:32:45,792
+that we were willing
+to negotiate only with T'Pel.
+
+673
+00:32:45,834 --> 00:32:47,834
+I salute you again, Captain.
+
+674
+00:32:47,875 --> 00:32:51,125
+It was a maneuver
+worthy of a Romulan.
+
+675
+00:32:51,166 --> 00:32:54,125
+I suggest we both
+leave the Neutral Zone
+
+676
+00:32:54,166 --> 00:32:58,125
+before there
+is another... "accident."
+
+677
+00:33:00,208 --> 00:33:02,083
+Set course
+for Federation territory.
+
+678
+00:33:02,125 --> 00:33:04,583
+Warp two.
+
+679
+00:33:04,625 --> 00:33:06,250
+Engage.
+
+680
+00:33:06,291 --> 00:33:09,375
+Mr. Data, I want you to take
+charge of this investigation.
+
+681
+00:33:09,417 --> 00:33:13,083
+Study computer logs,
+sensor information, everything.
+
+682
+00:33:13,125 --> 00:33:16,125
+I refuse to believe that this
+was a simple malfunction.
+
+683
+00:33:16,166 --> 00:33:17,625
+Aye, sir.
+
+684
+00:33:19,500 --> 00:33:22,333
+<i>Captain Picard was the person</i>
+<i>who first interested me</i>
+
+685
+00:33:22,375 --> 00:33:24,250
+<i>in the works</i>
+<i>of Sir Arthur Conan Doyle.</i>
+
+686
+00:33:24,291 --> 00:33:27,041
+<i>I have subsequently</i>
+<i>become a great admirer</i>
+
+687
+00:33:27,083 --> 00:33:29,458
+<i>of the fictional detective</i>
+<i>Sherlock Holmes</i>
+
+688
+00:33:29,500 --> 00:33:31,417
+<i>and his ability</i>
+<i>to solve mysteries</i>
+
+689
+00:33:31,458 --> 00:33:34,750
+<i>by careful examination</i>
+<i>of the available evidence.</i>
+
+690
+00:33:43,542 --> 00:33:46,625
+<i>I have found</i>
+<i>Holmes' methodology</i>
+
+691
+00:33:46,667 --> 00:33:49,166
+<i>of deductive reasoning</i>
+<i>to be quite useful.</i>
+
+692
+00:33:49,208 --> 00:33:50,917
+<i>One of his adages is</i>
+
+693
+00:33:50,959 --> 00:33:52,875
+<i>that, once you have</i>
+<i>eliminated the impossible</i>
+
+694
+00:33:52,917 --> 00:33:58,041
+<i>whatever remains, however</i>
+<i>improbable, must be the truth.</i>
+
+695
+00:33:59,792 --> 00:34:01,834
+I'm sorry,
+I don't have time
+
+696
+00:34:01,875 --> 00:34:03,834
+to give you another lesson
+right now, Data.
+
+697
+00:34:03,875 --> 00:34:05,375
+That is not my purpose.
+
+698
+00:34:05,417 --> 00:34:08,166
+I would like to examine
+the remains of Ambassador T'Pel
+
+699
+00:34:08,208 --> 00:34:09,667
+left on the transporter pad.
+
+700
+00:34:09,709 --> 00:34:12,417
+I'm working on the report
+right now.
+
+701
+00:34:12,458 --> 00:34:15,709
+Have you
+compared the genetic code
+
+702
+00:34:15,750 --> 00:34:19,583
+with the Ambassador's last
+recorded transporter ID traces?
+
+703
+00:34:19,625 --> 00:34:22,458
+No, that's not
+standard procedure. Why?
+
+704
+00:34:22,500 --> 00:34:26,375
+I could be chasing an untamed
+ornithoid without cause.
+
+705
+00:34:27,917 --> 00:34:29,959
+A wild goose chase?
+
+706
+00:34:32,875 --> 00:34:34,542
+All right.
+
+707
+00:34:34,583 --> 00:34:40,667
+Computer, access the transporter
+ID trace for Ambassador T'Pel.
+
+708
+00:34:41,959 --> 00:34:43,417
+All right.
+
+709
+00:34:43,458 --> 00:34:45,834
+There's the genetic record
+of the Ambassador
+
+710
+00:34:45,875 --> 00:34:47,291
+when she beamed aboard the
+<i>Enterprise.</i>
+
+711
+00:34:47,333 --> 00:34:49,041
+Now, the breakdown
+of the organic material
+
+712
+00:34:49,083 --> 00:34:52,166
+found on the transporter pad
+should be identical.
+
+713
+00:34:54,041 --> 00:34:57,917
+Mitochondrial structure
+fits the general parameters.
+
+714
+00:34:57,959 --> 00:34:59,166
+No change
+
+715
+00:34:59,208 --> 00:35:01,417
+in the nucleotide bases.
+
+716
+00:35:01,458 --> 00:35:03,875
+Hmm, there's
+a slight discrepancy
+
+717
+00:35:03,917 --> 00:35:06,125
+in the base pair sequence.
+
+718
+00:35:07,834 --> 00:35:10,709
+Chemically, these
+are identical, however
+
+719
+00:35:10,750 --> 00:35:12,667
+the organic sample
+from the transporter
+
+720
+00:35:12,709 --> 00:35:15,709
+is showing numerous
+single-bit errors--
+
+721
+00:35:15,750 --> 00:35:17,667
+like replicated material.
+
+722
+00:35:17,709 --> 00:35:18,875
+Can you postulate
+
+723
+00:35:18,917 --> 00:35:21,125
+an explanation
+for the discrepancy?
+
+724
+00:35:21,166 --> 00:35:24,875
+I'd say the DNA was either
+mutated by the transporter
+
+725
+00:35:24,917 --> 00:35:26,917
+during the re-materialization
+process...
+
+726
+00:35:26,959 --> 00:35:30,000
+A supposition not supported
+by the transporter records.
+
+727
+00:35:30,041 --> 00:35:34,834
+...or these aren't the remains
+of the Ambassador.
+
+728
+00:35:42,041 --> 00:35:44,250
+The only abnormality
+found during my investigation
+
+729
+00:35:44,291 --> 00:35:48,041
+was a temporary increase in the
+matter-to-energy signal ratio.
+
+730
+00:35:48,083 --> 00:35:49,208
+Due to the circumstances
+
+731
+00:35:49,250 --> 00:35:50,917
+I decided to investigate
+the possibility
+
+732
+00:35:50,959 --> 00:35:54,375
+that a<i> second</i> transporter signal
+had caused the fluctuation.
+
+733
+00:35:54,417 --> 00:35:55,959
+Although this is
+highly improbable
+
+734
+00:35:56,000 --> 00:35:57,709
+it was the only
+remaining theory.
+
+735
+00:35:57,750 --> 00:36:00,083
+A second transporter signal--
+from where?
+
+736
+00:36:00,125 --> 00:36:01,583
+From the<i> Devoras.</i>
+
+737
+00:36:01,625 --> 00:36:02,959
+Romulan transporters operate
+
+738
+00:36:03,000 --> 00:36:05,166
+on a similar subspace frequency
+to our own.
+
+739
+00:36:05,208 --> 00:36:07,291
+With only minor adjustments,
+they can be made
+
+740
+00:36:07,333 --> 00:36:10,000
+to simulate our own
+transporter carrier wave.
+
+741
+00:36:10,041 --> 00:36:15,750
+Are you saying they beamed
+the Ambassador off our own pad?
+
+742
+00:36:15,792 --> 00:36:17,166
+While simultaneously
+
+743
+00:36:17,208 --> 00:36:19,750
+a small amount
+of genetically similar material
+
+744
+00:36:19,792 --> 00:36:22,667
+was left
+in the Ambassador's place.
+
+745
+00:36:22,709 --> 00:36:24,333
+To make us believe
+that she had died
+
+746
+00:36:24,375 --> 00:36:25,834
+as a result of the malfunction.
+
+747
+00:36:25,875 --> 00:36:27,291
+Yes, sir.
+
+748
+00:36:27,333 --> 00:36:30,917
+Mr. Worf,
+where is the<i> Devoras</i> now?
+
+749
+00:36:30,959 --> 00:36:33,458
+WORF:
+The ship is still
+in the Neutral Zone.
+
+750
+00:36:33,500 --> 00:36:38,709
+On course 079 mark 125.
+Speed: warp two.
+
+751
+00:36:38,750 --> 00:36:40,750
+Heading for home.
+
+752
+00:36:40,792 --> 00:36:43,875
+<i>The safest and most logical</i>
+<i>decision in this situation</i>
+
+753
+00:36:43,917 --> 00:36:46,709
+<i>is to contact Starfleet</i>
+<i>and await further</i>
+<i>instructions.</i>
+
+754
+00:36:46,750 --> 00:36:49,667
+<i>However,</i>
+<i>based on past experience</i>
+
+755
+00:36:49,709 --> 00:36:51,792
+<i>I project only a 17% chance</i>
+
+756
+00:36:51,834 --> 00:36:54,500
+<i>Captain Picard will choose</i>
+<i>that alternative.</i>
+
+757
+00:36:55,917 --> 00:36:56,875
+Red Alert.
+
+758
+00:36:56,917 --> 00:36:57,834
+All hands
+
+759
+00:36:57,875 --> 00:36:59,959
+stand to
+battle stations.
+
+760
+00:37:00,000 --> 00:37:01,959
+(<i> alarm blaring</i> )
+
+761
+00:37:03,792 --> 00:37:05,959
+Lay in an intercept course
+to the Romulan ship.
+
+762
+00:37:06,000 --> 00:37:08,500
+Shields up.
+Load all torpedo bays.
+Stand by phasers.
+
+763
+00:37:08,542 --> 00:37:09,542
+Warp factor eight.
+
+764
+00:37:09,583 --> 00:37:10,959
+Engage.
+
+765
+00:37:12,917 --> 00:37:15,458
+Open a channel to the<i> Devoras.</i>
+
+766
+00:37:15,500 --> 00:37:17,542
+Aye, sir.
+
+767
+00:37:17,583 --> 00:37:19,166
+No response.
+
+768
+00:37:19,208 --> 00:37:21,125
+DATA:
+The<i> Devoras</i> is dropping
+out of warp, sir.
+
+769
+00:37:21,166 --> 00:37:22,834
+Their weapon systems
+are powering up.
+
+770
+00:37:22,875 --> 00:37:25,041
+Go to impulse power.
+Aye, sir.
+
+771
+00:37:32,125 --> 00:37:33,959
+Message coming in, sir.
+
+772
+00:37:34,000 --> 00:37:37,166
+PICARD:
+On screen.
+
+773
+00:37:37,208 --> 00:37:40,792
+Captain, you agreed to leave
+the Neutral Zone without...
+
+774
+00:37:40,834 --> 00:37:42,125
+Admiral Mendak
+
+775
+00:37:42,166 --> 00:37:45,083
+you have taken
+our Ambassador captive.
+
+776
+00:37:45,125 --> 00:37:46,917
+I can assure you
+
+777
+00:37:46,959 --> 00:37:50,834
+there is no one being held
+captive aboard this ship.
+
+778
+00:37:50,875 --> 00:37:55,083
+We know about
+the transporter "malfunction"
+
+779
+00:37:55,125 --> 00:37:57,375
+and that you are holding
+Ambassador T'Pel.
+
+780
+00:37:57,417 --> 00:37:58,709
+WORF:
+Captain
+
+781
+00:37:58,750 --> 00:38:01,583
+Romulan warbird
+de-cloaking to starboard.
+
+782
+00:38:08,041 --> 00:38:10,750
+I suggest you leave...
+
+783
+00:38:10,792 --> 00:38:12,041
+now.
+
+784
+00:38:12,083 --> 00:38:15,500
+Admiral, it is my responsibility
+
+785
+00:38:15,542 --> 00:38:17,667
+to protect the lives
+of Federation citizens.
+
+786
+00:38:17,709 --> 00:38:20,417
+I will not permit
+this abduction to succeed.
+
+787
+00:38:20,458 --> 00:38:21,542
+Captain, you're not going
+
+788
+00:38:21,583 --> 00:38:23,208
+to start an incident
+which might...
+
+789
+00:38:23,250 --> 00:38:25,750
+Admiral Mendak, I will take
+whatever action is necessary
+
+790
+00:38:25,792 --> 00:38:28,709
+to obtain the return
+of the Ambassador.
+
+791
+00:38:28,750 --> 00:38:31,917
+<i>In the game of poker,</i>
+<i>there is a moment</i>
+
+792
+00:38:31,959 --> 00:38:33,792
+<i>when a player must decide</i>
+<i>if an opponent</i>
+
+793
+00:38:33,834 --> 00:38:36,166
+<i>is being deceptive or actually</i>
+<i>holds a winning hand.</i>
+
+794
+00:38:36,208 --> 00:38:39,417
+<i>This decision is based</i>
+<i>not only on the odds</i>
+
+795
+00:38:39,458 --> 00:38:41,750
+<i>but also on an appraisal</i>
+<i>of the man--</i>
+
+796
+00:38:41,792 --> 00:38:44,375
+<i>is he bluffing,</i>
+<i>or does he have the cards?</i>
+
+797
+00:38:44,417 --> 00:38:46,917
+MENDAK:
+Fortunately, Captain
+
+798
+00:38:46,959 --> 00:38:49,083
+I am not ready to start a war...
+
+799
+00:38:49,125 --> 00:38:51,166
+today.
+
+800
+00:38:57,583 --> 00:38:59,041
+T'Pel.
+
+801
+00:38:59,083 --> 00:39:02,125
+Subcommander Selok, actually.
+
+802
+00:39:02,166 --> 00:39:03,959
+A spy.
+
+803
+00:39:04,000 --> 00:39:05,583
+A patriot, Captain.
+
+804
+00:39:05,625 --> 00:39:09,041
+She has performed her
+service to the Empire
+
+805
+00:39:09,083 --> 00:39:10,458
+with distinction.
+
+806
+00:39:10,500 --> 00:39:14,709
+Thank you for your help,
+Captain.
+
+807
+00:39:14,750 --> 00:39:18,291
+MENDAK:
+You see now that we are not
+holding one of your citizens
+
+808
+00:39:18,333 --> 00:39:22,333
+and we thank you for returning
+our sister to us
+
+809
+00:39:22,375 --> 00:39:27,041
+but my patience has limits.
+
+810
+00:39:27,083 --> 00:39:29,000
+The game is over.
+
+811
+00:39:29,041 --> 00:39:31,834
+I expect you to
+leave peacefully...
+
+812
+00:39:31,875 --> 00:39:33,333
+<i>now.</i>
+
+813
+00:39:34,625 --> 00:39:36,834
+Captain, long-range sensors
+
+814
+00:39:36,875 --> 00:39:40,875
+detect three Romulan warbirds
+entering the sector.
+
+815
+00:39:40,917 --> 00:39:42,875
+Some days you
+get the bear
+
+816
+00:39:42,917 --> 00:39:45,709
+and some days,
+the bear gets you.
+
+817
+00:39:45,750 --> 00:39:47,792
+Reverse course.
+
+818
+00:39:49,250 --> 00:39:51,208
+Take us back into
+Federation territory.
+
+819
+00:39:51,250 --> 00:39:52,208
+Warp six.
+
+820
+00:39:52,250 --> 00:39:54,000
+Engage.
+
+821
+00:40:06,125 --> 00:40:09,458
+Keiko, I need your help.
+
+822
+00:40:09,500 --> 00:40:10,875
+I have offended you
+
+823
+00:40:10,917 --> 00:40:13,083
+and need to find a way
+to rectify my mistake.
+
+824
+00:40:13,125 --> 00:40:14,792
+I am not sure
+what to do.
+
+825
+00:40:14,834 --> 00:40:16,875
+You haven't offended me.
+
+826
+00:40:16,917 --> 00:40:18,667
+I should not
+have interfered.
+
+827
+00:40:18,709 --> 00:40:20,709
+It would be best
+if I apologize.
+
+828
+00:40:20,750 --> 00:40:22,959
+It would be best
+if you got dressed.
+
+829
+00:40:23,000 --> 00:40:24,417
+For the wedding.
+
+830
+00:40:24,458 --> 00:40:26,500
+Oh.
+
+831
+00:40:26,542 --> 00:40:28,625
+But...?
+
+832
+00:40:29,542 --> 00:40:31,125
+Come here.
+
+833
+00:40:31,166 --> 00:40:33,458
+I have the most
+beautiful carnation
+
+834
+00:40:33,500 --> 00:40:36,041
+for the father
+of the bride.
+
+835
+00:40:36,083 --> 00:40:38,083
+Now, don't be nervous.
+
+836
+00:40:38,125 --> 00:40:39,917
+I am not nervous.
+
+837
+00:40:39,959 --> 00:40:41,875
+I<i> am</i> confused.
+
+838
+00:40:41,917 --> 00:40:43,625
+(<i> chuckles</i> )
+
+839
+00:40:48,500 --> 00:40:51,417
+(<i> Japanese classical</i>
+<i>court music plays</i> )
+
+840
+00:41:32,959 --> 00:41:34,500
+(<i> music ends</i> )
+
+841
+00:41:34,542 --> 00:41:38,125
+Since the days of the
+first wooden sailing ships
+
+842
+00:41:38,166 --> 00:41:43,125
+all Captains have enjoyed
+the happy privilege
+
+843
+00:41:43,166 --> 00:41:47,041
+of joining together two people
+
+844
+00:41:47,083 --> 00:41:50,750
+in the bonds
+of matrimony, and so...
+
+845
+00:41:50,792 --> 00:41:55,083
+it is my honor to unite you,
+Keiko Ishikawa
+
+846
+00:41:55,125 --> 00:42:00,208
+and you, Miles Edward O'Brien,
+together in matrimony...
+
+847
+00:42:00,250 --> 00:42:02,333
+<i>There are still</i>
+<i>many human emotions</i>
+
+848
+00:42:02,375 --> 00:42:06,834
+<i>I do not fully comprehend--</i>
+<i>anger, hatred, revenge--</i>
+
+849
+00:42:06,875 --> 00:42:10,375
+<i>but I am not mystified</i>
+<i>by the desire to be loved...</i>
+
+850
+00:42:10,417 --> 00:42:11,458
+(<i> applause and cheers</i> )
+
+851
+00:42:11,500 --> 00:42:12,750
+<i>...or the need for friendship.</i>
+
+852
+00:42:12,792 --> 00:42:16,959
+<i>These are things</i>
+<i>I do understand.</i>
+
+853
+00:42:17,000 --> 00:42:19,083
+(<i> applause continues</i> )
+
+854
+00:42:19,125 --> 00:42:21,208
+Congratulations!
+
+855
+00:42:23,583 --> 00:42:25,667
+(<i> dance music plays</i> )
+
+856
+00:42:43,917 --> 00:42:45,959
+(<i> baby gurgling</i> )
+
+857
+00:42:52,291 --> 00:42:54,083
+I was looking
+for Dr. Crusher.
+
+858
+00:42:54,125 --> 00:42:55,458
+Shh.
+
+859
+00:42:58,208 --> 00:43:00,083
+DATA:
+The Juarez child?
+
+860
+00:43:00,125 --> 00:43:02,625
+PICARD:
+Mm-hmm... a boy.
+
+861
+00:43:02,667 --> 00:43:06,000
+At the same time we
+were facing destruction
+
+862
+00:43:06,041 --> 00:43:09,458
+this small miracle
+was taking place.
+
+863
+00:43:13,458 --> 00:43:16,000
+(<i> softly</i> ):
+Welcome aboard.
+
+864
+00:43:21,500 --> 00:43:23,291
+All systems normal, sir.
+
+865
+00:43:23,333 --> 00:43:25,917
+We are on course
+for Adelphous IV.
+
+866
+00:43:25,959 --> 00:43:28,583
+Engineering is realigning
+the main deflector dish
+
+867
+00:43:28,625 --> 00:43:30,834
+Sick Bay reports
+Lieutenant Umbato
+
+868
+00:43:30,875 --> 00:43:33,417
+broke two ribs
+during a holodeck exercise
+
+869
+00:43:33,458 --> 00:43:36,291
+and sensors continue to gather
+long-range information
+
+870
+00:43:36,333 --> 00:43:37,875
+on the Murasaki quasar.
+
+871
+00:43:37,917 --> 00:43:38,875
+Very well.
+
+872
+00:43:38,917 --> 00:43:39,917
+I have the Bridge.
+
+873
+00:43:39,959 --> 00:43:41,750
+Aye, sir.
+
+874
+00:43:41,792 --> 00:43:44,583
+<i>If being human</i>
+<i>is not simply a matter</i>
+
+875
+00:43:44,625 --> 00:43:46,667
+<i>of being born flesh and blood</i>
+
+876
+00:43:46,709 --> 00:43:50,959
+<i>if it is instead a way</i>
+<i>of thinking, acting and</i>
+<i>feeling</i>
+
+877
+00:43:51,000 --> 00:43:52,333
+<i>then I am hopeful that one day</i>
+
+878
+00:43:52,375 --> 00:43:54,291
+<i>I will discover</i>
+<i>my own humanity.</i>
+
+879
+00:43:54,333 --> 00:43:56,125
+Begin night watch.
+
+880
+00:43:56,166 --> 00:43:59,959
+<i>Until then, Commander Maddox,</i>
+<i>I will continue</i>
+
+881
+00:44:00,000 --> 00:44:03,417
+<i>learning, changing, growing</i>
+
+882
+00:44:03,458 --> 00:44:07,750
+<i>and trying to become more</i>
+<i>than what I am.</i>

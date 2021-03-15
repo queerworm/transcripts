@@ -1,0 +1,3724 @@
+1
+00:00:02,083 --> 00:00:05,333
+<i>Captain's Log,</i>
+<i>Stardate 47410.2.</i>
+
+2
+00:00:05,375 --> 00:00:07,792
+<i>The Atrean government</i>
+<i>has requested assistance</i>
+
+3
+00:00:07,834 --> 00:00:09,834
+<i>in averting a natural disaster.</i>
+
+4
+00:00:09,875 --> 00:00:11,917
+<i>Two of their geologists</i>
+<i>have come aboard</i>
+
+5
+00:00:11,959 --> 00:00:15,041
+<i>one of whom is a human who</i>
+<i>has been living on Atrea IV.</i>
+
+6
+00:00:16,166 --> 00:00:17,959
+Captain, the situation
+has worsened
+
+7
+00:00:18,000 --> 00:00:20,417
+since my husband and I
+first contacted you.
+
+8
+00:00:20,458 --> 00:00:24,250
+The molten core of our
+planet isn't just cooling--
+
+9
+00:00:24,291 --> 00:00:26,000
+it's begun to solidify.
+
+10
+00:00:26,041 --> 00:00:28,166
+MAN:
+Our gravitational field
+has been affected.
+
+11
+00:00:28,208 --> 00:00:31,625
+Seismic activity has increased
+by a factor of three.
+
+12
+00:00:31,667 --> 00:00:34,375
+If the cooling
+continues at this rate
+
+13
+00:00:34,417 --> 00:00:37,083
+Atrea will become
+uninhabitable
+
+14
+00:00:37,125 --> 00:00:38,250
+in 13 months.
+
+15
+00:00:38,291 --> 00:00:40,041
+LA FORGE:
+We could minimize
+
+16
+00:00:40,083 --> 00:00:43,417
+seismic activity by creating
+isobaric fissures and relieving
+
+17
+00:00:43,458 --> 00:00:45,000
+some of the tectonic stress
+
+18
+00:00:45,041 --> 00:00:47,250
+but that would just
+be a temporary fix.
+
+19
+00:00:47,291 --> 00:00:48,542
+The only
+permanent solution
+
+20
+00:00:48,583 --> 00:00:50,542
+would be to reliquefy
+the core.
+
+21
+00:00:50,583 --> 00:00:52,917
+These pockets
+in the magma layer--
+
+22
+00:00:52,959 --> 00:00:54,125
+how close are they
+
+23
+00:00:54,166 --> 00:00:55,917
+to the molten region
+of the core?
+
+24
+00:00:55,959 --> 00:00:57,834
+A few kilometers.
+Why?
+
+25
+00:00:57,875 --> 00:00:59,333
+Data, you think
+that's close enough
+
+26
+00:00:59,375 --> 00:01:00,750
+for ferroplasmic infusion?
+
+27
+00:01:02,625 --> 00:01:04,917
+The procedure will involve
+using the ship's phasers
+
+28
+00:01:04,959 --> 00:01:07,208
+to drill down through
+the planet's surface
+
+29
+00:01:07,250 --> 00:01:09,625
+into the pockets,
+where we would set up
+
+30
+00:01:09,667 --> 00:01:11,959
+a series of plasma
+infusion units.
+
+31
+00:01:12,000 --> 00:01:13,041
+We'll trigger the units
+
+32
+00:01:13,083 --> 00:01:14,583
+by firing modulated
+energy bursts
+
+33
+00:01:14,625 --> 00:01:16,250
+down through the shafts.
+
+34
+00:01:16,291 --> 00:01:17,834
+I see.
+
+35
+00:01:17,875 --> 00:01:21,083
+Injecting plasma
+directly into the core
+
+36
+00:01:21,125 --> 00:01:23,083
+should trigger
+a chain reaction
+
+37
+00:01:23,125 --> 00:01:25,917
+and that will reliquefy
+the magma.
+
+38
+00:01:25,959 --> 00:01:27,083
+It should be possible
+
+39
+00:01:27,125 --> 00:01:28,625
+to stabilize
+the core temperature
+
+40
+00:01:28,667 --> 00:01:30,583
+at 93% of normal.
+
+41
+00:01:30,625 --> 00:01:31,875
+If it works
+
+42
+00:01:31,917 --> 00:01:34,291
+the core would remain
+molten for centuries.
+
+43
+00:01:34,333 --> 00:01:37,083
+If you'll give your permission,
+we could begin immediately.
+
+44
+00:01:38,709 --> 00:01:39,792
+Very well.
+
+45
+00:01:39,834 --> 00:01:41,125
+But before we proceed
+
+46
+00:01:41,166 --> 00:01:43,667
+I'd like to update
+our geological surveys.
+
+47
+00:01:43,709 --> 00:01:46,250
+Fine. I'd be very happy to
+help you with that, Doctor.
+
+48
+00:01:46,291 --> 00:01:48,333
+We've assigned you quarters
+during our time here.
+
+49
+00:01:48,375 --> 00:01:50,208
+Please make yourselves
+comfortable.
+
+50
+00:01:50,250 --> 00:01:51,375
+Thank you, Captain.
+
+51
+00:01:54,667 --> 00:01:55,875
+Data?
+
+52
+00:01:55,917 --> 00:01:57,000
+Yes, Doctor.
+
+53
+00:01:59,041 --> 00:02:01,500
+Do you have
+any idea who I am?
+
+54
+00:02:01,542 --> 00:02:03,125
+You are
+Dr. Juliana Tainer.
+
+55
+00:02:04,458 --> 00:02:08,125
+Oh, you lost all your
+early memories.
+
+56
+00:02:08,166 --> 00:02:10,875
+We thought you would,
+but we couldn't be certain.
+
+57
+00:02:10,917 --> 00:02:12,750
+Have we met before?
+
+58
+00:02:12,792 --> 00:02:15,291
+Oh, Data,
+I was there
+
+59
+00:02:15,333 --> 00:02:18,458
+right at the beginning
+on Omicron Theta.
+
+60
+00:02:18,500 --> 00:02:20,667
+I helped create you.
+
+61
+00:02:20,709 --> 00:02:23,583
+And now...
+look at you.
+
+62
+00:02:24,834 --> 00:02:26,375
+You were a colleague
+of Dr. Soong?
+
+63
+00:02:27,834 --> 00:02:30,542
+I most certainly was...
+
+64
+00:02:30,583 --> 00:02:33,291
+and I was
+also his wife.
+
+65
+00:02:33,333 --> 00:02:36,500
+In a way, I suppose
+you could say
+
+66
+00:02:36,542 --> 00:02:37,875
+I am your mother.
+
+67
+00:03:10,083 --> 00:03:12,917
+<i>Space, the final frontier.</i>
+
+68
+00:03:14,667 --> 00:03:17,709
+<i>These are the voyages</i>
+<i>of the starship</i> Enterprise.
+
+69
+00:03:19,000 --> 00:03:20,542
+<i>Its continuing mission--</i>
+
+70
+00:03:20,583 --> 00:03:22,709
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+71
+00:03:24,291 --> 00:03:27,166
+<i>... to seek out new life</i>
+<i>and new civilizations...</i>
+
+72
+00:03:28,875 --> 00:03:32,083
+<i>... to boldly go</i>
+<i>where no one has gone before.</i>
+
+73
+00:04:31,375 --> 00:04:32,959
+I just can't believe
+
+74
+00:04:33,000 --> 00:04:34,875
+I'm seeing you
+like this again
+
+75
+00:04:34,917 --> 00:04:36,834
+after all these years.
+
+76
+00:04:36,875 --> 00:04:38,792
+Doctor, I have
+no memory of you.
+
+77
+00:04:38,834 --> 00:04:40,750
+Oh, there's
+a reason for that.
+
+78
+00:04:40,792 --> 00:04:42,792
+We wiped your
+processors
+
+79
+00:04:42,834 --> 00:04:44,875
+after we finished
+refining your programming.
+
+80
+00:04:46,083 --> 00:04:47,917
+Why don't you tell me
+what you do remember
+
+81
+00:04:47,959 --> 00:04:50,000
+and then
+I'll fill in the gaps.
+
+82
+00:04:50,041 --> 00:04:51,583
+My memory record begins
+
+83
+00:04:51,625 --> 00:04:53,792
+when I was activated
+by the Starfleet officers
+
+84
+00:04:53,834 --> 00:04:55,834
+on the Omicron
+Theta outpost.
+
+85
+00:04:55,875 --> 00:04:58,709
+Ah, after the attack
+of the Crystalline Entity.
+
+86
+00:04:58,750 --> 00:05:01,458
+Yes. All of the inhabitants
+of the colony were killed.
+
+87
+00:05:02,750 --> 00:05:04,417
+However, I discovered
+that my memory banks
+
+88
+00:05:04,458 --> 00:05:07,291
+contain the contents
+of their journals and logs.
+
+89
+00:05:07,333 --> 00:05:10,291
+We hoped their experiences
+would be useful.
+
+90
+00:05:10,333 --> 00:05:11,750
+After your childhood
+
+91
+00:05:11,792 --> 00:05:13,750
+we figured you could use
+all the help you could get.
+
+92
+00:05:15,458 --> 00:05:16,542
+"My childhood?"
+
+93
+00:05:16,583 --> 00:05:18,709
+Oh, well, that's
+what I called it.
+
+94
+00:05:18,750 --> 00:05:21,959
+Well, you<i> were</i> like
+a baby, at first...
+
+95
+00:05:22,000 --> 00:05:24,667
+a 100-kilogram baby,
+but still.
+
+96
+00:05:26,500 --> 00:05:29,375
+You had trouble, uh,
+
+97
+00:05:29,417 --> 00:05:31,959
+learning
+your motor skills
+
+98
+00:05:32,000 --> 00:05:35,375
+learning how to process
+sensory information
+
+99
+00:05:35,417 --> 00:05:37,959
+and, of course, Noonien
+was never satisfied.
+
+100
+00:05:38,000 --> 00:05:39,500
+He kept tinkering
+
+101
+00:05:39,542 --> 00:05:42,917
+trying to make you
+as human as possible.
+
+102
+00:05:44,583 --> 00:05:47,125
+So you wiped
+my memory processors
+
+103
+00:05:47,166 --> 00:05:48,667
+after this "childhood"?
+
+104
+00:05:48,709 --> 00:05:50,041
+Mm-hmm.
+
+105
+00:05:50,083 --> 00:05:51,458
+Then we deactivated you
+
+106
+00:05:51,500 --> 00:05:54,166
+and programmed you
+with the colonists' logs.
+
+107
+00:05:56,291 --> 00:05:58,291
+We had planned to
+reactivate you
+
+108
+00:05:58,333 --> 00:06:00,041
+but we never
+got the chance.
+
+109
+00:06:00,083 --> 00:06:02,500
+That's when the Crystalline
+Entity attacked.
+
+110
+00:06:02,542 --> 00:06:03,792
+We had to
+leave quickly.
+
+111
+00:06:05,542 --> 00:06:06,959
+We wanted to take you
+with us
+
+112
+00:06:07,000 --> 00:06:10,000
+but there was only room
+for two in the escape pod.
+
+113
+00:06:11,875 --> 00:06:14,291
+Doctor, I have scanned
+
+114
+00:06:14,333 --> 00:06:16,500
+the journals
+of the colonists.
+
+115
+00:06:16,542 --> 00:06:19,625
+There is only one Juliana
+mentioned in them.
+
+116
+00:06:19,667 --> 00:06:21,458
+Her last name
+was O'Donnell.
+
+117
+00:06:22,458 --> 00:06:24,125
+That's me.
+
+118
+00:06:24,166 --> 00:06:27,291
+But there was no mention that
+my father was married to you.
+
+119
+00:06:28,500 --> 00:06:29,750
+Because of my mother.
+
+120
+00:06:31,291 --> 00:06:34,125
+She thought that Noonien
+was an eccentric scientist
+
+121
+00:06:34,166 --> 00:06:36,417
+who was far too
+old for me.
+
+122
+00:06:36,458 --> 00:06:38,333
+We decided to marry secretly
+
+123
+00:06:38,375 --> 00:06:41,375
+to give her a chance to get
+used to our being together.
+
+124
+00:06:41,417 --> 00:06:43,750
+We slipped away to Mavala IV
+and got married there.
+
+125
+00:06:45,625 --> 00:06:49,500
+A Klingon and a Corvallen
+trader were our witnesses.
+
+126
+00:06:51,125 --> 00:06:53,792
+It wasn't exactly the wedding
+I'd hoped for, but...
+
+127
+00:06:53,834 --> 00:06:55,250
+(<i> chuckles</i> )
+
+128
+00:06:55,291 --> 00:06:56,667
+somehow, Noonien had a way
+
+129
+00:06:56,709 --> 00:06:59,375
+of making even the oddest
+things seem romantic.
+
+130
+00:07:01,291 --> 00:07:04,458
+My father did have an unusual
+way of looking at things.
+
+131
+00:07:04,500 --> 00:07:06,041
+How would you know that?
+
+132
+00:07:06,083 --> 00:07:09,083
+I encountered him once
+in the Terlina system.
+
+133
+00:07:09,125 --> 00:07:12,125
+Why, that's where we went to,
+after we left the outpost.
+
+134
+00:07:12,166 --> 00:07:14,208
+I'd no idea
+that you'd even met him.
+
+135
+00:07:15,417 --> 00:07:16,834
+It was shortly
+before his death.
+
+136
+00:07:21,208 --> 00:07:22,417
+He's dead?
+
+137
+00:07:23,875 --> 00:07:24,959
+Yes.
+
+138
+00:07:27,417 --> 00:07:28,834
+(<i> sighs</i> )
+
+139
+00:07:28,875 --> 00:07:31,041
+I had no idea
+it would hit me this hard.
+
+140
+00:07:33,500 --> 00:07:36,083
+We didn't exactly part
+on the best of terms.
+
+141
+00:07:36,125 --> 00:07:37,208
+What do you mean?
+
+142
+00:07:41,333 --> 00:07:43,750
+Oh, I realized
+he loved his work
+
+143
+00:07:43,792 --> 00:07:44,959
+as much as he
+loved me...
+
+144
+00:07:47,041 --> 00:07:48,792
+maybe more.
+
+145
+00:07:48,834 --> 00:07:51,792
+Oh, there we were
+stuck out on this planet
+
+146
+00:07:51,834 --> 00:07:53,083
+in the middle of
+the jungle
+
+147
+00:07:53,125 --> 00:07:54,625
+with no one else
+to talk to...
+
+148
+00:07:56,250 --> 00:07:58,959
+no... life.
+
+149
+00:08:04,417 --> 00:08:05,792
+It just wasn't enough.
+
+150
+00:08:07,959 --> 00:08:09,208
+That's why I left.
+
+151
+00:08:11,542 --> 00:08:13,709
+But that was all a very,
+very long time ago.
+
+152
+00:08:15,542 --> 00:08:19,917
+The important thing is
+that we're here now, together
+
+153
+00:08:19,959 --> 00:08:21,875
+and I<i> do</i> want to get
+to know you.
+
+154
+00:08:24,125 --> 00:08:27,125
+This has been
+an interesting encounter
+
+155
+00:08:27,166 --> 00:08:29,458
+and an altogether
+unexpected one.
+
+156
+00:08:30,625 --> 00:08:31,959
+I would like
+to corroborate
+
+157
+00:08:32,000 --> 00:08:33,291
+your story before
+we proceed further.
+
+158
+00:08:34,458 --> 00:08:35,542
+Excuse me, Doctor.
+
+159
+00:08:46,458 --> 00:08:47,583
+Data, I'm almost
+finished
+
+160
+00:08:47,625 --> 00:08:49,250
+reconfiguring
+the phaser banks.
+
+161
+00:08:49,291 --> 00:08:51,583
+We should be able to start
+drilling in about an hour.
+
+162
+00:08:51,625 --> 00:08:53,000
+Inform me
+when you are ready.
+
+163
+00:08:54,792 --> 00:08:56,375
+What is it you're
+doing over there?
+
+164
+00:08:56,417 --> 00:08:57,834
+I am attempting
+to ascertain
+
+165
+00:08:57,875 --> 00:08:59,792
+whether Dr. Tainer's
+story is true.
+
+166
+00:09:01,333 --> 00:09:02,750
+Don't you
+believe her?
+
+167
+00:09:02,792 --> 00:09:04,709
+I neither believe
+nor doubt.
+
+168
+00:09:04,750 --> 00:09:06,500
+I am simply trying
+to verify her assertions.
+
+169
+00:09:09,375 --> 00:09:11,166
+Well, what have you
+turned up so far?
+
+170
+00:09:11,208 --> 00:09:12,959
+The registrar's office
+on Mavala IV
+
+171
+00:09:13,000 --> 00:09:15,667
+cannot confirm whether
+Dr. Soong was married there.
+
+172
+00:09:15,709 --> 00:09:17,417
+Apparently, many of
+the documents were lost
+
+173
+00:09:17,458 --> 00:09:19,458
+when the government
+was overthrown.
+
+174
+00:09:19,500 --> 00:09:21,417
+What's that
+you're looking at?
+
+175
+00:09:21,458 --> 00:09:23,333
+I am checking
+passenger manifests
+
+176
+00:09:23,375 --> 00:09:24,792
+to see if they went to
+Mavala IV
+
+177
+00:09:24,834 --> 00:09:26,208
+during
+the period in question.
+
+178
+00:09:28,667 --> 00:09:30,458
+"O'Donnell, Juliana."
+
+179
+00:09:32,375 --> 00:09:34,917
+"Soong, Noonien."
+
+180
+00:09:34,959 --> 00:09:38,041
+They were both passengers
+on a transport which traveled
+
+181
+00:09:38,083 --> 00:09:39,875
+from Omicron Theta to Mavala
+
+182
+00:09:39,917 --> 00:09:41,917
+and returned
+four days later.
+
+183
+00:09:41,959 --> 00:09:43,500
+That sure fits
+with her story.
+
+184
+00:09:45,667 --> 00:09:48,375
+Still, the fact that
+they went to Mavala
+
+185
+00:09:48,417 --> 00:09:49,917
+does not prove
+they were married there.
+
+186
+00:09:53,250 --> 00:09:55,291
+You know, Data,
+it almost seems to me
+
+187
+00:09:55,333 --> 00:09:56,583
+like you're trying
+to prove
+
+188
+00:09:56,625 --> 00:09:57,917
+that Dr. Tainer
+wasn't telling the truth.
+
+189
+00:09:59,083 --> 00:10:00,417
+Not at all.
+
+190
+00:10:00,458 --> 00:10:03,166
+I am merely unable
+to reconcile her story
+
+191
+00:10:03,208 --> 00:10:05,583
+with the fact that my father
+never mentioned her to me.
+
+192
+00:10:05,625 --> 00:10:06,792
+Well, she did leave him.
+
+193
+00:10:07,959 --> 00:10:10,166
+Maybe she broke
+his heart.
+
+194
+00:10:10,208 --> 00:10:12,333
+Maybe he just didn't
+want to talk about her.
+
+195
+00:10:12,375 --> 00:10:14,041
+Let me ask you this.
+
+196
+00:10:14,083 --> 00:10:17,834
+Dr. Soong created
+an emotion chip for you
+
+197
+00:10:17,875 --> 00:10:19,041
+and didn't Lore tell you
+
+198
+00:10:19,083 --> 00:10:21,208
+that that chip also
+contained memories--
+
+199
+00:10:21,250 --> 00:10:23,375
+memories Soong
+wanted you to have?
+
+200
+00:10:23,417 --> 00:10:24,875
+Yes.
+
+201
+00:10:24,917 --> 00:10:28,333
+It is possible that those
+are memories of my childhood
+
+202
+00:10:28,375 --> 00:10:30,417
+and of Mrs. Soong.
+
+203
+00:10:30,458 --> 00:10:33,875
+And when you think about it,
+why would she want to lie?
+
+204
+00:10:33,917 --> 00:10:36,000
+Why would anybody want to
+pretend to be your mother?
+
+205
+00:10:37,834 --> 00:10:40,375
+I can think of no motive
+for such a pretense.
+
+206
+00:10:40,417 --> 00:10:41,750
+You know, I can understand
+
+207
+00:10:41,792 --> 00:10:43,542
+that this might
+all be a little
+
+208
+00:10:43,583 --> 00:10:45,125
+disconcerting
+for you, Data.
+
+209
+00:10:45,166 --> 00:10:47,375
+It came
+out of the blue
+
+210
+00:10:47,417 --> 00:10:48,667
+and it doesn't fit
+
+211
+00:10:48,709 --> 00:10:50,792
+into your
+logical processors.
+
+212
+00:10:50,834 --> 00:10:51,917
+That is true.
+
+213
+00:10:51,959 --> 00:10:53,458
+But that's life, Data.
+
+214
+00:10:53,500 --> 00:10:54,875
+Part of being human
+
+215
+00:10:54,917 --> 00:10:56,917
+is learning how to deal
+with the unexpected.
+
+216
+00:10:58,041 --> 00:10:59,542
+To risk new experiences
+
+217
+00:10:59,583 --> 00:11:01,625
+even when they don't fit
+into your preconceptions.
+
+218
+00:11:04,333 --> 00:11:06,000
+I admit
+I am finding it difficult
+
+219
+00:11:06,041 --> 00:11:08,250
+to accept the possibility
+of a past
+
+220
+00:11:08,291 --> 00:11:09,625
+about which
+I know nothing.
+
+221
+00:11:11,583 --> 00:11:13,917
+But it is also true
+
+222
+00:11:13,959 --> 00:11:15,792
+I am curious
+to learn more about it.
+
+223
+00:11:32,792 --> 00:11:34,250
+Data?
+
+224
+00:11:34,291 --> 00:11:36,166
+I would like to get
+to know you better...
+
+225
+00:11:38,917 --> 00:11:40,000
+Mother.
+
+226
+00:11:46,959 --> 00:11:49,458
+I wanted to make
+you female
+
+227
+00:11:49,500 --> 00:11:51,750
+but your father
+insisted on a son.
+
+228
+00:11:51,792 --> 00:11:54,375
+Oh, we argued
+about it endlessly
+
+229
+00:11:54,417 --> 00:11:56,709
+right up until we were
+ready to assemble you.
+
+230
+00:11:56,750 --> 00:11:58,250
+How did you decide?
+
+231
+00:11:58,291 --> 00:12:00,959
+Oh, Noonien walked in
+with your head in his hand
+
+232
+00:12:01,000 --> 00:12:03,875
+and, innocent as you please,
+said it was up to me.
+
+233
+00:12:03,917 --> 00:12:06,709
+Well, he knew perfectly
+well what he was doing.
+
+234
+00:12:06,750 --> 00:12:09,792
+Once again, he had made it
+in his own image.
+
+235
+00:12:09,834 --> 00:12:11,125
+I mean, what
+could I possibly say?
+
+236
+00:12:13,750 --> 00:12:15,041
+Deanna Troi?
+
+237
+00:12:15,083 --> 00:12:16,542
+Is that who you're
+going to visit?
+
+238
+00:12:16,583 --> 00:12:17,709
+Yes.
+
+239
+00:12:17,750 --> 00:12:20,500
+Oh, your father
+would be so pleased.
+
+240
+00:12:20,542 --> 00:12:22,083
+Pleased?
+
+241
+00:12:22,125 --> 00:12:24,000
+Well, he was worried
+that the sexuality program
+
+242
+00:12:24,041 --> 00:12:25,625
+he designed for you
+wouldn't work.
+
+243
+00:12:28,375 --> 00:12:29,959
+You misunderstand.
+
+244
+00:12:30,000 --> 00:12:31,583
+Counselor Troi
+is a therapist.
+
+245
+00:12:32,750 --> 00:12:33,834
+Good night.
+
+246
+00:12:44,250 --> 00:12:45,750
+We will be in position
+over the drilling site
+
+247
+00:12:45,792 --> 00:12:47,625
+in three minutes,
+29 seconds.
+
+248
+00:12:50,375 --> 00:12:52,333
+These scans indicate
+that the magma pockets
+
+249
+00:12:52,375 --> 00:12:54,250
+where we planned to set up
+the infusion units
+
+250
+00:12:54,291 --> 00:12:55,458
+are somewhat unstable.
+
+251
+00:12:55,500 --> 00:12:56,542
+Well, I'm going to monitor
+
+252
+00:12:56,583 --> 00:12:58,208
+the density of
+the rock layers
+
+253
+00:12:58,250 --> 00:13:00,583
+and adjust the strength of
+the particle beam as we go.
+
+254
+00:13:00,625 --> 00:13:02,625
+That should minimize
+the seismic stress
+
+255
+00:13:02,667 --> 00:13:04,750
+that we'll generate
+while we're drilling.
+
+256
+00:13:04,792 --> 00:13:06,542
+Data, I reconfigured
+the phasers
+
+257
+00:13:06,583 --> 00:13:07,917
+to create the most
+highly focused
+
+258
+00:13:07,959 --> 00:13:09,166
+particle beam possible.
+
+259
+00:13:09,208 --> 00:13:10,333
+Thank you, Geordi.
+
+260
+00:13:10,375 --> 00:13:11,625
+(<i> chuckling</i> )
+
+261
+00:13:13,083 --> 00:13:15,333
+I'm just so pleased
+you've got good manners.
+
+262
+00:13:15,375 --> 00:13:16,834
+It wasn't easy to strike
+the right balance
+
+263
+00:13:16,875 --> 00:13:18,667
+with your
+programming.
+
+264
+00:13:18,709 --> 00:13:20,542
+Well, at first, you
+couldn't have cared less
+
+265
+00:13:20,583 --> 00:13:21,792
+about the social niceties
+
+266
+00:13:21,834 --> 00:13:24,083
+like "please"
+and "thank you."
+
+267
+00:13:24,125 --> 00:13:26,125
+You were downright
+rude, in fact.
+
+268
+00:13:27,542 --> 00:13:28,792
+Data?
+
+269
+00:13:28,834 --> 00:13:30,583
+Well, that's hard
+to picture.
+
+270
+00:13:30,625 --> 00:13:32,458
+Well, that was nothing
+
+271
+00:13:32,500 --> 00:13:33,917
+to the problems
+we encountered...
+
+272
+00:13:36,542 --> 00:13:37,792
+Never mind.
+
+273
+00:13:37,834 --> 00:13:39,792
+I don't want
+to embarrass you.
+
+274
+00:13:39,834 --> 00:13:41,625
+I am incapable
+of embarrassment.
+
+275
+00:13:41,667 --> 00:13:42,875
+Please continue.
+
+276
+00:13:44,875 --> 00:13:47,834
+Well, the one thing
+that we couldn't anticipate
+
+277
+00:13:47,875 --> 00:13:50,583
+was that you didn't seem
+to mind about being
+
+278
+00:13:50,625 --> 00:13:52,083
+uh... naked.
+
+279
+00:13:53,959 --> 00:13:55,709
+Some of the colonists
+objected to having
+
+280
+00:13:55,750 --> 00:13:57,625
+an anatomically correct
+android running around
+
+281
+00:13:57,667 --> 00:13:59,083
+without any
+clothes on.
+
+282
+00:14:01,166 --> 00:14:02,959
+Oh, we asked you to dress
+
+283
+00:14:03,000 --> 00:14:04,667
+but you didn't feel
+it was necessary
+
+284
+00:14:04,709 --> 00:14:06,917
+because you didn't
+suffer from the elements.
+
+285
+00:14:08,834 --> 00:14:11,875
+We actually had to write
+a modesty subroutine
+
+286
+00:14:11,917 --> 00:14:13,458
+to get you to
+keep your clothes on.
+
+287
+00:14:14,625 --> 00:14:16,041
+Riker to engineering.
+
+288
+00:14:16,083 --> 00:14:18,166
+La Forge here.
+Go ahead, Commander.
+
+289
+00:14:18,208 --> 00:14:20,417
+We've established synchronous
+orbit over the drilling site.
+
+290
+00:14:22,458 --> 00:14:24,583
+Phaser modifications
+are on line, sir.
+
+291
+00:14:24,625 --> 00:14:25,667
+My calculations
+indicate
+
+292
+00:14:25,709 --> 00:14:27,000
+that the first phaser blast
+
+293
+00:14:27,041 --> 00:14:29,500
+will be approximately
+19 seconds in duration.
+
+294
+00:14:29,542 --> 00:14:30,709
+Acknowledged.
+
+295
+00:14:32,000 --> 00:14:33,834
+Someone's checked his
+calculations, of course.
+
+296
+00:14:35,625 --> 00:14:37,709
+No, but I'm sure Mr. Data
+knows what he's doing.
+
+297
+00:14:37,750 --> 00:14:40,458
+Even so, he is
+a machine.
+
+298
+00:14:40,500 --> 00:14:42,792
+Someone should
+check up on him.
+
+299
+00:14:42,834 --> 00:14:44,875
+I have complete confidence
+in Mr. Data's ability
+
+300
+00:14:44,917 --> 00:14:46,375
+to check up on himself.
+
+301
+00:14:47,583 --> 00:14:48,709
+Mr. Worf?
+
+302
+00:14:48,750 --> 00:14:49,959
+Phasers locked
+on target.
+
+303
+00:14:50,000 --> 00:14:51,041
+Fire when ready.
+
+304
+00:14:57,834 --> 00:14:59,875
+We are within two kilometers
+of the magma pocket.
+
+305
+00:15:01,250 --> 00:15:02,709
+Another five seconds
+should do it.
+
+306
+00:15:06,083 --> 00:15:07,583
+We've broken through.
+
+307
+00:15:07,625 --> 00:15:09,208
+Terminating the beam.
+
+308
+00:15:09,250 --> 00:15:12,417
+Oh, the pocket
+seems stable.
+
+309
+00:15:13,417 --> 00:15:14,709
+I detect no increase
+
+310
+00:15:14,750 --> 00:15:16,250
+in the stress levels
+of the surrounding magma.
+
+311
+00:15:16,291 --> 00:15:17,834
+RIKER:
+Good work, Data.
+
+312
+00:15:17,875 --> 00:15:20,000
+I don't think we could
+have gotten in any cleaner.
+
+313
+00:15:20,041 --> 00:15:21,417
+JULIANA:
+We have Data to
+thank for that.
+
+314
+00:15:21,458 --> 00:15:23,083
+I couldn't have done it
+without him.
+
+315
+00:15:23,125 --> 00:15:24,500
+His figures
+were perfect.
+
+316
+00:15:25,667 --> 00:15:27,041
+The drilling process
+
+317
+00:15:27,083 --> 00:15:28,583
+has increased the temperature
+in the magma pockets
+
+318
+00:15:28,625 --> 00:15:31,208
+by almost
+300 degrees Celsius.
+
+319
+00:15:31,250 --> 00:15:32,375
+It will be several hours
+
+320
+00:15:32,417 --> 00:15:34,333
+before it cools enough
+for us to enter.
+
+321
+00:15:34,375 --> 00:15:35,542
+(<i> sigh of relief</i> )
+
+322
+00:15:40,125 --> 00:15:42,208
+Data, do you have
+any plans right now?
+
+323
+00:15:42,250 --> 00:15:43,750
+I do not.
+
+324
+00:15:43,792 --> 00:15:45,875
+Maybe we should spend
+a little time together.
+
+325
+00:15:47,000 --> 00:15:48,500
+I'd love to see
+your quarters.
+
+326
+00:15:52,000 --> 00:15:55,250
+(<i> classical violin</i>
+<i>music playing</i> )
+
+327
+00:16:29,500 --> 00:16:31,166
+Thank you.
+
+328
+00:16:31,208 --> 00:16:34,041
+I will be playing this piece
+at a recital tomorrow evening.
+
+329
+00:16:34,083 --> 00:16:36,333
+That was beautiful.
+
+330
+00:16:36,375 --> 00:16:37,792
+Hmm.
+
+331
+00:16:37,834 --> 00:16:39,208
+I have been told
+that my playing
+
+332
+00:16:39,250 --> 00:16:40,667
+is technically flawless
+
+333
+00:16:40,709 --> 00:16:42,917
+but no one has ever described
+it as beautiful.
+
+334
+00:16:42,959 --> 00:16:44,959
+It was. Really.
+
+335
+00:16:46,500 --> 00:16:47,959
+Are you certain
+you are not saying this
+
+336
+00:16:48,000 --> 00:16:49,417
+because you are
+my mother?
+
+337
+00:16:49,458 --> 00:16:51,834
+(<i> laughing</i> )
+
+338
+00:16:51,875 --> 00:16:55,000
+I have noticed that parents
+tend to exaggerate
+
+339
+00:16:55,041 --> 00:16:56,959
+when it comes to their
+children's accomplishments.
+
+340
+00:16:59,000 --> 00:17:00,875
+Oh, I suppose
+there's a certain amount
+
+341
+00:17:00,917 --> 00:17:03,041
+of vanity involved
+
+342
+00:17:03,083 --> 00:17:07,417
+considering that giving you
+a creative aspect was my idea.
+
+343
+00:17:07,458 --> 00:17:10,083
+Oh, your father didn't
+really see the point.
+
+344
+00:17:10,125 --> 00:17:12,959
+He thought that since
+you didn't have emotions
+
+345
+00:17:13,000 --> 00:17:15,917
+there would be no real need
+for you to express yourself.
+
+346
+00:17:17,291 --> 00:17:19,291
+Somehow, I had the feeling
+
+347
+00:17:19,333 --> 00:17:21,166
+that the opposite
+would be true.
+
+348
+00:17:23,417 --> 00:17:25,542
+I do not know for certain,
+
+349
+00:17:25,583 --> 00:17:29,875
+but I believe it is during
+my creative endeavors
+
+350
+00:17:29,917 --> 00:17:31,917
+that I come closest
+to experiencing
+
+351
+00:17:31,959 --> 00:17:34,083
+what it must be
+like to be human.
+
+352
+00:17:35,458 --> 00:17:38,583
+Well, I'm glad
+I insisted.
+
+353
+00:17:39,834 --> 00:17:40,875
+As am I.
+
+354
+00:17:45,000 --> 00:17:47,125
+Data...
+
+355
+00:17:47,166 --> 00:17:49,667
+I'm very familiar
+with that Handel piece.
+
+356
+00:17:49,709 --> 00:17:50,750
+How would you feel about
+
+357
+00:17:50,792 --> 00:17:53,166
+my playing
+the viola part tomorrow?
+
+358
+00:17:53,208 --> 00:17:54,917
+I would like
+that very much.
+
+359
+00:17:56,333 --> 00:17:57,834
+Well, I'll have to
+practice.
+
+360
+00:17:57,875 --> 00:17:59,750
+You don't happen
+to have a viola?
+
+361
+00:17:59,792 --> 00:18:01,500
+I could replicate
+one for you.
+
+362
+00:18:04,917 --> 00:18:07,375
+Computer, please
+replicate one viola.
+
+363
+00:18:11,667 --> 00:18:13,500
+Did you paint these?
+
+364
+00:18:13,542 --> 00:18:14,583
+Yes.
+
+365
+00:18:14,625 --> 00:18:15,792
+I am attempting
+to master
+
+366
+00:18:15,834 --> 00:18:18,166
+all known
+styles of painting.
+
+367
+00:18:18,208 --> 00:18:19,458
+Oh!
+
+368
+00:18:20,709 --> 00:18:22,166
+This one is
+in the style
+
+369
+00:18:22,208 --> 00:18:24,166
+of the early French
+Impressionists.
+
+370
+00:18:24,208 --> 00:18:25,375
+Oh, it's very good.
+
+371
+00:18:27,417 --> 00:18:28,542
+Who's this?
+
+372
+00:18:30,208 --> 00:18:32,125
+That is Lal,
+my daughter.
+
+373
+00:18:33,333 --> 00:18:35,166
+Your daughter?
+
+374
+00:18:35,208 --> 00:18:37,875
+I created her
+using myself as a model.
+
+375
+00:18:40,375 --> 00:18:41,458
+Where is she now?
+
+376
+00:18:43,792 --> 00:18:46,125
+The positronic matrix
+I designed for her
+
+377
+00:18:46,166 --> 00:18:47,542
+was unstable.
+
+378
+00:18:47,583 --> 00:18:49,291
+She only lived
+a short time.
+
+379
+00:18:51,458 --> 00:18:52,625
+I see.
+
+380
+00:18:54,291 --> 00:18:56,750
+In a sense, you were
+her grandmother.
+
+381
+00:19:02,583 --> 00:19:03,792
+Would you like
+to practice now?
+
+382
+00:19:05,458 --> 00:19:06,959
+Yes. Yes, of course.
+
+383
+00:19:11,333 --> 00:19:13,542
+(<i> playing classical music</i> )
+
+384
+00:19:35,291 --> 00:19:37,834
+The acoustics in Ten-Forward
+are most favorable.
+
+385
+00:19:37,875 --> 00:19:39,834
+Yes. Yes, very nice.
+
+386
+00:19:41,959 --> 00:19:44,375
+Data, may I ask
+you something?
+
+387
+00:19:44,417 --> 00:19:46,250
+Of course.
+
+388
+00:19:46,291 --> 00:19:47,959
+Do you think
+you'll ever try to create
+
+389
+00:19:48,000 --> 00:19:49,250
+an android again?
+
+390
+00:19:50,959 --> 00:19:52,500
+Perhaps.
+
+391
+00:19:52,542 --> 00:19:56,250
+I created Lal because
+I wished to procreate.
+
+392
+00:19:56,291 --> 00:19:59,291
+Despite what happened to her,
+I still have that wish.
+
+393
+00:20:01,166 --> 00:20:04,000
+But how do you know
+the same thing won't happen?
+
+394
+00:20:04,041 --> 00:20:08,041
+Creating a stable positron
+matrix is very tricky.
+
+395
+00:20:08,083 --> 00:20:09,125
+Your father lost
+
+396
+00:20:09,166 --> 00:20:11,166
+several prototypes
+before Lore.
+
+397
+00:20:12,834 --> 00:20:14,250
+I was not aware
+he created other
+
+398
+00:20:14,291 --> 00:20:15,834
+androids before
+my brother.
+
+399
+00:20:19,417 --> 00:20:20,709
+There were
+three of them.
+
+400
+00:20:21,959 --> 00:20:23,667
+They were like
+children to us.
+
+401
+00:20:25,041 --> 00:20:26,667
+Losing them
+was very painful.
+
+402
+00:20:28,917 --> 00:20:30,500
+When Noonien decided
+to try again
+
+403
+00:20:30,542 --> 00:20:31,625
+I was very
+much against it.
+
+404
+00:20:31,667 --> 00:20:32,959
+I didn't think we had
+
+405
+00:20:33,000 --> 00:20:35,375
+the right to bring a life
+into the world
+
+406
+00:20:35,417 --> 00:20:37,041
+with so little
+chance of surviving.
+
+407
+00:20:39,792 --> 00:20:42,250
+But your father was sure
+
+408
+00:20:42,291 --> 00:20:45,250
+that he'd figured out
+what went wrong.
+
+409
+00:20:45,291 --> 00:20:47,625
+He insisted he could make
+a stable matrix, and he did.
+
+410
+00:20:51,250 --> 00:20:53,959
+But Lore was...
+cruel...
+
+411
+00:20:56,208 --> 00:20:57,500
+evil.
+
+412
+00:20:58,583 --> 00:21:00,125
+Eventually,
+we had no choice.
+
+413
+00:21:00,166 --> 00:21:01,667
+We had to dismantle him.
+
+414
+00:21:03,458 --> 00:21:06,375
+Your father decided to build
+yet another android--
+
+415
+00:21:06,417 --> 00:21:07,875
+one who
+didn't have emotions.
+
+416
+00:21:07,917 --> 00:21:10,667
+I couldn't believe...
+
+417
+00:21:10,709 --> 00:21:12,375
+he would
+want to try again.
+
+418
+00:21:13,792 --> 00:21:15,041
+<i>I</i> am that android.
+
+419
+00:21:18,208 --> 00:21:20,208
+Are you saying you were
+against my creation?
+
+420
+00:21:22,375 --> 00:21:25,250
+Initially I was,
+but I was wrong.
+
+421
+00:21:25,291 --> 00:21:26,500
+I know that now.
+
+422
+00:21:29,125 --> 00:21:31,709
+I followed your
+progress for years.
+
+423
+00:21:33,583 --> 00:21:35,875
+I'm very proud of what
+you've accomplished.
+
+424
+00:21:37,291 --> 00:21:39,834
+Then, why did you never
+attempt to contact me?
+
+425
+00:21:42,333 --> 00:21:44,750
+Because I felt guilty
+about something I'd done.
+
+426
+00:21:47,542 --> 00:21:50,458
+Perhaps if you told me what
+has made you feel this way
+
+427
+00:21:50,500 --> 00:21:51,834
+it would
+alleviate the guilt.
+
+428
+00:21:54,834 --> 00:21:57,375
+I lied...
+
+429
+00:21:57,417 --> 00:21:59,625
+when I said there
+was no room for you
+
+430
+00:21:59,667 --> 00:22:02,000
+in the escape pod
+we took from Omicron.
+
+431
+00:22:03,625 --> 00:22:05,125
+(<i> voice breaking</i> ):
+There was.
+
+432
+00:22:07,458 --> 00:22:09,542
+I didn't want to
+bring you with us.
+
+433
+00:22:13,709 --> 00:22:15,875
+I was afraid
+if we reactivated you
+
+434
+00:22:15,917 --> 00:22:17,792
+you'd turn out like Lore.
+
+435
+00:22:24,083 --> 00:22:26,834
+I made Noonien
+leave you behind.
+
+436
+00:22:46,959 --> 00:22:48,166
+We are within
+four kilometers
+
+437
+00:22:48,208 --> 00:22:49,542
+of the magma pocket.
+
+438
+00:22:51,208 --> 00:22:53,750
+We're picking up feedback pulses
+along the particle beam.
+
+439
+00:22:53,792 --> 00:22:55,625
+We must have hit
+a pocket of magnesite ore.
+
+440
+00:22:55,667 --> 00:22:58,250
+I'll try to adjust the phaser
+harmonics to compensate.
+
+441
+00:22:58,291 --> 00:22:59,834
+RIKER:
+Data, we're going to have
+
+442
+00:22:59,875 --> 00:23:01,667
+to terminate the beam
+if this keeps up.
+
+443
+00:23:01,709 --> 00:23:03,291
+If we do, we will have
+to begin a new shaft
+
+444
+00:23:03,333 --> 00:23:04,792
+at a suitable location.
+
+445
+00:23:04,834 --> 00:23:06,625
+There is no other
+suitable location.
+
+446
+00:23:06,667 --> 00:23:08,000
+Just give me
+a few more seconds.
+
+447
+00:23:10,333 --> 00:23:12,959
+Doctor, it's going to take
+longer than that to match the...
+
+448
+00:23:15,917 --> 00:23:17,291
+You did it.
+
+449
+00:23:17,333 --> 00:23:19,834
+It was just luck
+I hit the right frequency.
+
+450
+00:23:19,875 --> 00:23:22,208
+All right, we're less
+than two kilometers away
+
+451
+00:23:22,250 --> 00:23:23,625
+from the target site.
+
+452
+00:23:23,667 --> 00:23:25,542
+Stand by to
+terminate the beam.
+
+453
+00:23:27,208 --> 00:23:28,291
+We've broken through.
+
+454
+00:23:28,333 --> 00:23:29,417
+Now!
+
+455
+00:23:31,667 --> 00:23:34,041
+I am detecting no signs
+of instability.
+
+456
+00:23:34,083 --> 00:23:36,667
+Commander, may I suggest
+we set up the infusion unit
+
+457
+00:23:36,709 --> 00:23:38,250
+in the first magma pocket
+
+458
+00:23:38,291 --> 00:23:39,875
+and give this one
+a chance to cool?
+
+459
+00:23:41,250 --> 00:23:42,667
+Data, Dr. Tainer
+
+460
+00:23:42,709 --> 00:23:44,333
+we'll meet you
+in transporter room two.
+
+461
+00:23:44,375 --> 00:23:45,625
+Acknowledged.
+
+462
+00:23:58,792 --> 00:24:00,834
+I have initialized
+the plasma induction coils.
+
+463
+00:24:02,125 --> 00:24:03,750
+I'll need another minute
+to align the diverter.
+
+464
+00:24:14,083 --> 00:24:16,917
+There are signs of stress
+in the surrounding magma
+
+465
+00:24:16,959 --> 00:24:18,500
+but the site
+should remain stable
+
+466
+00:24:18,542 --> 00:24:20,834
+until we finish
+the plasma infusion.
+
+467
+00:24:20,875 --> 00:24:22,458
+Good.
+We're almost through here.
+
+468
+00:24:23,917 --> 00:24:25,000
+Data...
+
+469
+00:24:26,750 --> 00:24:29,166
+Juliana told me what she
+said to you last night.
+
+470
+00:24:30,458 --> 00:24:32,375
+She's been
+very upset.
+
+471
+00:24:32,417 --> 00:24:34,583
+I don't blame you
+for being angry with her...
+
+472
+00:24:34,625 --> 00:24:36,333
+I am incapable
+of anger.
+
+473
+00:24:36,375 --> 00:24:37,834
+It's all right, Pran.
+
+474
+00:24:41,959 --> 00:24:43,250
+I know what
+I said to you
+
+475
+00:24:43,291 --> 00:24:45,375
+must have been hard
+for you to hear
+
+476
+00:24:45,417 --> 00:24:47,291
+but I hope you
+understand my reasons.
+
+477
+00:24:49,750 --> 00:24:51,667
+I am not certain I do.
+
+478
+00:24:51,709 --> 00:24:53,458
+Perhaps you could
+clarify them for me.
+
+479
+00:24:55,458 --> 00:24:57,250
+Well, I'll try.
+What do you want to know?
+
+480
+00:24:58,500 --> 00:25:01,041
+If I had been
+your biological offspring
+
+481
+00:25:01,083 --> 00:25:03,083
+would you have left me
+on Omicron Theta?
+
+482
+00:25:05,625 --> 00:25:07,625
+Oh, Data...
+
+483
+00:25:07,667 --> 00:25:09,208
+how can I answer that?
+
+484
+00:25:10,458 --> 00:25:12,834
+Dr. Tainer,
+I get the impression
+
+485
+00:25:12,875 --> 00:25:15,125
+you are trying to spare
+my feelings.
+
+486
+00:25:15,166 --> 00:25:16,083
+I assure you
+
+487
+00:25:16,125 --> 00:25:17,583
+that is not
+necessary.
+
+488
+00:25:17,625 --> 00:25:20,542
+I just don't want you to
+misunderstand my answer.
+
+489
+00:25:25,166 --> 00:25:26,583
+No, I wouldn't have
+left you behind
+
+490
+00:25:26,625 --> 00:25:29,333
+if you'd been
+my biological child.
+
+491
+00:25:29,375 --> 00:25:32,750
+Hmm. Is that because you
+place more value
+
+492
+00:25:32,792 --> 00:25:35,625
+on biological life
+than artificial life?
+
+493
+00:25:35,667 --> 00:25:38,166
+Absolutely not.
+
+494
+00:25:38,208 --> 00:25:40,959
+I cherished every android
+your father and I created
+
+495
+00:25:41,000 --> 00:25:42,875
+as if it<i> were</i> my child.
+
+496
+00:25:42,917 --> 00:25:44,542
+Even Lore.
+
+497
+00:25:44,583 --> 00:25:46,125
+Despite the fact
+that he turned on us
+
+498
+00:25:46,166 --> 00:25:47,333
+despite the dreadful
+things he did
+
+499
+00:25:47,375 --> 00:25:48,792
+dismantling him was
+
+500
+00:25:48,834 --> 00:25:50,750
+was the most difficult
+thing I ever had to do.
+
+501
+00:25:50,792 --> 00:25:52,125
+I was afraid that if you
+turned out like him
+
+502
+00:25:52,166 --> 00:25:53,834
+I would have
+to dismantle you, too.
+
+503
+00:25:59,417 --> 00:26:01,000
+And I couldn't
+bear to do that.
+
+504
+00:26:04,542 --> 00:26:06,834
+I'm not trying to justify
+leaving you behind.
+
+505
+00:26:09,208 --> 00:26:10,625
+I'm just sorry I did.
+
+506
+00:26:12,792 --> 00:26:14,083
+I hope you
+believe me.
+
+507
+00:26:15,417 --> 00:26:16,834
+I do.
+
+508
+00:26:16,875 --> 00:26:18,583
+Thank you for making
+it clear to me.
+
+509
+00:26:23,000 --> 00:26:28,333
+(<i> classical music playing</i> )
+
+510
+00:27:14,166 --> 00:27:15,667
+Just wonderful.
+
+511
+00:27:15,709 --> 00:27:17,000
+Bravo.
+
+512
+00:27:23,542 --> 00:27:24,792
+Data, why do you
+want to look at
+
+513
+00:27:24,834 --> 00:27:25,917
+Dr. Tainer's medical records?
+
+514
+00:27:25,959 --> 00:27:27,542
+Is something
+wrong with her?
+
+515
+00:27:27,583 --> 00:27:29,250
+I was hoping you would
+be able to determine that
+
+516
+00:27:29,291 --> 00:27:30,959
+from her transporter
+trace pattern.
+
+517
+00:27:31,000 --> 00:27:32,667
+Well, probably
+I could
+
+518
+00:27:32,709 --> 00:27:34,125
+but ordinarily I don't check
+
+519
+00:27:34,166 --> 00:27:36,500
+somebody's medical status
+without a good reason.
+
+520
+00:27:36,542 --> 00:27:39,625
+Doctor, I would ask
+that you not require me
+
+521
+00:27:39,667 --> 00:27:41,333
+to be more specific.
+
+522
+00:27:41,375 --> 00:27:42,500
+I assure you
+
+523
+00:27:42,542 --> 00:27:44,625
+I have a good reason
+for asking.
+
+524
+00:27:44,667 --> 00:27:46,083
+All right, Data.
+
+525
+00:27:56,375 --> 00:27:58,750
+At first glance,
+I see nothing wrong with her
+
+526
+00:27:58,792 --> 00:28:01,000
+except for a mild case
+of hypertension
+
+527
+00:28:01,041 --> 00:28:03,500
+which is normal
+for a woman her age.
+
+528
+00:28:03,542 --> 00:28:04,917
+I see.
+
+529
+00:28:06,750 --> 00:28:09,250
+Maybe you should tell me
+what her symptoms are.
+
+530
+00:28:09,291 --> 00:28:11,959
+She has not complained
+of any discomfort.
+
+531
+00:28:12,000 --> 00:28:13,834
+Then why do you want to
+see her medical records?
+
+532
+00:28:15,333 --> 00:28:17,125
+Because I have
+reason to believe
+
+533
+00:28:17,166 --> 00:28:18,959
+she is not who
+she claims to be.
+
+534
+00:28:19,000 --> 00:28:20,291
+RIKER:
+Bridge to Data.
+
+535
+00:28:20,333 --> 00:28:21,792
+Go ahead, sir.
+
+536
+00:28:21,834 --> 00:28:24,125
+There's been a cave-in
+in one of the magma pockets.
+
+537
+00:28:24,166 --> 00:28:26,041
+You're needed
+in transporter room two.
+
+538
+00:28:26,083 --> 00:28:27,041
+On my way.
+
+539
+00:28:27,083 --> 00:28:28,125
+Excuse me, Doctor.
+
+540
+00:28:34,625 --> 00:28:36,083
+What happened?
+
+541
+00:28:36,125 --> 00:28:37,291
+We were running
+a final check
+
+542
+00:28:37,333 --> 00:28:38,375
+on the infusion units
+
+543
+00:28:38,417 --> 00:28:40,458
+when a part of
+the wall gave way.
+
+544
+00:28:40,500 --> 00:28:42,291
+It looks like the area
+has stabilized
+
+545
+00:28:42,333 --> 00:28:44,250
+but seismic
+stress is building up.
+
+546
+00:28:44,291 --> 00:28:46,083
+Eventually the pocket
+will collapse.
+
+547
+00:28:46,125 --> 00:28:47,542
+RIKER:
+How long, Geordi?
+
+548
+00:28:47,583 --> 00:28:48,834
+It's tough to tell,
+Commander.
+
+549
+00:28:50,125 --> 00:28:51,709
+12 hours at most.
+
+550
+00:28:51,750 --> 00:28:53,792
+Then we must finish
+configuring the unit
+
+551
+00:28:53,834 --> 00:28:55,834
+and inject the plasma
+immediately.
+
+552
+00:28:55,875 --> 00:28:58,166
+I'd rather not send
+anyone back down there.
+
+553
+00:28:58,208 --> 00:28:59,792
+If you don't do it
+now, Commander
+
+554
+00:28:59,834 --> 00:29:02,417
+it may take months to
+find another suitable site.
+
+555
+00:29:02,458 --> 00:29:04,333
+The core may
+solidify by then.
+
+556
+00:29:04,375 --> 00:29:06,000
+She's right.
+We have to act now.
+
+557
+00:29:06,041 --> 00:29:07,834
+All right, but I want you
+in and out of there
+
+558
+00:29:07,875 --> 00:29:08,959
+as quickly as possible.
+
+559
+00:29:09,000 --> 00:29:10,125
+Acknowledged.
+
+560
+00:29:10,166 --> 00:29:11,333
+You're hurt.
+I'll go.
+
+561
+00:29:45,667 --> 00:29:47,417
+(<i> tricorder beeping</i> )
+
+562
+00:29:53,917 --> 00:29:55,041
+(<i> rumbling</i> )
+
+563
+00:29:55,083 --> 00:29:56,333
+(<i> gasps</i> )
+
+564
+00:29:59,000 --> 00:30:00,500
+There will be more
+seismic activity.
+
+565
+00:30:00,542 --> 00:30:01,750
+We must hurry.
+
+566
+00:30:32,542 --> 00:30:33,834
+The shaft has not been
+obstructed
+
+567
+00:30:33,875 --> 00:30:35,417
+by seismic activity.
+
+568
+00:30:35,458 --> 00:30:36,583
+It should be
+possible
+
+569
+00:30:36,625 --> 00:30:38,500
+to trigger
+the unit from orbit.
+
+570
+00:30:38,542 --> 00:30:39,917
+The infuser's been damaged.
+
+571
+00:30:39,959 --> 00:30:41,166
+We're going to
+have to start
+
+572
+00:30:41,208 --> 00:30:42,333
+the programming sequence
+all over again.
+
+573
+00:30:45,250 --> 00:30:47,834
+Priming the energy
+transfer matrix.
+
+574
+00:30:47,875 --> 00:30:50,375
+Reinitializing
+the particle stream buffer.
+
+575
+00:30:50,417 --> 00:30:51,709
+Riker to Data.
+Are you there?
+
+576
+00:30:51,750 --> 00:30:53,291
+Go ahead, sir.
+
+577
+00:30:53,333 --> 00:30:56,083
+We're reading an increase
+in seismic stress levels.
+
+578
+00:30:56,125 --> 00:30:57,375
+Understood, sir.
+
+579
+00:30:57,417 --> 00:30:58,917
+We will attempt to
+expedite our work.
+
+580
+00:31:01,333 --> 00:31:04,542
+There. Now we just have
+to realign the diverter.
+
+581
+00:31:09,333 --> 00:31:10,500
+Data, are you
+all right?
+
+582
+00:31:13,750 --> 00:31:14,750
+Yes, sir.
+
+583
+00:31:14,792 --> 00:31:15,834
+We will be returning
+
+584
+00:31:15,875 --> 00:31:17,375
+to the beam-out
+point shortly.
+
+585
+00:31:19,792 --> 00:31:20,875
+That's it. Let's go.
+
+586
+00:31:33,458 --> 00:31:34,625
+(<i> gasps</i> )
+
+587
+00:31:38,083 --> 00:31:39,917
+Can we transport without
+the pattern enhancers?
+
+588
+00:31:41,166 --> 00:31:43,125
+No. We are too far
+below the surface.
+
+589
+00:31:44,458 --> 00:31:45,750
+How are we going
+to get down there?
+
+590
+00:31:48,291 --> 00:31:50,083
+There are no handholds
+in the rock face.
+
+591
+00:31:51,166 --> 00:31:52,333
+(<i> gasping cry</i> )
+
+592
+00:31:52,375 --> 00:31:53,834
+We are going
+to have to jump.
+
+593
+00:31:53,875 --> 00:31:56,458
+No. It's too far,
+I won't make it.
+
+594
+00:31:56,500 --> 00:31:57,583
+You will.
+
+595
+00:32:20,667 --> 00:32:23,375
+LA FORGE:
+Basically, she's
+a Soong-type android
+
+596
+00:32:23,417 --> 00:32:24,792
+except everything about her
+
+597
+00:32:24,834 --> 00:32:27,000
+is designed to fool you
+into thinking she's human.
+
+598
+00:32:30,625 --> 00:32:35,709
+She has tear ducts,
+sweat glands
+
+599
+00:32:35,750 --> 00:32:38,041
+even veins and capillaries
+underneath her skin.
+
+600
+00:32:39,208 --> 00:32:41,417
+Why does the scanner
+read her as human?
+
+601
+00:32:41,458 --> 00:32:43,250
+Because she has
+a feedback processor
+
+602
+00:32:43,291 --> 00:32:45,959
+designed to send out
+a false bio-signal.
+
+603
+00:32:46,000 --> 00:32:47,875
+It's part of her
+aging program.
+
+604
+00:32:47,917 --> 00:32:50,709
+Not only does she age
+in appearance like Data
+
+605
+00:32:50,750 --> 00:32:52,542
+her vital signs change, too.
+
+606
+00:32:54,333 --> 00:32:55,458
+What I can't
+figure out
+
+607
+00:32:55,500 --> 00:32:57,750
+is why she lost
+consciousness.
+
+608
+00:32:57,792 --> 00:32:59,917
+As far as I can see,
+everything is fine.
+
+609
+00:32:59,959 --> 00:33:01,375
+She should be awake.
+
+610
+00:33:01,417 --> 00:33:03,500
+Check her
+positronic matrix.
+
+611
+00:33:03,542 --> 00:33:05,041
+There may be a cascade
+anomaly.
+
+612
+00:33:07,500 --> 00:33:09,250
+You said you knew
+she was an android. How?
+
+613
+00:33:11,000 --> 00:33:13,750
+The first indication occurred
+when we were digging.
+
+614
+00:33:13,792 --> 00:33:15,750
+I saw her perform
+complex calculations
+
+615
+00:33:15,792 --> 00:33:18,041
+without the assistance
+of the computer.
+
+616
+00:33:18,083 --> 00:33:19,834
+That could have just meant
+she was good at math.
+
+617
+00:33:19,875 --> 00:33:21,458
+That is true.
+
+618
+00:33:21,500 --> 00:33:23,333
+But it was enough
+to get my attention.
+
+619
+00:33:23,375 --> 00:33:25,417
+Later, I noticed
+something odd
+
+620
+00:33:25,458 --> 00:33:27,333
+about the way she
+blinked her eyes.
+
+621
+00:33:27,375 --> 00:33:29,000
+The intervals
+between blinks
+
+622
+00:33:29,041 --> 00:33:31,041
+were governed by
+the Fourier system--
+
+623
+00:33:31,083 --> 00:33:33,542
+the same mathematical
+formula my father used
+
+624
+00:33:33,583 --> 00:33:36,375
+to give my blinking pattern
+the appearance of randomness.
+
+625
+00:33:36,417 --> 00:33:39,125
+Only<i> you</i> could have noticed
+something like that.
+
+626
+00:33:39,166 --> 00:33:41,750
+Then there was the
+concert in Ten-Forward.
+
+627
+00:33:41,792 --> 00:33:43,291
+What about it?
+
+628
+00:33:43,333 --> 00:33:45,542
+We had practiced the
+piece, and I noticed
+
+629
+00:33:45,583 --> 00:33:47,917
+she played it the same way
+during the performance--
+
+630
+00:33:47,959 --> 00:33:52,333
+every pitch, every intonation
+was exactly the same.
+
+631
+00:33:52,375 --> 00:33:54,291
+Only an artificial life-form
+could have done that.
+
+632
+00:33:56,542 --> 00:33:58,333
+Does her husband
+know anything about this?
+
+633
+00:33:58,375 --> 00:34:00,208
+I do not
+believe so.
+
+634
+00:34:00,250 --> 00:34:01,375
+He is on the surface
+
+635
+00:34:01,417 --> 00:34:03,291
+monitoring
+the plasma infusion.
+
+636
+00:34:03,333 --> 00:34:05,125
+Probably just as well.
+
+637
+00:34:05,166 --> 00:34:07,333
+LA FORGE:
+Data, come take
+a look at this.
+
+638
+00:34:12,792 --> 00:34:14,625
+It appears to be an
+information module.
+
+639
+00:34:18,250 --> 00:34:19,750
+With a holographic
+interface.
+
+640
+00:34:28,583 --> 00:34:30,000
+(<i> clicking</i> )
+
+641
+00:34:40,542 --> 00:34:42,041
+Whoever you are
+
+642
+00:34:42,083 --> 00:34:43,667
+you must have found out
+about Juliana.
+
+643
+00:34:44,875 --> 00:34:46,291
+That is correct.
+
+644
+00:34:46,333 --> 00:34:48,000
+I programmed this hologram
+
+645
+00:34:48,041 --> 00:34:50,166
+to answer any questions
+you might have.
+
+646
+00:34:51,709 --> 00:34:53,125
+I am Noonien Soong.
+
+647
+00:34:54,625 --> 00:34:56,333
+I created her.
+
+648
+00:34:56,375 --> 00:34:58,333
+I am Data.
+
+649
+00:34:58,375 --> 00:34:59,583
+Data?
+
+650
+00:35:02,083 --> 00:35:04,250
+I hoped somehow
+it would be you.
+
+651
+00:35:09,917 --> 00:35:13,750
+I even created
+a response program
+
+652
+00:35:13,792 --> 00:35:15,291
+to answer<i> your</i> questions.
+
+653
+00:35:23,083 --> 00:35:24,417
+How are you, boy?
+
+654
+00:35:25,834 --> 00:35:27,041
+I am fine.
+
+655
+00:35:28,375 --> 00:35:30,250
+I'm glad you got the chance
+to meet your mother.
+
+656
+00:35:31,959 --> 00:35:34,458
+You refer to Dr. Tainer
+as my mother
+
+657
+00:35:34,500 --> 00:35:36,834
+yet the complexity
+of her design indicates
+
+658
+00:35:36,875 --> 00:35:38,667
+she was created<i> after</i> I was.
+
+659
+00:35:39,875 --> 00:35:41,583
+You're right.
+
+660
+00:35:41,625 --> 00:35:44,166
+But...
+
+661
+00:35:44,208 --> 00:35:47,208
+there was a real
+Juliana O'Donnell.
+
+662
+00:35:51,000 --> 00:35:52,208
+She was my wife.
+
+663
+00:35:54,500 --> 00:35:55,917
+She helped me
+create you.
+
+664
+00:35:57,667 --> 00:35:58,750
+What happened to her?
+
+665
+00:36:02,834 --> 00:36:05,542
+She was... injured
+
+666
+00:36:07,417 --> 00:36:09,083
+when the Crystalline
+Entity attacked.
+
+667
+00:36:10,875 --> 00:36:12,917
+We made it as far
+as Terlina III
+
+668
+00:36:12,959 --> 00:36:14,083
+but...
+
+669
+00:36:16,500 --> 00:36:18,208
+she slipped into
+a coma.
+
+670
+00:36:19,917 --> 00:36:21,291
+When I realized
+
+671
+00:36:21,333 --> 00:36:24,792
+nothing could be done for her,
+I built an android.
+
+672
+00:36:27,542 --> 00:36:29,500
+I tried to...
+
+673
+00:36:29,542 --> 00:36:32,625
+perfect my synaptic
+scanning technique
+
+674
+00:36:32,667 --> 00:36:35,792
+so that I could transfer
+Juliana's memories
+
+675
+00:36:35,834 --> 00:36:38,083
+into a positronic matrix.
+
+676
+00:36:38,125 --> 00:36:40,000
+Didn't know
+if it would work
+
+677
+00:36:40,041 --> 00:36:41,166
+but I had to try.
+
+678
+00:36:44,291 --> 00:36:45,458
+I couldn't
+stand the thought
+
+679
+00:36:45,500 --> 00:36:47,375
+of losing the only woman
+I ever loved.
+
+680
+00:36:50,917 --> 00:36:52,834
+A few days
+after Juliana died,
+
+681
+00:36:52,875 --> 00:36:54,375
+I activated the android.
+
+682
+00:36:58,875 --> 00:37:00,625
+She looked up
+at me...
+
+683
+00:37:02,291 --> 00:37:03,417
+and smiled.
+
+684
+00:37:05,083 --> 00:37:06,291
+She recognized me.
+
+685
+00:37:07,542 --> 00:37:08,583
+It had worked!
+
+686
+00:37:09,750 --> 00:37:12,875
+Here was a life
+not two minutes old
+
+687
+00:37:12,917 --> 00:37:14,417
+and as far as she
+was concerned,
+
+688
+00:37:14,458 --> 00:37:16,291
+I was her husband.
+
+689
+00:37:16,333 --> 00:37:19,375
+She'd just recovered
+from a terrible injury.
+
+690
+00:37:19,417 --> 00:37:20,792
+It was incredible.
+
+691
+00:37:22,625 --> 00:37:24,834
+Then you never
+told her the truth?
+
+692
+00:37:24,875 --> 00:37:26,417
+Why?
+
+693
+00:37:26,458 --> 00:37:28,000
+There was no reason
+for her to know.
+
+694
+00:37:30,125 --> 00:37:31,375
+I wanted
+her to be happy.
+
+695
+00:37:34,375 --> 00:37:35,875
+I wanted<i> us</i> to be happy.
+
+696
+00:37:38,291 --> 00:37:39,542
+And we were...
+
+697
+00:37:42,375 --> 00:37:43,875
+(<i> sighs</i> )
+
+698
+00:37:43,917 --> 00:37:45,417
+...for awhile.
+
+699
+00:37:45,458 --> 00:37:46,583
+What happened?
+
+700
+00:37:52,125 --> 00:37:53,542
+I made
+a terrible mistake.
+
+701
+00:37:57,125 --> 00:37:58,166
+I never really...
+
+702
+00:38:00,208 --> 00:38:02,500
+let her know
+how much I loved her.
+
+703
+00:38:05,542 --> 00:38:06,583
+So she left me.
+
+704
+00:38:09,583 --> 00:38:12,083
+The real Juliana
+would have left, too
+
+705
+00:38:12,125 --> 00:38:13,625
+if she had lived.
+
+706
+00:38:13,667 --> 00:38:14,959
+If she recovers
+
+707
+00:38:15,000 --> 00:38:16,709
+and learns that
+she is an android...
+
+708
+00:38:16,750 --> 00:38:18,291
+She doesn't
+have to know.
+
+709
+00:38:19,458 --> 00:38:22,291
+Now, I designed her
+to shut down
+
+710
+00:38:22,333 --> 00:38:25,041
+in the event that
+the truth was discovered.
+
+711
+00:38:25,083 --> 00:38:28,375
+When you... when you
+put that chip back in
+
+712
+00:38:28,417 --> 00:38:30,792
+she will wake up
+and remember nothing.
+
+713
+00:38:30,834 --> 00:38:33,583
+All you have to do is
+make up some excuse
+
+714
+00:38:33,625 --> 00:38:34,917
+about what
+happened to her.
+
+715
+00:38:37,208 --> 00:38:40,083
+Then you do not believe
+she should know the truth?
+
+716
+00:38:40,125 --> 00:38:41,333
+The truth.
+
+717
+00:38:43,750 --> 00:38:45,667
+The truth is
+
+718
+00:38:45,709 --> 00:38:49,125
+in every way
+that matters
+
+719
+00:38:49,166 --> 00:38:51,500
+she<i> is</i> Juliana Soong.
+
+720
+00:38:55,166 --> 00:38:56,917
+I programmed her
+to terminate
+
+721
+00:38:56,959 --> 00:38:58,417
+after a long life.
+
+722
+00:38:59,917 --> 00:39:03,000
+Let her
+live out her days
+
+723
+00:39:03,041 --> 00:39:05,333
+and die believing
+she was human.
+
+724
+00:39:07,917 --> 00:39:09,750
+Don't rob her
+of that, son...
+
+725
+00:39:11,875 --> 00:39:12,959
+please.
+
+726
+00:39:14,709 --> 00:39:17,208
+It seems that
+I must make a decision--
+
+727
+00:39:17,250 --> 00:39:20,375
+whether to tell Dr. Tainer
+that she is an android
+
+728
+00:39:20,417 --> 00:39:22,625
+or to withhold that
+information from her.
+
+729
+00:39:26,041 --> 00:39:27,917
+I do not know
+what to do.
+
+730
+00:39:27,959 --> 00:39:30,709
+Why was Dr. Soong so adamant
+that she not be told?
+
+731
+00:39:30,750 --> 00:39:32,333
+He seemed certain
+that if she knew
+
+732
+00:39:32,375 --> 00:39:34,875
+it would preclude the
+possibility of her being happy.
+
+733
+00:39:34,917 --> 00:39:36,667
+Data,
+what do<i> you</i> think?
+
+734
+00:39:36,709 --> 00:39:38,333
+I am not certain.
+
+735
+00:39:38,375 --> 00:39:41,625
+I understand why my father
+felt as he did
+
+736
+00:39:41,667 --> 00:39:45,250
+but his wishes are not
+necessarily paramount.
+
+737
+00:39:45,291 --> 00:39:48,417
+I am more concerned
+with what would
+be best for her.
+
+738
+00:39:48,458 --> 00:39:51,250
+Wouldn't she be
+better off knowing the truth
+
+739
+00:39:51,291 --> 00:39:53,583
+dealing with the reality
+of her existence?
+
+740
+00:39:53,625 --> 00:39:55,625
+I don't think so.
+
+741
+00:39:55,667 --> 00:39:58,333
+She's believed
+she's human all her life.
+
+742
+00:39:58,375 --> 00:40:00,417
+The truth might be
+devastating to her.
+
+743
+00:40:00,458 --> 00:40:04,000
+Data, there might come
+some time in the future
+
+744
+00:40:04,041 --> 00:40:05,542
+when she would
+find out anyway--
+
+745
+00:40:05,583 --> 00:40:06,750
+another accident,
+perhaps.
+
+746
+00:40:07,834 --> 00:40:09,375
+Maybe it would be
+easier for her
+
+747
+00:40:09,417 --> 00:40:10,875
+if she learned
+the truth from you.
+
+748
+00:40:12,208 --> 00:40:15,875
+I can tell you
+that if I were in her place
+
+749
+00:40:15,917 --> 00:40:20,250
+I would rather be told by my
+son than by some stranger.
+
+750
+00:40:23,959 --> 00:40:25,875
+I find I am having
+difficulty separating
+
+751
+00:40:25,917 --> 00:40:30,417
+what would be best for her
+
+752
+00:40:30,458 --> 00:40:32,291
+from what
+would be best for me.
+
+753
+00:40:33,542 --> 00:40:34,667
+What do you mean?
+
+754
+00:40:34,709 --> 00:40:37,625
+If she knew she were
+an android
+
+755
+00:40:37,667 --> 00:40:39,125
+we would have
+something to share.
+
+756
+00:40:41,208 --> 00:40:42,959
+I would no longer be alone
+in the universe.
+
+757
+00:40:48,208 --> 00:40:51,417
+I know how much
+that means to you, Data
+
+758
+00:40:51,458 --> 00:40:56,208
+but at the same time,
+by telling her
+
+759
+00:40:56,250 --> 00:40:58,125
+you're robbing
+her of the one thing
+
+760
+00:40:58,166 --> 00:41:00,500
+you've wanted all
+your life--
+
+761
+00:41:00,542 --> 00:41:01,583
+to be human.
+
+762
+00:41:06,500 --> 00:41:08,291
+It's a difficult choice.
+
+763
+00:41:08,333 --> 00:41:09,959
+You must do what
+you think best, Data.
+
+764
+00:41:10,000 --> 00:41:12,250
+But whatever decision
+you make,
+
+765
+00:41:12,291 --> 00:41:13,542
+we will support it.
+
+766
+00:41:40,250 --> 00:41:41,333
+Data.
+
+767
+00:41:43,041 --> 00:41:45,417
+What happened?
+
+768
+00:41:45,458 --> 00:41:49,250
+The last thing I remember
+was jumping off a cliff.
+
+769
+00:41:51,041 --> 00:41:52,875
+You were knocked
+unconscious by the fall.
+
+770
+00:41:55,000 --> 00:41:56,583
+You broke
+a bone in your arm
+
+771
+00:41:56,625 --> 00:41:58,291
+but Dr. Crusher
+repaired it.
+
+772
+00:42:04,458 --> 00:42:05,583
+Everything is fine.
+
+773
+00:42:11,041 --> 00:42:12,709
+<i>Captain's Log, supplemental.</i>
+
+774
+00:42:12,750 --> 00:42:15,375
+<i>The infusion of plasma</i>
+<i>into the core of Atrea IV</i>
+
+775
+00:42:15,417 --> 00:42:17,125
+<i>has been accomplished.</i>
+
+776
+00:42:17,166 --> 00:42:20,542
+<i>The core should remain molten</i>
+<i>for several hundred years.</i>
+
+777
+00:42:20,583 --> 00:42:22,667
+When will I
+see you again?
+
+778
+00:42:22,709 --> 00:42:25,250
+Perhaps I can visit
+Atrea on my next leave.
+
+779
+00:42:26,792 --> 00:42:28,375
+I would like
+that very much.
+
+780
+00:42:32,291 --> 00:42:33,792
+Well, I'd better
+be going.
+
+781
+00:42:36,750 --> 00:42:38,291
+There is something
+I think you should know.
+
+782
+00:42:39,583 --> 00:42:40,625
+My father told me...
+
+783
+00:42:44,208 --> 00:42:48,125
+that he had only one
+great love in his life
+
+784
+00:42:48,166 --> 00:42:49,750
+and that he regretted
+never telling her
+
+785
+00:42:49,792 --> 00:42:51,250
+how much
+he cared for her.
+
+786
+00:42:53,458 --> 00:42:56,375
+I am certain he was
+referring to you.
+
+787
+00:43:02,709 --> 00:43:04,000
+That's nice to know.
+
+788
+00:43:07,792 --> 00:43:10,917
+On Atrea,
+there is a saying
+
+789
+00:43:10,959 --> 00:43:12,542
+that a child born
+
+790
+00:43:12,583 --> 00:43:15,041
+from parents who
+love each other
+
+791
+00:43:15,083 --> 00:43:17,250
+will have nothing
+but goodness in his heart.
+
+792
+00:43:20,250 --> 00:43:22,083
+I guess that explains you.
+
+793
+00:43:44,834 --> 00:43:46,291
+Take care of
+yourself, son.
+
+794
+00:43:47,542 --> 00:43:49,125
+Good-bye... Mother.
+
+795
+00:43:51,667 --> 00:43:52,875
+Energize.

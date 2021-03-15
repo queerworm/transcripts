@@ -1,0 +1,3716 @@
+1
+00:00:03,500 --> 00:00:07,375
+<i>Captain's Log,</i>
+<i>Stardate 43489.2.</i>
+
+2
+00:00:07,375 --> 00:00:09,417
+<i>We have arrived at Angosia III,</i>
+
+3
+00:00:09,417 --> 00:00:12,125
+<i>a planet that has expressed</i>
+<i>a strong desire</i>
+
+4
+00:00:12,125 --> 00:00:14,208
+<i>for membership</i>
+<i>in the Federation.</i>
+
+5
+00:00:14,208 --> 00:00:17,166
+<i>Prime Minister Nayrok has</i>
+<i>taken Commander Riker and me</i>
+
+6
+00:00:17,166 --> 00:00:18,667
+<i>on a tour of the capital city.</i>
+
+7
+00:00:21,875 --> 00:00:23,417
+Well, I'm greatly impressed
+
+8
+00:00:23,417 --> 00:00:25,583
+with everything I've seen
+so far, Prime Minister.
+
+9
+00:00:25,583 --> 00:00:26,959
+Then, I hope it will
+reflect favorably
+
+10
+00:00:26,959 --> 00:00:28,500
+in your report, Captain.
+
+11
+00:00:28,500 --> 00:00:30,125
+It's a tribute to your people
+that you were able
+
+12
+00:00:30,125 --> 00:00:32,166
+to recover so rapidly
+from the Tarsian War.
+
+13
+00:00:32,166 --> 00:00:34,208
+It is, indeed.
+We are not warriors.
+
+14
+00:00:34,208 --> 00:00:36,250
+We believe reason
+should settle disputes,
+
+15
+00:00:36,250 --> 00:00:38,667
+but not every culture
+agrees with our position.
+
+16
+00:00:38,667 --> 00:00:41,542
+An unfortunate reality.
+
+17
+00:00:41,542 --> 00:00:42,709
+The development of the mind
+
+18
+00:00:42,709 --> 00:00:44,583
+the cultivation
+of the intellect--
+
+19
+00:00:44,583 --> 00:00:47,250
+these are the pursuits
+to which the Angosians
+
+20
+00:00:47,250 --> 00:00:49,500
+have dedicated themselves
+for centuries.
+
+21
+00:00:49,500 --> 00:00:51,166
+Prime Minister?
+
+22
+00:00:51,166 --> 00:00:53,792
+I'm sorry to interrupt,
+but we have a problem.
+
+23
+00:00:53,792 --> 00:00:55,834
+May I see you
+for a moment?
+
+24
+00:00:55,834 --> 00:00:57,792
+Excuse me,
+gentlemen.
+
+25
+00:01:01,000 --> 00:01:03,166
+Yes, what is it?
+
+26
+00:01:03,166 --> 00:01:05,834
+Well, I think they'll
+make a fine addition
+
+27
+00:01:05,834 --> 00:01:08,083
+to the Federation,
+Number One.
+
+28
+00:01:08,083 --> 00:01:10,750
+I'm not sure I'd like
+to live in this place.
+
+29
+00:01:10,750 --> 00:01:12,458
+A little stuffy
+for my taste.
+
+30
+00:01:17,166 --> 00:01:18,959
+A prisoner has escaped
+
+31
+00:01:18,959 --> 00:01:21,000
+from the penal colony
+on Lunar V.
+
+32
+00:01:21,000 --> 00:01:23,000
+Two guards are dead.
+
+33
+00:01:23,000 --> 00:01:25,208
+The prisoner has taken
+a transport vessel.
+
+34
+00:01:25,208 --> 00:01:26,875
+Do you have means
+of pursuit?
+
+35
+00:01:26,875 --> 00:01:29,000
+The tracking station
+was sabotaged.
+
+36
+00:01:29,000 --> 00:01:30,917
+The entire base is in chaos.
+
+37
+00:01:30,917 --> 00:01:33,458
+We've ordered ships
+from the surface to follow him,
+
+38
+00:01:33,458 --> 00:01:35,000
+but to be honest,
+
+39
+00:01:35,000 --> 00:01:37,667
+our civilian pilots
+are not trained for this.
+
+40
+00:01:37,667 --> 00:01:39,792
+With your permission?
+
+41
+00:01:41,500 --> 00:01:44,083
+Mr. Data,
+a stolen transport vessel
+
+42
+00:01:44,083 --> 00:01:46,125
+has departed from Lunar V.
+
+43
+00:01:46,125 --> 00:01:48,709
+Have you picked it up
+on the sensors?
+
+44
+00:01:48,709 --> 00:01:50,291
+Yes, Commander.
+
+45
+00:01:50,291 --> 00:01:51,792
+Good. Detain the vessel
+and quarantine the pilot.
+
+46
+00:01:51,792 --> 00:01:53,125
+Is he armed?
+
+47
+00:01:53,125 --> 00:01:55,792
+Yes, and extremely dangerous,
+Commander.
+
+48
+00:01:55,792 --> 00:01:58,417
+Lunar V
+is a maximum security facility.
+
+49
+00:01:58,417 --> 00:01:59,792
+Did you read that, Data?
+
+50
+00:01:59,792 --> 00:02:00,959
+Yes, sir.
+
+51
+00:02:00,959 --> 00:02:03,166
+We will use extreme caution.
+
+52
+00:02:03,166 --> 00:02:04,625
+Keep us informed.
+
+53
+00:02:04,625 --> 00:02:05,959
+Riker out.
+
+54
+00:02:05,959 --> 00:02:07,542
+On screen, sir.
+
+55
+00:02:07,542 --> 00:02:11,208
+DATA:
+Specifications
+on the vessel, Mr. Worf.
+
+56
+00:02:11,208 --> 00:02:12,667
+No warp drive.
+
+57
+00:02:12,667 --> 00:02:14,375
+Minimal weaponry.
+
+58
+00:02:14,375 --> 00:02:16,125
+Heading, Mr. Crusher.
+
+59
+00:02:16,125 --> 00:02:19,500
+319 mark 250, sir.
+
+60
+00:02:19,500 --> 00:02:22,417
+Vessel speed increasing
+to .02 impulse.
+
+61
+00:02:22,417 --> 00:02:24,375
+He's seen us, Data.
+
+62
+00:02:36,583 --> 00:02:39,125
+That's the ship's
+drive section.
+
+63
+00:02:39,125 --> 00:02:40,959
+What happened to the rest
+of his ship?
+
+64
+00:02:40,959 --> 00:02:44,625
+Scan the drive section
+for life-form readings.
+
+65
+00:02:44,625 --> 00:02:46,041
+None.
+
+66
+00:02:46,041 --> 00:02:47,417
+Bring us around
+
+67
+00:02:47,417 --> 00:02:49,500
+to the back side
+of the asteroid, Mr. Crusher.
+
+68
+00:02:55,834 --> 00:02:59,333
+Sensors indicate wreckage
+on the asteroid surface, Data.
+
+69
+00:02:59,333 --> 00:03:01,041
+No life signs.
+
+70
+00:03:01,041 --> 00:03:04,667
+Apparently, he did not survive.
+
+71
+00:03:04,667 --> 00:03:06,834
+Data, the drive section...
+
+72
+00:03:06,834 --> 00:03:08,542
+where'd it go?
+
+73
+00:03:08,542 --> 00:03:11,625
+There's no sign of it
+on its previous heading.
+
+74
+00:03:11,625 --> 00:03:14,208
+Someone must be at the helm.
+
+75
+00:03:14,208 --> 00:03:16,834
+RIKER:
+Status report, Mr. Data.
+
+76
+00:03:16,834 --> 00:03:19,792
+I am afraid the prisoner
+has eluded us, sir.
+
+77
+00:03:21,792 --> 00:03:24,834
+Eluded the<i> Enterprise?</i>
+
+78
+00:03:52,792 --> 00:03:57,000
+<i>Space, the final frontier.</i>
+
+79
+00:03:57,000 --> 00:04:01,041
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+80
+00:04:01,041 --> 00:04:02,917
+<i>Its continuing mission--</i>
+
+81
+00:04:02,917 --> 00:04:06,959
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+82
+00:04:06,959 --> 00:04:11,458
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+83
+00:04:11,458 --> 00:04:15,917
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+84
+00:05:19,166 --> 00:05:20,959
+We followed procedures
+precisely, Captain.
+
+85
+00:05:20,959 --> 00:05:23,625
+Scanners indicated
+no life-forms present
+
+86
+00:05:23,625 --> 00:05:24,959
+in the drive section.
+
+87
+00:05:24,959 --> 00:05:27,250
+I cannot explain
+how he escaped.
+
+88
+00:05:27,250 --> 00:05:29,709
+Incoming message from
+the Angosian Prime Minister.
+
+89
+00:05:29,709 --> 00:05:31,083
+On screen.
+
+90
+00:05:31,083 --> 00:05:33,834
+Captain, we've identified
+the prisoner.
+
+91
+00:05:33,834 --> 00:05:36,959
+His name is Roga Danar.
+
+92
+00:05:36,959 --> 00:05:39,208
+His criminal record
+is too long to go into,
+
+93
+00:05:39,208 --> 00:05:40,875
+but I must caution you
+
+94
+00:05:40,875 --> 00:05:43,750
+that he is given to bouts
+of uncontrollable violence.
+
+95
+00:05:43,750 --> 00:05:46,625
+I appreciate your warning,
+Prime Minister.
+
+96
+00:05:46,625 --> 00:05:49,959
+We will keep you informed
+of our progress.
+
+97
+00:05:49,959 --> 00:05:52,792
+Geordi, how far and how fast
+can that transport ship travel?
+
+98
+00:05:52,792 --> 00:05:54,625
+Without warp drive,
+there's no way
+
+99
+00:05:54,625 --> 00:05:56,417
+he could be out
+of our range by now.
+
+100
+00:05:56,417 --> 00:05:58,000
+WESLEY:
+We've been sweeping
+the area constantly, Commander.
+
+101
+00:05:58,000 --> 00:05:59,792
+There's nothing
+within sensor range.
+
+102
+00:05:59,792 --> 00:06:02,083
+Cloaking device?
+
+103
+00:06:02,083 --> 00:06:04,834
+Sir, the Angosians have
+no cloaking technology.
+
+104
+00:06:04,834 --> 00:06:06,709
+Unless he's
+borrowing one.
+
+105
+00:06:06,709 --> 00:06:08,542
+Hmm?
+
+106
+00:06:08,542 --> 00:06:09,959
+If he's hanging
+over the planet's pole,
+
+107
+00:06:09,959 --> 00:06:11,667
+the magnetic field
+would confuse our sensors.
+
+108
+00:06:13,333 --> 00:06:15,875
+Commander, I believe I can
+recalibrate our sensors
+
+109
+00:06:15,875 --> 00:06:18,500
+to read through
+the electromagnetic interference
+
+110
+00:06:18,500 --> 00:06:19,750
+over the poles.
+
+111
+00:06:19,750 --> 00:06:21,750
+RIKER:
+Let's try it,
+Mr. Crusher.
+
+112
+00:06:21,750 --> 00:06:23,625
+Realign for polar orbit.
+
+113
+00:06:23,625 --> 00:06:25,375
+Aye, sir.
+
+114
+00:06:29,083 --> 00:06:31,458
+DATA:
+There he is, Commander.
+You were correct.
+
+115
+00:06:31,458 --> 00:06:34,083
+This guy knows all the tricks,
+doesn't he?
+
+116
+00:06:34,083 --> 00:06:36,250
+Still no life-form readings
+coming from the vessel.
+
+117
+00:06:36,250 --> 00:06:38,333
+Could it be
+the magnetic interference, Data?
+
+118
+00:06:38,333 --> 00:06:39,583
+I have compensated.
+
+119
+00:06:39,583 --> 00:06:40,917
+Still no reading.
+
+120
+00:06:40,917 --> 00:06:42,250
+We'll have an answer shortly.
+
+121
+00:06:42,250 --> 00:06:43,583
+Lock on a tractor beam,
+Mr. La Forge.
+
+122
+00:06:43,583 --> 00:06:46,375
+Tractor beam locking on, sir.
+
+123
+00:06:52,458 --> 00:06:54,500
+He is coming about, sir.
+
+124
+00:06:54,500 --> 00:06:56,417
+He's out of his mind.
+
+125
+00:06:56,417 --> 00:06:57,917
+Sensors detect
+a massive power buildup
+
+126
+00:06:57,917 --> 00:06:59,208
+in his aft thrusters.
+
+127
+00:06:59,208 --> 00:07:01,458
+On main viewer.
+
+128
+00:07:05,500 --> 00:07:07,792
+He's making a suicide run.
+
+129
+00:07:07,792 --> 00:07:09,917
+Shields have been
+automatically activated.
+
+130
+00:07:09,917 --> 00:07:11,583
+Tractor beam disengaged.
+
+131
+00:07:16,583 --> 00:07:18,333
+He bounced off the shields.
+
+132
+00:07:18,333 --> 00:07:21,417
+That's an interesting twist.
+
+133
+00:07:21,417 --> 00:07:23,750
+Mr. Crusher, fix coordinates
+onto that vessel.
+
+134
+00:07:23,750 --> 00:07:25,792
+We'll just beam
+the whole thing
+
+135
+00:07:25,792 --> 00:07:27,291
+into a shuttle bay
+if we have to.
+
+136
+00:07:27,291 --> 00:07:29,542
+I do not believe
+that will be
+necessary, Captain.
+
+137
+00:07:29,542 --> 00:07:31,208
+He is no longer in
+the drive section.
+
+138
+00:07:31,208 --> 00:07:33,250
+What?
+
+139
+00:07:33,250 --> 00:07:34,792
+I anticipated
+
+140
+00:07:34,792 --> 00:07:37,333
+that diversionary tactic
+based on his pattern to date.
+
+141
+00:07:37,333 --> 00:07:39,083
+We are picking up
+a cylindrical object
+
+142
+00:07:39,083 --> 00:07:40,875
+approximately seven meters
+in length
+
+143
+00:07:40,875 --> 00:07:43,542
+and three meters
+in diameter.
+
+144
+00:07:43,542 --> 00:07:45,542
+WORF:
+On screen.
+
+145
+00:07:46,625 --> 00:07:47,792
+PICARD:
+Magnify.
+
+146
+00:07:50,083 --> 00:07:51,792
+An escape pod.
+
+147
+00:07:51,792 --> 00:07:53,834
+This guy's incredible.
+
+148
+00:07:53,834 --> 00:07:56,750
+Yet there are still
+no life-form readings.
+
+149
+00:07:56,750 --> 00:07:58,417
+Transporter Room 4,
+
+150
+00:07:58,417 --> 00:08:01,041
+prepare to beam aboard
+from inside that shuttle
+
+151
+00:08:01,041 --> 00:08:03,458
+anything large enough
+to be a humanoid adult.
+
+152
+00:08:03,458 --> 00:08:04,917
+O'BRIEN:
+Aye, sir.
+
+153
+00:08:04,917 --> 00:08:08,083
+Security team, report
+to Transporter Room 4.
+
+154
+00:08:08,083 --> 00:08:09,875
+CREWMAN:
+On our way, sir.
+
+155
+00:08:09,875 --> 00:08:11,667
+We're holding the contents
+in stasis
+
+156
+00:08:11,667 --> 00:08:13,208
+pending the arrival of security.
+
+157
+00:08:13,208 --> 00:08:14,875
+(<i> beeping</i> )
+
+158
+00:08:14,875 --> 00:08:16,208
+An illicit weapon
+has been detected
+
+159
+00:08:16,208 --> 00:08:17,417
+in the transporter beam, sir.
+
+160
+00:08:17,417 --> 00:08:19,667
+It's been rendered inoperable.
+
+161
+00:08:19,667 --> 00:08:22,625
+Worf, let's greet our guest.
+
+162
+00:08:26,291 --> 00:08:28,917
+SECURITY CREWMAN:
+Bring him in, Mr. O'Brien.
+
+163
+00:08:34,291 --> 00:08:36,083
+Just stay where you are.
+
+164
+00:08:39,583 --> 00:08:43,166
+O'BRIEN:
+More security,
+Transporter Room 4.
+
+165
+00:08:43,166 --> 00:08:44,792
+More security!
+
+166
+00:08:44,792 --> 00:08:46,208
+More security!
+
+167
+00:08:54,250 --> 00:08:55,667
+(<i> grunts</i> )
+
+168
+00:09:05,500 --> 00:09:08,625
+(<i> screams</i> )
+
+169
+00:09:10,333 --> 00:09:11,834
+(<i> groans</i> )
+
+170
+00:09:16,375 --> 00:09:17,625
+Oh...
+
+171
+00:09:21,917 --> 00:09:24,083
+(<i> grunts with effort</i> )
+
+172
+00:09:38,750 --> 00:09:41,417
+Get him to
+a detention cell.
+
+173
+00:09:41,417 --> 00:09:44,417
+Set phasers
+on maximum stun!
+
+174
+00:09:44,417 --> 00:09:47,542
+(<i> beeping</i> )
+
+175
+00:09:47,542 --> 00:09:49,083
+O'BRIEN:
+Commander...
+
+176
+00:10:00,041 --> 00:10:02,291
+We'll need a few hours
+to get the containment field
+
+177
+00:10:02,291 --> 00:10:05,542
+on Lunar V operational
+before we pick him up.
+
+178
+00:10:05,542 --> 00:10:09,125
+The damage he did during
+his escape was considerable.
+
+179
+00:10:09,125 --> 00:10:10,500
+We will await
+your signal.
+
+180
+00:10:10,500 --> 00:10:12,250
+I appreciate your patience.
+
+181
+00:10:12,250 --> 00:10:14,583
+The prison psychologist
+recommends
+
+182
+00:10:14,583 --> 00:10:16,417
+that you keep Danar
+fully sedated
+
+183
+00:10:16,417 --> 00:10:18,083
+until he's ready for transport.
+
+184
+00:10:18,083 --> 00:10:22,625
+Hmm... Well, he's in our highest
+security detention area.
+
+185
+00:10:22,625 --> 00:10:24,667
+There shouldn't be
+any more problems.
+
+186
+00:10:24,667 --> 00:10:27,583
+Do not relax your security
+for an instant, Captain.
+
+187
+00:10:27,583 --> 00:10:29,917
+He is extremely violent
+and very cunning
+
+188
+00:10:29,917 --> 00:10:31,500
+as you already know.
+
+189
+00:10:31,500 --> 00:10:33,041
+I will send a transport vessel
+
+190
+00:10:33,041 --> 00:10:34,875
+to pick him up
+as soon as possible.
+
+191
+00:10:34,875 --> 00:10:36,083
+Nayrok out.
+
+192
+00:10:36,083 --> 00:10:37,959
+Have you run
+a diagnostic
+
+193
+00:10:37,959 --> 00:10:39,542
+on the
+sensors, Data?
+
+194
+00:10:39,542 --> 00:10:41,917
+Yes, sir. There is nothing wrong
+with the ship's sensors.
+
+195
+00:10:41,917 --> 00:10:44,291
+The reason
+we did not pick up life signs
+
+196
+00:10:44,291 --> 00:10:46,792
+aboard the escape vessel
+is because the prisoner
+
+197
+00:10:46,792 --> 00:10:48,583
+has no life signs.
+
+198
+00:10:48,583 --> 00:10:51,792
+Computer, identify the occupant
+of the detention cell.
+
+199
+00:10:51,792 --> 00:10:55,583
+COMPUTER:
+The detention cell
+is vacant at this time.
+
+200
+00:10:55,583 --> 00:10:57,166
+He's in there.
+
+201
+00:10:57,166 --> 00:10:59,125
+Could he be some kind
+of android?
+
+202
+00:10:59,125 --> 00:11:02,792
+Our sensors can identify
+artificial life-forms, sir.
+
+203
+00:11:02,792 --> 00:11:06,417
+Apparently, he is capable
+of deceiving the sensors.
+
+204
+00:11:13,583 --> 00:11:15,792
+(<i> startled yell</i> )
+
+205
+00:11:20,750 --> 00:11:22,000
+(<i> groaning</i> )
+
+206
+00:11:26,834 --> 00:11:28,250
+(<i> groaning continues</i> )
+
+207
+00:11:39,750 --> 00:11:41,709
+(<i> moaning</i> )
+
+208
+00:11:49,542 --> 00:11:51,041
+Are you all right?
+
+209
+00:11:55,625 --> 00:11:57,834
+What is this ship?
+
+210
+00:11:57,834 --> 00:12:01,250
+You're onboard
+the USS<i> Enterprise.</i>
+
+211
+00:12:01,250 --> 00:12:03,291
+A war vessel?
+
+212
+00:12:03,291 --> 00:12:06,458
+A Federation starship.
+
+213
+00:12:06,458 --> 00:12:09,500
+Federation.
+
+214
+00:12:09,500 --> 00:12:13,709
+We were
+orbiting Angosia
+
+215
+00:12:13,709 --> 00:12:16,208
+when you escaped
+from Lunar V.
+
+216
+00:12:20,709 --> 00:12:25,667
+Well, it seems that I am
+the victim of my own bad timing.
+
+217
+00:12:33,208 --> 00:12:34,834
+(<i> water splashes</i> )
+
+218
+00:12:37,333 --> 00:12:40,667
+Are you the keeper of this jail?
+
+219
+00:12:42,166 --> 00:12:44,667
+I'm Deanna Troi,
+Ship's Counselor.
+
+220
+00:12:44,667 --> 00:12:46,333
+Counselor?
+
+221
+00:12:46,333 --> 00:12:47,709
+Too bad.
+
+222
+00:12:47,709 --> 00:12:49,625
+I'd rather you were the jailer
+
+223
+00:12:49,625 --> 00:12:52,333
+to keep me company
+during my return trip.
+
+224
+00:12:52,333 --> 00:12:55,125
+I assume we
+are returning
+
+225
+00:12:55,125 --> 00:12:56,417
+to Lunar V.
+
+226
+00:12:59,208 --> 00:13:01,458
+That terrifies you.
+
+227
+00:13:01,458 --> 00:13:05,291
+I just killed three men
+to get out of there, Counselor,
+
+228
+00:13:05,291 --> 00:13:08,625
+and I'm fully capable
+of killing you as well.
+
+229
+00:13:08,625 --> 00:13:11,667
+That's a terrifying thought,
+isn't it?
+
+230
+00:13:11,667 --> 00:13:13,834
+Even to me.
+
+231
+00:13:13,834 --> 00:13:16,458
+Do they mistreat you there?
+
+232
+00:13:16,458 --> 00:13:19,250
+(<i> chuckles</i> ):
+Not at all.
+
+233
+00:13:19,250 --> 00:13:22,500
+I am comfortable,
+well fed, and housed.
+
+234
+00:13:22,500 --> 00:13:25,250
+Oh, no, the Angosians take
+good care of their prisoners.
+
+235
+00:13:25,250 --> 00:13:30,083
+It's simply a matter
+of never being able to leave.
+
+236
+00:13:30,083 --> 00:13:32,208
+What about you, Counselor?
+
+237
+00:13:32,208 --> 00:13:35,250
+Do you always visit
+the prisoners?
+
+238
+00:13:35,250 --> 00:13:38,750
+Are you a specialist
+in criminal behavior?
+
+239
+00:13:38,750 --> 00:13:42,291
+Or am I just an
+interesting specimen
+who landed on the ship
+
+240
+00:13:42,291 --> 00:13:45,458
+like an insect to be studied
+under your microscope?
+
+241
+00:13:45,458 --> 00:13:48,875
+Why do have all this anger
+toward me?
+
+242
+00:13:51,000 --> 00:13:54,041
+A girl with long dark hair
+
+243
+00:13:54,041 --> 00:13:57,375
+broke my heart a long time ago.
+
+244
+00:13:57,375 --> 00:14:02,083
+Out of bitterness
+and resentment...
+
+245
+00:14:02,083 --> 00:14:03,959
+I turned to crime.
+
+246
+00:14:05,583 --> 00:14:08,375
+(<i> laughing</i> )
+
+247
+00:14:08,375 --> 00:14:11,542
+How about this one--
+
+248
+00:14:11,542 --> 00:14:14,709
+my mother abandoned me
+when I was a little boy.
+
+249
+00:14:14,709 --> 00:14:18,166
+I never got the guidance
+that a wild young man needed.
+
+250
+00:14:18,166 --> 00:14:19,834
+Why are you doing this?
+
+251
+00:14:19,834 --> 00:14:21,250
+Playing games?
+
+252
+00:14:21,250 --> 00:14:23,083
+Isn't that what you do,
+Counselor?
+
+253
+00:14:23,083 --> 00:14:26,250
+Isn't that what all of you
+mind-control experts do?
+
+254
+00:14:26,250 --> 00:14:29,041
+I am not a mind-control expert.
+
+255
+00:14:29,041 --> 00:14:33,125
+I came here because
+I sensed you were in pain.
+
+256
+00:14:33,125 --> 00:14:36,667
+And what do you sense now?
+
+257
+00:14:36,667 --> 00:14:40,250
+The pain is gone.
+
+258
+00:14:43,125 --> 00:14:47,208
+That's interesting, isn't it?
+
+259
+00:14:47,208 --> 00:14:49,667
+TROI:
+There's a duality
+about the man.
+
+260
+00:14:49,667 --> 00:14:51,417
+It's hard
+to describe.
+
+261
+00:14:51,417 --> 00:14:53,458
+He's aware
+of his crimes.
+
+262
+00:14:53,458 --> 00:14:55,583
+In fact,
+they trouble him deeply.
+
+263
+00:14:55,583 --> 00:14:57,375
+Counselor...
+
+264
+00:14:57,375 --> 00:15:00,166
+He's intelligent, thoughtful,
+typically Angosian.
+
+265
+00:15:00,166 --> 00:15:04,875
+I know what he's done,
+but when I'm with him,
+
+266
+00:15:04,875 --> 00:15:06,750
+I cannot believe
+that he is randomly
+
+267
+00:15:06,750 --> 00:15:08,750
+and deliberately violent.
+
+268
+00:15:08,750 --> 00:15:10,250
+In fact,
+
+269
+00:15:10,250 --> 00:15:13,375
+inherently, he has
+a nonviolent personality.
+
+270
+00:15:13,375 --> 00:15:15,542
+Counselor, it took five men
+to restrain him
+
+271
+00:15:15,542 --> 00:15:17,792
+and he took apart half
+the transporter room
+
+272
+00:15:17,792 --> 00:15:19,125
+in the process.
+
+273
+00:15:19,125 --> 00:15:22,250
+I'm not opening
+the door for him, Captain.
+
+274
+00:15:22,250 --> 00:15:25,041
+I can only tell you
+that I sense
+
+275
+00:15:25,041 --> 00:15:27,542
+something very unusual
+about him--
+
+276
+00:15:27,542 --> 00:15:31,834
+something that is not inherent
+to a criminal personality.
+
+277
+00:15:31,834 --> 00:15:33,792
+In a few hours,
+I'll be turning him over
+
+278
+00:15:33,792 --> 00:15:36,250
+to the Angosians,
+and I'll be happy to do it.
+
+279
+00:15:38,583 --> 00:15:40,125
+I understand.
+
+280
+00:15:49,542 --> 00:15:52,458
+Data, do we
+have a linkup
+
+281
+00:15:52,458 --> 00:15:54,291
+with the Angosian
+central computer?
+
+282
+00:15:54,291 --> 00:15:56,041
+Yes, Counselor.
+
+283
+00:15:56,041 --> 00:15:58,583
+We are copying records
+for Federation inspection
+
+284
+00:15:58,583 --> 00:16:01,583
+pursuant to their
+application for admittance.
+
+285
+00:16:01,583 --> 00:16:05,125
+Can I see a police record
+on Roga Danar?
+
+286
+00:16:08,125 --> 00:16:10,291
+DATA:
+There is no police record.
+
+287
+00:16:10,291 --> 00:16:11,542
+That's impossible.
+
+288
+00:16:11,542 --> 00:16:12,875
+He's been in prison.
+
+289
+00:16:12,875 --> 00:16:15,792
+Lunar V is
+a military prison facility.
+
+290
+00:16:15,792 --> 00:16:17,333
+Military?
+
+291
+00:16:17,333 --> 00:16:19,750
+He's a soldier?
+
+292
+00:16:19,750 --> 00:16:22,166
+That may provide
+an explanation
+
+293
+00:16:22,166 --> 00:16:25,542
+for the tactics
+he was able to use against us
+
+294
+00:16:25,542 --> 00:16:28,208
+when we tried
+to capture him.
+
+295
+00:16:28,208 --> 00:16:31,959
+It doesn't say here
+what he was arrested for.
+
+296
+00:16:31,959 --> 00:16:36,166
+Call up his
+military record.
+
+297
+00:16:36,166 --> 00:16:40,000
+DATA:
+He served in many campaigns
+during the Tarsian War,
+
+298
+00:16:40,000 --> 00:16:43,083
+received two promotions
+to the rank of "subhadar"--
+
+299
+00:16:43,083 --> 00:16:44,875
+A very honorable tour of duty.
+
+300
+00:16:44,875 --> 00:16:47,125
+(<i> sighs</i> )
+
+301
+00:16:47,125 --> 00:16:50,166
+What was this man's crime?
+
+302
+00:17:02,583 --> 00:17:04,083
+I've learned
+
+303
+00:17:04,083 --> 00:17:05,792
+you are
+a soldier.
+
+304
+00:17:05,792 --> 00:17:07,750
+I was a soldier.
+
+305
+00:17:07,750 --> 00:17:10,083
+Why were you put in prison?
+
+306
+00:17:10,083 --> 00:17:13,125
+Obviously because
+I am a threat to society.
+
+307
+00:17:13,125 --> 00:17:15,000
+There's no police record.
+
+308
+00:17:15,000 --> 00:17:16,834
+What did you do?
+
+309
+00:17:16,834 --> 00:17:19,125
+Everything they asked me to do.
+
+310
+00:17:19,125 --> 00:17:22,417
+That's why I became
+such a threat.
+
+311
+00:17:22,417 --> 00:17:23,917
+I don't understand.
+
+312
+00:17:23,917 --> 00:17:26,458
+Why are you bothering to try,
+Counselor?
+
+313
+00:17:26,458 --> 00:17:28,875
+Because I want to help if I can.
+
+314
+00:17:28,875 --> 00:17:30,917
+Unlock the door.
+
+315
+00:17:33,166 --> 00:17:36,417
+You are a nonviolent man,
+
+316
+00:17:36,417 --> 00:17:39,583
+yet you committed acts
+of excessive violence.
+
+317
+00:17:39,583 --> 00:17:44,834
+You can learn to do it
+if you have to.
+
+318
+00:17:44,834 --> 00:17:46,375
+Did you have to?
+
+319
+00:17:46,375 --> 00:17:47,917
+It was war.
+
+320
+00:17:47,917 --> 00:17:51,166
+So it started with the war.
+
+321
+00:17:51,166 --> 00:17:53,291
+It started the day
+I volunteered, Counselor,
+
+322
+00:17:53,291 --> 00:17:55,000
+the day I began training,
+
+323
+00:17:55,000 --> 00:17:58,166
+the day I met
+my first instructor,
+
+324
+00:17:58,166 --> 00:18:01,291
+and he also called himself
+a "Counselor."
+
+325
+00:18:11,417 --> 00:18:14,125
+Roga Danar was
+an idealistic young man
+
+326
+00:18:14,125 --> 00:18:17,000
+who answered his people's call
+to service.
+
+327
+00:18:17,000 --> 00:18:18,875
+He joined the military
+
+328
+00:18:18,875 --> 00:18:21,083
+to help fight
+for the Angosian way of life.
+
+329
+00:18:21,083 --> 00:18:24,083
+What he didn't realize
+was that, by doing so,
+
+330
+00:18:24,083 --> 00:18:26,709
+he would have to give up
+that way of life forever.
+
+331
+00:18:26,709 --> 00:18:29,917
+He's not the same man
+who left home to go to war.
+
+332
+00:18:29,917 --> 00:18:33,542
+He's been through intense
+psychological manipulation
+
+333
+00:18:33,542 --> 00:18:35,750
+and biochemical
+modifications.
+
+334
+00:18:35,750 --> 00:18:38,208
+At Troi's request,
+I examined him.
+
+335
+00:18:38,208 --> 00:18:41,375
+His cell structure
+has been significantly altered.
+
+336
+00:18:41,375 --> 00:18:43,625
+They used a combination
+of cryptobiolin,
+
+337
+00:18:43,625 --> 00:18:45,250
+triclenidil, macrospentol,
+
+338
+00:18:45,250 --> 00:18:47,375
+and a few things
+I can't even recognize.
+
+339
+00:18:47,375 --> 00:18:48,709
+Was he a prisoner of war?
+
+340
+00:18:48,709 --> 00:18:50,041
+Who did this to him?
+
+341
+00:18:50,041 --> 00:18:52,500
+His own government.
+
+342
+00:18:52,500 --> 00:18:55,625
+He's been programmed
+to be the perfect soldier.
+
+343
+00:18:55,625 --> 00:18:59,834
+He can be absolutely normal,
+but when a danger is perceived,
+
+344
+00:18:59,834 --> 00:19:02,750
+the programming clicks in
+and takes over.
+
+345
+00:19:02,750 --> 00:19:08,417
+Memory, strength, intelligence,
+reflexes-- all become enhanced.
+
+346
+00:19:08,417 --> 00:19:11,250
+He's conditioned
+to survive at any cost.
+
+347
+00:19:11,250 --> 00:19:15,417
+One of the new substances
+in his cellular structure
+
+348
+00:19:15,417 --> 00:19:17,375
+even shields
+electrical impulses.
+
+349
+00:19:17,375 --> 00:19:20,333
+Perhaps that would explain why
+our sensors did not detect him.
+
+350
+00:19:20,333 --> 00:19:25,166
+Why was he assigned
+to the Lunar V facility?
+
+351
+00:19:25,166 --> 00:19:27,083
+He committed no crime.
+
+352
+00:19:27,083 --> 00:19:30,208
+He says he was ordered there
+with others like him.
+
+353
+00:19:30,208 --> 00:19:32,583
+When the first soldiers
+returned to Angosia,
+
+354
+00:19:32,583 --> 00:19:34,041
+they had trouble.
+
+355
+00:19:34,041 --> 00:19:36,583
+The rules changed too quickly.
+
+356
+00:19:36,583 --> 00:19:39,250
+A lost temper
+could result in murder.
+
+357
+00:19:39,250 --> 00:19:41,166
+DATA:
+Counselor,
+did no one attempt
+
+358
+00:19:41,166 --> 00:19:43,583
+to adjust their programming?
+
+359
+00:19:43,583 --> 00:19:47,917
+They were just exiled
+to Lunar V.
+
+360
+00:19:47,917 --> 00:19:52,583
+Lunar V...
+an orbiting gulag.
+
+361
+00:20:02,041 --> 00:20:03,834
+What do you want?
+
+362
+00:20:03,834 --> 00:20:05,625
+Am I disturbing you?
+
+363
+00:20:05,625 --> 00:20:06,709
+Yes!
+
+364
+00:20:06,709 --> 00:20:08,083
+Then I will leave.
+
+365
+00:20:08,083 --> 00:20:09,291
+No, wait, wait.
+
+366
+00:20:09,291 --> 00:20:12,625
+I'd rather talk
+to someone.
+
+367
+00:20:14,208 --> 00:20:16,667
+Why do you have yellow eyes?
+
+368
+00:20:16,667 --> 00:20:18,417
+I am an android.
+
+369
+00:20:18,417 --> 00:20:20,834
+I believe you and I have
+something in common.
+
+370
+00:20:20,834 --> 00:20:22,792
+We do?
+
+371
+00:20:22,792 --> 00:20:24,834
+Yes. We have both
+been programmed.
+
+372
+00:20:24,834 --> 00:20:29,250
+Ah, yes, yes, you've been
+talking to Counselor Troi.
+
+373
+00:20:29,250 --> 00:20:32,250
+It is not at all
+the same, android.
+
+374
+00:20:32,250 --> 00:20:35,000
+I do not mean to belittle
+your condition.
+
+375
+00:20:35,000 --> 00:20:37,041
+I understand your dilemma,
+
+376
+00:20:37,041 --> 00:20:38,792
+but I am curious.
+
+377
+00:20:38,792 --> 00:20:41,166
+My program can be altered.
+
+378
+00:20:41,166 --> 00:20:42,458
+Yours cannot?
+
+379
+00:20:42,458 --> 00:20:45,875
+The man I was is still
+inside me,
+
+380
+00:20:45,875 --> 00:20:49,250
+but this... this conditioning
+has been imposed--
+
+381
+00:20:49,250 --> 00:20:51,583
+woven together with my thoughts
+
+382
+00:20:51,583 --> 00:20:53,834
+and my feelings
+and my responses.
+
+383
+00:20:53,834 --> 00:20:57,625
+How do you separate
+the program from the man?
+
+384
+00:20:57,625 --> 00:21:00,208
+Without further analysis
+of your condition
+
+385
+00:21:00,208 --> 00:21:02,500
+from Counselor Troi
+or Dr. Crusher,
+
+386
+00:21:02,500 --> 00:21:04,250
+I cannot say,
+
+387
+00:21:04,250 --> 00:21:05,959
+but I believe
+it is possible.
+
+388
+00:21:05,959 --> 00:21:07,583
+Yeah, doctors.
+
+389
+00:21:07,583 --> 00:21:12,291
+The Angosian doctors
+did this to me.
+
+390
+00:21:12,291 --> 00:21:15,542
+If it could be undone,
+wouldn't they undo it?
+
+391
+00:21:15,542 --> 00:21:18,667
+I cannot answer that.
+
+392
+00:21:20,375 --> 00:21:23,583
+Nor can I.
+
+393
+00:21:23,583 --> 00:21:27,750
+Yet I ask myself that question
+every moment of every day.
+
+394
+00:21:29,875 --> 00:21:31,375
+Captain, what this man
+has been telling you
+
+395
+00:21:31,375 --> 00:21:32,583
+is full of half-truths.
+
+396
+00:21:32,583 --> 00:21:33,834
+He's a prisoner.
+
+397
+00:21:33,834 --> 00:21:35,208
+What do you expect him
+to say about us?
+
+398
+00:21:35,208 --> 00:21:37,834
+Well, perhaps you would
+clarify it for me.
+
+399
+00:21:37,834 --> 00:21:40,792
+The soldiers were resettled
+on Lunar V.
+
+400
+00:21:40,792 --> 00:21:42,959
+It was to be their colony.
+
+401
+00:21:42,959 --> 00:21:46,208
+Was it a resettlement
+of their choosing?
+
+402
+00:21:46,208 --> 00:21:48,500
+It was for their own protection,
+as well as that of others.
+
+403
+00:21:48,500 --> 00:21:50,500
+Most of them
+are quite happy there.
+
+404
+00:21:50,500 --> 00:21:53,208
+We went to great lengths to give
+them a fine quality of life.
+
+405
+00:21:53,208 --> 00:21:55,542
+Prime Minister,
+
+406
+00:21:55,542 --> 00:21:58,709
+even the most comfortable prison
+is still a prison.
+
+407
+00:21:58,709 --> 00:22:00,291
+Unfortunately,
+
+408
+00:22:00,291 --> 00:22:03,041
+a few agitators like Danar
+forced us to add security.
+
+409
+00:22:03,041 --> 00:22:06,083
+My medical team suggests
+
+410
+00:22:06,083 --> 00:22:09,208
+that there may be
+alternative treatment.
+
+411
+00:22:09,208 --> 00:22:10,625
+Captain, I assure you
+
+412
+00:22:10,625 --> 00:22:12,709
+that every alternative
+has been explored,
+
+413
+00:22:12,709 --> 00:22:14,291
+and this discussion
+
+414
+00:22:14,291 --> 00:22:17,083
+is now treading upon matters
+of internal security.
+
+415
+00:22:17,083 --> 00:22:18,667
+This is not your concern.
+
+416
+00:22:18,667 --> 00:22:21,333
+I have dispatched a ship
+to rendezvous with you
+
+417
+00:22:21,333 --> 00:22:23,792
+to transport the prisoner
+back to Lunar V.
+
+418
+00:22:23,792 --> 00:22:26,583
+On behalf of Angosia,
+I thank the Federation
+
+419
+00:22:26,583 --> 00:22:29,583
+for its assistance
+in retrieving our citizen.
+
+420
+00:22:33,625 --> 00:22:37,542
+"Matter of internal security"--
+
+421
+00:22:37,542 --> 00:22:41,542
+the age-old cry
+of the oppressor.
+
+422
+00:22:41,542 --> 00:22:44,709
+Were you built for combat,
+android?
+
+423
+00:22:44,709 --> 00:22:47,792
+No, but my program does include
+military strategy.
+
+424
+00:22:47,792 --> 00:22:50,542
+That is how I was able
+to anticipate your final tactic
+
+425
+00:22:50,542 --> 00:22:51,709
+and capture you.
+
+426
+00:22:51,709 --> 00:22:53,375
+You did that?
+
+427
+00:22:53,375 --> 00:22:54,792
+Perhaps you would be
+
+428
+00:22:54,792 --> 00:22:56,750
+better at combat than you think.
+
+429
+00:22:56,750 --> 00:22:58,959
+Except that I am
+not programmed to kill.
+
+430
+00:22:58,959 --> 00:23:04,917
+My improved reflexes have
+allowed me to kill 84 times,
+
+431
+00:23:04,917 --> 00:23:07,625
+and my improved memory
+
+432
+00:23:07,625 --> 00:23:11,959
+lets me remember
+each of those 84 faces.
+
+433
+00:23:11,959 --> 00:23:15,333
+Can you understand
+how that feels?
+
+434
+00:23:15,333 --> 00:23:18,417
+I am incapable of any feeling.
+
+435
+00:23:18,417 --> 00:23:20,834
+Why, then, I envy you.
+
+436
+00:23:20,834 --> 00:23:23,000
+(<i> door opening</i> )
+
+437
+00:23:26,417 --> 00:23:29,625
+Roga, this is
+Captain Picard.
+
+438
+00:23:29,625 --> 00:23:30,917
+Captain.
+
+439
+00:23:30,917 --> 00:23:33,667
+Mr. Danar,
+I am transferring you
+
+440
+00:23:33,667 --> 00:23:35,875
+to Angosian security.
+
+441
+00:23:35,875 --> 00:23:38,208
+They're en route.
+They will arrive shortly.
+
+442
+00:23:38,208 --> 00:23:41,875
+I wanted to tell you
+I have no choice.
+
+443
+00:23:41,875 --> 00:23:45,458
+The Prime Minister insisted,
+and we have no right to refuse.
+
+444
+00:23:45,458 --> 00:23:47,291
+Well, you would be foolish
+
+445
+00:23:47,291 --> 00:23:49,333
+to consider it otherwise,
+Captain,
+
+446
+00:23:49,333 --> 00:23:51,375
+for they are very correct.
+
+447
+00:23:51,375 --> 00:23:53,166
+I am dangerous.
+
+448
+00:23:53,166 --> 00:23:56,792
+There is no place for me
+in a civilized society.
+
+449
+00:23:56,792 --> 00:23:58,291
+I do not believe that.
+
+450
+00:23:58,291 --> 00:23:59,500
+Nor do I.
+
+451
+00:23:59,500 --> 00:24:02,542
+I respect my officers'
+judgments.
+
+452
+00:24:02,542 --> 00:24:05,291
+I wish I could help further.
+
+453
+00:24:05,291 --> 00:24:07,542
+If a way appears, I will.
+
+454
+00:24:07,542 --> 00:24:10,500
+I appreciate you telling me
+that face to face.
+
+455
+00:24:10,500 --> 00:24:12,083
+I thought you deserved
+that much.
+
+456
+00:24:12,083 --> 00:24:13,542
+And you deserve
+to know
+
+457
+00:24:13,542 --> 00:24:16,208
+that I must use
+whatever means I can to escape.
+
+458
+00:24:16,208 --> 00:24:20,959
+WORF:
+Captain, the Angosian
+transport vessel has arrived.
+
+459
+00:24:20,959 --> 00:24:24,208
+Inform them the transport
+will take place shortly.
+
+460
+00:24:24,208 --> 00:24:26,625
+Picard out.
+
+461
+00:24:26,625 --> 00:24:28,625
+Mr. Data, to the Bridge, please.
+
+462
+00:24:30,583 --> 00:24:33,291
+Take care of
+yourself, android.
+
+463
+00:24:33,291 --> 00:24:35,709
+I enjoyed our talk.
+
+464
+00:24:35,709 --> 00:24:37,542
+I, too.
+
+465
+00:24:43,542 --> 00:24:45,250
+Perhaps when this planet
+
+466
+00:24:45,250 --> 00:24:46,959
+becomes a member of the
+Federation, we'll be able...
+
+467
+00:24:46,959 --> 00:24:48,125
+I will not
+be there
+
+468
+00:24:48,125 --> 00:24:50,458
+to see it, Counselor
+
+469
+00:24:50,458 --> 00:24:53,834
+because even with this
+overwhelming demand to survive
+
+470
+00:24:53,834 --> 00:24:56,625
+that they have built
+into my soul,
+
+471
+00:24:56,625 --> 00:25:01,125
+I would rather die
+than return to Lunar V.
+
+472
+00:25:16,083 --> 00:25:18,500
+Captain Picard, we're ready
+to receive the prisoner.
+
+473
+00:25:18,500 --> 00:25:21,000
+Now transmitting the coordinates
+of our holding cell.
+
+474
+00:25:21,000 --> 00:25:22,375
+(<i> beeping</i> )
+
+475
+00:25:22,375 --> 00:25:24,542
+Coordinates received, sir.
+
+476
+00:25:24,542 --> 00:25:26,250
+Stand by
+for transport.
+
+477
+00:25:26,250 --> 00:25:28,291
+Picard out.
+
+478
+00:25:28,291 --> 00:25:31,500
+Mr. Worf, have all security
+precautions been taken?
+
+479
+00:25:31,500 --> 00:25:32,917
+Release of the force field
+
+480
+00:25:32,917 --> 00:25:34,417
+and activation
+of the transporter
+
+481
+00:25:34,417 --> 00:25:36,083
+will be virtually simultaneous.
+
+482
+00:25:36,083 --> 00:25:39,125
+There will only be a .1 second
+difference between them.
+
+483
+00:25:39,125 --> 00:25:41,333
+Even Danar can't
+move that fast.
+
+484
+00:25:41,333 --> 00:25:42,834
+There will be
+
+485
+00:25:42,834 --> 00:25:44,709
+a full security contingent
+present.
+
+486
+00:25:44,709 --> 00:25:46,250
+Proceed.
+
+487
+00:25:55,834 --> 00:25:57,667
+Transporter Room One
+to Lieutenant Worf.
+
+488
+00:25:57,667 --> 00:25:59,208
+We're ready, sir.
+
+489
+00:25:59,208 --> 00:26:00,959
+Energizing.
+
+490
+00:26:10,041 --> 00:26:12,917
+WORF:
+O'Brien, increase
+transporter power.
+
+491
+00:26:12,917 --> 00:26:14,750
+I'm losing him.
+
+492
+00:26:14,750 --> 00:26:17,125
+TROI:
+Roga, don't!
+
+493
+00:26:17,125 --> 00:26:18,500
+You'll be killed!
+
+494
+00:26:19,792 --> 00:26:22,458
+(<i> explosion</i> )
+
+495
+00:26:22,458 --> 00:26:24,917
+What the hell...?
+
+496
+00:26:24,917 --> 00:26:29,166
+(<i> alarm beeping</i> )
+
+497
+00:26:36,500 --> 00:26:38,291
+Security personnel--
+full alert.
+
+498
+00:26:38,291 --> 00:26:39,667
+Shut down all
+shuttle bays,
+
+499
+00:26:39,667 --> 00:26:41,000
+transporters,
+and turbolifts.
+
+500
+00:26:41,000 --> 00:26:42,667
+WORF:
+Captain, a phaser is missing.
+
+501
+00:26:42,667 --> 00:26:45,083
+We must assume that he is armed.
+
+502
+00:26:47,917 --> 00:26:49,375
+Sound general quarters.
+
+503
+00:26:49,375 --> 00:26:52,125
+Clear all corridors
+of nonessential personnel.
+
+504
+00:26:52,125 --> 00:26:54,208
+We don't want him
+taking any hostages.
+
+505
+00:26:54,208 --> 00:26:55,875
+General quarters sounded, sir.
+
+506
+00:26:55,875 --> 00:26:58,000
+Raise security containment
+fields immediately
+
+507
+00:26:58,000 --> 00:26:59,458
+on decks 34, 35, and 36.
+
+508
+00:26:59,458 --> 00:27:01,083
+Aye, sir.
+
+509
+00:27:01,083 --> 00:27:03,750
+Data, put
+the turbolifts
+back on line.
+
+510
+00:27:03,750 --> 00:27:05,500
+If Danar sees
+they're operating,
+
+511
+00:27:05,500 --> 00:27:06,875
+he may try to use them.
+
+512
+00:27:06,875 --> 00:27:08,291
+As soon as he does,
+we have him.
+
+513
+00:27:38,375 --> 00:27:42,291
+Sir, unauthorized access
+of turbolift five on deck 34.
+
+514
+00:27:42,291 --> 00:27:43,917
+He took the bait.
+
+515
+00:27:43,917 --> 00:27:46,166
+Data, override its
+destination.
+
+516
+00:27:46,166 --> 00:27:48,458
+Divert that turbolift
+to a position near
+
+517
+00:27:48,458 --> 00:27:50,750
+to Lieutenant Worf's
+present location.
+
+518
+00:27:50,750 --> 00:27:53,291
+Four seconds to arrival, sir.
+
+519
+00:27:56,583 --> 00:27:58,291
+We're in position.
+
+520
+00:27:59,875 --> 00:28:03,417
+(<i> electronic shrieking</i> )
+
+521
+00:28:03,417 --> 00:28:04,834
+Phaser on overload!
+
+522
+00:28:04,834 --> 00:28:06,375
+Seal this deck!
+
+523
+00:28:08,834 --> 00:28:11,000
+(<i> shrieking intensifies</i> )
+
+524
+00:28:13,500 --> 00:28:15,542
+(<i> shrieking stops</i> )
+
+525
+00:28:18,041 --> 00:28:22,417
+WORF:
+Captain, the overload
+has been averted.
+
+526
+00:28:30,750 --> 00:28:32,291
+(<i> grunts and yells</i> )
+
+527
+00:28:34,041 --> 00:28:35,542
+(<i> beeps</i> )
+
+528
+00:28:35,542 --> 00:28:38,041
+Drop force field on deck 36.
+
+529
+00:28:43,125 --> 00:28:46,458
+Sir, containment field down
+on deck 36.
+
+530
+00:28:46,458 --> 00:28:48,709
+How the hell did
+he manage that?
+
+531
+00:28:48,709 --> 00:28:50,709
+He's headed for Engineering.
+
+532
+00:28:50,709 --> 00:28:53,125
+Riker to La Forge.
+
+533
+00:28:53,125 --> 00:28:54,917
+Engineering, respond.
+
+534
+00:28:54,917 --> 00:28:57,375
+Engineering?
+
+535
+00:28:57,375 --> 00:29:00,542
+Engineering, come in.
+
+536
+00:29:00,542 --> 00:29:02,500
+Geordi, are you okay?
+
+537
+00:29:12,375 --> 00:29:14,500
+Captain, someone
+in Engineering
+
+538
+00:29:14,500 --> 00:29:17,083
+is attempting to override
+the security system lockout.
+
+539
+00:29:17,083 --> 00:29:18,542
+Riker to Worf.
+
+540
+00:29:18,542 --> 00:29:19,834
+He's in Engineering.
+
+541
+00:29:19,834 --> 00:29:21,583
+Acknowledged, Commander.
+
+542
+00:29:21,583 --> 00:29:23,417
+We're on our way.
+
+543
+00:29:23,417 --> 00:29:25,417
+Data, I want you
+to stall Danar.
+
+544
+00:29:25,417 --> 00:29:27,041
+Allow him to think
+he's succeeding.
+
+545
+00:29:27,041 --> 00:29:29,125
+As he bypasses each subsystem,
+
+546
+00:29:29,125 --> 00:29:32,000
+I can reroute it
+without his knowledge.
+
+547
+00:29:32,000 --> 00:29:33,834
+Make it so.
+
+548
+00:29:37,709 --> 00:29:39,625
+Danar is extremely adept, sir.
+
+549
+00:29:39,625 --> 00:29:41,750
+I am not certain
+
+550
+00:29:41,750 --> 00:29:44,250
+which security measure
+he is attempting to circumvent.
+
+551
+00:29:44,250 --> 00:29:46,583
+Sir, Danar
+has succeeded
+
+552
+00:29:46,583 --> 00:29:49,917
+in restoring power
+to Shuttle Bay 2.
+
+553
+00:30:12,208 --> 00:30:14,500
+I have overridden
+Danar's bypass.
+
+554
+00:30:14,500 --> 00:30:17,667
+Shuttle Bay 2 is
+once again inactive.
+
+555
+00:30:17,667 --> 00:30:19,291
+Very good, Mr. Data.
+
+556
+00:30:19,291 --> 00:30:21,250
+Now I know
+where he's headed.
+
+557
+00:30:37,166 --> 00:30:39,333
+You okay?
+
+558
+00:30:39,333 --> 00:30:41,083
+Geordi!
+
+559
+00:30:42,834 --> 00:30:44,959
+I'm all right.
+
+560
+00:30:44,959 --> 00:30:48,166
+He took us by surprise.
+
+561
+00:30:48,166 --> 00:30:49,750
+He came out of nowhere.
+
+562
+00:30:49,750 --> 00:30:52,125
+I didn't think<i> anyone</i>
+could move that fast.
+
+563
+00:30:52,125 --> 00:30:55,250
+DATA:
+Lieutenant, I am reading
+an open panel--
+
+564
+00:30:55,250 --> 00:30:57,333
+K-12, J-9, deck 30.
+
+565
+00:30:57,333 --> 00:30:58,750
+Acknowledged.
+
+566
+00:30:58,750 --> 00:31:00,542
+Danar must have climbed
+up the reactor core
+
+567
+00:31:00,542 --> 00:31:02,291
+and gotten into
+a Jefferies tube.
+
+568
+00:31:02,291 --> 00:31:04,458
+He could be anywhere.
+
+569
+00:31:04,458 --> 00:31:07,458
+We believe he is attempting
+to reach Shuttle Bay 2.
+
+570
+00:31:07,458 --> 00:31:09,458
+That's 25 decks
+up from here--
+
+571
+00:31:09,458 --> 00:31:12,375
+quite a climb,
+but I wouldn't
+put it past him.
+
+572
+00:31:12,375 --> 00:31:15,458
+There is a full contingent
+of security at all Shuttle Bays.
+
+573
+00:31:15,458 --> 00:31:17,083
+You want my advice?
+
+574
+00:31:17,083 --> 00:31:18,667
+Double it!
+
+575
+00:31:29,291 --> 00:31:30,750
+(<i> beeping</i> )
+
+576
+00:31:30,750 --> 00:31:32,709
+Captain, reading another
+open access panel.
+
+577
+00:31:35,291 --> 00:31:38,417
+Security team
+to Jefferies tube J-4, deck 15.
+
+578
+00:31:38,417 --> 00:31:40,041
+Security, acknowledged.
+
+579
+00:31:45,542 --> 00:31:50,041
+Deck 15-- a few decks
+below the Shuttle Bay.
+
+580
+00:31:50,041 --> 00:31:51,667
+Sir, I find it highly unlikely
+
+581
+00:31:51,667 --> 00:31:54,250
+that Danar would be attempting
+to reach Shuttle Bay 2.
+
+582
+00:31:54,250 --> 00:31:55,375
+Explain.
+
+583
+00:31:55,375 --> 00:31:56,834
+In our previous
+encounter,
+
+584
+00:31:56,834 --> 00:31:58,875
+Danar employed a strategy
+of misdirection
+
+585
+00:31:58,875 --> 00:32:01,125
+in an attempt
+to gain his objective.
+
+586
+00:32:01,125 --> 00:32:04,041
+And you believe he's using
+the same tactic now?
+
+587
+00:32:04,041 --> 00:32:06,083
+He is aware that our sensors
+are unable to track him,
+
+588
+00:32:06,083 --> 00:32:07,834
+yet he seems to be purposely
+leaving a trail
+
+589
+00:32:07,834 --> 00:32:09,250
+for us to follow.
+
+590
+00:32:09,250 --> 00:32:12,041
+Where do you think
+he's headed?
+
+591
+00:32:12,041 --> 00:32:15,542
+I am afraid his true destination
+remains a mystery.
+
+592
+00:32:22,750 --> 00:32:25,625
+Readings now indicate
+an open access panel
+
+593
+00:32:25,625 --> 00:32:28,417
+in Jefferies tube
+N-11, deck 38.
+
+594
+00:32:28,417 --> 00:32:30,041
+He's doubled back on us.
+
+595
+00:32:30,041 --> 00:32:32,041
+The cargo bays.
+
+596
+00:32:32,041 --> 00:32:36,208
+Advise all personnel on deck 38
+to stay out of the cargo bays.
+
+597
+00:32:36,208 --> 00:32:37,583
+DATA:
+Aye, sir.
+
+598
+00:32:54,291 --> 00:32:55,917
+PICARD:
+Status, Mr. Data?
+
+599
+00:32:55,917 --> 00:32:57,667
+They appear to be empty, sir.
+
+600
+00:32:57,667 --> 00:33:02,208
+Good. I want you to flood them
+with anesthizine.
+
+601
+00:33:02,208 --> 00:33:04,250
+DATA:
+Aye, sir.
+
+602
+00:33:06,125 --> 00:33:10,125
+(<i> loud hissing</i> )
+
+603
+00:33:15,875 --> 00:33:17,834
+(<i> equipment powering up</i> )
+
+604
+00:33:24,458 --> 00:33:26,625
+Sensors show anesthizine
+concentration
+
+605
+00:33:26,625 --> 00:33:28,375
+70 parts per million
+
+606
+00:33:28,375 --> 00:33:29,583
+within the
+cargo bays.
+
+607
+00:33:29,583 --> 00:33:31,917
+That should put our boy
+to sleep.
+
+608
+00:33:31,917 --> 00:33:34,959
+Return environmental conditions
+to normal, Mr. Data.
+
+609
+00:33:36,875 --> 00:33:39,208
+Move in your security teams,
+Mr. Worf.
+
+610
+00:33:39,208 --> 00:33:40,792
+Acknowledged.
+
+611
+00:34:11,083 --> 00:34:13,250
+Worf to Bridge.
+
+612
+00:34:13,250 --> 00:34:15,625
+We have found no sign
+of the intruder,
+
+613
+00:34:15,625 --> 00:34:17,667
+but there is
+a missing pressure suit
+
+614
+00:34:17,667 --> 00:34:18,917
+from Cargo Bay 3.
+
+615
+00:34:18,917 --> 00:34:20,583
+Pressure suit?
+
+616
+00:34:20,583 --> 00:34:22,291
+RIKER:
+Could be he's planning
+to enter Shuttle Bay 2
+
+617
+00:34:22,291 --> 00:34:23,667
+from outside the<i> Enterprise,</i>
+
+618
+00:34:23,667 --> 00:34:25,500
+bypassing
+the security guards.
+
+619
+00:34:25,500 --> 00:34:29,542
+Mr. Worf, post security guards
+at all emergency airlocks
+
+620
+00:34:29,542 --> 00:34:31,417
+on decks 37 through 39.
+
+621
+00:34:31,417 --> 00:34:34,250
+Aye, sir.
+
+622
+00:34:34,250 --> 00:34:36,917
+I'll also cover
+the photon torpedo launchers.
+
+623
+00:34:36,917 --> 00:34:39,792
+Danar may attempt
+to leave the ship that way.
+
+624
+00:34:39,792 --> 00:34:41,083
+Worf out.
+
+625
+00:34:56,333 --> 00:34:58,083
+WORF:
+Danar!
+
+626
+00:34:59,834 --> 00:35:01,583
+You are cunning.
+
+627
+00:35:04,041 --> 00:35:07,083
+You must have Klingon blood,
+
+628
+00:35:07,083 --> 00:35:09,250
+but the battle is over.
+
+629
+00:35:09,250 --> 00:35:12,000
+My battle is never over.
+
+630
+00:35:13,250 --> 00:35:14,667
+Worf to Bridge--
+
+631
+00:35:14,667 --> 00:35:16,208
+I have Danar.
+
+632
+00:35:28,125 --> 00:35:30,834
+Explosion in Jefferies tube,
+section T-95.
+
+633
+00:35:30,834 --> 00:35:33,417
+All external sensors
+inoperative.
+
+634
+00:35:33,417 --> 00:35:35,083
+Go to backup systems.
+
+635
+00:35:36,917 --> 00:35:38,834
+Unable to transfer control, sir.
+
+636
+00:35:38,834 --> 00:35:41,083
+(<i> both grunting and groaning )</i>
+
+637
+00:35:59,500 --> 00:36:01,583
+(<i> beeping</i> )
+
+638
+00:36:21,250 --> 00:36:23,208
+Sit down, gentlemen.
+
+639
+00:36:24,208 --> 00:36:26,375
+(<i> groaning</i> )
+
+640
+00:36:39,041 --> 00:36:41,166
+(<i> equipment powering down</i> )
+
+641
+00:36:43,166 --> 00:36:44,542
+Worf to Bridge.
+
+642
+00:36:44,542 --> 00:36:45,750
+RIKER:
+Go ahead.
+
+643
+00:36:45,750 --> 00:36:47,458
+Danar has escaped.
+
+644
+00:36:47,458 --> 00:36:50,542
+He used a phaser
+to power the cargo transporter.
+
+645
+00:36:50,542 --> 00:36:52,041
+Coordinates indicate
+
+646
+00:36:52,041 --> 00:36:55,125
+he beamed aboard
+the Angosian transport ship.
+
+647
+00:36:55,125 --> 00:36:57,333
+Data, can you verify that?
+
+648
+00:36:57,333 --> 00:36:59,959
+Negative, sir. All
+external sensors
+
+649
+00:36:59,959 --> 00:37:02,000
+still nonfunctioning.
+
+650
+00:37:03,542 --> 00:37:06,458
+Then we have no way
+to track him.
+
+651
+00:37:06,458 --> 00:37:09,417
+That was his plan all along.
+
+652
+00:37:15,834 --> 00:37:17,834
+<i>First Officer's Log,</i>
+<i>supplemental.</i>
+
+653
+00:37:17,834 --> 00:37:21,083
+<i>We are continuing to repair</i>
+<i>damage to the ship's sensors</i>
+
+654
+00:37:21,083 --> 00:37:24,041
+<i>following the escape of</i>
+<i>the Angosian prisoner Danar.</i>
+
+655
+00:37:24,041 --> 00:37:25,875
+<i>He is still at large.</i>
+
+656
+00:37:25,875 --> 00:37:27,917
+Engineering, I'm getting
+readings on tactical.
+
+657
+00:37:27,917 --> 00:37:29,250
+Are we back up?
+
+658
+00:37:29,250 --> 00:37:30,917
+LA FORGE:
+That's affirmative, Commander.
+
+659
+00:37:30,917 --> 00:37:32,709
+Mr. Worf, sweep the area.
+
+660
+00:37:32,709 --> 00:37:35,625
+Captain, the Prime Minister
+is hailing us, priority one.
+
+661
+00:37:35,625 --> 00:37:38,166
+On screen.
+
+662
+00:37:38,166 --> 00:37:40,750
+WORF:
+Priority channel cleared.
+
+663
+00:37:40,750 --> 00:37:42,333
+Yes, Prime Minister?
+
+664
+00:37:42,333 --> 00:37:44,166
+Captain, I've just been informed
+
+665
+00:37:44,166 --> 00:37:46,834
+that Roga Danar has attacked
+the penal colony on Lunar V.
+
+666
+00:37:46,834 --> 00:37:48,500
+Attacked it?
+
+667
+00:37:48,500 --> 00:37:50,166
+In our own police shuttle.
+
+668
+00:37:50,166 --> 00:37:52,333
+Several of my people
+have been wounded.
+
+669
+00:37:52,333 --> 00:37:54,208
+Hundreds of prisoners
+are rioting.
+
+670
+00:37:54,208 --> 00:37:56,083
+Some of them have escaped
+with Danar
+
+671
+00:37:56,083 --> 00:37:58,125
+and, at last report, are headed
+toward the capital city.
+
+672
+00:37:58,125 --> 00:38:01,834
+Captain, we are not suited
+to handle situations like this.
+
+673
+00:38:01,834 --> 00:38:04,166
+That's what we created<i> them</i> for.
+
+674
+00:38:04,166 --> 00:38:07,875
+We'll send an away team,
+Prime Minister.
+
+675
+00:38:07,875 --> 00:38:09,291
+Picard out.
+
+676
+00:38:09,291 --> 00:38:12,208
+Counselor Troi,
+Commander Data, Mr. Worf--
+
+677
+00:38:12,208 --> 00:38:14,834
+you will accompany me
+to the planet.
+
+678
+00:38:26,208 --> 00:38:27,500
+And my understanding is
+
+679
+00:38:27,500 --> 00:38:29,333
+that these men
+are programmed to survive.
+
+680
+00:38:29,333 --> 00:38:30,542
+Is that correct?
+
+681
+00:38:30,542 --> 00:38:31,917
+Yes, Captain.
+
+682
+00:38:31,917 --> 00:38:33,583
+And that they
+will not kill
+
+683
+00:38:33,583 --> 00:38:35,500
+unless their survival
+is at stake.
+
+684
+00:38:35,500 --> 00:38:38,000
+It is against their
+nature to do so, Captain.
+
+685
+00:38:38,000 --> 00:38:42,375
+Then let us hope they
+do not believe their
+survival is at stake.
+
+686
+00:38:45,250 --> 00:38:48,375
+Mr. Worf...
+
+687
+00:38:48,375 --> 00:38:52,417
+You are personally responsible
+for the Captain's safety.
+
+688
+00:38:52,417 --> 00:38:54,792
+I understand,
+Commander.
+
+689
+00:38:59,500 --> 00:39:01,834
+(<i> talking quietly</i> )
+
+690
+00:39:03,917 --> 00:39:06,542
+I don't expect them
+to listen to reason.
+
+691
+00:39:06,542 --> 00:39:09,333
+I loathe the idea
+of a violent confrontation,
+
+692
+00:39:09,333 --> 00:39:11,250
+but we must
+be prepared.
+
+693
+00:39:11,250 --> 00:39:14,166
+(<i> whoosh of beam down</i> )
+
+694
+00:39:16,166 --> 00:39:18,166
+MAN:
+Is that it?
+
+695
+00:39:18,166 --> 00:39:20,959
+MAN 2:
+I don't know.
+
+696
+00:39:20,959 --> 00:39:22,917
+This is all you've brought?
+
+697
+00:39:22,917 --> 00:39:24,625
+Where are
+your security men?
+
+698
+00:39:24,625 --> 00:39:26,542
+We're not here
+to fight your wars for you.
+
+699
+00:39:26,542 --> 00:39:27,917
+They have been seen
+
+700
+00:39:27,917 --> 00:39:29,500
+moving towards
+the center of the city.
+
+701
+00:39:29,500 --> 00:39:30,875
+People are scared.
+
+702
+00:39:30,875 --> 00:39:32,709
+Don't you understand, Captain?
+They're dangerous.
+
+703
+00:39:32,709 --> 00:39:34,041
+<i>You</i> are dangerous.
+
+704
+00:39:34,041 --> 00:39:35,250
+They're only victims.
+
+705
+00:39:35,250 --> 00:39:36,583
+You made them what they are.
+
+706
+00:39:36,583 --> 00:39:38,333
+You asked them
+to defend your way of life
+
+707
+00:39:38,333 --> 00:39:39,458
+and then you discarded them.
+
+708
+00:39:39,458 --> 00:39:41,750
+They were not happy here.
+
+709
+00:39:41,750 --> 00:39:43,417
+They were not welcome here.
+
+710
+00:39:43,417 --> 00:39:45,834
+It was the will of the people
+to resettle them.
+
+711
+00:39:45,834 --> 00:39:48,000
+No one was pleased
+with the solution,
+
+712
+00:39:48,000 --> 00:39:50,166
+but we had to act
+for the greater good.
+
+713
+00:39:50,166 --> 00:39:51,667
+DATA:
+Prime Minister,
+
+714
+00:39:51,667 --> 00:39:54,625
+if you have the skills to
+create a master soldier,
+
+715
+00:39:54,625 --> 00:39:56,834
+can you not counteract
+the effect?
+
+716
+00:39:56,834 --> 00:39:59,333
+The chemicals can be removed
+from their systems,
+
+717
+00:39:59,333 --> 00:40:01,041
+but we're not convinced
+
+718
+00:40:01,041 --> 00:40:02,917
+that the psychological
+conditioning
+
+719
+00:40:02,917 --> 00:40:04,875
+can ever be entirely reversed.
+
+720
+00:40:04,875 --> 00:40:06,792
+Have you tried, sir?
+
+721
+00:40:06,792 --> 00:40:08,208
+We studied it thoroughly.
+
+722
+00:40:08,208 --> 00:40:10,041
+Even before the training began,
+
+723
+00:40:10,041 --> 00:40:12,375
+we knew there would be
+problems reversing it.
+
+724
+00:40:12,375 --> 00:40:14,542
+It was a risk we had to take.
+
+725
+00:40:14,542 --> 00:40:15,834
+Did you reveal that risk
+
+726
+00:40:15,834 --> 00:40:17,500
+to the men who volunteered
+for service?
+
+727
+00:40:17,500 --> 00:40:19,625
+We were helping them
+to survive the war.
+
+728
+00:40:19,625 --> 00:40:21,000
+You understand?
+
+729
+00:40:21,000 --> 00:40:23,125
+They needed
+those skills.
+
+730
+00:40:23,125 --> 00:40:25,041
+They're your brothers,
+your sons,
+
+731
+00:40:25,041 --> 00:40:27,375
+and you turned your backs
+on them.
+
+732
+00:40:27,375 --> 00:40:30,667
+TROI:
+There are methods
+of treatment.
+
+733
+00:40:30,667 --> 00:40:32,166
+Until you try them,
+
+734
+00:40:32,166 --> 00:40:34,041
+how can you know
+they won't work?
+
+735
+00:40:34,041 --> 00:40:37,083
+Even a partial recovery
+could give them some peace.
+
+736
+00:40:37,083 --> 00:40:39,083
+It was the will of the people.
+
+737
+00:40:39,083 --> 00:40:40,750
+To allow them to suffer?
+
+738
+00:40:40,750 --> 00:40:43,083
+PRIME MINISTER:
+There was a referendum.
+
+739
+00:40:43,083 --> 00:40:46,166
+The people weighed
+the costs involved.
+
+740
+00:40:46,166 --> 00:40:48,417
+They chose
+the settlement solution.
+
+741
+00:40:48,417 --> 00:40:51,458
+Besides, we may need
+to use them again someday.
+
+742
+00:40:51,458 --> 00:40:52,917
+Have you understood one
+word that we have said?
+
+743
+00:40:52,917 --> 00:40:54,083
+ANGOSIAN:
+Move in.
+
+744
+00:40:54,083 --> 00:40:55,166
+Freeze!
+
+745
+00:40:55,166 --> 00:40:56,291
+Nobody move!
+
+746
+00:40:59,125 --> 00:41:00,542
+No, Worf!
+
+747
+00:41:00,542 --> 00:41:02,333
+All of you--
+don't respond.
+
+748
+00:41:02,333 --> 00:41:04,792
+Don't provoke them further.
+
+749
+00:41:04,792 --> 00:41:06,041
+Keep those weapons down
+
+750
+00:41:06,041 --> 00:41:07,834
+unless you wish
+to be killed.
+
+751
+00:41:11,291 --> 00:41:12,959
+Do as he says.
+
+752
+00:41:12,959 --> 00:41:14,166
+No!
+
+753
+00:41:14,166 --> 00:41:15,542
+Don't.
+
+754
+00:41:15,542 --> 00:41:16,750
+Shoot us.
+
+755
+00:41:16,750 --> 00:41:18,709
+Destroy us.
+
+756
+00:41:18,709 --> 00:41:20,333
+Do what you have to,
+
+757
+00:41:20,333 --> 00:41:22,792
+but you will not ignore us.
+
+758
+00:41:27,000 --> 00:41:29,083
+Come on, do it!
+
+759
+00:41:38,834 --> 00:41:40,375
+You cowards.
+
+760
+00:41:40,375 --> 00:41:43,166
+Yes, and you're not programmed
+to murder cowards.
+
+761
+00:41:43,166 --> 00:41:46,208
+So if they will not fight back,
+what will you do?
+
+762
+00:41:46,208 --> 00:41:49,792
+We will not go back.
+
+763
+00:41:49,792 --> 00:41:51,375
+You were programmed
+to survive.
+
+764
+00:41:51,375 --> 00:41:53,917
+You can survive at
+the Lunar V settlement.
+
+765
+00:41:53,917 --> 00:41:56,291
+To survive is not enough.
+
+766
+00:41:56,291 --> 00:41:59,458
+To simply exist is not enough.
+
+767
+00:42:01,583 --> 00:42:04,166
+Roga, tell them what you want.
+
+768
+00:42:06,208 --> 00:42:08,959
+We want our lives back.
+
+769
+00:42:08,959 --> 00:42:12,291
+We want to come home.
+
+770
+00:42:12,291 --> 00:42:14,166
+I am not prepared
+
+771
+00:42:14,166 --> 00:42:16,542
+to negotiate
+under threat, Danar.
+
+772
+00:42:18,250 --> 00:42:21,166
+But if you will
+put down your weapons
+
+773
+00:42:21,166 --> 00:42:24,125
+and return peaceably
+to Lunar V...
+
+774
+00:42:25,166 --> 00:42:27,208
+I would be willing.
+
+775
+00:42:27,208 --> 00:42:31,625
+Mr. Prime Minister,
+with all due respect,
+
+776
+00:42:31,625 --> 00:42:36,750
+you will have to force us
+or at least try.
+
+777
+00:42:38,500 --> 00:42:40,333
+Captain, you must
+do something.
+
+778
+00:42:40,333 --> 00:42:41,917
+Call your ship.
+
+779
+00:42:41,917 --> 00:42:43,792
+Quite right,
+Prime Minister.
+
+780
+00:42:43,792 --> 00:42:47,417
+<i>Enterprise,</i> prepare to beam
+the away team back.
+
+781
+00:42:47,417 --> 00:42:49,291
+RIKER:
+At your command, Captain.
+
+782
+00:42:49,291 --> 00:42:50,792
+Picard, you can't
+
+783
+00:42:50,792 --> 00:42:52,291
+leave us
+like this.
+
+784
+00:42:52,291 --> 00:42:54,917
+I have all the information
+I need for my report.
+
+785
+00:42:54,917 --> 00:42:57,041
+Your prisoner has
+been returned to you
+
+786
+00:42:57,041 --> 00:42:58,959
+and you have
+a decision to make--
+
+787
+00:42:58,959 --> 00:43:00,792
+whether to try
+and force them back
+
+788
+00:43:00,792 --> 00:43:02,750
+or welcome
+them home.
+
+789
+00:43:02,750 --> 00:43:04,375
+In your
+own words--
+
+790
+00:43:04,375 --> 00:43:06,166
+this is not
+our affair.
+
+791
+00:43:06,166 --> 00:43:07,750
+We cannot
+interfere
+
+792
+00:43:07,750 --> 00:43:11,125
+in the natural course of
+your society's development,
+
+793
+00:43:11,125 --> 00:43:14,333
+and I'd say it's going
+to develop significantly
+
+794
+00:43:14,333 --> 00:43:16,834
+in the next few minutes.
+
+795
+00:43:19,208 --> 00:43:20,959
+It's been an interesting visit.
+
+796
+00:43:20,959 --> 00:43:22,875
+When you're ready
+for membership,
+
+797
+00:43:22,875 --> 00:43:26,500
+the Federation will be pleased
+to reconsider your application.
+
+798
+00:43:26,500 --> 00:43:27,959
+Mr. Riker,
+
+799
+00:43:27,959 --> 00:43:30,375
+four to beam up.
+
+800
+00:43:30,375 --> 00:43:32,208
+RIKER:
+Aye, sir.
+
+801
+00:43:53,333 --> 00:43:55,333
+Success, Captain?
+
+802
+00:43:55,333 --> 00:43:56,917
+Number One,
+
+803
+00:43:56,917 --> 00:43:59,000
+will you note in our report
+
+804
+00:43:59,000 --> 00:44:02,375
+that if the government
+of Angosia survives the night,
+
+805
+00:44:02,375 --> 00:44:05,083
+we will offer them
+Federation assistance
+
+806
+00:44:05,083 --> 00:44:08,208
+in their efforts
+to reprogram their veterans.
+
+807
+00:44:08,208 --> 00:44:11,125
+And if the government
+doesn't survive?
+
+808
+00:44:11,125 --> 00:44:14,333
+I have a feeling
+they will choose to.
+
+809
+00:44:14,333 --> 00:44:17,834
+Mr. Crusher,
+set coordinates
+
+810
+00:44:17,834 --> 00:44:20,166
+for Starbase
+Lyra III.
+
+811
+00:44:20,166 --> 00:44:21,750
+Coordinates set, sir.
+
+812
+00:44:23,208 --> 00:44:24,834
+Engage.

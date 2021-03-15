@@ -1,0 +1,3212 @@
+1
+00:00:04,709 --> 00:00:06,458
+MAN:
+<i>Tarchannen Three investigation.</i>
+
+2
+00:00:06,500 --> 00:00:09,125
+<i>Stardate 40164.7.</i>
+
+3
+00:00:09,166 --> 00:00:11,083
+<i>Ensign Anthony Brevelle </i>
+<i>recording.</i>
+
+4
+00:00:11,125 --> 00:00:13,583
+<i>Lieutenant Susanna Leijten </i>
+<i>in command.</i>
+
+5
+00:00:13,625 --> 00:00:14,750
+You up and running,
+Brevelle?
+
+6
+00:00:14,792 --> 00:00:16,375
+BREVELLE:
+Yes, Lieutenant.
+
+7
+00:00:16,417 --> 00:00:18,667
+Checked buildings
+four and five.
+
+8
+00:00:18,709 --> 00:00:19,917
+Just like
+all the others--
+
+9
+00:00:19,959 --> 00:00:22,250
+no phaser hits,
+no sign of a fight.
+
+10
+00:00:22,291 --> 00:00:24,750
+Looks like the whole outpost
+just vanished.
+
+11
+00:00:24,792 --> 00:00:27,375
+Lieutenant Leijten,
+you'd better come see this.
+
+12
+00:00:27,417 --> 00:00:29,875
+No footprints,
+no vehicle tracks.
+
+13
+00:00:29,917 --> 00:00:33,792
+The wind probably
+erased them, but look...
+
+14
+00:00:33,834 --> 00:00:36,417
+LEIJTEN:
+<i>Freeze visual.</i>
+
+15
+00:00:36,458 --> 00:00:39,333
+That's Hickman on the right,
+Mendez on the left.
+
+16
+00:00:39,375 --> 00:00:41,417
+And as already noted,
+the recording was made
+
+17
+00:00:41,458 --> 00:00:43,583
+by Ensign Brevelle
+five years ago.
+
+18
+00:00:43,625 --> 00:00:45,166
+Commander Leijten, you said that
+
+19
+00:00:45,208 --> 00:00:48,083
+before Brevelle deserted
+Starbase 112 last week
+
+20
+00:00:48,125 --> 00:00:49,625
+he'd been ill
+for several days.
+
+21
+00:00:49,667 --> 00:00:51,375
+What about Mendez?
+
+22
+00:00:51,417 --> 00:00:55,041
+Mendez was seen on the<i> Aries</i>
+an hour before she disappeared.
+
+23
+00:00:55,083 --> 00:00:56,417
+According to witnesses
+
+24
+00:00:56,458 --> 00:00:58,000
+she seemed completely normal.
+
+25
+00:00:58,041 --> 00:00:59,375
+And Hickman?
+
+26
+00:00:59,417 --> 00:01:02,166
+He just passed a routine
+physical on Malaya Four
+
+27
+00:01:02,208 --> 00:01:03,667
+with flying colors.
+
+28
+00:01:03,709 --> 00:01:05,542
+No, no, no wait a minute.
+I know Paul Hickman.
+
+29
+00:01:05,583 --> 00:01:06,583
+He's a family man.
+
+30
+00:01:06,625 --> 00:01:07,917
+He's got two kids.
+
+31
+00:01:07,959 --> 00:01:10,792
+He wouldn't steal a shuttle
+and desert.
+
+32
+00:01:10,834 --> 00:01:14,542
+But Geordi, he was spotted by a
+federation supply ship yesterday
+
+33
+00:01:14,583 --> 00:01:16,333
+on course
+to Tarchannen Three.
+
+34
+00:01:16,375 --> 00:01:18,542
+The original Tarchannen
+disappearances
+
+35
+00:01:18,583 --> 00:01:19,917
+were never solved, were they?
+
+36
+00:01:19,959 --> 00:01:23,250
+No. We never learned
+what happened or why.
+
+37
+00:01:23,291 --> 00:01:24,959
+49 people gone.
+
+38
+00:01:25,000 --> 00:01:26,792
+And five years later
+the away team
+
+39
+00:01:26,834 --> 00:01:29,750
+that was investigating
+their disappearances
+
+40
+00:01:29,792 --> 00:01:31,542
+have started
+to disappear themselves.
+
+41
+00:01:32,917 --> 00:01:35,208
+Geordi and I
+are the only two left.
+
+42
+00:02:07,000 --> 00:02:11,667
+<i>Space, the final frontier.</i>
+
+43
+00:02:11,709 --> 00:02:15,166
+<i>These are the voyages</i>
+<i>of the starship</i> Enterprise.
+
+44
+00:02:15,208 --> 00:02:17,208
+<i>Its continuing mission--</i>
+
+45
+00:02:17,250 --> 00:02:21,083
+<i>to explore</i>
+<i>strange new worlds</i>
+
+46
+00:02:21,125 --> 00:02:25,500
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+47
+00:02:25,542 --> 00:02:29,792
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+48
+00:02:32,041 --> 00:02:35,959
+♪♪
+
+49
+00:03:26,333 --> 00:03:30,041
+<i>Captain's Log,</i>
+<i>stardate 44664.5.</i>
+
+50
+00:03:30,083 --> 00:03:31,792
+<i>We have set a course</i>
+<i>to intercept</i>
+
+51
+00:03:31,834 --> 00:03:34,792
+<i>Lieutenant Hickman's</i>
+<i>stolen shuttlecraft</i>
+
+52
+00:03:34,834 --> 00:03:36,500
+<i>and hopefully to discover</i>
+<i>the whereabouts</i>
+
+53
+00:03:36,542 --> 00:03:38,041
+<i>of the other</i>
+<i>missing officers.</i>
+
+54
+00:03:40,125 --> 00:03:42,959
+And then I almost
+married Paul Bogrow.
+
+55
+00:03:43,000 --> 00:03:44,375
+Bogrow?
+
+56
+00:03:44,417 --> 00:03:46,500
+Bogrow-- now,
+which one was he?
+
+57
+00:03:46,542 --> 00:03:49,083
+You remember...
+
+58
+00:03:49,125 --> 00:03:52,000
+the one with
+the thin moustache.
+
+59
+00:03:52,041 --> 00:03:54,500
+Oh, not<i> Bogrow.</i> 
+I know.
+
+60
+00:03:54,542 --> 00:03:56,709
+The one who always used
+to drive you crazy?
+
+61
+00:03:56,750 --> 00:03:59,542
+(<i> laughing</i> )
+
+62
+00:03:59,583 --> 00:04:02,709
+You always thought
+he was so full of himself.
+
+63
+00:04:02,750 --> 00:04:06,667
+Well, I decided that
+I'd prejudged him unfairly.
+Huh, uh-huh.
+
+64
+00:04:06,709 --> 00:04:08,041
+And then I decided that
+
+65
+00:04:08,083 --> 00:04:09,291
+I'd been right
+in the first place.
+
+66
+00:04:09,333 --> 00:04:13,041
+(<i> laughing</i> )
+
+67
+00:04:13,083 --> 00:04:14,875
+Bogrow...
+
+68
+00:04:14,917 --> 00:04:16,083
+What about you?
+
+69
+00:04:16,125 --> 00:04:19,500
+I enjoy the bachelor's
+life too much.
+
+70
+00:04:19,542 --> 00:04:21,959
+That doesn't sound like
+my "little brother"
+
+71
+00:04:22,000 --> 00:04:25,375
+who always wanted advice
+on women.
+
+72
+00:04:25,417 --> 00:04:28,542
+Yeah, obviously,
+you were a...
+
+73
+00:04:28,583 --> 00:04:30,709
+a great adviser.
+
+74
+00:04:38,291 --> 00:04:39,834
+Well, Suz?
+
+75
+00:04:39,875 --> 00:04:42,000
+What do you think?
+
+76
+00:04:42,041 --> 00:04:44,291
+I don't know
+
+77
+00:04:44,333 --> 00:04:48,083
+but I'm not ashamed to tell you
+I'm a little scared, you know?
+
+78
+00:04:48,125 --> 00:04:51,542
+Yeah, I know.
+
+79
+00:04:54,333 --> 00:04:55,959
+Well, if anyone's
+going to figure this out
+
+80
+00:04:56,000 --> 00:04:58,250
+it will be the Leijten
+and La Forge show, right?
+
+81
+00:04:58,291 --> 00:04:59,625
+Yeah.
+
+82
+00:04:59,667 --> 00:05:01,792
+We always made a good team.
+
+83
+00:05:01,834 --> 00:05:03,291
+A hell of a team.
+
+84
+00:05:04,417 --> 00:05:05,792
+RIKER:
+Commander La Forge,
+
+85
+00:05:05,834 --> 00:05:08,208
+Commander Leijten,
+report to the Bridge.
+
+86
+00:05:08,250 --> 00:05:09,959
+We have a fix
+on the missing shuttle.
+
+87
+00:05:11,125 --> 00:05:12,709
+On our way, Commander.
+
+88
+00:05:14,000 --> 00:05:16,333
+Entering the Tarchannen
+system, sir.
+
+89
+00:05:16,375 --> 00:05:17,834
+PICARD:
+Slow to impulse power.
+
+90
+00:05:17,875 --> 00:05:19,375
+Mr. Worf?
+
+91
+00:05:19,417 --> 00:05:21,792
+Long-range sensors are holding
+on the shuttlecraft
+
+92
+00:05:21,834 --> 00:05:24,750
+bearing 010, mark 271.
+
+93
+00:05:24,792 --> 00:05:26,083
+Hail the vessel.
+
+94
+00:05:27,709 --> 00:05:29,417
+Lieutenant Hickman
+does not respond, sir.
+
+95
+00:05:31,875 --> 00:05:33,917
+Put a repeating message
+on all subspace channels.
+
+96
+00:05:33,959 --> 00:05:36,000
+Order the lieutenant
+to come about and stand to.
+
+97
+00:05:36,041 --> 00:05:37,583
+Make it a priority one
+communique.
+
+98
+00:05:37,625 --> 00:05:39,959
+(<i> console beeping</i> )
+
+99
+00:05:40,000 --> 00:05:42,250
+Still no response, sir.
+
+100
+00:05:42,291 --> 00:05:44,875
+The craft is now
+within visual range.
+
+101
+00:05:44,917 --> 00:05:46,750
+PICARD:
+On screen.
+
+102
+00:05:48,458 --> 00:05:50,792
+DATA:
+The shuttle's acceleration
+is increasing.
+
+103
+00:05:50,834 --> 00:05:52,208
+Its trajectory is moving
+
+104
+00:05:52,250 --> 00:05:54,250
+directly into
+the planet's atmosphere.
+
+105
+00:05:57,417 --> 00:05:58,750
+He will reach
+an atmospheric interface
+
+106
+00:05:58,792 --> 00:06:02,041
+at an altitude
+of 210 kilometers.
+
+107
+00:06:02,083 --> 00:06:04,250
+If he stays at that speed,
+he'll self-destruct.
+
+108
+00:06:04,291 --> 00:06:05,709
+DATA:
+That is correct, Commander.
+
+109
+00:06:05,750 --> 00:06:07,208
+How soon, Mr. Data?
+
+110
+00:06:07,250 --> 00:06:09,291
+53 seconds, sir.
+
+111
+00:06:09,333 --> 00:06:10,750
+Options?
+
+112
+00:06:12,208 --> 00:06:13,750
+He's out of transporter range.
+
+113
+00:06:15,125 --> 00:06:16,875
+He's still too far away
+to get a positive lock
+
+114
+00:06:16,917 --> 00:06:18,667
+with the tractor beam,
+Captain.
+
+115
+00:06:18,709 --> 00:06:20,875
+Open a channel.
+
+116
+00:06:20,917 --> 00:06:22,166
+Open.
+
+117
+00:06:22,208 --> 00:06:24,333
+Lieutenant Hickman,
+listen carefully.
+
+118
+00:06:24,375 --> 00:06:27,208
+This is Captain Picard
+of the<i> Enterprise.</i>
+
+119
+00:06:27,250 --> 00:06:29,000
+You are in danger.
+
+120
+00:06:29,041 --> 00:06:30,959
+You must slow your rate
+of approach.
+
+121
+00:06:32,542 --> 00:06:34,750
+The shuttle is approaching
+the outer thermosphere, Captain.
+
+122
+00:06:34,792 --> 00:06:36,250
+He's panicking.
+
+123
+00:06:36,291 --> 00:06:37,834
+DATA:
+At the current
+rate of acceleration,
+
+124
+00:06:37,875 --> 00:06:40,208
+the shuttle will be
+destroyed in 28 seconds.
+
+125
+00:06:47,959 --> 00:06:49,625
+16 seconds to impact.
+
+126
+00:06:49,667 --> 00:06:53,125
+Lieutenant Hickman,
+you must do what I tell you.
+
+127
+00:06:53,166 --> 00:06:55,208
+Reduce your velocity
+and bring your craft
+
+128
+00:06:55,250 --> 00:06:58,333
+to a positive pitch
+of 20 degrees<i> now.</i>
+
+129
+00:06:59,750 --> 00:07:02,250
+The shuttle is entering
+the lower ionosphere, sir.
+
+130
+00:07:22,458 --> 00:07:23,959
+WORF:
+Captain, sensors detect
+
+131
+00:07:24,000 --> 00:07:25,291
+two more federation shuttlecraft
+
+132
+00:07:25,333 --> 00:07:26,625
+on the planet surface.
+
+133
+00:07:26,667 --> 00:07:28,959
+No life signs.
+
+134
+00:07:31,917 --> 00:07:34,000
+Number One,
+prepare your away team.
+
+135
+00:07:34,041 --> 00:07:36,250
+Worf, Data, Geordi...
+
+136
+00:07:36,291 --> 00:07:38,625
+I'd like to volunteer
+to join you, sir.
+
+137
+00:07:38,667 --> 00:07:40,166
+Commander.
+
+138
+00:07:41,375 --> 00:07:43,959
+(<i> distant chirping</i> )
+
+139
+00:07:55,458 --> 00:07:57,917
+(<i> faint beeping</i> )
+
+140
+00:08:13,875 --> 00:08:16,458
+RIKER:
+Commander Leijten, Geordi,
+check out the shuttle.
+
+141
+00:08:16,500 --> 00:08:18,375
+Data, Worf,
+you got the perimeter.
+
+142
+00:08:27,000 --> 00:08:30,583
+It's the shuttle pod
+Mendez stole from the Aries.
+
+143
+00:08:30,625 --> 00:08:31,959
+Mhm.
+
+144
+00:09:34,834 --> 00:09:36,417
+No life signs,
+Commander.
+
+145
+00:09:43,750 --> 00:09:46,083
+Sir, I'm certain
+we're being watched.
+
+146
+00:09:48,000 --> 00:09:49,333
+Commander Riker...
+
+147
+00:09:50,750 --> 00:09:52,250
+found it
+in the shuttle.
+
+148
+00:09:55,834 --> 00:09:58,333
+Where's Commander Leijten?
+
+149
+00:09:58,375 --> 00:10:00,333
+Riker to Susanna, report.
+
+150
+00:10:03,583 --> 00:10:05,083
+Fan out.
+Let's find her.
+
+151
+00:10:22,667 --> 00:10:24,291
+Susanna?
+
+152
+00:10:31,542 --> 00:10:33,208
+La Forge to Leijten.
+
+153
+00:10:35,166 --> 00:10:37,250
+LEIJTEN:
+Over here.
+
+154
+00:10:45,208 --> 00:10:47,417
+Where have you been?
+
+155
+00:10:49,000 --> 00:10:51,458
+Mendez and Brevelle
+are alive.
+
+156
+00:10:52,750 --> 00:10:53,875
+You saw the footprints?
+
+157
+00:10:53,917 --> 00:10:56,166
+Yeah,
+but they're not human.
+
+158
+00:10:56,208 --> 00:10:58,500
+They're here.
+
+159
+00:10:58,542 --> 00:11:01,875
+Just stand still
+and listen.
+
+160
+00:11:01,917 --> 00:11:02,875
+You can feel it.
+
+161
+00:11:02,917 --> 00:11:03,834
+They're here.
+
+162
+00:11:03,875 --> 00:11:06,000
+(<i> beeping</i> )
+
+163
+00:11:08,458 --> 00:11:10,792
+I'm not picking up
+anything.
+
+164
+00:11:12,125 --> 00:11:13,500
+Wait a minute.
+
+165
+00:11:13,542 --> 00:11:15,583
+Where are you going?
+
+166
+00:11:16,875 --> 00:11:18,166
+Susanna?
+
+167
+00:11:19,542 --> 00:11:21,208
+Stay away.
+
+168
+00:11:21,250 --> 00:11:22,500
+Suz...
+
+169
+00:11:22,542 --> 00:11:24,500
+(<i> grunting</i> )
+
+170
+00:11:26,417 --> 00:11:27,667
+La Forge to<i> Enterprise.</i>
+
+171
+00:11:27,709 --> 00:11:28,917
+Medical emergency.
+
+172
+00:11:28,959 --> 00:11:31,583
+Two to Sick Bay.
+
+173
+00:11:47,709 --> 00:11:50,041
+Do I look as bad as I feel?
+
+174
+00:11:50,083 --> 00:11:53,000
+You look fine... now.
+
+175
+00:11:54,166 --> 00:11:56,125
+What happened?
+
+176
+00:11:56,166 --> 00:11:58,125
+BEVERLY:
+Your blood chemistry is way off.
+
+177
+00:11:58,166 --> 00:12:00,000
+You had a histamine response.
+
+178
+00:12:00,041 --> 00:12:01,500
+To what, I don't know.
+
+179
+00:12:01,542 --> 00:12:04,208
+I'm going to run a complete
+blood and tissue analysis.
+
+180
+00:12:04,250 --> 00:12:06,000
+I need to get back
+to the surface.
+
+181
+00:12:06,041 --> 00:12:08,875
+Uh-uh, until I have
+some answers
+
+182
+00:12:08,917 --> 00:12:10,792
+I don't want you
+to leave the<i> Enterprise.</i>
+
+183
+00:12:10,834 --> 00:12:12,166
+I have work to do.
+
+184
+00:12:12,208 --> 00:12:14,625
+Look, Commander,
+you may have just had
+
+185
+00:12:14,667 --> 00:12:17,166
+an anxiety reaction
+down there
+
+186
+00:12:17,208 --> 00:12:20,250
+but I've got
+to know for sure.
+
+187
+00:12:20,291 --> 00:12:22,542
+It might not be such a bad idea
+to take it easy for a while.
+
+188
+00:12:22,583 --> 00:12:24,875
+I'm not going to stay locked up
+on this ship while
+
+189
+00:12:24,917 --> 00:12:26,625
+the investigation is going on.
+
+190
+00:12:26,667 --> 00:12:28,667
+PICARD:
+Your devotion to duty
+is admirable, Commander.
+
+191
+00:12:28,709 --> 00:12:30,250
+But Dr. Crusher is right.
+
+192
+00:12:30,291 --> 00:12:31,792
+You'll remain on board
+the<i> Enterprise</i>
+
+193
+00:12:31,834 --> 00:12:34,291
+until we know whether or
+not this is connected
+
+194
+00:12:34,333 --> 00:12:36,041
+with the disappearance
+of the others.
+
+195
+00:12:36,083 --> 00:12:39,834
+Captain...
+We have completed our
+survey of the surface.
+
+196
+00:12:39,875 --> 00:12:41,500
+Analyzing all that Data
+
+197
+00:12:41,542 --> 00:12:43,375
+will keep us busy
+for a while.
+
+198
+00:12:43,417 --> 00:12:45,208
+Yes, sir, I understand.
+
+199
+00:12:45,250 --> 00:12:47,542
+Data's got a preliminary report
+
+200
+00:12:47,583 --> 00:12:48,875
+if you're up to it.
+
+201
+00:12:48,917 --> 00:12:51,417
+Sure, let's get going.
+
+202
+00:12:58,583 --> 00:12:59,917
+What about La Forge?
+
+203
+00:12:59,959 --> 00:13:02,667
+I gave him
+a complete bioscan.
+
+204
+00:13:02,709 --> 00:13:05,583
+The results say
+he's in perfect shape.
+
+205
+00:13:08,125 --> 00:13:10,458
+That's what all the reports said
+about Mendez and Hickman
+
+206
+00:13:10,500 --> 00:13:12,250
+before they disappeared.
+
+207
+00:13:15,709 --> 00:13:16,875
+Captain Picard's wrong.
+
+208
+00:13:16,917 --> 00:13:18,291
+The way to handle this
+
+209
+00:13:18,333 --> 00:13:20,834
+is to get back down there
+with a dozen away teams.
+
+210
+00:13:20,875 --> 00:13:22,041
+Fan out from the shuttle.
+
+211
+00:13:22,083 --> 00:13:23,875
+We can cover a lot
+of ground in a hurry.
+
+212
+00:13:23,917 --> 00:13:26,291
+Use proximity detectors,
+infrared sensors...
+
+213
+00:13:26,333 --> 00:13:27,792
+Susanna...
+
+214
+00:13:30,375 --> 00:13:33,041
+Oh, Geordi, it's started.
+
+215
+00:13:33,083 --> 00:13:34,166
+What if what happened
+to the others
+
+216
+00:13:34,208 --> 00:13:35,166
+is happening to me?
+
+217
+00:13:35,208 --> 00:13:37,291
+You don't know that.
+
+218
+00:13:41,083 --> 00:13:43,208
+Suz...
+
+219
+00:13:43,250 --> 00:13:45,458
+I'm here.
+
+220
+00:13:45,500 --> 00:13:48,959
+And I'm not going to let
+anything happen to you, okay?
+
+221
+00:13:49,000 --> 00:13:52,417
+Okay, come on.
+
+222
+00:13:58,834 --> 00:14:01,250
+During microscopic examination
+of the torn uniform
+
+223
+00:14:01,291 --> 00:14:05,166
+I discovered
+these alien skin cells.
+
+224
+00:14:05,208 --> 00:14:06,417
+Source?
+
+225
+00:14:06,458 --> 00:14:07,792
+Undetermined.
+
+226
+00:14:07,834 --> 00:14:10,000
+Without something else to
+cross-reference
+
+227
+00:14:10,041 --> 00:14:12,458
+it would take us weeks
+to try and identify them.
+
+228
+00:14:12,500 --> 00:14:14,750
+Fortunately,
+we have more evidence.
+
+229
+00:14:14,792 --> 00:14:16,083
+We were able to determine
+
+230
+00:14:16,125 --> 00:14:17,917
+that these footprints
+found near the shuttle
+
+231
+00:14:17,959 --> 00:14:20,792
+were not made by any known
+Tarchannen life-form.
+
+232
+00:14:20,834 --> 00:14:22,917
+If we're pursuing
+the theory
+
+233
+00:14:22,959 --> 00:14:26,208
+that somehow unknown
+aliens were involved
+
+234
+00:14:26,250 --> 00:14:27,500
+I think I should tell you
+
+235
+00:14:27,542 --> 00:14:29,333
+that we didn't find
+tracks like that
+
+236
+00:14:29,375 --> 00:14:31,291
+during the original
+investigation.
+
+237
+00:14:31,333 --> 00:14:34,333
+The planet is subject
+to frequent sandstorms.
+
+238
+00:14:34,375 --> 00:14:35,875
+The footprints might
+have been obliterated
+
+239
+00:14:35,917 --> 00:14:38,500
+prior to your
+arrival.
+
+240
+00:14:38,542 --> 00:14:41,500
+Dr. Crusher and I will begin
+to search the medical database
+
+241
+00:14:41,542 --> 00:14:43,083
+in an attempt to match these
+
+242
+00:14:43,125 --> 00:14:44,959
+with some known life-form.
+
+243
+00:14:50,083 --> 00:14:51,875
+Aliens or no aliens
+
+244
+00:14:51,917 --> 00:14:54,125
+why would our people start
+returning after five years
+
+245
+00:14:54,166 --> 00:14:55,500
+to be abducted?
+
+246
+00:14:56,709 --> 00:14:58,417
+Some sort of compulsion,
+
+247
+00:14:58,458 --> 00:15:00,208
+like a post-hypnotic command?
+
+248
+00:15:00,250 --> 00:15:01,667
+Something that happened
+
+249
+00:15:01,709 --> 00:15:03,917
+while we
+were down there the first time?
+
+250
+00:15:03,959 --> 00:15:05,750
+We can go back
+to the mission record
+
+251
+00:15:05,792 --> 00:15:07,375
+and reconstruct a log
+of everyone's movements.
+
+252
+00:15:07,417 --> 00:15:09,667
+Look for some sort
+of commonality--
+
+253
+00:15:09,709 --> 00:15:11,667
+something we all touched.
+
+254
+00:15:11,709 --> 00:15:14,333
+Maybe a plant
+
+255
+00:15:14,375 --> 00:15:17,667
+or the sand.
+
+256
+00:15:17,709 --> 00:15:19,375
+Or even something
+we ingested.
+
+257
+00:15:19,417 --> 00:15:22,291
+It could even be
+in the air itself.
+
+258
+00:15:29,500 --> 00:15:31,667
+The parameters
+are pretty broad, Data.
+
+259
+00:15:31,709 --> 00:15:35,458
+Any match we make is going
+to be inconclusive at best.
+
+260
+00:15:35,500 --> 00:15:37,083
+I am aware of that, Doctor,
+
+261
+00:15:37,125 --> 00:15:38,792
+however, I can see
+
+262
+00:15:38,834 --> 00:15:41,792
+no other reasonable course of
+investigation available to us.
+
+263
+00:15:41,834 --> 00:15:43,375
+We may not have much time.
+
+264
+00:15:44,625 --> 00:15:47,959
+You're worried about Geordi,
+aren't you?
+
+265
+00:15:48,000 --> 00:15:49,458
+I am an android.
+
+266
+00:15:49,500 --> 00:15:52,000
+It is not possible
+for me...
+For you to feel anxiety.
+
+267
+00:15:53,959 --> 00:15:56,083
+Starfleet personnel
+have vanished.
+
+268
+00:15:56,125 --> 00:15:57,500
+Others may be at risk.
+
+269
+00:15:57,542 --> 00:15:59,333
+We must do the best we can
+to find out why.
+
+270
+00:15:59,375 --> 00:16:00,792
+(<i> clears throat</i> )
+
+271
+00:16:02,834 --> 00:16:06,125
+However, I am...
+
+272
+00:16:08,458 --> 00:16:11,542
+... strongly motivated
+to solve this mystery.
+
+273
+00:16:19,166 --> 00:16:21,333
+MENDEZ:
+Ensign Hickman?
+
+274
+00:16:22,417 --> 00:16:24,500
+(<i> console beeping</i> )
+
+275
+00:16:37,542 --> 00:16:40,917
+(<i> sighing</i> )
+
+276
+00:16:43,875 --> 00:16:45,542
+Freeze visual.
+
+277
+00:16:49,083 --> 00:16:50,875
+We're wasting our time.
+
+278
+00:16:50,917 --> 00:16:53,542
+That's not how you felt before.
+
+279
+00:16:53,583 --> 00:16:56,041
+It was your idea to look
+for some sort of commonality.
+
+280
+00:16:56,083 --> 00:16:57,959
+Well, I was wrong.
+
+281
+00:16:58,000 --> 00:17:01,625
+We're not going
+to find anything this way.
+
+282
+00:17:01,667 --> 00:17:04,083
+We should go back to the planet.
+
+283
+00:17:04,125 --> 00:17:05,208
+It's all down there--
+
+284
+00:17:05,250 --> 00:17:06,291
+everything
+we need to know.
+
+285
+00:17:06,333 --> 00:17:08,792
+Well that's just
+not an option.
+
+286
+00:17:08,834 --> 00:17:10,583
+At least not until
+Captain Picard says it is.
+
+287
+00:17:15,875 --> 00:17:17,333
+Computer, resume.
+
+288
+00:17:20,667 --> 00:17:22,792
+I can't look at that anymore.
+
+289
+00:17:22,834 --> 00:17:24,041
+Hurts my eyes.
+
+290
+00:17:24,083 --> 00:17:25,542
+I can't think.
+
+291
+00:17:25,583 --> 00:17:28,875
+My mind feels like
+it's wrapped up in a blanket.
+
+292
+00:17:28,917 --> 00:17:32,041
+Take a break, alright?
+I'll work on this.
+
+293
+00:17:32,083 --> 00:17:33,709
+I don't need a break.
+
+294
+00:17:33,750 --> 00:17:36,125
+I need to get off this ship.
+
+295
+00:17:38,000 --> 00:17:41,542
+Susanna, why don't we go
+and see Dr. Crusher.
+
+296
+00:17:41,583 --> 00:17:44,291
+Forget crusher
+and forget your logs.
+
+297
+00:17:46,166 --> 00:17:48,917
+Tarchannen's down there,
+Geordi.
+
+298
+00:17:48,959 --> 00:17:50,583
+It's waiting for us.
+
+299
+00:17:50,625 --> 00:17:52,792
+That's where
+we should go.
+
+300
+00:17:52,834 --> 00:17:55,458
+Susanna...
+
+301
+00:17:55,500 --> 00:17:57,750
+you can't leave.
+
+302
+00:17:59,458 --> 00:18:00,750
+Susanna!
+
+303
+00:18:00,792 --> 00:18:02,333
+Susanna!
+
+304
+00:18:05,041 --> 00:18:06,625
+Geordie.
+
+305
+00:18:35,458 --> 00:18:37,750
+Her blood pressure
+is still falling.
+
+306
+00:18:37,792 --> 00:18:39,000
+Apply the T-cell stimulator.
+
+307
+00:18:39,041 --> 00:18:42,250
+We have got to stabilize
+her immune system.
+
+308
+00:18:46,458 --> 00:18:48,750
+She has developed an extreme
+sensitivity to light.
+
+309
+00:18:48,792 --> 00:18:51,834
+We're trying to make her
+as comfortable as we can.
+
+310
+00:19:05,625 --> 00:19:07,542
+Oh, God.
+
+311
+00:19:09,125 --> 00:19:10,834
+Geordi?
+
+312
+00:19:15,583 --> 00:19:17,750
+Susanna...
+
+313
+00:19:19,750 --> 00:19:23,709
+Hold on, okay?
+
+314
+00:19:23,750 --> 00:19:26,792
+Dr. Crusher will help you.
+
+315
+00:19:26,834 --> 00:19:29,875
+So just hold on.
+
+316
+00:19:31,041 --> 00:19:34,709
+It's inside of me, Geordi.
+
+317
+00:19:34,750 --> 00:19:37,667
+I can't fight it.
+
+318
+00:19:37,709 --> 00:19:38,959
+It's winning.
+
+319
+00:19:39,000 --> 00:19:42,125
+Don't give up.
+
+320
+00:19:42,166 --> 00:19:43,458
+Do you hear me?
+
+321
+00:19:46,166 --> 00:19:48,792
+You can't give up, Suz.
+
+322
+00:19:59,041 --> 00:20:00,875
+BEVERLY: This is one of
+Susanna's altered skin cells
+
+323
+00:20:00,917 --> 00:20:03,959
+and this is one of the alien
+cells Data found.
+
+324
+00:20:04,000 --> 00:20:06,959
+They're almost identical.
+How do you explain that?
+
+325
+00:20:07,000 --> 00:20:09,333
+Jean-Luc, I think the people
+from Tarchannen Three
+
+326
+00:20:09,375 --> 00:20:12,208
+who disappeared
+weren't abducted.
+
+327
+00:20:12,250 --> 00:20:16,166
+I think they were transformed
+into another species.
+
+328
+00:20:16,208 --> 00:20:17,917
+Can you stop it, Doctor?
+
+329
+00:20:17,959 --> 00:20:20,333
+The T-cell stimulator will
+slow down the rate of change
+
+330
+00:20:20,375 --> 00:20:22,959
+but until I find
+the cause...
+
+331
+00:20:23,000 --> 00:20:24,250
+Is the<i> Enterprise</i> at risk?
+
+332
+00:20:24,291 --> 00:20:26,750
+No. I checked
+the cell wall integrity.
+
+333
+00:20:26,792 --> 00:20:28,125
+Its viability
+is extremely low.
+
+334
+00:20:28,166 --> 00:20:29,500
+I don't think
+it's possible
+
+335
+00:20:29,542 --> 00:20:30,792
+for Susanna
+to transmit it.
+
+336
+00:20:30,834 --> 00:20:33,333
+Then how
+did she get it?
+
+337
+00:20:33,375 --> 00:20:36,250
+I wish I knew.
+
+338
+00:20:36,291 --> 00:20:39,709
+The only thing
+I do know, Geordi
+
+339
+00:20:39,750 --> 00:20:42,792
+is that it's very possible
+that you will be next.
+
+340
+00:20:52,333 --> 00:20:54,542
+But...
+
+341
+00:20:54,583 --> 00:20:58,458
+I had two
+full bioscans today.
+
+342
+00:20:58,500 --> 00:21:00,000
+You said I was fine.
+
+343
+00:21:00,041 --> 00:21:02,375
+I gave Susanna a bioscan too.
+
+344
+00:21:02,417 --> 00:21:04,333
+I didn't find anything
+wrong with her either.
+
+345
+00:21:07,166 --> 00:21:08,792
+How long?
+
+346
+00:21:10,000 --> 00:21:13,500
+Brevelle was sick for days
+before he left.
+
+347
+00:21:13,542 --> 00:21:17,166
+Mendez was normal
+an hour before she disappeared.
+
+348
+00:21:17,208 --> 00:21:20,417
+You may have weeks
+or very few hours.
+
+349
+00:21:23,458 --> 00:21:26,083
+Then there's not
+much time to waste.
+
+350
+00:21:26,125 --> 00:21:27,208
+I should get back to work.
+
+351
+00:21:27,250 --> 00:21:28,792
+Geordi...
+
+352
+00:21:28,834 --> 00:21:30,834
+Until I know
+what we're dealing with
+
+353
+00:21:30,875 --> 00:21:33,417
+I think you should
+stay here in sick bay.
+
+354
+00:21:33,458 --> 00:21:34,959
+Doctor, you said
+that it would help
+
+355
+00:21:35,000 --> 00:21:36,667
+if you knew
+the source of this.
+
+356
+00:21:36,709 --> 00:21:38,750
+If I could continue my analysis
+of the mission records
+
+357
+00:21:38,792 --> 00:21:40,291
+I might find an answer.
+
+358
+00:21:40,333 --> 00:21:43,959
+Mr. La Forge...
+
+359
+00:21:44,000 --> 00:21:45,542
+What if you begin
+to change?
+
+360
+00:21:45,583 --> 00:21:46,834
+What if you feel compelled
+
+361
+00:21:46,875 --> 00:21:48,375
+to go down to the planet
+like the others?
+
+362
+00:21:48,417 --> 00:21:51,208
+Program the computer
+to monitor my movements.
+
+363
+00:21:51,250 --> 00:21:54,417
+That way, we can be sure
+that I don't leave the ship.
+
+364
+00:21:56,750 --> 00:21:58,417
+What would you do,
+Captain?
+
+365
+00:21:58,458 --> 00:22:00,875
+Would you sit it
+out here in sick bay
+
+366
+00:22:00,917 --> 00:22:04,125
+or try to learn what
+it is that's got you--
+
+367
+00:22:04,166 --> 00:22:05,709
+maybe stop it?
+
+368
+00:22:08,875 --> 00:22:10,500
+Very well, Mr. La Forge.
+
+369
+00:22:10,542 --> 00:22:12,208
+You proceed with your
+investigation
+
+370
+00:22:12,250 --> 00:22:14,625
+but I want you to report to
+Dr. Crusher for a bioscan
+
+371
+00:22:14,667 --> 00:22:16,166
+at the start
+of the day watch.
+
+372
+00:22:16,208 --> 00:22:17,250
+Aye, sir.
+
+373
+00:22:17,291 --> 00:22:18,875
+And Geordi,
+if you have symptoms
+
+374
+00:22:18,917 --> 00:22:20,583
+of any kind
+
+375
+00:22:20,625 --> 00:22:22,792
+I want to know<i> immediately.</i>
+
+376
+00:22:24,333 --> 00:22:25,667
+Understood.
+
+377
+00:22:32,417 --> 00:22:33,792
+One to transport.
+
+378
+00:22:37,417 --> 00:22:39,583
+I want to make another sweep
+of the perimeter.
+
+379
+00:22:39,625 --> 00:22:41,125
+La Forge, you start
+at building four.
+
+380
+00:22:41,166 --> 00:22:42,667
+Mendez and Brevelle,
+begin at two
+
+381
+00:22:42,709 --> 00:22:44,083
+I'll take five.
+
+382
+00:22:49,792 --> 00:22:51,458
+All right, computer.
+
+383
+00:22:51,500 --> 00:22:53,041
+Analyze audio elements
+
+384
+00:22:53,083 --> 00:22:56,959
+from time index 1447
+
+385
+00:22:57,000 --> 00:23:00,458
+to 1558.
+
+386
+00:23:00,500 --> 00:23:01,917
+List all anomalies.
+
+387
+00:23:01,959 --> 00:23:04,834
+COMPUTER:
+No audio anomalies present.
+
+388
+00:23:04,875 --> 00:23:08,333
+Any subspace projections,
+
+389
+00:23:08,375 --> 00:23:10,417
+Z-Particle emissions
+
+390
+00:23:10,458 --> 00:23:12,750
+interferometric frequencies?
+
+391
+00:23:12,792 --> 00:23:15,083
+No subspace projections present.
+
+392
+00:23:15,125 --> 00:23:17,041
+No Z-Particle
+emissions present.
+
+393
+00:23:17,083 --> 00:23:20,250
+No interferometric
+patterns present.
+
+394
+00:23:20,291 --> 00:23:21,750
+Damn!
+
+395
+00:23:27,166 --> 00:23:29,375
+Geordi?
+
+396
+00:23:29,417 --> 00:23:31,834
+May I inquire how your
+investigation is proceeding?
+
+397
+00:23:31,875 --> 00:23:34,625
+It's not.
+
+398
+00:23:34,667 --> 00:23:35,834
+Have you attempted
+an audio analysis?
+
+399
+00:23:35,875 --> 00:23:37,834
+Yes, Data
+
+400
+00:23:37,875 --> 00:23:39,959
+<i>and</i> a spectrographic analysis
+
+401
+00:23:40,000 --> 00:23:43,875
+<i>and</i> a screen
+for ionizing radiation.
+
+402
+00:23:43,917 --> 00:23:47,458
+I even ran an enhancement
+for micro-seismic disturbances.
+
+403
+00:23:47,500 --> 00:23:49,375
+I've tried it all, okay?
+
+404
+00:23:51,000 --> 00:23:52,458
+(<i> sighing</i> )
+
+405
+00:23:59,750 --> 00:24:01,709
+I'm sorry.
+
+406
+00:24:01,750 --> 00:24:04,542
+There was no need
+for an apology.
+
+407
+00:24:04,583 --> 00:24:07,625
+Perhaps if you indulged
+in a brief rest period
+
+408
+00:24:07,667 --> 00:24:09,125
+you would be able
+to approach this problem
+
+409
+00:24:09,166 --> 00:24:10,875
+with a fresh point of view.
+
+410
+00:24:10,917 --> 00:24:12,542
+Yeah, you're probably
+right, Data
+
+411
+00:24:12,583 --> 00:24:15,750
+but I've got to keep scanning
+these records while I can.
+
+412
+00:24:18,333 --> 00:24:19,709
+May I assist you?
+
+413
+00:24:19,750 --> 00:24:23,208
+If I knew
+what I was looking for...
+
+414
+00:24:23,250 --> 00:24:25,417
+really, Data
+
+415
+00:24:25,458 --> 00:24:29,125
+I think it's just a matter
+of me going over it
+
+416
+00:24:29,166 --> 00:24:31,917
+maybe finding something
+I forgot.
+
+417
+00:24:31,959 --> 00:24:35,166
+I'll let you know if I come
+across anything, all right.
+
+418
+00:24:41,667 --> 00:24:43,166
+All right, computer.
+
+419
+00:24:44,917 --> 00:24:46,917
+One more time.
+
+420
+00:24:53,542 --> 00:24:54,792
+OGAWA:
+Sorry to disturb you, Doctor.
+
+421
+00:24:54,834 --> 00:24:56,291
+That's all right.
+What's happened?
+
+422
+00:24:56,333 --> 00:24:57,917
+I thought
+you should see this.
+
+423
+00:25:02,792 --> 00:25:05,834
+Her skin is simulating
+the light.
+
+424
+00:25:05,875 --> 00:25:07,500
+A radiant reaction.
+
+425
+00:25:07,542 --> 00:25:09,625
+Some sort of mimetic ability?
+
+426
+00:25:09,667 --> 00:25:10,750
+That's not all.
+
+427
+00:25:10,792 --> 00:25:12,291
+Her body temperature
+is dropping.
+
+428
+00:25:14,583 --> 00:25:17,125
+It's as if she's generating
+a disruptive field.
+
+429
+00:25:17,166 --> 00:25:19,250
+I can barely get any readings
+off of her now.
+
+430
+00:25:19,291 --> 00:25:21,083
+What's her rate
+of transformation?
+
+431
+00:25:21,125 --> 00:25:22,208
+It's increasing.
+
+432
+00:25:22,250 --> 00:25:23,834
+That's not possible.
+
+433
+00:25:23,875 --> 00:25:27,667
+It should have been inhibited
+by the T-cell stimulator
+
+434
+00:25:27,709 --> 00:25:29,041
+unless...
+
+435
+00:25:31,458 --> 00:25:33,375
+if there's a foreign body
+inside her
+
+436
+00:25:33,417 --> 00:25:36,083
+that's producing these changes--
+
+437
+00:25:36,125 --> 00:25:39,000
+something like a viral creche...
+
+438
+00:25:39,041 --> 00:25:41,917
+A very small one
+if our scans haven't found it.
+
+439
+00:25:41,959 --> 00:25:44,500
+I want a full
+genetic analysis.
+
+440
+00:25:44,542 --> 00:25:46,875
+We're going to examine
+any abnormality we find
+
+441
+00:25:46,917 --> 00:25:49,083
+no matter how insignificant
+it seems.
+
+442
+00:25:53,417 --> 00:25:54,750
+One to transport.
+
+443
+00:25:55,917 --> 00:25:57,583
+Computer, delete the audio.
+
+444
+00:26:03,250 --> 00:26:04,667
+Wait a minute.
+
+445
+00:26:04,709 --> 00:26:06,041
+Freeze visual.
+
+446
+00:26:09,709 --> 00:26:11,208
+Whose shadow is that?
+
+447
+00:26:11,250 --> 00:26:13,542
+COMPUTER:
+Please restate question.
+
+448
+00:26:16,417 --> 00:26:19,792
+Computer, the shadow
+currently displayed
+
+449
+00:26:19,834 --> 00:26:21,625
+in Section B-3--
+
+450
+00:26:21,667 --> 00:26:23,375
+what is its source?
+
+451
+00:26:23,417 --> 00:26:24,917
+Unknown.
+
+452
+00:26:24,959 --> 00:26:27,375
+Come on, it's got to belong
+to somebody.
+
+453
+00:26:28,583 --> 00:26:31,000
+Computer, replay visual
+
+454
+00:26:31,041 --> 00:26:33,041
+of the last time index.
+
+455
+00:26:33,083 --> 00:26:36,959
+No audio and slow to 50%.
+
+456
+00:26:47,834 --> 00:26:50,625
+Okay, Brevelle's
+behind the camera
+
+457
+00:26:50,667 --> 00:26:53,583
+Susanna and I head off
+in that direction.
+
+458
+00:26:53,625 --> 00:26:55,750
+Mendez moves off that way.
+
+459
+00:26:55,792 --> 00:26:57,166
+Freeze visual.
+
+460
+00:27:00,041 --> 00:27:04,208
+Now magnify four times.
+
+461
+00:27:04,250 --> 00:27:06,458
+And spectrally enhance
+those shadows.
+
+462
+00:27:09,250 --> 00:27:11,041
+Computer, do you have
+sufficient data
+
+463
+00:27:11,083 --> 00:27:12,750
+to compile
+a holographic simulation
+
+464
+00:27:12,792 --> 00:27:14,667
+of this visual record?
+
+465
+00:27:14,709 --> 00:27:16,166
+A simulation would be limited
+
+466
+00:27:16,208 --> 00:27:19,208
+to areas scanned
+by the visual recording device.
+
+467
+00:27:19,250 --> 00:27:21,750
+Good, fine.
+Scan the entire record
+
+468
+00:27:21,792 --> 00:27:23,792
+and then recreate it
+on Holodeck Three.
+
+469
+00:27:27,625 --> 00:27:31,333
+Computer, is the Tarchannen
+simulation ready?
+
+470
+00:27:31,375 --> 00:27:32,458
+Affirmative.
+
+471
+00:27:32,500 --> 00:27:33,625
+Program complete.
+
+472
+00:27:33,667 --> 00:27:35,125
+Enter when ready.
+
+473
+00:28:17,834 --> 00:28:20,166
+Computer,
+
+474
+00:28:20,208 --> 00:28:22,291
+scan Starfleet records
+
+475
+00:28:22,333 --> 00:28:25,959
+and create a simulation
+of Brevelle.
+
+476
+00:28:26,000 --> 00:28:28,792
+Place him where he was
+while recording this.
+
+477
+00:28:38,250 --> 00:28:41,083
+Okay. Good.
+
+478
+00:28:41,125 --> 00:28:42,834
+Computer,
+
+479
+00:28:42,875 --> 00:28:45,458
+based on their
+speed and direction
+
+480
+00:28:45,500 --> 00:28:47,709
+can you extrapolate
+each officer's movements
+
+481
+00:28:47,750 --> 00:28:49,500
+as they walked out
+of the recording device's
+
+482
+00:28:49,542 --> 00:28:51,375
+field of view?
+
+483
+00:28:51,417 --> 00:28:54,709
+Affirmative, with an increasing
+probability of error
+
+484
+00:28:54,750 --> 00:28:58,375
+reaching 95% after ten seconds.
+
+485
+00:28:58,417 --> 00:28:59,375
+Understood.
+
+486
+00:28:59,417 --> 00:29:01,000
+Run simulation.
+
+487
+00:29:02,375 --> 00:29:04,792
+I want to make another sweep
+of the perimeter.
+
+488
+00:29:04,834 --> 00:29:06,458
+La Forge, you start
+at building four.
+
+489
+00:29:06,500 --> 00:29:08,208
+Mendez and Brevelle,
+you begin at two.
+
+490
+00:29:08,250 --> 00:29:10,333
+I'll take five.
+
+491
+00:29:14,417 --> 00:29:16,542
+Computer, freeze.
+
+492
+00:29:16,583 --> 00:29:19,166
+It's all happening too fast.
+
+493
+00:29:19,208 --> 00:29:21,667
+Computer, reverse simulation.
+
+494
+00:29:21,709 --> 00:29:25,125
+Run it back to time index 1472.
+
+495
+00:29:27,333 --> 00:29:30,959
+(<i> reversed speech</i> )
+
+496
+00:29:31,000 --> 00:29:33,125
+LA FORGE:
+Freeze program.
+
+497
+00:29:38,750 --> 00:29:41,625
+Computer, remove La Forge.
+
+498
+00:29:45,250 --> 00:29:48,792
+And... now remove Leijten.
+
+499
+00:29:55,250 --> 00:29:58,333
+And now remove Mendez.
+
+500
+00:30:25,542 --> 00:30:28,125
+Computer, using vector analysis
+
+501
+00:30:28,166 --> 00:30:32,000
+identify the source
+of this shadow.
+
+502
+00:30:32,041 --> 00:30:34,250
+There is no object
+in the program
+
+503
+00:30:34,291 --> 00:30:36,959
+which could generate the shadow.
+
+504
+00:30:37,000 --> 00:30:39,917
+(<i> sighs</i> ) There...
+
+505
+00:30:39,959 --> 00:30:42,083
+there has to be
+
+506
+00:30:42,125 --> 00:30:45,834
+something between...
+
+507
+00:30:45,875 --> 00:30:49,000
+the camera light
+and this wall.
+
+508
+00:30:54,166 --> 00:30:56,709
+Computer,
+
+509
+00:30:56,750 --> 00:30:59,083
+given the distance
+
+510
+00:30:59,125 --> 00:31:01,291
+between the light and the wall
+
+511
+00:31:01,333 --> 00:31:03,709
+can you determine
+
+512
+00:31:03,750 --> 00:31:07,709
+the most likely shape
+and position
+
+513
+00:31:07,750 --> 00:31:10,333
+of the object
+causing this shadow?
+
+514
+00:31:10,375 --> 00:31:11,583
+There is insufficient data
+
+515
+00:31:11,625 --> 00:31:14,750
+to reconstruct
+the requested object.
+
+516
+00:31:16,291 --> 00:31:18,542
+(<i> groaning</i> )
+All right.
+
+517
+00:31:21,583 --> 00:31:25,000
+Let's say
+that my friend and I here
+
+518
+00:31:25,041 --> 00:31:26,375
+are about the same size...
+
+519
+00:31:26,417 --> 00:31:29,291
+say...
+
+520
+00:31:29,333 --> 00:31:31,625
+1.7 meters.
+
+521
+00:31:31,667 --> 00:31:33,834
+Now can you extrapolate
+its shape
+
+522
+00:31:33,875 --> 00:31:37,000
+and its position?
+
+523
+00:31:37,041 --> 00:31:38,500
+Affirmative.
+
+524
+00:31:38,542 --> 00:31:39,875
+Do it.
+
+525
+00:31:54,333 --> 00:31:57,834
+(<i> pained gasping</i> )
+
+526
+00:32:29,250 --> 00:32:31,542
+BEVERLY:
+There-- in the thymus.
+
+527
+00:32:38,417 --> 00:32:40,125
+Some sort of parasite.
+
+528
+00:32:42,125 --> 00:32:45,291
+It's using
+Susanna's immune system
+
+529
+00:32:45,333 --> 00:32:48,000
+to spread
+genetic instructions.
+
+530
+00:32:48,041 --> 00:32:49,917
+How did it get there?
+
+531
+00:32:49,959 --> 00:32:52,917
+She could have been infected
+during the original mission.
+
+532
+00:32:52,959 --> 00:32:54,375
+It's small enough to have
+entered through any
+
+533
+00:32:54,417 --> 00:32:55,709
+of the mucous membranes.
+
+534
+00:32:58,417 --> 00:33:01,375
+But it certainly isn't behaving
+like a typical parasite.
+
+535
+00:33:01,417 --> 00:33:03,250
+It isn't feeding off of her.
+
+536
+00:33:03,291 --> 00:33:06,583
+It's transforming her DNA
+to match its own.
+
+537
+00:33:06,625 --> 00:33:08,875
+There's not much
+of her original DNA left.
+
+538
+00:33:08,917 --> 00:33:11,625
+And we're going to need
+unaltered genes
+
+539
+00:33:11,667 --> 00:33:14,458
+or we're never
+going to get her back.
+
+540
+00:33:14,500 --> 00:33:16,875
+We've got to get that thing
+out of her now.
+
+541
+00:33:16,917 --> 00:33:19,208
+(<i> machine whirring</i> )
+
+542
+00:33:34,250 --> 00:33:35,542
+Any luck?
+
+543
+00:33:35,583 --> 00:33:37,166
+Negative, Commander.
+Nothing in our survey
+
+544
+00:33:37,208 --> 00:33:39,917
+suggests the source
+of a parasitic infection.
+
+545
+00:33:39,959 --> 00:33:41,166
+Crusher to Bridge.
+
+546
+00:33:41,208 --> 00:33:42,458
+Go ahead, Doctor.
+
+547
+00:33:42,500 --> 00:33:44,333
+The surgery was successful
+
+548
+00:33:44,375 --> 00:33:46,083
+but it's going to be
+a few more hours
+
+549
+00:33:46,125 --> 00:33:47,959
+before we know whether
+her regenerative systems
+
+550
+00:33:48,000 --> 00:33:49,417
+are responding.
+
+551
+00:33:49,458 --> 00:33:50,750
+In the mean time,
+we'd better get
+
+552
+00:33:50,792 --> 00:33:52,959
+Commander La Forge
+down here.
+
+553
+00:33:53,000 --> 00:33:55,125
+PICARD:
+Very well, Doctor.
+Keep us informed.
+
+554
+00:33:55,166 --> 00:33:57,000
+Crusher to La Forge.
+
+555
+00:33:58,458 --> 00:34:01,041
+Computer,
+locate Commander La Forge.
+
+556
+00:34:01,083 --> 00:34:04,291
+Commander La Forge is not
+on board the<i> Enterprise.</i>
+
+557
+00:34:04,333 --> 00:34:06,542
+Bridge, the computer
+
+558
+00:34:06,583 --> 00:34:08,333
+says Commander La Forge
+is no longer on board.
+
+559
+00:34:08,375 --> 00:34:09,500
+Is that correct?
+
+560
+00:34:09,542 --> 00:34:11,792
+I am showing
+no transporter activity.
+
+561
+00:34:13,792 --> 00:34:15,542
+All shuttles are secure.
+
+562
+00:34:15,583 --> 00:34:17,250
+Negative, there is no indication
+that he's left the ship.
+
+563
+00:34:17,291 --> 00:34:18,500
+Computer, what was the last
+known location
+
+564
+00:34:18,542 --> 00:34:19,750
+of Commander La Forge?
+
+565
+00:34:19,792 --> 00:34:21,125
+Holodeck Three.
+
+566
+00:34:21,166 --> 00:34:23,834
+BEVERLY: Captain,
+if Geordi has transformed
+
+567
+00:34:23,875 --> 00:34:25,166
+he may be virtually a chameleon.
+
+568
+00:34:25,208 --> 00:34:28,083
+The skin develops
+mimetic capabilities.
+
+569
+00:34:28,125 --> 00:34:32,250
+He may still be on board,
+but undetectable to our sensors.
+
+570
+00:34:42,917 --> 00:34:43,875
+You search the structure.
+
+571
+00:34:43,917 --> 00:34:45,208
+I will take the perimeter.
+
+572
+00:34:58,917 --> 00:35:00,875
+Commander...
+
+573
+00:35:00,917 --> 00:35:03,041
+Geordi's uniform.
+
+574
+00:35:15,542 --> 00:35:17,458
+Security,
+we have an intruder
+
+575
+00:35:17,500 --> 00:35:19,959
+in Transporter Room Six...
+
+576
+00:35:23,375 --> 00:35:25,041
+Captain, the security lockout
+
+577
+00:35:25,083 --> 00:35:27,458
+on Transporter Room Six
+has been broken.
+
+578
+00:35:27,500 --> 00:35:29,417
+Re-engage now.
+
+579
+00:35:29,458 --> 00:35:30,750
+I cannot, sir.
+
+580
+00:35:30,792 --> 00:35:32,750
+The transporter cycle
+has already begun.
+
+581
+00:35:43,875 --> 00:35:47,542
+<i>Captain's Log,</i>
+<i>Stardate 44668.1.</i>
+
+582
+00:35:47,583 --> 00:35:49,375
+<i>Dr. Crusher's research</i>
+<i>indicates</i>
+
+583
+00:35:49,417 --> 00:35:50,792
+<i>that we have less than an hour</i>
+
+584
+00:35:50,834 --> 00:35:53,125
+<i>before Commander La Forge's</i>
+<i>transformation</i>
+
+585
+00:35:53,166 --> 00:35:55,000
+<i>becomes irreversible.</i>
+
+586
+00:35:55,041 --> 00:35:58,667
+<i>However, all attempts to locate</i>
+<i>him on the surface have failed.</i>
+
+587
+00:36:03,583 --> 00:36:05,709
+I do not read any life signs
+on the surface.
+
+588
+00:36:08,417 --> 00:36:10,291
+Our sensor array
+is useless.
+
+589
+00:36:10,333 --> 00:36:12,125
+We must find some other way
+of locating him.
+
+590
+00:36:12,166 --> 00:36:14,583
+Captain, if we can get
+close enough to Geordi,
+
+591
+00:36:14,625 --> 00:36:16,375
+we can read
+his absorption spectrum
+
+592
+00:36:16,417 --> 00:36:18,041
+with an ultraviolet light.
+
+593
+00:36:18,083 --> 00:36:20,208
+Can you modify an
+emergency beacon
+
+594
+00:36:20,250 --> 00:36:21,291
+to operate on U.V.?
+
+595
+00:36:21,333 --> 00:36:23,333
+Yes, sir.
+PICARD:
+Make it so.
+
+596
+00:36:23,375 --> 00:36:24,792
+Number One,
+as soon as Data is ready
+
+597
+00:36:24,834 --> 00:36:26,625
+I want you to lead
+an away team.
+
+598
+00:36:26,667 --> 00:36:28,083
+Aye, sir.
+
+599
+00:36:30,208 --> 00:36:33,333
+(<i> crew murmur</i> )
+
+600
+00:36:51,041 --> 00:36:52,125
+How long, Data?
+
+601
+00:36:52,166 --> 00:36:53,792
+I must replace
+the emitter module
+
+602
+00:36:53,834 --> 00:36:55,834
+and reconnect
+the power supply.
+
+603
+00:36:55,875 --> 00:36:57,750
+It will take approximately
+two minutes
+
+604
+00:36:57,792 --> 00:36:59,417
+to complete
+the modifications, sir.
+
+605
+00:36:59,458 --> 00:37:00,834
+Hedrick to Commander Riker.
+
+606
+00:37:00,875 --> 00:37:01,875
+Go ahead.
+
+607
+00:37:01,917 --> 00:37:03,041
+I've been able to determine
+
+608
+00:37:03,083 --> 00:37:04,709
+La Forge's transport
+coordinates.
+
+609
+00:37:04,750 --> 00:37:07,417
+He beamed down
+next to the<i> Aries</i> shuttle.
+
+610
+00:37:07,458 --> 00:37:08,792
+Acknowledged.
+
+611
+00:37:10,083 --> 00:37:11,875
+He's on foot.
+He couldn't have gotten too far.
+
+612
+00:37:11,917 --> 00:37:15,291
+Let's assume a radius
+of ten kilometers.
+
+613
+00:37:15,333 --> 00:37:17,083
+That still leaves
+a search area
+
+614
+00:37:17,125 --> 00:37:19,375
+of more than 300
+square kilometers.
+
+615
+00:37:19,417 --> 00:37:21,583
+We've got to narrow that down.
+
+616
+00:37:21,625 --> 00:37:23,875
+What's happening
+with the enhanced sensor arrays?
+
+617
+00:37:23,917 --> 00:37:25,583
+All scans are still negative.
+
+618
+00:37:25,625 --> 00:37:29,125
+We've got to find a way to
+track him.
+
+619
+00:37:29,166 --> 00:37:31,000
+What about
+the high-resolution E.M. scan?
+
+620
+00:37:31,041 --> 00:37:32,458
+We are adjusting sensors
+
+621
+00:37:32,500 --> 00:37:34,875
+to read Commander La Forge's
+absorption spectrum,
+
+622
+00:37:34,917 --> 00:37:37,000
+but it will take
+several hours.
+
+623
+00:37:37,041 --> 00:37:38,917
+Geordi doesn't have
+several hours.
+
+624
+00:37:38,959 --> 00:37:41,333
+I have completed
+modifications, Commander.
+
+625
+00:37:41,375 --> 00:37:42,959
+Excellent.
+Dr. Crusher,
+
+626
+00:37:43,000 --> 00:37:44,875
+meet us in Transporter
+Room Six immediately.
+
+627
+00:37:47,333 --> 00:37:48,625
+He's going to need
+a sedative.
+
+628
+00:37:48,667 --> 00:37:50,750
+Give me ten ccs
+of kayolane.
+
+629
+00:37:50,792 --> 00:37:52,125
+Dr. Crusher...
+
+630
+00:37:58,667 --> 00:38:01,333
+Say, you look better
+than you did an hour ago.
+
+631
+00:38:01,375 --> 00:38:02,875
+What did you do?
+
+632
+00:38:02,917 --> 00:38:05,667
+We've removed some kind of
+parasite from your thymus.
+
+633
+00:38:05,709 --> 00:38:08,041
+No, no, no, it's not
+a parasite, doctor.
+
+634
+00:38:08,083 --> 00:38:10,291
+It was their method
+of reproduction
+
+635
+00:38:10,333 --> 00:38:12,834
+to plant a DNA strand
+in a living host
+
+636
+00:38:12,875 --> 00:38:15,709
+that causes a metamorphosis.
+
+637
+00:38:15,750 --> 00:38:17,041
+Geordi?
+
+638
+00:38:18,125 --> 00:38:19,208
+He's gone?
+Yes.
+
+639
+00:38:19,250 --> 00:38:20,625
+He's gone back
+to the planet?
+
+640
+00:38:20,667 --> 00:38:22,250
+Try to stay calm.
+No but, we have to find him.
+
+641
+00:38:22,291 --> 00:38:24,208
+An away team is preparing
+to search for him.
+
+642
+00:38:24,250 --> 00:38:26,375
+No, you'll never be able
+to find him.
+
+643
+00:38:26,417 --> 00:38:27,917
+I'm the only one who can.
+
+644
+00:38:45,500 --> 00:38:46,750
+No you must
+turn them off.
+
+645
+00:38:46,792 --> 00:38:47,875
+The light frightens them.
+
+646
+00:38:47,917 --> 00:38:49,083
+What about the ultraviolet?
+
+647
+00:38:49,125 --> 00:38:50,875
+That's beyond their
+visual spectrum.
+
+648
+00:38:50,917 --> 00:38:52,500
+They won't
+run away from it.
+
+649
+00:38:54,125 --> 00:38:55,875
+He could be
+several kilometers away by now.
+
+650
+00:38:55,917 --> 00:38:59,125
+SUSANNA:
+No, he's here.
+They're all here.
+
+651
+00:39:18,709 --> 00:39:20,041
+There.
+
+652
+00:39:30,208 --> 00:39:31,792
+Geordi?
+
+653
+00:39:33,375 --> 00:39:34,959
+Geordi, stop.
+
+654
+00:39:44,000 --> 00:39:45,792
+No, wait.
+
+655
+00:40:12,792 --> 00:40:13,750
+Geordi?
+
+656
+00:40:13,792 --> 00:40:15,917
+Geordi, my voice
+is familiar.
+
+657
+00:40:15,959 --> 00:40:17,291
+Listen to it.
+
+658
+00:40:17,333 --> 00:40:20,291
+You can feel
+that we share this.
+
+659
+00:40:20,333 --> 00:40:22,166
+You know
+I'm not a threat.
+
+660
+00:40:23,333 --> 00:40:24,834
+The others--
+
+661
+00:40:24,875 --> 00:40:27,750
+Mendez, Brevelle--
+
+662
+00:40:27,792 --> 00:40:30,125
+they don't exist
+as humans anymore
+
+663
+00:40:30,166 --> 00:40:32,166
+but a part of you
+still does.
+
+664
+00:40:34,208 --> 00:40:37,625
+You're not one
+of them yet, Geordi.
+
+665
+00:40:37,667 --> 00:40:40,166
+I can help you
+if you'll just trust me.
+
+666
+00:40:41,542 --> 00:40:43,667
+I know what's going on
+inside of you.
+
+667
+00:40:45,083 --> 00:40:47,417
+The war you're fighting
+with yourself.
+
+668
+00:40:48,625 --> 00:40:50,500
+Your humanity slipping away.
+
+669
+00:40:51,667 --> 00:40:54,375
+The instinct to run--
+
+670
+00:40:54,417 --> 00:40:56,959
+it's overpowering,
+
+671
+00:40:57,000 --> 00:41:00,500
+but they know
+how to beat it now, Geordi.
+
+672
+00:41:00,542 --> 00:41:01,875
+Look at me.
+
+673
+00:41:11,500 --> 00:41:13,792
+I've come back,
+Geordi.
+
+674
+00:41:22,458 --> 00:41:24,542
+Let me take you back too.
+
+675
+00:41:39,000 --> 00:41:41,375
+Just take my hand.
+
+676
+00:41:58,333 --> 00:42:00,792
+Please.
+
+677
+00:42:18,333 --> 00:42:19,625
+Crusher to<i> Enterprise.</i>
+
+678
+00:42:19,667 --> 00:42:21,250
+Lock onto
+Commander Leijten's signal.
+
+679
+00:42:21,291 --> 00:42:23,583
+Prepare to beam two
+directly to Sick Bay.
+
+680
+00:42:24,667 --> 00:42:26,792
+We're going home,
+Geordi.
+
+681
+00:42:39,083 --> 00:42:41,750
+Is there no hope
+for Brevelle or Mendez?
+
+682
+00:42:41,792 --> 00:42:43,083
+None.
+
+683
+00:42:49,250 --> 00:42:50,208
+Susanna...
+
+684
+00:42:50,250 --> 00:42:51,750
+I'm right here, Geordi
+
+685
+00:42:51,792 --> 00:42:55,667
+and so are Dr. Crusher
+and Captain Picard.
+
+686
+00:42:55,709 --> 00:42:57,542
+Here's your VISOR,
+Geordi.
+
+687
+00:43:12,709 --> 00:43:16,083
+Lieutenant Commander La Forge
+reporting for duty, Captain.
+
+688
+00:43:16,125 --> 00:43:18,500
+Welcome back, Mr. La Forge.
+
+689
+00:43:18,542 --> 00:43:21,458
+BEVERLY:
+Geordi, this species...
+
+690
+00:43:21,500 --> 00:43:23,000
+can you communicate
+with it?
+
+691
+00:43:23,041 --> 00:43:24,250
+No.
+
+692
+00:43:24,291 --> 00:43:27,834
+They act on instinct alone.
+
+693
+00:43:30,750 --> 00:43:33,834
+In another few minutes,
+I wouldn't have...
+
+694
+00:43:33,875 --> 00:43:35,834
+responded to you, Susanna.
+
+695
+00:43:35,875 --> 00:43:37,959
+PICARD:
+Then we will leave them be.
+
+696
+00:43:38,000 --> 00:43:39,959
+I'll order warning beacons
+placed in orbit
+
+697
+00:43:40,000 --> 00:43:41,667
+and on the surface.
+
+698
+00:43:41,709 --> 00:43:44,500
+Hopefully, no one else will have
+to go through what you did.
+
+699
+00:43:49,542 --> 00:43:53,542
+You know, down there, I...
+
+700
+00:43:55,083 --> 00:43:57,417
+I didn't know who you were
+
+701
+00:43:57,458 --> 00:44:00,208
+and yet...
+
+702
+00:44:00,250 --> 00:44:03,667
+somehow...
+
+703
+00:44:03,709 --> 00:44:05,792
+I believed you.
+
+704
+00:44:05,834 --> 00:44:07,875
+I trusted you.
+
+705
+00:44:07,917 --> 00:44:09,417
+That must have
+been because of all
+
+706
+00:44:09,458 --> 00:44:13,083
+the good advice
+I used to give you.
+
+707
+00:44:16,208 --> 00:44:18,375
+Thanks.

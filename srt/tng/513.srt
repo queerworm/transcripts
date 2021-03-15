@@ -1,0 +1,3881 @@
+1
+00:00:01,917 --> 00:00:05,166
+<i>Captain's Log,</i>
+<i>Stardate 45470.1:</i>
+
+2
+00:00:05,166 --> 00:00:07,875
+<i>The</i> Enterprise<i> has been</i>
+<i>diverted to the Moab sector</i>
+
+3
+00:00:07,875 --> 00:00:09,959
+<i>to track</i>
+<i>a stellar core fragment</i>
+
+4
+00:00:09,959 --> 00:00:12,250
+<i>of a disintegrated</i>
+<i>neutron star.</i>
+
+5
+00:00:12,250 --> 00:00:14,041
+<i>Our science teams</i>
+<i>have been asked to monitor</i>
+
+6
+00:00:14,041 --> 00:00:17,417
+<i>the planetary disruptions</i>
+<i>it may cause.</i>
+
+7
+00:00:17,417 --> 00:00:19,125
+We've got a problem.
+
+8
+00:00:19,125 --> 00:00:22,250
+Our core fragment is going to
+pass by Moab IV in six days.
+
+9
+00:00:22,250 --> 00:00:24,333
+Isn't that exactly
+what we anticipated?
+
+10
+00:00:24,333 --> 00:00:26,875
+We didn't anticipate there
+would be someone living there.
+
+11
+00:00:26,875 --> 00:00:28,917
+An artificial environment
+has been constructed
+
+12
+00:00:28,917 --> 00:00:30,458
+on the southern
+continent, sir.
+
+13
+00:00:30,458 --> 00:00:32,041
+You've definitely
+established
+
+14
+00:00:32,041 --> 00:00:33,709
+that there is
+someone inside it?
+
+15
+00:00:33,709 --> 00:00:35,875
+Yes, Captain, sensors are
+reading human life-forms.
+
+16
+00:00:35,875 --> 00:00:37,375
+Human?
+
+17
+00:00:37,375 --> 00:00:38,750
+Are they responding
+to our hails, Mr. Worf?
+
+18
+00:00:38,750 --> 00:00:40,500
+Negative, sir.
+
+19
+00:00:40,500 --> 00:00:44,041
+Any starships reported missing
+in this sector, Mr. Data?
+
+20
+00:00:44,041 --> 00:00:45,709
+No, sir.
+
+21
+00:00:45,709 --> 00:00:48,375
+How the hell did they find
+themselves on a deserted planet?
+
+22
+00:00:48,375 --> 00:00:50,417
+LA FORGE: I'm pretty sure
+they know we're here.
+
+23
+00:00:50,417 --> 00:00:52,083
+Mr. La Forge?
+
+24
+00:00:52,083 --> 00:00:54,625
+Our sensors are picking up
+deep E-M readings.
+
+25
+00:00:54,625 --> 00:00:57,542
+Looks like wave patterns from
+an obsolete subspace relay.
+
+26
+00:00:57,542 --> 00:00:59,417
+Which would suggest
+they also have the ability
+
+27
+00:00:59,417 --> 00:01:01,333
+to communicate with us.
+
+28
+00:01:01,333 --> 00:01:03,166
+Mr. Worf, open the lower
+band frequencies
+
+29
+00:01:03,166 --> 00:01:04,917
+most commonly used
+in the last century.
+
+30
+00:01:07,041 --> 00:01:08,667
+Channel open.
+
+31
+00:01:08,667 --> 00:01:12,375
+This is Captain
+Jean-Luc Picard
+
+32
+00:01:12,375 --> 00:01:16,041
+of the Federation starship
+<i>Enterprise.</i>
+
+33
+00:01:16,041 --> 00:01:18,625
+It is urgent
+that you respond.
+
+34
+00:01:20,208 --> 00:01:22,542
+Sir, the defensive shield
+around the structure
+
+35
+00:01:22,542 --> 00:01:24,166
+is increasing strength.
+
+36
+00:01:24,166 --> 00:01:26,375
+Not exactly
+a welcome mat.
+
+37
+00:01:26,375 --> 00:01:29,000
+We mean you no harm.
+
+38
+00:01:29,000 --> 00:01:30,500
+We must warn you
+
+39
+00:01:30,500 --> 00:01:33,125
+that your planet
+is about to experience
+
+40
+00:01:33,125 --> 00:01:35,375
+massive seismic disruptions
+
+41
+00:01:35,375 --> 00:01:38,375
+due to an approaching
+stellar core fragment.
+
+42
+00:01:38,375 --> 00:01:41,291
+No structure will be able
+to withstand them.
+
+43
+00:01:44,792 --> 00:01:46,500
+They are responding.
+
+44
+00:01:46,500 --> 00:01:48,375
+PICARD:
+On screen.
+
+45
+00:01:48,375 --> 00:01:51,500
+<i>Enterprise,</i> 
+I am Aaron Conor.
+
+46
+00:01:51,500 --> 00:01:54,458
+PICARD:
+Mr. Conor, we were unaware
+
+47
+00:01:54,458 --> 00:01:56,750
+that there were human colonies
+in this system.
+
+48
+00:01:56,750 --> 00:01:59,000
+I don't want to be rude,
+Captain,
+
+49
+00:01:59,000 --> 00:02:01,667
+but we don't wish
+to interact with outsiders.
+
+50
+00:02:01,667 --> 00:02:04,208
+I'm only responding
+because of your warning.
+
+51
+00:02:04,208 --> 00:02:07,208
+The fragment will have
+serious effects
+
+52
+00:02:07,208 --> 00:02:09,333
+on your planet
+within six days.
+
+53
+00:02:09,333 --> 00:02:11,291
+Yes, I know.
+We have been tracking it.
+
+54
+00:02:11,291 --> 00:02:13,500
+But our biosphere
+is constructed
+
+55
+00:02:13,500 --> 00:02:16,875
+to withstand quakes of 8.7
+on the Richter scale.
+
+56
+00:02:16,875 --> 00:02:18,166
+Mr. Data?
+
+57
+00:02:18,166 --> 00:02:19,834
+The fragment has a density
+
+58
+00:02:19,834 --> 00:02:23,208
+of 100 billion kilograms
+per cubic centimeter.
+
+59
+00:02:23,208 --> 00:02:25,750
+As a result,
+when it passes Moab IV,
+
+60
+00:02:25,750 --> 00:02:27,875
+it will cause
+tectonic shifts
+
+61
+00:02:27,875 --> 00:02:30,667
+well beyond 8.7
+on the Richter scale.
+
+62
+00:02:30,667 --> 00:02:33,000
+I'm afraid we are going to have
+to evacuate your people.
+
+63
+00:02:33,000 --> 00:02:35,750
+Evacuate?
+That is not possible.
+
+64
+00:02:35,750 --> 00:02:37,792
+There must be an alternative.
+
+65
+00:02:37,792 --> 00:02:39,417
+Well, we will
+gladly explore
+
+66
+00:02:39,417 --> 00:02:41,417
+the possibility of it
+with you Mr. Conor.
+
+67
+00:02:41,417 --> 00:02:43,542
+Would you like to
+come aboard to discuss it?
+
+68
+00:02:43,542 --> 00:02:45,500
+Our environment is sealed.
+
+69
+00:02:45,500 --> 00:02:47,583
+No one can get in or out.
+
+70
+00:02:47,583 --> 00:02:51,166
+We are capable of
+matter/energy transport.
+
+71
+00:02:51,166 --> 00:02:53,166
+Matter/energy?
+
+72
+00:02:53,166 --> 00:02:56,000
+We can take you directly
+through the structure.
+
+73
+00:02:56,000 --> 00:02:58,166
+Really?
+
+74
+00:02:58,166 --> 00:03:00,166
+That's quite remarkable.
+
+75
+00:03:00,166 --> 00:03:02,166
+May we arrange
+for your transport?
+
+76
+00:03:02,166 --> 00:03:05,166
+No. I must remain here.
+
+77
+00:03:05,166 --> 00:03:08,125
+But under the circumstances,
+
+78
+00:03:08,125 --> 00:03:10,041
+I will permit
+a small delegation
+
+79
+00:03:10,041 --> 00:03:12,333
+from your ship
+inside the biosphere,
+
+80
+00:03:12,333 --> 00:03:14,667
+if only to see this
+
+81
+00:03:14,667 --> 00:03:16,375
+matter/energy transportation
+you speak of.
+
+82
+00:03:16,375 --> 00:03:18,041
+PICARD: Very good.
+
+83
+00:03:18,041 --> 00:03:20,875
+Commander Riker and an away team
+will be with you shortly.
+
+84
+00:03:20,875 --> 00:03:22,333
+Picard out.
+
+85
+00:03:27,250 --> 00:03:28,959
+This is a mistake, Aaron.
+
+86
+00:03:28,959 --> 00:03:31,250
+Good Lord, Martin,
+what would you have me do?
+
+87
+00:03:31,250 --> 00:03:33,417
+Anything that would
+keep them out of here.
+
+88
+00:03:33,417 --> 00:03:34,792
+We have nothing to hide.
+
+89
+00:03:34,792 --> 00:03:37,375
+We have a great deal
+to lose.
+
+90
+00:03:38,875 --> 00:03:40,542
+What is that?
+It's them.
+
+91
+00:03:40,542 --> 00:03:43,125
+Look at this, Martin.
+
+92
+00:03:45,083 --> 00:03:46,750
+Incredible.
+
+93
+00:04:20,375 --> 00:04:24,709
+<i>Space... the final frontier.</i>
+
+94
+00:04:24,709 --> 00:04:28,792
+<i>These are the voyages</i>
+<i>of the starship</i> Enterprise.
+
+95
+00:04:28,792 --> 00:04:30,875
+<i>Its continuing mission--</i>
+
+96
+00:04:30,875 --> 00:04:34,375
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+97
+00:04:34,375 --> 00:04:38,792
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+98
+00:04:38,792 --> 00:04:43,333
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+99
+00:05:40,041 --> 00:05:41,834
+TROI:
+It's lovely.
+
+100
+00:05:41,834 --> 00:05:45,208
+I can understand why you're
+reluctant to leave, Mr. Conor.
+
+101
+00:05:45,208 --> 00:05:47,166
+Not just reluctant,
+Ms. Troi,
+
+102
+00:05:47,166 --> 00:05:48,792
+it is imperative
+that we remain.
+
+103
+00:05:48,792 --> 00:05:50,834
+It would be suicide
+to evacuate.
+
+104
+00:05:50,834 --> 00:05:53,083
+It would destroy
+everything we have worked
+
+105
+00:05:53,083 --> 00:05:54,834
+for two centuries
+to accomplish.
+
+106
+00:05:54,834 --> 00:05:56,959
+You see this is
+an engineered society.
+
+107
+00:05:56,959 --> 00:05:59,709
+Engineered?
+Genetically engineered.
+
+108
+00:05:59,709 --> 00:06:03,542
+Our ancestors came from Earth
+to create a perfect society.
+
+109
+00:06:03,542 --> 00:06:06,625
+They believed that through
+controlled procreation,
+
+110
+00:06:06,625 --> 00:06:08,917
+they could create
+people without flaws
+
+111
+00:06:08,917 --> 00:06:11,875
+and those people
+would build a paradise.
+
+112
+00:06:11,875 --> 00:06:14,291
+All of you have been
+selectively bred?
+
+113
+00:06:14,291 --> 00:06:16,750
+Your DNA patterns chosen?
+
+114
+00:06:16,750 --> 00:06:18,417
+Eight generations of us.
+
+115
+00:06:18,417 --> 00:06:22,333
+We have immeasurably extended
+the potential of humanity--
+
+116
+00:06:22,333 --> 00:06:25,291
+physically, psychologically.
+
+117
+00:06:25,291 --> 00:06:27,792
+We have evolved beyond...
+
+118
+00:06:27,792 --> 00:06:31,083
+beyond...
+beyond us.
+
+119
+00:06:31,083 --> 00:06:33,834
+Frankly, yes.
+
+120
+00:06:33,834 --> 00:06:37,625
+No one in this society
+would be blind, for example.
+
+121
+00:06:37,625 --> 00:06:39,291
+No offense intended.
+
+122
+00:06:39,291 --> 00:06:41,542
+I can see you just fine, sir.
+
+123
+00:06:41,542 --> 00:06:45,166
+Yes, well,
+my point was just...
+
+124
+00:06:45,166 --> 00:06:46,458
+Thank you, Martin.
+
+125
+00:06:46,458 --> 00:06:47,917
+Perhaps you've also
+made it clear
+
+126
+00:06:47,917 --> 00:06:49,542
+there are still
+a few imperfections
+
+127
+00:06:49,542 --> 00:06:51,750
+we're working on.
+
+128
+00:06:51,750 --> 00:06:53,583
+For the most part,
+
+129
+00:06:53,583 --> 00:06:55,709
+we have achieved
+a fully integrated existence,
+
+130
+00:06:55,709 --> 00:06:59,291
+not just among ourselves,
+but with our environment.
+
+131
+00:06:59,291 --> 00:07:02,333
+We don't just live here,
+we're a part of our environment.
+
+132
+00:07:02,333 --> 00:07:03,917
+It is part of us.
+
+133
+00:07:03,917 --> 00:07:07,583
+Every plant life,
+every microscopic life-form
+
+134
+00:07:07,583 --> 00:07:10,083
+is a part
+of the master design.
+
+135
+00:07:10,083 --> 00:07:12,458
+We cannot separate
+ourselves from it
+
+136
+00:07:12,458 --> 00:07:15,583
+without irreparably altering
+who and what we are.
+
+137
+00:07:15,583 --> 00:07:18,583
+Your presence here
+has already begun to affect
+
+138
+00:07:18,583 --> 00:07:20,625
+the entire balance
+of our society.
+
+139
+00:07:20,625 --> 00:07:22,333
+If we don't survive,
+
+140
+00:07:22,333 --> 00:07:24,583
+the balance
+of our society
+
+141
+00:07:24,583 --> 00:07:27,709
+won't mean a great deal,
+will it?
+
+142
+00:07:32,166 --> 00:07:34,125
+I apologize,
+
+143
+00:07:34,125 --> 00:07:36,375
+but he is performing
+his function
+
+144
+00:07:36,375 --> 00:07:37,834
+as he is designed to do.
+
+145
+00:07:37,834 --> 00:07:39,834
+LA FORGE:
+And what function might that be?
+
+146
+00:07:39,834 --> 00:07:42,875
+CONOR: He is the interpreter
+of our founders' intentions
+
+147
+00:07:42,875 --> 00:07:44,291
+for the society.
+
+148
+00:07:44,291 --> 00:07:46,458
+A judge.
+Yes. More or less.
+
+149
+00:07:46,458 --> 00:07:49,417
+Obviously, he has
+no diplomatic talents.
+
+150
+00:07:49,417 --> 00:07:51,583
+And obviously,
+you do.
+
+151
+00:07:53,625 --> 00:07:57,333
+CONOR:
+I have been bred to fill
+this specific role.
+
+152
+00:07:57,333 --> 00:08:01,291
+We grow up knowing exactly
+what our society needs from us,
+
+153
+00:08:01,291 --> 00:08:03,208
+what we are expected to do.
+
+154
+00:08:03,208 --> 00:08:06,834
+RIKER: That must take some
+of the fun out of it.
+Not at all.
+
+155
+00:08:06,834 --> 00:08:08,542
+My entire
+psychological makeup
+
+156
+00:08:08,542 --> 00:08:10,250
+tells me that
+I was born to lead.
+
+157
+00:08:10,250 --> 00:08:12,709
+I am exactly what
+I would choose to be.
+
+158
+00:08:12,709 --> 00:08:14,709
+Think of it another way.
+
+159
+00:08:14,709 --> 00:08:16,417
+Are there still people
+in your society
+
+160
+00:08:16,417 --> 00:08:18,542
+who have not yet discovered
+who they really are
+
+161
+00:08:18,542 --> 00:08:20,875
+or what they were meant
+to do with their lives?
+
+162
+00:08:20,875 --> 00:08:22,834
+They may be
+in the wrong job.
+
+163
+00:08:22,834 --> 00:08:25,583
+They may be writing
+bad poetry. 
+
+164
+00:08:25,583 --> 00:08:28,375
+Or worse yet,
+they may be great poets
+
+165
+00:08:28,375 --> 00:08:31,000
+working as laborers,
+never to be discovered.
+
+166
+00:08:31,000 --> 00:08:33,458
+That does not happen here.
+
+167
+00:08:33,458 --> 00:08:36,500
+It is, for us,
+an ideal existence
+
+168
+00:08:36,500 --> 00:08:39,500
+and we will not
+give it up easily.
+
+169
+00:08:39,500 --> 00:08:44,208
+We will do whatever we can
+to help you preserve it.
+
+170
+00:08:59,542 --> 00:09:01,000
+Hannah, I'd like you
+to meet our guests.
+
+171
+00:09:01,000 --> 00:09:03,834
+Oh, yes, of course,
+from the starship.
+
+172
+00:09:03,834 --> 00:09:06,083
+I've been looking forward
+to speaking with you.
+
+173
+00:09:06,083 --> 00:09:08,250
+CONOR:
+Hannah Bates is
+one of our scientists.
+
+174
+00:09:08,250 --> 00:09:10,125
+If there's any way
+to sure up our defenses,
+
+175
+00:09:10,125 --> 00:09:11,667
+Hannah will find it.
+
+176
+00:09:11,667 --> 00:09:14,417
+She has a remarkable talent
+in theoretical physics.
+
+177
+00:09:14,417 --> 00:09:16,959
+I've worked up
+a few schematics
+
+178
+00:09:16,959 --> 00:09:19,041
+based on
+gravimetric potentials
+
+179
+00:09:19,041 --> 00:09:21,083
+and deflector
+energy allocation.
+
+180
+00:09:21,083 --> 00:09:23,458
+Geordi, Troi, and I will
+return to the<i> Enterprise.</i>
+
+181
+00:09:23,458 --> 00:09:25,875
+When you've reached a
+conclusion, you can contact us.
+
+182
+00:09:25,875 --> 00:09:28,000
+Commander,
+if Mr. Conor doesn't mind,
+
+183
+00:09:28,000 --> 00:09:30,542
+I'd like to stay and see
+more of his colony.
+
+184
+00:09:30,542 --> 00:09:33,041
+No, no.
+That would be fine.
+
+185
+00:09:33,041 --> 00:09:34,542
+I'd like you to see it.
+
+186
+00:09:34,542 --> 00:09:38,250
+Riker to<i> Enterprise.</i> 
+One to beam up.
+
+187
+00:09:38,250 --> 00:09:40,083
+ENSIGN:
+Acknowledged, Commander.
+
+188
+00:09:40,083 --> 00:09:41,917
+Energize.
+
+189
+00:09:47,959 --> 00:09:50,417
+Are you sure my being here
+
+190
+00:09:50,417 --> 00:09:53,250
+is not going to be...
+disruptive?
+
+191
+00:09:53,250 --> 00:09:54,834
+Disruptive?
+
+192
+00:09:54,834 --> 00:09:57,417
+You mean what
+Martin was saying?
+
+193
+00:09:57,417 --> 00:09:59,000
+Well, I certainly
+wouldn't wish
+
+194
+00:09:59,000 --> 00:10:01,667
+to throw off
+your entire<i> balance.</i>
+
+195
+00:10:01,667 --> 00:10:04,041
+Too late.
+The damage is done.
+
+196
+00:10:04,041 --> 00:10:05,667
+Seriously.
+
+197
+00:10:05,667 --> 00:10:08,417
+I sometimes think that
+strict interpreters like Martin
+
+198
+00:10:08,417 --> 00:10:10,375
+have forgotten
+we're still human.
+
+199
+00:10:10,375 --> 00:10:13,166
+We'll adjust,
+accommodate.
+
+200
+00:10:13,166 --> 00:10:15,458
+There must be other
+unexpected events
+
+201
+00:10:15,458 --> 00:10:17,250
+you have to deal with--
+
+202
+00:10:17,250 --> 00:10:20,375
+an untimely death,
+an accident.
+
+203
+00:10:20,375 --> 00:10:23,125
+Our geneticists
+are able to screen out
+
+204
+00:10:23,125 --> 00:10:25,750
+any congenital health risks
+before conception.
+
+205
+00:10:25,750 --> 00:10:28,959
+Our population
+is diverse enough
+
+206
+00:10:28,959 --> 00:10:30,750
+to maintain
+a genetic balance
+
+207
+00:10:30,750 --> 00:10:33,083
+in the event
+of accidental death,
+
+208
+00:10:33,083 --> 00:10:36,583
+but very little that is
+unexpected occurs here.
+
+209
+00:10:36,583 --> 00:10:39,458
+Am I making this sound
+incredibly dull?
+
+210
+00:10:39,458 --> 00:10:41,166
+Not at all.
+
+211
+00:10:41,166 --> 00:10:42,667
+I'll tell you the truth,
+
+212
+00:10:42,667 --> 00:10:44,750
+but I'll deny it
+if you tell Martin.
+
+213
+00:10:44,750 --> 00:10:46,834
+I found today exhilarating...
+
+214
+00:10:46,834 --> 00:10:49,709
+meeting you,
+
+215
+00:10:49,709 --> 00:10:52,583
+meeting new people
+with new ideas.
+
+216
+00:10:52,583 --> 00:10:55,875
+I feel the same
+about being here.
+
+217
+00:10:57,208 --> 00:10:59,417
+I'm something of
+a student of human nature
+
+218
+00:10:59,417 --> 00:11:01,875
+and I find this all
+fascinating.
+
+219
+00:11:01,875 --> 00:11:03,792
+A student of human nature?
+
+220
+00:11:03,792 --> 00:11:06,417
+I'm the ship's counselor.
+Ahh.
+
+221
+00:11:06,417 --> 00:11:09,083
+I'm afraid you wouldn't find
+much work here, Counselor.
+
+222
+00:11:09,083 --> 00:11:13,417
+I'd book my next vacation
+at your hotel if you had one.
+
+223
+00:11:13,417 --> 00:11:15,667
+Well, in that case,
+
+224
+00:11:15,667 --> 00:11:18,583
+I shall have to
+have them build one.
+
+225
+00:11:20,542 --> 00:11:22,959
+The biosphere's superstructure
+will never withstand
+
+226
+00:11:22,959 --> 00:11:24,583
+the tectonic shocks.
+
+227
+00:11:24,583 --> 00:11:26,709
+The environment
+would be compromised.
+
+228
+00:11:26,709 --> 00:11:28,792
+That's how I see it.
+
+229
+00:11:32,208 --> 00:11:35,333
+Your ship...
+
+230
+00:11:35,333 --> 00:11:38,709
+what kind of energy output
+is it capable of generating?
+
+231
+00:11:38,709 --> 00:11:41,458
+We have a matter/anti-matter
+warp reaction system--
+
+232
+00:11:41,458 --> 00:11:43,083
+the most powerful in Starfleet.
+
+233
+00:11:43,083 --> 00:11:45,166
+Normally kicks plasma up
+into the terawatt range.
+
+234
+00:11:45,166 --> 00:11:46,500
+Why?
+
+235
+00:11:46,500 --> 00:11:49,041
+Well, either we're
+going to have to move,
+
+236
+00:11:49,041 --> 00:11:51,917
+or that fragment is...
+(<i> chuckling</i> )
+
+237
+00:11:51,917 --> 00:11:54,208
+We can move a small moon
+or an asteroid,
+
+238
+00:11:54,208 --> 00:11:56,291
+but a stellar core fragment?
+
+239
+00:11:56,291 --> 00:11:58,667
+That's much too massive
+for our tractor beam.
+
+240
+00:12:09,333 --> 00:12:12,000
+What's that?
+A wild idea.
+
+241
+00:12:12,000 --> 00:12:14,250
+Purely theoretical.
+
+242
+00:12:17,208 --> 00:12:20,166
+A multi-phase tractor beam?
+
+243
+00:12:20,166 --> 00:12:22,375
+When we first spotted
+the fragment approaching,
+
+244
+00:12:22,375 --> 00:12:24,500
+I came up with the idea,
+
+245
+00:12:24,500 --> 00:12:27,041
+but we can't generate the kind
+of energy we would need.
+
+246
+00:12:30,917 --> 00:12:32,750
+You can.
+
+247
+00:12:36,667 --> 00:12:39,291
+LA FORGE:
+We'd need Hannah on the ship.
+MARTIN: No.
+
+248
+00:12:39,291 --> 00:12:41,250
+HANNAH: With my theories
+and their equipment,
+
+249
+00:12:41,250 --> 00:12:43,417
+we might be able to alter
+the fragment's path.
+
+250
+00:12:43,417 --> 00:12:46,583
+It's our only chance
+to avoid evacuation.
+
+251
+00:12:46,583 --> 00:12:48,583
+No one had ever come here
+
+252
+00:12:48,583 --> 00:12:51,375
+and no one had
+ever left until today.
+
+253
+00:12:51,375 --> 00:12:54,375
+This is a date to note
+in our history books.
+
+254
+00:12:54,375 --> 00:12:56,333
+This is in
+direct violation
+
+255
+00:12:56,333 --> 00:12:58,208
+of the intentions
+of our founders, Aaron.
+
+256
+00:12:58,208 --> 00:13:00,709
+I don't think they
+intended us to die, Martin.
+
+257
+00:13:00,709 --> 00:13:03,959
+Her absence will create
+an additional imbalance.
+
+258
+00:13:03,959 --> 00:13:05,333
+Temporarily.
+
+259
+00:13:05,333 --> 00:13:07,792
+Circumstances require us
+to be flexible.
+
+260
+00:13:07,792 --> 00:13:11,792
+We have no idea how molecular
+transport will affect her DNA.
+
+261
+00:13:11,792 --> 00:13:14,375
+It won't affect
+her DNA at all.
+
+262
+00:13:14,375 --> 00:13:17,291
+There's been over a century
+of evidence to prove that.
+
+263
+00:13:20,291 --> 00:13:22,208
+You can go, Hannah.
+
+264
+00:13:28,041 --> 00:13:30,625
+May I return later?
+
+265
+00:13:30,625 --> 00:13:32,667
+I look forward to it.
+
+266
+00:13:34,583 --> 00:13:37,959
+<i>Enterprise,</i> 
+three to beam up.
+
+267
+00:13:39,375 --> 00:13:41,458
+Energize.
+
+268
+00:13:52,458 --> 00:13:54,458
+<i>Captain's Log,</i>
+<i>supplemental:</i>
+
+269
+00:13:54,458 --> 00:13:57,208
+<i>Commander La Forge and Hannah</i>
+<i>Bates have spent three days</i>
+
+270
+00:13:57,208 --> 00:14:00,000
+<i>trying to find a way to adjust</i>
+<i>the path of the core fragment.</i>
+
+271
+00:14:00,000 --> 00:14:02,542
+<i>If they do not succeed</i>
+<i>in the next 48 hours,</i>
+
+272
+00:14:02,542 --> 00:14:04,542
+<i>we will need to</i>
+<i>begin evacuation.</i>
+
+273
+00:14:04,542 --> 00:14:07,375
+I believe some will choose
+to risk death
+
+274
+00:14:07,375 --> 00:14:09,709
+rather than leave, Captain.
+
+275
+00:14:09,709 --> 00:14:11,458
+You've spent a good deal
+of time on the surface.
+
+276
+00:14:11,458 --> 00:14:14,166
+How do you suggest
+we change their minds?
+
+277
+00:14:14,166 --> 00:14:16,625
+I'm not sure we can.
+
+278
+00:14:16,625 --> 00:14:20,750
+It would mean abandoning
+their fundamental way of life.
+
+279
+00:14:20,750 --> 00:14:22,667
+They've managed to turn
+
+280
+00:14:22,667 --> 00:14:25,875
+a dubious scientific
+endeavor into dogma.
+
+281
+00:14:25,875 --> 00:14:28,083
+You don't approve
+of genetic engineering.
+
+282
+00:14:28,083 --> 00:14:31,375
+It was a bad idea
+whose time has long passed.
+
+283
+00:14:31,375 --> 00:14:34,083
+They seem to have
+made it succeed.
+
+284
+00:14:37,458 --> 00:14:40,000
+They've given away
+their humanity with this
+
+285
+00:14:40,000 --> 00:14:42,750
+genetic manipulation.
+
+286
+00:14:42,750 --> 00:14:45,709
+Many of the qualities
+that they breed out--
+
+287
+00:14:45,709 --> 00:14:50,000
+the uncertainty,
+
+288
+00:14:50,000 --> 00:14:52,625
+self discovery,
+the unknown--
+
+289
+00:14:52,625 --> 00:14:56,083
+these are many of the qualities
+that make life worth living.
+
+290
+00:14:57,041 --> 00:14:59,625
+Well, at least to me.
+
+291
+00:14:59,625 --> 00:15:01,417
+I wouldn't want to
+live my life
+
+292
+00:15:01,417 --> 00:15:03,792
+knowing that my future
+was written,
+
+293
+00:15:03,792 --> 00:15:06,208
+that my boundaries
+had been already set.
+
+294
+00:15:06,208 --> 00:15:08,041
+Would you?
+
+295
+00:15:08,041 --> 00:15:12,125
+I've asked myself that question
+a lot during the past few days.
+
+296
+00:15:14,625 --> 00:15:17,125
+I don't know.
+
+297
+00:15:17,125 --> 00:15:18,875
+I doubt it.
+
+298
+00:15:18,875 --> 00:15:21,542
+Nevertheless,
+it's what they believe in,
+
+299
+00:15:21,542 --> 00:15:25,625
+and it won't be an easy matter
+to talk them into leaving.
+
+300
+00:15:25,625 --> 00:15:29,750
+This leader of theirs, Conor,
+he seems to be a reasonable man.
+
+301
+00:15:29,750 --> 00:15:32,959
+I find him very reasonable.
+
+302
+00:15:32,959 --> 00:15:35,125
+Open to suggestions,
+
+303
+00:15:35,125 --> 00:15:38,959
+thoughtful,
+quite disarming.
+
+304
+00:15:38,959 --> 00:15:41,500
+The perfect administrator.
+
+305
+00:15:41,500 --> 00:15:44,834
+I'm sure.
+
+306
+00:15:44,834 --> 00:15:47,333
+Will he leave when he sees
+there's no other choice?
+
+307
+00:15:47,333 --> 00:15:50,583
+I don't know.
+I hope so.
+
+308
+00:15:50,583 --> 00:15:52,959
+You admire him.
+
+309
+00:15:52,959 --> 00:15:55,375
+Yes.
+
+310
+00:15:58,709 --> 00:16:01,750
+Then help him to see
+the reality
+
+311
+00:16:01,750 --> 00:16:04,917
+of what may happen
+to his colony.
+
+312
+00:16:04,917 --> 00:16:07,375
+If he makes
+the right decision--
+
+313
+00:16:07,375 --> 00:16:10,500
+if he's as good a leader
+as he's designed to be--
+
+314
+00:16:10,500 --> 00:16:14,417
+then perhaps the others
+will follow.
+
+315
+00:16:14,417 --> 00:16:18,208
+If we increase the warp power
+transfer by 80%...
+
+316
+00:16:18,208 --> 00:16:20,250
+It's just going to blow
+the emitters again.
+
+317
+00:16:20,250 --> 00:16:22,917
+We won't be able
+to reinforce the conduit
+
+318
+00:16:22,917 --> 00:16:24,583
+to hold that power level.
+
+319
+00:16:24,583 --> 00:16:26,041
+It just doesn't work.
+
+320
+00:16:26,041 --> 00:16:28,792
+(<i> frustrated sighing</i> )
+
+321
+00:16:28,792 --> 00:16:30,709
+I haven't had any sleep
+in so long
+
+322
+00:16:30,709 --> 00:16:34,166
+my eyelids feel like they have
+lead weights attached to them.
+
+323
+00:16:34,166 --> 00:16:36,291
+(<i> sighing</i> )
+
+324
+00:16:39,208 --> 00:16:41,291
+Ahh.
+
+325
+00:16:45,166 --> 00:16:48,500
+Geordi...
+Hmm?
+
+326
+00:16:52,083 --> 00:16:54,125
+Were you always blind?
+
+327
+00:16:54,125 --> 00:16:55,625
+I'm sorry.
+
+328
+00:16:55,625 --> 00:16:56,959
+I probably shocked the hell out
+of you, didn't I?
+
+329
+00:16:56,959 --> 00:16:59,709
+No.
+I'll put it back on.
+
+330
+00:16:59,709 --> 00:17:02,625
+Don't. I'm sorry, I didn't
+mean to embarrass you.
+
+331
+00:17:04,166 --> 00:17:06,542
+I've never been embarrassed
+by this, Hannah.
+
+332
+00:17:06,542 --> 00:17:08,417
+Never.
+
+333
+00:17:08,417 --> 00:17:10,500
+I was born blind.
+
+334
+00:17:10,500 --> 00:17:12,667
+I've always been this way.
+
+335
+00:17:12,667 --> 00:17:15,500
+May I see it,
+your visor?
+
+336
+00:17:15,500 --> 00:17:17,583
+Yeah, sure.
+
+337
+00:17:22,792 --> 00:17:24,625
+So...
+
+338
+00:17:24,625 --> 00:17:26,542
+I guess if I'd been
+conceived on your world,
+
+339
+00:17:26,542 --> 00:17:28,375
+I wouldn't even
+be here now, would I?
+
+340
+00:17:28,375 --> 00:17:30,250
+No.
+
+341
+00:17:30,250 --> 00:17:33,959
+No, I'd have been terminated
+as a fertilized cell.
+
+342
+00:17:33,959 --> 00:17:36,333
+It was the wish of our founders
+that no one have to suffer
+
+343
+00:17:36,333 --> 00:17:39,250
+a life with disabilities.
+
+344
+00:17:39,250 --> 00:17:41,583
+Who gave them
+the right to decide
+
+345
+00:17:41,583 --> 00:17:43,667
+whether or not
+I should be here?
+
+346
+00:17:43,667 --> 00:17:45,875
+Whether or not I might have
+something to contribute?
+
+347
+00:17:47,834 --> 00:17:49,583
+I don't know what to say.
+
+348
+00:17:53,125 --> 00:17:55,041
+Here you go.
+
+349
+00:17:58,375 --> 00:18:00,417
+How does it work?
+
+350
+00:18:00,417 --> 00:18:02,959
+Well...
+
+351
+00:18:02,959 --> 00:18:05,542
+the visor scans
+the electromagnetic spectrum
+
+352
+00:18:05,542 --> 00:18:08,291
+from one hertz
+to 100,000 terahertz,
+
+353
+00:18:08,291 --> 00:18:10,125
+converts it all to
+usable frequencies
+
+354
+00:18:10,125 --> 00:18:12,792
+and then transmits
+that information directly
+to my brain.
+
+355
+00:18:12,792 --> 00:18:14,834
+What about
+the data conversion rate?
+
+356
+00:18:14,834 --> 00:18:17,875
+How do you avoid
+a sensory overload?
+
+357
+00:18:17,875 --> 00:18:21,417
+A bank of preprocessors
+compresses the data stream
+into pulses.
+
+358
+00:18:21,417 --> 00:18:24,709
+You see, that way,
+my visual cortex never...
+
+359
+00:18:24,709 --> 00:18:27,375
+Wait a minute.
+
+360
+00:18:27,375 --> 00:18:31,417
+Wait just a minute.
+
+361
+00:18:31,417 --> 00:18:32,917
+We should be able to send
+
+362
+00:18:32,917 --> 00:18:35,166
+a high-energy pulse
+through the tractor system.
+
+363
+00:18:35,166 --> 00:18:38,041
+If it's short enough, it
+shouldn't overload the emitters.
+
+364
+00:18:38,041 --> 00:18:41,250
+The technology
+is right here.
+
+365
+00:18:41,250 --> 00:18:45,500
+If we could adapt those
+pulse compression routines
+
+366
+00:18:45,500 --> 00:18:47,625
+and then apply them
+to the warp power conduits...
+
+367
+00:18:47,625 --> 00:18:50,125
+We'd have to avoid
+tractor force rebounding,
+
+368
+00:18:50,125 --> 00:18:51,375
+but that shouldn't
+be hard.
+
+369
+00:18:51,375 --> 00:18:53,500
+Sure, with a few
+modifications...
+
+370
+00:18:55,917 --> 00:18:58,125
+Oh, that's perfect.
+
+371
+00:18:58,125 --> 00:18:59,542
+What?
+
+372
+00:18:59,542 --> 00:19:01,750
+If the answer to all of this
+
+373
+00:19:01,750 --> 00:19:04,041
+is in a visor
+created for a blind man
+
+374
+00:19:04,041 --> 00:19:07,083
+who never would have
+existed in your society.
+
+375
+00:19:07,083 --> 00:19:09,417
+No offense intended.
+
+376
+00:19:12,208 --> 00:19:15,709
+(<i> playing a Chopin prelude</i> )
+
+377
+00:19:52,709 --> 00:19:55,667
+(<i> rumbling</i> )
+
+378
+00:20:02,750 --> 00:20:04,959
+Please, Matthew, continue.
+
+379
+00:20:04,959 --> 00:20:07,709
+(<i> music resumes</i> )
+
+380
+00:20:37,959 --> 00:20:40,667
+It's hard to believe.
+
+381
+00:20:40,667 --> 00:20:42,917
+So much loveliness here
+
+382
+00:20:42,917 --> 00:20:46,458
+just a few meters away
+from such desolation.
+
+383
+00:20:46,458 --> 00:20:50,125
+It's hard to believe
+we're about to lose it.
+
+384
+00:20:50,125 --> 00:20:52,875
+This may sound
+incredibly simplistic,
+
+385
+00:20:52,875 --> 00:20:55,750
+but can't you
+re-engineer
+
+386
+00:20:55,750 --> 00:20:58,625
+all this on
+another planet?
+
+387
+00:20:58,625 --> 00:21:01,125
+A nursery rhyme my mother
+used to read to me
+
+388
+00:21:01,125 --> 00:21:04,000
+has been running round and round
+my mind since all this began.
+
+389
+00:21:05,583 --> 00:21:07,500
+A nursery rhyme?
+
+390
+00:21:07,500 --> 00:21:09,792
+"Humpty Dumpty
+sat on a wall.
+
+391
+00:21:09,792 --> 00:21:12,208
+"Humpty Dumpty
+had a great fall.
+
+392
+00:21:12,208 --> 00:21:15,583
+BOTH:
+"All the king's horses
+and all the king's men
+
+393
+00:21:15,583 --> 00:21:17,625
+couldn't put Humpty
+together again."
+
+394
+00:21:17,625 --> 00:21:21,625
+Why do we tell our children
+such ghastly stories?
+
+395
+00:21:21,625 --> 00:21:24,709
+Perhaps to prepare them
+for times like these.
+
+396
+00:21:26,250 --> 00:21:29,667
+We are every bit
+as fragile as an egg,
+
+397
+00:21:29,667 --> 00:21:32,333
+and as impossible
+to reconstruct.
+
+398
+00:21:32,333 --> 00:21:35,375
+We are integrated
+and refined to such a degree
+
+399
+00:21:35,375 --> 00:21:39,375
+that any fundamental change
+would lead to chaos.
+
+400
+00:21:39,375 --> 00:21:42,750
+I'm so sorry, Aaron.
+
+401
+00:21:42,750 --> 00:21:45,917
+I wish I could
+do something to help.
+
+402
+00:21:45,917 --> 00:21:47,834
+You have helped.
+
+403
+00:21:47,834 --> 00:21:50,750
+You've been wonderful
+these past few days.
+
+404
+00:21:50,750 --> 00:21:53,750
+You've been
+my counselor.
+
+405
+00:21:53,750 --> 00:21:55,834
+No...
+
+406
+00:21:55,834 --> 00:21:59,959
+A counselor has to maintain
+a discreet distance.
+
+407
+00:21:59,959 --> 00:22:02,792
+I'd rather think of us
+as friends.
+
+408
+00:22:02,792 --> 00:22:04,625
+Friends?
+
+409
+00:22:04,625 --> 00:22:07,333
+That just won't do
+either...
+
+410
+00:22:10,458 --> 00:22:12,500
+will it?
+
+411
+00:22:12,500 --> 00:22:14,041
+Aaron...
+
+412
+00:22:15,208 --> 00:22:18,333
+I must confess,
+part of me knows
+
+413
+00:22:18,333 --> 00:22:21,834
+that if I transport
+through these walls,
+
+414
+00:22:21,834 --> 00:22:24,375
+you'll be on
+the other side.
+
+415
+00:22:29,583 --> 00:22:31,875
+This is wrong.
+
+416
+00:22:31,875 --> 00:22:34,500
+Terribly wrong.
+
+417
+00:22:42,959 --> 00:22:45,750
+In order to move the core
+fragment to a safe trajectory,
+
+418
+00:22:45,750 --> 00:22:49,083
+we needed our tractor beam
+to be able to handle
+high-powered pulses.
+
+419
+00:22:49,083 --> 00:22:51,250
+And we needed a more efficient
+emitter to do that.
+
+420
+00:22:51,250 --> 00:22:53,000
+About four times
+more efficient.
+
+421
+00:22:53,000 --> 00:22:54,625
+But we couldn't get
+anywhere near that
+
+422
+00:22:54,625 --> 00:22:56,792
+without overloading
+the emitter arrays.
+
+423
+00:22:56,792 --> 00:22:59,208
+So we added a little visor
+technology to the process
+
+424
+00:22:59,208 --> 00:23:01,417
+and were able to boost
+the effective force,
+
+425
+00:23:01,417 --> 00:23:02,875
+and at the same time,
+
+426
+00:23:02,875 --> 00:23:05,542
+lower the power conduit
+stress levels.
+
+427
+00:23:09,083 --> 00:23:10,875
+What's the increase
+in efficiency?
+
+428
+00:23:10,875 --> 00:23:13,333
+Up to almost 300%.
+
+429
+00:23:13,333 --> 00:23:15,375
+That's not enough.
+HANNAH: That's true.
+
+430
+00:23:15,375 --> 00:23:18,500
+We won't be able to move
+the fragment as far as
+we'd like to, but...
+
+431
+00:23:18,500 --> 00:23:20,834
+But...
+if we also fortify
+
+432
+00:23:20,834 --> 00:23:23,041
+the biosphere's structural
+integrity at the same time...
+
+433
+00:23:23,041 --> 00:23:25,834
+With some of the shield
+improvements that I've
+discovered here, it could work.
+
+434
+00:23:25,834 --> 00:23:28,917
+Of course, we'll have
+to lend them some of our
+engineering support crews.
+
+435
+00:23:30,917 --> 00:23:34,500
+Advise Mr. Conor. Number One,
+brief the appropriate officers.
+
+436
+00:23:34,500 --> 00:23:38,166
+Prepare them for transport
+as soon as Mr. Conor approves.
+Yes, sir.
+
+437
+00:23:46,458 --> 00:23:48,333
+You're up early.
+
+438
+00:23:48,333 --> 00:23:51,959
+I'm still on
+<i>Enterprise</i> time.
+
+439
+00:23:54,709 --> 00:23:57,041
+Aaron...
+
+440
+00:23:57,041 --> 00:23:59,208
+I'm going back
+to the ship.
+
+441
+00:24:00,625 --> 00:24:03,166
+I'm not going to
+see you again.
+
+442
+00:24:03,166 --> 00:24:05,542
+Why?
+
+443
+00:24:05,542 --> 00:24:08,083
+Because it's
+the right thing to do.
+
+444
+00:24:08,083 --> 00:24:10,750
+I'm not convinced of that.
+
+445
+00:24:12,291 --> 00:24:14,375
+You know it as well as I do.
+
+446
+00:24:15,458 --> 00:24:17,208
+You're angry.
+
+447
+00:24:17,208 --> 00:24:19,250
+Yes, I'm angry.
+
+448
+00:24:20,959 --> 00:24:23,834
+I'm angry with myself
+for allowing this to happen.
+
+449
+00:24:23,834 --> 00:24:25,542
+Deanna...
+
+450
+00:24:28,041 --> 00:24:30,959
+I could fall in love
+with you so easily...
+
+451
+00:24:32,458 --> 00:24:36,166
+but we both know the end
+of that story, don't we?
+
+452
+00:24:37,083 --> 00:24:38,458
+How would Martin feel
+
+453
+00:24:38,458 --> 00:24:40,792
+about introducing
+half-Betazoid DNA
+
+454
+00:24:40,792 --> 00:24:42,834
+into the genetic balance?
+
+455
+00:24:45,125 --> 00:24:47,500
+If we have to evacuate,
+anything's possible.
+
+456
+00:24:49,750 --> 00:24:51,792
+Listen to yourself.
+
+457
+00:24:51,792 --> 00:24:55,458
+A few days ago,
+you wouldn't even talk to us.
+
+458
+00:25:01,166 --> 00:25:04,041
+This is my fault.
+
+459
+00:25:04,041 --> 00:25:05,750
+I'm so sorry.
+
+460
+00:25:06,750 --> 00:25:08,792
+I need you here.
+
+461
+00:25:10,000 --> 00:25:12,458
+This doesn't
+have to happen again.
+
+462
+00:25:13,375 --> 00:25:15,333
+I have to go.
+
+463
+00:25:19,709 --> 00:25:21,917
+Good news, Aaron.
+
+464
+00:25:21,917 --> 00:25:24,542
+We should be able to change
+the course of the core fragment,
+
+465
+00:25:24,542 --> 00:25:26,750
+but we'll also need
+to fortify the structure.
+
+466
+00:25:26,750 --> 00:25:28,959
+And we're going to
+need help to do it.
+
+467
+00:25:28,959 --> 00:25:31,583
+We'll need to bring
+down engineering crews
+from the<i> Enterprise</i>
+
+468
+00:25:31,583 --> 00:25:33,709
+to work with your people
+for the next 48 hours.
+
+469
+00:25:33,709 --> 00:25:36,166
+Engineering crews?
+
+470
+00:25:36,166 --> 00:25:38,208
+They have to install
+five new shield generators
+
+471
+00:25:38,208 --> 00:25:39,709
+and power supplies.
+
+472
+00:25:39,709 --> 00:25:41,625
+50 officers are waiting
+for your approval
+
+473
+00:25:41,625 --> 00:25:43,375
+to transport down.
+
+474
+00:25:49,959 --> 00:25:52,667
+We don't have
+much time, Aaron.
+
+475
+00:25:52,667 --> 00:25:54,792
+Is there any other choice?
+
+476
+00:25:54,792 --> 00:25:56,542
+None.
+
+477
+00:25:59,792 --> 00:26:03,667
+<i>Enterprise,</i> you may begin
+transport when ready.
+
+478
+00:26:32,709 --> 00:26:34,542
+<i>Captain's Log,</i>
+<i>supplemental:</i>
+
+479
+00:26:34,542 --> 00:26:36,959
+<i>the</i> Enterprise<i> has moved</i>
+<i>to a parallel course</i>
+
+480
+00:26:36,959 --> 00:26:38,750
+<i>with the core fragment.</i>
+
+481
+00:26:38,750 --> 00:26:42,333
+<i>We must adjust its trajectory</i>
+<i>by a minimum of 1.2 degrees</i>
+
+482
+00:26:42,333 --> 00:26:45,125
+<i>to insure</i>
+<i>the colony's safety.</i>
+
+483
+00:26:45,125 --> 00:26:46,834
+Bring us within range of
+the fragment, Ensign.
+
+484
+00:26:46,834 --> 00:26:48,875
+Aye, sir.
+
+485
+00:26:51,000 --> 00:26:52,792
+You may proceed,
+Mr. La Forge.
+
+486
+00:26:52,792 --> 00:26:54,166
+Yes, sir.
+
+487
+00:26:54,166 --> 00:26:56,333
+Good luck.
+You, too.
+
+488
+00:27:00,291 --> 00:27:02,333
+Engage tractor beam.
+
+489
+00:27:08,000 --> 00:27:10,959
+Okay, let's give it a try.
+
+490
+00:27:10,959 --> 00:27:13,625
+Shutting down
+non-critical systems.
+
+491
+00:27:13,625 --> 00:27:16,667
+Emitter circuits
+170% over standard.
+
+492
+00:27:18,500 --> 00:27:21,750
+Increasing impulse power
+to tractor emitters.
+
+493
+00:27:21,750 --> 00:27:24,083
+E.P.S. power levels rising.
+
+494
+00:27:24,083 --> 00:27:26,583
+Transferring warp power
+to tractor beam generator.
+
+495
+00:27:26,583 --> 00:27:30,542
+Graviton generator's
+operating normally.
+
+496
+00:27:30,542 --> 00:27:33,458
+Surge pulse
+now synchronized.
+
+497
+00:27:33,458 --> 00:27:37,542
+Emitters radiating
+at 320% over standard.
+
+498
+00:27:37,542 --> 00:27:39,458
+Bridge, we need more power.
+
+499
+00:27:39,458 --> 00:27:42,458
+Reduce life-support to minimum
+requirements, Mr. Data.
+
+500
+00:27:42,458 --> 00:27:44,166
+Aye, sir.
+
+501
+00:27:48,917 --> 00:27:51,375
+390% over standard.
+
+502
+00:27:51,375 --> 00:27:53,500
+Come on, come on.
+
+503
+00:27:53,500 --> 00:27:56,000
+No change in
+the fragment's course.
+
+504
+00:27:56,000 --> 00:27:58,000
+We've got to increase
+the pulse frequency.
+
+505
+00:27:58,000 --> 00:27:59,542
+The emitter circuits
+won't hold for long.
+
+506
+00:27:59,542 --> 00:28:01,667
+We don't<i> need</i> them
+for long.
+
+507
+00:28:05,834 --> 00:28:07,959
+400% over standard.
+
+508
+00:28:07,959 --> 00:28:11,000
+Okay.
+Now we're getting there.
+
+509
+00:28:11,000 --> 00:28:15,583
+Fragment's moved .4 degrees
+off its previous heading... .65.
+
+510
+00:28:15,583 --> 00:28:17,208
+It's working.
+
+511
+00:28:19,291 --> 00:28:21,792
+We have lost one of
+the emitter circuits, sir.
+
+512
+00:28:21,792 --> 00:28:25,041
+Life-support failure...
+decks nine, twelve and thirteen.
+
+513
+00:28:25,041 --> 00:28:27,041
+Engage evacuation procedures
+for those decks.
+
+514
+00:28:27,041 --> 00:28:30,000
+Geordi, we are going to need
+power back soon.
+LA FORGE: Acknowledged.
+
+515
+00:28:30,000 --> 00:28:32,959
+Fragments new
+heading adjustment
+
+516
+00:28:32,959 --> 00:28:34,959
+is at 1.01 degrees.
+
+517
+00:28:34,959 --> 00:28:37,625
+Is it enough?
+Not yet. Hold on.
+
+518
+00:28:37,625 --> 00:28:39,750
+We've lost the second lateral
+emitter circuit.
+
+519
+00:28:39,750 --> 00:28:42,917
+Losing life-support systems
+on decks five through nine.
+
+520
+00:28:42,917 --> 00:28:45,125
+Evacuation procedures
+initiated.
+
+521
+00:28:45,125 --> 00:28:47,625
+Mr. La Forge?
+LA FORGE: Hold on, Captain.
+
+522
+00:28:47,625 --> 00:28:51,709
+Ship-wide life-support failure
+in 15 seconds, sir.
+
+523
+00:28:51,709 --> 00:28:53,083
+Almost there, Geordi.
+
+524
+00:28:53,083 --> 00:28:55,250
+Course shift is at
+1.16 degrees.
+
+525
+00:28:55,250 --> 00:28:58,959
+Termination of all
+life-support in five seconds.
+
+526
+00:28:58,959 --> 00:29:00,458
+1.18!
+
+527
+00:29:00,458 --> 00:29:01,917
+Now, Mr. La Forge.
+
+528
+00:29:01,917 --> 00:29:04,709
+Yes, sir. Shutting down
+all tractor emissions.
+
+529
+00:29:04,709 --> 00:29:07,250
+Transferring power
+back to life-support.
+
+530
+00:29:11,375 --> 00:29:14,125
+One point... two!
+
+531
+00:29:14,125 --> 00:29:15,750
+We've got it!
+
+532
+00:29:17,709 --> 00:29:20,792
+Life-support normal
+on all decks.
+
+533
+00:29:20,792 --> 00:29:22,083
+Mr. Data?
+
+534
+00:29:22,083 --> 00:29:23,834
+The fragment's course
+has been altered
+
+535
+00:29:23,834 --> 00:29:26,500
+by 1.21 degrees, sir.
+
+536
+00:29:26,500 --> 00:29:28,083
+Hail the colony.
+
+537
+00:29:30,333 --> 00:29:33,667
+Yes, Captain?
+PICARD: Success, Mr. Conor.
+
+538
+00:29:33,667 --> 00:29:35,709
+With the upgrades
+to your biosphere,
+
+539
+00:29:35,709 --> 00:29:37,959
+the core fragment should
+no longer be a danger.
+
+540
+00:29:37,959 --> 00:29:42,041
+I cannot adequately express
+my appreciation to your crew.
+
+541
+00:29:42,041 --> 00:29:43,667
+Is Hannah able to hear me?
+
+542
+00:29:43,667 --> 00:29:46,417
+Yes, yes.
+Go ahead, Aaron.
+
+543
+00:29:46,417 --> 00:29:48,875
+CONOR: This is an historic
+achievement, Hannah.
+
+544
+00:29:48,875 --> 00:29:51,250
+You've done a wonderful thing
+for our people.
+
+545
+00:29:51,250 --> 00:29:53,041
+Thank you.
+
+546
+00:29:53,041 --> 00:29:56,375
+We look forward to honoring you
+appropriately when you return.
+
+547
+00:29:56,375 --> 00:30:00,083
+Thank you again, Captain.
+Conor out.
+
+548
+00:30:13,625 --> 00:30:15,458
+<i>Captain's Log,</i>
+<i>supplemental:</i>
+
+549
+00:30:15,458 --> 00:30:17,333
+<i>the stellar core fragment</i>
+<i>has passed safely</i>
+
+550
+00:30:17,333 --> 00:30:18,792
+<i>out of the Moab system.</i>
+
+551
+00:30:18,792 --> 00:30:21,291
+<i>The colony was shaken</i>
+<i>by powerful tremblers,</i>
+
+552
+00:30:21,291 --> 00:30:23,125
+<i>but fortunately</i>
+<i>there were no injuries</i>
+
+553
+00:30:23,125 --> 00:30:25,583
+<i>and only minor damage</i>
+<i>was reported.</i>
+
+554
+00:30:29,291 --> 00:30:31,125
+Energize.
+
+555
+00:30:36,625 --> 00:30:38,083
+That should do it.
+
+556
+00:30:38,083 --> 00:30:39,333
+All members of
+the<i> Enterprise</i> crew
+
+557
+00:30:39,333 --> 00:30:40,917
+are accounted for,
+Mr. Conor.
+
+558
+00:30:40,917 --> 00:30:43,083
+They've been invaluable,
+Commander, thank you again.
+
+559
+00:30:43,083 --> 00:30:45,458
+If there's nothing else,
+we can be on our way.
+
+560
+00:30:45,458 --> 00:30:49,166
+Would you tell Deanna Troi
+for me that I'm sorry
+
+561
+00:30:49,166 --> 00:30:53,083
+I didn't get the opportunity
+to say good-bye personally?
+
+562
+00:30:53,083 --> 00:30:56,125
+I'm sure she'll feel
+the same way.
+
+563
+00:30:56,125 --> 00:30:58,750
+(<i> alarm sounding</i> )
+A breach in the biosphere.
+
+564
+00:30:58,750 --> 00:31:00,834
+Get Hannah Bates.
+
+565
+00:31:07,709 --> 00:31:10,417
+Apparently the refortification
+wasn't adequate.
+
+566
+00:31:10,417 --> 00:31:12,875
+There's definite
+structural damage.
+
+567
+00:31:12,875 --> 00:31:15,625
+It appears that the tectonic
+shifts created a breach.
+
+568
+00:31:15,625 --> 00:31:18,000
+Can it be repaired?
+I don't know.
+
+569
+00:31:18,000 --> 00:31:20,458
+I'll have to run
+a diagnostic in the lab.
+
+570
+00:31:20,458 --> 00:31:23,542
+Unless we seal it and fast,
+we may have to evacuate.
+
+571
+00:31:23,542 --> 00:31:26,500
+How long do we have?
+Uh, based on the level of
+toxicity I'm reading,
+
+572
+00:31:26,500 --> 00:31:28,375
+it may only be
+a matter of hours.
+
+573
+00:31:28,375 --> 00:31:30,625
+You mind if I give her
+a hand, Commander?
+By all means.
+
+574
+00:31:39,875 --> 00:31:42,875
+Isn't it amazing,
+after all we went through?
+
+575
+00:31:42,875 --> 00:31:45,000
+Yeah.
+
+576
+00:31:45,000 --> 00:31:46,959
+Amazing.
+
+577
+00:31:46,959 --> 00:31:48,291
+It looks bad.
+
+578
+00:31:48,291 --> 00:31:50,750
+It's cracked
+well beneath the surface.
+
+579
+00:31:50,750 --> 00:31:53,375
+Why are you doing this?
+
+580
+00:31:53,375 --> 00:31:54,875
+What do you mean?
+
+581
+00:31:54,875 --> 00:31:56,625
+There's no breach.
+
+582
+00:31:56,625 --> 00:31:58,500
+What are you talking about?
+
+583
+00:31:58,500 --> 00:32:00,625
+Look at it.
+It's right here.
+
+584
+00:32:00,625 --> 00:32:03,291
+I measured the toxic leak.
+You saw me.
+
+585
+00:32:03,291 --> 00:32:06,875
+Hannah, my visor's
+positronic scan
+
+586
+00:32:06,875 --> 00:32:09,041
+would have detected
+the leak
+
+587
+00:32:09,041 --> 00:32:10,959
+and its molecular
+pattern enhancer
+
+588
+00:32:10,959 --> 00:32:14,250
+would have picked up
+even the smallest crack.
+
+589
+00:32:18,208 --> 00:32:22,166
+The damn thing doesn't
+miss much, does it?
+
+590
+00:32:22,166 --> 00:32:23,542
+Fine.
+
+591
+00:32:23,542 --> 00:32:25,667
+I'll tell them the truth.
+
+592
+00:32:25,667 --> 00:32:27,709
+Will that make you happy?
+
+593
+00:32:27,709 --> 00:32:31,834
+Why are you doing this?
+
+594
+00:32:35,125 --> 00:32:38,542
+I was born to be one of
+the best scientific minds
+
+595
+00:32:38,542 --> 00:32:40,542
+of my generation.
+
+596
+00:32:40,542 --> 00:32:42,500
+And in the past five days,
+
+597
+00:32:42,500 --> 00:32:46,458
+I have encountered technology
+that I had barely imagined.
+
+598
+00:32:46,458 --> 00:32:50,083
+And I've got to ask myself,
+if we're so brilliant,
+
+599
+00:32:50,083 --> 00:32:53,000
+how come we didn't invent
+any of these things?
+
+600
+00:32:54,583 --> 00:32:58,667
+Well, maybe necessity really
+is the mother of invention.
+
+601
+00:32:58,667 --> 00:33:02,333
+You never really look
+for something until you need it.
+
+602
+00:33:02,333 --> 00:33:05,625
+But all my needs have been
+anticipated and planned for
+
+603
+00:33:05,625 --> 00:33:07,458
+before I was even born.
+
+604
+00:33:07,458 --> 00:33:11,875
+All of us in this colony have
+been living in the Dark Ages.
+
+605
+00:33:11,875 --> 00:33:15,083
+It's like we're victims
+of a 200-year-old joke.
+
+606
+00:33:15,083 --> 00:33:16,625
+Until you came,
+
+607
+00:33:16,625 --> 00:33:20,250
+all we could see was to
+the wall of our biosphere.
+
+608
+00:33:20,250 --> 00:33:22,375
+Suddenly our eyes
+have been opened
+
+609
+00:33:22,375 --> 00:33:24,667
+to the infinite
+possibilities.
+
+610
+00:33:24,667 --> 00:33:26,458
+Asylum?
+
+611
+00:33:26,458 --> 00:33:27,875
+She wants to leave
+the colony.
+
+612
+00:33:27,875 --> 00:33:30,083
+She may not be
+the only one.
+
+613
+00:33:30,083 --> 00:33:32,250
+The science teams that
+went down to the surface
+
+614
+00:33:32,250 --> 00:33:34,333
+fielded a lot of questions
+from the colonists
+
+615
+00:33:34,333 --> 00:33:37,458
+who were more than curious about
+what's outside their world.
+
+616
+00:33:37,458 --> 00:33:39,625
+Well, why shouldn't we
+grant them asylum?
+
+617
+00:33:39,625 --> 00:33:40,875
+We can't do that.
+
+618
+00:33:40,875 --> 00:33:42,458
+We have to do that.
+
+619
+00:33:42,458 --> 00:33:44,667
+Do you understand what
+it would do to the colony?
+
+620
+00:33:44,667 --> 00:33:46,625
+I understand that
+these are human beings,
+
+621
+00:33:46,625 --> 00:33:48,333
+Counselor,
+with free will.
+
+622
+00:33:48,333 --> 00:33:50,583
+If she wants to leave,
+she has every right to.
+
+623
+00:33:50,583 --> 00:33:53,583
+And what happens to the colony
+if she does and others join her?
+
+624
+00:33:53,583 --> 00:33:56,208
+The society is
+genetically integrated.
+
+625
+00:33:56,208 --> 00:33:59,166
+Suddenly there would be
+gaps, missing pieces.
+
+626
+00:33:59,166 --> 00:34:01,208
+It would destroy them.
+
+627
+00:34:01,208 --> 00:34:04,375
+There must be something
+we can do to help.
+
+628
+00:34:04,375 --> 00:34:07,625
+We may have done too much
+to help them already, Doctor.
+
+629
+00:34:07,625 --> 00:34:09,458
+Well, we saved them
+from destruction.
+
+630
+00:34:09,458 --> 00:34:11,542
+PICARD:
+Did we?
+
+631
+00:34:13,208 --> 00:34:16,875
+Counselor, I think it's time
+you took me to meet Mr. Conor.
+
+632
+00:34:22,000 --> 00:34:24,667
+Transporter room three.
+
+633
+00:34:26,208 --> 00:34:28,166
+Computer, halt.
+
+634
+00:34:31,417 --> 00:34:35,125
+Captain, I have
+to tell you something,
+
+635
+00:34:35,125 --> 00:34:36,709
+and it isn't easy for me
+
+636
+00:34:36,709 --> 00:34:40,458
+because I've used
+very poor judgement.
+
+637
+00:34:40,458 --> 00:34:42,667
+Actually, I've acted
+quite unprofessionally.
+
+638
+00:34:42,667 --> 00:34:46,000
+Counselor,
+what is it you say?
+
+639
+00:34:46,000 --> 00:34:47,834
+Take a deep breath.
+
+640
+00:34:50,792 --> 00:34:53,834
+Conor and I have had
+a relationship.
+
+641
+00:34:56,417 --> 00:34:58,375
+I see.
+
+642
+00:34:58,375 --> 00:35:01,166
+It should never have happened.
+
+643
+00:35:01,166 --> 00:35:03,333
+I knew there was
+concern about
+
+644
+00:35:03,333 --> 00:35:06,125
+outside influences, and...
+
+645
+00:35:06,125 --> 00:35:08,917
+I should have been
+more careful.
+
+646
+00:35:12,792 --> 00:35:15,583
+What is your status
+with him now?
+
+647
+00:35:15,583 --> 00:35:18,875
+I did not intend
+to see him again.
+
+648
+00:35:18,875 --> 00:35:22,000
+Would you prefer not
+to return to the surface?
+
+649
+00:35:22,000 --> 00:35:24,125
+No, I think I should
+come with you,
+
+650
+00:35:24,125 --> 00:35:27,500
+but I wanted you to know
+before we went down.
+
+651
+00:35:29,834 --> 00:35:31,834
+I appreciate that.
+
+652
+00:35:31,834 --> 00:35:33,917
+Computer, resume.
+
+653
+00:35:39,000 --> 00:35:42,166
+I wanted so much
+to help him...
+
+654
+00:35:42,166 --> 00:35:45,166
+to be there for him, but...
+
+655
+00:35:45,166 --> 00:35:46,709
+the more I was...
+
+656
+00:35:46,709 --> 00:35:49,208
+Deanna.
+
+657
+00:35:49,208 --> 00:35:52,166
+We all went into this
+with the best of intentions.
+
+658
+00:35:52,166 --> 00:35:54,208
+I should have walked away
+
+659
+00:35:54,208 --> 00:35:56,000
+as soon as I saw
+what was happening.
+
+660
+00:35:56,000 --> 00:35:57,750
+But you didn't...
+
+661
+00:35:58,917 --> 00:36:00,709
+and that's human.
+
+662
+00:36:00,709 --> 00:36:02,792
+We make mistakes.
+
+663
+00:36:04,625 --> 00:36:07,208
+Genetic manipulation or not,
+
+664
+00:36:07,208 --> 00:36:09,333
+nobody's perfect.
+
+665
+00:36:17,166 --> 00:36:19,625
+You would ignore
+the welfare of the colony
+
+666
+00:36:19,625 --> 00:36:21,709
+for your own
+selfish interests?
+
+667
+00:36:21,709 --> 00:36:24,792
+The welfare of this colony
+would be best served
+
+668
+00:36:24,792 --> 00:36:26,417
+by rejoining the human race.
+
+669
+00:36:26,417 --> 00:36:29,291
+She has been contaminated
+by the people on that ship.
+
+670
+00:36:30,458 --> 00:36:33,000
+Aaron.
+
+671
+00:36:33,000 --> 00:36:36,709
+Mr. Conor, I believe that
+you and I should talk.
+
+672
+00:36:36,709 --> 00:36:38,417
+This is<i> your</i> doing.
+
+673
+00:36:38,417 --> 00:36:40,166
+We never should have
+answered your hails.
+
+674
+00:36:40,166 --> 00:36:42,083
+If we'd followed
+that advice, Martin,
+
+675
+00:36:42,083 --> 00:36:43,375
+we'd all be dead by now.
+
+676
+00:36:43,375 --> 00:36:45,166
+So much for the welfare
+of this colony.
+
+677
+00:36:45,166 --> 00:36:46,834
+You are not
+taking her with you.
+
+678
+00:36:46,834 --> 00:36:49,250
+I'm leaving, and I'll
+tell you something else,
+
+679
+00:36:49,250 --> 00:36:51,792
+there are at least
+a dozen others who are
+ready to go with me.
+
+680
+00:36:51,792 --> 00:36:55,792
+Hannah, let's allow Aaron and
+Captain Picard to discuss this.
+
+681
+00:36:55,792 --> 00:36:58,083
+Why don't we
+go for a walk?
+
+682
+00:37:01,208 --> 00:37:03,375
+There's nothing else
+for them to talk about.
+
+683
+00:37:07,709 --> 00:37:09,208
+Martin.
+
+684
+00:37:09,208 --> 00:37:12,041
+I think it would be
+helpful if I...
+
+685
+00:37:12,041 --> 00:37:13,875
+I want to talk
+to Captain Picard alone.
+
+686
+00:37:13,875 --> 00:37:16,041
+But...
+Thank you, Martin.
+
+687
+00:37:23,083 --> 00:37:25,959
+The irony is he's the one
+who saw this coming
+
+688
+00:37:25,959 --> 00:37:27,667
+from the moment
+you arrived.
+
+689
+00:37:27,667 --> 00:37:29,917
+Because I didn't want
+to hear him,
+
+690
+00:37:29,917 --> 00:37:31,750
+I chose not to listen.
+
+691
+00:37:31,750 --> 00:37:35,417
+You made decisions you felt
+would save your colony.
+
+692
+00:37:35,417 --> 00:37:37,041
+No.
+
+693
+00:37:37,041 --> 00:37:38,500
+No.
+
+694
+00:37:38,500 --> 00:37:41,208
+I wish it were that simple.
+
+695
+00:37:41,208 --> 00:37:44,709
+I'm afraid I can't
+forgive myself so easily.
+
+696
+00:37:44,709 --> 00:37:47,875
+You see, Captain...
+
+697
+00:37:47,875 --> 00:37:51,208
+I know what Hannah Bates
+is feeling.
+
+698
+00:37:51,208 --> 00:37:53,792
+I've been feeling it
+as well.
+
+699
+00:37:53,792 --> 00:37:56,083
+I found your people
+intriguing,
+
+700
+00:37:56,083 --> 00:37:59,000
+stimulating,
+as she has.
+
+701
+00:37:59,000 --> 00:38:03,083
+I've been every bit as curious
+about you as the next man,
+
+702
+00:38:03,083 --> 00:38:05,667
+but I am not
+the next man.
+
+703
+00:38:05,667 --> 00:38:07,750
+I am the leader of
+these people,
+
+704
+00:38:07,750 --> 00:38:09,458
+and every genetic fiber
+in my being
+
+705
+00:38:09,458 --> 00:38:11,834
+demands that
+I protect them.
+
+706
+00:38:11,834 --> 00:38:14,208
+And instead,
+I have betrayed them.
+
+707
+00:38:14,208 --> 00:38:16,542
+I have allowed
+this to happen.
+
+708
+00:38:16,542 --> 00:38:19,208
+We've both allowed
+this to happen.
+
+709
+00:38:19,208 --> 00:38:22,750
+Then let us both find a way to
+stop it from going any further.
+
+710
+00:38:24,542 --> 00:38:26,709
+I wish I could see a way.
+
+711
+00:38:28,166 --> 00:38:31,083
+Picard, I was born
+to govern this colony,
+
+712
+00:38:31,083 --> 00:38:33,041
+not to dismantle it.
+
+713
+00:38:33,041 --> 00:38:34,834
+If you force them to stay,
+
+714
+00:38:34,834 --> 00:38:37,041
+you will be suppressing
+their human rights.
+
+715
+00:38:37,041 --> 00:38:38,959
+If even a handful leave,
+
+716
+00:38:38,959 --> 00:38:42,041
+the damage to this society
+will be devastating.
+
+717
+00:38:42,041 --> 00:38:44,875
+What about the rights of those
+who would stay behind?
+
+718
+00:38:44,875 --> 00:38:46,917
+They are the ones will
+inherit the social chaos
+
+719
+00:38:46,917 --> 00:38:50,709
+that will follow
+for generations.
+
+720
+00:38:50,709 --> 00:38:53,417
+Your arrival
+created this problem.
+
+721
+00:38:53,417 --> 00:38:55,083
+Your departure solves it.
+
+722
+00:38:55,083 --> 00:38:56,875
+That is simplistic.
+
+723
+00:38:56,875 --> 00:38:59,375
+Refuse them passage.
+
+724
+00:38:59,375 --> 00:39:02,834
+I cannot ignore
+the requests of people--
+
+725
+00:39:02,834 --> 00:39:04,333
+humans--
+
+726
+00:39:04,333 --> 00:39:06,959
+who ask for transport
+away from here.
+
+727
+00:39:06,959 --> 00:39:09,959
+Nor can you ignore the fact
+that thousands will suffer
+
+728
+00:39:09,959 --> 00:39:11,959
+if you agree to take them.
+
+729
+00:39:11,959 --> 00:39:14,959
+And as suffering grows,
+more will demand to leave.
+
+730
+00:39:14,959 --> 00:39:18,542
+We are witnessing
+the end of this existence.
+
+731
+00:39:18,542 --> 00:39:20,959
+I implore you, Captain.
+
+732
+00:39:20,959 --> 00:39:23,291
+Do not let this happen.
+
+733
+00:39:23,291 --> 00:39:26,125
+You would have me
+make the decision for you,
+
+734
+00:39:26,125 --> 00:39:28,083
+but I can't do that.
+
+735
+00:39:28,083 --> 00:39:31,208
+I am willing to talk
+to these people with you.
+
+736
+00:39:31,208 --> 00:39:34,667
+And I will urge them not
+to make an impulsive choice,
+
+737
+00:39:34,667 --> 00:39:36,667
+but if finally,
+
+738
+00:39:36,667 --> 00:39:38,792
+they choose to leave,
+
+739
+00:39:38,792 --> 00:39:42,458
+the<i> Enterprise</i> 
+will not turn them away.
+
+740
+00:39:56,583 --> 00:39:59,083
+Captain Picard has decided
+to grant transport
+
+741
+00:39:59,083 --> 00:40:02,417
+to any individuals who wish
+to leave Genome colony.
+
+742
+00:40:02,417 --> 00:40:05,959
+I am asking you to stay.
+
+743
+00:40:05,959 --> 00:40:08,667
+Aaron, don't you see
+
+744
+00:40:08,667 --> 00:40:11,750
+we can't be happy here
+any longer?
+
+745
+00:40:11,750 --> 00:40:13,500
+We were innocent.
+
+746
+00:40:13,500 --> 00:40:16,041
+It will never be
+that way again.
+
+747
+00:40:16,041 --> 00:40:18,500
+The experiences
+of the past week
+
+748
+00:40:18,500 --> 00:40:21,125
+will become
+part of our heritage.
+
+749
+00:40:21,125 --> 00:40:23,000
+We will adjust.
+
+750
+00:40:23,000 --> 00:40:24,959
+In a few generations...
+
+751
+00:40:24,959 --> 00:40:28,208
+We're not willing to
+stay here a few generations.
+
+752
+00:40:28,208 --> 00:40:31,375
+All right.
+
+753
+00:40:31,375 --> 00:40:34,959
+Then give me six months.
+
+754
+00:40:34,959 --> 00:40:38,083
+Just wait six months
+before you leave.
+
+755
+00:40:38,083 --> 00:40:39,875
+What will that accomplish?
+
+756
+00:40:39,875 --> 00:40:42,083
+It's true that
+our presence here
+
+757
+00:40:42,083 --> 00:40:45,583
+has had an unintended
+influence on your society,
+
+758
+00:40:45,583 --> 00:40:48,959
+but it's done and there is
+no way to undo it.
+
+759
+00:40:48,959 --> 00:40:51,583
+But feelings are
+running very high.
+
+760
+00:40:51,583 --> 00:40:54,083
+Perhaps it's not
+such a bad idea
+
+761
+00:40:54,083 --> 00:40:56,333
+that you should take
+adequate time
+
+762
+00:40:56,333 --> 00:40:58,375
+to weigh carefully
+the consequences
+
+763
+00:40:58,375 --> 00:41:00,750
+of what you're
+about to do.
+
+764
+00:41:00,750 --> 00:41:03,333
+We are prepared to
+return in six months.
+
+765
+00:41:03,333 --> 00:41:06,834
+In other words,
+we are being asked to
+stay here for six months
+
+766
+00:41:06,834 --> 00:41:09,625
+while they pressure us
+to change our minds.
+
+767
+00:41:09,625 --> 00:41:13,375
+In five days, you've seen only
+the most superficial evidence
+
+768
+00:41:13,375 --> 00:41:16,041
+of what life is like
+outside this biosphere.
+
+769
+00:41:16,041 --> 00:41:20,000
+Would you ever choose to live
+aboard a ship in a bottle,
+Captain?
+
+770
+00:41:20,000 --> 00:41:22,250
+You are in command
+of a starship.
+
+771
+00:41:22,250 --> 00:41:24,500
+You live to explore
+the unknown.
+
+772
+00:41:24,500 --> 00:41:26,542
+We ask for that
+same privilege.
+
+773
+00:41:26,542 --> 00:41:28,417
+Hannah...
+
+774
+00:41:28,417 --> 00:41:30,667
+this is your home.
+
+775
+00:41:30,667 --> 00:41:33,750
+We are all, in a sense,
+your family.
+
+776
+00:41:33,750 --> 00:41:36,291
+Don't we deserve
+an opportunity
+
+777
+00:41:36,291 --> 00:41:39,750
+to open a dialogue on
+this issue at the very least?
+
+778
+00:41:39,750 --> 00:41:41,792
+I am only asking
+for six months.
+
+779
+00:41:41,792 --> 00:41:43,458
+It won't make any difference.
+
+780
+00:41:43,458 --> 00:41:45,458
+You'll only be putting
+the people of this colony
+
+781
+00:41:45,458 --> 00:41:47,667
+through unnecessary
+pain and anguish.
+
+782
+00:41:47,667 --> 00:41:50,208
+<i>You</i> are the ones
+causing pain and anguish
+
+783
+00:41:50,208 --> 00:41:52,083
+in this colony-- you!
+
+784
+00:41:52,083 --> 00:41:53,917
+Don't you see, Aaron,
+it's over?!
+
+785
+00:41:53,917 --> 00:41:57,041
+It's time for you to lead
+our people into a new era.
+
+786
+00:41:57,041 --> 00:41:59,041
+You could
+come with us.
+
+787
+00:42:01,750 --> 00:42:04,875
+When you're ready
+to come home...
+
+788
+00:42:04,875 --> 00:42:07,083
+you will be welcome.
+
+789
+00:42:15,125 --> 00:42:18,083
+What will you do now?
+
+790
+00:42:18,083 --> 00:42:21,250
+Attempt to assess
+the damage--
+
+791
+00:42:21,250 --> 00:42:24,709
+spend the rest of my life
+on the near impossible task
+
+792
+00:42:24,709 --> 00:42:27,875
+of rebuilding this society
+without the proper pieces.
+
+793
+00:42:27,875 --> 00:42:32,125
+Aaron, you acted in the best
+interests of your people.
+
+794
+00:42:32,125 --> 00:42:34,500
+There was no way to
+avoid what happened.
+
+795
+00:42:34,500 --> 00:42:37,375
+I replay each step
+in my mind
+
+796
+00:42:37,375 --> 00:42:41,083
+looking for the wrong turn,
+a mistake in judgement.
+
+797
+00:42:41,083 --> 00:42:43,667
+I can find only one.
+
+798
+00:42:43,667 --> 00:42:45,875
+And as hard as I try,
+
+799
+00:42:45,875 --> 00:42:49,291
+I cannot regret
+even that one.
+
+800
+00:42:49,291 --> 00:42:53,208
+In fact, I'm quite certain
+that given the opportunity,
+
+801
+00:42:53,208 --> 00:42:57,250
+I would choose to make
+the same mistake again.
+
+802
+00:42:57,250 --> 00:43:00,000
+I can only wonder why
+with all the hundreds
+
+803
+00:43:00,000 --> 00:43:03,875
+of genetically compatible women,
+I would fall in love with you.
+
+804
+00:43:03,875 --> 00:43:05,792
+Don't say that.
+
+805
+00:43:05,792 --> 00:43:09,750
+Perhaps it's your imperfections
+which make you so unique.
+
+806
+00:43:11,458 --> 00:43:15,583
+But I<i> am</i> in love with you,
+Deanna Troi...
+
+807
+00:43:15,583 --> 00:43:18,792
+and I will always be.
+
+808
+00:43:40,834 --> 00:43:42,041
+(<i> chiming</i> )
+
+809
+00:43:42,041 --> 00:43:43,625
+Come.
+
+810
+00:43:46,000 --> 00:43:47,417
+The colonists
+are all on board, sir.
+
+811
+00:43:47,417 --> 00:43:49,417
+How many finally?
+Twenty-three.
+
+812
+00:43:49,417 --> 00:43:51,417
+If ever
+we needed reminding
+
+813
+00:43:51,417 --> 00:43:54,208
+of the importance of
+the Prime Directive, it is now.
+
+814
+00:43:54,208 --> 00:43:55,917
+The Prime Directive
+doesn't apply.
+
+815
+00:43:55,917 --> 00:43:57,709
+They're human.
+Doesn't it?
+
+816
+00:43:57,709 --> 00:44:01,458
+Our very presence
+may have damaged,
+
+817
+00:44:01,458 --> 00:44:04,166
+even destroyed
+their way of life.
+
+818
+00:44:04,166 --> 00:44:06,667
+Now, whether or not we agree
+with that way of life--
+
+819
+00:44:06,667 --> 00:44:10,417
+whether they're human or not
+is irrelevant, Number One.
+
+820
+00:44:10,417 --> 00:44:12,709
+We are responsible.
+
+821
+00:44:12,709 --> 00:44:14,583
+We had to respond
+to the threat
+
+822
+00:44:14,583 --> 00:44:16,875
+of the core fragment,
+didn't we?
+
+823
+00:44:16,875 --> 00:44:18,417
+Of course we did.
+
+824
+00:44:18,417 --> 00:44:21,542
+But in the end,
+
+825
+00:44:21,542 --> 00:44:24,208
+we may have proved just
+as dangerous to that colony
+
+826
+00:44:24,208 --> 00:44:27,959
+as any core fragment
+could ever have been.

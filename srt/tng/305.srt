@@ -1,0 +1,3223 @@
+1
+00:00:11,667 --> 00:00:13,333
+DATA:
+Commander,
+away team reporting in.
+
+2
+00:00:13,375 --> 00:00:15,709
+Lieutenant Worf standing by.
+
+3
+00:00:15,750 --> 00:00:18,291
+This is Riker.
+Go ahead, Lieutenant.
+
+4
+00:00:18,333 --> 00:00:19,834
+WORF:
+The archaeologists
+have identified
+
+5
+00:00:19,875 --> 00:00:21,750
+the markings in these caverns.
+
+6
+00:00:21,792 --> 00:00:23,125
+This planet was apparently
+
+7
+00:00:23,166 --> 00:00:26,750
+once home to a race
+known as the Koinonians.
+
+8
+00:00:26,792 --> 00:00:28,625
+What do we know about them,
+Data?
+
+9
+00:00:28,667 --> 00:00:30,875
+The Koinonians were
+an intelligent culture
+
+10
+00:00:30,917 --> 00:00:32,208
+which became embroiled in a war
+
+11
+00:00:32,250 --> 00:00:34,458
+that lasted
+for several
+generations.
+
+12
+00:00:34,500 --> 00:00:35,583
+Our best evidence
+
+13
+00:00:35,625 --> 00:00:37,333
+indicates they
+destroyed themselves.
+
+14
+00:00:37,375 --> 00:00:39,542
+WORF:
+We have completed our survey
+of the third tunnel
+
+15
+00:00:39,583 --> 00:00:41,917
+and will proceed
+into the ceremonial chamber.
+
+16
+00:00:41,959 --> 00:00:44,625
+Affirmative.
+<i>Enterprise</i> out.
+
+17
+00:00:44,667 --> 00:00:47,000
+Destroyed
+themselves, Data?
+
+18
+00:00:47,041 --> 00:00:49,000
+According
+to historical records
+
+19
+00:00:49,041 --> 00:00:50,250
+this will be
+the first opportunity
+
+20
+00:00:50,291 --> 00:00:51,625
+for a Federation team...
+
+21
+00:00:51,667 --> 00:00:54,542
+Captain, beam them up quickly!
+
+22
+00:00:54,583 --> 00:00:56,375
+WORF:
+Captain, emergency beam-up!
+
+23
+00:00:56,417 --> 00:00:58,834
+<i>Enterprise,</i> emergency.
+Severe injuries!
+
+24
+00:00:58,875 --> 00:00:59,959
+Transporter Room?
+
+25
+00:01:00,000 --> 00:01:01,208
+O'BRIEN:
+I've got them, Captain.
+
+26
+00:01:01,250 --> 00:01:02,375
+Beam them straight to Sick Bay.
+
+27
+00:01:02,417 --> 00:01:04,000
+Dr. Crusher, incoming wounded.
+
+28
+00:01:15,667 --> 00:01:17,625
+Away team is on board, Captain.
+
+29
+00:01:23,083 --> 00:01:25,250
+CRUSHER:
+One dead on arrival.
+
+30
+00:01:52,917 --> 00:01:57,583
+PICARD:
+<i>Space, the final frontier.</i>
+
+31
+00:01:57,625 --> 00:02:01,875
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+32
+00:02:01,917 --> 00:02:03,458
+<i>Its continuing mission--</i>
+
+33
+00:02:03,500 --> 00:02:07,208
+<i>to explore</i>
+<i>strange new worlds</i>
+
+34
+00:02:07,250 --> 00:02:11,792
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+35
+00:02:11,834 --> 00:02:15,250
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+36
+00:03:14,917 --> 00:03:18,667
+<i>Captain's Log,</i>
+<i>Stardate 43198.7.</i>
+
+37
+00:03:18,709 --> 00:03:20,583
+<i>The</i> Enterprise
+<i>remains in standard orbit</i>
+
+38
+00:03:20,625 --> 00:03:22,709
+<i>while we investigate</i>
+<i>the tragedy</i>
+
+39
+00:03:22,750 --> 00:03:24,792
+<i>which has struck the away team.</i>
+
+40
+00:03:24,834 --> 00:03:27,208
+<i>Lieutenant Marla Aster,</i>
+<i>ship's archaeologist</i>
+
+41
+00:03:27,250 --> 00:03:30,875
+<i>has been killed in what should</i>
+<i>have been a routine mission.</i>
+
+42
+00:03:30,917 --> 00:03:32,709
+<i>Whatever the explanation</i>
+
+43
+00:03:32,750 --> 00:03:35,709
+<i>it will not bring back</i>
+<i>a valued and trusted officer.</i>
+
+44
+00:03:39,583 --> 00:03:43,333
+Lieutenant?
+
+45
+00:03:43,375 --> 00:03:44,750
+We had completed
+our investigation
+
+46
+00:03:44,792 --> 00:03:46,583
+of the third tunnel.
+
+47
+00:03:46,625 --> 00:03:51,083
+Our scans indicated no weapons
+or traps of any kind.
+
+48
+00:03:51,125 --> 00:03:55,500
+Lieutenant Aster was
+three meters behind me.
+
+49
+00:03:55,542 --> 00:03:57,166
+An explosive device went off.
+
+50
+00:04:00,291 --> 00:04:03,166
+There was no warning.
+
+51
+00:04:03,208 --> 00:04:05,083
+Lieutenant Aster
+bore the full brunt
+
+52
+00:04:05,125 --> 00:04:06,625
+of the detonation.
+
+53
+00:04:15,125 --> 00:04:21,000
+Lieutenant Aster is survived
+by a son, Jeremy, 12 years old.
+
+54
+00:04:22,291 --> 00:04:25,250
+He's aboard the
+<i>Enterprise,</i> sir.
+
+55
+00:04:25,291 --> 00:04:26,792
+And his father?
+
+56
+00:04:26,834 --> 00:04:29,000
+He's also deceased.
+
+57
+00:04:29,041 --> 00:04:30,208
+His only living relatives
+
+58
+00:04:30,250 --> 00:04:32,542
+are an aunt and uncle
+residing on Earth.
+
+59
+00:04:39,667 --> 00:04:40,959
+Where is he now?
+
+60
+00:04:41,000 --> 00:04:42,250
+In class.
+
+61
+00:04:42,291 --> 00:04:44,250
+I've alerted the teacher
+to expect us.
+
+62
+00:04:48,375 --> 00:04:51,000
+WORF:
+Captain!
+
+63
+00:04:51,041 --> 00:04:52,625
+I must accompany you.
+
+64
+00:04:52,667 --> 00:04:54,709
+I commanded the away team.
+
+65
+00:04:54,750 --> 00:04:56,709
+I appreciate your
+offer, Lieutenant.
+
+66
+00:04:56,750 --> 00:04:58,458
+This is my
+responsibility.
+
+67
+00:05:06,583 --> 00:05:08,375
+Picard to Bridge.
+RIKER:
+Yes, Captain.
+
+68
+00:05:08,417 --> 00:05:09,667
+Assign Commander La Forge
+to lead
+
+69
+00:05:09,709 --> 00:05:11,083
+another away team
+to the dig site.
+
+70
+00:05:11,125 --> 00:05:12,667
+I want to know
+why this happened.
+
+71
+00:05:12,709 --> 00:05:13,792
+Yes, Captain.
+
+72
+00:05:13,834 --> 00:05:15,208
+I will be with Counselor Troi
+
+73
+00:05:15,250 --> 00:05:18,041
+and young Jeremy Aster.
+
+74
+00:05:18,083 --> 00:05:19,458
+I understand.
+
+75
+00:05:19,500 --> 00:05:21,333
+Riker out.
+
+76
+00:05:32,166 --> 00:05:35,750
+He had to do
+the same thing for me.
+
+77
+00:05:35,792 --> 00:05:38,583
+Do you know Jeremy well?
+
+78
+00:05:38,625 --> 00:05:41,500
+But I know what this
+is going to be like for him.
+
+79
+00:05:41,542 --> 00:05:44,291
+It's part of life
+in Starfleet, Wesley.
+
+80
+00:05:44,333 --> 00:05:45,750
+I know.
+
+81
+00:05:45,792 --> 00:05:48,333
+They're very careful
+to prepare us for anything.
+
+82
+00:05:48,375 --> 00:05:49,500
+But still...
+
+83
+00:05:49,542 --> 00:05:50,834
+I know.
+
+84
+00:05:53,959 --> 00:05:55,875
+How do you get used to it?
+
+85
+00:05:55,917 --> 00:05:59,000
+To telling them?
+
+86
+00:05:59,041 --> 00:06:01,000
+You hope you never do.
+
+87
+00:06:35,709 --> 00:06:38,625
+I sense the weight
+of this duty on you, Captain.
+
+88
+00:06:43,166 --> 00:06:45,166
+I really wonder...
+
+89
+00:06:47,792 --> 00:06:49,166
+Halt.
+
+90
+00:06:56,125 --> 00:07:01,750
+I've always believed that
+carrying children on a starship
+
+91
+00:07:01,792 --> 00:07:07,417
+is a very questionable policy.
+
+92
+00:07:07,458 --> 00:07:09,875
+Serving on a starship means
+
+93
+00:07:09,917 --> 00:07:13,583
+accepting certain risks,
+certain dangers.
+
+94
+00:07:17,041 --> 00:07:20,792
+Did Jeremy Aster
+make that choice?
+
+95
+00:07:20,834 --> 00:07:23,208
+Death and loss are
+an integral part
+
+96
+00:07:23,250 --> 00:07:25,291
+of life everywhere.
+
+97
+00:07:25,333 --> 00:07:27,959
+Leaving him on Earth would
+not have protected him.
+
+98
+00:07:28,000 --> 00:07:29,250
+No, but the Earth
+isn't likely
+
+99
+00:07:29,291 --> 00:07:30,667
+to be ordered
+to the Neutral Zone
+
+100
+00:07:30,709 --> 00:07:33,625
+or to repel a Romulan attack.
+
+101
+00:07:33,667 --> 00:07:35,083
+It was my command
+which sent
+
+102
+00:07:35,125 --> 00:07:36,583
+his mother to her death.
+
+103
+00:07:36,625 --> 00:07:38,917
+She understood her mission
+and my duty.
+
+104
+00:07:42,125 --> 00:07:44,083
+Will he?
+
+105
+00:07:44,125 --> 00:07:46,917
+In time, and with help.
+
+106
+00:07:49,166 --> 00:07:50,959
+Wesley Crusher does.
+
+107
+00:07:53,834 --> 00:07:57,375
+He does, and so will Jeremy.
+
+108
+00:08:04,166 --> 00:08:05,500
+Resume.
+
+109
+00:08:16,291 --> 00:08:19,959
+Jeremy, I have some bad news.
+
+110
+00:08:20,000 --> 00:08:21,625
+There's been an accident.
+
+111
+00:08:24,291 --> 00:08:27,417
+Your mother... has died.
+
+112
+00:08:35,917 --> 00:08:37,709
+How, sir?
+
+113
+00:08:37,750 --> 00:08:41,667
+An explosive device
+at the mission site.
+
+114
+00:08:41,709 --> 00:08:44,333
+She died instantly.
+
+115
+00:08:44,375 --> 00:08:47,000
+I understand.
+
+116
+00:08:47,041 --> 00:08:51,166
+Jeremy, I know your mother
+loved you very much.
+
+117
+00:08:55,500 --> 00:09:00,000
+I'm told that
+your father is also dead.
+
+118
+00:09:00,041 --> 00:09:02,083
+Yes, sir.
+
+119
+00:09:02,125 --> 00:09:05,458
+He died five years ago
+from a Rushton infection.
+
+120
+00:09:10,667 --> 00:09:12,542
+I'm all alone now, sir.
+
+121
+00:09:15,375 --> 00:09:18,917
+Jeremy,
+on the Starship<i> Enterprise</i>
+
+122
+00:09:18,959 --> 00:09:23,875
+no one is alone.
+
+123
+00:09:23,917 --> 00:09:25,375
+No one.
+
+124
+00:09:41,709 --> 00:09:43,083
+Excuse me, sir.
+
+125
+00:09:43,125 --> 00:09:45,542
+Am I intruding?
+
+126
+00:09:45,583 --> 00:09:47,417
+No. Sit down.
+
+127
+00:09:52,458 --> 00:09:56,875
+How well did you know
+Lieutenant Aster?
+
+128
+00:09:56,917 --> 00:09:58,709
+We spent some time together.
+
+129
+00:10:00,792 --> 00:10:05,250
+Not very well.
+
+130
+00:10:05,291 --> 00:10:06,834
+How well did you know her?
+
+131
+00:10:06,875 --> 00:10:07,959
+Why do you ask?
+
+132
+00:10:08,000 --> 00:10:09,417
+Well, you just asked me.
+
+133
+00:10:09,458 --> 00:10:13,125
+But... why do you
+ask the question?
+
+134
+00:10:13,166 --> 00:10:16,000
+Since her death, I have been
+asked several times
+
+135
+00:10:16,041 --> 00:10:19,333
+to define how well
+I knew Lieutenant Aster.
+
+136
+00:10:19,375 --> 00:10:21,375
+And I heard you ask Wesley
+on the Bridge
+
+137
+00:10:21,417 --> 00:10:24,291
+how well he knew Jeremy.
+
+138
+00:10:24,333 --> 00:10:28,917
+Does the question of familiarity
+have some bearing on death?
+
+139
+00:10:32,125 --> 00:10:37,500
+Do you remember how we all felt
+when Tasha died?
+
+140
+00:10:37,542 --> 00:10:41,333
+I do not sense
+the same feelings of absence
+
+141
+00:10:41,375 --> 00:10:43,750
+that I associate
+with Lieutenant Yar
+
+142
+00:10:43,792 --> 00:10:46,667
+although I cannot say
+precisely why.
+
+143
+00:10:46,709 --> 00:10:48,583
+Just human nature, Data.
+
+144
+00:10:48,625 --> 00:10:50,125
+Human nature, sir?
+
+145
+00:10:50,166 --> 00:10:53,417
+We feel a loss more intensely
+when it's a friend.
+
+146
+00:10:53,458 --> 00:10:55,041
+Hmm.
+
+147
+00:10:55,083 --> 00:10:58,583
+But should not the feelings
+run just as deep
+
+148
+00:10:58,625 --> 00:11:00,875
+regardless of who has died?
+
+149
+00:11:03,458 --> 00:11:04,875
+Maybe they should, Data.
+
+150
+00:11:04,917 --> 00:11:06,625
+Maybe if we felt any loss
+
+151
+00:11:06,667 --> 00:11:11,250
+as keenly as we felt the death
+of one close to us
+
+152
+00:11:11,291 --> 00:11:14,333
+human history
+would be a lot less bloody.
+
+153
+00:11:14,375 --> 00:11:16,083
+La Forge to Riker.
+
+154
+00:11:16,125 --> 00:11:17,458
+You're back, Geordi?
+
+155
+00:11:17,500 --> 00:11:20,291
+Yes, sir, and we brought back
+a souvenir.
+
+156
+00:11:22,917 --> 00:11:24,834
+LA FORGE:
+There are five more just like it
+
+157
+00:11:24,875 --> 00:11:27,417
+all identical to the one
+that killed Lieutenant Aster.
+
+158
+00:11:27,458 --> 00:11:30,500
+They employ a subspace
+proximity detonator.
+
+159
+00:11:30,542 --> 00:11:32,458
+A normal tricorder
+would never detect it.
+
+160
+00:11:32,500 --> 00:11:35,500
+How long would you say
+they've been there, Data?
+
+161
+00:11:35,542 --> 00:11:38,667
+It comes from the time
+of the Koinonian wars, sir.
+
+162
+00:11:38,709 --> 00:11:40,250
+RIKER:
+Did you find them all, Geordi?
+
+163
+00:11:40,291 --> 00:11:43,250
+Yeah, but, uh...
+
+164
+00:11:43,291 --> 00:11:46,792
+Well, it seemed like they were
+left there to be found.
+
+165
+00:11:46,834 --> 00:11:48,250
+Left by whom?
+
+166
+00:11:48,291 --> 00:11:50,375
+There are no indications
+of life on this planet.
+
+167
+00:11:50,417 --> 00:11:51,959
+I don't know, Captain
+
+168
+00:11:52,000 --> 00:11:53,250
+but it was pretty obvious
+that they'd been recently
+
+169
+00:11:53,291 --> 00:11:55,667
+pulled out of the ground
+and defused.
+
+170
+00:11:59,917 --> 00:12:03,125
+I have made my report
+to the Captain.
+
+171
+00:12:03,166 --> 00:12:04,458
+I'm more interested
+
+172
+00:12:04,500 --> 00:12:08,959
+in how you feel
+about what happened.
+
+173
+00:12:09,000 --> 00:12:13,083
+I sense great anger.
+
+174
+00:12:13,125 --> 00:12:14,917
+I cannot seek revenge
+
+175
+00:12:14,959 --> 00:12:19,875
+against an enemy who was turned
+to dust centuries ago.
+
+176
+00:12:19,917 --> 00:12:22,291
+Her death was senseless.
+
+177
+00:12:22,333 --> 00:12:24,625
+The last victim
+of a forgotten war.
+
+178
+00:12:28,875 --> 00:12:32,166
+Go on.
+
+179
+00:12:32,208 --> 00:12:34,083
+There is nothing more
+to be said.
+
+180
+00:12:38,166 --> 00:12:41,417
+A person died
+under your command.
+
+181
+00:12:41,458 --> 00:12:42,917
+It may happen again.
+
+182
+00:12:42,959 --> 00:12:46,083
+If you can't learn
+to release the anger
+and the guilt
+
+183
+00:12:46,125 --> 00:12:47,542
+to talk about it...
+
+184
+00:12:47,583 --> 00:12:51,834
+A leader must stand alone,
+as Captain Picard does.
+
+185
+00:12:51,875 --> 00:12:54,125
+Captain Picard talks to me.
+
+186
+00:13:02,959 --> 00:13:06,166
+Then, may I seek your counsel
+
+187
+00:13:06,208 --> 00:13:10,000
+on my plan
+to make<i> R'uustai</i> with the boy.
+
+188
+00:13:10,041 --> 00:13:11,834
+The bonding?
+
+189
+00:13:11,875 --> 00:13:14,417
+It is my right.
+
+190
+00:13:14,458 --> 00:13:19,417
+It's very generous, Worf,
+but he's not a Klingon child.
+
+191
+00:13:19,458 --> 00:13:21,834
+He has different
+sensibilities.
+
+192
+00:13:21,875 --> 00:13:23,000
+He is an orphan.
+
+193
+00:13:23,041 --> 00:13:25,333
+I am an orphan.
+
+194
+00:13:25,375 --> 00:13:27,500
+He will understand.
+
+195
+00:13:27,542 --> 00:13:31,834
+Right now, there isn't
+much he can understand.
+
+196
+00:13:31,875 --> 00:13:36,166
+He's holding all
+his feelings inside.
+
+197
+00:13:36,208 --> 00:13:37,834
+Children often feel
+
+198
+00:13:37,875 --> 00:13:42,375
+that they must be true to
+the memory of a lost parent.
+
+199
+00:13:42,417 --> 00:13:44,417
+If you offer them
+affection too soon
+
+200
+00:13:44,458 --> 00:13:47,667
+they can feel guilty
+returning that affection--
+
+201
+00:13:47,709 --> 00:13:51,875
+as if they're betraying
+the love of the parent.
+
+202
+00:13:51,917 --> 00:13:54,291
+I only wish to honor his mother.
+
+203
+00:13:54,333 --> 00:13:55,917
+I know.
+
+204
+00:13:55,959 --> 00:14:00,667
+And I understand this
+means a great deal to you.
+
+205
+00:14:00,709 --> 00:14:04,000
+But you must be prepared.
+
+206
+00:14:04,041 --> 00:14:06,166
+He's very angry, too.
+
+207
+00:14:06,208 --> 00:14:08,792
+But his anger is
+deep inside him.
+
+208
+00:14:08,834 --> 00:14:10,834
+When he touches it,
+it will strike out
+
+209
+00:14:10,875 --> 00:14:14,875
+in many directions,
+including yours.
+
+210
+00:14:14,917 --> 00:14:17,083
+Be with him.
+
+211
+00:14:17,125 --> 00:14:21,625
+Talk to him, but
+don't rush this.
+
+212
+00:14:21,667 --> 00:14:23,208
+When he's ready,
+we'll know.
+
+213
+00:14:34,000 --> 00:14:37,208
+JEREMY:
+Captain Patches, we have
+an alien ship in front of us.
+
+214
+00:14:37,250 --> 00:14:38,667
+What shall we do, Captain?
+
+215
+00:14:38,709 --> 00:14:39,959
+Oh, no, we've been hit,
+Captain.
+
+216
+00:14:40,000 --> 00:14:41,709
+We're going down!
+
+217
+00:14:41,750 --> 00:14:43,250
+MAN (<i> chuckling</i> ):
+That was great.
+
+218
+00:14:43,291 --> 00:14:45,500
+Now, uh, let's
+get a shot of Mom.
+
+219
+00:14:45,542 --> 00:14:47,625
+What are you doing?
+
+220
+00:14:47,667 --> 00:14:49,792
+I'll turn your lens
+into pottery shards.
+
+221
+00:14:49,834 --> 00:14:51,375
+Go away. Go away.
+
+222
+00:14:51,417 --> 00:14:52,667
+Go away!
+
+223
+00:14:52,709 --> 00:14:56,625
+Over there, over there.
+
+224
+00:14:56,667 --> 00:14:57,750
+(<i> cat meows</i> )
+
+225
+00:14:57,792 --> 00:14:59,542
+Patches.
+
+226
+00:14:59,583 --> 00:15:01,041
+Captain Patches...
+(<i> door chimes</i> )
+
+227
+00:15:01,083 --> 00:15:02,834
+...is coming in for a landing
+on the sofa.
+
+228
+00:15:02,875 --> 00:15:04,750
+Oh, no! He's going to crash...
+
+229
+00:15:04,792 --> 00:15:06,375
+(<i> turns off device</i> )
+
+230
+00:15:17,583 --> 00:15:20,166
+Jeremy Aster?
+
+231
+00:15:20,208 --> 00:15:21,417
+I am Lieutenant Worf.
+
+232
+00:15:21,458 --> 00:15:24,208
+May I enter?
+
+233
+00:15:24,250 --> 00:15:27,500
+You were in command
+of the away team.
+
+234
+00:15:27,542 --> 00:15:28,834
+Yes.
+
+235
+00:15:28,875 --> 00:15:32,375
+I was with Lieutenant Aster,
+your mother
+
+236
+00:15:32,417 --> 00:15:36,583
+when she died.
+
+237
+00:15:36,625 --> 00:15:39,667
+You're a Klingon, aren't you?
+
+238
+00:15:39,709 --> 00:15:41,166
+Yes.
+
+239
+00:15:43,208 --> 00:15:47,417
+We studied about Klingons
+in school.
+
+240
+00:15:47,458 --> 00:15:51,250
+What did they teach you
+about us?
+
+241
+00:15:51,291 --> 00:15:53,250
+You used to be
+our enemies.
+
+242
+00:15:53,291 --> 00:15:56,083
+Did they also teach you
+that every Klingon hopes
+
+243
+00:15:56,125 --> 00:15:58,709
+to die in the line of duty
+as your mother did?
+
+244
+00:16:03,625 --> 00:16:09,917
+In my tradition, we do not
+grieve the loss of the body.
+
+245
+00:16:09,959 --> 00:16:14,166
+We celebrate the releasing
+of the spirit.
+
+246
+00:16:14,208 --> 00:16:15,333
+I understand death.
+
+247
+00:16:15,375 --> 00:16:18,166
+They teach us all about it.
+
+248
+00:16:18,208 --> 00:16:23,375
+Jeremy Aster, we may
+both understand it
+
+249
+00:16:23,417 --> 00:16:26,250
+but we must bring meaning
+to your mother's death.
+
+250
+00:16:31,375 --> 00:16:34,250
+Perhaps we can do it together.
+
+251
+00:16:41,333 --> 00:16:42,458
+(<i> door chimes</i> )
+
+252
+00:16:42,500 --> 00:16:43,834
+Come.
+
+253
+00:16:46,041 --> 00:16:47,333
+Counselor.
+
+254
+00:16:47,375 --> 00:16:48,458
+How is the boy?
+
+255
+00:16:48,500 --> 00:16:50,000
+He's being very brave.
+
+256
+00:16:50,041 --> 00:16:51,500
+Good.
+
+257
+00:16:51,542 --> 00:16:54,792
+No, he has to get past brave.
+
+258
+00:16:54,834 --> 00:16:56,208
+He's very angry
+
+259
+00:16:56,250 --> 00:16:58,542
+and he has to learn
+how to express that anger
+
+260
+00:16:58,583 --> 00:17:00,709
+before he can really say
+good-bye to his mother.
+
+261
+00:17:03,625 --> 00:17:05,500
+How can we help?
+
+262
+00:17:05,542 --> 00:17:08,625
+Well, I've asked Beverly
+if we might get Wesley
+
+263
+00:17:08,667 --> 00:17:11,667
+to talk to Jeremy about
+his father's death.
+
+264
+00:17:11,709 --> 00:17:13,291
+Oh.
+
+265
+00:17:13,333 --> 00:17:16,208
+The one unusual
+element is Worf.
+
+266
+00:17:16,250 --> 00:17:17,667
+Oh?
+
+267
+00:17:17,709 --> 00:17:20,834
+In many ways, he's suffering
+as badly as the boy.
+
+268
+00:17:20,875 --> 00:17:22,250
+He wishes to involve Jeremy
+
+269
+00:17:22,291 --> 00:17:26,041
+in a Klingon ceremony
+called<i> R'uustai--</i>
+
+270
+00:17:26,083 --> 00:17:28,625
+the bonding.
+
+271
+00:17:28,667 --> 00:17:30,500
+I know of that.
+
+272
+00:17:30,542 --> 00:17:32,834
+Well, perhaps it will be
+helpful to both of them.
+
+273
+00:17:32,875 --> 00:17:35,792
+I don't think Jeremy's ready
+to accept Worf right now.
+
+274
+00:17:35,834 --> 00:17:37,458
+Perhaps later, but...
+
+275
+00:17:37,500 --> 00:17:40,041
+it will have to be
+handled most delicately.
+
+276
+00:17:40,083 --> 00:17:41,417
+As you always do.
+
+277
+00:17:43,959 --> 00:17:45,917
+I break the unpleasant news
+
+278
+00:17:45,959 --> 00:17:47,625
+and there
+my responsibility ends
+
+279
+00:17:47,667 --> 00:17:49,125
+but you...
+
+280
+00:17:49,166 --> 00:17:50,709
+you have to stay with them
+
+281
+00:17:50,750 --> 00:17:54,041
+through the entire
+grieving process.
+
+282
+00:17:54,083 --> 00:17:58,625
+We deal with our pain
+in many different ways
+
+283
+00:17:58,667 --> 00:18:01,709
+but, over the years, I've
+discovered it's in joy
+
+284
+00:18:01,750 --> 00:18:05,750
+that the uniqueness of each
+individual is revealed.
+
+285
+00:18:05,792 --> 00:18:09,959
+If I can help a person
+back to a state of joy...
+
+286
+00:18:10,000 --> 00:18:12,959
+Well, my role
+has its rewards.
+
+287
+00:18:13,000 --> 00:18:14,542
+RIKER:
+Captain, we're picking up
+
+288
+00:18:14,583 --> 00:18:16,375
+an energy field
+on the planet's surface.
+
+289
+00:18:23,709 --> 00:18:25,959
+Location?
+
+290
+00:18:26,041 --> 00:18:29,458
+Two kilometers north of
+the away team's beam-down point.
+
+291
+00:18:29,500 --> 00:18:31,250
+Indeed?
+
+292
+00:18:31,291 --> 00:18:34,667
+Full scan.
+
+293
+00:18:34,709 --> 00:18:36,291
+DATA:
+Inconclusive, Captain.
+
+294
+00:18:36,333 --> 00:18:40,333
+Sir, I'm sensing a
+presence on the planet.
+
+295
+00:18:40,375 --> 00:18:41,375
+Very vague.
+
+296
+00:18:41,417 --> 00:18:43,125
+Life-form?
+I can't be sure.
+
+297
+00:18:43,166 --> 00:18:46,875
+The emotions of the
+crew are particularly
+strong right now.
+
+298
+00:18:46,917 --> 00:18:49,417
+It's difficult
+to filter them out.
+
+299
+00:18:49,458 --> 00:18:51,625
+Data, scan analysis
+on main viewer.
+
+300
+00:19:02,458 --> 00:19:04,625
+Hi.
+
+301
+00:19:04,667 --> 00:19:06,917
+Hi.
+
+302
+00:19:06,959 --> 00:19:09,083
+Troi stopped by
+a little while ago.
+
+303
+00:19:09,125 --> 00:19:10,375
+She was wondering
+if you might be willing
+
+304
+00:19:10,417 --> 00:19:12,625
+to talk to Jeremy Aster
+at some point.
+
+305
+00:19:14,917 --> 00:19:16,542
+Me?
+
+306
+00:19:19,583 --> 00:19:20,959
+What for?
+
+307
+00:19:21,000 --> 00:19:22,625
+About your dad.
+
+308
+00:19:25,500 --> 00:19:27,041
+What am<i> I</i> going to tell him?
+
+309
+00:19:27,083 --> 00:19:28,583
+It would help him
+to talk to somebody
+
+310
+00:19:28,625 --> 00:19:30,250
+who's been through this.
+
+311
+00:19:33,208 --> 00:19:35,208
+We had each other, Wes.
+
+312
+00:19:35,250 --> 00:19:37,834
+He doesn't have anyone
+to lean on right now
+
+313
+00:19:37,875 --> 00:19:39,375
+and he might be more comfortable
+
+314
+00:19:39,417 --> 00:19:42,709
+talking to someone who's not
+that much older than he is.
+
+315
+00:19:42,750 --> 00:19:45,875
+Okay, I'll think about it.
+
+316
+00:19:47,375 --> 00:19:49,291
+Okay.
+
+317
+00:20:07,000 --> 00:20:09,583
+Do you ever think
+about him, Mom?
+
+318
+00:20:09,625 --> 00:20:11,166
+Your father?
+
+319
+00:20:13,750 --> 00:20:16,083
+Sure, I do.
+
+320
+00:20:16,125 --> 00:20:22,041
+Sometimes, I can't even remember
+what his face looks like.
+
+321
+00:20:22,083 --> 00:20:23,834
+It scares me.
+
+322
+00:20:27,000 --> 00:20:31,250
+It happens to all of us, Wes.
+
+323
+00:20:31,291 --> 00:20:33,750
+Sometimes...
+
+324
+00:20:33,792 --> 00:20:38,875
+I can't get his face
+out of my mind.
+
+325
+00:20:38,917 --> 00:20:42,417
+Today... today, it's like...
+
+326
+00:20:42,458 --> 00:20:47,542
+I can see it all as clearly
+as if it were yesterday.
+
+327
+00:20:47,583 --> 00:20:49,959
+I can remember
+the way Dad looked
+
+328
+00:20:50,000 --> 00:20:52,458
+when he hugged me good-bye.
+
+329
+00:20:52,500 --> 00:20:55,458
+Captain Picard's eyes
+when he came to tell us...
+
+330
+00:21:03,458 --> 00:21:07,166
+Data, run comparison
+of known phenomena.
+
+331
+00:21:07,208 --> 00:21:10,458
+The pattern has no exact match
+in Federation records, sir.
+
+332
+00:21:10,500 --> 00:21:11,625
+Is it alive?
+
+333
+00:21:11,667 --> 00:21:13,500
+A possibility.
+
+334
+00:21:13,542 --> 00:21:17,000
+LA FORGE:
+Captain, I'm getting
+an unusual magnetic flux reading
+
+335
+00:21:17,041 --> 00:21:20,625
+from the anti-matter
+containment pods.
+
+336
+00:21:20,667 --> 00:21:22,417
+My god.
+
+337
+00:21:22,458 --> 00:21:23,834
+JEREMY:
+Wait a minute, wait a minute.
+
+338
+00:21:23,875 --> 00:21:25,792
+Okay, you got
+ten seconds more, Mom.
+
+339
+00:21:25,834 --> 00:21:28,000
+No peeking.
+
+340
+00:21:28,041 --> 00:21:29,583
+Come on, Patches, in here.
+
+341
+00:21:29,625 --> 00:21:31,041
+Shh.
+
+342
+00:21:31,083 --> 00:21:32,667
+Okay, Mom, we're ready.
+
+343
+00:21:32,709 --> 00:21:37,291
+ASTER:
+Jeremy, I'm getting closer.
+
+344
+00:21:37,333 --> 00:21:39,041
+Jeremy?
+
+345
+00:21:39,083 --> 00:21:41,542
+I'm going to find you.
+
+346
+00:21:41,583 --> 00:21:43,333
+You must be in here somewhere.
+
+347
+00:21:44,959 --> 00:21:47,041
+Jeremy?
+
+348
+00:21:48,458 --> 00:21:50,250
+Mom?!
+
+349
+00:21:59,375 --> 00:22:01,917
+All systems
+are functioning normally.
+
+350
+00:22:01,959 --> 00:22:05,500
+Still, there's this fluctuation
+in the containment field.
+
+351
+00:22:05,542 --> 00:22:06,875
+I can't account for it.
+
+352
+00:22:06,917 --> 00:22:08,083
+Data, is this possibly related
+
+353
+00:22:08,125 --> 00:22:10,000
+to the energy fields
+on the planet?
+
+354
+00:22:10,041 --> 00:22:11,834
+There is a beam of highly
+charged particles
+
+355
+00:22:11,875 --> 00:22:13,667
+emanating from the planet, sir
+
+356
+00:22:13,709 --> 00:22:16,125
+but I cannot pinpoint
+the location yet.
+
+357
+00:22:16,166 --> 00:22:21,458
+Captain, there's a presence
+on the<i> Enterprise.</i>
+
+358
+00:22:21,500 --> 00:22:22,834
+An alien presence?
+
+359
+00:22:22,875 --> 00:22:25,750
+DATA:
+No intruder noted
+by the sensors, sir.
+
+360
+00:22:25,792 --> 00:22:27,709
+There is a presence.
+
+361
+00:22:30,875 --> 00:22:32,250
+Security, all decks,
+yellow alert.
+
+362
+00:22:32,291 --> 00:22:33,834
+Possible intruder.
+
+363
+00:22:47,125 --> 00:22:49,542
+They said you were dead.
+
+364
+00:22:49,583 --> 00:22:52,000
+There was a mistake.
+
+365
+00:22:52,041 --> 00:22:53,458
+It's okay.
+
+366
+00:22:59,375 --> 00:23:01,166
+But there was an explosion.
+
+367
+00:23:01,208 --> 00:23:02,792
+You were hurt.
+
+368
+00:23:02,834 --> 00:23:05,500
+I'm fine.
+
+369
+00:23:05,542 --> 00:23:08,375
+You mustn't think
+anymore about this.
+
+370
+00:23:08,417 --> 00:23:09,834
+The important thing is
+
+371
+00:23:09,875 --> 00:23:11,917
+I'm never going
+to leave you again.
+
+372
+00:23:17,041 --> 00:23:19,041
+I think somebody needs a hug.
+
+373
+00:23:40,542 --> 00:23:43,041
+We have to go now.
+
+374
+00:23:43,083 --> 00:23:44,750
+Where?
+
+375
+00:23:44,792 --> 00:23:46,291
+To the planet.
+
+376
+00:23:48,792 --> 00:23:51,542
+That's where we're
+going to live now.
+
+377
+00:23:51,583 --> 00:23:54,000
+We're not going to stay
+on the<i> Enterprise</i> anymore?
+
+378
+00:23:54,041 --> 00:23:57,083
+No, we're going to live
+in a home.
+
+379
+00:23:57,125 --> 00:24:01,125
+Just like we used to
+on Earth.
+
+380
+00:24:01,166 --> 00:24:04,083
+You'll see.
+
+381
+00:24:04,125 --> 00:24:05,792
+I promise.
+
+382
+00:24:09,875 --> 00:24:11,291
+(<i> door chimes</i> )
+
+383
+00:24:15,375 --> 00:24:17,125
+Lieutenant Worf,
+did they tell you?
+
+384
+00:24:17,166 --> 00:24:18,542
+It was a mistake.
+
+385
+00:24:18,583 --> 00:24:19,542
+She didn't die.
+
+386
+00:24:19,583 --> 00:24:20,500
+She's alive.
+
+387
+00:24:20,542 --> 00:24:21,750
+Jeremy, come here.
+
+388
+00:24:21,792 --> 00:24:24,792
+Lieutenant Worf,
+it's all right.
+
+389
+00:24:24,834 --> 00:24:26,792
+I'm here for the boy.
+
+390
+00:24:28,250 --> 00:24:30,375
+Lieutenant Worf
+to Captain Picard.
+
+391
+00:24:30,417 --> 00:24:31,583
+Go ahead.
+
+392
+00:24:31,625 --> 00:24:35,834
+Lieutenant Aster
+is in her quarters.
+
+393
+00:24:35,875 --> 00:24:37,250
+Repeat, Worf?
+
+394
+00:24:37,291 --> 00:24:39,875
+Lieutenant Aster is here.
+
+395
+00:24:39,917 --> 00:24:41,917
+In her quarters, with the boy.
+
+396
+00:24:41,959 --> 00:24:43,208
+PICARD:
+Do not provoke her
+
+397
+00:24:43,250 --> 00:24:45,458
+or interfere in any way
+until I arrive.
+
+398
+00:24:45,500 --> 00:24:48,250
+Picard out.
+
+399
+00:24:48,291 --> 00:24:50,500
+Number One, have security
+moving that way
+
+400
+00:24:50,542 --> 00:24:53,208
+but tell them
+to keep their distance.
+
+401
+00:24:53,250 --> 00:24:55,875
+You have the Bridge.
+
+402
+00:24:55,917 --> 00:24:57,375
+Counselor.
+
+403
+00:25:01,917 --> 00:25:03,875
+There is nothing
+to worry about.
+
+404
+00:25:03,917 --> 00:25:08,166
+I'm going to take care of
+Jeremy and make him happy.
+
+405
+00:25:08,208 --> 00:25:09,834
+It's time to go.
+
+406
+00:25:09,875 --> 00:25:11,458
+Where are you taking the child?
+
+407
+00:25:11,500 --> 00:25:13,208
+To the planet.
+
+408
+00:25:13,250 --> 00:25:14,625
+Come, Jeremy.
+
+409
+00:25:23,458 --> 00:25:24,500
+Worf to Picard.
+
+410
+00:25:24,542 --> 00:25:25,834
+They're leaving their quarters.
+
+411
+00:25:28,500 --> 00:25:32,166
+Captain, I believe we're headed
+for Transporter Room 3.
+
+412
+00:25:32,208 --> 00:25:33,667
+We're on our way.
+
+413
+00:25:39,709 --> 00:25:41,041
+Chief O'Brien.
+
+414
+00:25:41,083 --> 00:25:43,000
+Jeremy and I are going
+down to the surface.
+
+415
+00:25:53,709 --> 00:25:55,625
+Who are you?
+
+416
+00:25:55,667 --> 00:25:57,750
+I'm Marla Aster.
+
+417
+00:25:57,792 --> 00:25:58,750
+It's my mother, Captain.
+
+418
+00:25:58,792 --> 00:26:00,333
+She's alive.
+
+419
+00:26:00,375 --> 00:26:01,792
+What do you want?
+
+420
+00:26:01,834 --> 00:26:04,166
+To take my child
+down to the planet.
+
+421
+00:26:04,208 --> 00:26:05,375
+I cannot permit that.
+
+422
+00:26:05,417 --> 00:26:07,375
+The boy is my responsibility.
+
+423
+00:26:07,417 --> 00:26:09,875
+I'm here to care for him.
+
+424
+00:26:09,917 --> 00:26:12,458
+He needs me.
+
+425
+00:26:12,500 --> 00:26:13,875
+Why do you resist?
+
+426
+00:26:13,917 --> 00:26:18,166
+Because I don't know
+who or what you are.
+
+427
+00:26:18,208 --> 00:26:20,250
+Can't you see who it is,
+Captain?
+
+428
+00:26:20,291 --> 00:26:23,667
+Jeremy, she appears to be
+your mother, but she is not.
+
+429
+00:26:26,417 --> 00:26:27,583
+What do you mean?
+
+430
+00:26:27,625 --> 00:26:29,000
+You're confusing the boy.
+
+431
+00:26:29,041 --> 00:26:30,041
+Hey!
+
+432
+00:26:30,083 --> 00:26:31,458
+Wait, stop, no!
+
+433
+00:26:31,500 --> 00:26:33,542
+No, wait, stop!
+
+434
+00:26:33,583 --> 00:26:34,667
+Mom!
+
+435
+00:26:34,709 --> 00:26:36,208
+Mom?
+Mom!
+
+436
+00:26:36,250 --> 00:26:37,458
+Jeremy.
+Wait a minute!
+
+437
+00:26:37,500 --> 00:26:38,625
+Come on.
+Would you just let...
+
+438
+00:26:38,667 --> 00:26:40,083
+Jeremy...
+Let go of me!
+
+439
+00:26:40,125 --> 00:26:41,875
+She was right there!
+
+440
+00:26:46,792 --> 00:26:48,125
+What did you do to her?
+
+441
+00:26:48,166 --> 00:26:50,458
+Jeremy, I don't know
+what that was
+
+442
+00:26:50,500 --> 00:26:52,166
+but it was not
+your mother.
+
+443
+00:26:52,208 --> 00:26:53,333
+You saw her.
+
+444
+00:26:53,375 --> 00:26:55,792
+She was here.
+
+445
+00:26:55,834 --> 00:26:58,834
+Your mother's dead.
+
+446
+00:26:58,875 --> 00:27:00,458
+But I touched her.
+
+447
+00:27:00,500 --> 00:27:03,000
+She was real.
+
+448
+00:27:03,041 --> 00:27:04,458
+Why would your real mother
+
+449
+00:27:04,500 --> 00:27:06,375
+want you to go
+down to the planet?
+
+450
+00:27:06,417 --> 00:27:08,709
+There's nothing there
+but dust and rocks.
+
+451
+00:27:13,875 --> 00:27:15,875
+(<i> cat meows</i> )
+
+452
+00:27:25,750 --> 00:27:28,417
+It's my house.
+
+453
+00:27:28,458 --> 00:27:30,667
+It's my house on Earth.
+
+454
+00:27:30,709 --> 00:27:33,291
+Exactly the
+way it was.
+
+455
+00:27:33,333 --> 00:27:35,291
+Remember, Jeremy?
+
+456
+00:27:35,333 --> 00:27:38,500
+How did you do it?
+
+457
+00:27:38,542 --> 00:27:40,500
+Does it matter?
+
+458
+00:27:40,542 --> 00:27:42,583
+Yes, it matters.
+
+459
+00:27:46,417 --> 00:27:50,333
+I am trying to understand
+your resistance.
+
+460
+00:27:50,375 --> 00:27:52,166
+You spoke of
+rocks and dust
+
+461
+00:27:52,208 --> 00:27:54,041
+on the planet.
+
+462
+00:27:54,083 --> 00:27:57,125
+I decided to show you
+what awaits us there.
+
+463
+00:27:57,166 --> 00:28:01,667
+Why would you create
+this fantasy?
+
+464
+00:28:01,709 --> 00:28:04,417
+It's his home.
+
+465
+00:28:04,458 --> 00:28:06,917
+And it makes you
+happy, doesn't it?
+
+466
+00:28:06,959 --> 00:28:09,458
+But it's not real.
+
+467
+00:28:09,500 --> 00:28:11,834
+Isn't it?
+
+468
+00:28:11,875 --> 00:28:13,417
+Jeremy...
+
+469
+00:28:13,458 --> 00:28:15,208
+isn't that really Patches?
+
+470
+00:28:15,250 --> 00:28:16,875
+(<i> meows</i> )
+
+471
+00:28:27,625 --> 00:28:29,834
+He knows me.
+
+472
+00:28:29,875 --> 00:28:31,291
+It's him.
+
+473
+00:28:33,375 --> 00:28:34,959
+It's real.
+
+474
+00:28:35,000 --> 00:28:36,083
+It's all real.
+
+475
+00:28:36,125 --> 00:28:38,000
+TROI:
+No, it's not.
+
+476
+00:28:38,041 --> 00:28:42,458
+Could your real mother
+just make all this appear?
+
+477
+00:28:42,500 --> 00:28:45,583
+You must not
+stay here.
+
+478
+00:28:45,625 --> 00:28:47,375
+Come with me.
+
+479
+00:28:57,792 --> 00:28:59,250
+(<i> Patches purring</i> )
+
+480
+00:28:59,291 --> 00:29:00,792
+I can't.
+
+481
+00:29:05,834 --> 00:29:07,333
+Is the boy in any danger?
+
+482
+00:29:07,375 --> 00:29:08,959
+TROI:
+I don't think so.
+
+483
+00:29:09,000 --> 00:29:11,000
+She seems to want to help him.
+
+484
+00:29:11,041 --> 00:29:12,208
+Help him?
+
+485
+00:29:12,250 --> 00:29:13,792
+By easing his pain.
+
+486
+00:29:13,834 --> 00:29:17,500
+She's very confused
+by our resistance, Captain.
+
+487
+00:29:17,542 --> 00:29:19,000
+Troi, would it be wise
+
+488
+00:29:19,041 --> 00:29:22,041
+to remove Jeremy
+from his cabin?
+
+489
+00:29:22,083 --> 00:29:23,417
+He doesn't want to leave.
+
+490
+00:29:23,458 --> 00:29:25,917
+I would not recommend
+taking him by force.
+
+491
+00:29:25,959 --> 00:29:27,542
+She offers him everything.
+
+492
+00:29:27,583 --> 00:29:30,083
+All we can offer is the cold
+reality of his mother's death.
+
+493
+00:29:30,125 --> 00:29:31,625
+CRUSHER:
+What would you choose?
+
+494
+00:29:31,667 --> 00:29:33,166
+If somebody came along
+and offered to give you
+
+495
+00:29:33,208 --> 00:29:35,959
+back your mother,
+father, or husband
+
+496
+00:29:36,000 --> 00:29:38,458
+would any of us
+say "no" so easily?
+
+497
+00:29:38,500 --> 00:29:41,792
+Counselor, stay with them
+in Jeremy's quarters.
+
+498
+00:29:41,834 --> 00:29:44,583
+We'll try and put an end
+to this from here.
+
+499
+00:29:44,625 --> 00:29:47,041
+Understood.
+
+500
+00:29:47,083 --> 00:29:48,875
+(<i> both laughing</i> )
+
+501
+00:29:48,917 --> 00:29:51,208
+Data, can you determine
+for certain
+
+502
+00:29:51,250 --> 00:29:52,583
+that the energy source
+from the planet
+
+503
+00:29:52,625 --> 00:29:55,583
+is powering this creation?
+
+504
+00:29:55,625 --> 00:29:57,291
+The beam from the planet
+is clearly tapping
+
+505
+00:29:57,333 --> 00:29:59,125
+into the ship's
+anti-matter, Captain.
+
+506
+00:29:59,166 --> 00:30:00,375
+I'd say they're running
+
+507
+00:30:00,417 --> 00:30:02,125
+that manifestation
+off our own energy.
+
+508
+00:30:02,166 --> 00:30:04,291
+So there are limits
+to her power.
+
+509
+00:30:04,333 --> 00:30:07,250
+She needs the transporter
+to get the boy back.
+
+510
+00:30:07,291 --> 00:30:09,667
+So, how do we cut
+the puppet's strings?
+
+511
+00:30:09,709 --> 00:30:11,250
+Increasing the shield's
+harmonics to match
+
+512
+00:30:11,291 --> 00:30:13,166
+our own anti-matter
+containment fields
+
+513
+00:30:13,208 --> 00:30:15,041
+will probably sever the beam.
+
+514
+00:30:15,083 --> 00:30:16,375
+Proceed.
+
+515
+00:30:16,417 --> 00:30:18,250
+Deanna, stand by.
+
+516
+00:30:18,291 --> 00:30:19,959
+Standing by.
+
+517
+00:30:22,542 --> 00:30:28,291
+Jeremy, it's time
+for this to end.
+
+518
+00:30:28,333 --> 00:30:32,208
+It's not real
+and it's over now.
+
+519
+00:30:32,250 --> 00:30:34,291
+ASTER:
+Jeremy, I'm not going
+to leave you
+
+520
+00:30:34,333 --> 00:30:36,208
+ever again.
+
+521
+00:30:36,250 --> 00:30:40,041
+I won't trick you
+or lie to you.
+
+522
+00:30:40,083 --> 00:30:41,583
+ASTER:
+We'll be happy
+together, Jeremy
+
+523
+00:30:41,625 --> 00:30:42,709
+as soon...
+
+524
+00:30:46,959 --> 00:30:48,834
+No.
+
+525
+00:31:09,500 --> 00:31:12,166
+Anti-matter containment pods
+reading nominal.
+
+526
+00:31:12,208 --> 00:31:15,041
+The shield has severed
+the beam, sir.
+
+527
+00:31:15,083 --> 00:31:17,583
+(<i> console beeping</i> )
+
+528
+00:31:17,625 --> 00:31:19,250
+Captain.
+
+529
+00:31:19,291 --> 00:31:20,834
+The energy field.
+
+530
+00:31:25,333 --> 00:31:27,041
+Mr. Crusher
+take us out of here.
+
+531
+00:31:31,834 --> 00:31:34,917
+(<i> alarm wailing</i> )
+
+532
+00:31:39,917 --> 00:31:41,667
+Alien intruder,
+Transporter Room 3.
+
+533
+00:31:41,709 --> 00:31:42,834
+Security alert.
+
+534
+00:31:42,875 --> 00:31:43,917
+Alien...
+
+535
+00:31:45,333 --> 00:31:46,917
+Security to Transporter Room 3.
+
+536
+00:31:46,959 --> 00:31:49,458
+Commander La Forge, Mr. Worf,
+come with me.
+
+537
+00:31:49,500 --> 00:31:51,083
+Number One, you
+have the Bridge.
+
+538
+00:32:03,333 --> 00:32:04,709
+(<i> both yell</i> )
+
+539
+00:32:17,333 --> 00:32:19,542
+Come, Jeremy.
+
+540
+00:32:19,583 --> 00:32:23,417
+We will not let them
+separate us again.
+
+541
+00:32:23,458 --> 00:32:25,000
+We're going home.
+
+542
+00:32:37,458 --> 00:32:39,458
+TROI:
+Captain, she's back
+
+543
+00:32:39,500 --> 00:32:41,792
+and she's trying to take
+Jeremy off the ship again.
+
+544
+00:32:41,834 --> 00:32:43,250
+Acknowledged.
+
+545
+00:32:43,291 --> 00:32:44,750
+Engineering, this
+is La Forge.
+
+546
+00:32:44,792 --> 00:32:46,792
+Shut down power
+to all transporters.
+
+547
+00:32:46,834 --> 00:32:48,083
+I'm on my way.
+
+548
+00:32:48,125 --> 00:32:49,917
+Aye, aye, sir.
+
+549
+00:32:49,959 --> 00:32:52,333
+Lieutenant Worf,
+to Transporter Room 3.
+
+550
+00:32:55,834 --> 00:32:59,583
+Bridge, seal off Deck Eight,
+Corridors "A" and "B."
+
+551
+00:32:59,625 --> 00:33:01,417
+Engaging force fields, Captain.
+
+552
+00:33:01,458 --> 00:33:03,125
+Transporters down.
+
+553
+00:33:19,166 --> 00:33:21,291
+Energy force has left
+Transporter Room 3.
+
+554
+00:33:21,333 --> 00:33:23,792
+Security alert, all decks.
+
+555
+00:33:23,834 --> 00:33:25,709
+La Forge, the intruder
+may try to reinstate
+
+556
+00:33:25,750 --> 00:33:26,959
+transporter power.
+
+557
+00:33:27,000 --> 00:33:28,500
+Understood, Commander.
+
+558
+00:33:54,792 --> 00:33:58,458
+Bridge, release
+security force field 8-B.
+
+559
+00:34:03,667 --> 00:34:05,333
+Hello, Jeremy.
+
+560
+00:34:07,875 --> 00:34:09,959
+How are you?
+
+561
+00:34:10,000 --> 00:34:11,542
+Are you frightened?
+
+562
+00:34:11,583 --> 00:34:12,959
+No.
+
+563
+00:34:15,208 --> 00:34:17,542
+Well, a little, sir.
+
+564
+00:34:17,583 --> 00:34:19,000
+Of course.
+
+565
+00:34:19,041 --> 00:34:21,959
+These are frightening things
+that are happening
+
+566
+00:34:22,000 --> 00:34:25,500
+but we won't let anyone
+harm you.
+
+567
+00:34:25,542 --> 00:34:27,041
+Counselor why
+don't you take the boy
+
+568
+00:34:27,083 --> 00:34:28,709
+to my quarters?
+
+569
+00:34:28,750 --> 00:34:30,166
+No.
+
+570
+00:34:42,417 --> 00:34:44,834
+It's looking over everything,
+Commander...
+
+571
+00:34:44,875 --> 00:34:46,375
+going to school.
+
+572
+00:34:49,625 --> 00:34:50,625
+Let's just hope
+it doesn't
+
+573
+00:34:50,667 --> 00:34:52,166
+blow us to kingdom come
+
+574
+00:34:52,208 --> 00:34:54,834
+while it's figuring out
+how to blow us to kingdom come.
+
+575
+00:34:59,375 --> 00:35:01,875
+(<i> beeping</i> )
+
+576
+00:35:01,917 --> 00:35:04,625
+Power's back
+in Transporter Room 3.
+
+577
+00:35:04,667 --> 00:35:06,625
+Bypassing to manual override.
+
+578
+00:35:06,667 --> 00:35:09,875
+Shutting it down.
+
+579
+00:35:09,917 --> 00:35:11,500
+WORF:
+Transporter is down again.
+
+580
+00:35:11,542 --> 00:35:13,583
+Keep it down, Geordi,
+for as long as you can.
+
+581
+00:35:13,625 --> 00:35:15,000
+Understood, Commander.
+
+582
+00:35:21,709 --> 00:35:24,250
+It is only a matter
+of time, Captain
+
+583
+00:35:24,291 --> 00:35:27,208
+before we can power
+the transporters ourselves.
+
+584
+00:35:27,250 --> 00:35:28,709
+We?
+
+585
+00:35:28,750 --> 00:35:30,583
+For whom else
+do you speak?
+
+586
+00:35:37,250 --> 00:35:38,959
+The accident
+on the surface
+
+587
+00:35:39,000 --> 00:35:44,625
+was caused by a remnant
+of an ancient and tragic era.
+
+588
+00:35:44,667 --> 00:35:48,250
+Two species once
+shared this world--
+
+589
+00:35:48,291 --> 00:35:52,959
+one of energy
+and one of matter.
+
+590
+00:35:53,000 --> 00:35:55,417
+The physical beings
+you call the Koinonians
+
+591
+00:35:55,458 --> 00:35:59,542
+destroyed themselves
+in unending, bitter wars.
+
+592
+00:35:59,583 --> 00:36:01,625
+The surviving life-forms
+on this planet
+
+593
+00:36:01,667 --> 00:36:03,709
+will not tolerate
+any further suffering
+
+594
+00:36:03,750 --> 00:36:07,500
+as a result
+of that dishonorable past.
+
+595
+00:36:07,542 --> 00:36:11,750
+So, they have made
+this possible.
+
+596
+00:36:11,792 --> 00:36:14,333
+They have made<i> me</i> possible.
+
+597
+00:36:14,375 --> 00:36:18,166
+I appreciate your motives...
+
+598
+00:36:18,208 --> 00:36:22,125
+but his mother is dead.
+
+599
+00:36:22,166 --> 00:36:23,792
+He must learn to live with that.
+
+600
+00:36:23,834 --> 00:36:26,208
+I will be every bit
+his mother.
+
+601
+00:36:26,250 --> 00:36:27,959
+But not his mother.
+
+602
+00:36:34,041 --> 00:36:36,041
+Picard to Lieutenant Worf.
+
+603
+00:36:36,083 --> 00:36:38,125
+Go ahead, Captain.
+
+604
+00:36:38,166 --> 00:36:42,041
+Will you escort Ensign Crusher
+to the Aster quarters?
+
+605
+00:36:42,083 --> 00:36:43,083
+Yes, sir.
+
+606
+00:36:43,125 --> 00:36:44,250
+Picard out.
+
+607
+00:36:44,291 --> 00:36:47,750
+Your philosophy is curious,
+Captain.
+
+608
+00:36:47,792 --> 00:36:50,750
+What is so noble about sorrow?
+
+609
+00:36:50,792 --> 00:36:54,083
+I can provide him an existence
+where he will feel no pain
+
+610
+00:36:54,125 --> 00:36:57,333
+no anguish.
+
+611
+00:36:57,375 --> 00:37:01,333
+It is at the heart of our nature
+to feel pain and joy.
+
+612
+00:37:03,125 --> 00:37:09,834
+It is an essential part
+of what makes us what we are.
+
+613
+00:37:09,875 --> 00:37:12,917
+He is alone now in your world.
+
+614
+00:37:12,959 --> 00:37:14,500
+A child...
+
+615
+00:37:14,542 --> 00:37:16,709
+alone.
+
+616
+00:37:16,750 --> 00:37:17,792
+How can you know
+
+617
+00:37:17,834 --> 00:37:20,041
+he won't be happier with me?
+
+618
+00:37:20,083 --> 00:37:24,208
+For a brief moment in time,
+he surely would be.
+
+619
+00:37:24,250 --> 00:37:27,917
+Any of us in his place
+would be.
+
+620
+00:37:27,959 --> 00:37:31,333
+What would Jeremy do
+for friends in your world?
+
+621
+00:37:31,375 --> 00:37:33,917
+He will have
+any friends he needs.
+
+622
+00:37:33,959 --> 00:37:37,875
+And will you provide
+for his education, his health?
+
+623
+00:37:37,917 --> 00:37:39,542
+His growth?
+
+624
+00:37:39,583 --> 00:37:41,667
+A career? A wife?
+
+625
+00:37:45,000 --> 00:37:46,500
+PICARD:
+Yes, it's quite an undertaking
+
+626
+00:37:46,542 --> 00:37:50,250
+you're proposing, isn't it?
+
+627
+00:37:50,291 --> 00:37:53,291
+It is our duty
+to make him happy again.
+
+628
+00:37:53,333 --> 00:37:55,500
+Do you honestly believe
+he would be happy
+
+629
+00:37:55,542 --> 00:37:59,625
+in... this total fiction
+
+630
+00:37:59,667 --> 00:38:02,458
+which you wish
+to create?
+
+631
+00:38:02,500 --> 00:38:05,208
+What reason would he have
+to live?
+
+632
+00:38:05,250 --> 00:38:07,959
+What you're offering
+him is a memory.
+
+633
+00:38:08,000 --> 00:38:11,750
+Something to cherish,
+not to live in.
+
+634
+00:38:11,792 --> 00:38:13,083
+It is part of our life cycle
+
+635
+00:38:13,125 --> 00:38:16,792
+that we accept the death
+of those we love.
+
+636
+00:38:16,834 --> 00:38:18,792
+Jeremy must come to terms
+with his grief.
+
+637
+00:38:18,834 --> 00:38:22,000
+He must not cover it
+or hide away from it.
+
+638
+00:38:22,041 --> 00:38:23,792
+You see, we are mortal.
+
+639
+00:38:23,834 --> 00:38:27,208
+Our time in this universe
+is finite.
+
+640
+00:38:27,250 --> 00:38:29,166
+That is one of the truths
+
+641
+00:38:29,208 --> 00:38:30,959
+that all humans
+must learn.
+
+642
+00:38:38,000 --> 00:38:40,166
+Acting Ensign Crusher
+reporting as ordered, sir.
+
+643
+00:38:40,208 --> 00:38:42,041
+Yes, come in, Wesley.
+
+644
+00:38:42,083 --> 00:38:43,959
+Please stay,
+Lieutenant.
+
+645
+00:38:48,542 --> 00:38:50,750
+Jeremy...
+
+646
+00:38:50,792 --> 00:38:57,041
+Wesley's father died
+on a Starfleet mission
+
+647
+00:38:57,083 --> 00:38:59,083
+when he was younger
+than you are.
+
+648
+00:39:01,000 --> 00:39:02,041
+TROI:
+Wes...
+
+649
+00:39:02,083 --> 00:39:03,542
+your mother told me
+
+650
+00:39:03,583 --> 00:39:06,417
+you were finding it difficult
+to talk to Jeremy.
+
+651
+00:39:06,458 --> 00:39:08,709
+Why is that?
+
+652
+00:39:08,750 --> 00:39:12,208
+I don't know.
+
+653
+00:39:12,250 --> 00:39:14,959
+I just don't want
+to think about it anymore.
+
+654
+00:39:15,000 --> 00:39:18,959
+All this has reminded me
+so much of that day.
+
+655
+00:39:19,000 --> 00:39:22,208
+The day I told you
+your father had been killed.
+
+656
+00:39:22,250 --> 00:39:25,959
+As I recall, Wesley,
+you took it very well.
+
+657
+00:39:26,000 --> 00:39:28,583
+WESLEY:
+My parents had told me
+about the dangers
+
+658
+00:39:28,625 --> 00:39:30,583
+of Starfleet missions.
+
+659
+00:39:30,625 --> 00:39:31,792
+I knew it could happen.
+
+660
+00:39:31,834 --> 00:39:33,625
+So you were prepared.
+
+661
+00:39:33,667 --> 00:39:36,709
+No, I wasn't prepared at all.
+
+662
+00:39:36,750 --> 00:39:39,125
+How can anyone
+be prepared to hear
+
+663
+00:39:39,166 --> 00:39:42,959
+that a parent is never
+coming home again?
+
+664
+00:39:43,000 --> 00:39:46,375
+I tried to be what everyone
+expected of me--
+
+665
+00:39:46,417 --> 00:39:49,709
+brave and mature.
+
+666
+00:39:49,750 --> 00:39:53,792
+Wesley, are you saying that
+you didn't want anybody to see
+
+667
+00:39:53,834 --> 00:39:55,625
+what you were really feeling?
+
+668
+00:39:58,166 --> 00:40:00,458
+Well, what were you
+really feeling?
+
+669
+00:40:00,500 --> 00:40:04,417
+Like somebody had
+kicked me in the head.
+
+670
+00:40:04,458 --> 00:40:07,166
+Somebody?
+
+671
+00:40:07,208 --> 00:40:09,250
+Go on.
+
+672
+00:40:09,291 --> 00:40:11,458
+You've wanted to tell him
+for a long time.
+
+673
+00:40:13,792 --> 00:40:18,083
+I was angry... at you.
+
+674
+00:40:18,125 --> 00:40:19,417
+Why angry?
+
+675
+00:40:19,458 --> 00:40:22,417
+Why were you angry
+at me, Wesley?
+
+676
+00:40:22,458 --> 00:40:24,917
+Were you angry at me
+because I was the one
+
+677
+00:40:24,959 --> 00:40:27,458
+who had told you your
+father was dead?
+
+678
+00:40:27,500 --> 00:40:29,083
+No.
+
+679
+00:40:29,125 --> 00:40:31,166
+Then why?
+
+680
+00:40:31,208 --> 00:40:34,417
+Because you led the mission.
+
+681
+00:40:34,458 --> 00:40:36,875
+You came home and
+my father didn't.
+
+682
+00:40:40,333 --> 00:40:43,500
+How long were you angry
+with the Captain, Wes?
+
+683
+00:40:43,542 --> 00:40:46,542
+For a long time
+
+684
+00:40:46,583 --> 00:40:50,041
+but not anymore, sir.
+
+685
+00:40:50,083 --> 00:40:51,875
+Not even a little.
+
+686
+00:40:54,500 --> 00:40:57,583
+So, Jeremy...
+
+687
+00:40:57,625 --> 00:40:59,041
+you must be
+very angry
+
+688
+00:40:59,083 --> 00:41:01,291
+at Lieutenant Worf.
+
+689
+00:41:01,333 --> 00:41:03,542
+He was in charge of
+your mother's mission
+
+690
+00:41:03,583 --> 00:41:05,709
+just as Captain Picard
+was in command
+
+691
+00:41:05,750 --> 00:41:08,834
+when Wesley's father was killed.
+
+692
+00:41:08,875 --> 00:41:11,375
+Isn't that right?
+
+693
+00:41:11,417 --> 00:41:14,291
+Worf came back.
+
+694
+00:41:14,333 --> 00:41:17,291
+Your mother didn't.
+
+695
+00:41:17,333 --> 00:41:18,417
+Why?
+
+696
+00:41:18,458 --> 00:41:20,667
+Why weren't you
+the one who died?
+
+697
+00:41:20,709 --> 00:41:23,041
+Why did it have
+to be her?
+
+698
+00:41:23,083 --> 00:41:25,750
+He can't answer that.
+
+699
+00:41:25,792 --> 00:41:28,583
+None of us can.
+
+700
+00:41:28,625 --> 00:41:32,041
+Lieutenant Worf
+also lost his parents.
+
+701
+00:41:32,083 --> 00:41:35,750
+WORF:
+They were killed in battle
+when I was six.
+
+702
+00:41:35,792 --> 00:41:41,333
+When I was alone,
+humans helped me.
+
+703
+00:41:41,375 --> 00:41:43,500
+Let me help you.
+
+704
+00:41:43,542 --> 00:41:44,917
+The Marla Aster I knew
+
+705
+00:41:44,959 --> 00:41:48,291
+and honored
+is not in this room
+
+706
+00:41:48,333 --> 00:41:51,625
+nor does she await you
+on the planet.
+
+707
+00:41:51,667 --> 00:41:55,834
+She now only lives here...
+
+708
+00:41:55,875 --> 00:41:57,625
+and here.
+
+709
+00:42:05,333 --> 00:42:08,917
+Join me in the<i> R'uustai,</i>
+the bonding.
+
+710
+00:42:08,959 --> 00:42:13,542
+You will become part of my
+family now and for all time.
+
+711
+00:42:13,583 --> 00:42:15,208
+We will be brothers.
+
+712
+00:43:54,667 --> 00:43:58,083
+<i>SoS jIH batlh SoH.</i>
+
+713
+00:44:00,959 --> 00:44:03,166
+What does that mean?
+
+714
+00:44:04,959 --> 00:44:08,083
+It honors the memory
+of our mothers.
+
+715
+00:44:08,125 --> 00:44:11,834
+We have bonded
+and our families are stronger.
+
+716
+00:44:14,750 --> 00:44:18,375
+<i>SoS jIH batlh SoH.</i>

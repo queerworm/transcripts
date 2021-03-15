@@ -1,0 +1,3192 @@
+1
+00:00:01,375 --> 00:00:05,417
+<i>Captain's Log,</i>
+<i>Stardate 46682.4.</i>
+
+2
+00:00:05,458 --> 00:00:08,458
+<i>The</i> Enterprise<i> is docked</i>
+<i>at the Remmler Array,</i>
+
+3
+00:00:08,500 --> 00:00:10,291
+<i>where it will undergo</i>
+<i>a routine procedure</i>
+
+4
+00:00:10,333 --> 00:00:12,750
+<i>to eliminate accumulated</i>
+<i>baryon particles.</i>
+
+5
+00:00:12,792 --> 00:00:16,917
+<i>In preparation for the sweep,</i>
+<i>we are evacuating the ship.</i>
+
+6
+00:00:16,959 --> 00:00:20,667
+Attention, personnel
+on decks 14 and 15.
+
+7
+00:00:20,709 --> 00:00:23,333
+Your transporter room
+assignment has been changed.
+
+8
+00:00:23,375 --> 00:00:25,125
+Report
+to transporter room three.
+
+9
+00:00:25,166 --> 00:00:29,375
+Captain, we're still
+behind schedule on
+decks seven and eight.
+
+10
+00:00:29,417 --> 00:00:31,875
+Shall I tell Arkaria Base
+there'll be a delay?
+
+11
+00:00:31,917 --> 00:00:34,792
+No. Open up the transporters
+on Cargo Bay Two
+
+12
+00:00:34,834 --> 00:00:36,333
+and divert everyone
+from deck seven to there.
+
+13
+00:00:36,375 --> 00:00:38,333
+That should put us
+back on track.
+Right.
+
+14
+00:00:38,375 --> 00:00:40,875
+All beta shift
+engineering personnel
+
+15
+00:00:40,917 --> 00:00:42,542
+are requested to report
+to main engineering...
+
+16
+00:00:42,583 --> 00:00:45,750
+Captain, the Arkaria Base
+does not have
+
+17
+00:00:45,792 --> 00:00:47,625
+the medical storage units
+I requested.
+
+18
+00:00:47,667 --> 00:00:49,417
+I have seven
+living tissue samples
+
+19
+00:00:49,458 --> 00:00:50,625
+that won't survive
+the baryon sweep
+
+20
+00:00:50,667 --> 00:00:51,709
+any more than
+you and I would.
+
+21
+00:00:51,750 --> 00:00:53,000
+I've tried to
+reason with them.
+
+22
+00:00:53,041 --> 00:00:55,667
+All right, uh, have
+Commander La Forge
+
+23
+00:00:55,709 --> 00:00:57,583
+transport a stasis unit
+from the astrophysics lab.
+
+24
+00:00:57,625 --> 00:01:00,083
+You should be able
+to convert it to
+store tissue samples.
+
+25
+00:01:00,125 --> 00:01:01,875
+Thank you, Captain.
+
+26
+00:01:01,917 --> 00:01:06,125
+All science personnel,
+please check in with
+your section chief
+
+27
+00:01:06,166 --> 00:01:08,041
+for a station-side
+duty assignment.
+
+28
+00:01:08,083 --> 00:01:10,375
+Captain. I'm heading
+to deck seven.
+
+29
+00:01:10,417 --> 00:01:12,208
+I've put the auto-shutdown
+sequence on hold
+
+30
+00:01:12,250 --> 00:01:13,500
+until we get back
+on schedule.
+
+31
+00:01:13,542 --> 00:01:15,208
+Oh, I think we can
+resume the sequence.
+
+32
+00:01:15,250 --> 00:01:17,250
+Counselor Troi is
+taking care of the
+situation on deck seven.
+
+33
+00:01:17,291 --> 00:01:18,542
+Aye, sir.
+
+34
+00:01:20,417 --> 00:01:21,792
+Captain.
+
+35
+00:01:21,834 --> 00:01:23,291
+Bridge.
+
+36
+00:01:28,125 --> 00:01:32,500
+It has been quite
+a day, has it not?
+
+37
+00:01:34,875 --> 00:01:36,458
+Yes, it has.
+
+38
+00:01:38,458 --> 00:01:41,542
+However, a change
+of routine is often
+invigorating
+
+39
+00:01:41,583 --> 00:01:44,792
+and can be a welcome
+diversion after
+a long assignment.
+
+40
+00:01:44,834 --> 00:01:46,000
+Exactly.
+
+41
+00:01:49,458 --> 00:01:54,083
+I understand that Arkaria
+has some very interesting
+weather patterns.
+
+42
+00:01:54,125 --> 00:01:56,667
+Mr. Data,
+are you all right?
+
+43
+00:01:56,709 --> 00:01:59,667
+Yes, sir.
+I am attempting to fill
+
+44
+00:01:59,709 --> 00:02:02,542
+a silent moment with
+nonrelevant conversation.
+
+45
+00:02:02,583 --> 00:02:08,000
+Ah. Small talk.
+Yes, sir.
+
+46
+00:02:08,041 --> 00:02:12,500
+I have found that humans
+often use "small talk"
+during awkward moments.
+
+47
+00:02:12,542 --> 00:02:16,583
+Therefore, I have
+written a new subroutine
+for that purpose.
+
+48
+00:02:16,625 --> 00:02:19,458
+How did I do?
+
+49
+00:02:19,500 --> 00:02:23,709
+Perhaps it was a little...
+<i>too</i> nonrelevant,
+
+50
+00:02:23,750 --> 00:02:27,458
+but if you really are
+interested in small talk,
+
+51
+00:02:27,500 --> 00:02:30,166
+then you should keep your
+eye on Commander Hutchinson
+
+52
+00:02:30,208 --> 00:02:33,083
+at the reception
+this afternoon.
+
+53
+00:02:33,125 --> 00:02:35,166
+He's a master.
+
+54
+00:02:35,208 --> 00:02:38,834
+Hmm. Thank you,
+sir. I will.
+
+55
+00:02:42,000 --> 00:02:43,625
+LA FORGE:
+Captain.
+WORF:
+Captain.
+
+56
+00:02:43,667 --> 00:02:46,291
+(<i> both talking</i> )
+
+57
+00:02:46,333 --> 00:02:48,250
+After you, sir.
+No, after you.
+
+58
+00:02:48,291 --> 00:02:50,083
+No, sir. I believe
+you spoke first.
+
+59
+00:02:50,125 --> 00:02:52,959
+Gentlemen, gentlemen,
+we're running of time.
+Mr. Worf?
+
+60
+00:02:53,000 --> 00:02:54,834
+The computer needs
+your authorization
+
+61
+00:02:54,875 --> 00:02:57,542
+to disable command functions
+during the baryon sweep.
+
+62
+00:02:57,583 --> 00:02:59,500
+Are we ready,
+Commander La Forge?
+
+63
+00:02:59,542 --> 00:03:01,583
+Almost. I've requested two
+additional field diverters,
+
+64
+00:03:01,625 --> 00:03:03,959
+one for the computer core,
+one for the bridge.
+
+65
+00:03:04,000 --> 00:03:04,959
+They haven't been
+installed yet.
+
+66
+00:03:05,000 --> 00:03:06,333
+Additional units?
+
+67
+00:03:06,375 --> 00:03:09,041
+Yes, sir. We've logged,
+in five years,
+
+68
+00:03:09,083 --> 00:03:11,166
+more warp hours than
+most ships do in ten,
+
+69
+00:03:11,208 --> 00:03:13,041
+so our baryon particle
+levels are high.
+
+70
+00:03:13,083 --> 00:03:15,375
+I'm a little concerned
+that when the Remmler Array
+
+71
+00:03:15,417 --> 00:03:16,709
+starts to sweep the ship,
+
+72
+00:03:16,750 --> 00:03:18,583
+it'll have to use
+a stronger beam than normal
+
+73
+00:03:18,625 --> 00:03:20,125
+in order to get rid
+of all the radiation.
+
+74
+00:03:20,166 --> 00:03:21,834
+And that might overload
+the field converters
+
+75
+00:03:21,875 --> 00:03:23,166
+protecting our key systems.
+
+76
+00:03:23,208 --> 00:03:25,291
+How long until the
+new ones are in place?
+
+77
+00:03:25,333 --> 00:03:27,500
+I'd say about 20 minutes.
+
+78
+00:03:27,542 --> 00:03:29,709
+Very well.
+
+79
+00:03:29,750 --> 00:03:33,208
+Computer, disable
+all command functions
+in 30 minutes.
+
+80
+00:03:33,250 --> 00:03:36,000
+Authorization: Picard
+gamma-six-zero-seven-three.
+
+81
+00:03:36,041 --> 00:03:38,917
+Authorization
+acknowledged.
+
+82
+00:03:38,959 --> 00:03:41,959
+Captain.
+Incoming message.
+
+83
+00:03:42,000 --> 00:03:45,000
+It's the station
+administrator, Mr. Orton.
+
+84
+00:03:45,041 --> 00:03:46,500
+In my ready room,
+Mr. Worf.
+
+85
+00:03:46,542 --> 00:03:49,000
+And, Captain, request
+permission to be excused
+
+86
+00:03:49,041 --> 00:03:53,166
+from Commander Hutchinson's
+reception.
+
+87
+00:03:53,208 --> 00:03:54,500
+Permission granted.
+
+88
+00:03:54,542 --> 00:03:57,041
+I wish I could
+excuse myself as well.
+
+89
+00:03:57,083 --> 00:03:58,500
+Captain, permission...
+
+90
+00:03:58,542 --> 00:04:00,083
+Mr. La Forge,
+I cannot excuse
+
+91
+00:04:00,125 --> 00:04:02,083
+my entire senior staff.
+
+92
+00:04:02,125 --> 00:04:04,875
+Mr. Worf beat you to it.
+
+93
+00:04:13,583 --> 00:04:15,166
+Go ahead, Mr. Orton.
+
+94
+00:04:15,208 --> 00:04:18,333
+Captain, if you're
+on schedule, I'd
+like to confirm
+
+95
+00:04:18,375 --> 00:04:21,291
+that we'll begin
+the baryon sweep
+at 1500 hours--
+
+96
+00:04:21,333 --> 00:04:24,291
+approximately
+one hour from now.
+Confirmed.
+
+97
+00:04:24,333 --> 00:04:27,250
+Commander Hutchinson
+also wanted me to make sure
+
+98
+00:04:27,291 --> 00:04:30,375
+that you'll be able to attend
+his reception this afternoon.
+
+99
+00:04:33,083 --> 00:04:36,750
+Tell him I'm
+looking forward to it.
+
+100
+00:04:36,792 --> 00:04:38,959
+He'll be delighted
+to hear that.
+
+101
+00:04:39,000 --> 00:04:41,208
+Arkaria base out.
+
+102
+00:04:59,000 --> 00:05:01,291
+(<i> sighs</i> )
+
+103
+00:05:39,417 --> 00:05:41,333
+Tell Arkaria Base we're
+almost finished here.
+
+104
+00:05:41,375 --> 00:05:43,125
+MAN:
+We're going to need
+two more conduits.
+
+105
+00:05:43,166 --> 00:05:45,709
+WOMAN:
+I need to run a diagnostic
+on the diverter.
+
+106
+00:05:45,750 --> 00:05:48,041
+Get the diverter aligned
+so we can begin
+the isolation procedure.
+
+107
+00:05:48,083 --> 00:05:50,125
+Where's the ODN
+interface?
+
+108
+00:06:17,917 --> 00:06:22,500
+<i>Space, the final frontier.</i>
+
+109
+00:06:22,542 --> 00:06:26,750
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+110
+00:06:26,792 --> 00:06:28,625
+<i>Its continuing mission--</i>
+
+111
+00:06:28,667 --> 00:06:32,166
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+112
+00:06:32,208 --> 00:06:36,583
+<i>to seek out new life</i>
+<i>and new civilizations...</i>
+
+113
+00:06:36,625 --> 00:06:41,500
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+114
+00:07:43,417 --> 00:07:45,291
+(<i> soft music playing</i> )
+
+115
+00:07:45,333 --> 00:07:46,750
+RIKER:
+Your Remmler Array
+is considered...
+
+116
+00:07:46,792 --> 00:07:48,166
+MAN 1:
+Here you are.
+
+117
+00:07:48,208 --> 00:07:49,417
+MAN 2:
+That's nice to hear.
+
+118
+00:07:49,458 --> 00:07:50,875
+RIKER:
+What are these?
+
+119
+00:07:50,917 --> 00:07:52,500
+MAN 2:
+Briskian cheese pastries.
+
+120
+00:07:52,542 --> 00:07:54,333
+TROI:
+Geordi, would you get me
+some more fruit salad?
+
+121
+00:07:54,375 --> 00:07:58,041
+Beverly, lovely as ever.
+
+122
+00:07:58,083 --> 00:07:59,125
+How do you manage it?
+
+123
+00:07:59,166 --> 00:08:00,166
+It's good
+to see you again.
+
+124
+00:08:00,208 --> 00:08:01,125
+It's been far too long.
+
+125
+00:08:01,166 --> 00:08:02,375
+What is it, four years?
+
+126
+00:08:02,417 --> 00:08:04,250
+Now, I want to hear
+about everything
+
+127
+00:08:04,291 --> 00:08:06,750
+that happened after you
+left Starfleet medical.
+
+128
+00:08:06,792 --> 00:08:09,166
+And I have so much
+to tell<i> you.</i>
+
+129
+00:08:09,208 --> 00:08:12,959
+Oh, that must be
+Commander Riker.
+
+130
+00:08:13,000 --> 00:08:14,000
+Excuse me.
+
+131
+00:08:14,041 --> 00:08:15,667
+Of course.
+
+132
+00:08:15,709 --> 00:08:17,500
+Pardon me.
+
+133
+00:08:20,041 --> 00:08:22,208
+You must be Will Riker.
+
+134
+00:08:22,250 --> 00:08:23,458
+I must be.
+
+135
+00:08:23,500 --> 00:08:26,834
+Calvin Hutchinson.
+Call me Hutch.
+
+136
+00:08:26,875 --> 00:08:30,166
+Calvin-- awful name.
+I've never forgiven
+my parents.
+
+137
+00:08:30,208 --> 00:08:32,917
+Soon as I saw you,
+I knew you had to be
+
+138
+00:08:32,959 --> 00:08:34,625
+the<i> Enterprise's</i>
+first officer.
+
+139
+00:08:34,667 --> 00:08:35,959
+Oh?
+Oh, of course.
+
+140
+00:08:36,000 --> 00:08:38,041
+Your reputation
+precedes you--
+
+141
+00:08:38,083 --> 00:08:40,333
+flashing blue eyes,
+square jaw--
+
+142
+00:08:40,375 --> 00:08:41,959
+quite the ladies' man,
+I hear.
+
+143
+00:08:42,041 --> 00:08:44,083
+Now, don't be
+modest, Will.
+
+144
+00:08:44,125 --> 00:08:45,125
+Oh, may I
+call you "Will"?
+
+145
+00:08:45,166 --> 00:08:46,250
+Uh, sure.
+
+146
+00:08:46,291 --> 00:08:48,208
+I also hear that
+you're a musician.
+
+147
+00:08:48,250 --> 00:08:50,542
+I certainly hope you'll
+play something for us.
+
+148
+00:08:50,583 --> 00:08:52,250
+It's not often
+we get to entertain
+
+149
+00:08:52,291 --> 00:08:55,208
+the command crew
+of the flagship.
+
+150
+00:08:55,250 --> 00:08:58,458
+Oh, and speaking
+of command.
+
+151
+00:09:00,542 --> 00:09:02,458
+Hello, Captain Picard.
+
+152
+00:09:02,500 --> 00:09:03,625
+Commander.
+
+153
+00:09:03,667 --> 00:09:05,125
+I was just telling
+your first officer
+
+154
+00:09:05,166 --> 00:09:07,792
+what a real pleasure
+it is to have
+all of you here.
+
+155
+00:09:07,834 --> 00:09:08,875
+So how are you, anyway?
+
+156
+00:09:08,917 --> 00:09:10,166
+Very well.
+Thank you.
+
+157
+00:09:10,208 --> 00:09:11,709
+What have
+you been up to?
+
+158
+00:09:11,750 --> 00:09:15,291
+It is very good
+to see you both again.
+
+159
+00:09:15,333 --> 00:09:16,667
+Beverly...
+
+160
+00:09:16,709 --> 00:09:18,625
+may I call
+you "Beverly"?
+
+161
+00:09:18,667 --> 00:09:22,959
+Beverly, have you noticed
+that the mean temperature
+here on Arkaria
+
+162
+00:09:23,000 --> 00:09:26,959
+is slightly higher
+than normal for
+human comfort levels?
+
+163
+00:09:27,000 --> 00:09:31,083
+I have found that humans
+prefer a body temperature
+of 21 degrees Celsius
+
+164
+00:09:31,125 --> 00:09:33,750
+in order to operate
+most efficiently.
+
+165
+00:09:33,792 --> 00:09:36,291
+However, there<i> are</i>
+several cultures
+
+166
+00:09:36,333 --> 00:09:39,458
+who actually prefer that
+their body temperature
+
+167
+00:09:39,500 --> 00:09:41,875
+is identical to the
+temperature of the room
+in which they are standing.
+
+168
+00:09:41,917 --> 00:09:42,959
+(<i> chuckling</i> )
+
+169
+00:09:43,000 --> 00:09:44,625
+The Sheliak,
+for example...
+
+170
+00:09:44,667 --> 00:09:47,959
+I am telling you,
+you have never seen
+anything like this.
+
+171
+00:09:48,000 --> 00:09:49,875
+There were thousands
+of these creatures.
+
+172
+00:09:49,917 --> 00:09:52,000
+The whole northern sky
+turned dark.
+
+173
+00:09:52,041 --> 00:09:54,875
+Oh, uh, Geordi...
+Deanna.
+
+174
+00:09:54,917 --> 00:09:56,834
+I don't think you
+have met our host.
+
+175
+00:09:56,875 --> 00:09:58,875
+This is Lieutenant
+Commander Geordi La Forge.
+
+176
+00:09:58,917 --> 00:09:59,917
+Hello.
+Hi.
+
+177
+00:09:59,959 --> 00:10:01,166
+Counselor Deanna Troi.
+
+178
+00:10:01,208 --> 00:10:02,375
+This is
+Commander Hutchinson.
+
+179
+00:10:02,417 --> 00:10:04,208
+Oh, please,
+call me Hutch.
+Hello.
+
+180
+00:10:04,250 --> 00:10:05,875
+I was just telling
+your captain here
+
+181
+00:10:05,917 --> 00:10:08,458
+about some of the more
+fascinating sights
+here in Arkaria.
+
+182
+00:10:08,500 --> 00:10:10,834
+Either of you interested
+in ornithology?
+
+183
+00:10:10,875 --> 00:10:13,583
+Uh, well...
+The mating habits
+
+184
+00:10:13,625 --> 00:10:16,917
+of the Arkarian horn fowl
+are quite interesting.
+
+185
+00:10:16,959 --> 00:10:19,125
+If the weather were better,
+we could take horses
+
+186
+00:10:19,166 --> 00:10:20,959
+to the southern
+promontory and visit
+the nesting grounds.
+
+187
+00:10:21,000 --> 00:10:23,041
+Horses?
+Yes.
+
+188
+00:10:23,083 --> 00:10:25,375
+We have a network of trails
+through the plains.
+
+189
+00:10:25,417 --> 00:10:29,166
+Unfortunately, it's not
+very pleasant right now--
+cold, muddy.
+
+190
+00:10:29,208 --> 00:10:31,166
+Not a soul
+for kilometers.
+
+191
+00:10:31,208 --> 00:10:32,625
+Sounds perfect.
+
+192
+00:10:32,667 --> 00:10:34,667
+Mr. La Forge, how long
+before the baryon sweep
+
+193
+00:10:34,709 --> 00:10:36,959
+begins on the<i> Enterprise?</i> 
+About 25 minutes, sir.
+
+194
+00:10:37,000 --> 00:10:40,083
+Then I have enough time
+to go back to the ship
+and get my saddle.
+
+195
+00:10:40,125 --> 00:10:41,417
+TROI:
+Your saddle?
+
+196
+00:10:41,458 --> 00:10:45,583
+Yes. A saddle is
+a very personal thing.
+
+197
+00:10:45,625 --> 00:10:49,583
+It has to be, uh,
+broken in, used, cared for.
+
+198
+00:10:49,625 --> 00:10:51,959
+You keep a saddle
+onboard the<i> Enterprise?</i>
+
+199
+00:10:52,000 --> 00:10:53,750
+Oh, yes, yes.
+
+200
+00:10:53,792 --> 00:10:55,875
+I never know
+when I will have
+the opportunity to ride.
+
+201
+00:10:55,917 --> 00:10:57,875
+I see.
+It's perfectly normal.
+
+202
+00:10:57,917 --> 00:11:01,208
+You know, most
+serious riders do have
+their own saddles.
+
+203
+00:11:01,250 --> 00:11:03,583
+Of course.
+Absolutely.
+
+204
+00:11:03,625 --> 00:11:05,750
+Well, if you
+will excuse me.
+
+205
+00:11:08,250 --> 00:11:09,709
+Amazing man.
+
+206
+00:11:09,750 --> 00:11:12,125
+You know, he reminds me
+of another officer
+
+207
+00:11:12,166 --> 00:11:14,333
+I knew years ago--
+a Captain Edwell.
+
+208
+00:11:14,375 --> 00:11:17,792
+Now,<i> he</i> was fascinating.
+Born on Gaspar VII,
+
+209
+00:11:17,834 --> 00:11:20,291
+but you wouldn't know it
+from the way he looked.
+
+210
+00:11:23,625 --> 00:11:27,083
+COMPUTER:
+Auto-shutdown sequence
+in progress.
+
+211
+00:11:27,125 --> 00:11:29,291
+Defensive systems
+off-line.
+
+212
+00:11:29,333 --> 00:11:32,458
+Baryon sweep begins
+in eight minutes.
+
+213
+00:11:47,083 --> 00:11:49,250
+MAN:
+What are you doing?
+
+214
+00:11:51,458 --> 00:11:55,709
+Someone left this ODN
+junction box open.
+
+215
+00:11:55,750 --> 00:11:57,834
+I thought your crew
+was supposed to be
+off the ship
+
+216
+00:11:57,875 --> 00:11:59,667
+once the field diverters
+were in place.
+
+217
+00:11:59,709 --> 00:12:02,875
+The diverters
+have to be synchronized.
+
+218
+00:12:02,917 --> 00:12:05,875
+I was laser bonding
+a backup link.
+
+219
+00:12:05,917 --> 00:12:08,333
+I see.
+
+220
+00:12:08,375 --> 00:12:10,291
+Well, I better
+let you finish up
+
+221
+00:12:10,333 --> 00:12:12,166
+so that you
+can get off the ship.
+
+222
+00:12:14,875 --> 00:12:16,875
+Excuse me a minute.
+
+223
+00:12:31,000 --> 00:12:33,583
+Auto-shutdown sequence
+in progress.
+
+224
+00:12:33,625 --> 00:12:37,375
+Primary power off-line
+in one minute.
+
+225
+00:12:42,375 --> 00:12:43,875
+WOMAN:
+We still need to bypass
+
+226
+00:12:43,917 --> 00:12:45,291
+the magnetic
+containment conduit.
+
+227
+00:12:45,333 --> 00:12:47,083
+MAN:
+That should be down
+on deck 30.
+
+228
+00:12:47,125 --> 00:12:50,709
+Well, then get Pomet
+started on it right away.
+
+229
+00:12:54,709 --> 00:12:58,667
+Primary power off-line
+in 30 seconds.
+
+230
+00:13:06,500 --> 00:13:07,750
+Final warning.
+
+231
+00:13:07,792 --> 00:13:11,458
+Primary power off-line
+in ten seconds.
+
+232
+00:13:44,875 --> 00:13:48,667
+Hmm... yes.
+I find it fascinating
+
+233
+00:13:48,709 --> 00:13:52,500
+that your family chose
+to drop the prefix "Pel"
+from your surname.
+
+234
+00:13:52,542 --> 00:13:55,083
+It was my understanding
+that "Pel Orton"
+
+235
+00:13:55,125 --> 00:13:58,166
+is a more noble appellation
+than simply "Orton."
+
+236
+00:13:58,208 --> 00:14:00,083
+Yes.
+Hmm.
+
+237
+00:14:00,125 --> 00:14:01,959
+Perhaps the recent
+Arkarian trend toward
+
+238
+00:14:02,000 --> 00:14:07,083
+a more egalitarian society
+is partly responsible, huh?
+
+239
+00:14:07,125 --> 00:14:08,917
+Perhaps.
+
+240
+00:14:08,959 --> 00:14:10,291
+The crew of the<i> Magellan</i>
+
+241
+00:14:10,333 --> 00:14:12,542
+actually put on
+a talent show here.
+
+242
+00:14:12,583 --> 00:14:16,458
+Captain Conklin
+did a poetry reading,
+if you can imagine that.
+
+243
+00:14:16,500 --> 00:14:17,792
+I'm trying to.
+Did I ever tell you
+
+244
+00:14:17,834 --> 00:14:19,250
+how I happened
+to be stationed here?
+
+245
+00:14:19,291 --> 00:14:20,625
+It's a fascinating story.
+
+246
+00:14:20,667 --> 00:14:23,041
+I was serving on
+Admiral Mitchell's staff
+
+247
+00:14:23,083 --> 00:14:25,834
+on Starbase 97--
+awful place, by the way.
+
+248
+00:14:25,875 --> 00:14:28,875
+Have you met
+our Commander Data?
+Hmm?
+
+249
+00:14:28,917 --> 00:14:31,166
+...as a matter of fact,
+I find it oddly amusing.
+
+250
+00:14:31,208 --> 00:14:32,375
+(<i> laughs loudly</i> )
+
+251
+00:14:32,417 --> 00:14:33,834
+No, I don't think so.
+
+252
+00:14:33,875 --> 00:14:36,375
+Come on,
+I'll introduce you.
+
+253
+00:14:36,417 --> 00:14:38,417
+DATA:
+There are several
+cultures in this sector
+
+254
+00:14:38,458 --> 00:14:41,250
+with extremely similar
+etymological histories.
+For example...
+
+255
+00:14:41,291 --> 00:14:43,375
+Mr. Data, I don't know
+if you've had a chance meet
+
+256
+00:14:43,417 --> 00:14:44,875
+our host,
+Commander Hutchinson.
+
+257
+00:14:44,917 --> 00:14:46,333
+"Call me Hutch."
+"Call me Hutch."
+
+258
+00:14:46,375 --> 00:14:48,125
+Lieutenant Commander Data,
+our second officer.
+
+259
+00:14:48,166 --> 00:14:49,208
+A pleasure.
+
+260
+00:14:49,250 --> 00:14:51,709
+The pleasure
+is mine... Hutch.
+
+261
+00:14:51,750 --> 00:14:53,125
+I've been meaning
+to compliment you
+
+262
+00:14:53,166 --> 00:14:54,500
+on your choice
+of colors here.
+
+263
+00:14:54,542 --> 00:14:56,583
+Oh, you really
+think so, hmm?
+
+264
+00:14:56,625 --> 00:14:59,375
+Well, it wasn't easy
+making a final decision,
+let me tell you.
+
+265
+00:14:59,417 --> 00:15:01,583
+I can well imagine.
+The light in this room
+
+266
+00:15:01,625 --> 00:15:04,083
+would make color selection
+exceptionally problematic.
+
+267
+00:15:04,125 --> 00:15:05,250
+Precisely.
+
+268
+00:15:05,291 --> 00:15:07,667
+(<i> both laughing</i> )
+
+269
+00:15:07,709 --> 00:15:08,625
+Thank you.
+
+270
+00:15:08,667 --> 00:15:09,959
+You're welcome.
+
+271
+00:15:10,000 --> 00:15:11,709
+I'm not sure which one
+to feel sorry for.
+
+272
+00:15:11,750 --> 00:15:13,417
+Mr. Orton?
+
+273
+00:15:13,458 --> 00:15:16,625
+You'll excuse me,
+Commander?
+
+274
+00:15:16,667 --> 00:15:19,291
+Geordi, what happened
+to the captain?
+
+275
+00:15:19,333 --> 00:15:21,875
+Oh, he went back
+to the ship to
+get his saddle.
+
+276
+00:15:21,917 --> 00:15:23,208
+His saddle?
+
+277
+00:15:23,250 --> 00:15:25,458
+Any serious rider
+would have his own saddle.
+
+278
+00:15:25,500 --> 00:15:27,000
+Oh.
+
+279
+00:15:27,041 --> 00:15:28,875
+He probably went
+straight to the stables.
+
+280
+00:15:28,917 --> 00:15:30,709
+I bet he's ten kilometers
+from here already.
+
+281
+00:15:30,750 --> 00:15:32,583
+Lucky him.
+
+282
+00:15:33,542 --> 00:15:35,375
+Thank you.
+
+283
+00:16:13,125 --> 00:16:15,166
+Kelsey to Devor.
+
+284
+00:16:16,125 --> 00:16:18,083
+Kelsey to Devor.
+
+285
+00:16:18,125 --> 00:16:20,291
+Devor, this is Kelsey.
+Reply.
+
+286
+00:16:20,333 --> 00:16:23,125
+Devor, do you read me?
+
+287
+00:16:23,166 --> 00:16:26,250
+Kelsey to Kiros.
+This is Kiros.
+
+288
+00:16:26,291 --> 00:16:28,041
+KELSEY:
+Devor isn't responding.
+
+289
+00:16:28,083 --> 00:16:30,875
+There must be
+too much interference
+from the baryon sweep.
+
+290
+00:16:30,917 --> 00:16:32,291
+Go find him and see
+if he finished
+
+291
+00:16:32,333 --> 00:16:34,125
+bypassing the regulator
+on deck seven.
+
+292
+00:16:34,166 --> 00:16:36,125
+Then meet us
+in main engineering.
+
+293
+00:16:36,166 --> 00:16:37,583
+Understood.
+
+294
+00:16:37,625 --> 00:16:39,250
+Hey.
+
+295
+00:16:40,208 --> 00:16:41,375
+Hey.
+
+296
+00:16:45,834 --> 00:16:47,417
+Who are you?
+
+297
+00:16:47,458 --> 00:16:51,583
+What are you doing
+on my ship?
+
+298
+00:16:51,625 --> 00:16:56,125
+The baryon sweep
+uses a high-frequency
+plasma field.
+
+299
+00:16:56,166 --> 00:16:58,041
+Your phaser won't work.
+
+300
+00:16:58,083 --> 00:17:03,333
+You're probably
+right, but I'd like
+to bet this will.
+
+301
+00:17:03,375 --> 00:17:05,917
+A laser welder
+can be deadly.
+
+302
+00:17:05,959 --> 00:17:09,542
+Now, what's going on
+in main engineering?
+
+303
+00:17:11,083 --> 00:17:14,083
+I suggest
+that you cooperate.
+
+304
+00:17:14,125 --> 00:17:17,709
+You're Starfleet.
+You won't kill me.
+
+305
+00:17:17,750 --> 00:17:20,458
+You sure?
+
+306
+00:17:23,542 --> 00:17:25,041
+(<i> hissing</i> )
+(<i> groans</i> )
+
+307
+00:17:32,250 --> 00:17:34,875
+It seems you're right.
+
+308
+00:18:08,250 --> 00:18:09,625
+(<i> laughter</i> )
+
+309
+00:18:09,667 --> 00:18:11,500
+Yes, but
+Tyrellian laser-art
+
+310
+00:18:11,542 --> 00:18:14,083
+is very similar in both
+form and composition.
+
+311
+00:18:14,125 --> 00:18:15,291
+Well, of course.
+
+312
+00:18:15,333 --> 00:18:16,500
+You know, funny you
+should mention that.
+
+313
+00:18:16,542 --> 00:18:17,792
+I used to be stationed
+on Tyrellia.
+
+314
+00:18:17,834 --> 00:18:18,875
+Really?
+Yes.
+
+315
+00:18:18,917 --> 00:18:20,291
+Did you know there are
+currently
+
+316
+00:18:20,333 --> 00:18:22,333
+five Tyrellians serving
+aboard the<i> Enterprise?</i>
+
+317
+00:18:22,375 --> 00:18:25,667
+That's fascinating.
+Not too many people
+know this, but Tyrellia
+
+318
+00:18:25,709 --> 00:18:29,583
+is only one of three
+known inhabited planets
+without a magnetic pole.
+
+319
+00:18:29,625 --> 00:18:32,458
+I was aware of that,
+but are<i> you</i> aware
+
+320
+00:18:32,500 --> 00:18:34,834
+that Tyrellia is one
+of seven known planets
+
+321
+00:18:34,875 --> 00:18:36,375
+with no atmosphere
+whatsoever?
+
+322
+00:18:36,417 --> 00:18:37,458
+Really?
+Mm.
+
+323
+00:18:37,500 --> 00:18:39,041
+They're still at it.
+
+324
+00:18:39,083 --> 00:18:41,333
+Nonstop.
+I have to admit,
+
+325
+00:18:41,375 --> 00:18:42,875
+it has a sort of
+strange fascination.
+
+326
+00:18:42,917 --> 00:18:46,542
+How long can two people
+talk about nothing?
+
+327
+00:18:59,792 --> 00:19:01,333
+Is something wrong?
+
+328
+00:19:01,375 --> 00:19:04,250
+Uh, I don't know.
+I was just getting some
+
+329
+00:19:04,291 --> 00:19:07,083
+very strange energy readings
+from your table here.
+
+330
+00:19:07,125 --> 00:19:08,959
+Well, I'm sure
+it's nothing serious.
+
+331
+00:19:09,000 --> 00:19:11,750
+Perhaps the heating
+element underneath the
+table is malfunctioning.
+
+332
+00:19:11,792 --> 00:19:13,417
+Maybe I should take
+a look at it for you.
+
+333
+00:19:13,458 --> 00:19:15,166
+I'm sure we can
+handle this,
+
+334
+00:19:15,208 --> 00:19:16,625
+whatever
+it is, Commander.
+
+335
+00:19:16,667 --> 00:19:18,667
+There's no need
+to concern yourself.
+
+336
+00:19:18,709 --> 00:19:20,542
+LA FORGE:
+Well, maybe I should
+look at the element.
+
+337
+00:19:20,583 --> 00:19:21,709
+I mean, in case...
+
+338
+00:19:21,750 --> 00:19:24,375
+It's all right.
+Please, don't worry.
+
+339
+00:19:24,417 --> 00:19:26,709
+What's that all about?
+
+340
+00:19:26,750 --> 00:19:29,291
+ORTON:
+I assure you, Commander
+La Forge, it's all right.
+
+341
+00:19:29,333 --> 00:19:30,583
+We'll look into it.
+
+342
+00:19:30,625 --> 00:19:32,917
+You don't have
+to concern yourself.
+
+343
+00:19:34,792 --> 00:19:36,709
+Orton, now!
+
+344
+00:19:36,750 --> 00:19:37,917
+(<i> grunts</i> )
+
+345
+00:19:44,667 --> 00:19:46,417
+What is going on?!
+
+346
+00:19:46,458 --> 00:19:49,125
+(<i> groans, Troi gasps</i> )
+
+347
+00:19:49,166 --> 00:19:52,291
+Stay right where you are.
+
+348
+00:20:12,041 --> 00:20:16,583
+Reduce the plasma pressure
+to 0.6 percent nominal.
+
+349
+00:20:16,625 --> 00:20:18,917
+Zero point six.
+
+350
+00:20:18,959 --> 00:20:21,500
+How does
+the conduit look?
+
+351
+00:20:21,542 --> 00:20:23,166
+It's clear.
+
+352
+00:20:23,208 --> 00:20:25,458
+All right.
+The main plasma flow
+
+353
+00:20:25,500 --> 00:20:27,959
+has been shunted to
+the aft conduit.
+
+354
+00:20:28,000 --> 00:20:29,750
+We're ready here.
+
+355
+00:20:32,542 --> 00:20:35,709
+Okay, that should
+do it, I think.
+
+356
+00:20:36,959 --> 00:20:39,583
+Be sure, Neil.
+
+357
+00:20:39,625 --> 00:20:41,125
+Uh, yes.
+
+358
+00:20:41,166 --> 00:20:42,125
+Yeah, that does it.
+
+359
+00:20:42,166 --> 00:20:44,375
+Um, all right.
+
+360
+00:20:44,417 --> 00:20:49,375
+Transfer 500 milligrams
+from the reserve system
+to the engine core.
+
+361
+00:20:55,500 --> 00:20:57,000
+Perfect.
+
+362
+00:20:57,041 --> 00:21:00,542
+Adequate. Disable
+the containment overrides
+
+363
+00:21:00,583 --> 00:21:02,250
+and get the interlocks
+off the magnetic seal.
+
+364
+00:21:02,291 --> 00:21:06,333
+Pomet, prepare
+the transport assembly.
+
+365
+00:21:06,375 --> 00:21:08,083
+Keep watching
+that power flow.
+
+366
+00:21:08,125 --> 00:21:09,917
+It might...
+
+367
+00:21:18,667 --> 00:21:20,250
+Keep working.
+
+368
+00:21:23,542 --> 00:21:25,291
+Where'd he come from?
+
+369
+00:21:25,333 --> 00:21:26,875
+Found him on deck seven.
+
+370
+00:21:26,917 --> 00:21:29,333
+Who are you?
+
+371
+00:21:29,375 --> 00:21:31,458
+My name is Mot.
+
+372
+00:21:31,500 --> 00:21:33,917
+I'm, uh,
+I'm the barber.
+
+373
+00:21:33,959 --> 00:21:36,542
+Barber? What the hell
+are you doing here?
+
+374
+00:21:36,583 --> 00:21:39,291
+Everyone was supposed
+to be evacuated
+to the surface.
+
+375
+00:21:39,333 --> 00:21:44,333
+Yes, I know, um...
+but I wanted to go riding,
+but I didn't have my saddle.
+
+376
+00:21:44,375 --> 00:21:45,834
+So, I went back...
+Your saddle?
+
+377
+00:21:45,875 --> 00:21:49,500
+Yes, that's right.
+It's on deck seven.
+
+378
+00:21:49,542 --> 00:21:51,083
+I left it in
+the corridor.
+
+379
+00:21:51,125 --> 00:21:53,750
+And then the power went out,
+and I got lost, and...
+
+380
+00:21:53,792 --> 00:21:55,083
+All right, all right,
+shut up.
+I didn't know...
+
+381
+00:21:55,125 --> 00:21:57,709
+Just shut up!
+
+382
+00:21:57,750 --> 00:21:58,917
+Any sign of Devor?
+
+383
+00:21:58,959 --> 00:21:59,917
+No.
+
+384
+00:21:59,959 --> 00:22:01,625
+(<i> sighs</i> )
+
+385
+00:22:01,667 --> 00:22:03,375
+Satler.
+
+386
+00:22:03,417 --> 00:22:05,000
+Get down here,
+and, uh...
+
+387
+00:22:05,041 --> 00:22:08,041
+keep an eye
+on our barber.
+
+388
+00:22:09,375 --> 00:22:12,083
+All right, go see if
+you can find Devor.
+
+389
+00:22:12,125 --> 00:22:14,291
+Make sure
+nothing's wrong.
+
+390
+00:22:17,125 --> 00:22:18,875
+Sit down.
+
+391
+00:22:20,375 --> 00:22:21,583
+All right.
+
+392
+00:22:21,625 --> 00:22:23,542
+Look, just don't point
+that thing at me.
+
+393
+00:22:23,583 --> 00:22:26,959
+Just do what I
+tell you, and you
+won't have to worry.
+
+394
+00:22:40,667 --> 00:22:42,291
+How long
+until you're ready?
+
+395
+00:22:42,333 --> 00:22:44,208
+40, maybe 50 minutes.
+
+396
+00:22:44,250 --> 00:22:46,959
+The baryon sweep
+hits this compartment
+in 30 minutes.
+
+397
+00:22:47,000 --> 00:22:48,667
+The field diverter
+will protect us.
+
+398
+00:22:48,709 --> 00:22:51,709
+It is not us
+I'm worried about--
+it's that storage unit.
+
+399
+00:22:51,750 --> 00:22:55,834
+I want the trilithium
+resin in there and secured
+before the sweep gets here.
+
+400
+00:22:55,875 --> 00:22:57,583
+I don't want to take
+any chances.
+
+401
+00:22:57,625 --> 00:22:59,709
+Understood.
+
+402
+00:23:23,417 --> 00:23:25,083
+(<i> sighs</i> )
+
+403
+00:23:25,125 --> 00:23:28,583
+They haven't tried
+to communicate
+with the outside.
+
+404
+00:23:28,625 --> 00:23:30,750
+No demands, no
+political statements...
+
+405
+00:23:30,792 --> 00:23:34,583
+no theft.
+They must want<i> something.</i>
+
+406
+00:23:34,625 --> 00:23:37,083
+Orton is not as calm
+as he looks.
+
+407
+00:23:37,125 --> 00:23:39,625
+He's very agitated
+and nervous,
+
+408
+00:23:39,667 --> 00:23:41,375
+as if something's
+gone wrong.
+
+409
+00:23:41,417 --> 00:23:44,333
+It is possible
+that Geordi upset
+their timetable
+
+410
+00:23:44,375 --> 00:23:45,959
+when he saw the
+hidden weapons.
+
+411
+00:23:46,000 --> 00:23:48,250
+Orton may be
+improvising.
+
+412
+00:23:48,291 --> 00:23:50,875
+Maybe he didn't plan to
+take us hostage so early
+
+413
+00:23:50,917 --> 00:23:52,458
+and now he doesn't
+know what to do.
+
+414
+00:23:52,500 --> 00:23:54,667
+If they do not
+have a plan for
+this contingency,
+
+415
+00:23:54,709 --> 00:23:56,750
+we may have
+the initiative.
+
+416
+00:23:56,792 --> 00:24:00,500
+Maybe, but we need to
+figure out how to use it.
+
+417
+00:24:00,542 --> 00:24:02,959
+How is he?
+
+418
+00:24:03,000 --> 00:24:05,959
+There's no
+permanent damage.
+
+419
+00:24:06,000 --> 00:24:09,458
+I've adjusted the
+optical transducer
+in his visor
+
+420
+00:24:09,500 --> 00:24:12,041
+to block out
+some of the pain
+receptors in his brain.
+
+421
+00:24:12,083 --> 00:24:13,500
+It's only
+partially effective.
+
+422
+00:24:13,542 --> 00:24:16,291
+I need to get him
+to a medical facility.
+
+423
+00:24:16,333 --> 00:24:18,834
+I doubt if they'll
+agree to that.
+
+424
+00:24:18,875 --> 00:24:23,750
+But maybe if we tell
+them Geordi's dying,
+
+425
+00:24:23,792 --> 00:24:26,667
+they would give us access
+to a medical kit.
+
+426
+00:24:26,709 --> 00:24:30,375
+We might be able to
+use some of the tools
+to make a weapon.
+
+427
+00:24:30,417 --> 00:24:33,917
+Perhaps we can use
+the visor as a weapon.
+
+428
+00:24:33,959 --> 00:24:36,333
+If the optical transducer
+were modified,
+
+429
+00:24:36,375 --> 00:24:39,417
+we might be able
+to generate
+a hypersonic pulse.
+
+430
+00:24:39,458 --> 00:24:41,250
+A hypersonic pulse
+would overload
+
+431
+00:24:41,291 --> 00:24:43,500
+the audio receptors
+of everyone in this room.
+
+432
+00:24:43,542 --> 00:24:45,875
+It would cause
+immediate unconsciousness.
+
+433
+00:24:49,709 --> 00:24:52,625
+Can you make the adjustment
+on the visor yourself?
+
+434
+00:24:52,667 --> 00:24:55,208
+It will look suspicious
+if you're both working on it.
+
+435
+00:24:55,250 --> 00:24:56,834
+CRUSHER:
+I'll try.
+
+436
+00:24:56,875 --> 00:25:00,792
+I might need Geordi
+to help me through
+some of it.
+
+437
+00:25:00,834 --> 00:25:02,041
+RIKER:
+All right.
+
+438
+00:25:02,083 --> 00:25:04,041
+Be as casual
+as you can.
+
+439
+00:25:04,083 --> 00:25:05,875
+Let me know when
+you're ready.
+
+440
+00:25:24,667 --> 00:25:26,125
+Ready.
+
+441
+00:25:26,166 --> 00:25:27,583
+All right, begin
+draining the trilithium
+
+442
+00:25:27,625 --> 00:25:30,417
+at 100 milligrams
+per minute.
+
+443
+00:26:09,208 --> 00:26:11,041
+(<i> alarm wailing</i> )
+
+444
+00:26:11,083 --> 00:26:13,792
+Neil, what's going on?!
+Neil, get over here!
+
+445
+00:26:13,834 --> 00:26:15,583
+Put that down!
+Protect it.
+
+446
+00:26:15,625 --> 00:26:18,792
+NEIL:
+Don't worry, I've got it.
+I'll be right there.
+
+447
+00:27:48,000 --> 00:27:51,709
+(<i> Satler screaming</i> )
+
+448
+00:27:59,291 --> 00:28:01,875
+The primary inducer
+is completely fused.
+
+449
+00:28:01,917 --> 00:28:05,917
+There's no way to fix it.
+Without the diverter,
+
+450
+00:28:05,959 --> 00:28:08,000
+we don't have any protection
+from the baryon sweep.
+
+451
+00:28:08,041 --> 00:28:12,083
+I know that.
+How long before the
+baryon sweep gets here?
+
+452
+00:28:12,125 --> 00:28:14,000
+About 12 minutes.
+
+453
+00:28:14,041 --> 00:28:15,959
+We should go
+to Ten-Forward.
+
+454
+00:28:16,000 --> 00:28:17,417
+That's the last place
+on the ship
+
+455
+00:28:17,458 --> 00:28:20,166
+that'll be swept
+by the baryon field.
+
+456
+00:28:20,208 --> 00:28:22,750
+All right.
+We're leaving.
+
+457
+00:28:22,792 --> 00:28:26,250
+But we're taking
+the trilithium with us.
+
+458
+00:28:26,291 --> 00:28:27,583
+What?!
+
+459
+00:28:27,625 --> 00:28:30,041
+Do you know how
+volatile trilithium is?
+
+460
+00:28:30,083 --> 00:28:34,041
+We can't just start hauling
+it through the ship.
+
+461
+00:28:34,083 --> 00:28:39,291
+I'll... I'll try to
+make some modifications.
+
+462
+00:28:48,959 --> 00:28:50,166
+Satler's dead.
+
+463
+00:28:50,208 --> 00:28:51,834
+He ran into
+the baryon sweep.
+
+464
+00:28:51,875 --> 00:28:53,291
+What about Mot?
+
+465
+00:28:53,333 --> 00:28:56,000
+I don't know, but I
+don't think he's a barber.
+
+466
+00:28:56,041 --> 00:28:59,709
+I found this
+in the Jefferies tube.
+
+467
+00:29:26,875 --> 00:29:29,583
+(<i> communicator beeps</i> )
+
+468
+00:29:29,625 --> 00:29:31,875
+Kelsey to Kiros.
+
+469
+00:29:31,917 --> 00:29:33,500
+This is Kiros.
+
+470
+00:29:33,542 --> 00:29:35,250
+We have a problem.
+
+471
+00:29:35,291 --> 00:29:38,125
+There's a Starfleet
+officer still aboard.
+
+472
+00:29:38,166 --> 00:29:40,458
+He's killed Satler
+and he may have
+killed Devor.
+
+473
+00:29:40,500 --> 00:29:43,083
+He also destroyed the
+diverter in engineering,
+
+474
+00:29:43,125 --> 00:29:46,083
+so we have to leave here
+before the baryon sweep
+enters this section.
+
+475
+00:29:46,125 --> 00:29:48,083
+What about
+the trilithium resin?
+
+476
+00:29:48,125 --> 00:29:50,125
+We're taking it with us
+to Ten-Forward.
+
+477
+00:29:50,166 --> 00:29:51,709
+There should be
+enough time before...
+
+478
+00:29:51,750 --> 00:29:53,291
+Kelsey, don't be a fool.
+
+479
+00:29:53,333 --> 00:29:56,458
+You know better than to try
+to move trilithium resin.
+
+480
+00:29:56,500 --> 00:30:00,333
+Mr. Mot, or should I
+call you "Lieutenant"?
+
+481
+00:30:00,375 --> 00:30:02,041
+"Lieutenant Commander,"
+perhaps?
+
+482
+00:30:02,083 --> 00:30:04,000
+You can call me
+whatever you wish,
+
+483
+00:30:04,041 --> 00:30:07,417
+but moving trilithium
+resin requires very
+specific equipment.
+
+484
+00:30:07,458 --> 00:30:09,000
+You can't just
+improvise something.
+
+485
+00:30:09,041 --> 00:30:10,417
+I wouldn't need
+to improvise
+
+486
+00:30:10,458 --> 00:30:12,500
+if you hadn't damaged
+our field diverter.
+
+487
+00:30:12,542 --> 00:30:15,208
+But if you're so concerned
+about the trilithium,
+
+488
+00:30:15,250 --> 00:30:19,291
+I suggest you stop
+interfering with us before
+you set off an explosion
+
+489
+00:30:19,333 --> 00:30:22,166
+that would destroy
+the<i> Enterprise</i> and you.
+
+490
+00:30:22,208 --> 00:30:25,166
+I would rather
+destroy the ship
+than allow that resin
+
+491
+00:30:25,208 --> 00:30:26,917
+to fall into the hands
+of terrorists.
+
+492
+00:30:26,959 --> 00:30:29,667
+What makes you think
+I'm a terrorist?
+
+493
+00:30:29,709 --> 00:30:34,959
+Trilithium resin is a
+highly toxic waste product
+produced by our engines.
+
+494
+00:30:35,000 --> 00:30:37,667
+It's only possible use
+could be as a weapon.
+
+495
+00:30:39,792 --> 00:30:42,083
+You might be right,
+Mr. Mot,
+
+496
+00:30:42,125 --> 00:30:45,375
+but we've been planning
+for this for a long time,
+
+497
+00:30:45,417 --> 00:30:48,250
+and I doubt you'll really
+be able to stop us...
+
+498
+00:30:48,291 --> 00:30:49,959
+(<i> no audio</i> )
+
+499
+00:30:50,000 --> 00:30:52,709
+...or even slow us down.
+
+500
+00:30:59,208 --> 00:31:02,125
+There.
+
+501
+00:31:02,166 --> 00:31:05,166
+300 milligrams
+of trilithium.
+
+502
+00:31:05,208 --> 00:31:10,166
+I'm, uh, using
+a dynamic stabilizer
+to act as a control rod.
+
+503
+00:31:10,208 --> 00:31:11,875
+There.
+
+504
+00:31:11,917 --> 00:31:15,000
+That should keep
+the resin stable
+enough for transport.
+
+505
+00:31:15,041 --> 00:31:16,583
+Come on!
+(<i> gasps</i> )
+
+506
+00:31:16,625 --> 00:31:17,834
+Don't be so tense, Neil.
+
+507
+00:31:17,875 --> 00:31:19,041
+Listen, if something
+goes wrong,
+
+508
+00:31:19,083 --> 00:31:20,291
+you won't have time
+to worry about it.
+
+509
+00:31:20,333 --> 00:31:21,709
+Let's go.
+
+510
+00:31:38,709 --> 00:31:40,375
+Three more decks.
+
+511
+00:31:40,417 --> 00:31:45,166
+Then we take
+corridor 15-B all
+the way to Ten-Forward.
+
+512
+00:31:50,417 --> 00:31:52,000
+What's wrong?
+
+513
+00:31:52,041 --> 00:31:56,041
+We have to find
+another way up.
+
+514
+00:31:56,083 --> 00:31:58,291
+The rungs are cut.
+
+515
+00:32:03,041 --> 00:32:06,166
+KELSEY:
+That wasn't very
+clever, Mr. Mot.
+
+516
+00:32:06,208 --> 00:32:09,417
+If you knew where
+we were, you should
+have attacked us.
+
+517
+00:32:09,458 --> 00:32:11,291
+Now we'll just take
+another route--
+
+518
+00:32:11,333 --> 00:32:13,625
+one you might not
+be able to predict.
+
+519
+00:32:13,667 --> 00:32:16,875
+There are only so many
+ways to Ten-Forward.
+
+520
+00:32:16,917 --> 00:32:19,083
+Ten-forward is the
+logical place to be
+
+521
+00:32:19,125 --> 00:32:20,959
+if you want to stay ahead
+of the baryon sweep.
+
+522
+00:32:21,000 --> 00:32:24,500
+That sweep is just
+as big a threat to you
+as it is to us.
+
+523
+00:32:24,542 --> 00:32:27,709
+In fact, if I
+were you, Mr. Mot,
+
+524
+00:32:27,750 --> 00:32:30,834
+I'd be trying to find
+another way off this ship.
+
+525
+00:32:33,125 --> 00:32:37,709
+I plan on leaving
+the same way you do--
+on your ship.
+
+526
+00:32:37,750 --> 00:32:40,625
+What ship?
+Come on, Kelsey.
+
+527
+00:32:40,667 --> 00:32:43,625
+If you've been
+planning this so long,
+you must have a way
+
+528
+00:32:43,667 --> 00:32:46,959
+of getting off
+the<i> Enterprise</i> and
+leaving this system.
+
+529
+00:32:47,000 --> 00:32:49,417
+I think you have
+a ship coming for you.
+
+530
+00:32:49,458 --> 00:32:52,041
+I plan to be on it.
+
+531
+00:32:52,083 --> 00:32:54,041
+It's a small ship, Mot.
+
+532
+00:32:54,083 --> 00:32:57,250
+I don't think there's
+going to be room
+for both of us.
+
+533
+00:32:57,291 --> 00:32:58,750
+I'm sorry to hear that.
+
+534
+00:32:58,792 --> 00:33:01,083
+I'll send your regrets.
+
+535
+00:33:22,375 --> 00:33:24,792
+How is he, Doctor?
+
+536
+00:33:24,834 --> 00:33:31,375
+He's in a lot of
+pain, but I think
+he should be fine.
+
+537
+00:33:31,417 --> 00:33:34,291
+He needs some water.
+Is that all right?
+
+538
+00:33:47,125 --> 00:33:49,166
+(<i> speaking softly</i> ):
+We're almost ready.
+
+539
+00:33:49,208 --> 00:33:52,375
+When we set the
+visor to emit the
+hypersonic pulse,
+
+540
+00:33:52,417 --> 00:33:53,959
+there'll be a
+short burst of light.
+
+541
+00:33:54,000 --> 00:33:56,291
+We need a distraction.
+
+542
+00:34:10,667 --> 00:34:12,500
+They need a distraction.
+
+543
+00:34:12,542 --> 00:34:14,041
+How long?
+
+544
+00:34:14,083 --> 00:34:15,959
+Just a few seconds.
+
+545
+00:34:16,000 --> 00:34:19,166
+I think I can distract
+Orton for a few seconds.
+
+546
+00:34:19,208 --> 00:34:22,583
+I don't think Orton's
+in a talking mood, Will.
+
+547
+00:34:22,625 --> 00:34:25,709
+You just have to know
+how to talk<i> to</i> him.
+
+548
+00:34:32,792 --> 00:34:36,250
+Orton, I think we need
+to discuss this situation.
+
+549
+00:34:36,291 --> 00:34:37,917
+There is nothing
+to discuss.
+
+550
+00:34:37,959 --> 00:34:39,458
+Sit down.
+
+551
+00:34:39,500 --> 00:34:41,458
+There is a lot
+to discuss.
+
+552
+00:34:41,500 --> 00:34:42,625
+Can't we be reasonable?
+
+553
+00:34:42,667 --> 00:34:44,458
+I am not interested
+in hearing
+
+554
+00:34:44,500 --> 00:34:47,625
+your hostage negotiation
+tactics, Commander.
+
+555
+00:34:47,667 --> 00:34:50,667
+Well, it can't hurt you
+to listen, can it?
+
+556
+00:34:51,834 --> 00:34:54,667
+All right.
+Thank you.
+
+557
+00:34:54,709 --> 00:34:58,667
+Now, the first thing
+I think we need to
+discuss is this.
+
+558
+00:34:58,709 --> 00:35:00,166
+(<i> grunts</i> )
+
+559
+00:35:00,208 --> 00:35:01,375
+(<i> grunts</i> )
+
+560
+00:35:41,875 --> 00:35:45,500
+(<i> grunts in pain</i> )
+
+561
+00:36:01,375 --> 00:36:03,834
+KIROS:
+Hold it.
+
+562
+00:36:08,250 --> 00:36:10,625
+Put your weapon down.
+
+563
+00:36:18,709 --> 00:36:20,041
+Kelsey, this is Kiros.
+
+564
+00:36:20,083 --> 00:36:22,834
+I'm on deck ten.
+I have Mot.
+
+565
+00:36:22,875 --> 00:36:24,834
+Is he alive?
+Yes.
+
+566
+00:36:24,875 --> 00:36:28,458
+Good. Meet us
+at intersection 41.
+
+567
+00:36:28,500 --> 00:36:30,583
+Understood.
+
+568
+00:36:32,417 --> 00:36:34,083
+This way.
+
+569
+00:36:51,458 --> 00:36:54,583
+(<i> panting</i> )
+
+570
+00:36:56,792 --> 00:36:59,291
+Give me the trilithium.
+
+571
+00:37:01,208 --> 00:37:03,583
+How much farther
+do we have to go?
+
+572
+00:37:03,625 --> 00:37:05,417
+Not far.
+
+573
+00:37:05,458 --> 00:37:08,166
+With all the modifications
+you've made to this unit,
+
+574
+00:37:08,208 --> 00:37:10,917
+are we going to have
+any problems removing
+the trilithium?
+
+575
+00:37:10,959 --> 00:37:14,709
+No. Just remove
+the control rod.
+
+576
+00:37:14,750 --> 00:37:16,583
+Drain the unit.
+
+577
+00:37:16,625 --> 00:37:18,500
+There shouldn't
+be any problem.
+
+578
+00:37:18,542 --> 00:37:21,709
+That's all
+I wanted to know.
+
+579
+00:37:28,458 --> 00:37:31,458
+Well, not as clever
+as you thought.
+
+580
+00:37:31,500 --> 00:37:32,709
+Where's Pomet?
+
+581
+00:37:32,750 --> 00:37:35,417
+He shot him with
+some kind of an arrow.
+
+582
+00:37:35,458 --> 00:37:38,417
+He's not dead.
+Well, he will be soon.
+
+583
+00:37:38,458 --> 00:37:40,792
+The sweep's nearly here,
+and we don't have time
+to go back for him.
+
+584
+00:37:40,834 --> 00:37:42,291
+What about Neil?
+
+585
+00:37:42,333 --> 00:37:43,917
+The sweep got him.
+
+586
+00:37:43,959 --> 00:37:45,709
+Let's go.
+
+587
+00:37:56,291 --> 00:37:58,667
+I thought you were just
+going to talk to him.
+
+588
+00:37:58,709 --> 00:38:01,291
+I did. He just didn't
+like what I had to say.
+
+589
+00:38:01,333 --> 00:38:03,041
+(<i> beeping</i> )
+Mm.
+
+590
+00:38:14,291 --> 00:38:18,250
+That was a perimeter
+warning from the
+Remmler Array.
+
+591
+00:38:18,291 --> 00:38:20,291
+A small ship
+is approaching.
+
+592
+00:38:20,333 --> 00:38:22,875
+I believe Mr. Orton
+has dropped his
+defense shields.
+
+593
+00:38:22,917 --> 00:38:24,792
+This must be the sign
+they were waiting for.
+
+594
+00:38:24,834 --> 00:38:29,041
+Mr. Data, you will be
+the only one unaffected
+by the hypersonic burst.
+
+595
+00:38:29,083 --> 00:38:31,500
+As soon as everyone
+else is unconscious,
+
+596
+00:38:31,542 --> 00:38:36,417
+I need you to get to
+that computer panel and
+stop that ship somehow.
+
+597
+00:38:36,458 --> 00:38:38,583
+I will try, sir.
+
+598
+00:38:40,834 --> 00:38:42,000
+Now.
+
+599
+00:38:42,041 --> 00:38:44,542
+(<i> high-pitched humming</i> )
+
+600
+00:39:00,208 --> 00:39:03,834
+Kelsey, perhaps we
+can work out a deal.
+
+601
+00:39:03,875 --> 00:39:05,834
+You're the only one
+who needs a deal, Mot.
+
+602
+00:39:05,875 --> 00:39:10,458
+My name isn't Mot.
+It's Jean-Luc Picard.
+
+603
+00:39:10,500 --> 00:39:15,375
+Captain Picard.
+This is all beginning
+to make sense.
+
+604
+00:39:15,417 --> 00:39:17,583
+Leave the trilithium here
+and take me with you.
+
+605
+00:39:17,625 --> 00:39:19,500
+You can use me as
+a hostage instead
+of threatening...
+
+606
+00:39:19,542 --> 00:39:21,041
+I am not a
+terrorist, Captain,
+
+607
+00:39:21,083 --> 00:39:22,917
+nor do I have
+a political agenda,
+
+608
+00:39:22,959 --> 00:39:25,542
+although I know
+some people who
+do have agendas,
+
+609
+00:39:25,583 --> 00:39:29,583
+and they are very
+interested in this
+little container.
+
+610
+00:39:29,625 --> 00:39:34,083
+Profit. This is
+all about profit.
+
+611
+00:39:34,125 --> 00:39:36,709
+I prefer to think
+of it as commerce.
+
+612
+00:39:47,125 --> 00:39:49,375
+Open the door.
+
+613
+00:40:04,250 --> 00:40:07,875
+Now go through...
+slowly.
+
+614
+00:40:18,333 --> 00:40:19,834
+(<i> yelling</i> )
+
+615
+00:40:25,125 --> 00:40:27,125
+(<i> both grunting</i> )
+
+616
+00:41:05,125 --> 00:41:06,792
+(<i> beeping</i> )
+
+617
+00:41:06,834 --> 00:41:08,750
+Well, Picard, I guess
+
+618
+00:41:08,792 --> 00:41:12,166
+I'll be the one to
+send your regrets.
+
+619
+00:41:19,834 --> 00:41:21,625
+Picard to Arkaria Base.
+
+620
+00:41:21,667 --> 00:41:24,667
+Deactivate
+the baryon sweep.
+
+621
+00:41:30,083 --> 00:41:34,083
+Arkaria Base,
+this is Captain Picard
+onboard the<i> Enterprise.</i>
+
+622
+00:41:34,125 --> 00:41:37,083
+Deactivate
+the baryon sweep.
+
+623
+00:41:39,166 --> 00:41:41,959
+Arkaria Base,
+this is Captain Picard.
+
+624
+00:41:42,000 --> 00:41:45,333
+Deactivate the baryon
+sweep immediately!
+
+625
+00:42:03,041 --> 00:42:07,333
+Data to Captain Picard.
+Do you read me, sir?
+
+626
+00:42:07,375 --> 00:42:08,875
+Picard here.
+
+627
+00:42:08,917 --> 00:42:11,166
+Are you all right,
+Captain?
+
+628
+00:42:11,208 --> 00:42:13,250
+Yes, Mr. Data.
+
+629
+00:42:13,291 --> 00:42:15,375
+Sir, an unidentified
+scout ship
+
+630
+00:42:15,417 --> 00:42:17,000
+has just beamed someone
+off the<i> Enterprise.</i>
+
+631
+00:42:17,041 --> 00:42:19,375
+Do you know
+anything about it?
+
+632
+00:42:22,667 --> 00:42:25,667
+I know they won't
+get very far.
+
+633
+00:42:56,917 --> 00:43:01,333
+Hold still.
+You have a nasty
+little cut here.
+
+634
+00:43:01,375 --> 00:43:02,750
+Any luck?
+
+635
+00:43:02,792 --> 00:43:04,417
+I'm sorry, Captain.
+
+636
+00:43:04,458 --> 00:43:06,667
+I don't know what could
+have happened to it.
+
+637
+00:43:06,709 --> 00:43:09,959
+Hold still. I can't
+heal this cleanly
+
+638
+00:43:10,000 --> 00:43:11,458
+if you don't
+stop fidgeting.
+
+639
+00:43:11,500 --> 00:43:13,083
+I've had three security
+teams search deck seven.
+
+640
+00:43:13,125 --> 00:43:14,166
+They couldn't find
+anything.
+
+641
+00:43:14,208 --> 00:43:15,667
+There.
+
+642
+00:43:19,291 --> 00:43:21,458
+I found it.
+
+643
+00:43:23,959 --> 00:43:27,083
+Someone put it in
+a maintenance locker.
+
+644
+00:43:27,125 --> 00:43:28,834
+Thank you.
+
+645
+00:43:28,875 --> 00:43:31,792
+Captain, you keep
+a saddle on board?
+
+646
+00:43:31,834 --> 00:43:33,959
+RIKER:
+Mr. Worf, I'm
+surprised at you.
+
+647
+00:43:34,000 --> 00:43:36,834
+Anyone who is
+an experienced rider
+
+648
+00:43:36,875 --> 00:43:38,458
+naturally has
+his own saddle.
+
+649
+00:43:38,500 --> 00:43:40,333
+TROI:
+It's perfectly normal.
+
+650
+00:43:40,375 --> 00:43:42,291
+Actually,
+it came in handy.
+
+651
+00:43:42,333 --> 00:43:46,500
+I only wish I had
+had the opportunity
+to use it on a horse.
+
+652
+00:43:46,542 --> 00:43:48,792
+Of course.

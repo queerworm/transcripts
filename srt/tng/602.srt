@@ -1,0 +1,3333 @@
+1
+00:00:03,291 --> 00:00:07,375
+<i>Captain's Log,</i>
+<i>Stardate 46041.1:</i>
+
+2
+00:00:07,417 --> 00:00:09,667
+<i>We have located</i>
+<i>the USS</i> Yosemite,
+
+3
+00:00:09,709 --> 00:00:12,625
+<i>a Starfleet science vessel</i>
+<i>sent to the Igo sector</i>
+
+4
+00:00:12,667 --> 00:00:14,583
+<i>to observe</i>
+<i>a remote plasma streamer.</i>
+
+5
+00:00:14,625 --> 00:00:17,792
+<i>The ship has not been</i>
+<i>heard from in several days.</i>
+
+6
+00:00:17,834 --> 00:00:19,583
+Magnify.
+
+7
+00:00:23,208 --> 00:00:25,250
+The last report we have
+says they were observing
+
+8
+00:00:25,291 --> 00:00:27,041
+the streamer
+at medium range.
+
+9
+00:00:27,083 --> 00:00:28,959
+Maybe they went in
+for a closer look...
+
+10
+00:00:29,000 --> 00:00:30,625
+got more than
+they bargained for.
+
+11
+00:00:30,667 --> 00:00:33,125
+Hail them.
+
+12
+00:00:33,166 --> 00:00:34,792
+No response.
+
+13
+00:00:34,834 --> 00:00:36,000
+Life signs?
+
+14
+00:00:36,041 --> 00:00:38,083
+Our scanners
+cannot penetrate
+
+15
+00:00:38,125 --> 00:00:40,375
+the plasma streamer's
+distortion field.
+
+16
+00:00:40,417 --> 00:00:41,792
+Can we tractor them out?
+
+17
+00:00:41,834 --> 00:00:44,625
+No, sir, ionic interference
+is too heavy.
+
+18
+00:00:44,667 --> 00:00:46,458
+I'll take a shuttle in.
+
+19
+00:00:46,500 --> 00:00:47,667
+Too risky.
+
+20
+00:00:47,709 --> 00:00:50,375
+You could be
+pulled in, too.
+
+21
+00:00:50,417 --> 00:00:52,125
+Bridge to Engineering.
+
+22
+00:00:52,166 --> 00:00:54,709
+Mr. La Forge, can we beam an
+away team onto the science ship?
+
+23
+00:00:54,750 --> 00:00:56,291
+We can beam them
+over there, Captain,
+
+24
+00:00:56,333 --> 00:00:57,792
+but with all this
+interference,
+
+25
+00:00:57,834 --> 00:01:00,125
+we might not get a positive
+lock to bring them back.
+
+26
+00:01:00,166 --> 00:01:02,959
+Commander, if we bridged our
+transporter system with theirs,
+
+27
+00:01:03,041 --> 00:01:05,000
+we might be able to
+cut through the ionic field.
+
+28
+00:01:05,041 --> 00:01:06,583
+That's a good idea, Barclay.
+
+29
+00:01:06,625 --> 00:01:08,208
+Captain,
+I think we can do it.
+
+30
+00:01:08,250 --> 00:01:10,458
+We're going to bridge
+the two transporter systems.
+
+31
+00:01:10,500 --> 00:01:13,333
+PICARD: Acknowledged.
+Meet Commander Riker in
+Transporter Room three.
+
+32
+00:01:13,375 --> 00:01:14,750
+Aye, sir.
+
+33
+00:01:14,792 --> 00:01:16,250
+Barclay, I'm going to need
+a systems engineer
+
+34
+00:01:16,291 --> 00:01:17,375
+on this away team.
+
+35
+00:01:19,959 --> 00:01:23,375
+I'll... I'll ask
+Ensign Dern to join you.
+
+36
+00:01:23,417 --> 00:01:25,625
+I meant you, Barclay.
+
+37
+00:01:25,667 --> 00:01:28,291
+Shouldn't I stay here
+
+38
+00:01:28,333 --> 00:01:30,041
+and set up the remote link?
+
+39
+00:01:30,083 --> 00:01:32,333
+Dern can do that.
+Come on, let's go.
+
+40
+00:01:44,125 --> 00:01:45,875
+Status, Mr. O'Brien?
+
+41
+00:01:45,917 --> 00:01:47,709
+I'll have to send you over
+one at a time, Commander,
+
+42
+00:01:47,750 --> 00:01:49,750
+because of
+bandwidth limitations.
+
+43
+00:01:49,792 --> 00:01:52,166
+And the transport cycle
+will take a bit longer.
+
+44
+00:01:52,208 --> 00:01:53,750
+RIKER: How much longer?
+O'BRIEN: Four or five seconds--
+
+45
+00:01:53,792 --> 00:01:55,291
+about twice
+the normal time.
+
+46
+00:01:55,333 --> 00:01:57,417
+I'm afraid you're in
+for a bumpy ride, Commander.
+
+47
+00:01:57,458 --> 00:01:59,166
+What do you...
+
+48
+00:02:03,166 --> 00:02:06,500
+What exactly do you mean
+by "a bumpy ride"?
+
+49
+00:02:06,542 --> 00:02:08,041
+Well, there may be
+a small amount
+
+50
+00:02:08,083 --> 00:02:09,834
+of static charge
+accumulation.
+
+51
+00:02:09,875 --> 00:02:11,125
+You'll feel a bit
+of tingling.
+
+52
+00:02:11,166 --> 00:02:12,458
+It's nothing
+to worry about.
+
+53
+00:02:12,500 --> 00:02:14,667
+Let's do it.
+Mr. Worf.
+
+54
+00:02:20,208 --> 00:02:22,625
+O'BRIEN:
+Engaging system interlock.
+
+55
+00:02:22,667 --> 00:02:25,500
+Pattern buffers
+synchronized.
+
+56
+00:02:25,542 --> 00:02:28,166
+Phase transition coils
+at standby.
+
+57
+00:02:28,208 --> 00:02:30,083
+Energizing.
+
+58
+00:02:36,125 --> 00:02:37,959
+He's there.
+
+59
+00:02:39,250 --> 00:02:40,959
+I'll go next.
+
+60
+00:02:45,458 --> 00:02:47,166
+O'BRIEN:
+Engaging interlock.
+
+61
+00:02:47,208 --> 00:02:50,375
+Buffers synched.
+Energizing.
+
+62
+00:02:54,875 --> 00:02:56,625
+I'm ready.
+
+63
+00:03:02,709 --> 00:03:04,792
+O'BRIEN:
+Engaging interlock.
+
+64
+00:03:04,834 --> 00:03:06,542
+Buffers in sync.
+
+65
+00:03:06,583 --> 00:03:08,917
+Oh, wait a minute.
+
+66
+00:03:08,959 --> 00:03:11,458
+I'm reading an ionic fluctuation
+in the matter stream.
+
+67
+00:03:13,333 --> 00:03:15,750
+Oh. No problem.
+
+68
+00:03:15,792 --> 00:03:19,041
+Okay. Energizing.
+
+69
+00:03:24,250 --> 00:03:27,000
+(<i> breathing slowly</i>
+<i>and heavily</i> )
+
+70
+00:03:30,834 --> 00:03:32,542
+Reg, you're up.
+
+71
+00:03:33,792 --> 00:03:35,834
+Reg?
+
+72
+00:03:37,083 --> 00:03:39,166
+Aye, sir.
+
+73
+00:03:48,834 --> 00:03:50,875
+O'BRIEN:
+Engaging interlock.
+
+74
+00:03:52,000 --> 00:03:54,166
+Buffers in sync.
+
+75
+00:03:55,291 --> 00:03:57,583
+Phase coils...
+I'm sorry.
+
+76
+00:03:57,625 --> 00:03:59,917
+I just can't do this.
+
+77
+00:04:34,333 --> 00:04:38,542
+<i>Space... the final frontier.</i>
+
+78
+00:04:38,583 --> 00:04:43,125
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+79
+00:04:43,166 --> 00:04:44,834
+<i>Its continuing mission--</i>
+
+80
+00:04:44,875 --> 00:04:48,417
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+81
+00:04:48,458 --> 00:04:52,917
+<i>to seek out new life</i>
+<i>and new civilizations...</i>
+
+82
+00:04:52,959 --> 00:04:57,709
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+83
+00:05:58,834 --> 00:06:02,750
+Reg, you were faced
+with a difficult transport.
+
+84
+00:06:02,792 --> 00:06:05,500
+Anyone would have been
+apprehensive in that situation.
+
+85
+00:06:05,542 --> 00:06:07,500
+You tell that
+to Commander La Forge
+
+86
+00:06:07,542 --> 00:06:09,125
+and the rest of
+the away team.
+
+87
+00:06:09,166 --> 00:06:12,333
+I'm sure
+they understand.
+
+88
+00:06:12,375 --> 00:06:13,959
+As soon as you
+feel up to it,
+
+89
+00:06:14,000 --> 00:06:15,625
+you can probably
+still join them.
+
+90
+00:06:15,667 --> 00:06:17,583
+No!
+
+91
+00:06:18,959 --> 00:06:21,792
+Reg, is there something
+you're not telling me?
+
+92
+00:06:23,125 --> 00:06:25,208
+Actually...
+
+93
+00:06:27,667 --> 00:06:30,250
+it's, this is not the...
+
+94
+00:06:30,291 --> 00:06:33,125
+this is not the first time
+I've been apprehensive.
+
+95
+00:06:33,166 --> 00:06:37,291
+Every single time
+that I tried to do it,
+
+96
+00:06:37,333 --> 00:06:39,542
+I had this certain feeling,
+
+97
+00:06:39,583 --> 00:06:42,583
+and I guess...
+you could call it...
+
+98
+00:06:42,625 --> 00:06:44,834
+mortal terror.
+
+99
+00:06:46,709 --> 00:06:48,583
+Why have you kept it a secret?
+
+100
+00:06:48,625 --> 00:06:50,500
+Why?!
+
+101
+00:06:50,542 --> 00:06:54,709
+Because my career in Starfleet
+would be over, that's why.
+
+102
+00:06:55,625 --> 00:06:57,291
+I doubt that.
+
+103
+00:06:57,333 --> 00:06:59,417
+I've always managed
+to avoid it somehow.
+
+104
+00:06:59,458 --> 00:07:01,166
+You wouldn't believe
+how many hours
+
+105
+00:07:01,208 --> 00:07:02,875
+that I've logged in
+shuttlecraft.
+
+106
+00:07:02,917 --> 00:07:07,333
+I mean, the idea
+of being deconstructed
+
+107
+00:07:07,375 --> 00:07:10,125
+molecule by molecule--
+it's more than I can stand.
+
+108
+00:07:10,166 --> 00:07:12,875
+Even when I was a child,
+
+109
+00:07:12,917 --> 00:07:14,709
+I always had a dreadful fear
+
+110
+00:07:14,750 --> 00:07:18,333
+that if ever
+I was dematerialized,
+
+111
+00:07:18,375 --> 00:07:21,041
+that I would...
+
+112
+00:07:21,083 --> 00:07:23,875
+never come back again whole.
+
+113
+00:07:23,917 --> 00:07:26,417
+I know it sounds crazy, but...
+
+114
+00:07:26,458 --> 00:07:28,125
+It's not crazy at all.
+
+115
+00:07:28,166 --> 00:07:30,542
+You<i> are</i> being taken apart
+
+116
+00:07:30,583 --> 00:07:32,917
+molecule by molecule.
+
+117
+00:07:35,125 --> 00:07:36,709
+Reg, you're not
+the first person
+
+118
+00:07:36,750 --> 00:07:39,375
+to have anxiety
+about transporting.
+
+119
+00:07:41,542 --> 00:07:45,792
+We can desensitize you
+to this type of fear.
+
+120
+00:07:45,834 --> 00:07:49,750
+It's a slow and gradual
+process, but it works.
+
+121
+00:07:49,792 --> 00:07:52,250
+It does? How?
+
+122
+00:07:52,291 --> 00:07:54,125
+Well,
+you might first try
+
+123
+00:07:54,166 --> 00:07:56,250
+a relaxation technique,
+like plexing.
+
+124
+00:07:57,375 --> 00:07:59,375
+Plexing?
+
+125
+00:07:59,417 --> 00:08:01,375
+Yes, it's
+a Betazoid method.
+
+126
+00:08:01,417 --> 00:08:04,375
+The next time you feel
+nervous about transporting,
+
+127
+00:08:04,417 --> 00:08:07,667
+you stimulate a neural
+pressure point, like this.
+
+128
+00:08:09,291 --> 00:08:12,917
+There's a nerve cluster
+just behind the carotid artery.
+
+129
+00:08:12,959 --> 00:08:14,417
+It stimulates
+the part of the brain
+
+130
+00:08:14,458 --> 00:08:16,500
+that releases
+natural endorphins.
+
+131
+00:08:16,542 --> 00:08:19,291
+Plexing...
+sounds easy enough.
+
+132
+00:08:20,542 --> 00:08:22,917
+Here. There.
+
+133
+00:08:26,834 --> 00:08:28,875
+Hmm.
+
+134
+00:08:29,834 --> 00:08:31,583
+You know, I... I...
+
+135
+00:08:31,625 --> 00:08:34,834
+I feel better already.
+I think I can do this.
+
+136
+00:08:34,875 --> 00:08:36,500
+There's no need to rush.
+No, no, no.
+
+137
+00:08:36,542 --> 00:08:38,291
+We talked about
+confronting my fears.
+
+138
+00:08:38,333 --> 00:08:41,709
+"The best way out is through."
+You said that once, remember?
+
+139
+00:08:43,041 --> 00:08:44,500
+I suppose I did.
+
+140
+00:08:44,542 --> 00:08:48,291
+I'm going to beam over there.
+I can do it.
+
+141
+00:09:06,291 --> 00:09:08,166
+There's no sign
+of any survivors.
+
+142
+00:09:08,208 --> 00:09:09,625
+No sign of<i> anyone.</i>
+
+143
+00:09:09,667 --> 00:09:11,333
+Maybe they abandoned ship.
+
+144
+00:09:11,375 --> 00:09:13,875
+WORF:
+Unlikely.
+
+145
+00:09:13,917 --> 00:09:17,417
+The escape pods
+are still on board.
+
+146
+00:09:17,458 --> 00:09:19,458
+There was an explosion here.
+That much we do know.
+
+147
+00:09:19,500 --> 00:09:20,750
+Any idea what caused it?
+
+148
+00:09:20,792 --> 00:09:22,250
+I ruled out
+a reactor core failure
+
+149
+00:09:22,291 --> 00:09:23,875
+and there's no sign
+of a systems overload.
+
+150
+00:09:23,917 --> 00:09:27,500
+Blast analysis indicates
+the explosion originated here,
+
+151
+00:09:27,542 --> 00:09:29,875
+in the center
+of the transport chamber.
+
+152
+00:09:29,917 --> 00:09:31,250
+How is that possible?
+
+153
+00:09:31,291 --> 00:09:32,709
+The transporter
+is still functional.
+
+154
+00:09:32,750 --> 00:09:34,417
+Could they have
+beamed aboard
+
+155
+00:09:34,458 --> 00:09:36,542
+an explosive device?
+
+156
+00:09:36,583 --> 00:09:39,375
+Commander Riker?
+Could you come here, please?
+
+157
+00:09:39,417 --> 00:09:41,041
+Excuse me.
+
+158
+00:09:52,083 --> 00:09:56,000
+Lieutenant Joshua Kelly.
+He was the ship's engineer.
+
+159
+00:09:56,041 --> 00:09:57,667
+How did he die?
+
+160
+00:09:57,709 --> 00:10:00,041
+He has second- and third-degree
+burns over most of his body,
+
+161
+00:10:00,083 --> 00:10:02,250
+but I don't think they were
+the cause of his death.
+
+162
+00:10:02,291 --> 00:10:05,166
+I'd like to take him back
+to do an autopsy.
+
+163
+00:10:09,625 --> 00:10:11,667
+You're sure
+about this, sir?
+
+164
+00:10:11,709 --> 00:10:14,291
+Sure.
+Please proceed.
+
+165
+00:10:14,333 --> 00:10:15,959
+It'll only take a minute.
+
+166
+00:10:16,000 --> 00:10:17,917
+Oh, it should be
+a smooth ride over.
+
+167
+00:10:17,959 --> 00:10:19,875
+Good. Good.
+
+168
+00:10:28,583 --> 00:10:31,375
+I know how you feel
+about this, sir.
+
+169
+00:10:33,875 --> 00:10:37,500
+You're... you're afraid
+of transporting, too?
+
+170
+00:10:37,542 --> 00:10:39,917
+No. Arachnids.
+
+171
+00:10:39,959 --> 00:10:42,417
+Sickening, crawly little
+things, don't you think?
+
+172
+00:10:42,458 --> 00:10:43,834
+All those legs...
+
+173
+00:10:43,875 --> 00:10:47,625
+Spiders...
+they've never bothered me.
+
+174
+00:10:47,667 --> 00:10:50,000
+A few years back,
+I was called in
+
+175
+00:10:50,041 --> 00:10:53,166
+to reroute an emitter array
+at a starbase at Zayra IV.
+
+176
+00:10:53,208 --> 00:10:56,250
+Turns out the entire system
+was infested
+
+177
+00:10:56,291 --> 00:10:58,542
+with Talarian hook spiders.
+
+178
+00:10:58,583 --> 00:11:01,125
+You ever seen
+a Talarian hook spider?
+
+179
+00:11:02,959 --> 00:11:06,500
+Their legs
+are half a meter long.
+
+180
+00:11:06,542 --> 00:11:09,709
+Well, I had a choice.
+
+181
+00:11:09,750 --> 00:11:13,250
+Do I walk away and let
+the emitter blow itself to hell
+
+182
+00:11:13,291 --> 00:11:16,875
+or do I crawl in the Jefferies
+tube with 20 hook spiders?
+
+183
+00:11:18,709 --> 00:11:20,417
+Wh... what happened?
+
+184
+00:11:20,458 --> 00:11:23,000
+It was the hardest thing
+I ever did,
+
+185
+00:11:23,041 --> 00:11:25,709
+but I got through it.
+
+186
+00:11:25,750 --> 00:11:29,333
+After that, I was never
+quite so afraid of spiders.
+
+187
+00:11:30,917 --> 00:11:32,458
+Thanks.
+
+188
+00:11:57,500 --> 00:11:59,375
+Energizing.
+
+189
+00:12:20,792 --> 00:12:23,166
+Reg.
+Welcome aboard.
+
+190
+00:12:23,208 --> 00:12:25,625
+You ready to work?
+Yes, sir.
+
+191
+00:12:25,667 --> 00:12:26,834
+Good.
+
+192
+00:12:26,875 --> 00:12:28,291
+Why don't you start
+by downloading
+
+193
+00:12:28,333 --> 00:12:30,792
+the ship's science logs
+over there.
+Aye, sir.
+
+194
+00:12:40,000 --> 00:12:42,625
+Still four members of
+the crew unaccounted for.
+
+195
+00:12:42,667 --> 00:12:44,125
+Did you come up
+with anything?
+
+196
+00:12:44,166 --> 00:12:46,166
+Well, I don't know
+how these fit in,
+
+197
+00:12:46,208 --> 00:12:48,458
+but I found them all around
+the transporter platform.
+What are they?
+
+198
+00:12:48,500 --> 00:12:51,125
+They look like pieces of
+a standard sample container.
+
+199
+00:12:51,166 --> 00:12:54,458
+We'll take these back to
+the ship and analyze them there.
+
+200
+00:12:54,500 --> 00:12:57,166
+Mr. Barclay?
+
+201
+00:12:57,208 --> 00:12:59,250
+Glad you could join us.
+
+202
+00:12:59,291 --> 00:13:01,375
+Me, too, sir.
+
+203
+00:13:06,417 --> 00:13:08,625
+The Ferengi are claiming
+two of their freighters
+
+204
+00:13:08,667 --> 00:13:11,709
+were destroyed by a Cardassian
+warship in your sector.
+
+205
+00:13:11,750 --> 00:13:13,834
+Is there any evidence
+to support this?
+
+206
+00:13:13,875 --> 00:13:16,500
+Although I'm loath to believe
+the Ferengi about anything,
+
+207
+00:13:16,542 --> 00:13:20,375
+there was evidence
+of Cardassian weapons.
+
+208
+00:13:20,417 --> 00:13:23,667
+If the Cardassians
+also attacked the<i> Yosemite,</i>
+
+209
+00:13:23,709 --> 00:13:26,959
+it could indicate a large-scale
+movement in this sector.
+
+210
+00:13:27,000 --> 00:13:29,709
+I have an away team
+on board the ship.
+
+211
+00:13:29,750 --> 00:13:33,542
+The initial report indicates
+there was an explosion on board,
+
+212
+00:13:33,583 --> 00:13:35,709
+but we're not sure
+if it was from an attack.
+
+213
+00:13:35,750 --> 00:13:38,542
+How soon until you know?
+A few hours.
+
+214
+00:13:38,583 --> 00:13:41,959
+If it looks like Cardassians,
+I'll contact you immediately.
+
+215
+00:13:42,000 --> 00:13:44,417
+Very well.
+
+216
+00:13:44,458 --> 00:13:47,834
+DATA:
+Bridge to Captain Picard.
+Go ahead, Mr. Data.
+
+217
+00:13:47,875 --> 00:13:52,458
+The away team is returning
+to the<i> Enterprise,</i> sir.
+Acknowledged.
+
+218
+00:13:52,500 --> 00:13:55,959
+Have Commander Riker
+come to my Ready Room
+as soon as he's on board.
+
+219
+00:13:56,000 --> 00:13:58,417
+Aye, sir.
+
+220
+00:13:58,458 --> 00:14:00,625
+La Forge to
+Transporter Room three.
+
+221
+00:14:00,667 --> 00:14:03,583
+I'm ready to go.
+Stand by, Commander.
+
+222
+00:14:23,375 --> 00:14:25,417
+Barclay to<i> Enterprise.</i>
+
+223
+00:14:25,458 --> 00:14:27,291
+One to beam back.
+
+224
+00:14:27,333 --> 00:14:29,458
+O'BRIEN:
+Stand by, sir.
+
+225
+00:14:51,709 --> 00:14:54,542
+See, sir?
+That wasn't so bad, was it?
+
+226
+00:15:11,166 --> 00:15:13,291
+Mission logs, science logs,
+medical logs--
+
+227
+00:15:13,333 --> 00:15:14,959
+they're all scrambled.
+
+228
+00:15:15,000 --> 00:15:18,083
+Looks like the blast wiped out
+the ship's core memory.
+
+229
+00:15:18,125 --> 00:15:19,917
+We could try
+to reconstitute
+
+230
+00:15:19,959 --> 00:15:22,000
+the data stream.
+
+231
+00:15:22,041 --> 00:15:24,125
+It's worth a try.
+
+232
+00:15:26,792 --> 00:15:29,583
+Commander,
+has anything strange
+
+233
+00:15:29,625 --> 00:15:32,417
+ever happened to you
+during transport?
+
+234
+00:15:32,458 --> 00:15:34,083
+Like what?
+
+235
+00:15:34,125 --> 00:15:35,583
+I don't know.
+
+236
+00:15:35,625 --> 00:15:38,000
+Anything out of
+the ordinary?
+
+237
+00:15:38,041 --> 00:15:39,834
+No, not really.
+
+238
+00:15:39,875 --> 00:15:41,458
+This looks hopeless.
+
+239
+00:15:41,500 --> 00:15:43,792
+We're not going to get
+anything out of these logs.
+
+240
+00:15:43,834 --> 00:15:45,667
+You know, maybe...
+
+241
+00:15:45,709 --> 00:15:48,500
+this broken sample container
+I found can tell us something.
+
+242
+00:15:48,542 --> 00:15:51,166
+Let's try to get this thing
+back into one piece.
+
+243
+00:15:51,208 --> 00:15:53,834
+I mean... have...
+
+244
+00:15:53,875 --> 00:15:56,834
+ha-have you ever
+seen anything?
+
+245
+00:15:56,875 --> 00:15:58,875
+Where?
+
+246
+00:15:58,917 --> 00:16:02,000
+In the...
+during transport.
+
+247
+00:16:02,041 --> 00:16:05,125
+Sometimes my visor
+picks up resonance patterns
+
+248
+00:16:05,166 --> 00:16:07,458
+from matter-energy
+conversion.
+
+249
+00:16:07,500 --> 00:16:09,834
+It's actually
+kind of pretty.
+
+250
+00:16:09,875 --> 00:16:11,458
+Why?
+
+251
+00:16:11,500 --> 00:16:13,583
+I'm just wondering.
+
+252
+00:16:18,959 --> 00:16:22,041
+Reg, what are you getting at?
+
+253
+00:16:22,083 --> 00:16:24,208
+Did you see something
+during transport?
+
+254
+00:16:27,000 --> 00:16:31,041
+When I was returning
+to the<i> Enterprise,</i>
+
+255
+00:16:31,083 --> 00:16:34,375
+I could have sworn I saw
+something in the matter stream.
+
+256
+00:16:35,875 --> 00:16:38,166
+Something?
+
+257
+00:16:38,208 --> 00:16:40,000
+There was phased matter
+all around
+
+258
+00:16:40,041 --> 00:16:42,583
+and, at first,
+I thought it was some kind of,
+
+259
+00:16:42,625 --> 00:16:45,083
+uh, energy discharge,
+
+260
+00:16:45,125 --> 00:16:49,125
+but then, it flew toward me
+and touched my arm.
+
+261
+00:16:49,166 --> 00:16:51,750
+How could something
+be in there?
+
+262
+00:16:51,792 --> 00:16:54,166
+Molecules flying apart
+half-phased--
+
+263
+00:16:54,208 --> 00:16:57,625
+I mean...
+it's impossible, isn't it?
+
+264
+00:16:59,250 --> 00:17:00,959
+Well, we'd better
+check it out.
+
+265
+00:17:01,000 --> 00:17:02,709
+When we're done here,
+
+266
+00:17:02,750 --> 00:17:05,208
+we'll run a full diagnostic
+on the transporter, all right?
+
+267
+00:17:05,250 --> 00:17:07,333
+All right.
+
+268
+00:17:10,875 --> 00:17:13,458
+The confinement beam
+subsystems check out,
+
+269
+00:17:13,500 --> 00:17:15,333
+so do the phase
+transition coils.
+
+270
+00:17:15,375 --> 00:17:17,500
+The pattern buffer is fine.
+
+271
+00:17:17,542 --> 00:17:20,375
+Emitter pads,
+targeting scanners...
+
+272
+00:17:20,417 --> 00:17:22,375
+they're all working fine.
+
+273
+00:17:22,417 --> 00:17:23,917
+This system's clean
+
+274
+00:17:23,959 --> 00:17:25,750
+and so is
+the science vessel's.
+
+275
+00:17:25,792 --> 00:17:29,125
+Reg, there's a lot of energy
+floating around in the beam.
+
+276
+00:17:29,166 --> 00:17:32,667
+Maybe you saw a surge
+in the matter stream.
+
+277
+00:17:32,709 --> 00:17:34,750
+Yeah.
+
+278
+00:17:34,792 --> 00:17:36,750
+I'll run a scan on
+the Heisenberg compensators.
+
+279
+00:17:36,792 --> 00:17:39,041
+Oh, no, Chief,
+you've done enough already.
+
+280
+00:17:39,083 --> 00:17:40,166
+It's no problem.
+
+281
+00:17:40,208 --> 00:17:42,291
+Why don't you
+give me a hand?
+
+282
+00:17:48,041 --> 00:17:51,792
+You know, maybe ignorance
+really is bliss.
+
+283
+00:17:51,834 --> 00:17:53,250
+Sir?
+
+284
+00:17:53,291 --> 00:17:54,875
+Well, if I didn't know
+so much about these things,
+
+285
+00:17:54,917 --> 00:17:56,583
+maybe they wouldn't
+scare me so much.
+
+286
+00:17:56,625 --> 00:17:58,542
+I can still remember the day
+
+287
+00:17:58,583 --> 00:18:00,959
+in Dr. Olafson's
+Transporter Theory class
+
+288
+00:18:01,000 --> 00:18:02,709
+when he was talking
+about the body
+
+289
+00:18:02,750 --> 00:18:06,917
+being converted into billions
+of kiloquads of data...
+
+290
+00:18:06,959 --> 00:18:08,417
+zipping through subspace,
+
+291
+00:18:08,458 --> 00:18:11,250
+and I realized
+there's no margin for error.
+
+292
+00:18:11,291 --> 00:18:14,333
+One atom out of place and...
+poof!
+
+293
+00:18:14,375 --> 00:18:16,041
+You never come back.
+
+294
+00:18:16,083 --> 00:18:18,875
+It's amazing people
+aren't lost all the time.
+
+295
+00:18:18,917 --> 00:18:20,542
+With all due respect, sir,
+
+296
+00:18:20,583 --> 00:18:22,500
+I've been doing this
+for 22 years
+
+297
+00:18:22,542 --> 00:18:24,208
+and I haven't lost
+anybody yet.
+
+298
+00:18:24,250 --> 00:18:25,792
+Yes, but...
+
+299
+00:18:25,834 --> 00:18:29,417
+you realize if the imaging
+scanners are off
+
+300
+00:18:29,458 --> 00:18:31,834
+even one-thousandth
+of a percent...
+
+301
+00:18:31,875 --> 00:18:34,834
+That's why each pad
+has four redundant scanners.
+
+302
+00:18:34,875 --> 00:18:37,625
+If any one scanner fails,
+the other three take over.
+
+303
+00:18:37,667 --> 00:18:40,917
+Reg, how many
+transporter accidents
+
+304
+00:18:40,959 --> 00:18:43,083
+have there been
+in the last ten years?
+
+305
+00:18:43,125 --> 00:18:44,875
+Two? Three?
+
+306
+00:18:44,917 --> 00:18:46,500
+There are millions of people
+
+307
+00:18:46,542 --> 00:18:49,250
+who transport safely every day
+without a problem.
+
+308
+00:18:49,291 --> 00:18:50,959
+I've heard of problems.
+
+309
+00:18:51,000 --> 00:18:52,875
+What about
+transporter psychosis?
+
+310
+00:18:52,917 --> 00:18:54,959
+Transporter psychosis?!
+
+311
+00:18:55,000 --> 00:18:57,792
+There hasn't been a case of
+that in over 50 years--
+
+312
+00:18:57,834 --> 00:19:01,083
+not since they perfected
+the multiplex pattern buffers.
+
+313
+00:19:01,125 --> 00:19:05,375
+Reg, transporting really is
+the safest way to travel.
+
+314
+00:19:07,166 --> 00:19:09,083
+(<i> sighs</i> )
+
+315
+00:19:12,583 --> 00:19:15,750
+I'd like to take
+a closer look at those burns.
+
+316
+00:19:15,792 --> 00:19:17,500
+Take a tissue sample, please.
+
+317
+00:19:17,542 --> 00:19:19,291
+Yes, Doctor.
+
+318
+00:19:33,834 --> 00:19:36,125
+Damage to the epidermis only.
+
+319
+00:19:36,166 --> 00:19:38,542
+Initiate a circulatory probe.
+
+320
+00:19:52,333 --> 00:19:54,083
+(<i> beeping</i> )
+
+321
+00:19:54,125 --> 00:19:56,458
+Dr. Crusher!
+
+322
+00:19:56,500 --> 00:19:58,250
+His heart's beating.
+
+323
+00:19:58,291 --> 00:20:00,375
+Cardio-stimulator.
+
+324
+00:20:02,709 --> 00:20:03,959
+Now.
+
+325
+00:20:04,000 --> 00:20:06,458
+OGAWA:
+It's gone.
+
+326
+00:20:08,250 --> 00:20:11,750
+Neuro-electrical activity
+in the cerebral cortex.
+
+327
+00:20:13,041 --> 00:20:15,625
+Nothing.
+
+328
+00:20:15,667 --> 00:20:18,542
+Now his respiratory
+system's active.
+
+329
+00:20:24,834 --> 00:20:27,041
+What the hell is going on?
+
+330
+00:20:29,917 --> 00:20:32,041
+Here you are,
+Lieutenant.
+
+331
+00:21:27,917 --> 00:21:30,000
+Water-- ten degrees Celsius.
+
+332
+00:21:50,959 --> 00:21:54,291
+Computer, access
+Starfleet Medical Database
+
+333
+00:21:54,333 --> 00:21:56,959
+and tell me about, um...
+
+334
+00:21:57,000 --> 00:21:59,208
+describe the disorder
+
+335
+00:21:59,250 --> 00:22:01,583
+"transporter psychosis."
+
+336
+00:22:01,625 --> 00:22:05,667
+COMPUTER: Transporter psychosis
+was diagnosed in the year 2209
+
+337
+00:22:05,709 --> 00:22:08,834
+by researchers
+on Delinia II...
+
+338
+00:22:08,875 --> 00:22:10,709
+No, no, stop.
+
+339
+00:22:10,750 --> 00:22:12,500
+All I need is...
+
+340
+00:22:12,542 --> 00:22:14,500
+what causes it?
+
+341
+00:22:14,542 --> 00:22:16,125
+COMPUTER:
+It is caused by a breakdown
+
+342
+00:22:16,166 --> 00:22:18,834
+of neurochemical molecules
+during transport,
+
+343
+00:22:18,875 --> 00:22:22,500
+affecting the body's motor
+functions, autonomic systems
+
+344
+00:22:22,542 --> 00:22:25,250
+and the brain's
+higher reasoning centers.
+
+345
+00:22:25,291 --> 00:22:27,083
+What are the symptoms?
+
+346
+00:22:27,125 --> 00:22:29,959
+COMPUTER: Victims suffer
+from paranoid delusions,
+
+347
+00:22:30,000 --> 00:22:32,500
+multi-infarct dementia,
+
+348
+00:22:32,542 --> 00:22:34,291
+hallucinations...
+
+349
+00:22:34,333 --> 00:22:36,291
+Hallucinations?
+
+350
+00:22:36,333 --> 00:22:38,542
+What... what kind of
+hallucinations?
+
+351
+00:22:38,583 --> 00:22:41,750
+COMPUTER: Victims experience
+somatic, tactile
+
+352
+00:22:41,792 --> 00:22:44,000
+and a visual hallucinations,
+
+353
+00:22:44,041 --> 00:22:47,041
+accompanied by
+psychogenic hysteria.
+
+354
+00:22:48,792 --> 00:22:52,125
+Peripheral symptoms
+include sleeplessness,
+
+355
+00:22:52,166 --> 00:22:55,500
+accelerated heart rate,
+
+356
+00:22:55,542 --> 00:22:59,458
+diminished eyesight
+leading to acute myopia,
+
+357
+00:22:59,500 --> 00:23:02,583
+painful spasms
+in the extremities
+
+358
+00:23:02,625 --> 00:23:05,500
+and in most cases,
+dehydration.
+
+359
+00:23:07,250 --> 00:23:09,333
+Computer...
+
+360
+00:23:11,125 --> 00:23:13,083
+what is the treatment
+
+361
+00:23:13,125 --> 00:23:15,667
+for transporter psychosis?
+
+362
+00:23:15,709 --> 00:23:17,875
+COMPUTER:
+There is no known treatment.
+
+363
+00:23:21,333 --> 00:23:23,458
+The autopsy showed
+residual ionization
+
+364
+00:23:23,500 --> 00:23:25,792
+in every one of
+Lieutenant Kelly's systems.
+
+365
+00:23:25,834 --> 00:23:28,875
+I think that's what caused
+the muscular and systemic
+contractions.
+
+366
+00:23:30,000 --> 00:23:31,834
+From where
+did the ionization come?
+
+367
+00:23:31,875 --> 00:23:34,333
+There's evidence
+of electrical burns
+
+368
+00:23:34,375 --> 00:23:35,750
+on the victim's body,
+
+369
+00:23:35,792 --> 00:23:38,166
+as if he was exposed
+to ionized gas
+
+370
+00:23:38,208 --> 00:23:39,709
+or high-energy plasma.
+
+371
+00:23:39,750 --> 00:23:41,166
+Plasma?
+
+372
+00:23:41,208 --> 00:23:43,792
+There's no way they could
+have been exposed...
+
+373
+00:23:43,834 --> 00:23:46,333
+Unless it was matter
+from the streamer.
+
+374
+00:23:46,375 --> 00:23:48,041
+Is there evidence
+of a hull breach?
+
+375
+00:23:48,083 --> 00:23:49,542
+Could the plasma
+from the streamer
+
+376
+00:23:49,583 --> 00:23:50,750
+have found its way
+onto the ship?
+
+377
+00:23:50,792 --> 00:23:52,458
+No.
+
+378
+00:23:52,500 --> 00:23:55,417
+Data, what's the report on
+that broken sample container?
+
+379
+00:23:55,458 --> 00:23:58,333
+The analysis of the fragments
+is not yet complete.
+
+380
+00:23:59,542 --> 00:24:01,000
+Captain,
+if there's evidence
+
+381
+00:24:01,041 --> 00:24:02,542
+of similar ionization
+in those fragments,
+
+382
+00:24:02,583 --> 00:24:04,250
+it could mean
+that they tried
+
+383
+00:24:04,291 --> 00:24:06,625
+to beam aboard material
+from the streamer.
+
+384
+00:24:06,667 --> 00:24:10,291
+If the plasma exploded,
+that would explain a few things.
+
+385
+00:24:10,333 --> 00:24:12,291
+Let me know when
+the analysis is complete.
+
+386
+00:24:12,333 --> 00:24:14,500
+LA FORGE:
+Aye, sir.
+
+387
+00:24:25,625 --> 00:24:27,542
+LA FORGE:
+From the look of these
+fracture patterns,
+
+388
+00:24:27,583 --> 00:24:30,208
+I'd say that the explosive force
+came from within the container.
+
+389
+00:24:30,250 --> 00:24:31,959
+The container does
+show evidence
+
+390
+00:24:32,000 --> 00:24:34,375
+of residual
+ionization.
+
+391
+00:24:34,417 --> 00:24:36,792
+I believe your
+hypothesis was correct.
+
+392
+00:24:36,834 --> 00:24:38,834
+It was used to store
+high-energy plasma.
+
+393
+00:24:38,875 --> 00:24:41,959
+LA FORGE:
+So they<i> were</i> collecting samples
+from the plasma streamer.
+
+394
+00:24:42,000 --> 00:24:44,125
+But they had
+the proper container.
+
+395
+00:24:44,166 --> 00:24:45,792
+How could it have exploded?
+
+396
+00:24:45,834 --> 00:24:49,166
+Perhaps we should attempt
+to re-create their experiment
+
+397
+00:24:49,208 --> 00:24:52,834
+to see what happens to matter
+when it is beamed aboard
+under similar conditions.
+
+398
+00:24:52,875 --> 00:24:55,166
+LA FORGE:
+It's a good idea.
+We'll prepare a new container.
+
+399
+00:24:55,208 --> 00:24:57,250
+Reg, I don't want
+to take any chances here.
+
+400
+00:24:57,291 --> 00:24:59,000
+Start setting up a level-5
+containment field
+
+401
+00:24:59,041 --> 00:25:01,959
+here in Engineering, okay?
+Aye, sir.
+
+402
+00:25:09,250 --> 00:25:11,667
+Are you all right,
+Lieutenant?
+
+403
+00:25:11,709 --> 00:25:13,917
+I'm fine.
+
+404
+00:25:13,959 --> 00:25:16,000
+Yes, thank you.
+
+405
+00:25:31,333 --> 00:25:34,500
+Geordi?
+Hmm?
+
+406
+00:25:34,542 --> 00:25:36,875
+Lieutenant Barclay appears
+inordinately preoccupied
+
+407
+00:25:36,917 --> 00:25:39,041
+with his physiological
+condition.
+
+408
+00:25:39,083 --> 00:25:41,125
+I have seen him
+check his pulse rate,
+
+409
+00:25:41,166 --> 00:25:43,291
+as well as his visual
+acuity several times
+
+410
+00:25:43,333 --> 00:25:45,417
+over the last 20 minutes.
+
+411
+00:25:46,709 --> 00:25:48,709
+Thanks, Data.
+
+412
+00:26:08,875 --> 00:26:10,625
+Reg?
+
+413
+00:26:12,750 --> 00:26:14,291
+Yes, sir?
+
+414
+00:26:14,333 --> 00:26:16,583
+You okay?
+
+415
+00:26:17,625 --> 00:26:20,166
+I'm just fine, sir.
+
+416
+00:26:20,208 --> 00:26:22,125
+You look a little pale.
+
+417
+00:26:22,166 --> 00:26:24,166
+I do?
+
+418
+00:26:25,500 --> 00:26:28,709
+Look, Reg, it's been
+a long couple of days.
+
+419
+00:26:28,750 --> 00:26:31,000
+Why don't you
+get some rest?
+
+420
+00:26:31,041 --> 00:26:33,208
+We've got everything
+under control here.
+
+421
+00:26:33,250 --> 00:26:36,083
+I think I'll do that, sir.
+Thank you.
+
+422
+00:26:43,583 --> 00:26:46,959
+La Forge to Counselor Troi.
+Go ahead, Commander.
+
+423
+00:26:47,000 --> 00:26:48,875
+Counselor,
+do you have a minute?
+
+424
+00:26:57,834 --> 00:27:00,875
+Lieutenant Barclay,
+I've been calling you.
+
+425
+00:27:00,917 --> 00:27:02,875
+Why haven't you responded?
+
+426
+00:27:02,917 --> 00:27:04,500
+Reg, what are you doing?
+I'm walking.
+
+427
+00:27:04,542 --> 00:27:06,458
+I can see that.
+Where are you going?
+Nowhere!
+
+428
+00:27:06,500 --> 00:27:08,792
+I just don't get to see
+these decks very often.
+
+429
+00:27:08,834 --> 00:27:10,333
+Look, there's
+stellar cartography.
+
+430
+00:27:10,375 --> 00:27:12,375
+I thought that
+was Deck 11.
+
+431
+00:27:12,417 --> 00:27:14,625
+Mr. Barclay...
+I was having
+trouble sleeping
+
+432
+00:27:14,667 --> 00:27:16,333
+and I'm trying
+to wear myself out.
+
+433
+00:27:16,375 --> 00:27:19,500
+It is a perfectly normal thing
+to be doing, isn't it?
+
+434
+00:27:19,542 --> 00:27:21,291
+Commander La Forge
+said you seemed
+
+435
+00:27:21,333 --> 00:27:22,792
+a little nervous
+this morning.
+
+436
+00:27:22,834 --> 00:27:25,041
+I'm always nervous.
+Everybody knows that.
+
+437
+00:27:25,083 --> 00:27:27,000
+He also mentioned
+that you said
+
+438
+00:27:27,041 --> 00:27:29,667
+you saw something
+in the transporter beam.
+Well, I was wrong.
+
+439
+00:27:29,709 --> 00:27:30,875
+They checked the transporter
+and there wasn't...
+
+440
+00:27:30,917 --> 00:27:32,083
+I mean, there
+was nothing there.
+
+441
+00:27:32,125 --> 00:27:33,333
+I imagined
+the whole thing.
+
+442
+00:27:33,375 --> 00:27:35,208
+You don't sound
+very convinced of that.
+
+443
+00:27:35,250 --> 00:27:36,875
+Listen, Counselor,
+
+444
+00:27:36,917 --> 00:27:39,250
+I really appreciate
+your concern in this matter,
+
+445
+00:27:39,291 --> 00:27:41,542
+but I wish you wouldn't continue
+with this conversation.
+
+446
+00:27:41,583 --> 00:27:43,291
+I'm really perfectly fine.
+
+447
+00:27:43,333 --> 00:27:47,041
+Mr. Barclay, you're exhausted
+and highly agitated.
+
+448
+00:27:47,083 --> 00:27:48,959
+And I cannot allow
+a member of this crew
+
+449
+00:27:49,000 --> 00:27:51,083
+to endanger himself
+or others.
+
+450
+00:27:51,125 --> 00:27:54,125
+I'm not endangering anyone else
+and I really wish you...
+
+451
+00:27:54,166 --> 00:27:56,250
+I think it would be
+in your best interest
+
+452
+00:27:56,291 --> 00:27:59,542
+to take a leave of absence.
+
+453
+00:27:59,583 --> 00:28:02,583
+Reg, I'm temporarily
+relieving you of duty.
+
+454
+00:28:04,917 --> 00:28:08,500
+Fine. Fine.
+
+455
+00:28:08,542 --> 00:28:11,500
+Do what you have to do,
+Counselor.
+
+456
+00:28:19,291 --> 00:28:23,417
+(<i> sound of sea breeze</i>
+<i>and birds chirping</i> )
+
+457
+00:28:28,500 --> 00:28:31,250
+Computer, more birds.
+
+458
+00:28:35,333 --> 00:28:37,792
+(<i> chirping becomes</i>
+<i>overwhelming</i> )
+
+459
+00:28:37,834 --> 00:28:40,458
+End stress reduction program.
+
+460
+00:28:47,250 --> 00:28:50,208
+Water.
+COMPUTER: Specify temperature.
+
+461
+00:28:50,250 --> 00:28:53,125
+I don't care.
+Just give me water.
+
+462
+00:29:10,166 --> 00:29:12,792
+Calm. Calm. Stay calm.
+
+463
+00:29:15,250 --> 00:29:18,166
+(<i> sighs deeply</i> )
+
+464
+00:29:24,375 --> 00:29:28,083
+All right, Computer,
+let's try some music.
+
+465
+00:29:28,125 --> 00:29:29,625
+Something soothing.
+
+466
+00:29:29,667 --> 00:29:32,375
+(<i> soft, tranquil</i>
+<i>music begins</i> )
+
+467
+00:29:33,959 --> 00:29:36,375
+(<i> breathing deeply</i> )
+
+468
+00:30:02,208 --> 00:30:04,375
+(<i> gasping</i> )
+
+469
+00:30:15,959 --> 00:30:18,625
+(<i> door opening</i> )
+
+470
+00:30:18,667 --> 00:30:20,500
+Sir, begging your pardon,
+
+471
+00:30:20,542 --> 00:30:23,375
+but couldn't this wait
+till the morning?
+No.
+
+472
+00:30:23,417 --> 00:30:26,542
+Chief, I've just... I've been
+reviewing the transport logs.
+
+473
+00:30:26,583 --> 00:30:30,125
+What are these... these energy
+variations that keep appearing?
+
+474
+00:30:30,166 --> 00:30:32,834
+There was one when
+I was transported to
+the science ship, do you see?
+
+475
+00:30:32,875 --> 00:30:34,709
+Yeah, they're just, uh...
+
+476
+00:30:34,750 --> 00:30:36,625
+Sorry. They're just
+ionic fluctuations--
+
+477
+00:30:36,667 --> 00:30:38,083
+a result
+of our interlock
+
+478
+00:30:38,125 --> 00:30:40,417
+with the<i> Yosemite's</i> 
+transporter system.
+
+479
+00:30:40,458 --> 00:30:42,458
+So a fluctuation occurred
+
+480
+00:30:42,500 --> 00:30:45,500
+while I was inside
+the matter stream.
+
+481
+00:30:45,542 --> 00:30:47,583
+It's nothing
+to worry about, sir.
+
+482
+00:30:47,625 --> 00:30:49,750
+I need you
+to transport me
+
+483
+00:30:49,792 --> 00:30:52,500
+to the science ship
+and then directly back again.
+
+484
+00:30:52,542 --> 00:30:54,625
+And while
+I'm in the beam,
+
+485
+00:30:54,667 --> 00:30:58,375
+can you re-create one of
+those ionic fluctuations?
+
+486
+00:30:58,417 --> 00:31:01,458
+I guess so, but if you don't
+mind my asking, sir, what for?
+
+487
+00:31:01,500 --> 00:31:03,792
+Well, I...
+Commander La Forge
+
+488
+00:31:03,834 --> 00:31:06,500
+wants some tricorder readings
+on those fluctuations.
+
+489
+00:31:06,542 --> 00:31:08,291
+We can do that
+from right here.
+
+490
+00:31:08,333 --> 00:31:11,375
+No, I... the transporter sensors
+may not be sensitive enough.
+
+491
+00:31:11,417 --> 00:31:15,709
+Now, I'm giving you an order,
+Mr. O'Brien.
+
+492
+00:31:15,750 --> 00:31:17,834
+Aye, sir.
+
+493
+00:31:20,041 --> 00:31:23,417
+If you don't mind my making
+an observation, sir,
+
+494
+00:31:23,458 --> 00:31:25,625
+you forgot to bring
+a tricorder.
+
+495
+00:31:30,041 --> 00:31:31,917
+Either there's
+something in there
+
+496
+00:31:31,959 --> 00:31:33,417
+or I'm going crazy,
+
+497
+00:31:33,458 --> 00:31:35,166
+and I've just got to know.
+
+498
+00:31:35,208 --> 00:31:38,041
+You can understand that,
+can't you?
+
+499
+00:31:39,083 --> 00:31:41,041
+Yes, sir, I can.
+
+500
+00:31:41,083 --> 00:31:43,458
+Stand by, sir.
+
+501
+00:32:14,083 --> 00:32:16,709
+I want you to wake
+the senior staff.
+
+502
+00:32:20,667 --> 00:32:24,125
+...and, and then I saw it
+again just 20 minutes ago.
+
+503
+00:32:24,166 --> 00:32:26,291
+It was the same exact thing,
+
+504
+00:32:26,333 --> 00:32:28,667
+just moving around
+in the transporter beam.
+
+505
+00:32:28,709 --> 00:32:29,959
+Let me get this straight.
+
+506
+00:32:30,000 --> 00:32:31,458
+You think this
+thing was alive?
+
+507
+00:32:31,500 --> 00:32:33,917
+It... it... it was...
+
+508
+00:32:33,959 --> 00:32:35,583
+dark and distorted
+
+509
+00:32:35,625 --> 00:32:39,125
+and it had what looked
+like a mouth.
+
+510
+00:32:40,125 --> 00:32:41,542
+A mouth...
+
+511
+00:32:41,583 --> 00:32:44,667
+I don't see anything
+wrong with his arm.
+
+512
+00:32:44,709 --> 00:32:48,250
+Reg, why did you wait so long
+to tell anybody about your arm?
+
+513
+00:32:50,083 --> 00:32:52,208
+Well... I...
+
+514
+00:32:52,250 --> 00:32:54,333
+I thought
+I was hallucinating.
+
+515
+00:32:54,375 --> 00:32:57,250
+That I... had, um...
+
+516
+00:32:57,291 --> 00:33:00,250
+That it was
+transporter psychosis,
+
+517
+00:33:00,291 --> 00:33:02,834
+but now I know what I saw
+in there was real.
+
+518
+00:33:02,875 --> 00:33:05,750
+I was the only one
+who experienced
+
+519
+00:33:05,792 --> 00:33:09,041
+ionic fluctuations
+in the transport.
+
+520
+00:33:09,083 --> 00:33:11,583
+Maybe that's why
+no one else saw it.
+
+521
+00:33:11,625 --> 00:33:14,166
+Mr. Barclay, I've been told
+that you've been under
+
+522
+00:33:14,208 --> 00:33:17,542
+considerable strain
+during the past few days.
+
+523
+00:33:17,583 --> 00:33:21,583
+Isn't it possible
+that you simply imagined...
+
+524
+00:33:21,625 --> 00:33:23,500
+I know what you're going
+to say, Captain.
+
+525
+00:33:23,542 --> 00:33:25,375
+I know I've been acting
+strange lately,
+
+526
+00:33:25,417 --> 00:33:27,041
+but you've got to
+believe me
+
+527
+00:33:27,083 --> 00:33:29,166
+that I would never
+have called you in here
+
+528
+00:33:29,208 --> 00:33:31,542
+unless I was
+absolutely certain.
+
+529
+00:33:35,917 --> 00:33:38,709
+Mr. La Forge,
+get Mr. O'Brien.
+
+530
+00:33:38,750 --> 00:33:41,291
+Take that transporter
+system apart
+
+531
+00:33:41,333 --> 00:33:43,625
+piece by piece
+if you have to.
+
+532
+00:33:43,667 --> 00:33:45,792
+Mr. Worf, I want
+a level-3 security alert
+
+533
+00:33:45,834 --> 00:33:48,125
+until further notice.
+Aye, sir.
+
+534
+00:33:48,166 --> 00:33:51,834
+I'll run a micro-cellular scan
+of Mr. Barclay's arm.
+
+535
+00:33:51,875 --> 00:33:54,959
+It might take some time, but if
+there's a problem, I'll find it.
+
+536
+00:33:55,000 --> 00:33:57,875
+Keep me apprised.
+Dismissed.
+
+537
+00:34:11,667 --> 00:34:14,000
+I'm picking up minute levels
+of residual ionization
+
+538
+00:34:14,041 --> 00:34:16,542
+from the subdermal tissue
+of his left arm.
+
+539
+00:34:16,583 --> 00:34:18,667
+The patterns
+correspond exactly
+
+540
+00:34:18,709 --> 00:34:21,250
+to those we measured
+in Lieutenant Kelly's body
+
+541
+00:34:21,291 --> 00:34:24,250
+and in the sample container
+from the science ship.
+
+542
+00:34:24,291 --> 00:34:26,750
+There's no question--
+you have been exposed
+
+543
+00:34:26,792 --> 00:34:29,208
+to the same high energy
+plasma they were.
+
+544
+00:34:29,250 --> 00:34:32,250
+So something did happen to me
+in the transporter beam.
+
+545
+00:34:32,291 --> 00:34:35,041
+You might have been exposed to
+something from the science ship.
+
+546
+00:34:35,083 --> 00:34:38,417
+You did say something touched
+your left arm during transport.
+
+547
+00:34:38,458 --> 00:34:41,208
+And that's exactly where
+the ionization is focused.
+
+548
+00:34:41,250 --> 00:34:43,542
+Does this ionization pose
+a threat to Mr. Barclay?
+
+549
+00:34:43,583 --> 00:34:45,041
+It might.
+
+550
+00:34:45,083 --> 00:34:47,041
+I'll have to run a base-pair
+correlation to see
+
+551
+00:34:47,083 --> 00:34:49,208
+if there's any sign
+of DNA breakdown.
+
+552
+00:34:49,250 --> 00:34:52,208
+Sir, Commander
+La Forge and I
+
+553
+00:34:52,250 --> 00:34:54,083
+were planning to re-create
+the circumstances
+
+554
+00:34:54,125 --> 00:34:55,792
+of the explosion
+on the<i> Yosemite.</i>
+
+555
+00:34:55,834 --> 00:34:57,417
+And that might
+give us some answers.
+
+556
+00:34:57,458 --> 00:34:59,542
+Permission to continue
+with the experiment?
+
+557
+00:34:59,583 --> 00:35:01,250
+Granted.
+
+558
+00:35:01,291 --> 00:35:04,083
+Tell Mr. O'Brien to take all the
+primary transporters off-line.
+
+559
+00:35:04,125 --> 00:35:07,709
+I don't want to risk
+any further contaminations.
+
+560
+00:35:07,750 --> 00:35:10,000
+Make sure you take all the
+necessary safety precautions.
+
+561
+00:35:10,041 --> 00:35:12,000
+Aye, sir.
+
+562
+00:35:12,041 --> 00:35:14,917
+I'd like you to wear
+this monitoring device.
+
+563
+00:35:14,959 --> 00:35:17,709
+It will tell me if there is
+the slightest sign
+
+564
+00:35:17,750 --> 00:35:19,500
+of increased ionization.
+
+565
+00:35:19,542 --> 00:35:21,500
+Yes, Doctor.
+
+566
+00:35:28,458 --> 00:35:31,458
+Structural reinforcement
+is at 240%.
+
+567
+00:35:31,500 --> 00:35:33,917
+Activating
+containment field.
+
+568
+00:35:37,375 --> 00:35:39,250
+Well, that should do it.
+
+569
+00:35:39,291 --> 00:35:40,834
+Okay, Reg,
+we've locked on
+
+570
+00:35:40,875 --> 00:35:42,333
+to the coordinates
+of the plasma streamer.
+
+571
+00:35:42,375 --> 00:35:44,083
+Go ahead and beam aboard
+a sample, will you?
+
+572
+00:35:44,125 --> 00:35:45,834
+Aye, sir.
+
+573
+00:36:00,667 --> 00:36:03,208
+Okay.
+
+574
+00:36:03,250 --> 00:36:04,959
+What would they
+have done first?
+
+575
+00:36:05,000 --> 00:36:08,000
+Standard analysis begins with
+a resonance frequency scan.
+
+576
+00:36:08,041 --> 00:36:10,500
+That sounds like a good place
+to start. Let's do that.
+
+577
+00:36:12,083 --> 00:36:14,166
+Initiating
+resonance sweep.
+
+578
+00:36:15,041 --> 00:36:17,166
+Frequency
+range at...
+
+579
+00:36:19,291 --> 00:36:22,500
+Barclay, check
+the containment field.
+
+580
+00:36:29,000 --> 00:36:31,333
+The field is at
+its maximum limit,
+
+581
+00:36:31,375 --> 00:36:33,834
+but it is holding!
+
+582
+00:36:48,000 --> 00:36:52,083
+My visor's picking up
+biomagnetic energy.
+
+583
+00:36:56,166 --> 00:36:58,959
+Highly complex
+patterns.
+
+584
+00:36:59,000 --> 00:37:02,083
+You know, I think
+these things are alive.
+
+585
+00:37:02,125 --> 00:37:04,000
+Reg?
+
+586
+00:37:07,125 --> 00:37:08,959
+Reg!
+
+587
+00:37:14,125 --> 00:37:15,959
+Reg...
+
+588
+00:37:26,041 --> 00:37:27,834
+Life-forms?
+
+589
+00:37:27,875 --> 00:37:29,125
+That is correct.
+
+590
+00:37:29,166 --> 00:37:31,208
+They appear to be
+quasi-energy microbes
+
+591
+00:37:31,250 --> 00:37:34,166
+that exist within the distortion
+field of the plasma streamer.
+
+592
+00:37:34,208 --> 00:37:36,166
+We didn't detect them
+until we tried to run
+
+593
+00:37:36,208 --> 00:37:38,000
+the resonance
+frequency scan.
+
+594
+00:37:38,041 --> 00:37:39,625
+Apparently, they didn't
+like it very much.
+
+595
+00:37:39,667 --> 00:37:42,000
+They shattered
+the sample container.
+
+596
+00:37:42,041 --> 00:37:44,125
+Which caused
+a plasma explosion
+
+597
+00:37:44,166 --> 00:37:47,208
+similar to the one
+on the science ship.
+Exactly.
+
+598
+00:37:47,250 --> 00:37:49,709
+When we linked up with
+their transporter system,
+
+599
+00:37:49,750 --> 00:37:52,875
+one or more of the microbes must
+have gotten into our system.
+
+600
+00:37:52,917 --> 00:37:55,417
+We think they're still
+caught in the buffer.
+
+601
+00:37:55,458 --> 00:37:57,709
+It might explain
+what you saw.
+
+602
+00:37:57,750 --> 00:38:00,041
+But what I saw
+
+603
+00:38:00,083 --> 00:38:02,542
+was much bigger
+than a microbe.
+
+604
+00:38:02,583 --> 00:38:04,583
+Normal spatial
+relationships
+
+605
+00:38:04,625 --> 00:38:07,083
+are often distorted
+within the matter stream.
+
+606
+00:38:07,125 --> 00:38:09,250
+Your perceptions may have
+been exaggerated.
+
+607
+00:38:09,291 --> 00:38:11,125
+Some of these microbes
+
+608
+00:38:11,166 --> 00:38:13,375
+are also in
+your body, Reg.
+
+609
+00:38:13,417 --> 00:38:16,000
+In... inside me?
+
+610
+00:38:16,041 --> 00:38:18,375
+They were in Lieutenant
+Kelly's body as well.
+
+611
+00:38:18,417 --> 00:38:20,792
+That's what caused the
+contractions during the autopsy.
+
+612
+00:38:20,834 --> 00:38:23,750
+The biofilters should have
+screened them out,
+but it didn't.
+
+613
+00:38:23,792 --> 00:38:27,583
+The microbes exist
+simultaneously as both
+matter and energy.
+
+614
+00:38:27,625 --> 00:38:30,500
+The biofilter cannot distinguish
+them from the matter stream.
+
+615
+00:38:30,542 --> 00:38:33,125
+Right, but if
+we held Barclay
+
+616
+00:38:33,166 --> 00:38:35,208
+suspended in
+mid-transport,
+
+617
+00:38:35,250 --> 00:38:38,500
+at the point where matter starts
+to lose molecular cohesion...
+
+618
+00:38:38,542 --> 00:38:41,333
+The molecules would begin
+to omit nucleonic particles.
+
+619
+00:38:41,375 --> 00:38:43,583
+We may be able to
+derive a pattern
+
+620
+00:38:43,625 --> 00:38:45,667
+the computer
+would recognize.
+
+621
+00:38:45,709 --> 00:38:48,500
+LA FORGE: And then reprogram
+the biofilters and screen
+the microbes out.
+
+622
+00:38:48,542 --> 00:38:50,166
+I think
+this'll work, Reg.
+
+623
+00:38:50,208 --> 00:38:52,250
+Suspend me?
+
+624
+00:38:52,291 --> 00:38:54,208
+I don't like
+the sound of this.
+
+625
+00:38:54,250 --> 00:38:56,458
+Well, we would have to
+keep you in there for a while.
+
+626
+00:38:56,500 --> 00:38:57,875
+How long?
+
+627
+00:38:57,917 --> 00:39:01,041
+30, 40 seconds--
+it's tough to tell.
+
+628
+00:39:01,083 --> 00:39:02,625
+But I think
+it'd be safe.
+
+629
+00:39:02,667 --> 00:39:06,667
+But if-- if I'm in
+the matter stream too long...
+
+630
+00:39:06,709 --> 00:39:08,625
+Your pattern would degrade
+to the point
+
+631
+00:39:08,667 --> 00:39:11,709
+where your signal
+would be permanently lost.
+
+632
+00:39:19,625 --> 00:39:21,834
+After 15 seconds or so
+in the beam,
+
+633
+00:39:21,875 --> 00:39:23,375
+you may start to
+feel lightheaded.
+
+634
+00:39:23,417 --> 00:39:24,792
+Try to stay calm.
+
+635
+00:39:24,834 --> 00:39:27,041
+Oh, and it's important
+not to move around too much.
+
+636
+00:39:27,083 --> 00:39:29,041
+Right.
+
+637
+00:39:34,417 --> 00:39:36,792
+Initializing the backup
+pattern buffer.
+
+638
+00:39:36,834 --> 00:39:39,166
+Holding at standby.
+
+639
+00:39:39,208 --> 00:39:40,834
+You ready, Reg?
+
+640
+00:39:46,750 --> 00:39:48,500
+Energize.
+
+641
+00:40:00,625 --> 00:40:03,000
+Molecular resolution
+at 60%.
+
+642
+00:40:04,083 --> 00:40:06,166
+Engaging static mode.
+
+643
+00:40:07,291 --> 00:40:09,917
+His pattern is
+locked and holding.
+
+644
+00:40:11,041 --> 00:40:13,083
+Starting biofilter scan.
+
+645
+00:40:23,125 --> 00:40:25,000
+Signal's holding.
+
+646
+00:40:25,041 --> 00:40:28,083
+The imagining scanner still
+haven't isolated the microbes.
+
+647
+00:40:28,125 --> 00:40:30,250
+I'll try increasing
+molecular dispersion.
+
+648
+00:40:30,291 --> 00:40:32,625
+His signal resolution's
+down to 55%.
+
+649
+00:40:32,667 --> 00:40:34,542
+Don't worry,
+I can hold him together.
+
+650
+00:40:45,917 --> 00:40:49,083
+Commander, his signal
+resolution's down to 50%.
+
+651
+00:40:49,125 --> 00:40:50,792
+We need to bring him back.
+I know, I know.
+
+652
+00:40:50,834 --> 00:40:53,500
+Just give me
+one more second.
+
+653
+00:40:53,542 --> 00:40:55,041
+We need more dispersion.
+
+654
+00:40:55,083 --> 00:40:57,834
+Increase phase
+transition frequency.
+Aye, sir.
+
+655
+00:40:57,875 --> 00:40:59,834
+The imagining scanners
+are actuating.
+
+656
+00:40:59,875 --> 00:41:01,500
+Got it.
+
+657
+00:41:01,542 --> 00:41:04,667
+Pattern acquisition
+positive.
+
+658
+00:41:04,709 --> 00:41:06,792
+Programming biofilter.
+
+659
+00:41:06,834 --> 00:41:10,083
+Don't worry, Reg,
+this won't hurt a bit.
+
+660
+00:41:21,792 --> 00:41:24,208
+I'm reading a 92%
+increase in mass.
+
+661
+00:41:24,250 --> 00:41:26,375
+There is something
+in the beam with him.
+
+662
+00:41:26,417 --> 00:41:29,250
+Security to
+Transporter Room three.
+WORF: Right away.
+
+663
+00:41:29,291 --> 00:41:32,083
+I'm setting up a force field
+around the chamber.
+
+664
+00:41:44,458 --> 00:41:46,875
+Drop the force field.
+
+665
+00:41:52,417 --> 00:41:54,625
+There are more
+crew members in the beam.
+
+666
+00:41:54,667 --> 00:41:56,750
+You have to grab them
+and hold on.
+
+667
+00:41:56,792 --> 00:41:58,875
+Understood.
+Follow me.
+
+668
+00:42:06,417 --> 00:42:08,667
+Reg, what happened?
+
+669
+00:42:08,709 --> 00:42:10,709
+Well, when I...
+
+670
+00:42:10,750 --> 00:42:13,375
+when I saw that there was
+more than one of them,
+
+671
+00:42:13,417 --> 00:42:15,083
+I... I thought
+maybe the other crew
+
+672
+00:42:15,125 --> 00:42:17,333
+were trying to do
+the same thing that we were.
+
+673
+00:42:17,375 --> 00:42:19,750
+We're infected
+with something.
+
+674
+00:42:19,792 --> 00:42:22,000
+Lieutenant Kelly tried to
+
+675
+00:42:22,041 --> 00:42:25,500
+reprogram the biofilter.
+
+676
+00:42:25,542 --> 00:42:27,625
+It looks like he pushed
+molecular dispersion
+
+677
+00:42:27,667 --> 00:42:29,458
+past the integrity point.
+
+678
+00:42:29,500 --> 00:42:31,208
+Your patterns
+got caught in the beam.
+
+679
+00:42:31,250 --> 00:42:34,041
+The residual energy
+from the plasma stream,
+
+680
+00:42:34,083 --> 00:42:36,417
+it must have amplified
+the charge in the buffer
+
+681
+00:42:36,458 --> 00:42:39,000
+enough to keep your patterns
+from degrading.
+
+682
+00:42:56,417 --> 00:43:00,041
+<i>Captain's Log,</i>
+<i>Stardate 46043.6:</i>
+
+683
+00:43:00,083 --> 00:43:03,208
+<i>The reprogrammed biofilter</i>
+<i>was effective in removing</i>
+
+684
+00:43:03,250 --> 00:43:05,417
+<i>the alien microbes</i>
+<i>from Mr. Barclay</i>
+
+685
+00:43:05,458 --> 00:43:07,333
+<i>and the four crew members.</i>
+
+686
+00:43:07,375 --> 00:43:10,458
+<i>The microbes have been</i>
+<i>returned to the plasma stream.</i>
+
+687
+00:43:19,375 --> 00:43:21,583
+Chief.
+Lieutenant.
+
+688
+00:43:21,625 --> 00:43:23,583
+I'm glad
+you could make it.
+
+689
+00:43:23,625 --> 00:43:25,917
+You know, I think this is
+the first time we've ever spoken
+
+690
+00:43:25,959 --> 00:43:28,208
+outside of
+the Transporter Room.
+
+691
+00:43:28,250 --> 00:43:30,792
+Well, to be honest,
+I've always avoided you.
+
+692
+00:43:30,834 --> 00:43:32,667
+Why?
+
+693
+00:43:32,709 --> 00:43:35,834
+Because you run the transporters
+and I hate the transporters.
+
+694
+00:43:35,875 --> 00:43:37,166
+At least I used to.
+
+695
+00:43:37,208 --> 00:43:39,458
+So what's in the box?
+
+696
+00:43:39,500 --> 00:43:42,333
+I think you might like
+to meet Christina.
+
+697
+00:43:46,667 --> 00:43:49,458
+Christina,
+Lieutenant Barclay.
+
+698
+00:43:51,959 --> 00:43:53,667
+It's your pet spider.
+
+699
+00:43:53,709 --> 00:43:56,000
+Lycosa tarantula.
+
+700
+00:43:56,041 --> 00:43:58,333
+Don't worry,
+she won't bite.
+
+701
+00:44:02,041 --> 00:44:04,000
+She's...
+
+702
+00:44:04,041 --> 00:44:06,041
+very large.
+
+703
+00:44:06,083 --> 00:44:07,959
+I found her on Titus IV.
+
+704
+00:44:08,000 --> 00:44:10,417
+I almost stepped on her
+by accident.
+
+705
+00:44:12,125 --> 00:44:15,166
+Oh, I'll get us
+a couple of drinks, okay?
+
+706
+00:44:15,208 --> 00:44:17,333
+Keep an eye on her,
+will you?
+
+707
+00:44:17,375 --> 00:44:19,458
+Sure.
+
+708
+00:44:27,083 --> 00:44:29,166
+Uh, Chief?

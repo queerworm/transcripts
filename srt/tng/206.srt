@@ -1,0 +1,3735 @@
+1
+00:00:03,625 --> 00:00:06,834
+PULASKI:
+<i>Medical Log, Stardate 42437.5.</i>
+
+2
+00:00:06,875 --> 00:00:09,125
+<i>Ira Graves is arguably</i>
+
+3
+00:00:09,166 --> 00:00:10,875
+<i>the greatest human mind</i>
+<i>in the universe.</i>
+
+4
+00:00:10,917 --> 00:00:13,208
+<i>For years, he's lived</i>
+<i>in near isolation</i>
+
+5
+00:00:13,250 --> 00:00:16,667
+<i>on a remote planet, devoting</i>
+<i>full time to his research.</i>
+
+6
+00:00:16,709 --> 00:00:20,083
+<i>Eight hours ago, we monitored</i>
+<i>a message from his assistant</i>
+
+7
+00:00:20,125 --> 00:00:21,917
+<i>urgently requesting</i>
+<i>medical aid.</i>
+
+8
+00:00:21,959 --> 00:00:24,875
+<i>I only hope</i>
+<i>we can reach him in time.</i>
+
+9
+00:00:24,917 --> 00:00:26,834
+Any response from
+Gravesworld, Mr. Worf?
+
+10
+00:00:26,875 --> 00:00:28,125
+Nothing, sir.
+
+11
+00:00:28,166 --> 00:00:30,000
+Not since
+their initial communication.
+
+12
+00:00:30,041 --> 00:00:31,208
+They send out a plea for help
+
+13
+00:00:31,250 --> 00:00:32,959
+and then they
+cut off transmission
+
+14
+00:00:33,000 --> 00:00:35,166
+so they can't tell
+if there's any help on the way.
+
+15
+00:00:35,208 --> 00:00:36,875
+That doesn't make
+much sense, does it?
+
+16
+00:00:36,917 --> 00:00:39,959
+Ensign, what's our
+ETA at the planet?
+
+17
+00:00:40,000 --> 00:00:41,709
+36 minutes
+to orbit, sir.
+
+18
+00:00:41,750 --> 00:00:44,834
+Starfleet Command considers
+that Graves's work
+
+19
+00:00:44,875 --> 00:00:46,375
+on molecular cybernetics
+
+20
+00:00:46,417 --> 00:00:48,500
+is reaching
+a critical stage.
+
+21
+00:00:48,542 --> 00:00:51,625
+They consider this
+a Priority One action.
+
+22
+00:00:51,667 --> 00:00:52,750
+A man is ill, Captain.
+
+23
+00:00:52,792 --> 00:00:54,667
+Treating him is
+<i>my</i> priority one
+
+24
+00:00:54,709 --> 00:00:56,750
+regardless of who he is.
+
+25
+00:00:56,792 --> 00:01:00,000
+Did Data say why
+he wants to see us?
+
+26
+00:01:00,041 --> 00:01:02,166
+He said something
+about his new image.
+
+27
+00:01:02,208 --> 00:01:04,875
+I tell you, he's been acting
+kind of strange lately.
+
+28
+00:01:04,917 --> 00:01:06,083
+How so?
+
+29
+00:01:06,125 --> 00:01:07,834
+Well, if I didn't
+know better
+
+30
+00:01:07,875 --> 00:01:09,917
+I'd say he was showing
+signs of insecurity.
+
+31
+00:01:09,959 --> 00:01:10,959
+(<i> laughing</i> )
+
+32
+00:01:11,000 --> 00:01:13,208
+Yes, but you<i> do</i> know better.
+
+33
+00:01:13,250 --> 00:01:14,500
+Androids don't feel
+such things.
+
+34
+00:01:14,542 --> 00:01:15,917
+I don't know.
+
+35
+00:01:15,959 --> 00:01:18,041
+Sometimes, I think he's
+becoming more human
+
+36
+00:01:18,083 --> 00:01:21,166
+than any of us realize.
+
+37
+00:01:21,208 --> 00:01:22,583
+(<i> door chimes</i> )
+
+38
+00:01:22,625 --> 00:01:25,709
+DATA:
+Come in.
+
+39
+00:01:25,750 --> 00:01:28,125
+Data?
+
+40
+00:01:28,166 --> 00:01:29,166
+Geordi?
+
+41
+00:01:29,208 --> 00:01:30,792
+Is Counselor
+Troi with you?
+
+42
+00:01:30,834 --> 00:01:32,500
+Yes, I'm here, Data.
+
+43
+00:01:32,542 --> 00:01:34,208
+Geordi said
+you wanted to see us.
+
+44
+00:01:34,250 --> 00:01:35,375
+Indeed.
+
+45
+00:01:35,417 --> 00:01:37,125
+Or stated more
+correctly
+
+46
+00:01:37,166 --> 00:01:40,875
+I wanted you
+to see me.
+
+47
+00:01:40,917 --> 00:01:42,500
+Can we come in?
+
+48
+00:01:42,542 --> 00:01:44,208
+Please.
+
+49
+00:01:52,458 --> 00:01:55,250
+Did you damage
+your face, Data?
+
+50
+00:01:55,291 --> 00:01:58,458
+It is a beard, Geordi.
+
+51
+00:01:58,500 --> 00:02:01,500
+A fine, full,
+dignified beard.
+
+52
+00:02:01,542 --> 00:02:04,625
+One which commands respect
+
+53
+00:02:04,667 --> 00:02:09,333
+and projects thoughtfulness
+and dignity.
+
+54
+00:02:09,375 --> 00:02:11,333
+Well? Opinions?
+
+55
+00:02:11,375 --> 00:02:12,291
+Uh...
+
+56
+00:02:12,333 --> 00:02:13,917
+It's, uh...
+
+57
+00:02:13,959 --> 00:02:16,709
+very different.
+
+58
+00:02:16,750 --> 00:02:20,208
+When I stroke
+the beard thusly
+
+59
+00:02:20,250 --> 00:02:24,709
+do I not appear more...
+intellectual?
+
+60
+00:02:24,750 --> 00:02:26,709
+(<i> stifled laugh</i> )
+
+61
+00:02:26,750 --> 00:02:29,750
+I'm sorry,
+I have to go now.
+
+62
+00:02:29,792 --> 00:02:30,709
+Good-bye.
+
+63
+00:02:30,750 --> 00:02:34,709
+(<i> laughing</i> )
+
+64
+00:02:34,750 --> 00:02:36,291
+Why was she laughing?
+
+65
+00:02:36,333 --> 00:02:41,375
+We are receiving a transmission
+from Gravesworld, sir.
+
+66
+00:02:41,417 --> 00:02:42,458
+It's unfocused--
+
+67
+00:02:42,500 --> 00:02:43,917
+not directed specifically at us.
+
+68
+00:02:43,959 --> 00:02:46,083
+On viewer,
+Mr. Worf.
+
+69
+00:02:46,125 --> 00:02:48,166
+WOMAN:
+If anyone can hear me
+
+70
+00:02:48,208 --> 00:02:49,709
+please send a doctor.
+
+71
+00:02:49,750 --> 00:02:54,959
+Things are getting worse.
+
+72
+00:02:55,000 --> 00:02:56,125
+PICARD:
+Try and raise her, Mr. Crusher.
+
+73
+00:02:56,166 --> 00:02:58,667
+Tell them
+we're only minutes away.
+
+74
+00:02:58,709 --> 00:03:00,291
+It's no good, sir.
+
+75
+00:03:00,333 --> 00:03:02,125
+I don't believe
+they're receiving us.
+
+76
+00:03:02,166 --> 00:03:03,959
+Our records show
+that she and Graves
+
+77
+00:03:04,000 --> 00:03:06,709
+are the only ones living
+on the planet, Captain.
+
+78
+00:03:06,750 --> 00:03:07,917
+Then what scared her?
+
+79
+00:03:31,959 --> 00:03:37,083
+<i>Space, the final frontier.</i>
+
+80
+00:03:37,125 --> 00:03:41,667
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+81
+00:03:41,709 --> 00:03:43,291
+<i>Its continuing mission--</i>
+
+82
+00:03:43,333 --> 00:03:46,291
+<i>to explore</i>
+<i>strange new worlds</i>
+
+83
+00:03:46,333 --> 00:03:51,333
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+84
+00:03:51,375 --> 00:03:56,083
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+85
+00:04:56,875 --> 00:04:59,208
+Captain,
+I am picking up another signal
+
+86
+00:04:59,250 --> 00:05:01,250
+but it is not from the planet.
+
+87
+00:05:01,291 --> 00:05:02,583
+On screen, Mr. Worf.
+
+88
+00:05:02,625 --> 00:05:04,125
+The signal is
+very weak, sir.
+
+89
+00:05:04,166 --> 00:05:05,375
+Audio only.
+
+90
+00:05:05,417 --> 00:05:06,333
+Pipe it through.
+
+91
+00:05:06,375 --> 00:05:08,125
+MAN:
+Mayday! Mayday!
+
+92
+00:05:08,166 --> 00:05:11,250
+(<i> static</i> ):
+This is the USS...
+requesting emergency...
+
+93
+00:05:11,291 --> 00:05:12,542
+The outer hull is breached
+
+94
+00:05:12,583 --> 00:05:13,834
+and environmental systems
+compromised.
+
+95
+00:05:13,875 --> 00:05:15,875
+...immediate assistance.
+
+96
+00:05:15,917 --> 00:05:17,792
+WESLEY:
+Captain, I show
+the<i> Constantinople</i>
+
+97
+00:05:17,834 --> 00:05:18,792
+in that general vicinity.
+
+98
+00:05:18,834 --> 00:05:20,542
+She's a transport ship
+
+99
+00:05:20,583 --> 00:05:21,959
+used to ferry settlers.
+
+100
+00:05:22,000 --> 00:05:25,792
+I'm showing 2,012
+colonists aboard.
+
+101
+00:05:25,834 --> 00:05:29,667
+Outer hull breach-- she must
+have had an internal explosion.
+
+102
+00:05:29,709 --> 00:05:31,000
+PULASKI:
+If that's the case
+
+103
+00:05:31,041 --> 00:05:33,959
+they'll all be prone
+to severe hypoxia.
+
+104
+00:05:34,000 --> 00:05:35,583
+Their lives are at risk.
+
+105
+00:05:35,625 --> 00:05:37,625
+We've got
+to help them.
+
+106
+00:05:37,667 --> 00:05:39,041
+And what about Graves?
+
+107
+00:05:39,083 --> 00:05:41,792
+He is one man.
+
+108
+00:05:45,417 --> 00:05:46,792
+Suggestion, Captain.
+
+109
+00:05:46,834 --> 00:05:48,041
+Why don't we execute
+
+110
+00:05:48,083 --> 00:05:49,625
+a long-range transport
+of an away team
+
+111
+00:05:49,667 --> 00:05:51,792
+to assist Dr. Graves
+at your earliest
+possible moment.
+
+112
+00:05:51,834 --> 00:05:54,500
+We'll come out of warp just long
+enough to energize the beam.
+
+113
+00:05:54,542 --> 00:05:59,250
+A touch-and-go downwarping.
+
+114
+00:05:59,291 --> 00:06:01,041
+Ensign Crusher,
+prepare to make it so.
+
+115
+00:06:01,083 --> 00:06:02,166
+Aye, sir.
+
+116
+00:06:02,208 --> 00:06:04,208
+Engineering, Mr. La Forge.
+
+117
+00:06:04,250 --> 00:06:07,333
+We're going to execute
+a near-warp transport.
+
+118
+00:06:07,375 --> 00:06:09,625
+This may be a little tricky.
+I would like you to handle it.
+
+119
+00:06:09,667 --> 00:06:10,709
+Yes, Captain.
+
+120
+00:06:10,750 --> 00:06:12,125
+I'm on my way.
+
+121
+00:06:12,166 --> 00:06:13,208
+Assemble an away team,
+Number One.
+
+122
+00:06:13,250 --> 00:06:14,375
+Include whoever
+
+123
+00:06:14,417 --> 00:06:16,250
+the Doctor requires
+to assist her.
+
+124
+00:06:16,291 --> 00:06:19,625
+Excuse me, sir, but there may be
+hundreds on the<i> Constantinople</i>
+
+125
+00:06:19,667 --> 00:06:21,542
+that require
+emergency attention.
+
+126
+00:06:21,583 --> 00:06:23,542
+I should be there
+to supervise.
+
+127
+00:06:23,583 --> 00:06:25,375
+All right, who will replace you?
+
+128
+00:06:25,417 --> 00:06:26,667
+Lieutenant Selar.
+
+129
+00:06:26,709 --> 00:06:29,208
+She has my complete
+confidence.
+
+130
+00:06:29,250 --> 00:06:31,291
+Worf, let's go.
+
+131
+00:06:39,250 --> 00:06:40,959
+RIKER:
+Phaser on stun, Mr. Worf.
+
+132
+00:06:41,000 --> 00:06:42,625
+We don't know what's
+going on down there.
+
+133
+00:06:42,667 --> 00:06:43,917
+There's no need
+to take any chances.
+
+134
+00:06:43,959 --> 00:06:44,875
+Agreed, sir.
+
+135
+00:06:44,917 --> 00:06:46,208
+LA FORGE:
+Now, remember
+
+136
+00:06:46,250 --> 00:06:48,500
+this is a near-warp transport,
+so the effects
+
+137
+00:06:48,542 --> 00:06:49,709
+may be a little unusual.
+
+138
+00:06:49,750 --> 00:06:50,834
+What do you mean?
+
+139
+00:06:50,875 --> 00:06:52,375
+RIKER:
+You'll see, Counselor.
+
+140
+00:07:00,583 --> 00:07:01,458
+Energize.
+
+141
+00:07:01,500 --> 00:07:02,667
+TROI:
+Wait a minute.
+
+142
+00:07:02,709 --> 00:07:04,291
+I don't understand.
+
+143
+00:07:15,166 --> 00:07:16,875
+You do now.
+
+144
+00:07:16,917 --> 00:07:19,291
+This might sound crazy
+
+145
+00:07:19,333 --> 00:07:22,250
+but, for a moment, I thought
+I was stuck in that wall.
+
+146
+00:07:22,291 --> 00:07:24,375
+For a moment, you were.
+
+147
+00:07:24,417 --> 00:07:26,667
+Data to<i> Enterprise.</i>
+
+148
+00:07:26,709 --> 00:07:27,834
+PICARD:
+I read you, Commander.
+
+149
+00:07:27,875 --> 00:07:28,917
+Go ahead.
+
+150
+00:07:28,959 --> 00:07:30,750
+We are inside Graves's home.
+
+151
+00:07:30,792 --> 00:07:32,000
+All is quiet so far.
+
+152
+00:07:32,041 --> 00:07:34,625
+Of course, no one knew
+we were coming.
+
+153
+00:07:34,667 --> 00:07:38,208
+Use caution, but protect
+Graves's health at all costs.
+
+154
+00:07:38,250 --> 00:07:40,208
+Understood, sir.
+
+155
+00:07:40,250 --> 00:07:43,083
+I suggest we look around
+to see if anyone is home.
+
+156
+00:07:43,125 --> 00:07:45,583
+WORF:
+No need, Commander.
+
+157
+00:07:48,750 --> 00:07:49,792
+You heard me.
+
+158
+00:07:49,834 --> 00:07:51,709
+Thank God.
+
+159
+00:07:51,750 --> 00:07:55,125
+I'm Kareen Brianon,
+Dr. Graves's assistant.
+
+160
+00:07:55,166 --> 00:07:57,709
+We're from a ship
+called the<i> Enterprise.</i>
+
+161
+00:07:57,750 --> 00:07:59,000
+We monitored
+your distress call
+
+162
+00:07:59,041 --> 00:08:00,208
+but then you never
+
+163
+00:08:00,250 --> 00:08:01,709
+acknowledged
+our response.
+
+164
+00:08:01,750 --> 00:08:03,291
+I'm sorry.
+
+165
+00:08:03,333 --> 00:08:04,834
+I couldn't take the chance.
+
+166
+00:08:04,875 --> 00:08:07,125
+Chance?
+What chance?
+
+167
+00:08:07,166 --> 00:08:09,458
+The chance that I might find out
+
+168
+00:08:09,500 --> 00:08:10,959
+someone was coming.
+
+169
+00:08:11,000 --> 00:08:12,417
+Kareen knew full well
+
+170
+00:08:12,458 --> 00:08:14,667
+that I would not be pleased,
+to put it mildly.
+
+171
+00:08:14,709 --> 00:08:16,542
+I had no choice.
+
+172
+00:08:16,583 --> 00:08:19,291
+I refuse to stand by
+and watch you deteriorate.
+
+173
+00:08:19,333 --> 00:08:20,834
+What symptoms
+have you noticed?
+
+174
+00:08:20,875 --> 00:08:24,625
+He has pain, shortness
+of breath, irritability...
+
+175
+00:08:24,667 --> 00:08:25,875
+Ridiculous!
+
+176
+00:08:28,792 --> 00:08:31,083
+I am as healthy
+as a Rigellian ox.
+
+177
+00:08:31,125 --> 00:08:34,083
+He is not himself,
+believe me.
+
+178
+00:08:34,125 --> 00:08:35,083
+His temper is completely
+out of control.
+
+179
+00:08:35,125 --> 00:08:36,500
+Nonsense!
+
+180
+00:08:36,542 --> 00:08:37,542
+Ira.
+
+181
+00:08:37,583 --> 00:08:38,542
+I am a doctor.
+
+182
+00:08:38,583 --> 00:08:40,542
+Lieutenant Selar.
+
+183
+00:08:40,583 --> 00:08:43,792
+Ah, no offense, but I don't want
+you touching me in any way.
+
+184
+00:08:43,834 --> 00:08:45,959
+It's no secret
+that I don't like people much
+
+185
+00:08:46,000 --> 00:08:47,542
+and I like doctors even less.
+
+186
+00:08:47,583 --> 00:08:48,709
+That's funny.
+
+187
+00:08:48,750 --> 00:08:50,709
+I thought most doctors
+were people.
+
+188
+00:08:50,750 --> 00:08:51,917
+Then you're wrong.
+
+189
+00:08:51,959 --> 00:08:53,875
+Ask any patient.
+
+190
+00:08:53,917 --> 00:08:56,458
+Though uh, huh,
+I will admit, for a doctor
+
+191
+00:08:56,500 --> 00:08:58,250
+you're not
+a bad-looking woman.
+
+192
+00:08:58,291 --> 00:09:01,792
+Well, well, well,
+what have we got here?
+
+193
+00:09:01,834 --> 00:09:04,667
+Another lovely specimen
+of womanhood.
+
+194
+00:09:04,709 --> 00:09:07,166
+I thought
+you didn't like people.
+
+195
+00:09:07,208 --> 00:09:09,667
+Women aren't people.
+
+196
+00:09:09,709 --> 00:09:11,834
+They're women.
+
+197
+00:09:15,250 --> 00:09:16,583
+I'm Deanna Troi.
+
+198
+00:09:16,625 --> 00:09:18,208
+It's an honor to meet you,
+Dr. Graves.
+
+199
+00:09:18,250 --> 00:09:19,792
+Yes, of course it is.
+
+200
+00:09:19,834 --> 00:09:22,834
+This is one of the truly
+great moments of your life.
+
+201
+00:09:22,875 --> 00:09:24,291
+Excuse me, sir.
+
+202
+00:09:24,333 --> 00:09:28,166
+Are you a Romulan?
+
+203
+00:09:28,208 --> 00:09:29,709
+Hardly.
+
+204
+00:09:29,750 --> 00:09:31,458
+He's a Klingon, Kareen.
+
+205
+00:09:31,500 --> 00:09:33,041
+Kareen has lived here
+since her father died
+
+206
+00:09:33,083 --> 00:09:34,458
+when she was very young.
+
+207
+00:09:34,500 --> 00:09:38,166
+Her only knowledge
+of unhuman races
+comes from me.
+
+208
+00:09:38,208 --> 00:09:42,250
+Klingons and Romulans
+don't look much
+alike, Kareen,
+
+209
+00:09:42,291 --> 00:09:44,709
+even though they
+act much alike.
+
+210
+00:09:44,750 --> 00:09:46,166
+(<i> growls</i> )
+
+211
+00:09:46,208 --> 00:09:47,583
+Do I have
+to stand here
+
+212
+00:09:47,625 --> 00:09:48,834
+and be insulted?
+
+213
+00:09:48,875 --> 00:09:51,500
+No insult intended,
+Mr. Klingon.
+
+214
+00:09:51,542 --> 00:09:52,750
+You see, Doctor,
+
+215
+00:09:52,792 --> 00:09:54,959
+there's nothing wrong
+with my hearing.
+
+216
+00:09:55,000 --> 00:09:57,041
+(<i> stifled groan</i> )
+
+217
+00:09:59,000 --> 00:10:01,917
+My, my, my, my, my...
+
+218
+00:10:01,959 --> 00:10:03,291
+Lieutenant Commander
+Data...
+
+219
+00:10:03,333 --> 00:10:04,750
+Shh.
+
+220
+00:10:06,500 --> 00:10:10,709
+Absolutely no aesthetic value
+whatsoever.
+
+221
+00:10:10,750 --> 00:10:13,083
+Looks like Soong's work.
+
+222
+00:10:13,125 --> 00:10:14,583
+Quite correct, sir.
+
+223
+00:10:14,625 --> 00:10:15,917
+Did you know Dr. Soong?
+
+224
+00:10:15,959 --> 00:10:19,125
+Know him? I taught him
+everything he knows.
+
+225
+00:10:19,166 --> 00:10:21,959
+You could say that I was
+the father of his work.
+
+226
+00:10:22,000 --> 00:10:26,458
+(<i> laughing</i> )
+Which, uh, kind of makes
+me your grandfather
+
+227
+00:10:26,500 --> 00:10:28,750
+doesn't it,
+sonny?
+
+228
+00:10:28,792 --> 00:10:30,875
+Damn doctors!
+
+229
+00:10:30,917 --> 00:10:32,166
+Always sneaking up on one.
+
+230
+00:10:32,208 --> 00:10:34,667
+Attacking
+from the rear.
+
+231
+00:10:38,333 --> 00:10:39,834
+Go on, gorgeous.
+
+232
+00:10:39,875 --> 00:10:41,417
+Spit it out.
+
+233
+00:10:41,458 --> 00:10:44,041
+Whatever the hell
+it is, I can take it.
+
+234
+00:10:44,083 --> 00:10:46,917
+I've checked twice
+to make certain.
+
+235
+00:10:46,959 --> 00:10:49,542
+You have Darnay's disease.
+
+236
+00:10:51,542 --> 00:10:52,709
+I'm sorry,
+Dr. Graves.
+
+237
+00:10:52,750 --> 00:10:54,792
+It's in its final stage.
+
+238
+00:10:54,834 --> 00:10:57,250
+Can't you do something for him?
+
+239
+00:10:57,291 --> 00:11:01,583
+In all cases,
+Darnay's is terminal.
+
+240
+00:11:12,083 --> 00:11:15,875
+<i>Captain's Log,</i>
+<i>Stardate 42437.7.</i>
+
+241
+00:11:15,917 --> 00:11:19,333
+<i>We've successfully repaired the</i>
+<i>stricken liner</i> Constantinople.
+
+242
+00:11:19,375 --> 00:11:22,875
+<i>46 of her people suffered</i>
+<i>injuries, mostly minor.</i>
+
+243
+00:11:22,917 --> 00:11:24,291
+<i>They have been treated</i>
+
+244
+00:11:24,333 --> 00:11:26,250
+<i>and supplied</i>
+<i>with the proper medicines.</i>
+
+245
+00:11:26,291 --> 00:11:29,208
+<i>Our task complete, we are</i>
+<i>heading back to Gravesworld</i>
+
+246
+00:11:29,250 --> 00:11:30,583
+<i>with great dispatch.</i>
+
+247
+00:11:34,792 --> 00:11:38,959
+(<i> whistling</i>
+<i>"If I Only Had a Heart"</i> )
+
+248
+00:11:40,083 --> 00:11:42,375
+(<i> coughing</i> )
+
+249
+00:11:42,417 --> 00:11:45,709
+(<i> continues whistling</i> )
+
+250
+00:11:45,750 --> 00:11:47,333
+I have noticed, Doctor...
+
+251
+00:11:47,375 --> 00:11:48,333
+Call me
+grandpa.
+
+252
+00:11:48,375 --> 00:11:50,458
+(<i> coughing</i> )
+
+253
+00:11:50,500 --> 00:11:53,875
+Seems more touching
+in my final hours.
+
+254
+00:11:53,917 --> 00:11:57,166
+I have noticed, Grandpa,
+that you keep repeating
+
+255
+00:11:57,208 --> 00:12:00,500
+the same notes of a musical
+phrase I am unfamiliar with.
+
+256
+00:12:00,542 --> 00:12:05,417
+Oh, it's, uh, it's
+ancient little tune
+
+257
+00:12:05,458 --> 00:12:09,125
+called "If I Only Had a Heart"
+
+258
+00:12:09,166 --> 00:12:11,917
+a plaintive lament
+sung by a mechanical man
+
+259
+00:12:11,959 --> 00:12:13,291
+who longs
+to be human.
+
+260
+00:12:13,333 --> 00:12:16,417
+It's his only wish.
+
+261
+00:12:16,458 --> 00:12:18,917
+What happens to this man?
+
+262
+00:12:18,959 --> 00:12:20,083
+He finds out
+
+263
+00:12:20,125 --> 00:12:23,333
+he's human after all,
+always was.
+
+264
+00:12:23,375 --> 00:12:26,125
+Just worried so much, he...
+he never realized it.
+
+265
+00:12:26,166 --> 00:12:29,417
+Hmm, a happy ending.
+
+266
+00:12:29,458 --> 00:12:31,417
+The mechanical man gets
+his wish.
+
+267
+00:12:31,458 --> 00:12:34,250
+Stories often have
+happy endings.
+
+268
+00:12:34,291 --> 00:12:38,083
+It's life that throws you
+for a loop.
+
+269
+00:12:38,125 --> 00:12:41,458
+It must be so
+hard for you
+
+270
+00:12:41,500 --> 00:12:43,917
+to be so close to being human
+
+271
+00:12:43,959 --> 00:12:49,291
+and yet never really knowing
+what it's like to know pain.
+
+272
+00:12:49,333 --> 00:12:52,417
+But...
+
+273
+00:12:52,458 --> 00:12:55,250
+pain is unpleasant, is it not?
+
+274
+00:12:55,291 --> 00:12:58,458
+Pain.
+Lust.
+
+275
+00:12:58,500 --> 00:13:00,208
+Envy.
+
+276
+00:13:00,250 --> 00:13:05,166
+Pleasure.
+Desire.
+
+277
+00:13:05,208 --> 00:13:07,500
+Do you know what desire is,
+Data?
+
+278
+00:13:07,542 --> 00:13:09,083
+Desire?
+
+279
+00:13:09,125 --> 00:13:12,250
+To long for, to crave,
+a wish, a request...
+
+280
+00:13:12,291 --> 00:13:16,834
+Do you<i> know</i> what desire is?
+
+281
+00:13:16,875 --> 00:13:19,166
+No.
+
+282
+00:13:19,208 --> 00:13:22,208
+I do not suppose
+I will ever really know.
+
+283
+00:13:22,250 --> 00:13:25,500
+Oh, I feel pity for you.
+
+284
+00:13:25,542 --> 00:13:30,375
+Your existence must be a kind
+of walking purgatory--
+
+285
+00:13:30,417 --> 00:13:32,458
+neither dead
+nor alive
+
+286
+00:13:32,500 --> 00:13:36,000
+never really feeling anything.
+
+287
+00:13:36,041 --> 00:13:38,458
+Just existing.
+
+288
+00:13:38,500 --> 00:13:40,500
+Just existing.
+
+289
+00:13:40,542 --> 00:13:42,542
+(<i> stifles cough</i> )
+
+290
+00:13:46,041 --> 00:13:48,208
+Oh, listen to me.
+
+291
+00:13:48,250 --> 00:13:50,083
+A dying man takes the time
+
+292
+00:13:50,125 --> 00:13:54,834
+to mourn a man
+who will never know death.
+
+293
+00:13:57,959 --> 00:14:00,291
+Funny, isn't it?
+
+294
+00:14:02,041 --> 00:14:04,709
+Funny?
+
+295
+00:14:04,750 --> 00:14:08,875
+I have had great difficulty
+determining what funny is.
+
+296
+00:14:08,917 --> 00:14:12,792
+I've had the same difficulty
+most of my life.
+
+297
+00:14:14,500 --> 00:14:17,208
+We're much alike.
+
+298
+00:14:17,250 --> 00:14:20,291
+I'd say he has a week,
+but that's only an estimate.
+
+299
+00:14:20,333 --> 00:14:21,709
+We do know that the disease
+
+300
+00:14:21,750 --> 00:14:23,417
+attacks the brain
+and nervous system.
+
+301
+00:14:23,458 --> 00:14:25,542
+We can expect more
+of the erratic behavior
+
+302
+00:14:25,583 --> 00:14:28,500
+of the kind
+you've been noticing.
+
+303
+00:14:28,542 --> 00:14:32,834
+His feelings towards you
+are very warm.
+
+304
+00:14:32,875 --> 00:14:35,667
+He's attracted to you
+in many ways.
+
+305
+00:14:35,709 --> 00:14:37,792
+Attracted?
+
+306
+00:14:37,834 --> 00:14:42,208
+I know I've felt certain
+feelings from him
+
+307
+00:14:42,250 --> 00:14:43,959
+and for him.
+
+308
+00:14:44,000 --> 00:14:45,959
+Had I been older
+
+309
+00:14:46,000 --> 00:14:48,917
+perhaps we could
+have been...
+
+310
+00:14:48,959 --> 00:14:51,458
+but that's not the
+way it worked out.
+
+311
+00:14:51,500 --> 00:14:55,583
+And now, it's like he's
+afraid to face me.
+
+312
+00:14:55,625 --> 00:14:59,250
+The only one he talks to
+is your friend, Data.
+
+313
+00:14:59,291 --> 00:15:01,959
+You mentioned
+your impending death, Grandpa.
+
+314
+00:15:02,000 --> 00:15:03,792
+May I say
+you face it
+
+315
+00:15:03,834 --> 00:15:05,959
+with remarkable courage
+and stoicism.
+
+316
+00:15:06,000 --> 00:15:08,750
+Well, that is because
+I'm an incredible man
+
+317
+00:15:08,792 --> 00:15:13,750
+possessing an iron will
+and nerves of steel--
+
+318
+00:15:13,792 --> 00:15:15,500
+two traits that
+have helped me
+
+319
+00:15:15,542 --> 00:15:17,667
+become the genius
+I am today
+
+320
+00:15:17,709 --> 00:15:19,208
+as well as
+the lady-killer
+
+321
+00:15:19,250 --> 00:15:21,041
+I was in days
+gone by.
+
+322
+00:15:21,083 --> 00:15:23,250
+You condone homicide, sir?
+
+323
+00:15:23,291 --> 00:15:25,750
+It's an expression, Data.
+
+324
+00:15:25,792 --> 00:15:30,500
+It means I was once as beautiful
+as I am smart.
+
+325
+00:15:30,542 --> 00:15:32,083
+Really, Grandpa?
+
+326
+00:15:32,125 --> 00:15:34,250
+No, not really.
+
+327
+00:15:34,291 --> 00:15:37,375
+But, what the hell, I'm dying.
+
+328
+00:15:37,417 --> 00:15:41,792
+I can remember my life
+any way I want.
+
+329
+00:15:41,834 --> 00:15:45,500
+But I'll let you into
+a little secret, sonny.
+
+330
+00:15:45,542 --> 00:15:50,458
+I don't really believe
+I will be dying.
+
+331
+00:15:50,500 --> 00:15:51,583
+But the doctor...
+
+332
+00:15:51,625 --> 00:15:52,917
+Oh, I'll die.
+
+333
+00:15:52,959 --> 00:15:56,166
+But I won't
+really be dead.
+
+334
+00:15:56,208 --> 00:16:00,625
+You see, I believe
+I've learned
+
+335
+00:16:00,667 --> 00:16:02,959
+to transfer the wealth
+of my knowledge
+
+336
+00:16:03,000 --> 00:16:04,500
+into a computer.
+
+337
+00:16:04,542 --> 00:16:05,917
+Before I die
+
+338
+00:16:05,959 --> 00:16:07,834
+I plan
+to transfer
+
+339
+00:16:07,875 --> 00:16:11,458
+my great intellect
+into this machine
+
+340
+00:16:11,500 --> 00:16:16,208
+thus cheating the Grim Reaper
+of his greatest prize.
+
+341
+00:16:16,250 --> 00:16:20,875
+But what would you
+know of death?
+
+342
+00:16:20,917 --> 00:16:24,834
+It is a subject forever alien
+to you.
+
+343
+00:16:24,875 --> 00:16:27,542
+That is not necessarily true,
+Grandpa.
+
+344
+00:16:27,583 --> 00:16:29,875
+I do have an "off button,"
+if you will.
+
+345
+00:16:29,917 --> 00:16:32,834
+Its activation robs me
+of my consciousness
+
+346
+00:16:32,875 --> 00:16:34,667
+therefore,
+rendering me dead
+
+347
+00:16:34,709 --> 00:16:36,375
+for all intents
+and purposes.
+
+348
+00:16:36,417 --> 00:16:39,000
+It is not something
+I enjoy contemplating.
+
+349
+00:16:39,041 --> 00:16:41,291
+Oh, I can
+understand that.
+
+350
+00:16:42,542 --> 00:16:47,417
+Just where would Soong
+position such a device?
+
+351
+00:16:47,458 --> 00:16:49,375
+Don't tell me.
+
+352
+00:16:49,417 --> 00:16:52,208
+Let me guess.
+
+353
+00:17:02,125 --> 00:17:05,917
+PICARD:
+Captain to away team.
+We're standing by.
+
+354
+00:17:05,959 --> 00:17:08,125
+I do not wish to interrupt
+Data and the Doctor.
+
+355
+00:17:08,166 --> 00:17:10,375
+They seem to have developed
+a genuine rapport
+
+356
+00:17:10,417 --> 00:17:12,250
+but the<i> Enterprise</i>
+has reached its orbit
+
+357
+00:17:12,291 --> 00:17:13,458
+and I'd like to
+transport Graves
+
+358
+00:17:13,500 --> 00:17:14,625
+to the ship as
+soon as possible.
+
+359
+00:17:14,667 --> 00:17:16,875
+(<i> door opens</i> )
+
+360
+00:17:16,917 --> 00:17:20,583
+That will not be necessary,
+Doctor.
+
+361
+00:17:20,625 --> 00:17:21,667
+He is gone.
+
+362
+00:17:21,709 --> 00:17:23,208
+Gone?
+
+363
+00:17:23,250 --> 00:17:26,583
+It happened just
+a few moments ago in my arms.
+
+364
+00:17:26,625 --> 00:17:30,166
+Ira Graves is dead.
+
+365
+00:17:38,667 --> 00:17:40,125
+<i>Captain's Log, supplemental.</i>
+
+366
+00:17:40,166 --> 00:17:42,709
+<i>I leave Gravesworld</i>
+<i>with an empty feeling</i>
+
+367
+00:17:42,750 --> 00:17:45,375
+<i>in the knowledge that</i>
+<i>our mission was unsuccessful.</i>
+
+368
+00:17:45,417 --> 00:17:48,709
+<i>Whatever scientific secrets</i>
+<i>Ira Graves was about to unlock</i>
+
+369
+00:17:48,750 --> 00:17:50,458
+<i>have been lost forever.</i>
+
+370
+00:17:50,500 --> 00:17:53,667
+<i>Our immediate priority is</i>
+<i>to reach the nearest Starbase</i>
+
+371
+00:17:53,709 --> 00:17:57,458
+<i>so that Graves's assistant</i>
+<i>can get on with her life.</i>
+
+372
+00:18:00,458 --> 00:18:01,875
+Why didn't you contact Dr. Selar
+
+373
+00:18:01,917 --> 00:18:06,291
+when you saw that he was
+beginning to... to go?
+
+374
+00:18:06,333 --> 00:18:07,834
+To do so would have
+been pointless.
+
+375
+00:18:07,875 --> 00:18:11,041
+All things must pass.
+
+376
+00:18:11,959 --> 00:18:14,583
+May I go now, sir?
+
+377
+00:18:14,625 --> 00:18:15,959
+Yes, of course.
+
+378
+00:18:18,834 --> 00:18:22,583
+We will try to honor him
+
+379
+00:18:22,625 --> 00:18:25,208
+in the manner in which
+he specified, will we not, sir?
+
+380
+00:18:25,250 --> 00:18:26,959
+I said we would, Data.
+
+381
+00:18:27,000 --> 00:18:28,917
+I am glad, sir.
+
+382
+00:18:28,959 --> 00:18:31,041
+It was his dying wish.
+
+383
+00:18:53,291 --> 00:18:54,667
+Hello, Data.
+
+384
+00:18:54,709 --> 00:18:57,291
+It's good to
+see you again.
+
+385
+00:18:59,166 --> 00:19:03,375
+KAREEN:
+The stars are so
+beautiful from space.
+
+386
+00:19:03,417 --> 00:19:07,041
+You always did love the sky.
+
+387
+00:19:07,083 --> 00:19:08,667
+A stargazer--
+
+388
+00:19:08,709 --> 00:19:11,458
+that is what you are.
+
+389
+00:19:11,500 --> 00:19:14,166
+Did Ira tell you that?
+
+390
+00:19:14,208 --> 00:19:18,583
+I guess he's right.
+
+391
+00:19:18,625 --> 00:19:22,959
+I used to spend hours just
+lying on a hill looking up.
+
+392
+00:19:23,000 --> 00:19:26,959
+Ira never told you
+how beautiful you were to him.
+
+393
+00:19:27,000 --> 00:19:30,166
+He never told
+you that, did he?
+
+394
+00:19:30,208 --> 00:19:33,333
+He could not tell you.
+
+395
+00:19:33,375 --> 00:19:35,542
+Do you understand?
+
+396
+00:19:35,583 --> 00:19:40,959
+Yes, I understand.
+
+397
+00:19:42,417 --> 00:19:45,000
+But he wanted to...
+
+398
+00:19:45,041 --> 00:19:47,458
+every waking moment.
+
+399
+00:19:47,500 --> 00:19:50,125
+And he wanted you
+to know that.
+
+400
+00:19:55,500 --> 00:19:58,417
+You were everything to him.
+
+401
+00:20:15,125 --> 00:20:18,750
+PICARD:
+He was a fine man
+
+402
+00:20:18,792 --> 00:20:23,917
+a man of rare gifts
+and great accomplishments.
+
+403
+00:20:25,875 --> 00:20:30,458
+He will be sorely missed.
+
+404
+00:20:30,500 --> 00:20:32,583
+Does anyone else have
+anything to say?
+
+405
+00:20:32,625 --> 00:20:36,500
+I believe I have
+a few words to say, sir.
+
+406
+00:20:43,834 --> 00:20:46,750
+Just look at that face.
+
+407
+00:20:46,792 --> 00:20:50,125
+The face of a thinker,
+
+408
+00:20:50,166 --> 00:20:52,750
+a warrior,
+
+409
+00:20:52,792 --> 00:20:55,291
+a man...
+
+410
+00:20:55,333 --> 00:20:57,875
+for all seasons.
+
+411
+00:20:57,917 --> 00:21:00,625
+Yes, Ira Graves
+
+412
+00:21:00,667 --> 00:21:03,709
+was all that
+and more
+
+413
+00:21:03,750 --> 00:21:07,375
+but he was
+not perfect.
+
+414
+00:21:07,417 --> 00:21:12,875
+Perhaps his greatest flaw
+was that he was too selfless.
+
+415
+00:21:12,917 --> 00:21:15,667
+He cared too much
+
+416
+00:21:15,709 --> 00:21:17,333
+for his fellow man
+
+417
+00:21:17,375 --> 00:21:19,000
+with nary a thought
+
+418
+00:21:19,041 --> 00:21:21,291
+for himself.
+
+419
+00:21:21,333 --> 00:21:27,333
+A man of limitless
+accomplishments
+
+420
+00:21:27,375 --> 00:21:30,041
+and unbridled modesty.
+
+421
+00:21:30,083 --> 00:21:33,208
+I can safely say
+
+422
+00:21:33,250 --> 00:21:38,166
+that to know him
+was to love him.
+
+423
+00:21:38,208 --> 00:21:40,625
+And to love him
+
+424
+00:21:40,667 --> 00:21:43,750
+was to know him.
+
+425
+00:21:43,792 --> 00:21:47,041
+Those who knew him
+
+426
+00:21:47,083 --> 00:21:49,625
+loved him
+
+427
+00:21:49,667 --> 00:21:52,542
+while those
+who did not know him
+
+428
+00:21:52,583 --> 00:21:56,750
+loved him from afar.
+
+429
+00:21:56,792 --> 00:21:57,792
+Data...
+
+430
+00:21:57,834 --> 00:21:59,625
+I am almost finished, sir.
+
+431
+00:21:59,667 --> 00:22:01,458
+You are finished, Data.
+
+432
+00:22:32,458 --> 00:22:35,250
+We now commit the body
+of Ira Graves
+
+433
+00:22:35,291 --> 00:22:38,417
+to the timeless depths of space.
+
+434
+00:23:04,291 --> 00:23:06,959
+I am sorry, sir.
+
+435
+00:23:07,000 --> 00:23:09,375
+Perhaps it was my admiration
+for Grandpa
+
+436
+00:23:09,417 --> 00:23:10,583
+that got the best of me.
+
+437
+00:23:10,625 --> 00:23:12,375
+Grandpa?
+
+438
+00:23:12,417 --> 00:23:14,166
+That is the way
+I think of him, sir.
+
+439
+00:23:14,208 --> 00:23:18,375
+My only living relative
+no longer living.
+
+440
+00:23:18,417 --> 00:23:20,458
+Data...
+
+441
+00:23:20,500 --> 00:23:21,458
+I was only trying
+
+442
+00:23:21,500 --> 00:23:24,625
+to carry out his wishes, sir.
+
+443
+00:23:24,667 --> 00:23:28,166
+I just wanted to keep
+my promise to him.
+
+444
+00:23:28,208 --> 00:23:29,667
+I know that, Data.
+
+445
+00:23:29,709 --> 00:23:33,208
+Look, I realize
+you've been studying
+
+446
+00:23:33,250 --> 00:23:35,875
+the human equation
+with great alacrity
+
+447
+00:23:35,917 --> 00:23:38,709
+but perhaps you've been
+working at it too much.
+
+448
+00:23:38,750 --> 00:23:41,250
+Don't try so hard to be human.
+
+449
+00:23:41,291 --> 00:23:43,125
+Just be yourself.
+
+450
+00:23:43,166 --> 00:23:45,458
+All right?
+
+451
+00:23:45,500 --> 00:23:47,000
+Yes, sir.
+
+452
+00:23:47,041 --> 00:23:50,250
+I will work on staying
+within myself.
+
+453
+00:23:50,291 --> 00:23:54,291
+Grand.
+
+454
+00:23:54,333 --> 00:23:56,083
+You're dismissed, Mr. Data.
+
+455
+00:24:01,625 --> 00:24:03,125
+Thank you, sir.
+
+456
+00:24:15,667 --> 00:24:20,667
+(<i> whistling</i>
+<i>"If I Only Had a Heart"</i> )
+
+457
+00:24:25,166 --> 00:24:26,709
+<i>Captain's Personal Log.</i>
+
+458
+00:24:26,750 --> 00:24:28,375
+<i>Although Commander Data</i>
+<i>has assured me</i>
+
+459
+00:24:28,417 --> 00:24:31,458
+<i>that his odd behavior</i>
+<i>will return to normal,</i>
+
+460
+00:24:31,500 --> 00:24:32,834
+<i>I can't help thinking</i>
+
+461
+00:24:32,875 --> 00:24:34,083
+<i>that something went wrong</i>
+
+462
+00:24:34,125 --> 00:24:37,125
+<i>during his visit</i>
+<i>to Gravesworld.</i>
+
+463
+00:24:37,166 --> 00:24:39,834
+I'm still
+concerned, Captain.
+
+464
+00:24:39,875 --> 00:24:42,667
+I've never seen
+him act like this.
+
+465
+00:24:42,709 --> 00:24:44,750
+Could it be
+that grandfather analogy
+
+466
+00:24:44,792 --> 00:24:47,083
+that Graves planted
+in his head?
+
+467
+00:24:47,125 --> 00:24:50,917
+Data is an orphan,
+in a manner of speaking.
+
+468
+00:24:50,959 --> 00:24:56,333
+Is it possible
+that the loss of Graves
+
+469
+00:24:56,375 --> 00:24:58,333
+might have affected him?
+
+470
+00:24:58,375 --> 00:25:01,291
+Touched him
+on some emotional level
+
+471
+00:25:01,333 --> 00:25:03,750
+we didn't know
+he possessed?
+
+472
+00:25:03,792 --> 00:25:06,917
+I hope you're right.
+
+473
+00:25:06,959 --> 00:25:08,875
+I hope that's
+all it is.
+
+474
+00:25:13,917 --> 00:25:16,500
+That was a great speech, Data.
+
+475
+00:25:16,542 --> 00:25:20,250
+"To know him is to love him
+is to know him."
+
+476
+00:25:20,291 --> 00:25:21,792
+Verbal composition
+
+477
+00:25:21,834 --> 00:25:25,750
+at its most
+sophisticated level.
+
+478
+00:25:25,792 --> 00:25:28,083
+Your childlike mind
+cannot appreciate
+
+479
+00:25:28,125 --> 00:25:30,875
+the timeworn wisdom
+of my words.
+
+480
+00:25:30,917 --> 00:25:33,125
+Childlike mind?
+
+481
+00:25:33,166 --> 00:25:34,542
+When you get
+to be my age
+
+482
+00:25:34,583 --> 00:25:36,458
+you will understand.
+
+483
+00:25:36,500 --> 00:25:38,542
+Your age?
+
+484
+00:25:38,583 --> 00:25:40,417
+Data, chronologically
+
+485
+00:25:40,458 --> 00:25:43,208
+you're not much
+older than I am.
+
+486
+00:25:43,250 --> 00:25:47,041
+Well, you are only
+as old as you feel.
+
+487
+00:25:47,083 --> 00:25:48,709
+Try to remember that, boy.
+
+488
+00:25:50,959 --> 00:25:52,834
+You're not turning
+into a philosopher
+
+489
+00:25:52,875 --> 00:25:53,959
+are you, Mr. Data?
+
+490
+00:25:54,000 --> 00:25:56,250
+I am many things:
+scholar,
+
+491
+00:25:56,291 --> 00:25:58,000
+artist,
+philosopher,
+
+492
+00:25:58,041 --> 00:26:01,834
+lover, genius.
+
+493
+00:26:01,875 --> 00:26:04,917
+Data, what's wrong
+with you?
+
+494
+00:26:16,959 --> 00:26:19,333
+KAREEN:
+Wow, how beautiful.
+
+495
+00:26:19,375 --> 00:26:21,875
+PICARD:
+I thought you might enjoy
+the Bridge, Miss Brianon.
+
+496
+00:26:21,917 --> 00:26:24,125
+I'm aware of your
+interest in science.
+
+497
+00:26:24,166 --> 00:26:25,583
+Perhaps you'd like
+to see the computer...
+
+498
+00:26:25,625 --> 00:26:28,417
+Yes, and I am aware
+of your interest in her.
+
+499
+00:26:29,458 --> 00:26:31,291
+What was that,
+Commander?
+
+500
+00:26:33,542 --> 00:26:34,625
+Nothing, sir.
+
+501
+00:26:34,667 --> 00:26:36,875
+Nothing at all.
+
+502
+00:26:40,458 --> 00:26:44,875
+These are the
+science stations.
+
+503
+00:26:44,917 --> 00:26:46,834
+PICARD:
+From the Command Center here
+
+504
+00:26:46,875 --> 00:26:49,083
+we have control
+of all of the science stations.
+
+505
+00:26:49,125 --> 00:26:52,542
+Data, what are you doing?
+
+506
+00:26:52,583 --> 00:26:54,583
+I detest hypocrisy.
+
+507
+00:26:54,625 --> 00:26:57,208
+I wish they would just
+come out and admit it.
+
+508
+00:26:57,250 --> 00:27:01,500
+Admit what, Mr. Data?
+
+509
+00:27:01,542 --> 00:27:04,917
+That your interest in Kareen
+is not purely professional.
+
+510
+00:27:04,959 --> 00:27:07,208
+Try as
+you will
+
+511
+00:27:07,250 --> 00:27:10,166
+you cannot win her heart.
+
+512
+00:27:10,208 --> 00:27:11,208
+She does not care
+
+513
+00:27:11,250 --> 00:27:13,125
+for older men
+
+514
+00:27:13,166 --> 00:27:17,667
+or men of limited intellect.
+
+515
+00:27:20,417 --> 00:27:22,750
+Mr. Data, you will come
+with me right now.
+
+516
+00:27:22,792 --> 00:27:24,625
+Do you understand me?
+
+517
+00:27:26,083 --> 00:27:27,542
+I understand.
+
+518
+00:27:27,583 --> 00:27:29,667
+I understand
+all too well.
+
+519
+00:27:29,709 --> 00:27:34,500
+Removing the competition
+will not help you, Picard.
+
+520
+00:27:39,875 --> 00:27:41,291
+Excuse me.
+
+521
+00:27:46,208 --> 00:27:47,834
+Do you know
+what that was all about?
+
+522
+00:27:47,875 --> 00:27:49,166
+Jealousy.
+
+523
+00:27:49,208 --> 00:27:52,917
+Intense, burning jealousy.
+
+524
+00:27:52,959 --> 00:27:56,709
+A human emotion,
+and it was coming from Data.
+
+525
+00:28:02,333 --> 00:28:05,667
+If you wish to apologize,
+I am prepared to listen.
+
+526
+00:28:08,583 --> 00:28:11,333
+You expect me
+to apologize to you?
+
+527
+00:28:11,375 --> 00:28:13,750
+You were a bit
+rude to me.
+
+528
+00:28:13,792 --> 00:28:14,917
+Might make you
+feel better
+
+529
+00:28:14,959 --> 00:28:16,917
+if you said
+you were sorry.
+
+530
+00:28:16,959 --> 00:28:20,208
+Data, something has obviously
+gone wrong with your circuitry.
+
+531
+00:28:20,250 --> 00:28:21,417
+That is ridiculous.
+
+532
+00:28:21,458 --> 00:28:23,750
+I am as healthy
+as a Rigellian ox.
+
+533
+00:28:23,792 --> 00:28:26,041
+I wish I could
+believe that.
+
+534
+00:28:26,083 --> 00:28:28,875
+I would accompany you
+to Sick Bay
+
+535
+00:28:28,917 --> 00:28:31,041
+but I doubt if that
+would do us any good.
+
+536
+00:28:31,083 --> 00:28:35,333
+Sick Bay?
+
+537
+00:28:35,375 --> 00:28:37,792
+Are you ill,
+Captain?
+
+538
+00:28:37,834 --> 00:28:40,333
+I'm getting there.
+
+539
+00:28:40,375 --> 00:28:43,959
+I'm going to have Engineering
+run a full physical on you.
+
+540
+00:28:44,000 --> 00:28:46,375
+I am sure that will not
+be necessary, Captain.
+
+541
+00:28:46,417 --> 00:28:49,542
+I am fully capable of running
+a circuit check on myself.
+
+542
+00:28:49,583 --> 00:28:52,542
+It will immediately
+determine any abnormalities.
+
+543
+00:28:52,583 --> 00:28:53,750
+Do it.
+
+544
+00:28:53,792 --> 00:28:55,667
+That's an order.
+
+545
+00:28:59,208 --> 00:29:00,333
+Just as I expected.
+
+546
+00:29:00,375 --> 00:29:03,166
+I am fine.
+Could not be better.
+
+547
+00:29:06,000 --> 00:29:08,458
+For the first time
+since I've known you,
+
+548
+00:29:08,500 --> 00:29:10,917
+I don't believe you.
+
+549
+00:29:17,291 --> 00:29:19,875
+Try and hold still,
+will you, Data?
+
+550
+00:29:28,750 --> 00:29:31,458
+Data, will you wait
+for me in the corridor?
+
+551
+00:29:31,500 --> 00:29:32,875
+Why should I?
+
+552
+00:29:32,917 --> 00:29:36,500
+This concerns me more
+than it does any of you.
+
+553
+00:29:36,542 --> 00:29:38,792
+You will wait for me
+in the corridor.
+
+554
+00:29:44,583 --> 00:29:48,625
+His insubordination is growing
+by leaps and bounds.
+
+555
+00:29:48,667 --> 00:29:50,667
+I could use discipline,
+
+556
+00:29:50,709 --> 00:29:53,709
+but I'd rather
+try and help him.
+
+557
+00:29:53,750 --> 00:29:56,125
+Well, I wish I knew
+what to suggest.
+
+558
+00:29:56,166 --> 00:29:58,041
+I'll be damned if I can find
+a thing wrong with him.
+
+559
+00:29:58,083 --> 00:30:00,834
+Perhaps we're looking
+in the wrong place.
+
+560
+00:30:00,875 --> 00:30:01,959
+Meaning?
+
+561
+00:30:02,000 --> 00:30:03,500
+Well, if Data's
+physical health
+
+562
+00:30:03,542 --> 00:30:05,000
+is unimpaired
+
+563
+00:30:05,041 --> 00:30:07,250
+perhaps his mental health
+needs to be addressed.
+
+564
+00:30:07,291 --> 00:30:10,333
+What, are you saying that
+Data's losing his mind?
+
+565
+00:30:10,375 --> 00:30:14,500
+With your permission, Captain,
+there is one way to find out.
+
+566
+00:30:17,125 --> 00:30:19,000
+Now, Data,
+you remember
+
+567
+00:30:19,041 --> 00:30:21,125
+the psychotronic
+stability examination.
+
+568
+00:30:21,166 --> 00:30:22,500
+We all had
+to take it
+
+569
+00:30:22,542 --> 00:30:24,625
+before graduating
+from the academy.
+
+570
+00:30:24,667 --> 00:30:28,333
+It was a waste of time then,
+and it is a waste of time now.
+
+571
+00:30:28,375 --> 00:30:31,875
+It will just gauge your
+psychological reactions
+
+572
+00:30:31,917 --> 00:30:33,250
+to the images
+it projects.
+
+573
+00:30:33,291 --> 00:30:34,291
+Mm-hmm.
+
+574
+00:30:34,333 --> 00:30:35,291
+Watch the screen
+
+575
+00:30:35,333 --> 00:30:37,333
+and let your
+mind go blank.
+
+576
+00:30:37,375 --> 00:30:40,083
+The device
+will do the rest.
+
+577
+00:30:40,125 --> 00:30:41,917
+(<i> beeping</i> )
+
+578
+00:30:47,792 --> 00:30:51,375
+(<i> beeping increasing in speed)</i>
+
+579
+00:31:08,834 --> 00:31:12,834
+(<i> engines roaring</i> )
+
+580
+00:31:12,875 --> 00:31:15,959
+It's safe to say
+
+581
+00:31:16,000 --> 00:31:19,000
+that you're his best friend.
+
+582
+00:31:19,041 --> 00:31:25,083
+Is it possible to speculate
+about what's happening to him?
+
+583
+00:31:25,125 --> 00:31:27,667
+Well, sir,
+it's just a guess
+
+584
+00:31:27,709 --> 00:31:31,333
+but, sometimes,
+he wants to be human
+
+585
+00:31:31,375 --> 00:31:33,667
+so badly
+he can taste it.
+
+586
+00:31:33,709 --> 00:31:36,041
+I think he just tends
+to get confused
+
+587
+00:31:36,083 --> 00:31:37,875
+when his human
+qualities surface.
+
+588
+00:31:37,917 --> 00:31:39,792
+Mm. Go on.
+
+589
+00:31:39,834 --> 00:31:41,542
+Uh, witnessing
+Graves's death
+
+590
+00:31:41,583 --> 00:31:43,417
+may have been
+some sort of catalyst
+
+591
+00:31:43,458 --> 00:31:45,291
+for the way he...
+
+592
+00:31:47,083 --> 00:31:49,583
+I have the results
+of the tests.
+
+593
+00:31:49,625 --> 00:31:51,000
+I ran them several times
+
+594
+00:31:51,041 --> 00:31:52,041
+to be sure.
+
+595
+00:31:52,083 --> 00:31:53,750
+To be sure of what?
+
+596
+00:31:53,792 --> 00:31:55,917
+There are two disparate
+personalities
+
+597
+00:31:55,959 --> 00:31:57,917
+within Lieutenant
+Commander Data--
+
+598
+00:31:57,959 --> 00:32:00,208
+each distinctly
+different--
+
+599
+00:32:00,250 --> 00:32:02,041
+a dominant
+and a recessive.
+
+600
+00:32:02,083 --> 00:32:04,417
+But he's an android,
+is that possible?
+
+601
+00:32:04,458 --> 00:32:05,875
+It must be.
+
+602
+00:32:05,917 --> 00:32:09,583
+The dominant personality
+is unstable.
+
+603
+00:32:09,625 --> 00:32:11,083
+Brilliant, but vain.
+
+604
+00:32:11,125 --> 00:32:13,208
+Sensitive,
+yet paranoid.
+
+605
+00:32:13,250 --> 00:32:17,125
+And I believe it is prone
+to irrationality.
+
+606
+00:32:17,166 --> 00:32:18,875
+Of course...
+
+607
+00:32:18,917 --> 00:32:20,417
+Sir?
+
+608
+00:32:20,458 --> 00:32:22,083
+Nothing. Go on.
+
+609
+00:32:22,125 --> 00:32:27,625
+It seems to have an especially
+strong hatred of you, Captain.
+
+610
+00:32:27,667 --> 00:32:30,583
+Or to a lesser degree,
+any authority figure.
+
+611
+00:32:30,625 --> 00:32:34,834
+And the worst part is
+it's growing.
+
+612
+00:32:34,875 --> 00:32:36,250
+How do you mean?
+
+613
+00:32:36,291 --> 00:32:39,875
+The alien persona
+is getting stronger
+
+614
+00:32:39,917 --> 00:32:43,375
+and gobbling up what is left
+of the weaker ego:
+
+615
+00:32:43,417 --> 00:32:45,083
+the Data we know.
+
+616
+00:32:45,125 --> 00:32:49,750
+If something isn't done
+to stop it immediately
+
+617
+00:32:49,792 --> 00:32:52,834
+we will lose our Data forever.
+
+618
+00:32:57,000 --> 00:32:58,667
+<i>Captain's Personal Log.</i>
+
+619
+00:32:58,709 --> 00:33:00,458
+<i>We have arrived</i>
+<i>at Starbase Six</i>
+
+620
+00:33:00,500 --> 00:33:03,458
+<i>where Miss Brianon will await</i>
+<i>transport back to Earth.</i>
+
+621
+00:33:03,500 --> 00:33:04,917
+<i>I'm greatly troubled</i>
+
+622
+00:33:04,959 --> 00:33:07,291
+<i>by the unusual behavior</i>
+<i>of Commander Data</i>
+
+623
+00:33:07,333 --> 00:33:09,792
+<i>and fear that somehow</i>
+<i>it is directly related</i>
+
+624
+00:33:09,834 --> 00:33:12,417
+<i>to the experiments</i>
+<i>of Ira Graves.</i>
+
+625
+00:33:12,458 --> 00:33:14,250
+Where is Data now?
+
+626
+00:33:14,291 --> 00:33:15,375
+He should be
+in his quarters.
+
+627
+00:33:15,417 --> 00:33:18,917
+You ordered him
+not to leave.
+
+628
+00:33:20,291 --> 00:33:22,333
+Tell me, where is
+Lieutenant Commander Data?
+
+629
+00:33:22,375 --> 00:33:26,375
+Current location:
+Ten-Forward.
+
+630
+00:33:26,417 --> 00:33:27,959
+Lieutenant Worf
+
+631
+00:33:28,000 --> 00:33:31,875
+will you go to Ten-Forward
+and keep an eye on Data?
+
+632
+00:33:31,917 --> 00:33:33,959
+Don't interfere
+with his actions
+
+633
+00:33:34,000 --> 00:33:35,375
+unless you hear
+otherwise from me.
+
+634
+00:33:35,417 --> 00:33:39,166
+Worf here, sir.
+Acknowledged.
+
+635
+00:33:39,208 --> 00:33:40,458
+I want to know
+
+636
+00:33:40,500 --> 00:33:45,333
+more about what happened
+down on Gravesworld.
+
+637
+00:33:45,375 --> 00:33:46,500
+Lieutenant Selar
+
+638
+00:33:46,542 --> 00:33:48,667
+report to the Captain's
+Ready Room.
+
+639
+00:33:57,750 --> 00:33:59,417
+Hello, Kareen.
+
+640
+00:33:59,458 --> 00:34:02,500
+Don't you think it's time
+we stopped pretending?
+
+641
+00:34:02,542 --> 00:34:06,917
+You know who I am.
+
+642
+00:34:06,959 --> 00:34:08,709
+You're Data.
+
+643
+00:34:14,000 --> 00:34:18,959
+You do know who I am.
+
+644
+00:34:19,000 --> 00:34:20,458
+Ira?
+
+645
+00:34:20,500 --> 00:34:24,625
+It is me.
+I am here.
+
+646
+00:34:24,667 --> 00:34:27,875
+I am alive.
+
+647
+00:34:27,917 --> 00:34:29,250
+How?
+
+648
+00:34:32,959 --> 00:34:36,917
+I deactivated Data
+and transferred my mind
+
+649
+00:34:36,959 --> 00:34:38,792
+into his frame.
+
+650
+00:34:38,834 --> 00:34:41,542
+I never imagined
+how much of my...
+
+651
+00:34:41,583 --> 00:34:44,667
+<i>myself</i> I would retain.
+
+652
+00:34:44,709 --> 00:34:45,750
+My feelings.
+
+653
+00:34:45,792 --> 00:34:47,583
+My dreams.
+
+654
+00:34:47,625 --> 00:34:50,291
+They won't let you
+get away with it.
+
+655
+00:34:50,333 --> 00:34:52,125
+They'll try to stop you.
+
+656
+00:34:52,166 --> 00:34:54,667
+How can they?
+
+657
+00:34:54,709 --> 00:34:56,583
+It is my body now.
+
+658
+00:34:56,625 --> 00:34:58,667
+It is out of their hands.
+
+659
+00:34:58,709 --> 00:35:00,083
+Doctor, tell me,
+how much time
+
+660
+00:35:00,125 --> 00:35:01,625
+did Data and Graves
+spend together?
+
+661
+00:35:01,667 --> 00:35:03,000
+They were together
+practically
+
+662
+00:35:03,041 --> 00:35:04,625
+the entire time
+we were on the planet.
+
+663
+00:35:04,667 --> 00:35:05,709
+Always alone?
+
+664
+00:35:05,750 --> 00:35:07,792
+Yes. Always.
+
+665
+00:35:07,834 --> 00:35:10,875
+Doctor, what was your impression
+of Graves?
+
+666
+00:35:10,917 --> 00:35:14,208
+He seemed brilliant,
+egocentric, arrogant,
+
+667
+00:35:14,250 --> 00:35:15,792
+chauvinistic...
+
+668
+00:35:19,041 --> 00:35:21,542
+Sound familiar?
+
+669
+00:35:23,250 --> 00:35:26,709
+Something wonderful
+has happened.
+
+670
+00:35:26,750 --> 00:35:28,792
+I can take a deep breath now
+
+671
+00:35:28,834 --> 00:35:31,667
+without feeling
+stabbing pain.
+
+672
+00:35:31,709 --> 00:35:35,875
+I will never have
+to face death again.
+
+673
+00:35:35,917 --> 00:35:37,417
+Think of the things
+I will accomplish
+
+674
+00:35:37,458 --> 00:35:40,166
+over the next thousand years.
+
+675
+00:35:42,417 --> 00:35:43,583
+What?
+
+676
+00:35:43,625 --> 00:35:48,792
+Oh, I know what
+you are thinking.
+
+677
+00:35:48,834 --> 00:35:51,709
+There is no need
+to worry.
+
+678
+00:35:51,750 --> 00:35:55,792
+I will create an android
+body for you, too.
+
+679
+00:35:55,834 --> 00:35:58,542
+We can witness
+the end of time together.
+
+680
+00:36:05,667 --> 00:36:08,792
+Why are you crying, Kareen?
+
+681
+00:36:08,834 --> 00:36:10,542
+I can love you now.
+
+682
+00:36:10,583 --> 00:36:15,709
+The way I always
+wanted to.
+
+683
+00:36:15,750 --> 00:36:18,125
+It was not right before.
+
+684
+00:36:18,166 --> 00:36:23,083
+I was too old for you...
+too weak.
+
+685
+00:36:23,125 --> 00:36:27,041
+Now I can be everything
+you want me to be.
+
+686
+00:36:27,083 --> 00:36:30,875
+I won't let you
+put me in a machine.
+
+687
+00:36:30,917 --> 00:36:33,792
+I want to
+live my life.
+
+688
+00:36:33,834 --> 00:36:36,625
+I won't let you
+take it away from me.
+
+689
+00:36:38,667 --> 00:36:41,000
+Ira, Ira,
+you're hurting me.
+
+690
+00:36:55,625 --> 00:36:57,083
+Worf to Captain Picard.
+
+691
+00:36:57,125 --> 00:36:58,667
+Commander Data
+has left Ten-Forward.
+
+692
+00:36:58,709 --> 00:36:59,667
+Should I follow?
+
+693
+00:36:59,709 --> 00:37:00,792
+Negative.
+
+694
+00:37:00,834 --> 00:37:02,792
+I'll handle
+this myself.
+
+695
+00:37:04,792 --> 00:37:06,917
+He was an expert
+in cybernetics.
+
+696
+00:37:06,959 --> 00:37:08,709
+Yes.
+
+697
+00:37:08,750 --> 00:37:12,583
+Our memorial service
+may have been premature.
+
+698
+00:37:12,625 --> 00:37:15,125
+What an achievement.
+
+699
+00:37:15,166 --> 00:37:19,417
+So long as men can breathe
+or eyes can see
+
+700
+00:37:19,458 --> 00:37:21,875
+so long
+lives this.
+
+701
+00:37:21,917 --> 00:37:25,208
+And this gives life to thee.
+
+702
+00:37:25,250 --> 00:37:29,291
+He was working
+on bridging the gap
+
+703
+00:37:29,333 --> 00:37:31,041
+between man and machine.
+
+704
+00:37:31,083 --> 00:37:34,750
+It seems he built that bridge.
+
+705
+00:37:34,792 --> 00:37:37,125
+I may be forced
+to tear it down.
+
+706
+00:37:52,834 --> 00:37:55,667
+I can hear you coming, Captain.
+
+707
+00:37:55,709 --> 00:37:59,041
+My ears are better than
+the average dog's, you know.
+
+708
+00:38:04,458 --> 00:38:07,458
+I know who you are
+and what you've done.
+
+709
+00:38:09,333 --> 00:38:11,250
+Of course you do.
+
+710
+00:38:11,291 --> 00:38:13,583
+I came here to talk to Data.
+
+711
+00:38:13,625 --> 00:38:15,959
+Hmm-mm.
+
+712
+00:38:16,000 --> 00:38:18,709
+I cannot allow that.
+
+713
+00:38:21,792 --> 00:38:24,208
+I understand your desperation--
+
+714
+00:38:24,250 --> 00:38:26,041
+the shock of learning
+you were dying--
+
+715
+00:38:26,083 --> 00:38:29,875
+but you have no right
+to do what you've done.
+
+716
+00:38:29,917 --> 00:38:32,834
+I have every right, Captain.
+
+717
+00:38:32,875 --> 00:38:34,667
+I am man,
+he is machine.
+
+718
+00:38:34,709 --> 00:38:35,917
+There is
+no question
+
+719
+00:38:35,959 --> 00:38:39,250
+who must live
+and what must die.
+
+720
+00:38:39,291 --> 00:38:41,250
+What of Data?
+
+721
+00:38:41,291 --> 00:38:43,959
+(<i> chuckling</i> )
+
+722
+00:38:44,000 --> 00:38:47,792
+Data?
+
+723
+00:38:47,834 --> 00:38:49,792
+Before me, he was nothing.
+
+724
+00:38:49,834 --> 00:38:51,834
+Just a walking
+tin can
+
+725
+00:38:51,875 --> 00:38:54,250
+with circuits
+for intestines.
+
+726
+00:38:54,291 --> 00:38:56,500
+Pathetic.
+
+727
+00:38:56,542 --> 00:39:00,959
+Without heart,
+a man is meaningless.
+
+728
+00:39:05,959 --> 00:39:08,959
+I would not come up here
+if I were you, Captain.
+
+729
+00:39:09,000 --> 00:39:11,125
+I might not like it.
+
+730
+00:39:23,917 --> 00:39:27,375
+DATA:
+You are most fortunate,
+my dear Captain
+
+731
+00:39:27,417 --> 00:39:30,041
+that I am not a violent man.
+
+732
+00:39:41,375 --> 00:39:43,291
+Not a violent man?
+
+733
+00:39:45,625 --> 00:39:47,917
+This... this is not my fault.
+
+734
+00:39:47,959 --> 00:39:50,208
+They told me I was not
+supposed to be up here.
+
+735
+00:39:50,250 --> 00:39:51,875
+They should not
+have done that.
+
+736
+00:39:51,917 --> 00:39:53,625
+Graves,
+listen to me.
+
+737
+00:39:53,667 --> 00:39:58,500
+No one can deny the significance
+of your transformation...
+
+738
+00:40:00,625 --> 00:40:03,625
+but I don't believe that
+this was part of your plan.
+
+739
+00:40:03,667 --> 00:40:05,000
+Encountering Data
+
+740
+00:40:05,041 --> 00:40:07,000
+was mere coincidence--
+
+741
+00:40:07,041 --> 00:40:11,125
+one that offered you more
+than you could have dreamed--
+
+742
+00:40:11,166 --> 00:40:13,375
+but something has gone wrong.
+
+743
+00:40:13,417 --> 00:40:14,792
+Look here.
+
+744
+00:40:17,458 --> 00:40:23,792
+Graves, this experiment
+must be terminated.
+
+745
+00:40:23,834 --> 00:40:27,375
+This is idiotic.
+
+746
+00:40:27,417 --> 00:40:29,166
+Picard to Sick Bay.
+
+747
+00:40:29,208 --> 00:40:30,166
+PULASKI:
+Yes, Captain.
+
+748
+00:40:30,208 --> 00:40:31,583
+How is Miss
+Brianon?
+
+749
+00:40:31,625 --> 00:40:34,875
+Her left hand is fractured
+in two places.
+
+750
+00:40:34,917 --> 00:40:36,458
+We've just begun treatment.
+
+751
+00:40:36,500 --> 00:40:39,959
+I'm afraid there are two
+more injuries in Engineering.
+
+752
+00:40:40,041 --> 00:40:41,750
+I'm on my way.
+
+753
+00:40:43,458 --> 00:40:45,041
+Who's next?
+
+754
+00:40:45,083 --> 00:40:48,542
+These were all accidents.
+
+755
+00:40:48,583 --> 00:40:49,625
+I did not intend...
+
+756
+00:40:49,667 --> 00:40:51,375
+How many more
+accidents?
+
+757
+00:40:51,417 --> 00:40:54,750
+You must leave this body.
+
+758
+00:40:54,792 --> 00:40:58,208
+No. I live here now.
+
+759
+00:40:58,250 --> 00:41:03,834
+Graves, every man has his time.
+
+760
+00:41:03,875 --> 00:41:05,041
+Every man.
+
+761
+00:41:05,083 --> 00:41:06,500
+Without exception.
+
+762
+00:41:06,542 --> 00:41:08,583
+But you've
+cheated.
+
+763
+00:41:08,625 --> 00:41:13,875
+You have extended your life
+at the expense of another.
+
+764
+00:41:13,917 --> 00:41:15,792
+Graves, give Data back.
+
+765
+00:41:15,834 --> 00:41:16,875
+Give him back.
+
+766
+00:41:16,917 --> 00:41:19,375
+Data is dead.
+No.
+
+767
+00:41:19,417 --> 00:41:21,208
+He must not be lost.
+
+768
+00:41:21,250 --> 00:41:25,208
+He's not simply
+an android.
+
+769
+00:41:25,250 --> 00:41:28,166
+He's a life-form.
+Entirely unique.
+
+770
+00:41:28,208 --> 00:41:29,625
+Data is not human.
+
+771
+00:41:29,667 --> 00:41:30,625
+He is...
+
+772
+00:41:30,667 --> 00:41:32,291
+He is
+different, yes.
+
+773
+00:41:32,333 --> 00:41:34,291
+But that does not
+make him expendable
+
+774
+00:41:34,333 --> 00:41:36,875
+or any less significant.
+
+775
+00:41:36,917 --> 00:41:38,834
+No being is so important
+
+776
+00:41:38,875 --> 00:41:41,000
+that he can usurp
+the rights of another.
+
+777
+00:41:41,041 --> 00:41:42,500
+Now set him free.
+
+778
+00:41:42,542 --> 00:41:43,750
+No!
+
+779
+00:41:59,000 --> 00:42:01,125
+How many...
+
+780
+00:42:01,166 --> 00:42:04,166
+how many more accidents?
+
+781
+00:42:16,000 --> 00:42:17,083
+Data-- where is he?
+
+782
+00:42:17,125 --> 00:42:18,417
+Just take it easy, Captain.
+
+783
+00:42:18,458 --> 00:42:21,041
+We can't afford to
+take it easy, Doctor.
+
+784
+00:42:26,709 --> 00:42:29,166
+Tell me, where is
+Lieutenant Commander Data?
+
+785
+00:42:37,834 --> 00:42:39,041
+Data?
+
+786
+00:42:41,208 --> 00:42:42,458
+Data!
+
+787
+00:42:44,834 --> 00:42:46,125
+Data, can you hear me?
+
+788
+00:42:51,417 --> 00:42:52,333
+Geordi.
+
+789
+00:42:52,375 --> 00:42:54,375
+Yeah.
+
+790
+00:42:54,417 --> 00:42:56,792
+May I ask a question?
+
+791
+00:42:56,834 --> 00:42:59,333
+I think you just did.
+
+792
+00:42:59,375 --> 00:43:00,709
+Quite correct.
+
+793
+00:43:00,750 --> 00:43:03,333
+Then may I ask another question
+after this one?
+
+794
+00:43:03,375 --> 00:43:06,333
+You can ask me
+anything you want.
+
+795
+00:43:06,375 --> 00:43:07,500
+Why am I lying
+on the floor
+
+796
+00:43:07,542 --> 00:43:09,875
+in this
+undignified position
+
+797
+00:43:09,917 --> 00:43:11,875
+with the four of you
+standing over me
+
+798
+00:43:11,917 --> 00:43:13,583
+displaying expressions
+of conc...
+
+799
+00:43:13,625 --> 00:43:15,500
+I've heard more
+than enough.
+
+800
+00:43:15,542 --> 00:43:18,083
+You're you again.
+
+801
+00:43:18,125 --> 00:43:22,500
+KAREEN:
+Captain...
+Captain, look at this.
+
+802
+00:43:29,667 --> 00:43:31,917
+He's in there.
+
+803
+00:43:31,959 --> 00:43:35,417
+Ira put himself
+in the computer.
+
+804
+00:43:45,583 --> 00:43:47,000
+<i>Captain's Log, supplemental.</i>
+
+805
+00:43:47,041 --> 00:43:48,834
+<i>We've said good-bye</i>
+<i>to Kareen Brianon</i>
+
+806
+00:43:48,875 --> 00:43:50,208
+<i>with the hopeful feeling</i>
+
+807
+00:43:50,250 --> 00:43:52,041
+<i>that her future</i>
+<i>will be a bright one.</i>
+
+808
+00:43:52,083 --> 00:43:54,083
+<i>The intellect of Ira Graves</i>
+
+809
+00:43:54,125 --> 00:43:56,208
+<i>has been deposited</i>
+<i>into our computer.</i>
+
+810
+00:43:56,250 --> 00:43:58,959
+<i>There is knowledge,</i>
+<i>but no consciousness.</i>
+
+811
+00:43:59,000 --> 00:44:01,667
+<i>The human equation</i>
+<i>has been lost.</i>
+
+812
+00:44:01,709 --> 00:44:04,166
+And you don't
+remember anything?
+
+813
+00:44:04,208 --> 00:44:05,542
+Not a thing.
+
+814
+00:44:05,583 --> 00:44:10,417
+To know him is to love him
+is to know him?
+
+815
+00:44:10,458 --> 00:44:13,834
+Perhaps it is best
+that I do not remember.
+
+816
+00:44:13,875 --> 00:44:16,166
+I trust I did
+nothing unbecoming
+
+817
+00:44:16,208 --> 00:44:17,875
+to a Starfleet officer?
+
+818
+00:44:17,917 --> 00:44:20,750
+Does wrestling with
+a Klingon targ ring a bell?
+
+819
+00:44:20,792 --> 00:44:23,834
+Mr. Crusher, take us
+out of orbit.
+
+820
+00:44:23,875 --> 00:44:25,834
+Aye, sir.
+
+821
+00:44:25,875 --> 00:44:27,875
+Did I win?

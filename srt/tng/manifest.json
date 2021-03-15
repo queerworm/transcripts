@@ -1,0 +1,710 @@
+{
+  "title": "Star Trek: The Next Generation",
+  "netflix": "70158329",
+  "episodes": {
+    "101": {
+      "title": "Encounter at Farpoint",
+      "netflix": "70177863"
+    },
+    "103": {
+      "title": "The Naked Now",
+      "netflix": "70177865"
+    },
+    "104": {
+      "title": "Code of Honor",
+      "netflix": "70177866"
+    },
+    "105": {
+      "title": "The Last Outpost",
+      "netflix": "70177867"
+    },
+    "106": {
+      "title": "Where No One Has Gone Before",
+      "netflix": "70177868"
+    },
+    "107": {
+      "title": "Lonely Among Us",
+      "netflix": "70177869"
+    },
+    "108": {
+      "title": "Justice",
+      "netflix": "70177870"
+    },
+    "109": {
+      "title": "The Battle",
+      "netflix": "70177871"
+    },
+    "110": {
+      "title": "Hide and Q",
+      "netflix": "70177872"
+    },
+    "111": {
+      "title": "Haven",
+      "netflix": "70177873"
+    },
+    "112": {
+      "title": "The Big Goodbye",
+      "netflix": "70177874"
+    },
+    "113": {
+      "title": "Datalore",
+      "netflix": "70177875"
+    },
+    "114": {
+      "title": "Angel One",
+      "netflix": "70177876"
+    },
+    "115": {
+      "title": "11001001",
+      "netflix": "70177877"
+    },
+    "116": {
+      "title": "Too Short a Season",
+      "netflix": "70177878"
+    },
+    "117": {
+      "title": "When The Bough Breaks",
+      "netflix": "70177879"
+    },
+    "118": {
+      "title": "Home Soil",
+      "netflix": "70177880"
+    },
+    "119": {
+      "title": "Coming of Age",
+      "netflix": "70177881"
+    },
+    "120": {
+      "title": "Heart of Glory",
+      "netflix": "70177882"
+    },
+    "121": {
+      "title": "The Arsenal of Freedom",
+      "netflix": "70177883"
+    },
+    "122": {
+      "title": "Symbiosis",
+      "netflix": "70177884"
+    },
+    "123": {
+      "title": "Skin of Evil",
+      "netflix": "70177885"
+    },
+    "124": {
+      "title": "We'll Always Have Paris",
+      "netflix": "70177886"
+    },
+    "125": {
+      "title": "Conspiracy",
+      "netflix": "70177887"
+    },
+    "126": {
+      "title": "The Neutral Zone",
+      "netflix": "70177888"
+    },
+    "201": {
+      "title": "The Child",
+      "netflix": "70177889"
+    },
+    "202": {
+      "title": "Where Silence Has Lease",
+      "netflix": "70177890"
+    },
+    "203": {
+      "title": "Elementary, Dear Data",
+      "netflix": "70177891"
+    },
+    "204": {
+      "title": "The Outrageous Okona",
+      "netflix": "70177892"
+    },
+    "205": {
+      "title": "Loud As a Whisper",
+      "netflix": "70177893"
+    },
+    "206": {
+      "title": "The Schizoid Man",
+      "netflix": "70177894"
+    },
+    "207": {
+      "title": "Unnatural Selection",
+      "netflix": "70177895"
+    },
+    "208": {
+      "title": "A Matter of Honor",
+      "netflix": "70177896"
+    },
+    "209": {
+      "title": "The Measure of a Man",
+      "netflix": "70177897"
+    },
+    "210": {
+      "title": "The Dauphin",
+      "netflix": "70177898"
+    },
+    "211": {
+      "title": "Contagion",
+      "netflix": "70177899"
+    },
+    "212": {
+      "title": "The Royale",
+      "netflix": "70177900"
+    },
+    "213": {
+      "title": "Time Squared",
+      "netflix": "70177901"
+    },
+    "214": {
+      "title": "The Icarus Factor",
+      "netflix": "70177902"
+    },
+    "215": {
+      "title": "Pen Pals",
+      "netflix": "70177903"
+    },
+    "216": {
+      "title": "Q-Who?",
+      "netflix": "70177904"
+    },
+    "217": {
+      "title": "Samaritan Snare",
+      "netflix": "70177905"
+    },
+    "218": {
+      "title": "Up the Long Ladder",
+      "netflix": "70177906"
+    },
+    "219": {
+      "title": "Manhunt",
+      "netflix": "70177907"
+    },
+    "220": {
+      "title": "The Emissary",
+      "netflix": "70177908"
+    },
+    "221": {
+      "title": "Peak Performance",
+      "netflix": "70177909"
+    },
+    "222": {
+      "title": "Shades of Gray",
+      "netflix": "70177910"
+    },
+    "301": {
+      "title": "Evolution",
+      "netflix": "70177911"
+    },
+    "302": {
+      "title": "The Ensigns of Command",
+      "netflix": "70177912"
+    },
+    "303": {
+      "title": "The Survivors",
+      "netflix": "70177913"
+    },
+    "304": {
+      "title": "Who Watches the Watchers",
+      "netflix": "70177914"
+    },
+    "305": {
+      "title": "The Bonding",
+      "netflix": "70177915"
+    },
+    "306": {
+      "title": "Booby Trap",
+      "netflix": "70177916"
+    },
+    "307": {
+      "title": "The Enemy",
+      "netflix": "70177917"
+    },
+    "308": {
+      "title": "The Price",
+      "netflix": "70177918"
+    },
+    "309": {
+      "title": "The Vengeance Factor",
+      "netflix": "70177919"
+    },
+    "310": {
+      "title": "The Defector",
+      "netflix": "70177920"
+    },
+    "311": {
+      "title": "The Hunted",
+      "netflix": "70177921"
+    },
+    "312": {
+      "title": "The High Ground",
+      "netflix": "70177922"
+    },
+    "313": {
+      "title": "Deja Q",
+      "netflix": "70177923"
+    },
+    "314": {
+      "title": "A Matter of Perspective",
+      "netflix": "70177924"
+    },
+    "315": {
+      "title": "Yesterday's Enterprise",
+      "netflix": "70177925"
+    },
+    "316": {
+      "title": "The Offspring",
+      "netflix": "70177926"
+    },
+    "317": {
+      "title": "Sins of the Father",
+      "netflix": "70177927"
+    },
+    "318": {
+      "title": "Allegiance",
+      "netflix": "70177928"
+    },
+    "319": {
+      "title": "Captain's Holiday",
+      "netflix": "70177929"
+    },
+    "320": {
+      "title": "Tin Man",
+      "netflix": "70177930"
+    },
+    "321": {
+      "title": "Hollow Pursuits",
+      "netflix": "70177931"
+    },
+    "322": {
+      "title": "The Most Toys",
+      "netflix": "70177932"
+    },
+    "323": {
+      "title": "Sarek",
+      "netflix": "70177933"
+    },
+    "324": {
+      "title": "Menage a Troi",
+      "netflix": "70177934"
+    },
+    "325": {
+      "title": "Transfigurations",
+      "netflix": "70177935"
+    },
+    "326": {
+      "title": "The Best of Both Worlds: Part 1",
+      "netflix": "70177936"
+    },
+    "401": {
+      "title": "The Best of Both Worlds: Part 2",
+      "netflix": "70177937"
+    },
+    "402": {
+      "title": "Family",
+      "netflix": "70177938"
+    },
+    "403": {
+      "title": "Brothers",
+      "netflix": "70177939"
+    },
+    "404": {
+      "title": "Suddenly Human",
+      "netflix": "70177940"
+    },
+    "405": {
+      "title": "Remember Me",
+      "netflix": "70177941"
+    },
+    "406": {
+      "title": "Legacy",
+      "netflix": "70177942"
+    },
+    "407": {
+      "title": "Reunion",
+      "netflix": "70177943"
+    },
+    "408": {
+      "title": "Future Imperfect",
+      "netflix": "70177944"
+    },
+    "409": {
+      "title": "Final Mission",
+      "netflix": "70177945"
+    },
+    "410": {
+      "title": "The Loss",
+      "netflix": "70177946"
+    },
+    "411": {
+      "title": "Data's Day",
+      "netflix": "70177947"
+    },
+    "412": {
+      "title": "The Wounded",
+      "netflix": "70177948"
+    },
+    "413": {
+      "title": "Devil's Due",
+      "netflix": "70177949"
+    },
+    "414": {
+      "title": "Clues",
+      "netflix": "70177950"
+    },
+    "415": {
+      "title": "First Contact",
+      "netflix": "70177951"
+    },
+    "416": {
+      "title": "Galaxy's Child",
+      "netflix": "70177952"
+    },
+    "417": {
+      "title": "Night Terrors",
+      "netflix": "70177953"
+    },
+    "418": {
+      "title": "Identity Crisis",
+      "netflix": "70177954"
+    },
+    "419": {
+      "title": "The Nth Degree",
+      "netflix": "70177955"
+    },
+    "420": {
+      "title": "Qpid",
+      "netflix": "70177956"
+    },
+    "421": {
+      "title": "The Drumhead",
+      "netflix": "70177957"
+    },
+    "422": {
+      "title": "Half A Life",
+      "netflix": "70177958"
+    },
+    "423": {
+      "title": "The Host",
+      "netflix": "70177959"
+    },
+    "424": {
+      "title": "The Mind's Eye",
+      "netflix": "70177960"
+    },
+    "425": {
+      "title": "In Theory",
+      "netflix": "70177961"
+    },
+    "426": {
+      "title": "Redemption: Part 1",
+      "netflix": "70177962"
+    },
+    "501": {
+      "title": "Redemption: Part 2",
+      "netflix": "70177963"
+    },
+    "502": {
+      "title": "Darmok",
+      "netflix": "70177964"
+    },
+    "503": {
+      "title": "Ensign Ro",
+      "netflix": "70177965"
+    },
+    "504": {
+      "title": "Silicon Avatar",
+      "netflix": "70177966"
+    },
+    "505": {
+      "title": "Disaster",
+      "netflix": "70177967"
+    },
+    "506": {
+      "title": "The Game",
+      "netflix": "70177968"
+    },
+    "507": {
+      "title": "Unification: Part 1",
+      "netflix": "70177969"
+    },
+    "508": {
+      "title": "Unification: Part 2",
+      "netflix": "70177970"
+    },
+    "509": {
+      "title": "A Matter of Time",
+      "netflix": "70177971"
+    },
+    "510": {
+      "title": "New Ground",
+      "netflix": "70177972"
+    },
+    "511": {
+      "title": "Hero Worship",
+      "netflix": "70177973"
+    },
+    "512": {
+      "title": "Violations",
+      "netflix": "70177974"
+    },
+    "513": {
+      "title": "The Masterpiece Society",
+      "netflix": "70177975"
+    },
+    "514": {
+      "title": "Conundrum",
+      "netflix": "70177976"
+    },
+    "515": {
+      "title": "Power Play",
+      "netflix": "70177977"
+    },
+    "516": {
+      "title": "Ethics",
+      "netflix": "70177978"
+    },
+    "517": {
+      "title": "The Outcast",
+      "netflix": "70177979"
+    },
+    "518": {
+      "title": "Cause and Effect",
+      "netflix": "70177980"
+    },
+    "519": {
+      "title": "The First Duty",
+      "netflix": "70177981"
+    },
+    "520": {
+      "title": "Cost of Living",
+      "netflix": "70177982"
+    },
+    "521": {
+      "title": "The Perfect Mate",
+      "netflix": "70177983"
+    },
+    "522": {
+      "title": "Imaginary Friend",
+      "netflix": "70177984"
+    },
+    "523": {
+      "title": "I, Borg",
+      "netflix": "70177985"
+    },
+    "524": {
+      "title": "The Next Phase",
+      "netflix": "70177986"
+    },
+    "525": {
+      "title": "The Inner Light",
+      "netflix": "70177987"
+    },
+    "526": {
+      "title": "Time's Arrow: Part 1",
+      "netflix": "70177988"
+    },
+    "601": {
+      "title": "Time's Arrow: Part 2",
+      "netflix": "70177989"
+    },
+    "602": {
+      "title": "Realm of Fear",
+      "netflix": "70177990"
+    },
+    "603": {
+      "title": "Man of the People",
+      "netflix": "70177991"
+    },
+    "604": {
+      "title": "Relics",
+      "netflix": "70177992"
+    },
+    "605": {
+      "title": "Schisms",
+      "netflix": "70177993"
+    },
+    "606": {
+      "title": "True Q",
+      "netflix": "70177994"
+    },
+    "607": {
+      "title": "Rascals",
+      "netflix": "70177995"
+    },
+    "608": {
+      "title": "A Fistful of Datas",
+      "netflix": "70177996"
+    },
+    "609": {
+      "title": "The Quality of Life",
+      "netflix": "70177997"
+    },
+    "610": {
+      "title": "Chain of Command: Part 1",
+      "netflix": "70177998"
+    },
+    "611": {
+      "title": "Chain of Command: Part 2",
+      "netflix": "70177999"
+    },
+    "612": {
+      "title": "Ship in a Bottle",
+      "netflix": "70178000"
+    },
+    "613": {
+      "title": "Aquiel",
+      "netflix": "70178001"
+    },
+    "614": {
+      "title": "Face of the Enemy",
+      "netflix": "70178002"
+    },
+    "615": {
+      "title": "Tapestry",
+      "netflix": "70178003"
+    },
+    "616": {
+      "title": "Birthright: Part 1",
+      "netflix": "70178004"
+    },
+    "617": {
+      "title": "Birthright: Part 2",
+      "netflix": "70178005"
+    },
+    "618": {
+      "title": "Starship Mine",
+      "netflix": "70178006"
+    },
+    "619": {
+      "title": "Lessons",
+      "netflix": "70178007"
+    },
+    "620": {
+      "title": "The Chase",
+      "netflix": "70178008"
+    },
+    "621": {
+      "title": "Frame of Mind",
+      "netflix": "70178009"
+    },
+    "622": {
+      "title": "Suspicions",
+      "netflix": "70178010"
+    },
+    "623": {
+      "title": "Rightful Heir",
+      "netflix": "70178011"
+    },
+    "624": {
+      "title": "Second Chances",
+      "netflix": "70178012"
+    },
+    "625": {
+      "title": "Timescape",
+      "netflix": "70178013"
+    },
+    "626": {
+      "title": "Descent: Part 1",
+      "netflix": "70178014"
+    },
+    "701": {
+      "title": "Descent: Part 2",
+      "netflix": "70178015"
+    },
+    "702": {
+      "title": "Liaisons",
+      "netflix": "70178016"
+    },
+    "703": {
+      "title": "Interface",
+      "netflix": "70178017"
+    },
+    "704": {
+      "title": "Gambit: Part 1",
+      "netflix": "70178018"
+    },
+    "705": {
+      "title": "Gambit: Part 2",
+      "netflix": "70178019"
+    },
+    "706": {
+      "title": "Phantasms",
+      "netflix": "70178020"
+    },
+    "707": {
+      "title": "Dark Page",
+      "netflix": "70178021"
+    },
+    "708": {
+      "title": "Attached",
+      "netflix": "70178022"
+    },
+    "709": {
+      "title": "Force of Nature",
+      "netflix": "70178023"
+    },
+    "710": {
+      "title": "Inheritance",
+      "netflix": "70178024"
+    },
+    "711": {
+      "title": "Parallels",
+      "netflix": "70178025"
+    },
+    "712": {
+      "title": "The Pegasus",
+      "netflix": "70178026"
+    },
+    "713": {
+      "title": "Homeward",
+      "netflix": "70178027"
+    },
+    "714": {
+      "title": "Sub Rosa",
+      "netflix": "70178028"
+    },
+    "715": {
+      "title": "Lower Decks",
+      "netflix": "70178029"
+    },
+    "716": {
+      "title": "Thine Own Self",
+      "netflix": "70178030"
+    },
+    "717": {
+      "title": "Masks",
+      "netflix": "70178031"
+    },
+    "718": {
+      "title": "Eye of the Beholder",
+      "netflix": "70178032"
+    },
+    "719": {
+      "title": "Genesis",
+      "netflix": "70178033"
+    },
+    "720": {
+      "title": "Journey's End",
+      "netflix": "70178034"
+    },
+    "721": {
+      "title": "First Born",
+      "netflix": "70178035"
+    },
+    "722": {
+      "title": "Bloodlines",
+      "netflix": "70178036"
+    },
+    "723": {
+      "title": "Emergence",
+      "netflix": "70178037"
+    },
+    "724": {
+      "title": "Preemptive Strike",
+      "netflix": "70178038"
+    },
+    "725": {
+      "title": "All Good Things...",
+      "netflix": "70178039"
+    }
+  }
+}

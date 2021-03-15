@@ -1,0 +1,3195 @@
+1
+00:00:02,709 --> 00:00:06,208
+<i>Captain's Log,</i>
+<i>Stardate 44246.3.</i>
+
+2
+00:00:06,250 --> 00:00:08,250
+<i>We're investigating</i>
+<i>radiation anomalies</i>
+
+3
+00:00:08,291 --> 00:00:10,458
+<i>reported in the</i>
+<i>Gamma Arigulon system</i>
+
+4
+00:00:10,500 --> 00:00:12,208
+<i>by the starship</i> Lasalle.
+
+5
+00:00:12,250 --> 00:00:14,917
+<i>Preliminary readings</i>
+<i>are inconclusive.</i>
+
+6
+00:00:14,959 --> 00:00:16,667
+Mr. Data?
+
+7
+00:00:16,709 --> 00:00:18,083
+DATA:
+No changes, Commander.
+
+8
+00:00:18,125 --> 00:00:19,792
+I can detect
+no abnormalities
+
+9
+00:00:19,834 --> 00:00:21,500
+in the star's
+radiant energy.
+
+10
+00:00:21,542 --> 00:00:24,041
+Prepare two
+class-1 probes.
+
+11
+00:00:25,083 --> 00:00:26,542
+Probes ready, Captain.
+
+12
+00:00:26,583 --> 00:00:28,000
+Initiate
+launch sequence.
+
+13
+00:00:28,041 --> 00:00:29,750
+(<i> tactical console beeping</i> )
+
+14
+00:00:29,792 --> 00:00:33,083
+Captain, Klingon attack cruiser
+decloaking,
+
+15
+00:00:33,125 --> 00:00:35,583
+bearing 010, mark 237.
+
+16
+00:00:35,625 --> 00:00:37,208
+PICARD:
+Belay that order, Mr. Data.
+
+17
+00:00:37,250 --> 00:00:41,041
+Did Starfleet mention any
+Klingon ships in this sector?
+
+18
+00:00:41,083 --> 00:00:42,875
+On screen.
+
+19
+00:00:45,417 --> 00:00:46,917
+WORF:
+We are being hailed.
+
+20
+00:00:46,959 --> 00:00:48,333
+RIKER:
+All stop, Mr. Crusher.
+
+21
+00:00:48,375 --> 00:00:50,250
+Aye, sir.
+All stop.
+
+22
+00:00:50,291 --> 00:00:52,667
+Open a channel.
+
+23
+00:00:54,166 --> 00:00:55,792
+Hello, Captain Picard.
+
+24
+00:00:55,834 --> 00:00:58,750
+Ambassador K'Ehleyr.
+
+25
+00:00:58,792 --> 00:01:00,834
+This is an unexpected
+pleasure.
+
+26
+00:01:00,875 --> 00:01:03,959
+It's good to see
+you again, Captain.
+
+27
+00:01:04,000 --> 00:01:06,291
+Lieutenant Worf.
+
+28
+00:01:06,333 --> 00:01:08,417
+PICARD:
+How may we be of
+assistance, Ambassador?
+
+29
+00:01:08,458 --> 00:01:11,000
+There is an urgent matter
+we must discuss, Captain.
+
+30
+00:01:11,041 --> 00:01:12,333
+Permission to come aboard?
+
+31
+00:01:12,375 --> 00:01:13,917
+PICARD:
+Granted.
+
+32
+00:01:15,291 --> 00:01:17,709
+Lieutenant,
+please receive our guest.
+
+33
+00:01:19,750 --> 00:01:22,125
+Captain.
+
+34
+00:01:22,166 --> 00:01:26,291
+I must request permission
+to send another officer.
+
+35
+00:01:26,333 --> 00:01:29,000
+May I know your reason?
+
+36
+00:01:29,041 --> 00:01:33,875
+My dishonor among Klingons may
+offend Ambassador K'Ehleyr.
+
+37
+00:01:36,125 --> 00:01:38,500
+Lieutenant, you are
+a member of this crew,
+
+38
+00:01:38,542 --> 00:01:40,041
+and you will not
+go into hiding
+
+39
+00:01:40,083 --> 00:01:43,709
+whenever a Klingon
+vessel uncloaks.
+
+40
+00:01:43,750 --> 00:01:46,125
+I withdraw
+my request, sir.
+
+41
+00:01:51,875 --> 00:01:53,333
+I just received
+coordinates, sir.
+
+42
+00:01:53,375 --> 00:01:57,166
+Ready to transport two
+from the Klingon vessel.
+
+43
+00:01:57,208 --> 00:01:58,291
+Two?
+
+44
+00:01:58,333 --> 00:02:00,291
+Yes, sir.
+
+45
+00:02:00,333 --> 00:02:02,500
+Energize.
+
+46
+00:02:04,542 --> 00:02:07,458
+(<i> transporter activates</i> )
+
+47
+00:02:46,875 --> 00:02:51,083
+<i>Space, the final frontier.</i>
+
+48
+00:02:51,125 --> 00:02:55,208
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+49
+00:02:55,250 --> 00:02:57,041
+<i>Its continuing mission--</i>
+
+50
+00:02:57,083 --> 00:03:00,750
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+51
+00:03:00,792 --> 00:03:05,208
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+52
+00:03:05,250 --> 00:03:09,750
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+53
+00:04:09,417 --> 00:04:11,750
+(<i> children talking</i> )
+
+54
+00:04:22,291 --> 00:04:23,709
+I hope he'll be
+all right.
+
+55
+00:04:23,750 --> 00:04:25,583
+Alexander hasn't
+had much contact
+
+56
+00:04:25,625 --> 00:04:27,667
+with other children.
+
+57
+00:04:42,542 --> 00:04:46,000
+Not even a bite on the cheek
+for old time's sake?
+
+58
+00:04:48,250 --> 00:04:51,417
+Perhaps you are not
+aware of my dishonor.
+
+59
+00:04:51,458 --> 00:04:54,792
+I have accepted...
+discommendation.
+
+60
+00:04:54,834 --> 00:04:57,041
+I've heard.
+So, now what?
+
+61
+00:04:57,083 --> 00:04:58,959
+I have to perform some
+ridiculous ritual
+
+62
+00:04:59,000 --> 00:05:00,750
+to talk to you?
+
+63
+00:05:02,417 --> 00:05:06,125
+You may not respect
+our traditions...
+
+64
+00:05:06,166 --> 00:05:08,291
+but I do.
+
+65
+00:05:08,333 --> 00:05:09,792
+Sorry.
+
+66
+00:05:09,834 --> 00:05:12,959
+I just thought you
+might wanna talk.
+
+67
+00:05:13,041 --> 00:05:14,834
+A few minutes ago,
+you looked like someone
+
+68
+00:05:14,875 --> 00:05:17,041
+with a question to ask.
+
+69
+00:05:19,291 --> 00:05:21,917
+Must I ask the question?
+
+70
+00:05:24,583 --> 00:05:27,625
+Yes. You must.
+
+71
+00:05:33,291 --> 00:05:34,917
+What should
+I tell Alexander?
+
+72
+00:05:34,959 --> 00:05:37,291
+That he has no father?
+
+73
+00:05:44,500 --> 00:05:47,166
+The Klingon Empire
+is at a critical juncture.
+
+74
+00:05:47,208 --> 00:05:49,250
+We may be facing civil war.
+
+75
+00:05:49,291 --> 00:05:50,667
+War over what?
+
+76
+00:05:50,709 --> 00:05:52,333
+K'EHLEYR:
+The usual excuses--
+
+77
+00:05:52,375 --> 00:05:56,792
+tradition, duty... honor.
+
+78
+00:05:56,834 --> 00:05:58,417
+DATA: The word
+"excuses" implies
+
+79
+00:05:58,458 --> 00:06:00,500
+ulterior motives
+for a conflict.
+
+80
+00:06:00,542 --> 00:06:02,500
+I won't bore you
+with the intricacies
+
+81
+00:06:02,542 --> 00:06:04,250
+of Klingon politics.
+
+82
+00:06:04,291 --> 00:06:07,667
+Basically, two factions
+are trying to seize power.
+
+83
+00:06:07,709 --> 00:06:09,000
+Do you believe
+there is a threat
+
+84
+00:06:09,041 --> 00:06:10,583
+to the Federation
+in this struggle?
+
+85
+00:06:10,625 --> 00:06:14,041
+Klingon wars seldom remain
+confined to the empire.
+
+86
+00:06:14,083 --> 00:06:16,959
+Sooner or later, they'll drag in
+the neighboring star systems,
+
+87
+00:06:17,000 --> 00:06:18,959
+then the Tholians, the Ferengi.
+
+88
+00:06:19,000 --> 00:06:22,083
+The Federation won't be able
+to stay out of it for long.
+
+89
+00:06:22,125 --> 00:06:24,500
+This has been coming
+for some time.
+
+90
+00:06:24,542 --> 00:06:25,959
+Only K'mpec,
+the head of the council,
+
+91
+00:06:26,000 --> 00:06:27,959
+has been able to maintain
+the peace.
+
+92
+00:06:28,000 --> 00:06:30,375
+Now, something
+has changed that.
+
+93
+00:06:30,417 --> 00:06:32,166
+Correct.
+
+94
+00:06:32,208 --> 00:06:34,500
+K'mpec is dying.
+
+95
+00:06:34,542 --> 00:06:36,500
+He is aboard
+the cruiser.
+
+96
+00:06:36,542 --> 00:06:41,959
+He has come specifically to
+meet with you, Captain... alone.
+
+97
+00:06:56,208 --> 00:07:00,625
+K'MPEC: It's about time
+you arrived, Picard.
+
+98
+00:07:00,667 --> 00:07:02,542
+Sit.
+
+99
+00:07:20,583 --> 00:07:22,291
+(<i> breathing heavily</i> )
+
+100
+00:07:22,333 --> 00:07:23,792
+(<i> grunts</i> )
+
+101
+00:07:27,792 --> 00:07:29,375
+I need your help.
+
+102
+00:07:29,417 --> 00:07:31,625
+If the<i> Enterprise</i>
+medical facility
+
+103
+00:07:31,667 --> 00:07:32,917
+can do anything to help--
+
+104
+00:07:32,959 --> 00:07:34,959
+Too late.
+
+105
+00:07:35,000 --> 00:07:39,000
+For some months,
+I have been poisoned
+
+106
+00:07:39,041 --> 00:07:43,542
+with small doses
+of Veridium Six.
+
+107
+00:07:43,583 --> 00:07:46,125
+The wine.
+
+108
+00:07:48,583 --> 00:07:50,208
+There is no cure.
+
+109
+00:07:50,250 --> 00:07:52,208
+(<i> chuckles</i> )
+
+110
+00:07:54,083 --> 00:07:56,625
+What do you want of me?
+
+111
+00:07:56,667 --> 00:08:00,917
+After I die, you will
+act in my name
+
+112
+00:08:00,959 --> 00:08:03,625
+to arbitrate the
+struggle for power.
+
+113
+00:08:05,125 --> 00:08:06,375
+<i>I</i> will?
+
+114
+00:08:06,417 --> 00:08:09,291
+No one on the council
+can be trusted
+
+115
+00:08:09,333 --> 00:08:13,792
+and... I have my reasons
+
+116
+00:08:13,834 --> 00:08:17,166
+for wanting
+an outsider.
+
+117
+00:08:17,208 --> 00:08:21,417
+K'mpec, you cannot
+possibly be serious.
+
+118
+00:08:21,458 --> 00:08:24,125
+A Federation officer
+has no business--
+
+119
+00:08:24,166 --> 00:08:27,458
+Nonsense.
+
+120
+00:08:27,500 --> 00:08:30,917
+You are an
+accomplished mediator.
+
+121
+00:08:30,959 --> 00:08:35,083
+This is no different
+than any other dispute
+
+122
+00:08:35,125 --> 00:08:37,333
+requiring your
+services.
+
+123
+00:08:37,375 --> 00:08:41,166
+On the contrary, I think
+this is very different.
+
+124
+00:08:41,208 --> 00:08:44,542
+And I must
+respectfully decline.
+
+125
+00:08:44,583 --> 00:08:49,041
+If you refuse the
+dying request
+
+126
+00:08:49,083 --> 00:08:52,542
+of the Klingon
+Supreme Commander,
+
+127
+00:08:52,583 --> 00:08:54,375
+it will be an insult
+
+128
+00:08:54,417 --> 00:08:57,375
+by the Federation
+to all Klingons.
+
+129
+00:08:57,417 --> 00:09:01,834
+Besides, I've already
+sent the order.
+
+130
+00:09:01,875 --> 00:09:03,834
+The leaders of
+the opposing
+
+131
+00:09:03,875 --> 00:09:05,709
+two factions
+are on their way.
+
+132
+00:09:05,750 --> 00:09:08,917
+You had no right to involve
+me without my permission.
+
+133
+00:09:08,959 --> 00:09:14,500
+If I'd asked,
+you would have said no.
+
+134
+00:09:18,667 --> 00:09:24,291
+This is not just a case
+of simple mediation.
+
+135
+00:09:24,333 --> 00:09:28,208
+You are asking me
+to choose the next leader
+
+136
+00:09:28,250 --> 00:09:30,291
+of the Klingon Empire.
+
+137
+00:09:30,333 --> 00:09:32,542
+No.
+
+138
+00:09:32,583 --> 00:09:38,041
+By tradition,
+the two strongest challengers
+
+139
+00:09:38,083 --> 00:09:41,709
+fight for the right
+of succession.
+
+140
+00:09:41,750 --> 00:09:45,417
+As mediator, only you
+
+141
+00:09:45,458 --> 00:09:48,333
+can designate
+those challengers.
+
+142
+00:09:48,375 --> 00:09:52,250
+But you have just said there are
+only two challengers arriving.
+
+143
+00:09:52,291 --> 00:09:54,291
+What is the point?
+
+144
+00:09:54,333 --> 00:09:57,458
+I want you
+to discover
+
+145
+00:09:57,500 --> 00:10:01,625
+which one of them
+has killed me--
+
+146
+00:10:01,667 --> 00:10:05,458
+Gowron or Duras.
+
+147
+00:10:06,583 --> 00:10:09,333
+Yes, Duras.
+
+148
+00:10:09,375 --> 00:10:14,250
+I thought you would
+find that interesting.
+
+149
+00:10:15,667 --> 00:10:18,041
+Interesting.
+
+150
+00:10:23,375 --> 00:10:28,166
+You could say that,
+since he tried to have me killed
+
+151
+00:10:28,208 --> 00:10:31,250
+and conspired to strip Worf
+of his good name.
+
+152
+00:10:31,291 --> 00:10:36,583
+And... I approved.
+
+153
+00:10:38,000 --> 00:10:42,125
+All for the glory
+of the empire.
+
+154
+00:10:42,166 --> 00:10:43,417
+(<i> chuckles</i> )
+
+155
+00:10:43,458 --> 00:10:47,542
+That should be
+my epitaph.
+
+156
+00:10:50,333 --> 00:10:54,375
+Find the assassin.
+
+157
+00:10:54,417 --> 00:10:59,875
+A Klingon who kills without
+showing his face has no honor.
+
+158
+00:10:59,917 --> 00:11:02,834
+He must not lead the empire.
+
+159
+00:11:02,875 --> 00:11:07,834
+Such a man would be
+capable of anything.
+
+160
+00:11:09,208 --> 00:11:13,208
+Even war with
+the Federation.
+
+161
+00:11:17,291 --> 00:11:19,917
+Very well.
+
+162
+00:11:19,959 --> 00:11:22,458
+I accept.
+
+163
+00:11:35,875 --> 00:11:37,709
+<i>Captain's Log, supplemental.</i>
+
+164
+00:11:37,750 --> 00:11:40,000
+<i>K'mpec, who ruled</i>
+<i>the Klingon Empire</i>
+
+165
+00:11:40,041 --> 00:11:42,500
+<i>longer than anyone in history,</i>
+<i>is dead.</i>
+
+166
+00:11:42,542 --> 00:11:44,625
+<i>We await the arrival</i>
+<i>of Duras and Gowron,</i>
+
+167
+00:11:44,667 --> 00:11:47,458
+<i>rivals for the leadership</i>
+<i>of the High Council.</i>
+
+168
+00:11:49,125 --> 00:11:50,375
+GIRL:
+Put it on there.
+
+169
+00:11:50,417 --> 00:11:52,583
+(<i> growling</i> )
+
+170
+00:11:55,542 --> 00:11:57,250
+GIRL: What did you
+do that for?
+
+171
+00:11:57,291 --> 00:11:59,041
+GIRL 2: I know, now,
+we have to start all over.
+
+172
+00:11:59,083 --> 00:12:01,667
+BOY:
+Aw, man.
+
+173
+00:12:01,709 --> 00:12:04,291
+There is no honor in
+attacking the weak.
+
+174
+00:12:04,333 --> 00:12:06,583
+I would have won.
+
+175
+00:12:06,625 --> 00:12:09,917
+No, you must
+earn victory.
+
+176
+00:12:15,458 --> 00:12:17,083
+Where are the
+other Klingons?
+
+177
+00:12:17,125 --> 00:12:19,083
+There are no others
+on board.
+
+178
+00:12:19,125 --> 00:12:20,458
+Why?
+
+179
+00:12:20,500 --> 00:12:22,041
+The Federation and
+the Klingon Empire
+
+180
+00:12:22,083 --> 00:12:23,709
+were enemies
+for many years.
+
+181
+00:12:23,750 --> 00:12:25,250
+No other Klingons
+have asked
+
+182
+00:12:25,291 --> 00:12:26,834
+to serve in Starfleet.
+
+183
+00:12:26,875 --> 00:12:28,125
+Why?
+
+184
+00:12:28,166 --> 00:12:31,000
+A warrior does not ask
+so many questions.
+
+185
+00:12:31,041 --> 00:12:33,750
+I don't want to
+be a warrior.
+
+186
+00:12:40,583 --> 00:12:43,250
+Hello!
+(<i> grunts</i> )
+
+187
+00:12:43,291 --> 00:12:45,250
+Well, you're back early.
+
+188
+00:12:45,291 --> 00:12:47,542
+<i>He</i> made me leave.
+
+189
+00:12:47,583 --> 00:12:51,375
+Maybe you should go
+to your room and play.
+
+190
+00:12:55,125 --> 00:12:57,125
+Is he under arrest?
+
+191
+00:12:58,709 --> 00:13:01,000
+He knows nothing
+of our ways.
+
+192
+00:13:01,041 --> 00:13:02,792
+<i>Our</i> ways?
+
+193
+00:13:02,834 --> 00:13:04,583
+You mean Klingon ways,
+don't you?
+
+194
+00:13:04,625 --> 00:13:05,917
+He is Klingon!
+
+195
+00:13:05,959 --> 00:13:09,166
+He is also my son,
+and I am half human.
+
+196
+00:13:09,208 --> 00:13:11,750
+He will find
+his own ways.
+
+197
+00:13:11,792 --> 00:13:13,500
+Why the sudden concern?
+
+198
+00:13:13,542 --> 00:13:16,250
+You won't even acknowledge
+that he's yours.
+
+199
+00:13:16,291 --> 00:13:17,709
+Why did you
+not tell me?
+
+200
+00:13:17,750 --> 00:13:19,959
+And what would
+you have done?
+
+201
+00:13:21,333 --> 00:13:22,667
+That's right.
+
+202
+00:13:22,709 --> 00:13:25,041
+You would have insisted
+that we take the oath,
+
+203
+00:13:25,083 --> 00:13:27,959
+just as tradition
+would demand.
+
+204
+00:13:29,208 --> 00:13:32,083
+You should not have
+kept<i> this</i> from me.
+
+205
+00:13:33,291 --> 00:13:37,542
+Well... now, you know.
+
+206
+00:13:43,417 --> 00:13:46,542
+I cannot acknowledge my
+relationship to the boy.
+
+207
+00:13:46,583 --> 00:13:47,667
+(<i> scoffs</i> )
+
+208
+00:13:47,709 --> 00:13:49,083
+It would only harm him.
+
+209
+00:13:49,125 --> 00:13:50,917
+Because you were
+dishonored?
+
+210
+00:13:50,959 --> 00:13:54,208
+As my son,
+he would also bear my disgrace.
+
+211
+00:13:54,250 --> 00:13:56,458
+As would
+his children.
+
+212
+00:13:56,500 --> 00:13:59,125
+But why did you accept
+discommendation
+
+213
+00:13:59,166 --> 00:14:01,291
+from the High Council?
+
+214
+00:14:01,333 --> 00:14:03,000
+My father was accused
+
+215
+00:14:03,041 --> 00:14:05,250
+of collaborating
+with the Romulans at Khitomer.
+
+216
+00:14:05,291 --> 00:14:08,959
+I know, and I also know
+that you challenged it.
+
+217
+00:14:09,000 --> 00:14:10,875
+Yes, at first.
+
+218
+00:14:10,917 --> 00:14:12,500
+Ultimately, I withdrew
+my challenge.
+
+219
+00:14:12,542 --> 00:14:13,709
+But why, Worf?
+
+220
+00:14:13,750 --> 00:14:15,709
+I can't believe
+you'd just give up.
+
+221
+00:14:15,750 --> 00:14:17,583
+What<i> really</i> happened?
+
+222
+00:14:17,625 --> 00:14:19,583
+RIKER: Lieutenant Worf,
+Ambassador K'Ehleyr,
+
+223
+00:14:19,625 --> 00:14:21,208
+report to the bridge.
+
+224
+00:14:21,250 --> 00:14:23,417
+On our way,
+Commander.
+
+225
+00:14:36,792 --> 00:14:38,834
+Klingon vessels
+<i>Vorn</i> and<i> Buruk</i>
+
+226
+00:14:38,875 --> 00:14:41,375
+holding stations at
+13 kilometers, sir.
+
+227
+00:14:41,417 --> 00:14:43,291
+Open a channel,
+Mr. Data.
+
+228
+00:14:43,333 --> 00:14:44,500
+Channel is open, sir.
+
+229
+00:14:44,542 --> 00:14:47,208
+<i>Vorn</i> responding
+to hail.
+
+230
+00:14:47,250 --> 00:14:48,583
+On screen.
+
+231
+00:14:50,125 --> 00:14:52,166
+Let's get this
+over with, Picard.
+
+232
+00:14:54,166 --> 00:14:56,458
+In good time, Duras.
+
+233
+00:14:56,500 --> 00:14:59,834
+Even in death,
+K'mpec makes foolish decisions.
+
+234
+00:14:59,875 --> 00:15:02,083
+You should not be
+involved in this, human.
+
+235
+00:15:02,125 --> 00:15:04,959
+The<i> Sonchi</i> ceremony
+will take place
+
+236
+00:15:05,000 --> 00:15:06,917
+in one hour
+aboard K'mpec's vessel.
+
+237
+00:15:06,959 --> 00:15:09,291
+One hour!
+What is the delay?
+
+238
+00:15:09,333 --> 00:15:10,959
+There is no delay.
+
+239
+00:15:11,000 --> 00:15:13,458
+It is the time
+I have chosen.
+
+240
+00:15:14,542 --> 00:15:17,000
+Exactly one hour, Picard.
+
+241
+00:15:17,041 --> 00:15:19,834
+Do not be late.
+
+242
+00:15:19,875 --> 00:15:23,125
+Keep that<i> petaQ</i>
+away from the ceremony, Picard!
+
+243
+00:15:23,166 --> 00:15:25,583
+He has no place
+on a Klingon ship.
+
+244
+00:15:25,625 --> 00:15:26,959
+Picard out.
+
+245
+00:15:28,125 --> 00:15:30,709
+(<i> sighs</i> )
+Contact Gowron's ship.
+
+246
+00:15:30,750 --> 00:15:33,208
+Tell him to meet us
+aboard K'mpec's vessel.
+
+247
+00:15:33,250 --> 00:15:35,291
+Ambassador, meet me
+
+248
+00:15:35,333 --> 00:15:37,542
+in Transporter Room Six
+in one hour.
+
+249
+00:15:37,583 --> 00:15:39,792
+We will begin the ceremony
+a little late.
+
+250
+00:15:39,834 --> 00:15:41,166
+Mr. Worf.
+
+251
+00:15:49,041 --> 00:15:51,166
+Mr. Worf,
+the next few days
+
+252
+00:15:51,208 --> 00:15:53,291
+will be difficult
+for you.
+
+253
+00:15:53,333 --> 00:15:55,166
+You have made it clear
+that I am to perform
+
+254
+00:15:55,208 --> 00:15:57,208
+my regular duties, sir.
+
+255
+00:15:57,250 --> 00:15:59,375
+I want you to know
+that I am aware
+
+256
+00:15:59,417 --> 00:16:02,375
+of your discomfort.
+
+257
+00:16:02,417 --> 00:16:04,166
+Thank you, sir.
+
+258
+00:16:05,500 --> 00:16:07,667
+Ambassador K'Ehleyr
+will be preparing me
+
+259
+00:16:07,709 --> 00:16:10,166
+for my role in the
+Rite of Succession.
+
+260
+00:16:10,208 --> 00:16:12,166
+Permission to
+speak freely, sir.
+
+261
+00:16:13,375 --> 00:16:15,333
+Granted.
+
+262
+00:16:15,375 --> 00:16:19,041
+Duras must not be allowed
+to lead the council.
+
+263
+00:16:20,041 --> 00:16:22,583
+He has a legal claim, Mr. Worf.
+
+264
+00:16:22,625 --> 00:16:24,542
+Your personal feelings
+towards him--
+
+265
+00:16:24,583 --> 00:16:26,333
+It is not personal, sir.
+
+266
+00:16:26,375 --> 00:16:29,000
+His father betrayed my people
+to the Romulans.
+
+267
+00:16:29,041 --> 00:16:30,625
+Duras is a traitor.
+
+268
+00:16:33,041 --> 00:16:35,083
+Klingon tradition
+may hold the son
+
+269
+00:16:35,125 --> 00:16:37,083
+responsible
+for his father's sin.
+
+270
+00:16:37,125 --> 00:16:38,500
+I cannot.
+
+271
+00:16:38,542 --> 00:16:41,041
+Treason was his
+father's crime.
+
+272
+00:16:41,083 --> 00:16:42,291
+Duras' crime
+
+273
+00:16:42,333 --> 00:16:46,083
+was to lay that blame
+on<i> your</i> father.
+
+274
+00:16:46,125 --> 00:16:47,834
+I will not forget that.
+
+275
+00:16:47,875 --> 00:16:51,375
+But you should not forget
+that you chose to accept
+
+276
+00:16:51,417 --> 00:16:53,709
+the consequences
+of that lie.
+
+277
+00:16:53,750 --> 00:16:57,166
+To preserve the empire.
+
+278
+00:16:59,417 --> 00:17:05,041
+The issue now is whether
+or not he killed K'mpec.
+
+279
+00:17:05,083 --> 00:17:07,000
+Sir?
+
+280
+00:17:07,041 --> 00:17:09,000
+He was murdered.
+
+281
+00:17:09,041 --> 00:17:10,667
+Poisoned.
+
+282
+00:17:20,250 --> 00:17:23,875
+A Klingon
+would not use poison.
+
+283
+00:17:26,166 --> 00:17:28,000
+His murder would
+have no honor.
+
+284
+00:17:28,041 --> 00:17:32,208
+K'mpec believed that it was
+either Duras or Gowron.
+
+285
+00:17:34,917 --> 00:17:38,250
+Well, I know little of Gowron,
+only that he is an outsider
+
+286
+00:17:38,291 --> 00:17:40,208
+who has often
+challenged the council.
+
+287
+00:17:40,250 --> 00:17:45,291
+But Duras... I know him.
+
+288
+00:17:49,709 --> 00:17:52,917
+His heart is not Klingon.
+
+289
+00:18:06,083 --> 00:18:08,125
+That's Gowron.
+
+290
+00:18:10,750 --> 00:18:13,375
+I hope this will be brief.
+
+291
+00:18:13,417 --> 00:18:15,208
+It will be just
+long enough to prove
+
+292
+00:18:15,250 --> 00:18:17,709
+that K'mpec is dead.
+
+293
+00:18:33,792 --> 00:18:35,875
+<i>Qab jIH nagil.</i>
+
+294
+00:18:44,959 --> 00:18:47,709
+<i>Qab jIH nagil.</i>
+
+295
+00:19:00,583 --> 00:19:04,583
+<i>Qab jIH... nagil.</i>
+
+296
+00:19:15,166 --> 00:19:17,250
+<i>Sonchi.</i>
+
+297
+00:19:22,250 --> 00:19:26,083
+Now, complete the
+Rite of Succession.
+
+298
+00:19:26,125 --> 00:19:28,000
+It's obvious who the
+two challengers are.
+
+299
+00:19:28,041 --> 00:19:31,375
+We will proceed according to the
+traditions and the precedents
+
+300
+00:19:31,417 --> 00:19:33,333
+set down in
+Klingon law.
+
+301
+00:19:33,375 --> 00:19:38,375
+What do you know
+of Klingon law...
+
+302
+00:19:38,417 --> 00:19:39,792
+human?
+
+303
+00:19:39,834 --> 00:19:41,792
+We will reconvene on
+board the<i> Enterprise--</i>
+
+304
+00:19:41,834 --> 00:19:45,125
+No! Finish it here!
+Now!
+
+305
+00:19:45,166 --> 00:19:47,750
+(<i> explosion</i> )
+
+306
+00:19:57,000 --> 00:19:58,917
+(<i> door opens</i> )
+
+307
+00:20:03,417 --> 00:20:07,375
+I have not received your report
+on the explosion.
+
+308
+00:20:07,417 --> 00:20:11,917
+Two Klingons killed,
+a few minor injuries.
+
+309
+00:20:11,959 --> 00:20:14,500
+Were you concerned
+about me?
+
+310
+00:20:14,542 --> 00:20:18,667
+As head of security, it is
+my duty to be concerned.
+
+311
+00:20:18,709 --> 00:20:22,750
+Is that it-- just official
+concern for my well-being?
+
+312
+00:20:24,083 --> 00:20:25,875
+You know my feelings.
+
+313
+00:20:27,583 --> 00:20:29,834
+Maybe I've forgotten.
+
+314
+00:20:32,709 --> 00:20:34,792
+You were right.
+
+315
+00:20:34,834 --> 00:20:37,959
+I would have insisted
+we take the oath.
+
+316
+00:20:39,333 --> 00:20:42,959
+But not just because
+of tradition.
+
+317
+00:20:43,000 --> 00:20:44,875
+I thought about
+telling you.
+
+318
+00:20:44,917 --> 00:20:47,834
+Wanted to tell you.
+
+319
+00:20:47,875 --> 00:20:51,375
+But I wasn't ready.
+
+320
+00:20:51,417 --> 00:20:54,083
+When I left,
+you said
+
+321
+00:20:54,125 --> 00:20:56,875
+that you'd never be
+complete without me.
+
+322
+00:20:56,917 --> 00:20:58,917
+It took some time, but...
+
+323
+00:20:58,959 --> 00:21:04,333
+I came to realize that...
+I need you, too.
+
+324
+00:21:07,667 --> 00:21:10,333
+You're a part of me, Worf.
+
+325
+00:21:23,667 --> 00:21:25,667
+<i>jIH dok.</i>
+
+326
+00:21:28,208 --> 00:21:29,917
+<i>Maj dok.</i>
+
+327
+00:21:41,000 --> 00:21:42,333
+No.
+
+328
+00:21:42,375 --> 00:21:44,834
+I can't allow you to
+suffer my humiliation.
+
+329
+00:21:44,875 --> 00:21:46,375
+There would be
+no suffering.
+
+330
+00:21:46,417 --> 00:21:48,625
+I don't care what other
+Klingons think of you.
+
+331
+00:21:48,667 --> 00:21:50,583
+But what of the boy?
+
+332
+00:21:50,625 --> 00:21:54,583
+He may want to live
+in the empire someday.
+
+333
+00:21:54,625 --> 00:21:56,500
+He would be an outcast--
+
+334
+00:21:56,542 --> 00:21:58,625
+another traitor from
+a family of traitors.
+
+335
+00:21:58,667 --> 00:21:59,917
+"Family of traitors."
+
+336
+00:21:59,959 --> 00:22:02,750
+I don't believe
+that for a minute.
+
+337
+00:22:07,208 --> 00:22:10,542
+Respect my wishes
+in this matter.
+
+338
+00:22:10,583 --> 00:22:14,208
+I cannot take
+the oath with you.
+
+339
+00:22:16,792 --> 00:22:19,542
+Nor can I claim
+your son.
+
+340
+00:22:24,667 --> 00:22:29,000
+If you cannot be
+his father...
+
+341
+00:22:29,041 --> 00:22:31,291
+at least be his friend.
+
+342
+00:22:40,208 --> 00:22:42,667
+We haven't completed our
+analysis of the bomb debris.
+
+343
+00:22:42,709 --> 00:22:44,250
+Dr. Crusher is still
+studying the remains
+
+344
+00:22:44,291 --> 00:22:45,792
+of the men killed
+in the explosion.
+
+345
+00:22:45,834 --> 00:22:47,291
+We need more time.
+
+346
+00:22:47,333 --> 00:22:49,333
+Duras and Gowron will be
+here in a few minutes.
+
+347
+00:22:49,375 --> 00:22:51,583
+I don't think you can
+delay this meeting again.
+
+348
+00:22:51,625 --> 00:22:53,542
+Is there any way
+of stretching out
+
+349
+00:22:53,583 --> 00:22:55,709
+the formalities
+once they arrive?
+
+350
+00:22:55,750 --> 00:22:57,667
+In the modern
+Rite of Succession,
+
+351
+00:22:57,709 --> 00:22:59,792
+only a brief proclamation
+that two challengers
+
+352
+00:22:59,834 --> 00:23:02,166
+have been chosen
+is necessary.
+
+353
+00:23:02,208 --> 00:23:03,667
+You said "modern rite."
+
+354
+00:23:03,709 --> 00:23:05,709
+How was the ritual
+performed in the past?
+
+355
+00:23:05,750 --> 00:23:07,458
+The old forms dictated
+
+356
+00:23:07,500 --> 00:23:09,834
+that the challengers
+perform the<i> ja'chuq.</i>
+
+357
+00:23:09,875 --> 00:23:11,792
+It's a long,
+involved ceremony
+
+358
+00:23:11,834 --> 00:23:14,417
+in which the challengers
+list the battles they've won,
+
+359
+00:23:14,458 --> 00:23:16,625
+the prizes they've taken--
+the idea being to prove
+
+360
+00:23:16,667 --> 00:23:18,750
+their worthiness
+to lead the council.
+
+361
+00:23:20,000 --> 00:23:22,667
+Can the old form
+still be used?
+
+362
+00:23:22,709 --> 00:23:24,041
+It's up to you.
+
+363
+00:23:24,083 --> 00:23:26,917
+You can use
+whatever form you want.
+
+364
+00:23:26,959 --> 00:23:28,291
+Thank you.
+
+365
+00:23:33,208 --> 00:23:37,750
+Captain, what do you know
+about Worf's discommendation?
+
+366
+00:23:37,792 --> 00:23:38,959
+My interest is personal.
+
+367
+00:23:39,000 --> 00:23:41,375
+I understand
+that you were there,
+
+368
+00:23:41,417 --> 00:23:43,959
+that you stood by him
+before the council.
+
+369
+00:23:44,000 --> 00:23:45,625
+I'd like to know
+what happened.
+
+370
+00:23:45,667 --> 00:23:48,333
+I'm sorry, I can't discuss it.
+
+371
+00:24:01,208 --> 00:24:03,917
+Council must have
+a leader now!
+
+372
+00:24:03,959 --> 00:24:07,542
+Complete the rite,
+so I can kill this<i> Ha'DIbaH.</i>
+
+373
+00:24:07,583 --> 00:24:12,250
+You will die slowly, Duras.
+
+374
+00:24:12,291 --> 00:24:16,291
+You have already proved you
+haven't the courage to face me.
+
+375
+00:24:16,333 --> 00:24:18,333
+Perhaps you should plant
+another bomb.
+
+376
+00:24:18,375 --> 00:24:20,125
+(<i> screams</i> )
+
+377
+00:24:20,166 --> 00:24:21,333
+<i>Mev yap!</i>
+
+378
+00:24:23,291 --> 00:24:25,208
+Sit down.
+
+379
+00:24:40,333 --> 00:24:42,667
+We will begin the<i> ja'chuq.</i>
+
+380
+00:24:42,709 --> 00:24:44,208
+What?
+
+381
+00:24:44,250 --> 00:24:47,041
+This woman has been giving you
+bad advice, Picard.
+
+382
+00:24:47,083 --> 00:24:48,917
+The<i> ja'chuq</i> is obsolete.
+
+383
+00:24:48,959 --> 00:24:52,625
+It is my choice to respect
+the ancient rituals.
+
+384
+00:24:52,667 --> 00:24:54,875
+Each of you will have
+to prove your worthiness
+
+385
+00:24:54,917 --> 00:24:56,166
+to lead the High Council.
+
+386
+00:24:56,208 --> 00:24:58,291
+That will take hours.
+
+387
+00:24:58,333 --> 00:25:02,375
+Or days, depending
+on your cooperation.
+
+388
+00:25:14,375 --> 00:25:16,083
+What is this?
+
+389
+00:25:16,125 --> 00:25:17,750
+WORF:
+A<i> bat'leth.</i>
+
+390
+00:25:17,792 --> 00:25:20,291
+It belonged
+to my father.
+
+391
+00:25:20,333 --> 00:25:23,500
+It has been in our family
+for ten generations.
+
+392
+00:25:23,542 --> 00:25:25,834
+Let me hold it.
+
+393
+00:25:37,542 --> 00:25:39,875
+No.
+No, no, no.
+
+394
+00:25:39,917 --> 00:25:43,250
+Do not think of
+it as a weapon.
+
+395
+00:25:43,291 --> 00:25:47,875
+Make it part of
+your hand,
+
+396
+00:25:47,917 --> 00:25:49,500
+part of your arm.
+
+397
+00:25:51,125 --> 00:25:53,208
+Make it part
+of you.
+
+398
+00:26:01,583 --> 00:26:04,500
+The next meeting
+is in three hours.
+
+399
+00:26:04,542 --> 00:26:07,291
+I would speak with
+you alone, Ambassador.
+
+400
+00:26:07,333 --> 00:26:09,458
+I'm honored.
+
+401
+00:26:09,500 --> 00:26:13,417
+Picard is prolonging
+the<i> ja'chuq.</i> Why?
+
+402
+00:26:13,458 --> 00:26:16,625
+He has sufficient reason
+to proceed carefully.
+
+403
+00:26:16,667 --> 00:26:17,834
+He relies on you
+
+404
+00:26:17,875 --> 00:26:20,625
+for his knowledge
+of Klingon law?
+
+405
+00:26:20,667 --> 00:26:22,667
+Yes.
+
+406
+00:26:22,709 --> 00:26:26,250
+Then he values
+your advice.
+
+407
+00:26:26,291 --> 00:26:27,959
+You could
+quicken the pace.
+
+408
+00:26:28,000 --> 00:26:31,041
+Possibly.
+Why should I?
+
+409
+00:26:31,083 --> 00:26:34,834
+Your position is... unique.
+
+410
+00:26:34,875 --> 00:26:38,417
+Have you never wondered about
+serving the Klingon Empire?
+
+411
+00:26:38,458 --> 00:26:41,083
+I serve in my own way.
+
+412
+00:26:41,125 --> 00:26:43,542
+As a Federation ambassador.
+
+413
+00:26:43,583 --> 00:26:45,208
+A few rewards...
+
+414
+00:26:45,250 --> 00:26:47,583
+but little glory.
+
+415
+00:26:48,875 --> 00:26:50,458
+What do you want?
+
+416
+00:26:52,917 --> 00:26:56,291
+What do<i> you</i> want?
+Command of a ship?
+
+417
+00:26:56,333 --> 00:26:59,333
+A seat on the council?
+
+418
+00:26:59,375 --> 00:27:02,625
+There are many opportunities
+for you in the empire.
+
+419
+00:27:02,667 --> 00:27:05,417
+Opportunities that
+will present themselves
+
+420
+00:27:05,458 --> 00:27:08,375
+only if<i> you</i> come to power.
+
+421
+00:27:08,417 --> 00:27:10,917
+You talk like a Ferengi.
+
+422
+00:27:12,625 --> 00:27:16,250
+K'mpec was also stubborn.
+He, too, refused to listen.
+
+423
+00:27:16,291 --> 00:27:18,542
+<i>Now...</i>
+
+424
+00:27:18,583 --> 00:27:20,333
+he is gone.
+
+425
+00:27:22,500 --> 00:27:26,333
+You need not make
+the same mistake.
+
+426
+00:27:26,375 --> 00:27:29,834
+K'mpec was old and weak.
+
+427
+00:27:29,875 --> 00:27:32,125
+<i>I</i> am not.
+
+428
+00:27:32,166 --> 00:27:34,750
+(<i> chuckling</i> )
+
+429
+00:27:43,458 --> 00:27:45,583
+We've completed our analysis
+of the bomb debris, Commander.
+
+430
+00:27:45,625 --> 00:27:48,125
+The explosive was a
+triceron derivative.
+
+431
+00:27:48,166 --> 00:27:50,000
+And the entire device
+couldn't have been
+
+432
+00:27:50,041 --> 00:27:52,333
+more than three cubic
+millimeters in size.
+
+433
+00:27:52,375 --> 00:27:55,458
+It could have been hidden
+anywhere in that room.
+
+434
+00:27:55,500 --> 00:27:56,875
+There's one more thing.
+
+435
+00:27:56,917 --> 00:27:59,542
+The bomb had a
+molecular-decay detonator.
+
+436
+00:27:59,583 --> 00:28:02,083
+Only one race uses
+that device, sir.
+
+437
+00:28:04,041 --> 00:28:05,834
+The Romulans.
+
+438
+00:28:09,458 --> 00:28:11,375
+How could the Romulans
+plant a bomb
+
+439
+00:28:11,417 --> 00:28:14,458
+on board a Klingon
+attack cruiser?
+
+440
+00:28:14,500 --> 00:28:16,083
+It would be
+impossible.
+
+441
+00:28:16,125 --> 00:28:19,583
+Not if the Romulans had help
+from one of the Klingons.
+
+442
+00:28:19,625 --> 00:28:22,375
+Klingons and Romulans
+working together?
+
+443
+00:28:22,417 --> 00:28:24,166
+They've been blood
+enemies for 75 years.
+
+444
+00:28:24,208 --> 00:28:27,500
+Perhaps Duras or Gowron wishes
+to improve that relationship.
+
+445
+00:28:27,542 --> 00:28:30,166
+A new Klingon alliance
+with the Romulans?
+
+446
+00:28:30,208 --> 00:28:32,291
+If true,
+it would represent
+
+447
+00:28:32,333 --> 00:28:34,959
+a fundamental shift of
+power in the quadrant.
+
+448
+00:28:35,000 --> 00:28:36,917
+Indeed. It would
+put the Federation
+
+449
+00:28:36,959 --> 00:28:39,750
+in a very difficult position.
+
+450
+00:28:39,792 --> 00:28:42,041
+Duras or Gowron?
+
+451
+00:28:42,083 --> 00:28:44,083
+Gowron came to me alone.
+
+452
+00:28:44,125 --> 00:28:45,917
+Wanted me to
+speed up the<i> ja'chuq.</i>
+
+453
+00:28:45,959 --> 00:28:47,625
+Offered me a seat
+on the council
+
+454
+00:28:47,667 --> 00:28:48,959
+if I'd help him.
+
+455
+00:28:49,000 --> 00:28:50,917
+That doesn't suggest a
+Romulan connection.
+
+456
+00:28:50,959 --> 00:28:53,583
+He also implied
+I'd end up like K'mpec
+
+457
+00:28:53,625 --> 00:28:55,458
+if I didn't cooperate.
+
+458
+00:28:55,500 --> 00:28:57,250
+WORF:
+Captain, I disagree.
+
+459
+00:28:57,291 --> 00:28:59,750
+It must be Duras.
+
+460
+00:28:59,792 --> 00:29:01,917
+Why?
+
+461
+00:29:01,959 --> 00:29:03,709
+PICARD: We have had
+prior dealings
+
+462
+00:29:03,750 --> 00:29:07,208
+with Duras that show him
+to be untrustworthy.
+
+463
+00:29:07,250 --> 00:29:09,041
+Can you be more specific?
+
+464
+00:29:09,083 --> 00:29:10,709
+No.
+
+465
+00:29:10,750 --> 00:29:12,500
+Mr. Worf,
+
+466
+00:29:12,542 --> 00:29:14,542
+we have a conspiracy
+on our hands
+
+467
+00:29:14,583 --> 00:29:16,333
+that could be a direct threat
+
+468
+00:29:16,375 --> 00:29:17,917
+to the security
+of the Federation.
+
+469
+00:29:17,959 --> 00:29:19,500
+Yes, sir.
+
+470
+00:29:19,542 --> 00:29:21,750
+As chief security officer,
+I want you to accompany me
+
+471
+00:29:21,792 --> 00:29:23,083
+to the next proceeding.
+
+472
+00:29:25,208 --> 00:29:28,333
+Captain, they will be incensed.
+
+473
+00:29:28,375 --> 00:29:31,166
+My presence
+will be disruptive.
+
+474
+00:29:31,208 --> 00:29:34,500
+Yes. It will.
+
+475
+00:29:39,792 --> 00:29:42,625
+Computer, list stardates
+of the last<i> Enterprise</i> mission
+
+476
+00:29:42,667 --> 00:29:44,375
+to the Klingon home planet.
+
+477
+00:29:44,417 --> 00:29:49,083
+COMPUTER:
+Stardates 43685 through 43689.
+
+478
+00:29:49,125 --> 00:29:51,291
+How many ship's logs
+during that period?
+
+479
+00:29:51,333 --> 00:29:55,917
+COMPUTER: 43 officer's logs,
+ten personal logs.
+
+480
+00:29:55,959 --> 00:29:58,375
+Is there a personal log
+for Lieutenant Worf?
+
+481
+00:29:58,417 --> 00:29:59,667
+COMPUTER:
+Affirmative.
+
+482
+00:29:59,709 --> 00:30:01,583
+Access is restricted.
+
+483
+00:30:02,834 --> 00:30:04,834
+Eliminate all personal logs.
+
+484
+00:30:04,875 --> 00:30:07,917
+List the remaining 43
+in chronological order.
+
+485
+00:30:07,959 --> 00:30:11,166
+We'll just take them
+one at a time.
+
+486
+00:30:15,792 --> 00:30:19,458
+<i>jIH Doq...</i>
+
+487
+00:30:21,875 --> 00:30:24,041
+<i>batlh!</i>
+
+488
+00:30:31,000 --> 00:30:34,667
+Both your claims have been
+properly made and recorded.
+
+489
+00:30:34,709 --> 00:30:38,250
+We are ready for the
+final phase of the<i> ja'chuq.</i>
+
+490
+00:30:38,291 --> 00:30:39,834
+There will
+be a recess
+
+491
+00:30:39,875 --> 00:30:42,125
+while I review your petitions.
+
+492
+00:30:46,458 --> 00:30:48,291
+I'm sure you're
+as concerned as I am
+
+493
+00:30:48,333 --> 00:30:51,458
+about the explosion aboard
+K'mpec's vessel.
+
+494
+00:30:51,500 --> 00:30:54,500
+I assume that you are both
+continuing your investigations.
+
+495
+00:30:54,542 --> 00:30:56,917
+The investigations are complete.
+
+496
+00:30:56,959 --> 00:30:59,834
+They revealed nothing
+of any importance.
+
+497
+00:31:00,792 --> 00:31:03,667
+Now, that's very surprising.
+
+498
+00:31:03,709 --> 00:31:07,458
+Our analysis
+turned up some...
+
+499
+00:31:07,500 --> 00:31:09,083
+startling results.
+
+500
+00:31:13,500 --> 00:31:15,667
+Will you join us, Lieutenant?
+
+501
+00:31:17,041 --> 00:31:18,125
+What is this?!
+
+502
+00:31:18,166 --> 00:31:19,834
+He has no place here,
+Picard!
+
+503
+00:31:19,875 --> 00:31:21,750
+I will not sit at
+the same table with that.
+
+504
+00:31:21,792 --> 00:31:24,750
+It is my prerogative
+to investigate anything
+
+505
+00:31:24,792 --> 00:31:27,458
+that may be relevant to
+the Rite of Succession.
+
+506
+00:31:27,500 --> 00:31:29,500
+Lieutenant Worf is my
+chief security officer.
+
+507
+00:31:29,542 --> 00:31:31,083
+His presence
+is required.
+
+508
+00:31:31,125 --> 00:31:33,709
+We will not proceed.
+
+509
+00:31:33,750 --> 00:31:36,417
+If you wish to withdraw
+from the<i> ja'chuq...</i>
+
+510
+00:31:38,250 --> 00:31:40,291
+that is your option.
+
+511
+00:31:42,834 --> 00:31:44,792
+Proceed, Mr. Worf.
+
+512
+00:31:47,417 --> 00:31:50,458
+What did your investigations
+reveal about the explosion?
+
+513
+00:31:52,750 --> 00:31:54,792
+It was a bomb.
+
+514
+00:31:56,834 --> 00:31:58,125
+And was your analysis
+
+515
+00:31:58,166 --> 00:32:00,083
+just as...
+insightful?
+
+516
+00:32:00,125 --> 00:32:02,750
+It was a common explosive.
+
+517
+00:32:02,792 --> 00:32:04,500
+WORF:
+What type?
+
+518
+00:32:04,542 --> 00:32:05,834
+Triceron.
+
+519
+00:32:05,875 --> 00:32:07,000
+What about
+the detonator?
+
+520
+00:32:07,041 --> 00:32:08,333
+DURAS:
+This is pointless!
+
+521
+00:32:08,375 --> 00:32:10,166
+The findings were inconclusive.
+
+522
+00:32:12,834 --> 00:32:16,959
+Fortunately, our investigation
+was more thorough.
+
+523
+00:32:17,000 --> 00:32:20,583
+The bomb used
+a molecular-decay detonator.
+
+524
+00:32:20,625 --> 00:32:22,208
+What?
+
+525
+00:32:22,250 --> 00:32:24,250
+A Romulan device.
+
+526
+00:32:26,542 --> 00:32:28,583
+I will return to my
+ship to confirm
+
+527
+00:32:28,625 --> 00:32:32,625
+these...
+conclusions myself.
+
+528
+00:32:32,667 --> 00:32:35,792
+As will I.
+
+529
+00:32:35,834 --> 00:32:38,583
+Mr. Worf, please be sure
+to send a complete record
+
+530
+00:32:38,625 --> 00:32:43,959
+of our findings to both vessels,
+and to the High Council.
+
+531
+00:32:44,000 --> 00:32:45,291
+Aye, sir.
+
+532
+00:32:45,333 --> 00:32:47,875
+PICARD:
+That will be all.
+
+533
+00:32:47,917 --> 00:32:49,500
+Computer, interlock
+
+534
+00:32:49,542 --> 00:32:52,083
+with the Klingon Imperial
+information net.
+
+535
+00:32:52,125 --> 00:32:53,875
+COMPUTER:
+Interlock established.
+
+536
+00:32:53,917 --> 00:32:57,166
+Federation Ambassador K'Ehleyr
+requesting diplomatic access
+
+537
+00:32:57,208 --> 00:33:00,375
+to High Council record,
+security code<i> pah doQ cha.</i>
+
+538
+00:33:00,417 --> 00:33:01,834
+COMPUTER:
+Proceed.
+
+539
+00:33:01,875 --> 00:33:03,667
+Computer, display summary
+
+540
+00:33:03,709 --> 00:33:05,792
+of the most recent
+High Council inquiry
+
+541
+00:33:05,834 --> 00:33:07,417
+regarding Khitomer Massacre.
+
+542
+00:33:07,458 --> 00:33:09,083
+COMPUTER:
+Access denied.
+
+543
+00:33:09,125 --> 00:33:12,875
+Restricted materials,
+<i>du-ko-cha</i> clearance only.
+
+544
+00:33:12,917 --> 00:33:14,625
+By whose order?
+
+545
+00:33:14,667 --> 00:33:17,500
+COMPUTER:
+Council member Duras.
+
+546
+00:33:17,542 --> 00:33:19,667
+Access biographical files.
+
+547
+00:33:19,709 --> 00:33:22,792
+Subject name,
+Counselor Duras.
+
+548
+00:33:28,709 --> 00:33:32,917
+Advise my counselors
+on the<i> Vorn</i> to convene.
+
+549
+00:33:32,959 --> 00:33:34,583
+There is much to discuss.
+
+550
+00:33:34,625 --> 00:33:35,917
+Look.
+
+551
+00:33:35,959 --> 00:33:37,333
+What is this?
+
+552
+00:33:37,375 --> 00:33:39,750
+Priority message to you
+from the home planet.
+
+553
+00:33:39,792 --> 00:33:41,458
+It seems
+Ambassador K'Ehleyr
+
+554
+00:33:41,500 --> 00:33:44,208
+is looking into things
+she should not be.
+
+555
+00:33:46,875 --> 00:33:48,542
+Distract the guard for me.
+
+556
+00:33:48,583 --> 00:33:50,166
+Yes, sir.
+
+557
+00:33:52,417 --> 00:33:54,000
+GUARD:
+Sir... excuse me, sir.
+
+558
+00:33:54,041 --> 00:33:56,709
+You cannot leave your
+quarters without an escort.
+
+559
+00:33:56,750 --> 00:33:58,750
+(<i> door chimes</i> )
+
+560
+00:33:58,792 --> 00:34:00,333
+Come.
+
+561
+00:34:02,458 --> 00:34:04,041
+I have been informed
+of your attempt
+
+562
+00:34:04,083 --> 00:34:06,333
+to access restricted
+council records.
+
+563
+00:34:06,375 --> 00:34:08,750
+I have been investigating
+what happened at Khitomer.
+
+564
+00:34:08,792 --> 00:34:10,834
+Not at all an easy task,
+
+565
+00:34:10,875 --> 00:34:13,542
+considering that most
+of the records are sealed.
+
+566
+00:34:13,583 --> 00:34:15,333
+Worf's father was a traitor.
+
+567
+00:34:15,375 --> 00:34:19,333
+No, the evidence was altered
+to make it appear that way.
+
+568
+00:34:19,375 --> 00:34:22,333
+I found it interesting
+to read that your father
+
+569
+00:34:22,375 --> 00:34:24,834
+was also at Khitomer,
+and you
+
+570
+00:34:24,875 --> 00:34:26,750
+are the one who
+sealed the records.
+
+571
+00:34:26,792 --> 00:34:28,792
+You dare insult
+my father's name?
+
+572
+00:34:28,834 --> 00:34:31,667
+Don't play the wounded
+Klingon for me, Duras.
+
+573
+00:34:31,709 --> 00:34:33,375
+You don't do it very well.
+
+574
+00:34:34,792 --> 00:34:37,166
+What happened in
+that council chamber?
+
+575
+00:34:37,208 --> 00:34:40,583
+How did you get Worf to
+take the blame for you?
+
+576
+00:34:40,625 --> 00:34:42,667
+Do not pursue
+this matter further.
+
+577
+00:34:42,709 --> 00:34:46,000
+The son betrays his
+people to the Romulans,
+
+578
+00:34:46,041 --> 00:34:48,500
+just as his father did...
+
+579
+00:34:48,542 --> 00:34:50,792
+Duras.
+
+580
+00:34:56,667 --> 00:34:58,792
+One of the Klingons who
+died in the explosion
+
+581
+00:34:58,834 --> 00:35:01,375
+was with Duras,
+the other was with Gowron.
+
+582
+00:35:01,417 --> 00:35:02,875
+I've been examining
+the bodies,
+
+583
+00:35:02,917 --> 00:35:06,041
+trying to get a clue as to
+where the bomb was hidden.
+
+584
+00:35:06,083 --> 00:35:07,750
+There's always a pattern
+
+585
+00:35:07,792 --> 00:35:09,750
+in the lacerations
+and tissue damage.
+
+586
+00:35:09,792 --> 00:35:12,375
+It would normally give a clear
+indication as to the direction,
+
+587
+00:35:12,417 --> 00:35:13,792
+distance, force of impact.
+
+588
+00:35:13,834 --> 00:35:16,166
+"Normally?"
+
+589
+00:35:16,208 --> 00:35:17,917
+In this case,
+the pattern
+
+590
+00:35:17,959 --> 00:35:20,333
+was virtually
+impossible to detect.
+
+591
+00:35:20,375 --> 00:35:22,667
+I couldn't understand it until
+I looked at the dynoscans.
+
+592
+00:35:22,709 --> 00:35:26,083
+This wound is different
+from all of the others.
+
+593
+00:35:26,125 --> 00:35:27,375
+It was made
+
+594
+00:35:27,417 --> 00:35:29,208
+from the inside out.
+
+595
+00:35:29,250 --> 00:35:33,458
+The bomb was implanted
+in one of their forearms.
+
+596
+00:35:33,500 --> 00:35:36,750
+It's considered a honorable way
+for a Klingon to die.
+
+597
+00:35:36,792 --> 00:35:40,291
+A suicide that takes
+an enemy with it.
+
+598
+00:35:40,333 --> 00:35:42,375
+Which one of them was it?
+
+599
+00:35:42,417 --> 00:35:44,583
+Duras' man.
+
+600
+00:35:46,834 --> 00:35:47,959
+When we have more time,
+
+601
+00:35:48,041 --> 00:35:49,291
+I will take you
+to the holodeck
+
+602
+00:35:49,333 --> 00:35:51,709
+and demonstrate
+in more detail.
+
+603
+00:35:54,458 --> 00:35:57,667
+Medical emergency!
+Deck eight, room 142.
+
+604
+00:35:57,709 --> 00:35:59,166
+(<i> K'Ehleyr groans</i> )
+
+605
+00:36:07,542 --> 00:36:09,125
+Gowron?
+
+606
+00:36:10,166 --> 00:36:12,333
+No.
+
+607
+00:36:13,667 --> 00:36:16,000
+Duras.
+
+608
+00:36:16,041 --> 00:36:18,792
+Alexander...
+
+609
+00:36:32,750 --> 00:36:34,166
+(<i> groans</i> )
+
+610
+00:36:34,208 --> 00:36:37,166
+(<i> gasps</i> )
+
+611
+00:36:37,208 --> 00:36:38,959
+K'Ehleyr.
+
+612
+00:36:39,000 --> 00:36:41,125
+K'Ehleyr!
+
+613
+00:36:43,959 --> 00:36:48,208
+(<i> roaring</i> )
+
+614
+00:37:18,291 --> 00:37:21,333
+You have never
+seen death.
+
+615
+00:37:24,667 --> 00:37:26,333
+Then look.
+
+616
+00:37:28,917 --> 00:37:31,667
+And always remember.
+
+617
+00:37:40,166 --> 00:37:43,000
+Stay with the doctor.
+
+618
+00:37:43,041 --> 00:37:45,333
+Worf, when did you...?
+
+619
+00:37:48,458 --> 00:37:49,750
+(<i> sighs</i> )
+
+620
+00:38:15,000 --> 00:38:16,959
+Multiple stab wounds
+to the chest and abdomen.
+
+621
+00:38:17,000 --> 00:38:18,500
+Too much trauma to the
+internal organs.
+
+622
+00:38:18,542 --> 00:38:21,125
+There wasn't time enough
+to take her into stasis.
+
+623
+00:38:21,166 --> 00:38:22,583
+Where's Worf?
+
+624
+00:38:22,625 --> 00:38:23,792
+I don't know.
+
+625
+00:38:23,834 --> 00:38:25,792
+He disappeared just
+after I arrived.
+
+626
+00:38:25,834 --> 00:38:28,083
+Riker to Lieutenant Worf.
+
+627
+00:38:30,291 --> 00:38:32,333
+Computer, locate
+Lieutenant Worf.
+
+628
+00:38:32,375 --> 00:38:35,917
+COMPUTER: Lieutenant Worf
+is not aboard the<i> Enterprise.</i>
+
+629
+00:38:35,959 --> 00:38:37,542
+Where is he?
+
+630
+00:38:37,583 --> 00:38:39,041
+COMPUTER:
+Lieutenant Worf transported
+
+631
+00:38:39,083 --> 00:38:43,125
+to the Klingon ship<i> Vorn</i>
+at 1730 hours.
+
+632
+00:38:43,166 --> 00:38:44,750
+On my way.
+
+633
+00:38:52,792 --> 00:38:55,041
+Duras.
+
+634
+00:38:56,834 --> 00:38:58,709
+(<i> Klingons muttering</i> )
+
+635
+00:39:00,208 --> 00:39:02,458
+What is<i> that</i> doing here?
+
+636
+00:39:02,500 --> 00:39:06,083
+He has claimed the
+Right of Vengeance.
+
+637
+00:39:06,125 --> 00:39:09,542
+You have no rights
+here, traitor!
+
+638
+00:39:19,583 --> 00:39:24,250
+K'ehleyr... was my mate.
+
+639
+00:39:24,291 --> 00:39:27,083
+(<i> murmurs of surprise</i> )
+
+640
+00:39:28,125 --> 00:39:29,458
+(<i> grunts</i> )
+
+641
+00:39:36,959 --> 00:39:39,125
+If Lieutenant Worf
+resists, sir?
+
+642
+00:39:39,166 --> 00:39:41,125
+He's coming back with us,
+one way or another.
+
+643
+00:39:41,166 --> 00:39:43,375
+Set phasers
+on maximum stun.
+
+644
+00:40:00,083 --> 00:40:02,041
+I'm the only one, Worf.
+
+645
+00:40:02,083 --> 00:40:04,375
+The only one who can
+prove your innocence.
+
+646
+00:40:04,417 --> 00:40:06,291
+Kill me, and you're
+a traitor forever.
+
+647
+00:40:06,333 --> 00:40:08,625
+Then that is how
+it shall be.
+
+648
+00:40:16,750 --> 00:40:18,125
+RIKER:
+Worf!
+
+649
+00:40:45,125 --> 00:40:49,500
+Mr. Worf, your service
+aboard the<i> Enterprise</i>
+
+650
+00:40:49,542 --> 00:40:51,542
+has been exemplary...
+
+651
+00:40:53,750 --> 00:40:56,125
+until now.
+
+652
+00:40:56,166 --> 00:40:58,834
+Sir, I have acted
+within the boundaries
+
+653
+00:40:58,875 --> 00:41:01,458
+of Klingon law and tradition.
+
+654
+00:41:01,500 --> 00:41:03,208
+The High Council
+would seem to agree.
+
+655
+00:41:03,250 --> 00:41:06,208
+They consider the matter closed.
+
+656
+00:41:06,250 --> 00:41:07,500
+I don't.
+
+657
+00:41:09,125 --> 00:41:10,667
+Mr. Worf, the
+<i>Enterprise</i> crew
+
+658
+00:41:10,709 --> 00:41:15,667
+currently includes
+representatives from 13 planets.
+
+659
+00:41:15,709 --> 00:41:18,125
+They each have their individual
+beliefs and values,
+
+660
+00:41:18,166 --> 00:41:21,291
+and I respect them all.
+
+661
+00:41:21,333 --> 00:41:26,125
+But they have all chosen
+to serve Starfleet.
+
+662
+00:41:27,375 --> 00:41:30,583
+If anyone cannot perform
+his or her duty
+
+663
+00:41:30,625 --> 00:41:33,500
+because of the demands
+of their society,
+
+664
+00:41:33,542 --> 00:41:35,250
+they should resign.
+
+665
+00:41:44,083 --> 00:41:46,250
+Do you wish to resign?
+
+666
+00:41:51,000 --> 00:41:52,375
+No, sir.
+
+667
+00:41:56,375 --> 00:41:58,333
+I had hoped you
+would not throw away
+
+668
+00:41:58,375 --> 00:42:00,291
+a promising career.
+
+669
+00:42:03,834 --> 00:42:06,083
+I understand your loss.
+
+670
+00:42:07,709 --> 00:42:09,667
+We all admired K'Ehleyr.
+
+671
+00:42:13,417 --> 00:42:16,458
+A reprimand will
+appear on your record.
+
+672
+00:42:16,500 --> 00:42:18,041
+Dismissed.
+
+673
+00:42:19,417 --> 00:42:20,583
+Mr. Worf?
+
+674
+00:42:25,625 --> 00:42:27,000
+Isn't it time for the truth
+
+675
+00:42:27,041 --> 00:42:29,500
+about your father's innocence
+to be told?
+
+676
+00:42:29,542 --> 00:42:31,959
+After all, you only
+accepted this dishonor
+
+677
+00:42:32,000 --> 00:42:35,750
+to protect the name of Duras
+and hold the empire together.
+
+678
+00:42:35,792 --> 00:42:38,625
+Now that he has
+died in disgrace,
+
+679
+00:42:38,667 --> 00:42:42,125
+what is gained by
+further silence?
+
+680
+00:42:42,166 --> 00:42:44,500
+Each member
+of the Klingon High Council
+
+681
+00:42:44,542 --> 00:42:46,250
+has shared in that lie.
+
+682
+00:42:46,291 --> 00:42:50,500
+They will not be so willing
+to admit their own dishonor.
+
+683
+00:42:51,667 --> 00:42:53,834
+But... the day will come
+
+684
+00:42:53,875 --> 00:42:57,000
+when my brother and I will...
+
+685
+00:42:57,041 --> 00:43:00,000
+convince them
+to speak the truth.
+
+686
+00:43:18,959 --> 00:43:21,875
+My parents...
+
+687
+00:43:21,917 --> 00:43:26,125
+my human parents will
+meet us at Starbase 73.
+
+688
+00:43:26,166 --> 00:43:29,125
+They will care for you.
+
+689
+00:43:29,166 --> 00:43:31,667
+Why can't I stay with you?
+
+690
+00:43:33,750 --> 00:43:36,792
+You deserve a home.
+
+691
+00:43:36,834 --> 00:43:39,291
+A family.
+
+692
+00:43:39,333 --> 00:43:41,333
+They can provide that.
+
+693
+00:43:42,458 --> 00:43:44,417
+I cannot.
+
+694
+00:43:54,250 --> 00:43:56,834
+I miss her, too.
+
+695
+00:43:59,000 --> 00:44:00,792
+Are you my father?
+
+696
+00:44:05,250 --> 00:44:06,917
+Yes.
+
+697
+00:44:08,917 --> 00:44:12,000
+I am your father.

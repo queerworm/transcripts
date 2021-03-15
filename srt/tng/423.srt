@@ -1,0 +1,3464 @@
+1
+00:00:01,917 --> 00:00:05,875
+<i>Doctor Beverly Crusher,</i>
+<i>Personal Log, Stardate 44821.3:</i>
+
+2
+00:00:05,875 --> 00:00:08,834
+<i>Began an analysis today</i>
+<i>of the respiratory problems</i>
+
+3
+00:00:08,834 --> 00:00:11,917
+<i>being experienced on</i>
+<i>the Beta Moon of Peliar Zel.</i>
+
+4
+00:00:11,917 --> 00:00:14,959
+<i>Finally got an actual letter</i>
+<i>from Wesley.</i>
+
+5
+00:00:14,959 --> 00:00:16,834
+<i>Topped the class</i>
+<i>in Exobiology,</i>
+
+6
+00:00:16,834 --> 00:00:19,500
+<i>but he's still struggling</i>
+<i>in Ancient Philosophies.</i>
+
+7
+00:00:19,500 --> 00:00:22,500
+<i>And... there's someone new</i>
+<i>in my life.</i>
+
+8
+00:00:32,125 --> 00:00:34,250
+Ambassador Odan, Dr. Crusher.
+
+9
+00:00:34,250 --> 00:00:37,166
+I was just on my way
+to speak to you.
+
+10
+00:00:37,166 --> 00:00:38,709
+Hello, Data.
+
+11
+00:00:38,709 --> 00:00:40,875
+I've completed my study
+on the atmospheric variations
+
+12
+00:00:40,875 --> 00:00:44,000
+which have occurred
+on the moons since the new
+technology was implemented.
+
+13
+00:00:44,000 --> 00:00:45,959
+Oh, thank you, Commander,
+that will be most helpful
+
+14
+00:00:45,959 --> 00:00:47,583
+in my efforts to mediate
+the quarrel.
+
+15
+00:00:47,583 --> 00:00:49,291
+I could go over it
+with you now.
+
+16
+00:00:49,291 --> 00:00:51,041
+It would not require
+more than two hours.
+
+17
+00:00:51,041 --> 00:00:53,583
+Oh, we-we do
+appreciate that, Data,
+
+18
+00:00:53,583 --> 00:00:57,000
+but the Ambassador and I
+have set aside this time
+
+19
+00:00:57,000 --> 00:01:00,542
+to analyze the incidence
+of the lung disease
+
+20
+00:01:00,542 --> 00:01:02,333
+on the moons' inhabitants.
+
+21
+00:01:02,333 --> 00:01:04,667
+Then it is perfect timing,
+Doctor.
+
+22
+00:01:04,667 --> 00:01:08,000
+What better occasion
+to integrate my results
+into your study?
+
+23
+00:01:10,959 --> 00:01:12,709
+Now that I think about it,
+
+24
+00:01:12,709 --> 00:01:14,667
+you're absolutely right,
+Commander.
+
+25
+00:01:14,667 --> 00:01:17,709
+Unfortunately,
+I'm not feeling very well.
+
+26
+00:01:17,709 --> 00:01:20,417
+Perhaps Dr. Crusher
+could get you started
+
+27
+00:01:20,417 --> 00:01:22,375
+inputting your information.
+
+28
+00:01:22,375 --> 00:01:24,417
+I, myself, must return
+to my quarters.
+
+29
+00:01:24,417 --> 00:01:27,291
+Ambassador, are you still
+having those awful headaches?
+
+30
+00:01:27,291 --> 00:01:30,125
+I'd better bring you
+a hypospray to take care of it.
+
+31
+00:01:30,125 --> 00:01:33,083
+I would be most grateful.
+Okay.
+
+32
+00:01:35,667 --> 00:01:38,333
+Put a cold cloth on
+your forehead, Ambassador.
+
+33
+00:01:38,333 --> 00:01:40,792
+I'll do my best to
+be with you shortly.
+
+34
+00:01:40,792 --> 00:01:43,625
+I'll set you up with
+the medical monitor, Data.
+
+35
+00:01:43,625 --> 00:01:46,083
+It'll take you a while to
+input the figures, won't it?
+
+36
+00:01:46,083 --> 00:01:47,333
+At least an hour.
+
+37
+00:01:47,333 --> 00:01:49,083
+But I do not believe
+much time can be saved
+
+38
+00:01:49,083 --> 00:01:50,792
+by exhibiting such
+haste now, Doctor.
+
+39
+00:01:50,792 --> 00:01:54,417
+Data, there are times when
+every second does count.
+
+40
+00:02:59,959 --> 00:03:04,166
+<i>Space... the final frontier.</i>
+
+41
+00:03:04,166 --> 00:03:08,208
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+42
+00:03:08,208 --> 00:03:10,041
+<i>Its continuing mission--</i>
+
+43
+00:03:10,041 --> 00:03:14,041
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+44
+00:03:14,041 --> 00:03:18,500
+<i>to seek out new life</i>
+<i>and new civilizations...</i>
+
+45
+00:03:18,500 --> 00:03:23,291
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+46
+00:04:35,750 --> 00:04:38,000
+(<i> chuckling</i> )
+
+47
+00:04:38,000 --> 00:04:40,333
+Somehow, I had
+an unnatural fear
+
+48
+00:04:40,333 --> 00:04:44,166
+that Data was going to barge in
+and ask to discuss
+
+49
+00:04:44,166 --> 00:04:48,250
+the peripheral effects
+of magnetospheric energy taps.
+
+50
+00:04:48,250 --> 00:04:50,875
+Well, if I don't get back
+soon and take a look at
+his projections,
+
+51
+00:04:50,875 --> 00:04:54,291
+he just might come
+looking for me.
+
+52
+00:04:54,291 --> 00:04:56,208
+Do you know
+when I first met
+
+53
+00:04:56,208 --> 00:04:58,250
+the formidable
+Doctor Beverly--
+
+54
+00:04:58,250 --> 00:05:01,917
+what, uh, 10 days ago?
+
+55
+00:05:01,917 --> 00:05:03,709
+I thought to myself,
+
+56
+00:05:03,709 --> 00:05:07,041
+"This woman is ice...
+
+57
+00:05:07,041 --> 00:05:11,041
+through to her bones."
+
+58
+00:05:11,041 --> 00:05:14,375
+Who would have ever guessed
+that instead of ice
+
+59
+00:05:14,375 --> 00:05:17,542
+there is fire?
+
+60
+00:05:21,917 --> 00:05:23,875
+Odan...
+
+61
+00:05:23,875 --> 00:05:25,750
+Stay here.
+
+62
+00:05:25,750 --> 00:05:28,333
+Don't go.
+
+63
+00:05:28,333 --> 00:05:31,041
+Odan, are we...
+
+64
+00:05:31,041 --> 00:05:32,625
+Is this interfering
+
+65
+00:05:32,625 --> 00:05:36,458
+with your work on
+the Peliar Zel problems?
+
+66
+00:05:36,458 --> 00:05:38,000
+Well, fortunately,
+
+67
+00:05:38,000 --> 00:05:41,000
+I've done about as much
+as I can until we get there,
+
+68
+00:05:41,000 --> 00:05:43,250
+because I just can't seem
+to keep my mind
+
+69
+00:05:43,250 --> 00:05:45,291
+on my work right now.
+
+70
+00:05:46,875 --> 00:05:49,000
+Odan...
+Mm-hmm.
+
+71
+00:05:49,000 --> 00:05:51,625
+I have to go.
+No!
+
+72
+00:05:51,625 --> 00:05:53,792
+Promise me we'll be
+together tonight.
+
+73
+00:05:53,792 --> 00:05:56,500
+I promise.
+
+74
+00:05:59,959 --> 00:06:02,041
+Then you may go,
+Doctor Beverly.
+
+75
+00:06:02,041 --> 00:06:04,709
+It's just Beverly.
+
+76
+00:06:04,709 --> 00:06:06,375
+Not just Beverly.
+
+77
+00:06:06,375 --> 00:06:08,125
+It's Beverly's smile,
+
+78
+00:06:08,125 --> 00:06:10,542
+it's her kindness,
+
+79
+00:06:10,542 --> 00:06:12,458
+her beauty,
+within and without.
+
+80
+00:06:12,458 --> 00:06:15,458
+So much more
+than<i> just</i> Beverly.
+
+81
+00:06:15,458 --> 00:06:16,959
+PICARD:
+Picard to Ambassador Odan.
+
+82
+00:06:16,959 --> 00:06:18,959
+ODAN:
+Yes, Captain, this is Odan.
+
+83
+00:06:18,959 --> 00:06:21,792
+The Federation representative
+from Peliar Zel has come on
+board.
+
+84
+00:06:21,792 --> 00:06:23,750
+Would you care to meet us
+in the observation lounge?
+
+85
+00:06:23,750 --> 00:06:25,834
+I'll be right there,
+Captain.
+
+86
+00:06:32,750 --> 00:06:35,834
+If the news were encouraging,
+I assume you would not be here.
+
+87
+00:06:35,834 --> 00:06:37,917
+I am afraid you are
+correct, Captain.
+
+88
+00:06:37,917 --> 00:06:40,166
+The situation is growing
+progressively worse.
+
+89
+00:06:40,166 --> 00:06:42,583
+(<i> whispering</i> )
+Where have you been?
+
+90
+00:06:42,583 --> 00:06:45,041
+Uh, with a patient.
+Minor emergency.
+
+91
+00:06:48,500 --> 00:06:49,959
+PICARD:
+Ambassador Odan.
+
+92
+00:06:52,709 --> 00:06:55,583
+This is Governor Leka Trion
+of Peliar Zel.
+
+93
+00:06:55,583 --> 00:06:58,500
+Ambassador,
+thank you for coming.
+
+94
+00:06:58,500 --> 00:06:59,959
+I knew your father.
+
+95
+00:06:59,959 --> 00:07:01,875
+His efforts helped keep
+our people at peace
+
+96
+00:07:01,875 --> 00:07:03,458
+for several generations.
+
+97
+00:07:03,458 --> 00:07:06,417
+I would hope to serve you
+as well as he.
+
+98
+00:07:06,417 --> 00:07:08,542
+Governor,
+Ambassador.
+
+99
+00:07:13,375 --> 00:07:16,417
+I hope Doctor Crusher was able
+to help you with your headache.
+
+100
+00:07:16,417 --> 00:07:18,333
+Thank you.
+Actually, she was.
+
+101
+00:07:18,333 --> 00:07:20,583
+Governor Leka has intercepted us
+before we reach her planet
+
+102
+00:07:20,583 --> 00:07:23,208
+in order to update us
+on the situation.
+
+103
+00:07:23,208 --> 00:07:25,333
+The people on our moons
+have been in discord
+
+104
+00:07:25,333 --> 00:07:27,208
+ever since they migrated
+from our planet
+
+105
+00:07:27,208 --> 00:07:28,917
+five centuries ago.
+
+106
+00:07:28,917 --> 00:07:32,125
+To us on the planet, they're
+like two squabbling children.
+
+107
+00:07:32,125 --> 00:07:35,208
+We try to help them settle their
+arguments by not taking sides,
+
+108
+00:07:35,208 --> 00:07:38,166
+but this time,
+we are at a loss.
+
+109
+00:07:38,166 --> 00:07:40,792
+Well, I've been studying
+the information you sent.
+
+110
+00:07:40,792 --> 00:07:43,375
+If I understand correctly,
+the people of Alpha Moon
+
+111
+00:07:43,375 --> 00:07:45,709
+have found a way to tap
+directly into the magnetic field
+
+112
+00:07:45,709 --> 00:07:49,458
+of your planet and now rely
+exclusively on that
+energy source.
+
+113
+00:07:49,458 --> 00:07:52,250
+Yes, but the Beta Moon
+is now suffering
+
+114
+00:07:52,250 --> 00:07:54,750
+some environmental damage
+as a result.
+
+115
+00:07:54,750 --> 00:07:56,875
+My design model suggests
+
+116
+00:07:56,875 --> 00:07:59,625
+that Beta will
+eventually experience
+
+117
+00:07:59,625 --> 00:08:02,458
+rising temperatures,
+erratic tide surges
+
+118
+00:08:02,458 --> 00:08:05,750
+and, in general,
+the beginning of global warming.
+
+119
+00:08:05,750 --> 00:08:08,750
+The impact on the health
+of the Betan people is clear.
+
+120
+00:08:08,750 --> 00:08:11,291
+There will be profound medical
+repercussions.
+
+121
+00:08:11,291 --> 00:08:15,542
+Alpha is unwilling to give up
+its newfound energy source.
+
+122
+00:08:15,542 --> 00:08:19,291
+Beta accuses them of
+intentionally courting genocide.
+
+123
+00:08:19,291 --> 00:08:22,583
+Our efforts to reach
+a compromise have failed.
+
+124
+00:08:22,583 --> 00:08:25,458
+And now we have
+received intelligence
+
+125
+00:08:25,458 --> 00:08:28,291
+that both sides
+are arming for war.
+
+126
+00:08:28,291 --> 00:08:30,750
+If that happens,
+the people on my planet
+
+127
+00:08:30,750 --> 00:08:34,333
+will begin to take sides and the
+outcome can only be disastrous.
+
+128
+00:08:34,333 --> 00:08:36,834
+We'll be in orbit around
+Peliar Zel within six hours.
+
+129
+00:08:36,834 --> 00:08:38,625
+If you could arrange
+for the representatives
+
+130
+00:08:38,625 --> 00:08:40,500
+of Alpha and Beta to be there,
+
+131
+00:08:40,500 --> 00:08:42,709
+then Ambassador Odan
+could beam directly down
+
+132
+00:08:42,709 --> 00:08:44,000
+to the planet's surface.
+
+133
+00:08:44,000 --> 00:08:45,166
+Excuse me, Captain.
+
+134
+00:08:45,166 --> 00:08:46,875
+I prefer to shuttle
+to the surface.
+
+135
+00:08:46,875 --> 00:08:48,750
+I would not recommend it.
+
+136
+00:08:48,750 --> 00:08:52,250
+There are many radical factions
+involved in this dispute.
+
+137
+00:08:52,250 --> 00:08:54,917
+It would be difficult
+to guarantee your safety.
+
+138
+00:08:54,917 --> 00:08:57,208
+Well, I'm sure I'm not the first
+who has expressed discomfort
+
+139
+00:08:57,208 --> 00:08:59,208
+at the idea
+of molecular transport.
+
+140
+00:08:59,208 --> 00:09:01,709
+Thank you, but I prefer
+to remain intact.
+
+141
+00:09:01,709 --> 00:09:04,458
+I'll shuttle down.
+As you wish.
+
+142
+00:09:13,542 --> 00:09:15,500
+Counselor, what is it?
+
+143
+00:09:16,792 --> 00:09:18,625
+It's Ambassador Odan.
+
+144
+00:09:18,625 --> 00:09:20,375
+I continually feel...
+
+145
+00:09:20,375 --> 00:09:23,417
+fluctuations of
+emotion from him.
+
+146
+00:09:23,417 --> 00:09:25,959
+Perhaps it's perfectly
+normal among the Trill.
+
+147
+00:09:25,959 --> 00:09:27,500
+It could be.
+
+148
+00:09:27,500 --> 00:09:29,458
+We know so very little
+about them.
+
+149
+00:09:29,458 --> 00:09:31,875
+Yes... quite.
+
+150
+00:09:40,583 --> 00:09:42,500
+WOMAN: Hi, Deanna.
+Hi.
+
+151
+00:09:53,667 --> 00:09:56,625
+Is that the colgonite
+astringent
+
+152
+00:09:56,625 --> 00:09:58,750
+you have on your eyes?
+
+153
+00:10:01,417 --> 00:10:03,917
+Yes. I guess so.
+
+154
+00:10:03,917 --> 00:10:06,250
+I've never tried it.
+
+155
+00:10:06,250 --> 00:10:08,625
+Someone...
+
+156
+00:10:08,625 --> 00:10:10,959
+just put it on... me.
+
+157
+00:10:12,792 --> 00:10:15,000
+I didn't know
+you even came in here.
+
+158
+00:10:15,000 --> 00:10:16,625
+I don't.
+
+159
+00:10:16,625 --> 00:10:20,291
+At least, um...
+at least not very often.
+
+160
+00:10:20,291 --> 00:10:24,000
+But it feels good
+to indulge yourself sometimes.
+
+161
+00:10:24,000 --> 00:10:25,542
+I guess so.
+
+162
+00:10:25,542 --> 00:10:27,709
+Especially when you haven't
+done so in a while.
+
+163
+00:10:27,709 --> 00:10:30,792
+Wha-What is that
+supposed to mean?
+
+164
+00:10:32,667 --> 00:10:36,166
+Beverly...
+you're in love.
+
+165
+00:10:37,333 --> 00:10:39,417
+(<i> sighs</i> )
+
+166
+00:10:39,417 --> 00:10:42,750
+Sometimes I wish
+you weren't so empathic.
+
+167
+00:10:44,375 --> 00:10:47,959
+(<i> whispering</i> )
+I don't think it's
+really a secret.
+
+168
+00:10:47,959 --> 00:10:50,583
+It isn't?
+
+169
+00:10:50,583 --> 00:10:52,917
+You've been glowing.
+
+170
+00:10:54,291 --> 00:10:55,917
+Oh.
+
+171
+00:10:57,500 --> 00:11:00,166
+Must be the astringent.
+
+172
+00:11:03,166 --> 00:11:04,792
+What?
+
+173
+00:11:05,959 --> 00:11:07,542
+Nothing.
+
+174
+00:11:07,542 --> 00:11:09,834
+Oh, yes, there is.
+What is it?
+
+175
+00:11:11,500 --> 00:11:12,917
+(<i> sighs</i> )
+
+176
+00:11:12,917 --> 00:11:15,291
+It's just something
+I sense in Odan.
+
+177
+00:11:15,291 --> 00:11:17,333
+What?
+What do you sense?
+
+178
+00:11:17,333 --> 00:11:19,041
+It's just...
+
+179
+00:11:21,000 --> 00:11:23,041
+How well do you
+really know him?
+
+180
+00:11:23,041 --> 00:11:25,458
+I feel I know him better
+
+181
+00:11:25,458 --> 00:11:27,667
+than I've known anyone
+in my life.
+
+182
+00:11:29,625 --> 00:11:32,542
+Am I being foolish?
+I don't think so.
+
+183
+00:11:32,542 --> 00:11:36,542
+And yet, I've only known him
+for a couple of weeks.
+
+184
+00:11:36,542 --> 00:11:39,875
+Of course,
+that could be infatuation.
+
+185
+00:11:39,875 --> 00:11:41,917
+But I am a grownup
+and I know the difference
+
+186
+00:11:41,917 --> 00:11:44,667
+between love and infatuation.
+
+187
+00:11:46,458 --> 00:11:50,000
+Oh, all I know is...
+
+188
+00:11:50,000 --> 00:11:53,667
+I haven't felt this way
+for a long time.
+
+189
+00:11:53,667 --> 00:11:55,542
+And you like it.
+
+190
+00:11:55,542 --> 00:11:58,250
+I like it.
+
+191
+00:12:06,875 --> 00:12:08,458
+(<i> door chimes</i> )
+
+192
+00:12:08,458 --> 00:12:09,959
+Come.
+
+193
+00:12:09,959 --> 00:12:11,583
+You wanted to see me,
+Captain?
+
+194
+00:12:11,583 --> 00:12:13,792
+Yes, Ambassador.
+Please sit down.
+
+195
+00:12:13,792 --> 00:12:16,083
+We have entered orbit.
+
+196
+00:12:16,083 --> 00:12:18,417
+We shall be transporting
+you to the planet
+
+197
+00:12:18,417 --> 00:12:19,917
+in a few minutes.
+
+198
+00:12:19,917 --> 00:12:21,458
+Oh, I am ready, Captain.
+
+199
+00:12:21,458 --> 00:12:24,875
+How will you proceed
+when you're there?
+
+200
+00:12:24,875 --> 00:12:26,375
+Oh, I cannot answer that.
+
+201
+00:12:26,375 --> 00:12:29,375
+I... I never know until
+I'm into the situation--
+
+202
+00:12:29,375 --> 00:12:30,959
+meet the people involved.
+
+203
+00:12:30,959 --> 00:12:33,834
+I work very much by instinct
+and not by prearranged plan.
+
+204
+00:12:33,834 --> 00:12:37,667
+Well, it seems to
+work well for you.
+
+205
+00:12:37,667 --> 00:12:39,875
+Well, I do like to go
+into a situation
+
+206
+00:12:39,875 --> 00:12:41,625
+as well-informed
+as possible.
+
+207
+00:12:41,625 --> 00:12:45,208
+And I must say that your staff
+has been quite helpful
+
+208
+00:12:45,208 --> 00:12:47,291
+in briefing me
+on the problems down there--
+
+209
+00:12:49,375 --> 00:12:51,250
+particularly Doctor Crusher.
+
+210
+00:12:51,250 --> 00:12:54,375
+My staff is quite capable.
+I'm glad they've been useful.
+
+211
+00:12:54,375 --> 00:12:57,750
+Your Doctor Beverly is...
+
+212
+00:12:57,750 --> 00:13:01,250
+an extraordinary person,
+
+213
+00:13:01,250 --> 00:13:04,375
+both as a scientist and...
+
+214
+00:13:04,375 --> 00:13:06,709
+and as a woman.
+
+215
+00:13:08,333 --> 00:13:10,000
+Yes, I'm sure that's true.
+
+216
+00:13:10,000 --> 00:13:12,583
+Well, shall we make our way
+to the Shuttle Bay?
+
+217
+00:13:12,583 --> 00:13:16,083
+Captain, you know
+her better than I.
+
+218
+00:13:17,208 --> 00:13:19,000
+Do you have any idea
+
+219
+00:13:19,000 --> 00:13:22,583
+how committed she is to
+remaining with Starfleet?
+
+220
+00:13:22,583 --> 00:13:25,125
+I wouldn't presume
+to speak for her.
+
+221
+00:13:25,125 --> 00:13:28,250
+Oh, no, of course not.
+I just thought...
+
+222
+00:13:28,250 --> 00:13:31,375
+Well, you've known her
+so much longer than I.
+
+223
+00:13:31,375 --> 00:13:34,625
+TAGGERT: Ensign Taggert
+to Captain Picard.
+Yes, Ensign?
+
+224
+00:13:34,625 --> 00:13:37,417
+TAGGERT: The shuttle is ready
+to transport the Ambassador.
+
+225
+00:13:37,417 --> 00:13:39,333
+Very well.
+
+226
+00:13:39,333 --> 00:13:42,375
+I'll find
+my own way, Captain.
+
+227
+00:13:42,375 --> 00:13:45,500
+I hope to return
+with good news.
+
+228
+00:13:53,375 --> 00:13:56,458
+Commander Riker has asked to
+pilot you himself, Ambassador.
+
+229
+00:13:56,458 --> 00:13:58,542
+I am honored.
+
+230
+00:13:58,542 --> 00:14:00,208
+I don't know
+when I'll be back.
+
+231
+00:14:00,208 --> 00:14:02,041
+I know.
+Have a safe trip.
+
+232
+00:14:02,041 --> 00:14:03,959
+Oh, I will stay safe,
+Doctor Beverly.
+
+233
+00:14:03,959 --> 00:14:05,792
+I have good
+reason to return.
+
+234
+00:14:05,792 --> 00:14:08,458
+I've researched
+Earth customs.
+
+235
+00:14:08,458 --> 00:14:11,375
+This flower is given
+to express love.
+
+236
+00:14:11,375 --> 00:14:13,500
+Yes, it is.
+
+237
+00:14:25,375 --> 00:14:28,375
+Initiate shuttle
+preflight sequence.
+
+238
+00:14:28,375 --> 00:14:30,875
+RIKER: Preflight underway,
+counting to clearance.
+
+239
+00:14:32,542 --> 00:14:34,458
+Shuttle has cleared
+the bay door.
+
+240
+00:14:34,458 --> 00:14:37,959
+Commander Riker, you will be out
+of shield range in five seconds.
+
+241
+00:14:37,959 --> 00:14:39,625
+Acknowledged, Lieutenant.
+
+242
+00:14:39,625 --> 00:14:42,542
+We'll be entering the upper
+ionosphere in 2:20 seconds.
+
+243
+00:14:42,542 --> 00:14:45,667
+Sir, an unidentified ship
+
+244
+00:14:45,667 --> 00:14:48,500
+is emerging from the limb
+of the moon.
+
+245
+00:14:48,500 --> 00:14:50,041
+Hail the vessel.
+
+246
+00:14:50,041 --> 00:14:53,000
+RIKER: I have visual contact.
+I don't recognize it.
+
+247
+00:14:53,000 --> 00:14:56,166
+It claims to be an escort vessel
+from the Beta Moon.
+
+248
+00:14:57,250 --> 00:14:59,125
+There was no mention
+of an escort.
+
+249
+00:14:59,125 --> 00:15:01,542
+Request a security
+clearance code.
+
+250
+00:15:01,542 --> 00:15:04,125
+They do not answer, sir.
+
+251
+00:15:06,458 --> 00:15:09,000
+Commander Riker, prepare to
+return to the Shuttle Bay.
+
+252
+00:15:09,000 --> 00:15:10,500
+RIKER:
+Acknowledged.
+
+253
+00:15:10,500 --> 00:15:12,917
+Captain, they are loading
+their phaser banks.
+
+254
+00:15:12,917 --> 00:15:14,875
+Increasing power
+to the shields.
+
+255
+00:15:19,583 --> 00:15:21,375
+Coming about.
+
+256
+00:15:23,792 --> 00:15:26,125
+Engage tractor beam.
+Report, Number One.
+
+257
+00:15:26,125 --> 00:15:28,959
+We've lost port thrusters
+and both backup stabilizers.
+
+258
+00:15:28,959 --> 00:15:30,667
+I'm losing control.
+
+259
+00:15:30,667 --> 00:15:32,834
+PICARD:
+We're bringing you in.
+
+260
+00:15:37,125 --> 00:15:38,834
+Captain, the shuttle hull
+has been weakened.
+
+261
+00:15:38,834 --> 00:15:40,792
+We're breaking up.
+You can't tow us.
+
+262
+00:15:40,792 --> 00:15:42,375
+You better beam us
+directly on board.
+
+263
+00:15:42,375 --> 00:15:45,333
+No. Don't do it.
+I can't stabilize the shuttle.
+
+264
+00:15:45,333 --> 00:15:49,041
+If you transport me,
+it will kill me. Please...
+
+265
+00:15:49,041 --> 00:15:52,166
+PICARD: Number One,
+we're ready to beam you aboard.
+
+266
+00:15:52,166 --> 00:15:54,625
+Belay that order, Captain.
+I'll bring her in manually.
+
+267
+00:15:54,625 --> 00:15:58,083
+Advise Doctor Crusher
+we have a medical emergency.
+
+268
+00:16:02,500 --> 00:16:05,208
+CRUSHER: He's in shock,
+He's lost a lot of blood,
+
+269
+00:16:05,208 --> 00:16:07,834
+but that still doesn't
+explain these readings.
+
+270
+00:16:07,834 --> 00:16:11,875
+Eosinophilia in the
+cerebrospinal fluid at 46%.
+
+271
+00:16:16,375 --> 00:16:18,792
+Sedimentation rate is 29,
+
+272
+00:16:18,792 --> 00:16:20,959
+but his lymphocytes
+are still intact.
+
+273
+00:16:20,959 --> 00:16:23,291
+It's as though there's
+a parasite at work.
+
+274
+00:16:23,291 --> 00:16:25,875
+Odan?
+
+275
+00:16:25,875 --> 00:16:27,709
+Odan...
+
+276
+00:16:29,375 --> 00:16:31,458
+I need to do
+exploratory surgery.
+
+277
+00:16:31,458 --> 00:16:34,250
+You may have
+a parasitic infection.
+
+278
+00:16:35,583 --> 00:16:37,375
+You must not.
+
+279
+00:16:37,375 --> 00:16:39,917
+You won't survive.
+
+280
+00:16:44,709 --> 00:16:47,375
+What is that?
+
+281
+00:16:47,375 --> 00:16:49,333
+Beverly...
+
+282
+00:16:49,333 --> 00:16:52,417
+<i>that</i> is me.
+
+283
+00:16:52,417 --> 00:16:54,291
+What?
+
+284
+00:16:54,291 --> 00:16:57,250
+This body is just a host.
+
+285
+00:16:58,583 --> 00:17:02,333
+I am that parasite.
+
+286
+00:17:02,333 --> 00:17:05,083
+<i>That</i> is what
+must survive.
+
+287
+00:17:13,583 --> 00:17:16,458
+It has always been
+this way.
+
+288
+00:17:18,208 --> 00:17:21,458
+The Trill
+are a joined species...
+
+289
+00:17:22,709 --> 00:17:25,625
+a host and a symbiont...
+
+290
+00:17:27,625 --> 00:17:31,375
+and in this fashion,
+we have survived for millennia.
+
+291
+00:17:31,375 --> 00:17:33,458
+You're dying.
+
+292
+00:17:33,458 --> 00:17:35,291
+What can I do?
+
+293
+00:17:37,458 --> 00:17:40,166
+The host body is dying.
+
+294
+00:17:41,583 --> 00:17:44,375
+You must contact
+the Trill quickly.
+
+295
+00:17:44,375 --> 00:17:46,208
+Tell them I need another host.
+
+296
+00:17:46,208 --> 00:17:48,375
+They will send
+a replacement.
+
+297
+00:17:51,333 --> 00:17:53,959
+I know this is
+difficult to accept...
+
+298
+00:17:55,375 --> 00:17:58,417
+but I beg you,
+Doctor Beverly...
+
+299
+00:17:59,625 --> 00:18:02,625
+help me.
+
+300
+00:18:02,625 --> 00:18:05,583
+This mission
+must be completed.
+
+301
+00:18:07,667 --> 00:18:10,000
+Odan's host body
+died of the injuries
+
+302
+00:18:10,000 --> 00:18:12,208
+just over an hour ago,
+
+303
+00:18:12,208 --> 00:18:16,375
+but the symbiont being,
+Odan, is still alive.
+
+304
+00:18:16,375 --> 00:18:19,208
+Odan is the one who
+negotiated the last treaty.
+
+305
+00:18:19,208 --> 00:18:21,875
+But the man everyone
+thought was his father
+
+306
+00:18:21,875 --> 00:18:23,500
+was just another
+host body.
+
+307
+00:18:23,500 --> 00:18:25,959
+And the reason Odan
+refused the transporter?
+
+308
+00:18:25,959 --> 00:18:28,583
+It would have damaged
+the symbiont.
+
+309
+00:18:28,583 --> 00:18:30,250
+We've contacted
+the Trill.
+
+310
+00:18:30,250 --> 00:18:31,667
+Another host will be here
+in 40 hours.
+
+311
+00:18:31,667 --> 00:18:33,458
+I've placed
+Odan in stasis.
+
+312
+00:18:33,458 --> 00:18:36,041
+He can survive another
+hour, maybe two,
+
+313
+00:18:36,041 --> 00:18:37,875
+but not beyond that.
+
+314
+00:18:37,875 --> 00:18:41,417
+Would it be possible for me
+to serve as a temporary carrier?
+
+315
+00:18:41,417 --> 00:18:42,834
+No, Data.
+
+316
+00:18:42,834 --> 00:18:45,542
+The relationship requires
+a biological being.
+
+317
+00:18:45,542 --> 00:18:48,542
+We're at a desperate impasse
+in the Peliar system.
+
+318
+00:18:48,542 --> 00:18:51,458
+The attack on the shuttlecraft
+has inflamed the dispute.
+
+319
+00:18:51,458 --> 00:18:53,792
+Who was responsible?
+No one will
+admit anything.
+
+320
+00:18:53,792 --> 00:18:57,000
+Each side accuses the other
+and the threats are mounting.
+
+321
+00:18:57,000 --> 00:18:58,542
+We need Odan.
+
+322
+00:18:58,542 --> 00:19:01,750
+Doctor, could
+a human host carry him?
+
+323
+00:19:01,750 --> 00:19:03,458
+I believe so.
+
+324
+00:19:03,458 --> 00:19:05,375
+From Odan's description
+of the process,
+
+325
+00:19:05,375 --> 00:19:07,375
+it should be possible,
+but I don't have...
+
+326
+00:19:07,375 --> 00:19:11,333
+Then I volunteer.
+There's been no precedent
+for a human host.
+
+327
+00:19:11,333 --> 00:19:13,667
+I couldn't guarantee
+what might happen.
+
+328
+00:19:13,667 --> 00:19:16,083
+The risk is too great,
+Commander.
+
+329
+00:19:16,083 --> 00:19:18,583
+Weigh it against
+the prospect of war.
+
+330
+00:19:20,208 --> 00:19:22,208
+It's your choice, Will.
+
+331
+00:19:22,208 --> 00:19:25,083
+Let's get to it.
+
+332
+00:19:34,417 --> 00:19:36,583
+I've given you
+a local anesthetic.
+
+333
+00:19:36,583 --> 00:19:39,125
+You must be conscious
+during the implantation.
+
+334
+00:19:39,125 --> 00:19:41,333
+Drugs might damage
+the symbiont.
+
+335
+00:19:41,333 --> 00:19:42,834
+I understand.
+
+336
+00:19:42,834 --> 00:19:45,709
+Laser scalpel.
+
+337
+00:19:45,709 --> 00:19:47,667
+(<i> sighs</i> )
+
+338
+00:19:50,333 --> 00:19:52,750
+(<i> scalpel humming</i> )
+
+339
+00:20:30,125 --> 00:20:32,000
+How do you feel?
+
+340
+00:20:32,000 --> 00:20:33,625
+Is there any pain?
+
+341
+00:20:33,625 --> 00:20:37,041
+No, just some
+strange sensations.
+
+342
+00:20:37,041 --> 00:20:39,792
+Vital signs?
+Heart rate 110.
+
+343
+00:20:39,792 --> 00:20:42,041
+Blood pressure 90 over 40.
+
+344
+00:20:42,041 --> 00:20:44,250
+I can't close yet.
+The assimilation's not complete.
+
+345
+00:20:44,250 --> 00:20:47,750
+OGAWA: Pulse 130 and climbing.
+EEG is erratic.
+
+346
+00:20:47,750 --> 00:20:49,125
+He's going to start
+fibrillating.
+
+347
+00:20:49,125 --> 00:20:50,667
+200 milligrams
+of metrazene.
+
+348
+00:20:50,667 --> 00:20:52,375
+WOMAN:
+Yes, Doctor.
+
+349
+00:20:53,333 --> 00:20:55,125
+Hang on, Will.
+
+350
+00:20:55,125 --> 00:20:56,875
+We've got
+incorporation, Doctor.
+
+351
+00:20:56,875 --> 00:20:59,542
+I'm closing.
+
+352
+00:21:02,875 --> 00:21:06,125
+OGAWA:
+Brain waves are
+still irregular.
+
+353
+00:21:06,125 --> 00:21:08,250
+The metrazene should
+have stabilized him.
+
+354
+00:21:08,250 --> 00:21:11,208
+I'll give it ten more seconds
+before I go in again.
+
+355
+00:21:11,208 --> 00:21:14,834
+Here we go.
+EEG approaching regular.
+
+356
+00:21:14,834 --> 00:21:17,250
+Blood pressure leveling off.
+
+357
+00:21:17,250 --> 00:21:20,000
+That's better.
+Signs are returning to normal.
+
+358
+00:21:23,875 --> 00:21:25,792
+Will...
+
+359
+00:21:25,792 --> 00:21:27,542
+it's Beverly.
+
+360
+00:21:27,542 --> 00:21:29,500
+Can you hear me?
+
+361
+00:21:30,500 --> 00:21:31,959
+Hello.
+
+362
+00:21:31,959 --> 00:21:34,875
+You're going to be all right.
+
+363
+00:21:34,875 --> 00:21:37,166
+How do you feel?
+
+364
+00:21:37,166 --> 00:21:39,083
+I'm fine.
+
+365
+00:21:40,500 --> 00:21:43,667
+You look a little tired,
+Doctor Beverly.
+
+366
+00:21:54,500 --> 00:21:56,750
+I know this must be
+disturbing, Governor,
+
+367
+00:21:56,750 --> 00:21:59,709
+but you must convince
+the inhabitants of the moons
+
+368
+00:21:59,709 --> 00:22:01,458
+that I am Odan.
+
+369
+00:22:01,458 --> 00:22:05,583
+I have his skills,
+his thoughts, his memories.
+
+370
+00:22:05,583 --> 00:22:10,125
+They will perceive you
+as a Starfleet officer--
+
+371
+00:22:10,125 --> 00:22:12,208
+perhaps with
+your own agenda.
+
+372
+00:22:12,208 --> 00:22:15,250
+The man they knew
+as my father...
+
+373
+00:22:15,250 --> 00:22:18,083
+the man who stands
+before them...
+
+374
+00:22:18,083 --> 00:22:20,750
+both are merely hosts.
+
+375
+00:22:22,125 --> 00:22:24,667
+It is your task to
+help them understand.
+
+376
+00:22:24,667 --> 00:22:26,291
+I will try.
+
+377
+00:22:26,291 --> 00:22:29,000
+I cannot promise
+they will listen.
+
+378
+00:22:29,000 --> 00:22:31,792
+They are more factionalized
+than ever.
+
+379
+00:22:31,792 --> 00:22:35,375
+Listening is a skill
+which seems to have evaporated
+
+380
+00:22:35,375 --> 00:22:37,208
+with the heat of argument.
+
+381
+00:22:37,208 --> 00:22:39,208
+Speak softly, Governor.
+
+382
+00:22:39,208 --> 00:22:42,375
+Those who cannot
+hear an angry shout
+
+383
+00:22:42,375 --> 00:22:45,166
+may strain
+to hear a whisper.
+
+384
+00:22:45,166 --> 00:22:48,417
+I will do what I can.
+
+385
+00:22:51,041 --> 00:22:52,834
+Well done.
+
+386
+00:22:54,875 --> 00:22:57,709
+Mr. Worf, will you escort
+the Ambassador to his quarters?
+
+387
+00:22:57,709 --> 00:22:59,458
+I'm just
+a little dizzy.
+
+388
+00:22:59,458 --> 00:23:01,625
+I'll be fine.
+I just need to lie down.
+
+389
+00:23:01,625 --> 00:23:04,250
+Picard to Doctor Crusher.
+CRUSHER: Yes, Captain?
+
+390
+00:23:04,250 --> 00:23:06,125
+Doctor,
+the Ambassador is not well.
+
+391
+00:23:06,125 --> 00:23:09,208
+Will you please attend to him
+in his quarters?
+Right away, sir.
+
+392
+00:23:10,375 --> 00:23:12,542
+White cell count
+is elevated.
+
+393
+00:23:12,542 --> 00:23:15,917
+Six-tenths of
+a degree temperature.
+
+394
+00:23:15,917 --> 00:23:18,125
+But no sign of rejection.
+
+395
+00:23:18,125 --> 00:23:19,583
+That's good.
+
+396
+00:23:19,583 --> 00:23:21,667
+You look awfully pale.
+
+397
+00:23:21,667 --> 00:23:24,875
+Just a little weak
+and lightheaded.
+
+398
+00:23:24,875 --> 00:23:27,709
+Cerebral blood flow
+looks normal.
+
+399
+00:23:30,709 --> 00:23:32,875
+I'll leave
+a metabolic booster.
+
+400
+00:23:32,875 --> 00:23:35,083
+Use it if the symptoms
+get worse.
+Beverly...
+
+401
+00:23:35,083 --> 00:23:37,417
+Beyond that,
+I don't know what to do.
+
+402
+00:23:37,417 --> 00:23:39,166
+This is all new to me.
+
+403
+00:23:39,166 --> 00:23:40,583
+It is new to me,
+as well.
+
+404
+00:23:40,583 --> 00:23:41,917
+Please don't go.
+
+405
+00:23:41,917 --> 00:23:43,375
+We've got to talk
+about this.
+
+406
+00:23:43,375 --> 00:23:45,458
+I don't know what to say.
+Nor do I.
+
+407
+00:23:45,458 --> 00:23:48,125
+But I know that
+the silence would injure us.
+
+408
+00:23:48,125 --> 00:23:50,625
+Well, maybe you should have
+thought about that sooner.
+
+409
+00:23:50,625 --> 00:23:53,083
+Maybe you should have
+told me what you were.
+
+410
+00:23:53,083 --> 00:23:55,625
+It didn't seem to bother you
+to remain silent yesterday.
+
+411
+00:23:55,625 --> 00:23:58,166
+It never occurred to me.
+
+412
+00:23:58,166 --> 00:24:00,000
+This is what I am.
+
+413
+00:24:00,000 --> 00:24:03,041
+Did you ever tell me that
+you were only a single being?
+
+414
+00:24:03,041 --> 00:24:06,125
+Of course not.
+It was normal to you.
+
+415
+00:24:06,125 --> 00:24:08,625
+I don't know who you are!
+
+416
+00:24:08,625 --> 00:24:10,041
+You must understand.
+
+417
+00:24:10,041 --> 00:24:13,917
+Whoever I... whoever I seem to
+be, I am Odan,
+
+418
+00:24:13,917 --> 00:24:15,917
+who loved you.
+
+419
+00:24:15,917 --> 00:24:17,667
+That has not changed.
+
+420
+00:24:17,667 --> 00:24:19,375
+I still love you.
+
+421
+00:24:19,375 --> 00:24:21,208
+I can't help that!
+
+422
+00:24:21,208 --> 00:24:24,417
+If this causes you pain,
+I will suppress it.
+
+423
+00:24:24,417 --> 00:24:26,458
+I will keep
+my distance.
+
+424
+00:24:26,458 --> 00:24:29,291
+Doctor Beverly...
+
+425
+00:24:29,291 --> 00:24:31,166
+I would never hurt you.
+
+426
+00:24:41,792 --> 00:24:44,750
+(<i> conversation and laughter</i> )
+
+427
+00:24:48,875 --> 00:24:50,792
+May I join you?
+
+428
+00:24:59,041 --> 00:25:02,375
+You know, Deanna,
+the first man
+
+429
+00:25:02,375 --> 00:25:05,375
+I ever loved unconditionally
+was named Stefan.
+
+430
+00:25:05,375 --> 00:25:07,333
+He was a soccer player,
+and I would watch him
+
+431
+00:25:07,333 --> 00:25:09,542
+as he would race
+down the field.
+
+432
+00:25:09,542 --> 00:25:11,542
+And I thought my heart
+would stop
+
+433
+00:25:11,542 --> 00:25:15,000
+because he was
+so beautiful.
+
+434
+00:25:15,000 --> 00:25:17,792
+We married
+and had three children--
+
+435
+00:25:17,792 --> 00:25:20,959
+twin boys,
+Andrew and Alexander,
+
+436
+00:25:20,959 --> 00:25:24,792
+and then later,
+a little girl, Jennifer.
+
+437
+00:25:24,792 --> 00:25:28,291
+Stefan became an artist...
+very famous.
+
+438
+00:25:28,291 --> 00:25:31,208
+He created huge,
+breathtaking
+
+439
+00:25:31,208 --> 00:25:33,250
+metal sculptures.
+
+440
+00:25:33,250 --> 00:25:36,583
+He came to adore me
+as much as I worshipped him--
+
+441
+00:25:36,583 --> 00:25:38,834
+in my daydreams at least.
+
+442
+00:25:38,834 --> 00:25:41,041
+Stefan was 11
+and I was eight.
+
+443
+00:25:41,041 --> 00:25:43,500
+He never even
+knew I existed.
+
+444
+00:25:43,500 --> 00:25:45,417
+Oh, Deanna...
+
+445
+00:25:45,417 --> 00:25:47,542
+I loved Odan.
+
+446
+00:25:47,542 --> 00:25:49,000
+I'm sure of it.
+
+447
+00:25:49,000 --> 00:25:51,875
+I had no doubts, no fears.
+
+448
+00:25:51,875 --> 00:25:54,500
+But what was it I loved?
+
+449
+00:25:54,500 --> 00:25:56,291
+His eyes?
+
+450
+00:25:56,291 --> 00:25:58,709
+His hands?
+His mouth?
+
+451
+00:25:58,709 --> 00:25:59,875
+They're gone.
+
+452
+00:25:59,875 --> 00:26:01,542
+If that was all it was,
+
+453
+00:26:01,542 --> 00:26:05,208
+I should mourn him
+and go on.
+
+454
+00:26:05,208 --> 00:26:07,250
+But it was more than that.
+
+455
+00:26:08,250 --> 00:26:09,709
+I felt...
+
+456
+00:26:09,709 --> 00:26:12,333
+completely free with him...
+
+457
+00:26:12,333 --> 00:26:14,000
+unguarded...
+
+458
+00:26:14,000 --> 00:26:16,834
+at ease with myself.
+
+459
+00:26:16,834 --> 00:26:20,375
+There were so many things
+that made him special to me.
+
+460
+00:26:20,375 --> 00:26:22,208
+And where are they?
+
+461
+00:26:22,208 --> 00:26:23,792
+Are they still here,
+
+462
+00:26:23,792 --> 00:26:26,333
+alive in Will Riker?
+
+463
+00:26:27,875 --> 00:26:29,667
+I look at Will,
+
+464
+00:26:29,667 --> 00:26:31,500
+and I see...
+
+465
+00:26:31,500 --> 00:26:34,834
+someone I've known
+for years...
+
+466
+00:26:34,834 --> 00:26:37,834
+a kind of brother.
+
+467
+00:26:39,750 --> 00:26:42,333
+But inside...
+
+468
+00:26:42,333 --> 00:26:46,333
+is he<i> really</i> Odan?
+
+469
+00:26:46,333 --> 00:26:49,000
+Oh... help me.
+
+470
+00:26:49,000 --> 00:26:51,083
+Please.
+
+471
+00:26:59,667 --> 00:27:02,917
+What do your
+feelings tell you?
+
+472
+00:27:02,917 --> 00:27:05,667
+I feel his pull.
+It's very powerful.
+
+473
+00:27:05,667 --> 00:27:09,250
+I wish he'd never
+come on this ship.
+
+474
+00:27:09,250 --> 00:27:11,250
+Don't wish that,
+Beverly.
+
+475
+00:27:11,250 --> 00:27:13,458
+You can't be open to love
+
+476
+00:27:13,458 --> 00:27:15,750
+if you don't risk pain.
+
+477
+00:27:15,750 --> 00:27:17,250
+I don't care.
+
+478
+00:27:17,250 --> 00:27:20,000
+I'd give anything not to feel
+the way I do now.
+
+479
+00:27:20,000 --> 00:27:22,583
+(<i> door opens</i> )
+
+480
+00:27:28,750 --> 00:27:31,542
+He's here, isn't he?
+
+481
+00:27:31,542 --> 00:27:33,250
+Look at him.
+
+482
+00:27:33,250 --> 00:27:35,291
+I don't want to look at him.
+Talk to me.
+
+483
+00:27:35,291 --> 00:27:37,166
+Just keep talking to me.
+
+484
+00:27:39,667 --> 00:27:43,875
+The first man I ever
+loved was my father.
+
+485
+00:27:43,875 --> 00:27:46,625
+He was strong and tall.
+
+486
+00:27:46,625 --> 00:27:50,291
+He carried me when
+the ground was muddy.
+
+487
+00:27:50,291 --> 00:27:52,166
+He chased away
+the monsters
+
+488
+00:27:52,166 --> 00:27:54,375
+that hid under
+my bed at night.
+
+489
+00:27:54,375 --> 00:27:58,709
+And he sang to me
+and kept me safe.
+
+490
+00:28:00,542 --> 00:28:03,417
+And he went away.
+
+491
+00:28:05,000 --> 00:28:09,500
+What I wouldn't give
+to hear those songs again--
+
+492
+00:28:09,500 --> 00:28:12,542
+to feel his arms
+protect me.
+
+493
+00:28:12,542 --> 00:28:15,000
+I never will.
+
+494
+00:28:15,000 --> 00:28:18,959
+But I can still feel
+his warmth and his love
+
+495
+00:28:18,959 --> 00:28:21,500
+as though he were
+here with me.
+
+496
+00:28:21,500 --> 00:28:25,375
+If you can feel
+those things
+
+497
+00:28:25,375 --> 00:28:29,250
+from the man we know
+as Will Riker,
+
+498
+00:28:29,250 --> 00:28:32,291
+accept them.
+
+499
+00:28:32,291 --> 00:28:34,667
+Accept the love.
+
+500
+00:28:56,750 --> 00:29:00,000
+<i>Captain's Log,</i>
+<i>Stardate 44823.8:</i>
+
+501
+00:29:00,000 --> 00:29:02,750
+<i>Representatives of</i>
+<i>the two moons of Peliar Zel</i>
+
+502
+00:29:02,750 --> 00:29:04,333
+<i>have agreed to come on board</i>
+
+503
+00:29:04,333 --> 00:29:07,333
+<i>to meet the "new"</i>
+<i>Ambassador Odan.</i>
+
+504
+00:29:08,709 --> 00:29:10,959
+White cell count
+is elevated.
+
+505
+00:29:10,959 --> 00:29:14,375
+It's getting higher and higher
+every time I read it.
+
+506
+00:29:14,375 --> 00:29:16,250
+Are you in pain?
+
+507
+00:29:16,250 --> 00:29:17,834
+Not much.
+
+508
+00:29:17,834 --> 00:29:20,125
+Ambassador, we can stall
+the representatives.
+
+509
+00:29:20,125 --> 00:29:22,000
+They would see that
+as a deception.
+
+510
+00:29:22,000 --> 00:29:23,542
+I must meet with them.
+
+511
+00:29:23,542 --> 00:29:25,542
+But surely, to present
+yourself in this condition
+
+512
+00:29:25,542 --> 00:29:26,875
+is not going to
+help our cause.
+
+513
+00:29:26,875 --> 00:29:28,166
+I promise you, Captain,
+
+514
+00:29:28,166 --> 00:29:30,333
+they will never know
+that I'm ill.
+
+515
+00:29:31,792 --> 00:29:33,792
+Captain,
+the emissaries.
+
+516
+00:29:35,125 --> 00:29:38,250
+May I present Kalin Trose
+of Alpha Moon
+
+517
+00:29:38,250 --> 00:29:40,041
+and Lathal Bine
+of Beta Moon.
+
+518
+00:29:40,041 --> 00:29:43,083
+Thank you
+for receiving us, Captain.
+
+519
+00:29:46,500 --> 00:29:49,291
+Is<i> this</i> Ambassador Odan?
+
+520
+00:29:49,291 --> 00:29:50,875
+Lathal Bine,
+
+521
+00:29:50,875 --> 00:29:53,917
+it was your aunt who
+represented Beta 30 years ago.
+
+522
+00:29:53,917 --> 00:29:55,375
+That is correct.
+
+523
+00:29:55,375 --> 00:29:57,041
+She was
+a formidable woman.
+
+524
+00:29:57,041 --> 00:29:59,291
+I had the utmost respect
+for her.
+
+525
+00:29:59,291 --> 00:30:03,959
+And who was it who spoke
+for Alpha so long ago?
+
+526
+00:30:03,959 --> 00:30:06,125
+RIKER/ODAN:
+That was you, of course--
+
+527
+00:30:06,125 --> 00:30:07,917
+Kalin Trose.
+
+528
+00:30:07,917 --> 00:30:09,625
+Then you were a young man,
+
+529
+00:30:09,625 --> 00:30:12,041
+bristling with
+passion and zeal,
+
+530
+00:30:12,041 --> 00:30:13,834
+yet wise enough to understand
+
+531
+00:30:13,834 --> 00:30:17,250
+that your people needed peace
+to ensure their future.
+
+532
+00:30:23,125 --> 00:30:25,542
+And how did you
+achieve a compromise
+
+533
+00:30:25,542 --> 00:30:28,208
+between that young man
+
+534
+00:30:28,208 --> 00:30:30,709
+and the iron-willed woman
+of Beta Moon?
+
+535
+00:30:30,709 --> 00:30:33,083
+They agreed to trade places
+for a week
+
+536
+00:30:33,083 --> 00:30:35,375
+to understand
+each other's situation
+
+537
+00:30:35,375 --> 00:30:37,458
+with more informed eyes.
+
+538
+00:30:37,458 --> 00:30:40,208
+After that,
+an agreement came swiftly.
+
+539
+00:30:40,208 --> 00:30:44,166
+Nothing that you have said
+is beyond what a schoolchild
+
+540
+00:30:44,166 --> 00:30:46,625
+could learn
+in a history book.
+
+541
+00:30:46,625 --> 00:30:49,208
+What is not
+commonly known is that,
+
+542
+00:30:49,208 --> 00:30:53,125
+during those negotiations,
+you, Kalin Trose,
+
+543
+00:30:53,125 --> 00:30:56,875
+quelled a plot by
+a radical from your own moon
+
+544
+00:30:56,875 --> 00:31:00,792
+who was attempting to
+assassinate the Beta delegate.
+
+545
+00:31:03,417 --> 00:31:05,291
+It is true.
+
+546
+00:31:05,291 --> 00:31:07,709
+Perhaps he was wiser
+in his youth
+
+547
+00:31:07,709 --> 00:31:09,083
+than he is now.
+
+548
+00:31:09,083 --> 00:31:11,834
+Odan, you must
+convince him to stop.
+
+549
+00:31:11,834 --> 00:31:13,500
+Will you accept me?
+
+550
+00:31:13,500 --> 00:31:15,709
+Will you allow me
+to work with you?
+
+551
+00:31:15,709 --> 00:31:17,750
+Yes.
+
+552
+00:31:20,166 --> 00:31:22,750
+And Alpha Moon?
+
+553
+00:31:22,750 --> 00:31:25,208
+I will consider it,
+
+554
+00:31:25,208 --> 00:31:27,959
+but I must consult others.
+
+555
+00:31:27,959 --> 00:31:29,875
+This is
+a typical tactic.
+
+556
+00:31:29,875 --> 00:31:32,875
+He is an obstructionist.
+You can see that.
+
+557
+00:31:32,875 --> 00:31:35,000
+Kalin Trose,
+
+558
+00:31:35,000 --> 00:31:37,417
+you may confer
+with your people,
+
+559
+00:31:37,417 --> 00:31:40,125
+but we must have your answer
+within eight hours.
+
+560
+00:31:40,125 --> 00:31:43,500
+You shall have it.
+
+561
+00:32:03,208 --> 00:32:04,917
+His vital signs
+are overworked.
+
+562
+00:32:04,917 --> 00:32:06,208
+His immune system
+is under attack.
+
+563
+00:32:06,208 --> 00:32:08,333
+I can only guess
+that he's suffering
+
+564
+00:32:08,333 --> 00:32:10,291
+from classic
+rejection syndrome.
+
+565
+00:32:10,291 --> 00:32:12,375
+Is there any treatment
+you can give him?
+
+566
+00:32:12,375 --> 00:32:14,208
+I can administer
+an immunosuppressant.
+
+567
+00:32:14,208 --> 00:32:16,125
+That could help relieve
+the symptoms,
+
+568
+00:32:16,125 --> 00:32:18,000
+but it can't correct
+the underlying cause.
+
+569
+00:32:18,000 --> 00:32:21,417
+There is a foreign
+organism in his body.
+
+570
+00:32:21,417 --> 00:32:23,542
+Medical school didn't
+exactly prepare me
+
+571
+00:32:23,542 --> 00:32:25,250
+for situations like this.
+
+572
+00:32:25,250 --> 00:32:27,417
+You're doing all you can.
+
+573
+00:32:29,291 --> 00:32:32,667
+Don't worry about me,
+Captain, I'm fine.
+
+574
+00:32:36,375 --> 00:32:38,583
+Ambassador,
+when you feel up to it,
+
+575
+00:32:38,583 --> 00:32:40,375
+would you join me
+in my ready room?
+
+576
+00:32:40,375 --> 00:32:42,333
+Of course.
+
+577
+00:32:49,417 --> 00:32:53,083
+I can give you something
+that should help with the pain,
+
+578
+00:32:53,083 --> 00:32:55,417
+at least for a little while.
+
+579
+00:32:58,959 --> 00:33:00,834
+The pain's gone.
+
+580
+00:33:00,834 --> 00:33:02,542
+Thank you.
+
+581
+00:33:05,250 --> 00:33:06,959
+Please don't.
+
+582
+00:33:06,959 --> 00:33:09,041
+Please let me touch you...
+
+583
+00:33:09,041 --> 00:33:10,959
+just for a moment.
+
+584
+00:33:14,709 --> 00:33:16,500
+No... please.
+
+585
+00:33:24,291 --> 00:33:27,375
+It was a fast decision,
+which we must take as positive.
+
+586
+00:33:27,375 --> 00:33:30,166
+The Alphan representative
+has agreed--
+
+587
+00:33:30,166 --> 00:33:32,083
+however reluctantly--
+
+588
+00:33:32,083 --> 00:33:33,959
+to let you
+mediate the dispute.
+
+589
+00:33:33,959 --> 00:33:37,083
+I knew they would.
+They're reasonable people.
+
+590
+00:33:37,083 --> 00:33:39,166
+They're just trapped
+in their own anger.
+
+591
+00:33:39,166 --> 00:33:42,125
+I have no doubt, however,
+that they will bolt
+
+592
+00:33:42,125 --> 00:33:44,750
+if something goes wrong
+in the discussion.
+
+593
+00:33:46,250 --> 00:33:48,959
+Then it's my job to see
+that nothing goes wrong.
+
+594
+00:33:51,083 --> 00:33:53,792
+Did I say something wrong,
+Captain Picard?
+
+595
+00:33:53,792 --> 00:33:56,125
+No, it's just that...
+
+596
+00:33:56,125 --> 00:33:59,750
+for a moment, you sounded
+more like Will Riker.
+
+597
+00:34:05,875 --> 00:34:07,291
+We have received
+information
+
+598
+00:34:07,291 --> 00:34:08,834
+that the new host will
+arrive in 18 hours.
+
+599
+00:34:08,834 --> 00:34:10,458
+Will you be all right
+until then?
+
+600
+00:34:10,458 --> 00:34:14,500
+The medication Doctor Beverly
+gave me has helped.
+
+601
+00:34:14,500 --> 00:34:17,792
+I will find a way
+to keep going.
+
+602
+00:34:28,917 --> 00:34:30,583
+Lemon tea.
+
+603
+00:34:37,959 --> 00:34:42,417
+Computer, location
+of Doctor Beverly Crusher.
+
+604
+00:34:42,417 --> 00:34:45,542
+COMPUTER: Doctor Crusher
+is in her quarters.
+
+605
+00:35:05,625 --> 00:35:08,125
+Can you make<i> balso</i> tonic?
+
+606
+00:35:08,125 --> 00:35:10,792
+COMPUTER:
+There is no formula on record.
+
+607
+00:35:10,792 --> 00:35:14,250
+Please supply
+a molecular structure.
+
+608
+00:35:14,250 --> 00:35:16,375
+Never mind.
+
+609
+00:35:25,083 --> 00:35:27,041
+(<i> door chimes</i> )
+
+610
+00:35:28,250 --> 00:35:29,875
+Come in.
+
+611
+00:35:34,792 --> 00:35:39,083
+I thought I should see
+how you were doing.
+
+612
+00:35:39,083 --> 00:35:42,166
+If you needed
+another hypospray.
+
+613
+00:35:42,166 --> 00:35:44,041
+I don't think so.
+
+614
+00:35:45,458 --> 00:35:47,375
+The symptoms haven't returned.
+
+615
+00:35:48,625 --> 00:35:51,625
+Oh, well, that's good.
+
+616
+00:35:51,625 --> 00:35:53,542
+Yes.
+
+617
+00:35:54,959 --> 00:35:57,166
+Uh, tomorrow's
+an important day.
+
+618
+00:35:57,166 --> 00:35:59,875
+Do you feel
+ready for it?
+
+619
+00:35:59,875 --> 00:36:02,375
+I'll be fine.
+I've been preparing.
+
+620
+00:36:02,375 --> 00:36:04,125
+Oh, that's good.
+
+621
+00:36:04,125 --> 00:36:06,208
+Yes.
+
+622
+00:36:08,000 --> 00:36:10,834
+I'll, um, check your
+vital signs in the morning,
+
+623
+00:36:10,834 --> 00:36:13,458
+before the
+representatives get here.
+
+624
+00:36:13,458 --> 00:36:17,458
+I don't want them knowing that
+I'm taking any medication.
+
+625
+00:36:17,458 --> 00:36:21,417
+Maybe you could schedule
+a series of breaks.
+
+626
+00:36:21,417 --> 00:36:23,542
+That's good.
+Yes.
+
+627
+00:36:23,542 --> 00:36:26,250
+Beverly, I want you.
+
+628
+00:36:26,250 --> 00:36:28,875
+If you are going to leave,
+you better go right now.
+
+629
+00:36:28,875 --> 00:36:31,375
+I'm not leaving.
+
+630
+00:36:36,041 --> 00:36:39,291
+<i>Captain's Log,</i>
+<i>Stardate 44824.4:</i>
+
+631
+00:36:39,291 --> 00:36:41,166
+<i>Governor Leka</i>
+<i>and the representatives</i>
+
+632
+00:36:41,166 --> 00:36:44,041
+<i>of the two moons are ready</i>
+<i>to transport on board.</i>
+
+633
+00:36:44,041 --> 00:36:46,542
+<i>We have learned that</i>
+<i>they each have troops massed</i>
+
+634
+00:36:46,542 --> 00:36:49,750
+<i>and are ready for combat,</i>
+<i>if this final effort at peace</i>
+
+635
+00:36:49,750 --> 00:36:51,667
+<i>is not successful.</i>
+
+636
+00:36:51,667 --> 00:36:54,625
+White count is back up.
+Temperature is elevated.
+
+637
+00:36:54,625 --> 00:36:56,417
+The effects of
+the medication
+
+638
+00:36:56,417 --> 00:36:59,500
+are wearing off
+faster every time.
+
+639
+00:36:59,500 --> 00:37:01,083
+I'll administer one now
+
+640
+00:37:01,083 --> 00:37:03,667
+and hope that it will hold
+for an hour or so.
+
+641
+00:37:03,667 --> 00:37:05,500
+No. No more.
+
+642
+00:37:09,208 --> 00:37:12,250
+Ambassador, it's clear
+you're in pain.
+
+643
+00:37:12,250 --> 00:37:14,667
+You can't get through
+the next hours without help.
+
+644
+00:37:14,667 --> 00:37:16,667
+I must.
+
+645
+00:37:16,667 --> 00:37:20,500
+Are the injections damaging to
+the host's body, Riker's body?
+
+646
+00:37:20,500 --> 00:37:22,166
+Yes.
+
+647
+00:37:22,166 --> 00:37:24,625
+We can't put him
+through any further risk.
+
+648
+00:37:24,625 --> 00:37:28,667
+But how can you function,
+conduct the meeting?
+
+649
+00:37:28,667 --> 00:37:31,458
+I'll manage.
+
+650
+00:37:34,542 --> 00:37:36,792
+We'll respect your wishes.
+
+651
+00:37:36,792 --> 00:37:38,709
+One more thing--
+
+652
+00:37:38,709 --> 00:37:41,166
+I will conduct
+the mediations today.
+
+653
+00:37:42,834 --> 00:37:46,000
+But at the end of today,
+regardless of the outcome,
+
+654
+00:37:46,000 --> 00:37:48,667
+I must be removed
+from Riker's body,
+
+655
+00:37:48,667 --> 00:37:50,875
+even if the new host
+has not arrived.
+
+656
+00:37:50,875 --> 00:37:52,542
+But you won't survive.
+
+657
+00:37:52,542 --> 00:37:56,959
+Riker will not survive
+if I am not removed.
+
+658
+00:37:56,959 --> 00:37:59,375
+He has done enough.
+
+659
+00:38:00,917 --> 00:38:02,792
+Your word.
+
+660
+00:38:04,375 --> 00:38:06,166
+Very well.
+
+661
+00:38:07,500 --> 00:38:10,208
+WORF:
+Worf to Captain Picard.
+
+662
+00:38:10,208 --> 00:38:11,959
+Yes, Mr. Worf?
+
+663
+00:38:11,959 --> 00:38:14,291
+WORF: The Governor and the two
+representatives have returned.
+
+664
+00:38:14,291 --> 00:38:17,542
+I will escort them
+to the observation lounge.
+
+665
+00:38:17,542 --> 00:38:19,750
+PICARD:
+Thank you.
+
+666
+00:38:19,750 --> 00:38:21,875
+(<i> groans</i> )
+
+667
+00:38:34,500 --> 00:38:37,625
+I'll stand by with
+the medication, just in case.
+
+668
+00:38:37,625 --> 00:38:40,750
+The pain may become so intense
+that I'll have to...
+Beverly...
+
+669
+00:38:45,625 --> 00:38:48,417
+Whatever else I may be to you,
+
+670
+00:38:48,417 --> 00:38:50,417
+I'm your friend.
+
+671
+00:38:50,417 --> 00:38:53,417
+I can only imagine
+what you're going through.
+
+672
+00:38:53,417 --> 00:38:57,458
+And I want you to know,
+I'm here.
+
+673
+00:39:04,792 --> 00:39:06,959
+Jean-Luc.
+
+674
+00:39:18,542 --> 00:39:22,458
+Computer, what is the time?
+COMPUTER: 1535 hours.
+
+675
+00:39:22,458 --> 00:39:25,208
+They've been in there
+for almost six hours.
+
+676
+00:39:25,208 --> 00:39:28,542
+WORF:
+Captain, I am receiving
+a message from the ship
+
+677
+00:39:28,542 --> 00:39:29,917
+carrying the Trill host.
+
+678
+00:39:29,917 --> 00:39:31,417
+CRUSHER:
+Are they here, Worf?
+
+679
+00:39:31,417 --> 00:39:33,625
+No, they are experiencing
+difficulty.
+
+680
+00:39:33,625 --> 00:39:36,792
+They do not anticipate their
+arrival for another nine hours.
+
+681
+00:39:36,792 --> 00:39:38,750
+Nine hours?
+
+682
+00:39:38,750 --> 00:39:40,250
+(<i> door opening</i> )
+
+683
+00:39:43,667 --> 00:39:45,625
+It was worth it.
+
+684
+00:39:47,041 --> 00:39:48,125
+Ambassador.
+
+685
+00:39:51,667 --> 00:39:53,792
+(<i> sighs</i> )
+
+686
+00:39:53,792 --> 00:39:55,959
+They will not go to war.
+
+687
+00:39:57,750 --> 00:39:59,667
+PICARD:
+Mr. Worf, see that
+the representatives
+
+688
+00:39:59,667 --> 00:40:01,333
+are safely transported
+off the ship.
+
+689
+00:40:01,333 --> 00:40:03,125
+Ensign, set a course to
+intercept with the Trill vessel.
+
+690
+00:40:03,125 --> 00:40:04,834
+Prepare to go to warp nine.
+
+691
+00:40:04,834 --> 00:40:07,500
+Sir, it could take more than
+two hours to reach the vessel.
+
+692
+00:40:07,500 --> 00:40:10,208
+I must remove him.
+I gave my word.
+
+693
+00:40:26,083 --> 00:40:27,917
+Will is going
+to be all right.
+
+694
+00:40:27,917 --> 00:40:29,625
+His vital signs
+have stabilized
+
+695
+00:40:29,625 --> 00:40:31,709
+and he's sleeping now.
+
+696
+00:40:36,917 --> 00:40:38,709
+How is Odan?
+
+697
+00:40:38,709 --> 00:40:40,834
+I've placed him
+in stasis.
+
+698
+00:40:40,834 --> 00:40:42,625
+He's fine for the moment.
+
+699
+00:40:47,625 --> 00:40:51,375
+You need some rest, Doctor.
+No.
+
+700
+00:40:51,375 --> 00:40:53,291
+If Odan is to survive,
+he needs to be implanted
+
+701
+00:40:53,291 --> 00:40:54,875
+in the new host
+as soon as he arrives.
+
+702
+00:40:54,875 --> 00:40:57,625
+I'll wait here.
+It'll be some time.
+
+703
+00:40:57,625 --> 00:40:59,500
+I know.
+
+704
+00:41:19,667 --> 00:41:21,625
+Doctor.
+
+705
+00:41:21,625 --> 00:41:24,125
+Is the Trill host here?
+
+706
+00:41:24,125 --> 00:41:25,500
+Yes.
+
+707
+00:41:25,500 --> 00:41:26,625
+Good.
+
+708
+00:41:26,625 --> 00:41:28,458
+Bring him in.
+
+709
+00:41:34,750 --> 00:41:36,500
+Doctor?
+
+710
+00:41:39,458 --> 00:41:41,125
+I am Kareel.
+
+711
+00:41:41,125 --> 00:41:43,667
+I am to become host to Odan.
+
+712
+00:41:50,917 --> 00:41:54,041
+The operation to implant Odan
+into the new host
+
+713
+00:41:54,041 --> 00:41:56,667
+was completed at 1900 hours
+
+714
+00:41:56,667 --> 00:41:59,041
+and appears
+to have been successful.
+
+715
+00:41:59,041 --> 00:42:02,125
+There were no difficulties
+in assimilation.
+
+716
+00:42:02,125 --> 00:42:05,375
+Doctor Beverly,
+could we talk for a moment?
+
+717
+00:42:11,166 --> 00:42:14,041
+You should be sleeping.
+You need to rest.
+
+718
+00:42:14,041 --> 00:42:15,875
+I've never felt better...
+
+719
+00:42:15,875 --> 00:42:17,875
+except once or twice.
+
+720
+00:42:20,625 --> 00:42:23,709
+My poor Beverly.
+
+721
+00:42:23,709 --> 00:42:27,125
+This has been
+so hard for you.
+
+722
+00:42:28,375 --> 00:42:32,417
+I want to thank you
+for your caring...
+
+723
+00:42:32,417 --> 00:42:34,583
+for your standing by me.
+
+724
+00:42:34,583 --> 00:42:36,291
+I congratulate you.
+
+725
+00:42:36,291 --> 00:42:39,959
+You averted a war that
+would have cost many lives.
+
+726
+00:42:39,959 --> 00:42:42,500
+Yes.
+
+727
+00:42:42,500 --> 00:42:44,750
+It seems as though
+
+728
+00:42:44,750 --> 00:42:48,542
+everything has turned out
+for the best.
+
+729
+00:42:51,792 --> 00:42:55,166
+And, yes, I am still Odan,
+
+730
+00:42:55,166 --> 00:42:57,625
+and I still love you.
+
+731
+00:42:57,625 --> 00:43:01,750
+I cannot imagine that
+ever changing.
+
+732
+00:43:01,750 --> 00:43:05,041
+I am glad
+that you're all right.
+
+733
+00:43:07,792 --> 00:43:10,083
+Is there to be nothing more?
+
+734
+00:43:13,500 --> 00:43:18,125
+Perhaps it is a human failing,
+
+735
+00:43:18,125 --> 00:43:22,375
+but we are not accustomed
+to these kinds of changes.
+
+736
+00:43:22,375 --> 00:43:24,375
+I can't keep up.
+
+737
+00:43:24,375 --> 00:43:26,834
+How long will you have
+<i>this</i> host?
+
+738
+00:43:26,834 --> 00:43:28,750
+What would
+the next one be?
+
+739
+00:43:28,750 --> 00:43:33,083
+I can't live with that kind of
+uncertainty.
+
+740
+00:43:37,083 --> 00:43:39,709
+(<i> sighs</i> )
+Perhaps...
+
+741
+00:43:39,709 --> 00:43:41,750
+someday...
+
+742
+00:43:41,750 --> 00:43:45,542
+our ability to love
+
+743
+00:43:45,542 --> 00:43:48,166
+won't be so limited.
+
+744
+00:43:51,583 --> 00:43:54,291
+I understand.
+
+745
+00:43:58,125 --> 00:44:00,333
+Odan...
+
+746
+00:44:00,333 --> 00:44:03,000
+I do love you.
+
+747
+00:44:03,000 --> 00:44:05,959
+Please remember that.
+
+748
+00:44:13,583 --> 00:44:16,834
+I will never forget you.

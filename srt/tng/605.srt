@@ -1,0 +1,3401 @@
+1
+00:00:01,667 --> 00:00:05,709
+<i>Captain's Log,</i>
+<i>Stardate 46154.2.</i>
+
+2
+00:00:05,750 --> 00:00:08,917
+<i>The</i> Enterprise<i> has entered</i>
+<i>the Amargosa Diaspora,</i>
+
+3
+00:00:08,959 --> 00:00:11,417
+<i>an unusually dense</i>
+<i>globular cluster.</i>
+
+4
+00:00:11,458 --> 00:00:13,250
+<i>We are faced</i>
+<i>with the daunting task</i>
+
+5
+00:00:13,291 --> 00:00:15,959
+<i>of charting this vast region.</i>
+
+6
+00:00:19,709 --> 00:00:22,500
+(<i> sighs</i> )
+
+7
+00:00:47,625 --> 00:00:50,709
+(<i> beeping</i> )
+
+8
+00:00:53,375 --> 00:00:56,750
+Lieutenant Shipley,
+let's get a triangulation
+on these sector points.
+
+9
+00:00:56,792 --> 00:00:58,250
+Aye, sir.
+
+10
+00:01:05,375 --> 00:01:06,834
+(<i> sighs</i> )
+
+11
+00:01:06,875 --> 00:01:09,000
+I'm sorry I'm late.
+I overslept again.
+
+12
+00:01:09,041 --> 00:01:10,542
+What have we got?
+
+13
+00:01:10,583 --> 00:01:13,375
+Well, the cluster's
+a lot more dense
+than we thought.
+
+14
+00:01:13,417 --> 00:01:16,333
+It's going to take
+three days just to
+map out one-tenth of it.
+
+15
+00:01:16,375 --> 00:01:17,959
+Three days?
+
+16
+00:01:18,000 --> 00:01:19,583
+I think we found a way
+to speed that up a bit.
+
+17
+00:01:19,625 --> 00:01:21,583
+We've been testing a way
+to channel warp energy
+
+18
+00:01:21,625 --> 00:01:23,667
+directly to
+the main deflector grid.
+
+19
+00:01:23,709 --> 00:01:25,625
+It should enhance
+the long-range sensors.
+
+20
+00:01:25,667 --> 00:01:28,625
+The modification
+would increase our
+sensory efficiency
+
+21
+00:01:28,667 --> 00:01:31,875
+and imaging resolution
+by 25% or more.
+
+22
+00:01:33,375 --> 00:01:36,166
+That sounds like
+that'll use up a
+lot of warp energy.
+
+23
+00:01:36,208 --> 00:01:37,750
+Well, we'd channel it
+through the EPS mains
+
+24
+00:01:37,792 --> 00:01:39,709
+on Deck Four,
+near Cargo Bay Four.
+
+25
+00:01:39,750 --> 00:01:41,667
+Okay,
+let's give it a try.
+
+26
+00:01:41,709 --> 00:01:44,709
+Data, let's get those
+field taps on-line.
+
+27
+00:01:46,709 --> 00:01:49,250
+Commander, I would
+like to remind you
+
+28
+00:01:49,291 --> 00:01:52,333
+about my poetry reading
+this afternoon.
+
+29
+00:01:52,375 --> 00:01:55,458
+I wouldn't miss it
+for the world.
+
+30
+00:02:00,417 --> 00:02:04,959
+I can't wait to see
+what he's come up with.
+
+31
+00:02:05,000 --> 00:02:07,959
+DATA:
+"Then we sat on the sand
+for some time and observed
+
+32
+00:02:08,000 --> 00:02:10,917
+"how the oceans that cover
+the world were perturbed
+
+33
+00:02:10,959 --> 00:02:13,750
+"by the tides from
+the orbiting moon overhead.
+
+34
+00:02:13,792 --> 00:02:17,041
+"'How relaxing the sound
+of the waves is,' you said.
+
+35
+00:02:17,083 --> 00:02:19,834
+"I began to expound
+upon tidal effects
+
+36
+00:02:19,875 --> 00:02:23,333
+"when you asked me to stop,
+looking somewhat perplexed.
+
+37
+00:02:23,375 --> 00:02:26,917
+"So I did not explain
+why the sunset turns red
+
+38
+00:02:26,959 --> 00:02:31,500
+and we watched
+the occurrence...
+in silence... instead."
+
+39
+00:02:37,709 --> 00:02:41,417
+That poem was written
+in anapestic tetrameter.
+
+40
+00:02:41,458 --> 00:02:42,917
+For my ninth poem...
+
+41
+00:02:42,959 --> 00:02:45,750
+I don't understand.
+I can barely keep
+my eyes open.
+
+42
+00:02:45,792 --> 00:02:48,959
+DATA:
+Throughout the ages,
+from Keats to Jorkemo,
+
+43
+00:02:49,000 --> 00:02:51,583
+poets have composed
+odes to individuals
+
+44
+00:02:51,625 --> 00:02:54,834
+who have had a profound
+effect upon their lives.
+
+45
+00:02:54,875 --> 00:02:57,125
+In keeping
+with that tradition,
+
+46
+00:02:57,166 --> 00:03:01,208
+I have written my next
+poem in honor of my cat.
+
+47
+00:03:01,250 --> 00:03:05,667
+I call it "Ode to Spot."
+
+48
+00:03:05,709 --> 00:03:10,500
+<i>"Felis Catus is your</i>
+<i>taxonomic nomenclature,</i>
+
+49
+00:03:10,542 --> 00:03:15,417
+"an endothermic quadruped,
+carnivorous by nature,
+
+50
+00:03:15,458 --> 00:03:18,375
+"your visual, olfactory,
+and auditory senses
+
+51
+00:03:18,417 --> 00:03:22,709
+"contribute to your hunting
+skills and natural defenses.
+
+52
+00:03:22,750 --> 00:03:26,417
+"I find myself intrigued
+by your subvocal oscillations,
+
+53
+00:03:26,458 --> 00:03:29,709
+"a singular development
+of cat communications
+
+54
+00:03:29,750 --> 00:03:32,625
+"that obviates your basic
+hedonistic predilection
+
+55
+00:03:32,667 --> 00:03:36,959
+"for a rhythmic
+stroking of your fur
+to demonstrate affection.
+
+56
+00:03:37,000 --> 00:03:40,417
+"A tail is quite essential
+for your acrobatic talents.
+
+57
+00:03:40,458 --> 00:03:44,166
+"You would not be
+so agile if you lacked
+its counterbalance.
+
+58
+00:03:44,208 --> 00:03:47,875
+"And when not being utilized
+to aid in locomotion,
+
+59
+00:03:47,917 --> 00:03:52,875
+"it often serves
+to illustrate the state
+of your emotion..."
+
+60
+00:03:54,417 --> 00:03:58,291
+Commander, you have
+anticipated my denouement.
+
+61
+00:03:58,333 --> 00:04:01,291
+However, the sentiment
+is appreciated.
+
+62
+00:04:01,333 --> 00:04:04,625
+I will continue.
+
+63
+00:04:04,667 --> 00:04:08,959
+"Oh, Spot,
+the complex levels
+of behavior you display
+
+64
+00:04:09,000 --> 00:04:12,166
+"connote a fairly
+well-developed
+cognitive array.
+
+65
+00:04:12,208 --> 00:04:17,458
+"And though you are
+not sentient, Spot,
+and do not comprehend,
+
+66
+00:04:17,500 --> 00:04:22,542
+I, nonetheless,
+consider you a true
+and valued friend."
+
+67
+00:04:22,583 --> 00:04:23,875
+(<i> snoring</i> )
+
+68
+00:04:49,333 --> 00:04:54,125
+<i>Space, the final frontier.</i>
+
+69
+00:04:54,166 --> 00:04:58,542
+<i>These are the voyages</i>
+<i>of the starship</i> Enterprise.
+
+70
+00:04:58,583 --> 00:05:00,291
+<i>Its continuing mission--</i>
+
+71
+00:05:00,333 --> 00:05:03,834
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+72
+00:05:03,875 --> 00:05:08,166
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+73
+00:05:08,208 --> 00:05:13,208
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+74
+00:06:09,625 --> 00:06:11,125
+I have no problem
+getting to sleep
+
+75
+00:06:11,166 --> 00:06:14,041
+and then I think
+I'm sleeping all night.
+
+76
+00:06:14,083 --> 00:06:16,500
+When I wake up,
+I feel exhausted.
+
+77
+00:06:16,542 --> 00:06:18,375
+How long has this
+been going on?
+
+78
+00:06:18,417 --> 00:06:19,625
+Two, three days.
+
+79
+00:06:19,667 --> 00:06:22,125
+Do you have to hold
+that thing that close?
+
+80
+00:06:23,375 --> 00:06:26,166
+I'm sorry.
+
+81
+00:06:26,208 --> 00:06:28,792
+I've been on edge
+all day.
+
+82
+00:06:28,834 --> 00:06:31,834
+Well...
+
+83
+00:06:31,875 --> 00:06:34,750
+other than some muscle
+tension in your neck,
+
+84
+00:06:34,792 --> 00:06:37,083
+I don't see anything
+physically wrong with you.
+
+85
+00:06:37,125 --> 00:06:38,792
+Have you been
+having bad dreams?
+
+86
+00:06:38,834 --> 00:06:41,542
+Not that I can remember.
+
+87
+00:06:41,583 --> 00:06:44,792
+This could be the result
+of lack of REM sleep.
+
+88
+00:06:44,834 --> 00:06:46,709
+What do you recommend?
+
+89
+00:06:48,333 --> 00:06:50,458
+Drink this before
+going to bed.
+
+90
+00:06:50,500 --> 00:06:51,583
+What is it?
+
+91
+00:06:51,625 --> 00:06:54,041
+A recipe for
+a warm milk toddy.
+
+92
+00:06:54,083 --> 00:06:57,750
+A hot milk toddy?
+You're kidding.
+
+93
+00:06:57,792 --> 00:07:02,417
+The heat activates the
+amino acids in the lactose,
+making it a natural sedative.
+
+94
+00:07:02,458 --> 00:07:05,542
+Besides, it's a recipe of
+the captain's Aunt Adele.
+
+95
+00:07:05,583 --> 00:07:07,000
+It's delicious.
+
+96
+00:07:07,041 --> 00:07:08,625
+Well, at this point,
+I'll try anything.
+
+97
+00:07:08,667 --> 00:07:10,208
+And listen, if it still
+bothers you tomorrow,
+
+98
+00:07:10,250 --> 00:07:12,000
+come and see me, and
+I'll run further tests.
+
+99
+00:07:12,041 --> 00:07:13,500
+Thanks.
+
+100
+00:07:19,500 --> 00:07:20,959
+Everything's in place.
+
+101
+00:07:21,000 --> 00:07:24,041
+Warp grid couplers,
+subspace field taps...
+
+102
+00:07:24,083 --> 00:07:26,166
+All right, let's do it.
+
+103
+00:07:26,208 --> 00:07:29,208
+Lieutenant Shipley,
+initiate warp power transfer.
+
+104
+00:07:29,250 --> 00:07:30,458
+Aye, sir.
+
+105
+00:07:30,500 --> 00:07:32,834
+Verifying sensor
+calibration.
+
+106
+00:07:32,875 --> 00:07:35,208
+EPS mains holding stable.
+
+107
+00:07:35,250 --> 00:07:36,709
+Sensor array on-line.
+
+108
+00:07:36,750 --> 00:07:39,709
+Come on, work.
+
+109
+00:07:41,542 --> 00:07:43,000
+Geordi?
+
+110
+00:07:43,041 --> 00:07:46,667
+Active scanner output
+has increased by 26%.
+
+111
+00:07:46,709 --> 00:07:51,375
+Inform astrophysics
+that the<i> new</i> La Forge
+sensor array is on-line
+
+112
+00:07:51,417 --> 00:07:53,333
+and awaiting major
+scientific discoveries.
+
+113
+00:07:53,375 --> 00:07:55,583
+Yes, sir.
+
+114
+00:07:55,625 --> 00:08:00,417
+Geordi... may I make
+a personal inquiry?
+
+115
+00:08:00,458 --> 00:08:02,875
+It concerns my
+poetry reading.
+
+116
+00:08:02,917 --> 00:08:04,583
+Sure, Data, what is it?
+
+117
+00:08:04,625 --> 00:08:06,834
+I noticed
+that many spectators
+
+118
+00:08:06,875 --> 00:08:09,208
+seemed distracted
+during my presentation.
+
+119
+00:08:09,250 --> 00:08:11,875
+Was my poetry
+uninteresting?
+
+120
+00:08:11,917 --> 00:08:13,583
+(<i> clears throat</i> )
+
+121
+00:08:13,625 --> 00:08:17,792
+Well, it was...
+very well-constructed--
+
+122
+00:08:17,834 --> 00:08:20,750
+a virtual tribute to form.
+
+123
+00:08:20,792 --> 00:08:21,875
+Thank you.
+
+124
+00:08:23,875 --> 00:08:25,834
+And?
+
+125
+00:08:27,125 --> 00:08:28,500
+And what?
+
+126
+00:08:28,542 --> 00:08:31,417
+Did it evoke
+an emotional response?
+
+127
+00:08:31,458 --> 00:08:32,959
+(<i> sighs</i> )
+
+128
+00:08:33,000 --> 00:08:35,000
+Well...
+
+129
+00:08:35,041 --> 00:08:38,166
+Your hesitation suggests
+you are trying to
+protect my feelings.
+
+130
+00:08:38,208 --> 00:08:41,917
+However, since I
+have none, I would
+prefer you to be honest.
+
+131
+00:08:41,959 --> 00:08:45,583
+An artist's growth depends
+upon accurate feedback.
+
+132
+00:08:47,875 --> 00:08:51,959
+Well, your-- your poems
+were... clever, Data.
+
+133
+00:08:52,000 --> 00:08:55,208
+And-- and your haiku
+was clever.
+
+134
+00:08:55,250 --> 00:08:58,458
+And your sonnet was...
+
+135
+00:08:58,500 --> 00:09:00,333
+clever.
+
+136
+00:09:00,375 --> 00:09:04,166
+But did it evoke
+an emotional response?
+
+137
+00:09:04,208 --> 00:09:08,542
+Ah, to be honest,
+no, I don't think so.
+
+138
+00:09:08,583 --> 00:09:09,834
+Hmm.
+
+139
+00:09:09,875 --> 00:09:12,417
+Then I did not succeed
+in my efforts.
+
+140
+00:09:12,458 --> 00:09:13,959
+No, it's not that
+you didn't succeed.
+
+141
+00:09:14,000 --> 00:09:16,583
+You accomplished
+a lot, but...
+
+142
+00:09:16,625 --> 00:09:18,583
+if you want to
+touch people,
+
+143
+00:09:18,625 --> 00:09:21,625
+don't concentrate so
+much on rhyme and meter.
+
+144
+00:09:21,667 --> 00:09:24,291
+Think more about
+<i>what</i> you want to say
+
+145
+00:09:24,333 --> 00:09:26,375
+instead of how
+you're saying it.
+
+146
+00:09:27,208 --> 00:09:29,917
+(<i> alarm beeping</i> )
+
+147
+00:09:29,959 --> 00:09:32,000
+It's the power grid
+warning.
+
+148
+00:09:32,041 --> 00:09:34,083
+I am reading
+a massive EPS explosion.
+
+149
+00:09:34,125 --> 00:09:35,166
+Where?
+
+150
+00:09:35,208 --> 00:09:37,458
+I am attempting
+to localize it.
+
+151
+00:09:37,500 --> 00:09:39,083
+It is Cargo Bay Four.
+
+152
+00:09:39,125 --> 00:09:41,166
+I've got three people
+in there.
+
+153
+00:09:41,208 --> 00:09:44,041
+Damage control, medical
+team to Cargo Bay Four.
+
+154
+00:09:44,083 --> 00:09:46,208
+Let's go.
+
+155
+00:09:57,709 --> 00:10:00,208
+The field imbalance
+has subsided.
+
+156
+00:10:00,250 --> 00:10:03,333
+There may still be
+a residual discharge.
+
+157
+00:10:03,375 --> 00:10:05,333
+Stand clear.
+
+158
+00:10:09,208 --> 00:10:12,375
+(<i> indistinct voices</i> )
+
+159
+00:10:21,709 --> 00:10:23,834
+Is there something
+wrong, sir?
+
+160
+00:10:26,208 --> 00:10:28,875
+And there's no evidence
+of an EPS explosion.
+
+161
+00:10:28,917 --> 00:10:30,792
+The sensors seemed
+to think there was.
+
+162
+00:10:30,834 --> 00:10:33,041
+I think my modification
+to the sensor array
+
+163
+00:10:33,083 --> 00:10:35,166
+may have caused a pattern
+recognition failure.
+
+164
+00:10:35,208 --> 00:10:36,417
+Just a sensor glitch?
+
+165
+00:10:36,458 --> 00:10:37,875
+That's my guess.
+
+166
+00:10:37,917 --> 00:10:39,333
+(<i> sighs</i> )
+
+167
+00:10:39,375 --> 00:10:41,750
+Let's perform a
+level-3 diagnostic
+
+168
+00:10:41,792 --> 00:10:44,500
+on the internal sensor
+network and make sure
+
+169
+00:10:44,542 --> 00:10:46,250
+that we haven't
+overlooked anything.
+Aye, sir.
+
+170
+00:10:46,291 --> 00:10:49,125
+And could we pick this up
+in the morning, Geordi?
+
+171
+00:10:49,166 --> 00:10:51,917
+Get a fresh start?
+
+172
+00:10:51,959 --> 00:10:53,166
+Would you do me a favor?
+
+173
+00:10:53,208 --> 00:10:55,834
+Stop by my quarters,
+0700 hours.
+
+174
+00:10:55,875 --> 00:10:57,417
+I'm having trouble
+waking up.
+
+175
+00:10:57,458 --> 00:10:58,458
+Sure, Commander.
+
+176
+00:10:58,500 --> 00:10:59,458
+Good night.
+
+177
+00:10:59,500 --> 00:11:00,583
+Good night.
+
+178
+00:11:13,792 --> 00:11:15,959
+(<i> sighs</i> )
+
+179
+00:11:23,542 --> 00:11:25,458
+(<i> grunts</i> )
+
+180
+00:11:38,458 --> 00:11:40,166
+Commander.
+Gordon.
+
+181
+00:11:54,208 --> 00:11:55,208
+Who is it?
+
+182
+00:11:55,250 --> 00:11:57,375
+It's La Forge.
+
+183
+00:11:57,417 --> 00:11:59,250
+Come in.
+
+184
+00:12:01,625 --> 00:12:03,125
+Good morning.
+
+185
+00:12:03,166 --> 00:12:05,542
+Morning?
+I just went to bed.
+
+186
+00:12:05,583 --> 00:12:08,875
+Commander,
+it's 0700 hours.
+
+187
+00:12:30,208 --> 00:12:33,542
+And so she said,
+"if they're not squirming,
+we won't eat 'em."
+
+188
+00:12:33,583 --> 00:12:35,917
+(<i> laughing</i> )
+
+189
+00:12:35,959 --> 00:12:39,375
+Ah, Mr. Worf,
+my good Klingon.
+
+190
+00:12:39,417 --> 00:12:41,291
+Sir, welcome.
+
+191
+00:12:41,333 --> 00:12:46,625
+What a pleasure it is
+to have you back
+with us again so soon.
+
+192
+00:12:46,667 --> 00:12:50,375
+So, Lieutenant,
+a haircut today?
+
+193
+00:12:50,417 --> 00:12:51,458
+Trim your beard?
+
+194
+00:12:51,500 --> 00:12:53,250
+I would like
+my hair trimmed.
+
+195
+00:12:53,291 --> 00:12:54,792
+Ah, a trim.
+Of course.
+
+196
+00:12:54,834 --> 00:12:56,000
+Not like last time.
+
+197
+00:12:56,041 --> 00:12:58,583
+Oh, no. Just
+a little off the top.
+
+198
+00:12:58,625 --> 00:13:02,583
+I took<i> way</i> too much
+off last time.
+
+199
+00:13:05,625 --> 00:13:09,750
+Um, I was just telling
+my colleague, Mr. Setti,
+
+200
+00:13:09,792 --> 00:13:13,709
+how thick and luxuriant
+Klingon hair is.
+
+201
+00:13:13,750 --> 00:13:15,208
+It's such
+a pleasure to cut,
+
+202
+00:13:15,250 --> 00:13:18,083
+sometimes I
+get carried away.
+
+203
+00:13:18,125 --> 00:13:20,667
+You know, all those
+away missions--
+
+204
+00:13:20,709 --> 00:13:22,834
+wind and-- and dry air.
+
+205
+00:13:22,875 --> 00:13:26,500
+The elements really
+are harsh on the hair.
+
+206
+00:13:26,542 --> 00:13:30,625
+I'd like to suggest
+that you start using
+a conditioning agent.
+
+207
+00:13:39,417 --> 00:13:44,208
+I... I promise...
+not too much off the top.
+
+208
+00:14:00,291 --> 00:14:02,208
+Just before
+the grid alarm sounded,
+
+209
+00:14:02,250 --> 00:14:04,750
+we were running warp power
+through this junction.
+
+210
+00:14:04,792 --> 00:14:08,083
+Somehow, it must have tripped
+the internal scanners.
+
+211
+00:14:08,125 --> 00:14:10,125
+And it showed up as
+an EPS explosion?
+
+212
+00:14:10,166 --> 00:14:12,834
+Yes, but
+the question is, why?
+
+213
+00:14:12,875 --> 00:14:15,250
+I've made modifications
+to the sensors before,
+
+214
+00:14:15,291 --> 00:14:17,375
+but nothing like<i> this</i>
+has ever happened.
+
+215
+00:14:17,417 --> 00:14:20,709
+Well, we can't waste our
+time chasing sensor ghosts.
+
+216
+00:14:20,750 --> 00:14:22,417
+We should probably keep
+the whole array off-line
+
+217
+00:14:22,458 --> 00:14:23,750
+until you can get
+a closer look.
+
+218
+00:14:23,792 --> 00:14:24,875
+(<i> yawning</i> )
+
+219
+00:14:24,917 --> 00:14:26,083
+Oh, excuse me.
+
+220
+00:14:26,125 --> 00:14:28,125
+I know the feeling.
+
+221
+00:14:28,166 --> 00:14:29,417
+The past few nights,
+it seems like
+
+222
+00:14:29,458 --> 00:14:30,750
+as soon as my head
+hits the pillow,
+
+223
+00:14:30,792 --> 00:14:32,208
+it's time to get up
+in the morning.
+
+224
+00:14:32,250 --> 00:14:33,834
+I'm sure we could all use
+a little shore leave
+
+225
+00:14:33,875 --> 00:14:35,208
+once this survey
+is completed.
+
+226
+00:14:35,250 --> 00:14:36,709
+Definitely.
+Keep me posted?
+
+227
+00:14:36,750 --> 00:14:39,166
+Yeah. Data?
+
+228
+00:14:39,208 --> 00:14:40,834
+I'm wondering if you
+could give me a hand.
+
+229
+00:14:40,875 --> 00:14:42,667
+I need to run a structural
+integrity scan.
+
+230
+00:14:42,709 --> 00:14:46,208
+I want to make sure that
+none of the conduit was...
+
+231
+00:14:46,250 --> 00:14:49,417
+Ooh...
+What is it?
+
+232
+00:14:49,458 --> 00:14:52,250
+(<i> sighs</i> )
+
+233
+00:14:52,291 --> 00:14:54,041
+This is
+the second time today
+
+234
+00:14:54,083 --> 00:14:57,375
+that my visor has just
+cut out like that.
+
+235
+00:14:58,375 --> 00:15:02,041
+Are you all
+right, Geordi?
+
+236
+00:15:02,083 --> 00:15:03,875
+I don't know.
+
+237
+00:15:03,917 --> 00:15:07,625
+I just got
+a very weird feeling.
+
+238
+00:15:07,667 --> 00:15:09,333
+Maybe I should go
+to sick bay.
+
+239
+00:15:09,375 --> 00:15:11,125
+I will run the
+integrity scan.
+
+240
+00:15:11,166 --> 00:15:13,208
+Thanks, Data.
+
+241
+00:15:18,750 --> 00:15:21,542
+CRUSHER:
+This is curious.
+
+242
+00:15:21,583 --> 00:15:25,583
+There's a slight
+bacterial infection
+around your neural inputs.
+
+243
+00:15:25,625 --> 00:15:28,250
+It was probably
+interrupting
+the data stream.
+
+244
+00:15:28,291 --> 00:15:30,166
+An infection?
+What from?
+
+245
+00:15:30,208 --> 00:15:34,959
+It doesn't match
+any bacterial
+strains on record.
+
+246
+00:15:35,000 --> 00:15:38,542
+I'm going to have to
+sterilize the area,
+
+247
+00:15:38,583 --> 00:15:41,750
+but I need to run a
+resonance tissue scan
+
+248
+00:15:41,792 --> 00:15:44,500
+to search for any signs
+of additional infection.
+
+249
+00:15:44,542 --> 00:15:46,709
+Come over here.
+
+250
+00:15:53,542 --> 00:15:55,583
+Sit down.
+
+251
+00:15:58,917 --> 00:16:01,166
+Now, come forward.
+
+252
+00:16:06,417 --> 00:16:10,041
+Now, you're going to
+need to hold very still.
+
+253
+00:16:17,458 --> 00:16:18,542
+How's the scan
+going, Data?
+
+254
+00:16:18,583 --> 00:16:19,917
+I have just
+started the scan.
+
+255
+00:16:19,959 --> 00:16:22,375
+Did you not go
+to sick bay?
+
+256
+00:16:22,417 --> 00:16:25,375
+Data, I've been there
+for over an hour and a half.
+
+257
+00:16:25,417 --> 00:16:26,875
+That is not possible.
+
+258
+00:16:26,917 --> 00:16:29,041
+My internal chronometer
+indicates you have been gone
+
+259
+00:16:29,083 --> 00:16:31,166
+for exactly
+one minute, 15 seconds.
+
+260
+00:16:31,208 --> 00:16:32,458
+Well, I'm
+telling you, Data,
+
+261
+00:16:32,500 --> 00:16:33,750
+I've been gone
+for over an hour.
+
+262
+00:16:33,792 --> 00:16:36,709
+Computer, what is
+the time, please?
+
+263
+00:16:36,750 --> 00:16:40,041
+The time is 14:27 hours.
+
+264
+00:16:40,083 --> 00:16:42,041
+<i>You</i> are correct.
+
+265
+00:16:42,083 --> 00:16:45,250
+90 minutes, 17 seconds
+have passed since
+you left the room.
+
+266
+00:16:45,291 --> 00:16:47,041
+What have you been doing
+all this time?
+
+267
+00:16:47,083 --> 00:16:50,750
+I have no memory of events
+during that period.
+
+268
+00:16:50,792 --> 00:16:53,625
+When we have finished
+here, I will perform
+a self-diagnostic.
+
+269
+00:16:53,667 --> 00:16:56,166
+You know, first we
+picked up a false
+EPS explosion,
+
+270
+00:16:56,208 --> 00:17:01,875
+then my visor cuts out twice
+and now, you lose an hour,
+all in this cargo bay.
+
+271
+00:17:01,917 --> 00:17:05,333
+La Forge to engineering.
+I want a diagnostic team to
+Cargo Bay Four immediately.
+
+272
+00:17:05,375 --> 00:17:07,417
+On our way, sir.
+
+273
+00:17:07,458 --> 00:17:12,166
+Ensign Rager, cartography
+needs a better position
+to study cluster FGC-13.
+
+274
+00:17:12,208 --> 00:17:15,500
+Bring us about,
+heading 123 mark four.
+
+275
+00:17:15,542 --> 00:17:17,583
+Aye, sir.
+
+276
+00:17:17,625 --> 00:17:21,917
+Helm won't lock to
+those coordinates, sir.
+
+277
+00:17:21,959 --> 00:17:25,625
+First time navigating
+through a globular
+cluster, Ensign?
+
+278
+00:17:27,583 --> 00:17:32,375
+You have to compensate
+for the gravimetric
+interference before...
+
+279
+00:17:37,875 --> 00:17:41,166
+Is there something
+wrong, sir?
+
+280
+00:17:43,750 --> 00:17:45,709
+No.
+
+281
+00:17:47,792 --> 00:17:49,458
+I don't know.
+
+282
+00:17:49,500 --> 00:17:52,625
+Put us back on our
+original heading, Ensign.
+
+283
+00:17:57,417 --> 00:17:59,834
+Don't tell me...
+
+284
+00:18:01,291 --> 00:18:04,875
+This can't be right.
+
+285
+00:18:04,917 --> 00:18:06,542
+Data...
+
+286
+00:18:06,583 --> 00:18:09,208
+come here and take a
+look at this, would you?
+
+287
+00:18:10,417 --> 00:18:13,542
+I think we have
+another sensor glitch.
+
+288
+00:18:13,583 --> 00:18:16,000
+Sensors are
+functioning normally.
+
+289
+00:18:16,041 --> 00:18:18,542
+They are detecting a
+subspace particle emission
+
+290
+00:18:18,583 --> 00:18:20,291
+originating
+from within this room.
+
+291
+00:18:20,333 --> 00:18:23,166
+From within this room?
+That's impossible.
+
+292
+00:18:29,125 --> 00:18:32,166
+The emission is emanating
+from this direction.
+
+293
+00:18:35,917 --> 00:18:37,917
+Geordi...
+
+294
+00:18:56,166 --> 00:18:57,667
+DATA:
+the structure
+of the bulkhead
+
+295
+00:18:57,709 --> 00:18:59,625
+has been altered
+on a subatomic level.
+
+296
+00:18:59,667 --> 00:19:02,750
+The metal itself
+is in a state of
+quasi-molecular flux.
+
+297
+00:19:02,792 --> 00:19:04,250
+What's causing it?
+
+298
+00:19:04,291 --> 00:19:06,291
+Well, this is where it
+gets a little wild, Captain.
+
+299
+00:19:06,333 --> 00:19:08,750
+Behind that panel
+is a junction
+that we were using
+
+300
+00:19:08,792 --> 00:19:11,583
+to transfer warp power
+to the sensor array.
+
+301
+00:19:11,625 --> 00:19:13,166
+We're reading a
+subspace particle stream
+
+302
+00:19:13,208 --> 00:19:15,208
+emanating from
+that junction.
+
+303
+00:19:15,250 --> 00:19:19,500
+It appears to be composed
+of spatially inverted
+tetryon particles.
+
+304
+00:19:19,542 --> 00:19:20,834
+We believe they
+are emanating
+
+305
+00:19:20,875 --> 00:19:23,125
+from a tertiary
+subspace manifold.
+
+306
+00:19:23,166 --> 00:19:26,333
+But I thought that
+tetryons were unstable
+in normal space.
+
+307
+00:19:26,375 --> 00:19:28,750
+We don't understand it
+either, sir.
+
+308
+00:19:28,792 --> 00:19:31,000
+Something from
+that deep in subspace
+
+309
+00:19:31,041 --> 00:19:33,125
+shouldn't be able to
+exist in our universe,
+
+310
+00:19:33,166 --> 00:19:34,333
+but there it is.
+
+311
+00:19:34,375 --> 00:19:36,208
+Does it pose a danger
+to the ship?
+
+312
+00:19:36,250 --> 00:19:37,625
+Not unless it spreads.
+
+313
+00:19:37,667 --> 00:19:39,625
+If it does, we can beam
+the bulkhead into space
+
+314
+00:19:39,667 --> 00:19:42,333
+and erect a force field
+in its place.
+
+315
+00:19:42,375 --> 00:19:44,750
+Well, keep
+that option ready.
+
+316
+00:19:44,792 --> 00:19:46,875
+In the meantime,
+proceed with the analysis.
+
+317
+00:19:46,917 --> 00:19:48,959
+Aye, sir.
+
+318
+00:19:49,041 --> 00:19:53,250
+When I sat at the console,
+it triggered a response
+like I'd been trapped.
+
+319
+00:19:53,291 --> 00:19:54,917
+I had to get
+out of there.
+
+320
+00:19:54,959 --> 00:19:57,333
+Was it something about
+the console itself?
+
+321
+00:19:57,375 --> 00:20:01,667
+No. I felt like
+I was disconnected,
+
+322
+00:20:01,709 --> 00:20:05,291
+like it was something
+that I had dreamed.
+
+323
+00:20:05,333 --> 00:20:09,875
+You're the third person
+who's come to me today
+with something like this--
+
+324
+00:20:09,917 --> 00:20:13,542
+an intense emotional
+response provoked by
+an object.
+
+325
+00:20:13,583 --> 00:20:16,000
+Did any of them
+know why they had
+had the response?
+
+326
+00:20:16,041 --> 00:20:18,625
+No. They couldn't
+explain it any more
+than you could.
+
+327
+00:20:18,667 --> 00:20:22,041
+You know, at this point
+I'm not willing to say
+it's coincidence.
+
+328
+00:20:22,083 --> 00:20:25,500
+Maybe we should all
+get together.
+
+329
+00:20:25,542 --> 00:20:29,375
+Well, talking about it
+would help you
+understand your response.
+
+330
+00:20:29,417 --> 00:20:31,083
+(<i> sighs</i> )
+
+331
+00:20:31,125 --> 00:20:33,250
+I'm going to find out
+if anyone else on the ship
+
+332
+00:20:33,291 --> 00:20:35,250
+has had these kind
+of experiences.
+
+333
+00:20:45,208 --> 00:20:48,291
+Will, you told me you
+had an unusual experience
+
+334
+00:20:48,333 --> 00:20:49,834
+when you sat down
+at the console.
+
+335
+00:20:49,875 --> 00:20:52,500
+Why don't you
+describe it?
+
+336
+00:20:52,542 --> 00:20:56,166
+It was vague, the way
+you recall a dream.
+
+337
+00:20:56,208 --> 00:20:59,500
+I remember
+the sensation
+of feeling trapped
+
+338
+00:20:59,542 --> 00:21:03,250
+and something about
+a-- a smooth surface.
+
+339
+00:21:03,291 --> 00:21:08,667
+I had a similar response,
+but to a pair of scissors.
+
+340
+00:21:08,709 --> 00:21:11,166
+Have you dreamt
+about scissors recently?
+
+341
+00:21:11,208 --> 00:21:13,917
+I may have. I have
+no distinct memory of it.
+
+342
+00:21:13,959 --> 00:21:18,166
+When my visor cut out
+in the cargo bay, I had
+a weird feeling, too.
+
+343
+00:21:18,208 --> 00:21:20,917
+It was something
+about a smooth surface.
+
+344
+00:21:20,959 --> 00:21:25,500
+It was smooth...
+and cold.
+
+345
+00:21:25,542 --> 00:21:27,834
+Yeah, it was cold.
+
+346
+00:21:27,875 --> 00:21:30,959
+Yes. Cold.
+
+347
+00:21:31,000 --> 00:21:34,750
+It was... elevated?
+
+348
+00:21:34,792 --> 00:21:36,625
+A platform.
+
+349
+00:21:36,667 --> 00:21:37,834
+Right.
+
+350
+00:21:37,875 --> 00:21:41,875
+Like a bench.
+
+351
+00:21:41,917 --> 00:21:44,417
+Or a table.
+
+352
+00:21:44,458 --> 00:21:49,333
+It seems you've all had
+a similar experience.
+
+353
+00:21:49,375 --> 00:21:52,959
+Is there anything
+else you remember
+besides a table?
+
+354
+00:21:56,834 --> 00:21:59,208
+(<i> sighs</i> )
+
+355
+00:21:59,250 --> 00:22:05,208
+Maybe there's a way
+we can all help ourselves
+to remember more.
+
+356
+00:22:11,542 --> 00:22:15,625
+TROI:
+Well, you all
+remember a table,
+so let's start with that.
+
+357
+00:22:15,667 --> 00:22:17,625
+Computer,
+show me a table.
+
+358
+00:22:17,667 --> 00:22:22,041
+There are 5,047
+classifications
+of tables on file.
+
+359
+00:22:22,083 --> 00:22:24,583
+Specify
+design parameters.
+
+360
+00:22:24,625 --> 00:22:26,959
+Can you be more specific
+about the table?
+
+361
+00:22:27,000 --> 00:22:29,542
+You mentioned it
+was smooth and cold.
+
+362
+00:22:29,583 --> 00:22:32,250
+Can you remember
+what shape it was?
+
+363
+00:22:32,291 --> 00:22:33,625
+Long.
+
+364
+00:22:33,667 --> 00:22:34,917
+It was long.
+
+365
+00:22:34,959 --> 00:22:39,000
+Yeah, and it had
+a rectangular shape.
+
+366
+00:22:39,041 --> 00:22:43,834
+Computer, show me
+a rectangular
+conference table.
+
+367
+00:23:01,500 --> 00:23:04,583
+It's too high.
+
+368
+00:23:04,625 --> 00:23:10,166
+Computer, reduce the height
+of the table by 25%.
+
+369
+00:23:11,458 --> 00:23:16,166
+No. The table was smaller
+and it was inclined.
+
+370
+00:23:16,208 --> 00:23:21,166
+Computer, decrease the
+table's surface area by 20%
+
+371
+00:23:21,208 --> 00:23:23,417
+and incline
+the top 15 degrees.
+
+372
+00:23:25,417 --> 00:23:28,250
+No. It wasn't
+made of wood.
+
+373
+00:23:28,291 --> 00:23:31,250
+It was smoother,
+more metallic.
+
+374
+00:23:31,291 --> 00:23:33,750
+Computer, make this
+a metal table.
+
+375
+00:23:35,583 --> 00:23:37,750
+Yeah.
+
+376
+00:23:37,792 --> 00:23:40,709
+Yeah, that's starting
+to look right.
+
+377
+00:23:40,750 --> 00:23:42,500
+Was there anything else
+in the room?
+
+378
+00:23:42,542 --> 00:23:46,917
+Furniture?
+Chairs? A door?
+
+379
+00:23:46,959 --> 00:23:48,375
+Other people?
+
+380
+00:23:48,417 --> 00:23:51,375
+No.
+It was dark.
+
+381
+00:23:51,417 --> 00:23:53,125
+RIKER:
+Yes, it was dark.
+
+382
+00:23:54,333 --> 00:23:56,417
+You couldn't see
+beyond the table.
+
+383
+00:23:56,458 --> 00:23:59,917
+Computer, lower the
+surrounding light level.
+
+384
+00:24:04,458 --> 00:24:07,792
+LA FORGE:
+There was a light
+right in my face--
+
+385
+00:24:07,834 --> 00:24:09,542
+a bright light.
+
+386
+00:24:09,583 --> 00:24:14,166
+Computer, give me
+a bright light right
+above the table.
+
+387
+00:24:14,208 --> 00:24:16,291
+Specify light source.
+
+388
+00:24:16,333 --> 00:24:20,959
+I couldn't tell.
+I-- it was above me.
+
+389
+00:24:21,000 --> 00:24:23,125
+An overhead lamp.
+
+390
+00:24:23,166 --> 00:24:25,208
+Estimated distance
+of light source?
+
+391
+00:24:25,250 --> 00:24:27,125
+I don't know.
+
+392
+00:24:27,166 --> 00:24:31,250
+It was at least two
+or three meters above.
+
+393
+00:24:35,125 --> 00:24:37,083
+Brighter.
+
+394
+00:24:38,709 --> 00:24:40,458
+Brighter.
+
+395
+00:24:47,458 --> 00:24:51,583
+You said you were uneasy
+when you sat down
+at the conn position.
+
+396
+00:24:51,625 --> 00:24:57,208
+Yes. I felt trapped
+by the console.
+
+397
+00:24:57,250 --> 00:24:58,709
+But it wasn't like this.
+
+398
+00:24:58,750 --> 00:25:01,500
+There was
+something else here.
+
+399
+00:25:03,417 --> 00:25:07,083
+A restraint of some kind?
+
+400
+00:25:07,125 --> 00:25:09,458
+Yes, there was
+a restraint.
+
+401
+00:25:09,500 --> 00:25:12,041
+It was flat, metal.
+
+402
+00:25:12,083 --> 00:25:14,709
+It was made of metal.
+
+403
+00:25:14,750 --> 00:25:19,500
+It came down over my legs.
+
+404
+00:25:19,542 --> 00:25:20,917
+No, no, it... no.
+
+405
+00:25:20,959 --> 00:25:22,917
+It was... it was
+across my chest.
+
+406
+00:25:22,959 --> 00:25:24,291
+It was right here.
+
+407
+00:25:24,333 --> 00:25:25,709
+It was holding you down?
+
+408
+00:25:25,750 --> 00:25:27,041
+Yes. It was part
+of the table.
+
+409
+00:25:27,083 --> 00:25:29,291
+It was here.
+It was right here.
+
+410
+00:25:30,625 --> 00:25:35,542
+Computer, create
+a restraining arm
+
+411
+00:25:35,583 --> 00:25:39,959
+attached to the
+right side of the
+table at the midpoint.
+
+412
+00:25:43,083 --> 00:25:46,542
+TROI:
+Was it like that?
+
+413
+00:25:46,583 --> 00:25:50,500
+Computer, put controls
+on the restraining arm,
+
+414
+00:25:50,542 --> 00:25:53,333
+a control panel,
+lights.
+
+415
+00:25:55,583 --> 00:25:58,709
+WOMAN:
+There was something
+else there,
+
+416
+00:25:58,750 --> 00:26:02,291
+over the head
+of the table.
+
+417
+00:26:02,333 --> 00:26:05,083
+A metal swing arm.
+
+418
+00:26:05,125 --> 00:26:08,709
+Computer, create
+a metal swing arm,
+
+419
+00:26:08,750 --> 00:26:12,125
+double-jointed,
+total length one meter.
+
+420
+00:26:12,166 --> 00:26:15,291
+Connect it
+to the head of the table.
+
+421
+00:26:17,333 --> 00:26:19,333
+WORF:
+There was something
+attached to it--
+
+422
+00:26:19,375 --> 00:26:20,959
+a tool of some sort.
+
+423
+00:26:21,000 --> 00:26:23,583
+Scissor-like.
+
+424
+00:26:25,458 --> 00:26:29,667
+Computer, produce
+a pair of scissors
+attached to the armature.
+
+425
+00:26:31,917 --> 00:26:37,041
+The handle is wrong.
+It was not scissors.
+
+426
+00:26:37,083 --> 00:26:40,959
+Computer, make the handle
+a single-piece grip
+
+427
+00:26:41,000 --> 00:26:45,709
+ten centimeters long,
+solid metal.
+
+428
+00:26:45,750 --> 00:26:49,083
+Now make one blade longer,
+curved inward...
+
+429
+00:26:51,542 --> 00:26:54,542
+and give the other blade
+a jagged edge.
+
+430
+00:26:58,542 --> 00:27:00,083
+TROI:
+All right.
+
+431
+00:27:00,125 --> 00:27:03,917
+You were lying
+on the table.
+
+432
+00:27:03,959 --> 00:27:08,333
+You had a bright light
+shining in your eyes.
+
+433
+00:27:08,375 --> 00:27:12,458
+Were there any smells
+in the room?
+
+434
+00:27:12,500 --> 00:27:14,291
+Were there any sounds?
+
+435
+00:27:14,333 --> 00:27:18,959
+Yes. Yes,
+there was a sound.
+
+436
+00:27:19,000 --> 00:27:21,667
+(<i> sighs</i> )
+
+437
+00:27:21,709 --> 00:27:26,000
+Computer, there were noises
+coming from the darkness.
+
+438
+00:27:26,041 --> 00:27:28,500
+Strange...
+
+439
+00:27:28,542 --> 00:27:31,208
+like whispering.
+
+440
+00:27:31,250 --> 00:27:32,458
+(<i> low whispering</i> )
+
+441
+00:27:32,500 --> 00:27:34,875
+More like clicks.
+
+442
+00:27:34,917 --> 00:27:36,375
+Clicking sounds.
+
+443
+00:27:36,417 --> 00:27:40,041
+(<i> clicking</i> )
+
+444
+00:27:40,083 --> 00:27:41,375
+Louder.
+
+445
+00:27:41,417 --> 00:27:43,083
+(<i> louder clicking</i> )
+
+446
+00:27:43,125 --> 00:27:44,375
+RIKER:
+Faster.
+
+447
+00:27:44,417 --> 00:27:45,375
+(<i> faster clicking</i> )
+
+448
+00:27:45,417 --> 00:27:48,250
+RIKER:
+More of them.
+
+449
+00:27:49,583 --> 00:27:52,250
+I've been in
+this room before.
+
+450
+00:27:52,291 --> 00:27:56,208
+We've all been here
+before.
+
+451
+00:28:02,291 --> 00:28:04,625
+CRUSHER:
+Here it is again.
+
+452
+00:28:05,959 --> 00:28:08,458
+Something has caused
+high levels of serotonin
+
+453
+00:28:08,500 --> 00:28:11,166
+to be produced in
+Geordi's visual cortex.
+
+454
+00:28:11,208 --> 00:28:13,208
+When I examined
+him earlier today,
+
+455
+00:28:13,250 --> 00:28:15,583
+I thought it was the result
+of a bacterial infection,
+
+456
+00:28:15,625 --> 00:28:17,959
+but now I'm finding the
+same thing in all three.
+
+457
+00:28:18,000 --> 00:28:20,917
+They all have elevated
+levels of serotonin.
+
+458
+00:28:20,959 --> 00:28:22,959
+It's concentrated
+in the hippocampus,
+
+459
+00:28:23,000 --> 00:28:26,792
+which suggests that
+they've been exposed
+to a neuro-sedative.
+
+460
+00:28:26,834 --> 00:28:29,000
+And that's not all.
+I have detected
+
+461
+00:28:29,041 --> 00:28:33,000
+minute tetryon
+particle traces in
+their subdermal tissues.
+
+462
+00:28:33,041 --> 00:28:34,542
+Tetryons?
+
+463
+00:28:34,583 --> 00:28:36,875
+Like the emissions
+in the cargo bay.
+
+464
+00:28:39,125 --> 00:28:41,375
+I have completed
+my self-diagnostic
+
+465
+00:28:41,417 --> 00:28:44,250
+and have confirmed
+that I was not aboard
+the<i> Enterprise</i>
+
+466
+00:28:44,291 --> 00:28:46,917
+for 90 minutes, 17 seconds
+yesterday afternoon.
+
+467
+00:28:46,959 --> 00:28:47,959
+Are you sure?
+
+468
+00:28:48,000 --> 00:28:50,166
+Whenever I am
+on the ship,
+
+469
+00:28:50,208 --> 00:28:52,792
+the warp field leaves
+an electromagnetic signal
+
+470
+00:28:52,834 --> 00:28:55,166
+on my internal
+servo fluid system.
+
+471
+00:28:55,208 --> 00:28:59,250
+Between the period
+of 1254 to 1426 hours,
+
+472
+00:28:59,291 --> 00:29:00,959
+that signature is missing.
+
+473
+00:29:03,375 --> 00:29:07,917
+Computer, are there
+any members of the crew
+of the<i> Enterprise</i> missing?
+
+474
+00:29:07,959 --> 00:29:10,834
+There are two crew members
+unaccounted for.
+
+475
+00:29:10,875 --> 00:29:12,959
+PICARD:
+Identify them.
+
+476
+00:29:13,000 --> 00:29:16,792
+Lieutenant Edward Hagler
+and Ensign Sariel Rager.
+
+477
+00:29:16,834 --> 00:29:18,333
+When did they leave?
+
+478
+00:29:18,375 --> 00:29:23,417
+They have not been present
+since 23:32 hours.
+
+479
+00:29:23,458 --> 00:29:24,959
+PICARD:
+How did they leave?
+
+480
+00:29:25,000 --> 00:29:27,166
+Method of departure
+unknown.
+
+481
+00:29:27,208 --> 00:29:28,208
+Picard to bridge.
+
+482
+00:29:28,250 --> 00:29:29,625
+Bridge here, Captain.
+
+483
+00:29:29,667 --> 00:29:31,083
+Raise shields.
+
+484
+00:29:31,125 --> 00:29:33,458
+And I want a level-4
+security alert.
+
+485
+00:29:33,500 --> 00:29:36,000
+I need to know if anyone
+comes on or off this ship.
+
+486
+00:29:36,041 --> 00:29:37,458
+Aye, sir.
+
+487
+00:29:37,500 --> 00:29:40,750
+Mr. La Forge, Mr. Data,
+I believe that if we find
+
+488
+00:29:40,792 --> 00:29:42,709
+the source of those
+tetryon emissions,
+
+489
+00:29:42,750 --> 00:29:44,875
+we'll find the
+missing crew members.
+
+490
+00:29:44,917 --> 00:29:47,375
+We're on it, sir.
+
+491
+00:29:47,417 --> 00:29:49,750
+Dr. Crusher?
+
+492
+00:29:54,625 --> 00:29:57,417
+My God!
+What is it?
+
+493
+00:29:57,458 --> 00:30:01,834
+It looks as though your
+arm has been severed
+and then reattached.
+
+494
+00:30:01,875 --> 00:30:04,333
+What?!
+
+495
+00:30:04,375 --> 00:30:12,166
+The skeletal structure
+in your radius and ulna
+is offset by .02 microns.
+
+496
+00:30:12,208 --> 00:30:16,709
+Your arm has been amputated
+and surgically reattached.
+
+497
+00:30:23,417 --> 00:30:25,625
+Any progress with
+the analysis, Lieutenant?
+
+498
+00:30:25,667 --> 00:30:27,750
+Look at this.
+
+499
+00:30:45,125 --> 00:30:48,500
+Data, the tetryon emissions
+have intensified.
+
+500
+00:30:48,542 --> 00:30:53,000
+They seem to be focusing
+in this direction...
+
+501
+00:30:53,041 --> 00:30:56,500
+coalescing here.
+
+502
+00:30:56,542 --> 00:30:58,750
+They're reading as a
+point of subspace energy.
+
+503
+00:30:58,792 --> 00:31:02,750
+It appears to be
+the beginnings of
+a spatial rupture.
+
+504
+00:31:02,792 --> 00:31:06,917
+Yeah, the tetryon
+emissions are modulating
+
+505
+00:31:06,959 --> 00:31:09,917
+in a way that...
+that looks like
+
+506
+00:31:09,959 --> 00:31:13,792
+somebody is
+controlling the energy.
+
+507
+00:31:13,834 --> 00:31:16,709
+You know...
+
+508
+00:31:16,750 --> 00:31:20,041
+the signals from the
+modifications I made
+to the sensor array--
+
+509
+00:31:20,083 --> 00:31:23,458
+some of them dipped
+pretty deep into subspace.
+
+510
+00:31:23,500 --> 00:31:25,750
+Maybe they caught
+somebody's attention.
+
+511
+00:31:25,792 --> 00:31:27,917
+At the rate the
+rupture is expanding,
+
+512
+00:31:27,959 --> 00:31:29,917
+we will soon be in
+danger of hull breach.
+
+513
+00:31:29,959 --> 00:31:31,291
+Maybe we should try
+surrounding it
+
+514
+00:31:31,333 --> 00:31:33,834
+with a subspace
+containment field.
+
+515
+00:31:33,875 --> 00:31:36,542
+Other than the
+tetryon emissions
+in Cargo Bay Four,
+
+516
+00:31:36,583 --> 00:31:38,041
+our internal sensors
+haven't recorded
+
+517
+00:31:38,083 --> 00:31:40,208
+anything unusual in
+the past three days.
+
+518
+00:31:40,250 --> 00:31:43,041
+Initiate a metallurgical
+analysis of the ship's hull.
+
+519
+00:31:43,083 --> 00:31:46,000
+Subspace field incursions
+may have left a trace.
+
+520
+00:31:46,041 --> 00:31:49,208
+Captain, sensors indicate
+that Lieutenant Hagler
+
+521
+00:31:49,250 --> 00:31:51,083
+has returned to
+the<i> Enterprise.</i>
+
+522
+00:31:51,125 --> 00:31:56,375
+He is in his quarters--
+Deck Nine, Section 17.
+
+523
+00:32:05,166 --> 00:32:08,709
+Computer, emergency entry,
+Chief Medical Officer
+Beverly Crusher.
+
+524
+00:32:08,750 --> 00:32:10,709
+(<i> wheezing</i> )
+
+525
+00:32:19,834 --> 00:32:21,667
+Crusher to sick bay.
+
+526
+00:32:21,709 --> 00:32:26,959
+Get me a plasma
+infusion unit to
+Deck Nine, Section 19.
+
+527
+00:32:27,000 --> 00:32:29,959
+His blood is turning
+into a liquid polymer.
+
+528
+00:32:30,000 --> 00:32:32,917
+(<i> groans softly</i> )
+
+529
+00:32:40,458 --> 00:32:43,125
+We've set up a containment
+field in Cargo Bay Four
+
+530
+00:32:43,166 --> 00:32:45,583
+but the rupture
+just keeps expanding.
+
+531
+00:32:45,625 --> 00:32:48,834
+I'd say we've got another
+five to six hours before
+it breaches the hull.
+
+532
+00:32:48,875 --> 00:32:51,875
+Can we still beam
+the affected sections
+out into space?
+
+533
+00:32:51,917 --> 00:32:53,709
+No, sir.
+The spatial rupture
+
+534
+00:32:53,750 --> 00:32:56,667
+is creating severe
+nucleonic interference.
+
+535
+00:32:56,709 --> 00:33:00,667
+It is impossible to
+obtain a positive lock
+on the bulkheads.
+
+536
+00:33:03,291 --> 00:33:09,542
+Has your analysis suggested
+any way in which we might
+<i>seal</i> this rupture?
+
+537
+00:33:09,583 --> 00:33:11,542
+LA FORGE:
+We think we can close
+the rupture
+
+538
+00:33:11,583 --> 00:33:13,250
+by neutralizing
+the tetryon emissions
+
+539
+00:33:13,291 --> 00:33:15,250
+with a coherent
+graviton pulse,
+
+540
+00:33:15,291 --> 00:33:17,166
+but we'd have to do
+that at the source.
+
+541
+00:33:17,208 --> 00:33:19,709
+How do we find
+the source?
+Good question.
+
+542
+00:33:19,750 --> 00:33:23,625
+The emissions are
+coming from a tertiary
+subspace domain
+
+543
+00:33:23,667 --> 00:33:26,166
+but subspace has an
+infinite number of domains.
+
+544
+00:33:26,208 --> 00:33:29,333
+It's like a huge
+honeycomb with an
+infinite number of cells.
+
+545
+00:33:29,375 --> 00:33:31,709
+We need to isolate
+the exact cell
+
+546
+00:33:31,750 --> 00:33:33,333
+that these emissions
+are coming from.
+
+547
+00:33:33,375 --> 00:33:37,709
+If someone homed onto
+the subspace signals
+
+548
+00:33:37,750 --> 00:33:41,291
+created by our
+modified signal array,
+
+549
+00:33:41,333 --> 00:33:43,417
+could we do the same
+to them?
+
+550
+00:33:43,458 --> 00:33:46,583
+Track the tetryon emissions
+to<i> their</i> universe?
+
+551
+00:33:46,625 --> 00:33:49,792
+Tetryon particles
+have a random momentum.
+
+552
+00:33:49,834 --> 00:33:52,125
+Our sensors
+cannot track them, sir.
+
+553
+00:33:52,166 --> 00:33:56,458
+Perhaps we could construct
+a homing device--
+
+554
+00:33:56,500 --> 00:33:58,667
+something that our sensors
+<i>could</i> track.
+
+555
+00:33:58,709 --> 00:33:59,917
+It's a good idea,
+but there's no way
+
+556
+00:33:59,959 --> 00:34:01,667
+to get that device
+to the source.
+
+557
+00:34:01,709 --> 00:34:05,250
+Yes, there is.
+Give it to me.
+
+558
+00:34:05,291 --> 00:34:07,000
+They've taken me for
+the last few nights.
+
+559
+00:34:07,041 --> 00:34:10,333
+And if I'm right,
+the same thing
+will happen tonight.
+
+560
+00:34:10,375 --> 00:34:11,875
+Well, if you had
+a homing device,
+we could track it
+
+561
+00:34:11,917 --> 00:34:13,875
+to your location
+in subspace.
+
+562
+00:34:13,917 --> 00:34:16,166
+Then as soon as they
+send you back to the ship,
+
+563
+00:34:16,208 --> 00:34:17,750
+we could transmit
+the graviton pulse
+
+564
+00:34:17,792 --> 00:34:19,208
+and neutralize
+the tetryon emissions.
+
+565
+00:34:19,250 --> 00:34:20,834
+<i>If</i> they send him back.
+
+566
+00:34:20,875 --> 00:34:23,458
+Ensign Rager still
+hasn't been returned.
+
+567
+00:34:23,500 --> 00:34:25,959
+They're going to
+take me whether I
+want to go or not.
+
+568
+00:34:26,000 --> 00:34:29,166
+Well, we could wait
+as long as possible
+
+569
+00:34:29,208 --> 00:34:30,875
+for you to be returned,
+Number One.
+
+570
+00:34:30,917 --> 00:34:33,917
+But when the spatial
+ruptures begin to
+threaten the ship,
+
+571
+00:34:33,959 --> 00:34:36,750
+then we would
+have to transmit
+that graviton pulse.
+
+572
+00:34:36,792 --> 00:34:38,542
+Understood.
+
+573
+00:34:38,583 --> 00:34:43,625
+Perhaps there's...
+a way that we could
+give you an advantage.
+
+574
+00:34:43,667 --> 00:34:48,208
+A way of keeping
+you conscious after
+they've taken you.
+
+575
+00:34:48,250 --> 00:34:51,667
+Doctor, can you develop
+some counteragent
+
+576
+00:34:51,709 --> 00:34:54,083
+to the neuro-sedative
+that they have been
+giving the crew?
+
+577
+00:34:56,792 --> 00:34:59,542
+I could give you
+a neuro-stimulant,
+
+578
+00:34:59,583 --> 00:35:03,333
+but the dosage would
+have to be rather high
+to counteract the effects.
+
+579
+00:35:03,375 --> 00:35:05,041
+It could be risky.
+
+580
+00:35:05,083 --> 00:35:07,166
+I'm willing to take
+that risk.
+
+581
+00:35:08,291 --> 00:35:09,709
+Make it so.
+
+582
+00:35:09,750 --> 00:35:14,834
+Mr. La Forge, begin work
+on that homing device.
+
+583
+00:35:16,625 --> 00:35:21,333
+This should ward off
+their neuro-sedative
+for about 12 hours.
+
+584
+00:35:21,375 --> 00:35:23,625
+I hope it's enough.
+
+585
+00:35:23,667 --> 00:35:24,875
+It's going to
+have to be.
+
+586
+00:35:24,917 --> 00:35:27,667
+I can't risk giving
+you a higher dosage.
+
+587
+00:35:29,083 --> 00:35:32,333
+I've locked this tricorder
+into a continuous cycle.
+
+588
+00:35:32,375 --> 00:35:35,208
+That way, it'll keep
+recording, whether
+you open it or not.
+
+589
+00:35:35,250 --> 00:35:36,583
+Hopefully,
+you can bring back
+
+590
+00:35:36,625 --> 00:35:38,792
+some information
+about their domain.
+
+591
+00:35:38,834 --> 00:35:42,333
+We've modified a sensor
+relay emitter to transmit
+a subspace beacon.
+
+592
+00:35:42,375 --> 00:35:44,125
+When this indicator
+lights up,
+
+593
+00:35:44,166 --> 00:35:46,000
+it means that we've
+locked onto your location.
+
+594
+00:35:46,041 --> 00:35:48,166
+Understood.
+
+595
+00:36:07,417 --> 00:36:09,458
+(<i> clicking</i> )
+
+596
+00:36:21,667 --> 00:36:24,166
+(<i> sighs</i> )
+
+597
+00:36:26,125 --> 00:36:29,291
+(<i> humming whoosh</i> )
+
+598
+00:36:40,417 --> 00:36:44,750
+Captain, Commander
+Riker has been taken
+from the<i> Enterprise.</i>
+
+599
+00:36:51,417 --> 00:36:54,583
+(<i> multiple, rapid clicks</i> )
+
+600
+00:37:11,125 --> 00:37:14,291
+(<i> clicking continues</i> )
+
+601
+00:37:32,875 --> 00:37:35,458
+(<i> clicking continues</i> )
+
+602
+00:38:06,417 --> 00:38:08,917
+Mr. La Forge, report.
+
+603
+00:38:08,959 --> 00:38:11,083
+I still can't locate
+the homing signal.
+
+604
+00:38:11,125 --> 00:38:13,667
+We've covered the entire
+upper-subspace energy band.
+
+605
+00:38:13,709 --> 00:38:17,083
+We're extending the scan
+to adjacent levels.
+
+606
+00:38:17,125 --> 00:38:19,000
+Mr. Data, your status?
+
+607
+00:38:19,041 --> 00:38:22,125
+The rupture has
+expanded another 4.2%.
+
+608
+00:38:22,166 --> 00:38:24,959
+Without further reinforcement,
+containment field integrity
+
+609
+00:38:25,000 --> 00:38:27,542
+will fail in
+approximately 14 minutes.
+
+610
+00:38:27,583 --> 00:38:29,834
+Can you divert more power
+to the containment field?
+
+611
+00:38:29,875 --> 00:38:31,417
+I can try
+to augment the field
+
+612
+00:38:31,458 --> 00:38:34,291
+with auxiliary power,
+but it won't be much.
+
+613
+00:38:34,333 --> 00:38:35,333
+Make it so.
+
+614
+00:38:35,375 --> 00:38:36,750
+Aye, sir.
+
+615
+00:38:37,834 --> 00:38:41,834
+(<i> clicking</i> )
+
+616
+00:38:51,500 --> 00:38:54,417
+(<i> clicking continues</i> )
+
+617
+00:39:19,125 --> 00:39:22,208
+Captain, I've located
+the homing signal.
+
+618
+00:39:22,250 --> 00:39:24,500
+Locking onto it now.
+
+619
+00:39:24,542 --> 00:39:28,625
+It's coming from a subspace
+energy level of 16.2 KEV.
+
+620
+00:39:28,667 --> 00:39:30,917
+Stand by to initiate
+the graviton pulse.
+
+621
+00:39:30,959 --> 00:39:32,792
+Graviton emitter's
+at full power, sir.
+
+622
+00:39:32,834 --> 00:39:33,834
+Standing by.
+
+623
+00:39:33,875 --> 00:39:35,291
+Mr. Data, how much time?
+
+624
+00:39:35,333 --> 00:39:37,291
+At the present rate,
+containment failure
+
+625
+00:39:37,333 --> 00:39:39,875
+will occur in
+approximately nine minutes.
+
+626
+00:39:44,125 --> 00:39:47,291
+(<i> clicking</i> )
+
+627
+00:39:56,542 --> 00:39:59,750
+Captain, the
+containment field is
+beginning to fluctuate.
+
+628
+00:39:59,792 --> 00:40:03,125
+Failure anticipated
+in three minutes,
+11 seconds.
+
+629
+00:40:03,166 --> 00:40:04,834
+We can't afford to
+wait any longer.
+
+630
+00:40:04,875 --> 00:40:08,208
+Begin the graviton pulse.
+
+631
+00:40:08,250 --> 00:40:11,166
+Initiating pulse now.
+
+632
+00:40:14,458 --> 00:40:17,625
+(<i> rapid, intense clicking</i> )
+
+633
+00:40:20,250 --> 00:40:21,417
+Data to engineering.
+
+634
+00:40:21,458 --> 00:40:24,542
+The graviton pulse
+is having an effect.
+
+635
+00:40:24,583 --> 00:40:28,500
+Tetryon emissions
+have decreased by 19%.
+
+636
+00:40:30,500 --> 00:40:33,875
+Captain, additional
+subharmonics have appeared.
+
+637
+00:40:33,917 --> 00:40:36,333
+They are reinforcing
+the tetryon emissions.
+
+638
+00:40:36,375 --> 00:40:39,542
+They appear to
+be counteracting
+the graviton pulse.
+
+639
+00:40:39,583 --> 00:40:42,125
+The rupture is beginning
+to expand again, sir.
+
+640
+00:40:42,166 --> 00:40:45,083
+It looks like somebody
+is fighting back.
+
+641
+00:40:45,125 --> 00:40:47,458
+Can you strengthen
+the graviton pulse?
+
+642
+00:40:47,500 --> 00:40:49,834
+I can try to set up
+a random frequency shift.
+
+643
+00:40:49,875 --> 00:40:52,041
+If we can keep them
+from guessing our
+pulse modulation,
+
+644
+00:40:52,083 --> 00:40:54,583
+they might not be
+able to compensate.
+
+645
+00:40:54,625 --> 00:40:57,792
+(<i> clicking</i> )
+
+646
+00:41:05,000 --> 00:41:08,166
+Tetryon emissions
+continue to increase.
+
+647
+00:41:08,208 --> 00:41:10,458
+The rupture
+is still expanding.
+
+648
+00:41:10,500 --> 00:41:12,083
+Hull breach is imminent.
+
+649
+00:41:12,125 --> 00:41:15,750
+They're reacting
+faster than we can
+shift frequencies.
+
+650
+00:41:15,792 --> 00:41:17,959
+Shipley,
+program the emitters
+
+651
+00:41:18,000 --> 00:41:19,959
+for full-spectrum
+pulse compression.
+
+652
+00:41:20,000 --> 00:41:23,000
+I want to channel all
+of the graviton energy
+into a single burst.
+
+653
+00:41:23,041 --> 00:41:24,417
+Let's see if they
+can handle<i> that.</i>
+
+654
+00:41:24,458 --> 00:41:26,750
+Ready, Commander.
+
+655
+00:41:29,959 --> 00:41:33,125
+(<i> clicking</i> )
+
+656
+00:41:35,709 --> 00:41:40,667
+(<i> rapid clicking</i> )
+
+657
+00:41:40,709 --> 00:41:42,959
+The rupture is
+beginning to close, sir.
+
+658
+00:41:43,000 --> 00:41:45,792
+Recharge the emitters.
+Let's hit them again.
+
+659
+00:41:45,834 --> 00:41:46,792
+Come on.
+
+660
+00:41:46,834 --> 00:41:48,333
+Ready.
+
+661
+00:42:04,709 --> 00:42:06,583
+DATA:
+The rupture is 86% closed.
+
+662
+00:42:06,625 --> 00:42:07,667
+We're almost there.
+
+663
+00:42:07,709 --> 00:42:08,959
+One more burst
+should do it.
+
+664
+00:42:09,000 --> 00:42:10,125
+Emitters recharging.
+
+665
+00:42:39,500 --> 00:42:43,417
+<i>Captain's Log,</i>
+<i>Stardate 46191.2.</i>
+
+666
+00:42:43,458 --> 00:42:46,250
+<i>The tetryon emissions</i>
+<i>in Cargo Bay Four have ceased</i>
+
+667
+00:42:46,291 --> 00:42:49,709
+<i>and there have been</i>
+<i>no further indications</i>
+<i>of alien intrusions.</i>
+
+668
+00:42:49,750 --> 00:42:53,166
+<i>All</i> Enterprise<i> crew members</i>
+<i>are safe and accounted for,</i>
+
+669
+00:42:53,208 --> 00:42:56,959
+<i>but we are still left with</i>
+<i>some unanswered questions.</i>
+
+670
+00:42:57,000 --> 00:42:58,208
+Based on the
+information gathered
+
+671
+00:42:58,250 --> 00:43:00,041
+from Commander Riker's
+tricorder,
+
+672
+00:43:00,083 --> 00:43:02,417
+we have determined
+that the molecular structure
+
+673
+00:43:02,458 --> 00:43:04,792
+of the alien life-forms
+is solanagen-based.
+
+674
+00:43:04,834 --> 00:43:06,500
+We think that's why
+they couldn't come through
+
+675
+00:43:06,542 --> 00:43:09,417
+into<i> our</i> space as
+easily as they could
+take us into theirs.
+
+676
+00:43:09,458 --> 00:43:12,291
+They needed to learn
+how to remodulate their
+cellular energy states
+
+677
+00:43:12,333 --> 00:43:14,083
+in order to survive
+in our universe.
+
+678
+00:43:14,125 --> 00:43:17,083
+The tricorder readings
+indicate they created
+a small pocket
+
+679
+00:43:17,125 --> 00:43:18,917
+of our universe
+in their laboratory
+
+680
+00:43:18,959 --> 00:43:21,417
+to keep those
+they abducted alive.
+
+681
+00:43:21,458 --> 00:43:24,250
+Like putting a fish
+in a bucket of water.
+
+682
+00:43:24,291 --> 00:43:26,667
+It's probably what
+they were trying to do
+in Cargo Bay Four--
+
+683
+00:43:26,709 --> 00:43:28,959
+create a pocket of
+their universe in ours.
+
+684
+00:43:29,000 --> 00:43:31,750
+What can we do to prevent
+this from happening again?
+
+685
+00:43:31,792 --> 00:43:33,750
+Looks like they
+found us initially
+
+686
+00:43:33,792 --> 00:43:36,125
+by discovering my
+modified sensor signal.
+
+687
+00:43:36,166 --> 00:43:39,417
+We should warn all
+starfleet ships not
+to make that same mistake.
+
+688
+00:43:39,458 --> 00:43:41,875
+Have we any idea
+what came through
+the rupture
+
+689
+00:43:41,917 --> 00:43:43,792
+before we were able
+to shut it down?
+
+690
+00:43:43,834 --> 00:43:47,542
+No, sir. We were unable to track
+it once it left the cargo bay.
+
+691
+00:43:47,583 --> 00:43:49,792
+Maybe it was a probe
+of some kind.
+
+692
+00:43:49,834 --> 00:43:52,083
+Possibly they
+were simply curious--
+
+693
+00:43:52,125 --> 00:43:55,500
+explorers like ourselves.
+
+694
+00:43:55,542 --> 00:43:58,709
+Ensign Rager and I were
+lucky to have escaped.
+
+695
+00:43:58,750 --> 00:44:01,125
+Lieutenant Hagler's dead.
+
+696
+00:44:01,166 --> 00:44:06,583
+Whoever it was sent
+that thing was more
+than simply curious.

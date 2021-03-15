@@ -1,0 +1,3936 @@
+1
+00:00:02,834 --> 00:00:06,291
+<i>Captain's Log,</i>
+<i>Stardate 45614.6.</i>
+
+2
+00:00:06,333 --> 00:00:09,083
+<i>We have been contacted</i>
+<i>by an androgynous race</i>
+
+3
+00:00:09,125 --> 00:00:11,417
+<i>called the J'naii</i>
+<i>to investigate</i>
+
+4
+00:00:11,458 --> 00:00:14,917
+<i>the mysterious disappearance</i>
+<i>of one of their shuttlecraft.</i>
+
+5
+00:00:14,959 --> 00:00:18,458
+Captain, we are approaching
+the designated coordinates.
+
+6
+00:00:18,500 --> 00:00:21,250
+On screen.
+
+7
+00:00:21,291 --> 00:00:24,542
+PICARD:
+Long-range scan, Mr. Data.
+
+8
+00:00:24,583 --> 00:00:27,375
+Sensors find no evidence
+of the shuttle
+
+9
+00:00:27,417 --> 00:00:29,041
+anywhere within the star system.
+
+10
+00:00:29,083 --> 00:00:32,083
+It couldn't have traveled
+outside the system.
+
+11
+00:00:32,125 --> 00:00:34,000
+Mr. Data, reconfigure
+high-resolution sweep.
+
+12
+00:00:34,041 --> 00:00:36,250
+Radius one million kilometers.
+Check for any debris.
+
+13
+00:00:36,291 --> 00:00:39,458
+Scans find no debris
+within that radius.
+
+14
+00:00:39,500 --> 00:00:40,917
+I don't understand it.
+
+15
+00:00:40,959 --> 00:00:42,959
+A shuttle doesn't
+simply vanish.
+
+16
+00:00:43,000 --> 00:00:45,291
+There has to be an explanation.
+
+17
+00:00:45,333 --> 00:00:46,875
+DATA:
+Captain...
+
+18
+00:00:46,917 --> 00:00:48,959
+I'm detecting
+an unusual reading.
+
+19
+00:00:49,000 --> 00:00:52,834
+It appears to be a neutrino
+emission with no visible source.
+
+20
+00:00:52,875 --> 00:00:53,875
+Explanation.
+
+21
+00:00:53,917 --> 00:00:55,417
+DATA: I have none, sir.
+
+22
+00:00:55,458 --> 00:00:58,333
+I recommend we launch a probe.
+
+23
+00:00:58,375 --> 00:01:00,291
+Make it so.
+
+24
+00:01:02,166 --> 00:01:04,250
+Probe is launched.
+
+25
+00:01:08,166 --> 00:01:10,750
+Sensors show no evidence
+of any unusual phenomenon.
+
+26
+00:01:15,166 --> 00:01:17,500
+The probe is
+no longer transmitting.
+
+27
+00:01:20,875 --> 00:01:22,458
+J'NAII:
+What happened?
+
+28
+00:01:23,709 --> 00:01:25,500
+Where did it go?
+
+29
+00:02:02,542 --> 00:02:07,041
+PICARD:
+<i>Space, the final frontier.</i>
+
+30
+00:02:07,083 --> 00:02:11,625
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+31
+00:02:11,667 --> 00:02:12,917
+<i>Its continuing mission--</i>
+
+32
+00:02:12,959 --> 00:02:16,583
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+33
+00:02:16,625 --> 00:02:20,875
+<i>to seek out new life</i>
+<i>and new civilizations...</i>
+
+34
+00:02:20,917 --> 00:02:25,667
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+35
+00:03:22,166 --> 00:03:23,583
+<i>Captain's Log, supplemental.</i>
+
+36
+00:03:23,625 --> 00:03:25,959
+<i>The sudden disappearance</i>
+<i>of our probe</i>
+
+37
+00:03:26,000 --> 00:03:27,625
+<i>suggests that we may have found</i>
+
+38
+00:03:27,667 --> 00:03:30,667
+<i>the first instance of what</i>
+<i>is called "null space--"</i>
+
+39
+00:03:30,709 --> 00:03:33,959
+<i>an anomaly which, until now,</i>
+<i>had been only theoretical.</i>
+
+40
+00:03:34,000 --> 00:03:36,875
+<i>Commander Riker has been</i>
+<i>working around the clock</i>
+
+41
+00:03:36,917 --> 00:03:38,959
+<i>with a team</i>
+<i>of J'naii specialists</i>
+
+42
+00:03:39,000 --> 00:03:40,709
+<i>to formalize this hypothesis.</i>
+
+43
+00:03:40,750 --> 00:03:43,250
+During the creation
+of a star system,
+
+44
+00:03:43,291 --> 00:03:46,000
+when clouds of interstellar dust
+and gas coalesce,
+
+45
+00:03:46,041 --> 00:03:48,458
+turbulent regions
+of magnetic
+
+46
+00:03:48,500 --> 00:03:50,667
+and gravitational fields
+may develop.
+
+47
+00:03:50,709 --> 00:03:52,291
+If certain conditions occur
+
+48
+00:03:52,333 --> 00:03:53,917
+these fields
+can condense
+
+49
+00:03:53,959 --> 00:03:56,166
+into abnormal
+pockets of space.
+
+50
+00:03:56,208 --> 00:03:58,458
+We think
+your system contains
+
+51
+00:03:58,500 --> 00:03:59,792
+one of these
+null pockets.
+
+52
+00:03:59,834 --> 00:04:02,959
+If we're right,
+the pocket would absorb
+
+53
+00:04:03,000 --> 00:04:05,250
+electromagnetic energy from
+anything that entered it.
+
+54
+00:04:05,291 --> 00:04:06,250
+J'NAII:
+Like a shuttlecraft.
+
+55
+00:04:06,291 --> 00:04:07,291
+RIKER:
+Or a probe.
+
+56
+00:04:07,333 --> 00:04:08,667
+Making them powerless.
+
+57
+00:04:08,709 --> 00:04:10,500
+But, outside the pocket
+
+58
+00:04:10,542 --> 00:04:12,792
+all the energy
+is bent around it,
+
+59
+00:04:12,834 --> 00:04:14,917
+making it
+naturally cloaked.
+
+60
+00:04:14,959 --> 00:04:17,834
+That's why we
+cannot see it
+
+61
+00:04:17,875 --> 00:04:19,333
+and our sensors
+cannot read it.
+
+62
+00:04:19,375 --> 00:04:20,625
+Is the shuttle still there?
+
+63
+00:04:20,667 --> 00:04:22,166
+RIKER:
+We think so.
+
+64
+00:04:22,208 --> 00:04:23,834
+The shuttle probably was not
+able to sustain its energy
+
+65
+00:04:23,875 --> 00:04:25,709
+but, other than that,
+it wouldn't be damaged.
+
+66
+00:04:25,750 --> 00:04:27,792
+Since our
+shuttles carry
+
+67
+00:04:27,834 --> 00:04:29,542
+plestorene-based
+backup systems
+
+68
+00:04:29,583 --> 00:04:31,834
+we think life-support
+would sustain
+
+69
+00:04:31,875 --> 00:04:33,834
+for as long
+as ten days.
+
+70
+00:04:33,875 --> 00:04:35,417
+Then perhaps our crew
+has survived.
+
+71
+00:04:35,458 --> 00:04:37,542
+We could send in
+one of our own shuttles,
+
+72
+00:04:37,583 --> 00:04:39,375
+but its energy
+would also be absorbed.
+
+73
+00:04:39,417 --> 00:04:41,166
+Our chief engineer
+is working on a way
+
+74
+00:04:41,208 --> 00:04:43,000
+to maintain
+the power reserves
+
+75
+00:04:43,041 --> 00:04:44,750
+long enough
+to rescue your crew.
+
+76
+00:04:44,792 --> 00:04:46,834
+Commander...
+
+77
+00:04:46,875 --> 00:04:48,834
+we're grateful for your help.
+
+78
+00:04:48,875 --> 00:04:51,709
+Whatever resources
+we can provide are yours.
+
+79
+00:05:04,625 --> 00:05:06,000
+I've been thinking.
+
+80
+00:05:06,041 --> 00:05:07,417
+When the time comes,
+
+81
+00:05:07,458 --> 00:05:09,083
+I would like to pilot
+the shuttle.
+
+82
+00:05:09,125 --> 00:05:10,667
+It's a Starfleet craft.
+
+83
+00:05:10,709 --> 00:05:12,125
+I cannot ask you
+to put yourself
+
+84
+00:05:12,166 --> 00:05:14,333
+in danger
+to rescue our crew.
+
+85
+00:05:14,375 --> 00:05:16,959
+You can't pilot a shuttle
+you're not familiar with.
+
+86
+00:05:17,000 --> 00:05:19,500
+I happen to be
+a good pilot.
+
+87
+00:05:19,542 --> 00:05:21,500
+I happen to be
+a good pilot, too,
+
+88
+00:05:21,542 --> 00:05:24,041
+and I know my way around
+the Starfleet shuttle.
+
+89
+00:05:24,083 --> 00:05:26,041
+So, what if we team up?
+
+90
+00:05:26,083 --> 00:05:29,333
+When can we go over
+the shuttle flight operations?
+
+91
+00:05:29,375 --> 00:05:30,959
+Right now.
+
+92
+00:05:37,583 --> 00:05:39,375
+SOREN:
+Is this the one?
+
+93
+00:05:39,417 --> 00:05:42,250
+RIKER: This is it.
+Short-range craft.
+
+94
+00:05:42,291 --> 00:05:44,709
+Two 1250-millicochrane
+warp engines.
+
+95
+00:05:44,750 --> 00:05:46,291
+Looks like
+microfusion thrusters?
+
+96
+00:05:46,333 --> 00:05:47,834
+Right.
+Armament?
+
+97
+00:05:47,875 --> 00:05:49,166
+None, usually, but this
+one's been equipped
+
+98
+00:05:49,208 --> 00:05:52,083
+with two type-4
+phaser emitters.
+
+99
+00:05:52,125 --> 00:05:54,250
+We'll use those to
+chart the null space.
+
+100
+00:05:54,291 --> 00:05:55,792
+Chart it?
+
+101
+00:05:55,834 --> 00:05:56,875
+Mr. La Forge wants
+to get an idea
+
+102
+00:05:56,917 --> 00:05:58,291
+of the size
+of the pocket.
+
+103
+00:05:58,333 --> 00:05:59,458
+He thinks the rate
+of energy absorption's
+
+104
+00:05:59,500 --> 00:06:01,125
+linked to its size.
+
+105
+00:06:01,166 --> 00:06:02,792
+I'm not sure
+how we'd go about
+
+106
+00:06:02,834 --> 00:06:04,125
+mapping something
+we can't see.
+
+107
+00:06:04,166 --> 00:06:05,875
+Well, that's where
+the emitters come in.
+
+108
+00:06:05,917 --> 00:06:08,625
+We shoot out a series of
+photon pulses into the pocket
+
+109
+00:06:08,667 --> 00:06:10,208
+and chart where
+each one disappears.
+
+110
+00:06:10,250 --> 00:06:13,083
+From that, we should get
+a fairly complete outline.
+
+111
+00:06:13,125 --> 00:06:15,875
+Let's have a look
+at the controls.
+
+112
+00:06:23,083 --> 00:06:24,875
+Later, we'll try
+a flight simulation.
+
+113
+00:06:24,917 --> 00:06:26,250
+Right now, let's
+do a systems review.
+
+114
+00:06:26,291 --> 00:06:27,458
+I'll talk you through it.
+
+115
+00:06:27,500 --> 00:06:28,625
+Let me try it.
+
+116
+00:06:28,667 --> 00:06:30,583
+Propulsion system,
+transfer conduits...
+
+117
+00:06:30,625 --> 00:06:33,875
+where's the schematic
+reactor assembly?
+
+118
+00:06:33,917 --> 00:06:35,875
+Oh, there it is.
+
+119
+00:06:35,917 --> 00:06:37,750
+Engine nacelles.
+
+120
+00:06:37,792 --> 00:06:40,291
+There's nothing here
+that's unfamiliar.
+
+121
+00:06:40,333 --> 00:06:42,000
+Navigational deflector,
+redundant.
+
+122
+00:06:42,041 --> 00:06:43,959
+Graviton polarity
+source generators...
+
+123
+00:06:44,000 --> 00:06:46,542
+You handle these
+controls like you
+grew up in a shuttle.
+
+124
+00:06:46,583 --> 00:06:48,250
+I did.
+
+125
+00:06:48,291 --> 00:06:49,542
+My parents were pilots.
+
+126
+00:06:49,583 --> 00:06:51,500
+I was flying with them
+before I could walk.
+
+127
+00:06:51,542 --> 00:06:54,542
+As soon as I was old enough,
+I entered flight school.
+
+128
+00:06:54,583 --> 00:06:55,667
+Krite was my instructor.
+
+129
+00:06:55,709 --> 00:06:57,166
+He had a good student.
+
+130
+00:06:57,208 --> 00:07:00,375
+"He?" Commander,
+there are no he's or she's
+
+131
+00:07:00,417 --> 00:07:02,208
+in a species
+without gender.
+
+132
+00:07:02,250 --> 00:07:06,000
+Okay. For two days,
+I've been trying to
+construct sentences
+
+133
+00:07:06,041 --> 00:07:07,333
+without personal pronouns.
+
+134
+00:07:07,375 --> 00:07:09,500
+Now I give up.
+What should I use, "it"?
+
+135
+00:07:09,542 --> 00:07:10,875
+To us, that's rude.
+
+136
+00:07:10,917 --> 00:07:12,875
+We use a pronoun
+that is neutral.
+
+137
+00:07:12,917 --> 00:07:16,333
+I do not think
+there is really a translation.
+
+138
+00:07:16,375 --> 00:07:18,375
+Well, then I'll just
+have to muddle through.
+
+139
+00:07:18,417 --> 00:07:22,750
+So, forgive me if the stray
+"he" or "she" slips by, okay?
+
+140
+00:07:22,792 --> 00:07:24,625
+Well, if that's
+the systems review,
+
+141
+00:07:24,667 --> 00:07:26,375
+I don't see any problem.
+
+142
+00:07:26,417 --> 00:07:28,166
+What's next?
+
+143
+00:07:28,208 --> 00:07:30,000
+Lunch.
+
+144
+00:07:31,083 --> 00:07:32,625
+Thank you.
+
+145
+00:07:32,667 --> 00:07:33,750
+What is it?
+
+146
+00:07:33,792 --> 00:07:34,875
+Split pea soup.
+
+147
+00:07:34,917 --> 00:07:36,250
+It's my father's recipe.
+
+148
+00:07:36,291 --> 00:07:39,542
+I had it programmed
+into the replicators.
+
+149
+00:07:40,834 --> 00:07:43,542
+Well?
+
+150
+00:07:43,583 --> 00:07:45,333
+Unusual...
+
+151
+00:07:45,375 --> 00:07:47,542
+but I think I like it.
+
+152
+00:07:47,583 --> 00:07:49,083
+It's very healthy.
+
+153
+00:07:49,125 --> 00:07:52,083
+Helps to keep you warm
+on cold Alaskan nights.
+
+154
+00:07:52,125 --> 00:07:55,500
+We prefer to stay warm
+by sleeping with a friend.
+
+155
+00:07:55,542 --> 00:07:57,792
+I see.
+
+156
+00:07:59,583 --> 00:08:01,917
+Not to mate.
+
+157
+00:08:01,959 --> 00:08:05,417
+Just to sleep together,
+for warmth.
+
+158
+00:08:05,458 --> 00:08:08,208
+That still sounds better
+than pea soup.
+
+159
+00:08:08,250 --> 00:08:10,500
+We are puzzling
+to you, aren't we?
+
+160
+00:08:10,542 --> 00:08:12,834
+A little.
+
+161
+00:08:12,875 --> 00:08:16,417
+It's hard to grasp
+the idea of no gender.
+
+162
+00:08:16,458 --> 00:08:20,000
+It is just as hard
+for us to understand...
+
+163
+00:08:20,041 --> 00:08:23,667
+the strange division
+in your species.
+
+164
+00:08:23,709 --> 00:08:26,834
+Males and females.
+
+165
+00:08:26,875 --> 00:08:28,166
+You are male?
+
+166
+00:08:28,208 --> 00:08:30,166
+Mm-hmm.
+
+167
+00:08:30,208 --> 00:08:32,291
+Tell me about males.
+
+168
+00:08:32,333 --> 00:08:34,917
+What is it makes you
+different from females?
+
+169
+00:08:38,291 --> 00:08:40,250
+(<i> sighing</i> )
+
+170
+00:08:40,291 --> 00:08:43,959
+"Snips and snails
+and puppy dog tails."
+
+171
+00:08:44,000 --> 00:08:46,834
+You have a dog's tail?
+
+172
+00:08:46,875 --> 00:08:48,500
+It's an old
+nursery rhyme.
+
+173
+00:08:48,542 --> 00:08:50,583
+Girls are made
+from sugar and spice
+
+174
+00:08:50,625 --> 00:08:53,875
+and boys are made
+from snips and... snails.
+
+175
+00:08:53,917 --> 00:08:56,917
+That makes it sound
+better to be female.
+
+176
+00:08:56,959 --> 00:08:59,959
+It's an old-fashioned way
+of looking at the sexes--
+
+177
+00:09:00,000 --> 00:09:03,583
+not to say that there's no
+real difference between them.
+
+178
+00:09:03,625 --> 00:09:07,166
+Physically, men are bigger,
+stronger in the upper body.
+
+179
+00:09:07,208 --> 00:09:09,625
+We have different
+sexual organs.
+
+180
+00:09:09,667 --> 00:09:11,083
+Men can't bear young.
+
+181
+00:09:11,125 --> 00:09:15,417
+And what about feelings
+or emotional attitudes?
+
+182
+00:09:15,458 --> 00:09:17,417
+Are they different?
+
+183
+00:09:17,458 --> 00:09:19,709
+Most people think so,
+
+184
+00:09:19,750 --> 00:09:21,000
+but that's
+the kind of question
+
+185
+00:09:21,041 --> 00:09:24,417
+it would take
+a lifetime to answer.
+
+186
+00:09:24,458 --> 00:09:25,917
+Let me ask you.
+
+187
+00:09:25,959 --> 00:09:28,667
+What's it like
+on a planet
+
+188
+00:09:28,709 --> 00:09:30,250
+where the people
+have no gender?
+
+189
+00:09:30,291 --> 00:09:34,125
+I'm afraid
+I don't understand.
+
+190
+00:09:34,166 --> 00:09:36,458
+Well...
+
+191
+00:09:39,500 --> 00:09:42,125
+Who leads when you
+dance, if you dance?
+
+192
+00:09:42,166 --> 00:09:43,333
+We do...
+
+193
+00:09:43,375 --> 00:09:47,542
+and whosever taller leads.
+
+194
+00:09:47,583 --> 00:09:49,834
+Without the battle
+of the sexes,
+
+195
+00:09:49,875 --> 00:09:52,125
+you probably don't have
+as many arguments.
+
+196
+00:09:52,166 --> 00:09:54,208
+Just because
+we don't have gender
+
+197
+00:09:54,250 --> 00:09:56,291
+doesn't mean
+we don't have conflicts.
+
+198
+00:09:56,333 --> 00:09:57,750
+We are very
+strong-minded.
+
+199
+00:09:57,792 --> 00:09:59,583
+We love a good fight.
+
+200
+00:09:59,625 --> 00:10:01,500
+From the sound
+of it, there's not
+
+201
+00:10:01,542 --> 00:10:02,750
+that much difference
+between our species.
+
+202
+00:10:02,792 --> 00:10:04,875
+Maybe not.
+
+203
+00:10:10,083 --> 00:10:14,583
+What kind of... woman
+do you find attractive?
+
+204
+00:10:16,166 --> 00:10:19,291
+I like one who's intelligent
+and sure of herself...
+
+205
+00:10:19,333 --> 00:10:22,375
+who I can talk with
+and get something back.
+
+206
+00:10:22,417 --> 00:10:25,333
+But the most important
+thing of all?
+
+207
+00:10:25,375 --> 00:10:27,875
+She has to laugh at my jokes.
+
+208
+00:10:30,750 --> 00:10:32,208
+Tell me...
+
+209
+00:10:32,250 --> 00:10:36,083
+is that the kind of woman
+that all human males prefer?
+
+210
+00:10:36,125 --> 00:10:37,375
+Not at all.
+
+211
+00:10:37,417 --> 00:10:40,041
+Some like quiet,
+demure women.
+
+212
+00:10:40,083 --> 00:10:42,792
+Others prefer
+a lot of energy.
+
+213
+00:10:42,834 --> 00:10:47,375
+Some only respond
+to physical attractiveness.
+
+214
+00:10:47,417 --> 00:10:49,291
+Others couldn't
+care less.
+
+215
+00:10:49,333 --> 00:10:50,917
+There are no rules.
+
+216
+00:10:50,959 --> 00:10:53,291
+You make it sound
+very complex.
+
+217
+00:10:53,333 --> 00:10:55,583
+Believe me, it is.
+
+218
+00:10:55,625 --> 00:10:58,625
+Well, perhaps
+it is that complexity
+
+219
+00:10:58,667 --> 00:11:02,000
+which makes
+the differences in the sexes
+
+220
+00:11:02,041 --> 00:11:03,792
+so... interesting.
+
+221
+00:11:04,875 --> 00:11:06,959
+Good evening, Commander.
+
+222
+00:11:09,208 --> 00:11:10,291
+Good evening.
+
+223
+00:11:10,333 --> 00:11:11,834
+Please take my place,
+Krite.
+
+224
+00:11:11,875 --> 00:11:13,875
+I have to be going.
+
+225
+00:11:13,917 --> 00:11:16,333
+Thank you for going over
+the flight protocols, Commander.
+
+226
+00:11:16,375 --> 00:11:18,417
+It was very helpful.
+
+227
+00:11:26,959 --> 00:11:28,250
+<i>Captain's Log, supplemental.</i>
+
+228
+00:11:28,291 --> 00:11:30,667
+<i>Commander Riker</i>
+<i>and the J'naii pilot</i>
+
+229
+00:11:30,709 --> 00:11:32,792
+<i>have set out to chart</i>
+<i>the null space pocket.</i>
+
+230
+00:11:32,834 --> 00:11:34,250
+<i>If they are successful,</i>
+
+231
+00:11:34,291 --> 00:11:37,417
+<i>we can then proceed</i>
+<i>with a rescue attempt.</i>
+
+232
+00:11:37,458 --> 00:11:39,750
+I've illuminated
+Delta-Four grid map.
+
+233
+00:11:39,792 --> 00:11:41,458
+We'll start there
+and expand.
+
+234
+00:11:41,500 --> 00:11:43,959
+Stand by
+forward phaser array.
+
+235
+00:11:49,875 --> 00:11:53,125
+The pulse vanished
+at Delta 4.2 by .3.
+
+236
+00:11:53,166 --> 00:11:55,625
+Firing second burst.
+
+237
+00:11:55,667 --> 00:11:58,750
+J'NAII:
+Delta 4.4 by .5.
+
+238
+00:11:58,792 --> 00:12:00,041
+RIKER:
+This is working.
+
+239
+00:12:00,083 --> 00:12:03,834
+Initiating computer
+task handoff.
+
+240
+00:12:08,417 --> 00:12:12,750
+Commander, tell me
+about your sexual organs.
+
+241
+00:12:15,166 --> 00:12:17,750
+Uh...
+
+242
+00:12:17,792 --> 00:12:20,875
+Is that an uncomfortable subject
+for humans?
+
+243
+00:12:20,917 --> 00:12:24,709
+No, but it doesn't tend to be
+a topic of casual conversation.
+
+244
+00:12:24,750 --> 00:12:28,667
+I'm interested
+in your mating practices.
+
+245
+00:12:28,709 --> 00:12:32,709
+What is involved with two sexes?
+
+246
+00:12:32,750 --> 00:12:35,875
+Correcting course--
+021,
+
+247
+00:12:35,917 --> 00:12:37,375
+mark 0.
+
+248
+00:12:39,208 --> 00:12:40,750
+Mating.
+
+249
+00:12:43,000 --> 00:12:44,250
+Right.
+
+250
+00:12:44,291 --> 00:12:46,041
+Well, it's pretty simple.
+
+251
+00:12:46,083 --> 00:12:48,583
+The men inseminate the women,
+and the women carry the baby.
+
+252
+00:12:48,625 --> 00:12:52,542
+Our fetuses are incubated
+in fibrous husks
+
+253
+00:12:52,583 --> 00:12:55,125
+which the parents inseminate.
+
+254
+00:12:55,166 --> 00:12:57,542
+From what we know
+of other species,
+
+255
+00:12:57,583 --> 00:13:01,375
+our method is less risky,
+and less painful.
+
+256
+00:13:01,417 --> 00:13:03,417
+And less enjoyable.
+
+257
+00:13:03,458 --> 00:13:05,834
+Less enjoyable?
+
+258
+00:13:05,875 --> 00:13:07,667
+For humans...
+
+259
+00:13:07,709 --> 00:13:12,333
+the sexual act brings
+a closeness and intimacy.
+
+260
+00:13:12,375 --> 00:13:16,041
+It can be
+a very pleasurable experience.
+
+261
+00:13:17,834 --> 00:13:19,542
+Inseminating a husk...
+
+262
+00:13:19,583 --> 00:13:23,000
+That's just the last step.
+
+263
+00:13:23,041 --> 00:13:28,625
+Mating is a long ritual for us,
+full of variety and invention.
+
+264
+00:13:28,667 --> 00:13:30,208
+I assure you...
+
+265
+00:13:30,250 --> 00:13:32,959
+It is<i> extremely</i> pleasurable.
+
+266
+00:13:33,000 --> 00:13:34,959
+I'm picking up
+neutrino emission
+
+267
+00:13:35,000 --> 00:13:37,166
+from within
+the null space.
+
+268
+00:13:37,208 --> 00:13:39,959
+That may be coming
+from our shuttle.
+
+269
+00:13:40,000 --> 00:13:41,625
+I'll note
+these coordinates.
+
+270
+00:13:41,667 --> 00:13:45,333
+I wonder.
+
+271
+00:13:45,375 --> 00:13:47,625
+RIKER:
+What?
+
+272
+00:13:47,667 --> 00:13:51,375
+If a human and J'naii
+would be sexually compatible.
+
+273
+00:13:52,750 --> 00:13:54,250
+I don't know.
+
+274
+00:13:54,291 --> 00:13:56,583
+Of course,
+it would never be permitted.
+
+275
+00:13:56,625 --> 00:13:58,083
+Why not?
+
+276
+00:13:58,125 --> 00:13:59,458
+The idea of gender--
+
+277
+00:13:59,500 --> 00:14:02,667
+it is offensive to my people.
+
+278
+00:14:03,709 --> 00:14:04,750
+You see, long ago,
+
+279
+00:14:04,792 --> 00:14:07,458
+we had two sexes, as you do.
+
+280
+00:14:07,500 --> 00:14:12,375
+But we evolved
+into a higher form.
+
+281
+00:14:12,417 --> 00:14:15,625
+I don't mean to sound insulting,
+but on my planet,
+
+282
+00:14:15,667 --> 00:14:20,166
+we have been taught
+that gender is...
+
+283
+00:14:20,208 --> 00:14:21,291
+primitive.
+
+284
+00:14:22,417 --> 00:14:24,291
+Primitive?
+
+285
+00:14:24,333 --> 00:14:26,250
+Less evolved.
+
+286
+00:14:27,417 --> 00:14:29,000
+Maybe so.
+
+287
+00:14:29,041 --> 00:14:31,625
+But sometimes,
+there's a lot to be said
+
+288
+00:14:31,667 --> 00:14:34,500
+for an experience
+that's primitive.
+
+289
+00:14:36,333 --> 00:14:38,709
+Delta-Five grid map
+is fully plotted.
+
+290
+00:14:38,750 --> 00:14:44,000
+Adjusting course--
+029 mark 0.
+
+291
+00:14:52,166 --> 00:14:53,792
+The port engine's down!
+
+292
+00:14:53,834 --> 00:14:55,125
+Reducing power
+to the starboard nacelle.
+
+293
+00:14:55,166 --> 00:14:56,542
+That's not enough.
+
+294
+00:14:56,583 --> 00:14:58,125
+I have to activate
+the maneuvering thrusters.
+
+295
+00:14:58,166 --> 00:15:00,375
+Thrusters aren't responding.
+
+296
+00:15:00,417 --> 00:15:03,083
+I'll try to reroute
+the firing sequence.
+
+297
+00:15:03,125 --> 00:15:05,583
+Inertial dampeners
+are failing!
+
+298
+00:15:05,625 --> 00:15:07,208
+Hang on!
+
+299
+00:15:07,250 --> 00:15:10,000
+LA FORGE:
+<i>Enterprise</i> to shuttle.
+Do you read me?
+
+300
+00:15:10,041 --> 00:15:11,917
+Affirmative.
+We've lost an engine.
+
+301
+00:15:11,959 --> 00:15:14,375
+We'll try to get
+a tractor beam on you.
+
+302
+00:15:14,417 --> 00:15:15,583
+The sooner the better.
+
+303
+00:15:15,625 --> 00:15:17,041
+<i>Enterprise,</i>
+we have an injury.
+
+304
+00:15:17,083 --> 00:15:19,500
+Transport Soren
+directly to Sick Bay.
+
+305
+00:15:19,542 --> 00:15:20,834
+Right away, Commander.
+
+306
+00:15:30,667 --> 00:15:32,834
+It's just
+a minor concussion.
+
+307
+00:15:32,875 --> 00:15:34,917
+You're going to be fine.
+
+308
+00:15:34,959 --> 00:15:37,458
+This will reduce
+the inflammation.
+
+309
+00:15:39,875 --> 00:15:42,166
+Doctor?
+
+310
+00:15:42,208 --> 00:15:44,375
+You are female?
+
+311
+00:15:44,417 --> 00:15:45,583
+Yes.
+
+312
+00:15:45,625 --> 00:15:47,041
+Forgive me.
+
+313
+00:15:47,083 --> 00:15:50,417
+I do not mean to be rude,
+but I'm curious.
+
+314
+00:15:50,458 --> 00:15:52,709
+What is it like?
+
+315
+00:15:52,750 --> 00:15:55,959
+Well, it's...
+
+316
+00:15:56,000 --> 00:15:57,458
+it's just the way I am.
+
+317
+00:15:57,500 --> 00:15:59,917
+I've never really thought
+about what it's like.
+
+318
+00:15:59,959 --> 00:16:02,208
+I notice you tend
+to have longer hair.
+
+319
+00:16:02,250 --> 00:16:03,750
+Hmm.
+
+320
+00:16:03,792 --> 00:16:07,041
+And you arrange it
+more elaborately.
+
+321
+00:16:07,083 --> 00:16:09,125
+And you apply color
+to your bodies.
+
+322
+00:16:09,166 --> 00:16:10,250
+Color?
+
+323
+00:16:10,291 --> 00:16:12,750
+You put color on your mouths
+
+324
+00:16:12,792 --> 00:16:16,667
+and your eyes,
+your cheeks,
+
+325
+00:16:16,709 --> 00:16:18,667
+and your fingernails.
+
+326
+00:16:18,709 --> 00:16:19,959
+The men don't.
+
+327
+00:16:20,000 --> 00:16:21,625
+That's true.
+
+328
+00:16:21,667 --> 00:16:26,166
+Then it is up to women
+to attract the men?
+
+329
+00:16:26,208 --> 00:16:27,500
+Oh, no.
+
+330
+00:16:27,542 --> 00:16:29,625
+Men want to be
+attractive, too, believe me.
+
+331
+00:16:29,667 --> 00:16:32,500
+They just go about it
+differently.
+
+332
+00:16:32,542 --> 00:16:34,917
+No color.
+
+333
+00:16:34,959 --> 00:16:36,875
+No color.
+
+334
+00:16:36,917 --> 00:16:39,625
+They like to pretend
+they're not doing<i> anything</i>
+
+335
+00:16:39,667 --> 00:16:41,458
+to attract a woman,
+
+336
+00:16:41,500 --> 00:16:45,458
+even when it's the most
+important thing on their minds.
+
+337
+00:16:47,458 --> 00:16:50,333
+This is very confusing.
+
+338
+00:16:50,375 --> 00:16:51,709
+Then...
+
+339
+00:16:51,750 --> 00:16:54,875
+are women considered
+more superior?
+
+340
+00:16:54,917 --> 00:16:56,458
+Or the men?
+
+341
+00:16:56,500 --> 00:16:57,709
+Neither.
+
+342
+00:16:59,083 --> 00:17:01,625
+In the past...
+
+343
+00:17:01,667 --> 00:17:06,959
+women were often considered
+weak and inferior.
+
+344
+00:17:08,583 --> 00:17:09,834
+But...
+
+345
+00:17:09,875 --> 00:17:12,792
+that hasn't been true
+for a long time.
+
+346
+00:17:12,834 --> 00:17:14,000
+Will...
+
+347
+00:17:14,041 --> 00:17:17,000
+your copilot is
+going to be fine.
+
+348
+00:17:17,041 --> 00:17:18,750
+The injury
+was minor.
+
+349
+00:17:18,792 --> 00:17:20,250
+Glad to hear it.
+
+350
+00:17:20,291 --> 00:17:22,375
+I'm afraid you're not
+rid of me yet, Commander.
+
+351
+00:17:22,417 --> 00:17:23,542
+I will be able
+
+352
+00:17:23,583 --> 00:17:24,709
+to complete
+the mission.
+
+353
+00:17:24,750 --> 00:17:26,000
+I'm glad
+you're feeling better.
+
+354
+00:17:26,041 --> 00:17:27,333
+What happened?
+
+355
+00:17:27,375 --> 00:17:29,000
+What made the shuttle
+go into a spin?
+
+356
+00:17:29,041 --> 00:17:30,959
+The port nacelle
+must have nipped
+one of the protrusions
+
+357
+00:17:31,000 --> 00:17:33,125
+from the null pocket
+and shut it down.
+
+358
+00:17:33,166 --> 00:17:35,291
+Are we still on
+schedule, then?
+
+359
+00:17:35,333 --> 00:17:38,333
+That depends
+on how you're doing.
+
+360
+00:17:38,375 --> 00:17:41,208
+I'm fine. We should go
+check the port engine.
+
+361
+00:17:41,250 --> 00:17:43,125
+Whoa.
+
+362
+00:17:43,166 --> 00:17:45,875
+I think we should get
+the doctor's opinion first.
+
+363
+00:17:45,917 --> 00:17:47,083
+Doctor?
+
+364
+00:17:47,125 --> 00:17:48,834
+I don't see any problem.
+
+365
+00:17:48,875 --> 00:17:52,166
+But if you feel any symptoms--
+headache, dizziness-- come back.
+
+366
+00:17:52,208 --> 00:17:53,917
+You have my word.
+
+367
+00:18:02,333 --> 00:18:04,333
+All right.
+
+368
+00:18:04,375 --> 00:18:08,375
+This hand, the game
+is "Federation Day."
+
+369
+00:18:09,792 --> 00:18:11,750
+What is that?
+
+370
+00:18:11,792 --> 00:18:14,417
+Well, the Federation
+was founded in 2161.
+
+371
+00:18:14,458 --> 00:18:15,750
+So...
+
+372
+00:18:15,792 --> 00:18:18,792
+twos, sixes and aces
+are wild.
+
+373
+00:18:18,834 --> 00:18:21,208
+That is a woman's game.
+
+374
+00:18:21,250 --> 00:18:23,834
+Oh? Why is that?
+
+375
+00:18:23,875 --> 00:18:25,333
+All those wild cards.
+
+376
+00:18:25,375 --> 00:18:27,000
+They support a weak hand.
+
+377
+00:18:27,041 --> 00:18:30,125
+A man's game
+has no wild cards.
+
+378
+00:18:30,166 --> 00:18:31,375
+Let me get this straight.
+
+379
+00:18:31,417 --> 00:18:33,083
+You're saying
+it's a woman's game
+
+380
+00:18:33,125 --> 00:18:35,333
+because women are weak
+and need more help?
+
+381
+00:18:35,375 --> 00:18:37,709
+Yes.
+
+382
+00:18:37,750 --> 00:18:38,917
+And just this afternoon,
+
+383
+00:18:38,959 --> 00:18:40,667
+I was insisting
+to one of the J'naii
+
+384
+00:18:40,709 --> 00:18:43,375
+that those attitudes
+were but a distant memory.
+
+385
+00:18:44,458 --> 00:18:46,792
+The J'naii...
+
+386
+00:18:46,834 --> 00:18:48,417
+they bother me.
+
+387
+00:18:48,458 --> 00:18:49,542
+Why, Worf?
+
+388
+00:18:49,583 --> 00:18:51,166
+Well, they
+just do.
+
+389
+00:18:51,208 --> 00:18:52,667
+They're all alike.
+
+390
+00:18:52,709 --> 00:18:54,458
+No males, no females.
+
+391
+00:18:54,500 --> 00:18:57,291
+Well, I'm sure we're
+just as strange to them.
+
+392
+00:18:57,333 --> 00:18:59,333
+Well, one of them seems to be
+overcoming the differences,
+
+393
+00:18:59,375 --> 00:19:02,500
+at least in regards
+to one of us.
+
+394
+00:19:02,542 --> 00:19:04,375
+What are you saying,
+Doctor?
+
+395
+00:19:04,417 --> 00:19:05,583
+I could be wrong,
+
+396
+00:19:05,625 --> 00:19:07,208
+but I get
+the definite impression
+
+397
+00:19:07,250 --> 00:19:08,208
+that Soren is attracted
+
+398
+00:19:08,250 --> 00:19:10,834
+to Commander Riker.
+
+399
+00:19:10,875 --> 00:19:13,250
+A human and a J'naii?
+
+400
+00:19:13,291 --> 00:19:14,875
+Impossible.
+
+401
+00:19:16,041 --> 00:19:17,417
+Why?
+
+402
+00:19:17,458 --> 00:19:18,875
+Good question.
+
+403
+00:19:18,917 --> 00:19:20,333
+Worf?
+
+404
+00:19:24,792 --> 00:19:26,875
+With all these wild cards
+
+405
+00:19:26,917 --> 00:19:30,291
+it is difficult to know
+what is exactly in my hand.
+
+406
+00:19:30,333 --> 00:19:33,792
+However, I will
+open with 50.
+
+407
+00:19:36,834 --> 00:19:38,500
+The portable transporter
+array is in.
+
+408
+00:19:38,542 --> 00:19:40,667
+When we get into
+the null space
+
+409
+00:19:40,709 --> 00:19:42,458
+we'll need to initialize it
+before we can transport
+
+410
+00:19:42,500 --> 00:19:44,125
+the J'naii crew
+onto this shuttle.
+
+411
+00:19:44,166 --> 00:19:46,208
+But there should still
+be enough power left
+
+412
+00:19:46,250 --> 00:19:48,208
+to beam us all back
+to the<i> Enterprise.</i>
+
+413
+00:19:48,250 --> 00:19:50,125
+Is the buffer field
+generator installed?
+
+414
+00:19:50,166 --> 00:19:52,625
+Not yet. Geordi thinks
+that'll be ready
+
+415
+00:19:52,667 --> 00:19:54,125
+by 0800 hours tomorrow.
+
+416
+00:19:54,166 --> 00:19:56,000
+But before that,
+
+417
+00:19:56,041 --> 00:19:58,417
+we should see if we can
+balance this engine.
+
+418
+00:19:58,458 --> 00:20:02,125
+Can you access
+the starboard manifold thrust?
+
+419
+00:20:09,375 --> 00:20:11,542
+There.
+
+420
+00:20:11,583 --> 00:20:13,917
+Set the arc at 6.3.
+
+421
+00:20:13,959 --> 00:20:16,166
+I'll optimize the plasma flow.
+
+422
+00:20:19,458 --> 00:20:21,667
+Commander...
+
+423
+00:20:21,709 --> 00:20:24,792
+I'd like
+to tell you something.
+
+424
+00:20:26,208 --> 00:20:29,000
+Something that's
+not easy to say.
+
+425
+00:20:29,041 --> 00:20:31,041
+What's that?
+
+426
+00:20:35,709 --> 00:20:38,291
+I find you attractive.
+
+427
+00:20:41,709 --> 00:20:44,917
+I am taking a terrible risk
+telling you that.
+
+428
+00:20:44,959 --> 00:20:48,000
+It means revealing
+something to you,
+
+429
+00:20:48,041 --> 00:20:50,959
+something that, if it
+were known on my planet
+
+430
+00:20:51,000 --> 00:20:53,166
+would be very dangerous
+for me.
+
+431
+00:20:59,083 --> 00:21:03,291
+Occasionally,
+among my people...
+
+432
+00:21:04,750 --> 00:21:10,166
+there are a few
+who are born different--
+
+433
+00:21:12,417 --> 00:21:16,500
+who are throwbacks from the era
+when we all had gender.
+
+434
+00:21:16,542 --> 00:21:19,917
+Some have strong
+inclinations to maleness
+
+435
+00:21:19,959 --> 00:21:24,208
+and some have urges
+to be female.
+
+436
+00:21:25,625 --> 00:21:27,625
+I am one of the latter.
+
+437
+00:21:29,083 --> 00:21:33,083
+I have to admit, I had
+a feeling you were different.
+
+438
+00:21:34,834 --> 00:21:37,375
+I was hoping you would.
+
+439
+00:21:37,417 --> 00:21:40,041
+But in front of Krite
+and the others,
+
+440
+00:21:40,083 --> 00:21:43,083
+I must be careful
+not to reveal myself.
+
+441
+00:21:43,125 --> 00:21:44,375
+Why?
+
+442
+00:21:44,417 --> 00:21:45,625
+On our world,
+
+443
+00:21:45,667 --> 00:21:47,583
+these feelings
+are forbidden.
+
+444
+00:21:47,625 --> 00:21:51,792
+Those who are discovered
+are shamed and ridiculed.
+
+445
+00:21:51,834 --> 00:21:56,000
+And only by undergoing
+psychotectic therapy
+
+446
+00:21:56,041 --> 00:22:00,417
+and having all elements
+of gender eliminated
+
+447
+00:22:00,458 --> 00:22:04,000
+can they be accepted
+into society again.
+
+448
+00:22:05,917 --> 00:22:07,834
+Those of us who
+have these urges
+
+449
+00:22:07,875 --> 00:22:10,208
+live secret and guarded lives.
+
+450
+00:22:10,250 --> 00:22:13,041
+We seek each other out...
+
+451
+00:22:13,083 --> 00:22:15,208
+always hiding...
+
+452
+00:22:15,250 --> 00:22:19,041
+always terrified
+of being discovered.
+
+453
+00:22:19,083 --> 00:22:23,333
+How long have you known
+that you were like this?
+
+454
+00:22:23,375 --> 00:22:28,125
+I have known
+I was different all my life,
+
+455
+00:22:28,166 --> 00:22:33,500
+but I did not know how
+or why until I was older.
+
+456
+00:22:33,542 --> 00:22:35,583
+And when you realized--
+
+457
+00:22:35,625 --> 00:22:37,583
+what then?
+
+458
+00:22:37,625 --> 00:22:42,125
+I remember
+when I was very young,
+
+459
+00:22:42,166 --> 00:22:44,750
+before I knew what I was,
+
+460
+00:22:44,792 --> 00:22:48,333
+there was a rumor
+at my school
+
+461
+00:22:48,375 --> 00:22:52,166
+that one of the students
+preferred a gender--
+
+462
+00:22:52,208 --> 00:22:54,458
+in that case, male.
+
+463
+00:22:56,417 --> 00:23:00,583
+The children started
+making fun of him
+
+464
+00:23:00,625 --> 00:23:03,208
+and every day,
+they were more cruel.
+
+465
+00:23:03,250 --> 00:23:06,083
+They could tell
+he was afraid,
+
+466
+00:23:06,125 --> 00:23:09,792
+and somehow, that seemed
+to encourage them.
+
+467
+00:23:11,834 --> 00:23:16,917
+One morning in class,
+he appeared, bleeding
+
+468
+00:23:16,959 --> 00:23:19,834
+and in ripped clothes.
+
+469
+00:23:19,875 --> 00:23:22,792
+He said he had fallen down.
+
+470
+00:23:24,625 --> 00:23:28,667
+And, of course, the school
+authorities found out
+
+471
+00:23:28,709 --> 00:23:31,041
+and took him away
+
+472
+00:23:31,083 --> 00:23:34,041
+and gave him
+psychotectic treatments.
+
+473
+00:23:36,417 --> 00:23:39,458
+When he came back...
+
+474
+00:23:39,500 --> 00:23:44,500
+he stood in front
+of the whole school
+
+475
+00:23:44,542 --> 00:23:50,834
+and told us how happy he was,
+now that he had been cured.
+
+476
+00:23:50,875 --> 00:23:52,959
+After that, I realized
+
+477
+00:23:53,000 --> 00:23:56,667
+how dangerous it was
+to be different.
+
+478
+00:23:56,709 --> 00:24:02,750
+And once I got older
+and knew what I was,
+
+479
+00:24:02,792 --> 00:24:06,000
+I was terrified.
+
+480
+00:24:06,041 --> 00:24:10,709
+I have had to live
+with that fear ever since.
+
+481
+00:24:10,750 --> 00:24:12,917
+Do you have...
+
+482
+00:24:12,959 --> 00:24:15,542
+relationships with others?
+
+483
+00:24:15,583 --> 00:24:17,041
+Yes...
+
+484
+00:24:17,083 --> 00:24:21,291
+with those who have
+discovered they are male.
+
+485
+00:24:21,333 --> 00:24:24,041
+I have had
+to live a life
+
+486
+00:24:24,083 --> 00:24:26,959
+of pretense and lies
+
+487
+00:24:27,000 --> 00:24:30,041
+but with you,
+I can be honest.
+
+488
+00:24:30,083 --> 00:24:34,083
+Please, don't
+say anything.
+
+489
+00:24:34,125 --> 00:24:36,834
+Just think about it.
+
+490
+00:24:47,667 --> 00:24:50,375
+That's it, Commander.
+Everything checks out.
+
+491
+00:24:50,417 --> 00:24:53,041
+The energy buffer
+is installed and functioning.
+
+492
+00:24:53,083 --> 00:24:54,625
+I estimate it should
+reduce the power drain
+
+493
+00:24:54,667 --> 00:24:56,125
+to your systems
+by about 40%.
+
+494
+00:24:56,166 --> 00:24:57,625
+Any guess
+how long we'll have?
+
+495
+00:24:57,667 --> 00:24:59,583
+Let's just say you don't
+want to waste any time
+
+496
+00:24:59,625 --> 00:25:00,667
+once you get in there.
+
+497
+00:25:00,709 --> 00:25:02,041
+You'll have to give him
+
+498
+00:25:02,083 --> 00:25:03,333
+continuous readouts
+on energy consumption.
+
+499
+00:25:03,375 --> 00:25:04,625
+I can't even predict
+if the drain
+
+500
+00:25:04,667 --> 00:25:06,000
+will<i> be</i> at a constant rate.
+
+501
+00:25:06,041 --> 00:25:07,041
+I understand.
+
+502
+00:25:07,083 --> 00:25:08,333
+Then that's it.
+
+503
+00:25:08,375 --> 00:25:10,041
+Commander, I'll monitor you
+as far as I can
+
+504
+00:25:10,083 --> 00:25:12,291
+but, once you get inside
+that pocket, you're on your own.
+
+505
+00:25:12,333 --> 00:25:13,875
+We don't have any
+idea what condition
+
+506
+00:25:13,917 --> 00:25:15,250
+the shuttlecraft
+crew is in,
+
+507
+00:25:15,291 --> 00:25:16,709
+so we'll all beam
+directly to sick bay.
+
+508
+00:25:16,750 --> 00:25:18,834
+I'll notify Dr. Crusher
+to be standing by.
+
+509
+00:25:23,583 --> 00:25:25,083
+La Forge to bridge.
+
+510
+00:25:25,125 --> 00:25:26,792
+PICARD:
+Picard here.
+
+511
+00:25:26,834 --> 00:25:29,000
+We're ready to initiate
+shuttle prelaunch sequence.
+
+512
+00:25:29,041 --> 00:25:30,875
+Proceed, Mr. Data.
+
+513
+00:25:30,917 --> 00:25:33,000
+Initiating
+prelaunch sequence.
+
+514
+00:25:33,041 --> 00:25:36,083
+RIKER:
+Request flight clearance.
+
+515
+00:25:36,125 --> 00:25:37,917
+Clearance is granted.
+
+516
+00:25:37,959 --> 00:25:40,250
+The shuttle is
+underway, sir.
+
+517
+00:25:40,291 --> 00:25:41,792
+Good hunting,
+Commander.
+
+518
+00:25:41,834 --> 00:25:44,500
+RIKER:
+Thank you, sir.
+See you for dinner.
+
+519
+00:25:44,542 --> 00:25:45,750
+Heading confirmed.
+
+520
+00:25:45,792 --> 00:25:47,458
+Energy readings
+are normal
+
+521
+00:25:47,500 --> 00:25:50,542
+with power reserves
+stabilized at 100%.
+
+522
+00:25:50,583 --> 00:25:52,000
+Acknowledged.
+
+523
+00:25:52,041 --> 00:25:53,250
+It's dead ahead.
+
+524
+00:25:53,291 --> 00:25:55,291
+Approximately
+50 kilometers.
+
+525
+00:25:55,333 --> 00:25:58,208
+Riker to<i> Enterprise.</i>
+We're taking her in.
+
+526
+00:26:03,834 --> 00:26:05,083
+Riker to<i> Enterprise.</i>
+
+527
+00:26:06,333 --> 00:26:07,875
+Riker to<i> Enterprise.</i>
+
+528
+00:26:09,917 --> 00:26:12,583
+Power reserves
+are down to 84%.
+
+529
+00:26:12,625 --> 00:26:13,583
+Look.
+
+530
+00:26:13,625 --> 00:26:16,583
+Try hailing them.
+
+531
+00:26:16,625 --> 00:26:18,959
+Calling the<i> Taris Murn.</i>
+
+532
+00:26:19,000 --> 00:26:20,875
+Do you read me?
+
+533
+00:26:20,917 --> 00:26:23,000
+(<i> console beeping</i> )
+
+534
+00:26:23,041 --> 00:26:24,166
+I'm getting sensor readings.
+
+535
+00:26:24,208 --> 00:26:25,709
+They're unconscious,
+but they're alive.
+
+536
+00:26:25,750 --> 00:26:27,000
+Stand by.
+
+537
+00:26:27,041 --> 00:26:28,667
+I'm going to transport
+them over here.
+
+538
+00:26:28,709 --> 00:26:32,709
+Power reserves at 68%
+and dropping.
+
+539
+00:26:38,083 --> 00:26:39,417
+(<i> sighs</i> )
+
+540
+00:26:39,458 --> 00:26:41,166
+The null space
+must be affecting
+
+541
+00:26:41,208 --> 00:26:42,917
+the annular
+confinement beam.
+
+542
+00:26:42,959 --> 00:26:44,667
+We used ten megajoules
+with that attempt.
+
+543
+00:26:44,709 --> 00:26:46,125
+We're down to 34%
+of reserves.
+
+544
+00:26:46,166 --> 00:26:47,834
+We can give it one more try.
+
+545
+00:26:47,875 --> 00:26:49,500
+More than that,
+we won't have enough power
+
+546
+00:26:49,542 --> 00:26:51,208
+to get ourselves out of here.
+
+547
+00:26:59,125 --> 00:27:01,041
+They need
+medical attention quickly.
+
+548
+00:27:01,083 --> 00:27:03,041
+Okay, stand by to transport
+to the<i> Enterprise.</i>
+
+549
+00:27:03,083 --> 00:27:05,250
+Here we go.
+
+550
+00:27:07,125 --> 00:27:08,875
+Energy consumption?
+
+551
+00:27:11,166 --> 00:27:12,542
+We're down to nine percent.
+
+552
+00:27:12,583 --> 00:27:14,500
+We don't have enough
+to get back.
+
+553
+00:27:14,542 --> 00:27:15,959
+If we just sit here, we'll
+lose all of our systems
+
+554
+00:27:16,000 --> 00:27:18,917
+within an hour,
+including life-support.
+
+555
+00:27:18,959 --> 00:27:22,000
+Okay, I'm rerouting
+the propulsion system
+to the transporter.
+
+556
+00:27:22,041 --> 00:27:24,625
+Rechannel
+the navigation systems.
+
+557
+00:27:24,667 --> 00:27:27,542
+Let's transfer
+every microjoule
+of energy we've got.
+
+558
+00:27:27,583 --> 00:27:28,709
+Sensors... life-support.
+
+559
+00:27:28,750 --> 00:27:31,250
+This might give us
+one last shot.
+
+560
+00:27:31,291 --> 00:27:32,875
+But if we use
+an energy shift
+
+561
+00:27:32,917 --> 00:27:34,333
+of that size, it will overload
+the phase compensators.
+
+562
+00:27:34,375 --> 00:27:35,375
+The shuttle...
+
+563
+00:27:35,417 --> 00:27:36,583
+...will explode.
+
+564
+00:27:36,625 --> 00:27:38,875
+But if we stay here,
+we're dead, anyway.
+
+565
+00:27:38,917 --> 00:27:41,417
+Maximum energy levels,
+five seconds.
+
+566
+00:27:41,458 --> 00:27:43,959
+(<i> consoles beeping</i> )
+
+567
+00:27:45,834 --> 00:27:47,792
+See you in a minute.
+
+568
+00:28:03,667 --> 00:28:06,166
+CRUSHER:
+They've been
+oxygen deprived.
+
+569
+00:28:06,208 --> 00:28:08,583
+But there doesn't seem
+to be any significant damage.
+
+570
+00:28:08,625 --> 00:28:09,792
+Prepare some dexalin.
+
+571
+00:28:09,834 --> 00:28:10,875
+Yes, Doctor.
+
+572
+00:28:12,834 --> 00:28:13,875
+Commander...
+
+573
+00:28:13,917 --> 00:28:15,125
+Thank you.
+
+574
+00:28:15,166 --> 00:28:17,417
+Your colleague, Soren,
+was very helpful.
+
+575
+00:28:17,458 --> 00:28:20,125
+Captain, would you all join us
+this evening?
+
+576
+00:28:20,166 --> 00:28:22,709
+We would like to express
+our gratitude.
+
+577
+00:28:22,750 --> 00:28:24,875
+We'd be happy to.
+
+578
+00:28:24,917 --> 00:28:28,333
+Noor will be eager
+for a firsthand report.
+
+579
+00:28:28,375 --> 00:28:30,375
+We should return
+to the surface.
+
+580
+00:28:30,417 --> 00:28:32,166
+I will see you later
+tonight, Commander.
+
+581
+00:28:42,000 --> 00:28:45,125
+(<i> conversation and laughter</i> )
+
+582
+00:28:57,917 --> 00:29:01,417
+There you are,
+Commander.
+
+583
+00:29:01,458 --> 00:29:02,542
+I wondered
+what had happened
+
+584
+00:29:02,583 --> 00:29:03,542
+to our guest of honor.
+
+585
+00:29:03,583 --> 00:29:05,083
+I just needed some air.
+
+586
+00:29:05,125 --> 00:29:07,375
+I can only take so much
+of those social functions,
+
+587
+00:29:07,417 --> 00:29:09,166
+and then I need
+to breathe a little.
+
+588
+00:29:09,208 --> 00:29:13,375
+I would think you had attended
+so many affairs like this
+
+589
+00:29:13,417 --> 00:29:15,667
+that it had
+become second nature to you.
+
+590
+00:29:15,709 --> 00:29:17,375
+I was raised outdoors.
+
+591
+00:29:17,417 --> 00:29:20,792
+I've never been very...
+comfortable in crowded rooms.
+
+592
+00:29:31,834 --> 00:29:34,875
+What do you think
+of our planet?
+
+593
+00:29:34,917 --> 00:29:36,917
+Isn't it beautiful?
+
+594
+00:29:36,959 --> 00:29:38,792
+Yes, it is.
+
+595
+00:29:38,834 --> 00:29:40,417
+It's beautiful.
+
+596
+00:29:43,291 --> 00:29:47,125
+We have many varieties
+of plant life.
+
+597
+00:29:47,166 --> 00:29:51,208
+Perhaps you would like
+to inspect some of them?
+
+598
+00:29:51,250 --> 00:29:52,625
+Yes, I would.
+
+599
+00:29:52,667 --> 00:29:56,458
+I've always been interested
+in exobotany.
+
+600
+00:29:56,500 --> 00:29:59,750
+Please, let me
+take you on a tour.
+
+601
+00:29:59,792 --> 00:30:00,959
+Thank you.
+
+602
+00:30:01,000 --> 00:30:02,750
+It's kind of you.
+
+603
+00:30:15,375 --> 00:30:19,375
+One of my favorites
+is this menellen tree.
+
+604
+00:30:19,417 --> 00:30:21,959
+The leaves first
+turn pure white
+
+605
+00:30:22,000 --> 00:30:25,542
+and then blue when
+the weather gets cold.
+
+606
+00:30:26,709 --> 00:30:29,166
+This is called
+a falla bush.
+
+607
+00:30:29,208 --> 00:30:31,125
+It produces
+a fragrant flower
+
+608
+00:30:31,166 --> 00:30:34,166
+on only one day
+of the year.
+
+609
+00:31:01,583 --> 00:31:05,291
+<i>Captain's Log,</i>
+<i>Stardate 45620.4.</i>
+
+610
+00:31:05,333 --> 00:31:07,667
+<i>In the hope that a detailed map</i>
+<i>of the null space</i>
+
+611
+00:31:07,709 --> 00:31:09,500
+<i>will prevent</i>
+<i>the loss of other ships,</i>
+
+612
+00:31:09,542 --> 00:31:13,458
+<i>we remain in orbit of J'naii,</i>
+<i>charting the anomaly.</i>
+
+613
+00:31:20,750 --> 00:31:22,333
+(<i> door chimes</i> )
+
+614
+00:31:22,375 --> 00:31:23,417
+Come in.
+
+615
+00:31:27,875 --> 00:31:29,250
+Hello, Will.
+
+616
+00:31:29,291 --> 00:31:30,875
+What's all this?
+
+617
+00:31:30,917 --> 00:31:33,041
+Wonderful things.
+
+618
+00:31:33,083 --> 00:31:34,542
+My mother sent me a box
+
+619
+00:31:34,583 --> 00:31:38,583
+that belonged to one
+of my father's ancestors.
+
+620
+00:31:38,625 --> 00:31:43,375
+It was stored on Earth
+and just recently turned up.
+
+621
+00:31:43,417 --> 00:31:44,750
+Do you know who any
+of these people are?
+
+622
+00:31:44,792 --> 00:31:46,542
+No.
+
+623
+00:31:46,583 --> 00:31:47,917
+Some of the pictures
+have names on,
+
+624
+00:31:47,959 --> 00:31:51,125
+but most of them don't.
+
+625
+00:31:51,166 --> 00:31:54,959
+I look at these faces,
+and I wonder who they are
+
+626
+00:31:55,000 --> 00:31:56,750
+and if they could be
+related to me.
+
+627
+00:31:56,792 --> 00:31:58,291
+Well, this one looks
+like you.
+
+628
+00:32:00,750 --> 00:32:03,417
+Deanna...
+
+629
+00:32:03,458 --> 00:32:05,500
+I have something
+on my mind.
+
+630
+00:32:05,542 --> 00:32:07,709
+I had to see you.
+
+631
+00:32:07,750 --> 00:32:10,041
+Has something happened?
+
+632
+00:32:10,083 --> 00:32:13,000
+I've met someone--
+
+633
+00:32:13,041 --> 00:32:15,625
+someone who's becoming
+important to me.
+
+634
+00:32:18,041 --> 00:32:19,208
+Soren.
+
+635
+00:32:19,250 --> 00:32:21,750
+Yes.
+
+636
+00:32:21,792 --> 00:32:24,792
+You're my friend,
+and I thought...
+
+637
+00:32:24,834 --> 00:32:27,959
+I don't know,
+I thought I should tell you.
+
+638
+00:32:28,000 --> 00:32:29,959
+I'm glad you did.
+
+639
+00:32:30,000 --> 00:32:32,625
+Nothing will change
+between us, will it?
+
+640
+00:32:32,667 --> 00:32:34,041
+Of course it will.
+
+641
+00:32:34,083 --> 00:32:37,625
+All relationships are
+constantly changing.
+
+642
+00:32:39,291 --> 00:32:45,000
+But we'll still be friends,
+maybe better friends.
+
+643
+00:32:45,041 --> 00:32:48,333
+You're a part of my life,
+and I'm a part of yours.
+
+644
+00:32:48,375 --> 00:32:51,583
+That much will
+always be true.
+
+645
+00:33:14,542 --> 00:33:17,625
+Hello.
+I'm here to see Soren.
+
+646
+00:33:17,667 --> 00:33:20,375
+I know.
+
+647
+00:33:20,417 --> 00:33:21,917
+We had an appointment.
+We were going to discuss...
+
+648
+00:33:21,959 --> 00:33:24,542
+I don't think so,
+Commander.
+Excuse me?
+
+649
+00:33:24,583 --> 00:33:26,917
+We know about the two of you.
+We know what you're doing.
+
+650
+00:33:26,959 --> 00:33:28,542
+Where is Soren?
+And we're going to make sure
+
+651
+00:33:28,583 --> 00:33:30,709
+it doesn't happen again.
+Answer me-- where is Soren?
+
+652
+00:33:30,750 --> 00:33:32,083
+In custody.
+
+653
+00:33:32,125 --> 00:33:33,709
+And there's nothing
+you can do about it.
+
+654
+00:33:33,750 --> 00:33:35,917
+The hell there isn't.
+
+655
+00:33:38,625 --> 00:33:42,208
+You are aware of
+the charges against you?
+
+656
+00:33:42,250 --> 00:33:43,291
+Yes.
+
+657
+00:33:43,333 --> 00:33:45,750
+Do you intend
+to dispute them?
+
+658
+00:33:49,458 --> 00:33:51,041
+Well?
+
+659
+00:33:51,083 --> 00:33:52,291
+What is your response?
+
+660
+00:33:56,458 --> 00:33:57,750
+Commander Riker,
+
+661
+00:33:57,792 --> 00:33:59,083
+these proceedings
+are closed to everyone...
+
+662
+00:33:59,125 --> 00:34:00,291
+I think I just
+opened them.
+
+663
+00:34:00,333 --> 00:34:02,375
+Sir, this is
+a private matter.
+
+664
+00:34:02,417 --> 00:34:03,750
+We are grateful
+for your recent help
+
+665
+00:34:03,792 --> 00:34:05,208
+but that gives you no right
+to interfere
+
+666
+00:34:05,250 --> 00:34:06,750
+with our personal
+concerns.
+
+667
+00:34:06,792 --> 00:34:08,917
+I just want you to know
+what really happened.
+
+668
+00:34:08,959 --> 00:34:11,500
+It was all my fault.
+
+669
+00:34:11,542 --> 00:34:13,333
+I was attracted to Soren.
+
+670
+00:34:13,375 --> 00:34:15,375
+I pursued.
+
+671
+00:34:15,417 --> 00:34:16,709
+I insisted.
+
+672
+00:34:16,750 --> 00:34:18,834
+I didn't understand
+your ways until she
+
+673
+00:34:18,875 --> 00:34:21,583
+explained them to me
+and rejected me.
+
+674
+00:34:21,625 --> 00:34:23,625
+Nothing happened
+between us.
+
+675
+00:34:23,667 --> 00:34:26,125
+I ask your
+forgiveness.
+
+676
+00:34:26,166 --> 00:34:28,291
+I behaved...
+
+677
+00:34:28,333 --> 00:34:30,250
+inappropriately.
+
+678
+00:34:33,500 --> 00:34:35,625
+Is this true?
+
+679
+00:34:37,000 --> 00:34:37,959
+No.
+
+680
+00:34:38,000 --> 00:34:39,333
+Soren.
+
+681
+00:34:42,625 --> 00:34:44,709
+I am tired of lies.
+
+682
+00:34:48,709 --> 00:34:51,458
+I am female.
+
+683
+00:34:51,500 --> 00:34:53,959
+I was born that way.
+
+684
+00:34:54,000 --> 00:34:58,041
+I have had those feelings...
+
+685
+00:34:58,083 --> 00:35:00,291
+those longings...
+
+686
+00:35:00,333 --> 00:35:02,041
+all of my life.
+
+687
+00:35:02,083 --> 00:35:06,166
+It is<i> not</i> unnatural.
+
+688
+00:35:06,208 --> 00:35:10,917
+I am not sick because
+I feel this way.
+
+689
+00:35:10,959 --> 00:35:13,250
+I do not need
+to be helped.
+
+690
+00:35:14,834 --> 00:35:17,834
+I do not need
+to be cured.
+
+691
+00:35:21,875 --> 00:35:24,917
+What I need...
+
+692
+00:35:24,959 --> 00:35:30,166
+and what all of those
+who are like me need...
+
+693
+00:35:30,208 --> 00:35:33,709
+is your understanding...
+
+694
+00:35:33,750 --> 00:35:35,875
+and your compassion.
+
+695
+00:35:38,792 --> 00:35:41,959
+We have not
+injured you in any way.
+
+696
+00:35:43,375 --> 00:35:47,166
+And yet we are scorned
+and attacked.
+
+697
+00:35:47,208 --> 00:35:49,709
+And all because
+we are different.
+
+698
+00:35:49,750 --> 00:35:55,500
+What we<i> do</i> is no different
+from what you do.
+
+699
+00:35:57,667 --> 00:35:59,834
+We talk...
+
+700
+00:35:59,875 --> 00:36:01,667
+and laugh.
+
+701
+00:36:04,000 --> 00:36:06,083
+We complain about work.
+
+702
+00:36:08,000 --> 00:36:11,250
+And we wonder about growing old.
+
+703
+00:36:11,291 --> 00:36:13,333
+We talk about
+our families
+
+704
+00:36:13,375 --> 00:36:18,542
+and we worry about the future.
+
+705
+00:36:18,583 --> 00:36:22,333
+And we cry with each other
+when things seem hopeless.
+
+706
+00:36:24,291 --> 00:36:28,208
+All of the loving things
+that you do with each other--
+
+707
+00:36:28,250 --> 00:36:30,709
+that is what<i> we</i> do.
+
+708
+00:36:33,959 --> 00:36:36,959
+And for that,
+we are called misfits
+
+709
+00:36:37,000 --> 00:36:40,792
+and deviants
+and criminals.
+
+710
+00:36:40,834 --> 00:36:45,625
+What right do you have
+to punish us?
+
+711
+00:36:47,250 --> 00:36:51,333
+What right do you have
+to change us?
+
+712
+00:36:52,875 --> 00:36:54,500
+What makes you think
+
+713
+00:36:54,542 --> 00:36:58,667
+you can dictate
+how people love each other?
+
+714
+00:37:09,792 --> 00:37:11,291
+I congratulate you, Soren.
+
+715
+00:37:11,333 --> 00:37:13,000
+Your decision
+to admit your perversion
+
+716
+00:37:13,041 --> 00:37:16,417
+makes it much more likely
+that we can help you.
+
+717
+00:37:19,667 --> 00:37:21,625
+Wait, wait, wait.
+You don't have to do this.
+
+718
+00:37:21,667 --> 00:37:23,417
+Commander...
+Let me take her with me.
+
+719
+00:37:23,458 --> 00:37:25,125
+She could go back
+to the<i> Enterprise.</i>
+
+720
+00:37:25,166 --> 00:37:26,542
+We would give her asylum.
+
+721
+00:37:26,583 --> 00:37:27,959
+You would never
+have to see her again.
+
+722
+00:37:28,000 --> 00:37:29,583
+That would solve the problem,
+wouldn't it?
+
+723
+00:37:29,625 --> 00:37:31,083
+You'd be rid of her!
+
+724
+00:37:31,125 --> 00:37:33,333
+She would never be able
+to influence anyone again.
+
+725
+00:37:33,375 --> 00:37:34,667
+Commander...
+
+726
+00:37:34,709 --> 00:37:36,208
+after Soren's diatribe,
+
+727
+00:37:36,250 --> 00:37:39,083
+you must think that we are
+a cruel, repressive people.
+
+728
+00:37:39,125 --> 00:37:41,125
+Nothing could be further
+from the truth.
+
+729
+00:37:41,166 --> 00:37:42,667
+I'm just trying
+to find a solution
+
+730
+00:37:42,709 --> 00:37:44,834
+that would satisfy everyone.
+
+731
+00:37:44,875 --> 00:37:46,166
+We're concerned
+about our citizens.
+
+732
+00:37:46,208 --> 00:37:47,875
+We take our obligations
+to them seriously.
+
+733
+00:37:47,917 --> 00:37:51,458
+Soren is sick, and sick people
+want to get well.
+
+734
+00:37:51,500 --> 00:37:52,917
+Did it occur to you
+
+735
+00:37:52,959 --> 00:37:54,333
+that she might like
+to stay the way she is?
+
+736
+00:37:54,375 --> 00:37:56,667
+No, you don't understand.
+
+737
+00:37:56,709 --> 00:37:59,834
+We have a very high success rate
+in treating deviants like this.
+
+738
+00:37:59,875 --> 00:38:03,750
+And, without exception,
+they become happier people
+
+739
+00:38:03,792 --> 00:38:05,834
+after their treatment,
+and grateful
+
+740
+00:38:05,875 --> 00:38:08,667
+that we care enough
+to cure them.
+
+741
+00:38:08,709 --> 00:38:11,166
+You see, Commander,
+on this world
+
+742
+00:38:11,208 --> 00:38:14,834
+everyone<i> wants</i>
+to be normal.
+
+743
+00:38:14,875 --> 00:38:17,000
+She<i> is!</i>
+
+744
+00:38:18,458 --> 00:38:20,667
+Take Soren to quarters.
+Treatment will begin tomorrow.
+
+745
+00:38:20,709 --> 00:38:22,125
+RIKER:
+Don't do this.
+
+746
+00:38:22,166 --> 00:38:23,458
+Soren!
+
+747
+00:38:28,000 --> 00:38:30,041
+No more, Commander.
+
+748
+00:38:30,083 --> 00:38:32,542
+(<i> crowd murmuring</i> )
+
+749
+00:38:32,583 --> 00:38:34,083
+Riker to<i> Enterprise.</i>
+
+750
+00:38:34,125 --> 00:38:37,834
+One to transport.
+
+751
+00:38:43,750 --> 00:38:45,208
+I can't just
+leave her there.
+
+752
+00:38:45,250 --> 00:38:47,417
+They'll give her
+these psychotectic treatments.
+
+753
+00:38:47,458 --> 00:38:49,166
+I don't know
+what to do!
+
+754
+00:38:54,583 --> 00:38:58,875
+Well, I could
+talk to Noor.
+
+755
+00:38:58,917 --> 00:39:01,750
+Perhaps there's a way
+to work something out.
+
+756
+00:39:01,792 --> 00:39:03,500
+Sir, their minds
+are set.
+
+757
+00:39:03,542 --> 00:39:05,333
+They don't want to hear
+another alternative.
+
+758
+00:39:05,375 --> 00:39:06,542
+Then I'm not sure
+
+759
+00:39:06,583 --> 00:39:08,542
+that there's much
+that we can do.
+
+760
+00:39:08,583 --> 00:39:10,667
+There has to be.
+
+761
+00:39:10,709 --> 00:39:13,792
+My relationship with Soren
+is not trivial.
+
+762
+00:39:13,834 --> 00:39:15,625
+She's very important to me.
+
+763
+00:39:15,667 --> 00:39:17,250
+It's my fault
+that this happened.
+
+764
+00:39:17,291 --> 00:39:18,792
+I have to help her.
+
+765
+00:39:18,834 --> 00:39:20,458
+Will, if you're
+here for sanction
+
+766
+00:39:20,500 --> 00:39:21,875
+to take matters
+into your own hands
+
+767
+00:39:21,917 --> 00:39:23,375
+I can't give it to you.
+
+768
+00:39:23,417 --> 00:39:26,417
+I know that,
+but I have to do something.
+
+769
+00:39:26,458 --> 00:39:28,875
+Interfering in the internal
+affairs of the J'naii
+
+770
+00:39:28,917 --> 00:39:31,083
+is prohibited by
+the Prime Directive.
+
+771
+00:39:31,125 --> 00:39:32,166
+I'm aware of that.
+
+772
+00:39:32,208 --> 00:39:33,250
+If you violate
+it, you may be
+
+773
+00:39:33,291 --> 00:39:35,917
+jeopardizing
+your career.
+
+774
+00:39:35,959 --> 00:39:37,250
+Starfleet doesn't
+take these matters
+
+775
+00:39:37,291 --> 00:39:39,041
+lightly, Will, and
+I can't defend you
+
+776
+00:39:39,083 --> 00:39:40,333
+if you go too far.
+
+777
+00:39:40,375 --> 00:39:42,291
+Do you understand?
+
+778
+00:39:42,333 --> 00:39:45,500
+You've made yourself
+very clear, sir.
+
+779
+00:39:45,542 --> 00:39:48,333
+Don't put at risk
+everything you've worked for.
+
+780
+00:39:48,375 --> 00:39:51,125
+Thank you.
+
+781
+00:39:51,166 --> 00:39:52,542
+May I be excused now?
+
+782
+00:39:54,166 --> 00:39:55,959
+(<i> sighs</i> )
+
+783
+00:40:05,542 --> 00:40:07,041
+(<i> door chimes</i> )
+
+784
+00:40:07,083 --> 00:40:08,250
+Who is it?
+
+785
+00:40:08,291 --> 00:40:10,083
+Lieutenant Worf.
+
+786
+00:40:12,125 --> 00:40:13,166
+Come in.
+
+787
+00:40:19,125 --> 00:40:20,875
+Commander, I have the plan
+
+788
+00:40:20,917 --> 00:40:24,041
+for deploying warning buoys
+around the null space.
+
+789
+00:40:24,083 --> 00:40:25,917
+Fine, leave it.
+I'll take a look at it later.
+
+790
+00:40:25,959 --> 00:40:27,125
+Yes, sir.
+
+791
+00:40:30,875 --> 00:40:33,000
+Thank you.
+
+792
+00:40:33,041 --> 00:40:35,291
+You're dismissed.
+
+793
+00:40:35,333 --> 00:40:37,625
+Commander, I am aware
+of what transpired
+
+794
+00:40:37,667 --> 00:40:40,458
+on the planet's surface.
+
+795
+00:40:40,500 --> 00:40:43,834
+Are you, by any chance,
+considering an...
+
+796
+00:40:43,875 --> 00:40:45,792
+unannounced visit?
+
+797
+00:40:49,125 --> 00:40:50,500
+I will go with you.
+
+798
+00:40:50,542 --> 00:40:52,166
+Lieutenant...
+
+799
+00:40:52,208 --> 00:40:53,542
+Sir, you are
+my commanding officer.
+
+800
+00:40:53,583 --> 00:40:56,250
+If you order me
+to stay on board, I will obey,
+
+801
+00:40:56,291 --> 00:41:00,500
+but I ask you
+not to give that order.
+
+802
+00:41:00,542 --> 00:41:05,625
+A warrior does not let
+a friend face danger alone.
+
+803
+00:41:11,083 --> 00:41:12,333
+RIKER:
+Something's happening.
+
+804
+00:41:12,375 --> 00:41:14,834
+They're leaving.
+
+805
+00:41:27,875 --> 00:41:31,834
+(<i> murmuring voices</i> )
+
+806
+00:41:41,875 --> 00:41:42,959
+Okay.
+
+807
+00:41:44,542 --> 00:41:45,917
+Excuse me.
+
+808
+00:41:45,959 --> 00:41:47,583
+I need to speak to her
+alone for a moment.
+
+809
+00:41:47,625 --> 00:41:50,166
+(<i> grunting</i> )
+
+810
+00:41:56,208 --> 00:41:57,208
+Wait!
+
+811
+00:41:57,250 --> 00:41:58,417
+Don't worry.
+
+812
+00:41:58,458 --> 00:42:01,041
+We'll be out of
+here in a minute.
+
+813
+00:42:01,083 --> 00:42:02,417
+Please don't.
+
+814
+00:42:02,458 --> 00:42:04,291
+All right.
+We're almost there.
+
+815
+00:42:07,500 --> 00:42:09,208
+You cannot do this.
+
+816
+00:42:09,250 --> 00:42:10,750
+I won't let them hurt you.
+
+817
+00:42:10,792 --> 00:42:12,333
+You'll be safe on
+the<i> Enterprise.</i>
+
+818
+00:42:12,375 --> 00:42:15,625
+I am so sorry.
+
+819
+00:42:15,667 --> 00:42:17,083
+It was my fault
+
+820
+00:42:17,125 --> 00:42:18,750
+that you got involved
+in all this.
+
+821
+00:42:18,792 --> 00:42:20,083
+Everything's going
+to be all right.
+
+822
+00:42:20,125 --> 00:42:22,250
+Everything's
+going to be fine.
+
+823
+00:42:22,291 --> 00:42:24,333
+No.
+
+824
+00:42:24,375 --> 00:42:26,709
+It is not.
+
+825
+00:42:26,750 --> 00:42:28,875
+What are you
+talking about?
+
+826
+00:42:28,917 --> 00:42:32,083
+It was all a mistake...
+
+827
+00:42:32,125 --> 00:42:35,542
+and I should have realized it
+from the beginning.
+
+828
+00:42:35,583 --> 00:42:36,709
+What?
+
+829
+00:42:36,750 --> 00:42:38,375
+That I was sick.
+
+830
+00:42:38,417 --> 00:42:40,667
+I had these terrible urges
+
+831
+00:42:40,709 --> 00:42:42,959
+and that is why
+I reached out to you.
+
+832
+00:42:44,083 --> 00:42:46,375
+But it was wrong,
+
+833
+00:42:46,417 --> 00:42:48,667
+and I see that now.
+
+834
+00:42:48,709 --> 00:42:50,375
+I do not understand
+
+835
+00:42:50,417 --> 00:42:53,750
+how I could have done
+what I did.
+
+836
+00:42:53,792 --> 00:42:55,458
+Maybe Dr. Crusher
+could treat you
+
+837
+00:42:55,500 --> 00:42:59,500
+and bring you back
+to the way you were.
+
+838
+00:42:59,542 --> 00:43:02,125
+Why would I want that?
+
+839
+00:43:06,333 --> 00:43:07,959
+Soren...
+
+840
+00:43:10,417 --> 00:43:12,166
+I love you.
+
+841
+00:43:13,542 --> 00:43:16,291
+I'm sorry.
+
+842
+00:43:27,625 --> 00:43:30,417
+How long to the Phelan system,
+Mr. Data?
+
+843
+00:43:30,458 --> 00:43:33,834
+At warp six,
+53 hours, sir.
+
+844
+00:43:35,125 --> 00:43:36,125
+Commander.
+
+845
+00:43:36,166 --> 00:43:38,166
+Captain.
+
+846
+00:43:38,208 --> 00:43:39,375
+Starfleet has sent a message
+
+847
+00:43:39,417 --> 00:43:41,083
+asking us to proceed
+to the Phelan system
+
+848
+00:43:41,125 --> 00:43:43,041
+to negotiate
+a trade agreement.
+
+849
+00:43:43,083 --> 00:43:45,417
+Yes, sir.
+
+850
+00:43:45,458 --> 00:43:49,583
+I didn't know when to tell
+them we would be there.
+
+851
+00:43:49,625 --> 00:43:51,875
+Is our business
+with the J'naii finished?
+
+852
+00:43:53,375 --> 00:43:55,250
+Finished, sir.
+
+853
+00:43:57,250 --> 00:43:59,208
+Very well.
+
+854
+00:43:59,250 --> 00:44:00,917
+Ensign, take us out of orbit.
+
+855
+00:44:00,959 --> 00:44:02,000
+Set a course for
+the Phelan system.
+
+856
+00:44:02,041 --> 00:44:03,291
+Warp six.
+
+857
+00:44:03,333 --> 00:44:05,583
+ENSIGN:
+Aye, sir.
+
+858
+00:44:05,625 --> 00:44:07,250
+PICARD: Engage.

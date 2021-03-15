@@ -1,0 +1,4422 @@
+1
+00:00:03,542 --> 00:00:06,709
+<i>Captain's Log,</i>
+<i>Stardate 43539.1.</i>
+
+2
+00:00:06,750 --> 00:00:09,250
+<i>We have moved into orbit</i>
+<i>around Bre'el IV.</i>
+
+3
+00:00:09,291 --> 00:00:10,500
+<i>With the assistance</i>
+<i>of the planet's</i>
+
+4
+00:00:10,542 --> 00:00:11,834
+<i>emergency control center</i>
+
+5
+00:00:11,875 --> 00:00:13,291
+<i>we are investigating</i>
+
+6
+00:00:13,333 --> 00:00:15,375
+<i>a catastrophic threat</i>
+<i>to the population</i>
+
+7
+00:00:15,417 --> 00:00:17,500
+<i>from a descending</i>
+<i>asteroidal moon.</i>
+
+8
+00:00:17,542 --> 00:00:19,375
+(<i> console beeping</i> )
+
+9
+00:00:19,417 --> 00:00:20,667
+The satellite's trajectory
+
+10
+00:00:20,709 --> 00:00:22,709
+is continuing to
+deteriorate, Captain.
+
+11
+00:00:22,750 --> 00:00:25,500
+This orbit will put it
+within 500 kilometers
+
+12
+00:00:25,542 --> 00:00:27,083
+of the planet's surface.
+
+13
+00:00:27,125 --> 00:00:28,834
+We are predicting
+the atmospheric drag
+
+14
+00:00:28,875 --> 00:00:31,250
+will bring it down
+on the next orbit.
+
+15
+00:00:31,291 --> 00:00:34,542
+Have you been able to find
+any explanation for this?
+
+16
+00:00:34,583 --> 00:00:38,041
+No, Doctor. It is a most
+unusual phenomenon.
+
+17
+00:00:38,083 --> 00:00:40,041
+Won't the moon disintegrate
+prior to impact?
+
+18
+00:00:40,083 --> 00:00:42,875
+No. It has a ferrous
+crystalline structure
+
+19
+00:00:42,917 --> 00:00:46,917
+and it will be
+able to withstand
+tidal forces, Captain.
+
+20
+00:00:46,959 --> 00:00:48,750
+Could we blow it
+into pieces?
+
+21
+00:00:48,792 --> 00:00:51,625
+The total mass of
+the moon would remain
+the same, Commander
+
+22
+00:00:51,667 --> 00:00:53,333
+and the impact of
+thousands of fragments
+
+23
+00:00:53,375 --> 00:00:56,000
+would spread destruction
+over an even wider area.
+
+24
+00:00:56,041 --> 00:00:57,875
+How long before impact?
+
+25
+00:00:57,917 --> 00:00:59,375
+29 hours, sir.
+
+26
+00:00:59,417 --> 00:01:01,875
+Projecting it somewhere
+on the western continent.
+
+27
+00:01:01,917 --> 00:01:05,250
+That would destroy an area
+800 kilometers in radius.
+
+28
+00:01:05,291 --> 00:01:08,125
+That damage would be
+insignificant, Captain
+
+29
+00:01:08,166 --> 00:01:11,291
+compared to the
+seismic repercussions
+
+30
+00:01:11,333 --> 00:01:15,792
+massive landquakes
+and tsunami.
+
+31
+00:01:15,834 --> 00:01:18,291
+The force would raise a cloud
+of dust around the planet
+
+32
+00:01:18,333 --> 00:01:20,917
+leading to a significant
+temperature reduction.
+
+33
+00:01:20,959 --> 00:01:23,709
+We could be looking
+at our own ice age.
+
+34
+00:01:28,875 --> 00:01:30,333
+Mr. La Forge, is there any way
+
+35
+00:01:30,375 --> 00:01:33,000
+that the<i> Enterprise</i>
+could coax that satellite
+
+36
+00:01:33,041 --> 00:01:34,458
+back where it belongs?
+
+37
+00:01:34,500 --> 00:01:35,750
+We'd need to apply a delta-v
+
+38
+00:01:35,792 --> 00:01:38,291
+of about four kilometers
+per second.
+
+39
+00:01:38,333 --> 00:01:40,250
+Even with warp power to the
+tractor beam, it would mean
+
+40
+00:01:40,291 --> 00:01:42,583
+exceeding the recommended
+impulse engine output
+
+41
+00:01:42,625 --> 00:01:44,375
+by at least 47%.
+
+42
+00:01:44,417 --> 00:01:45,417
+It would be like
+
+43
+00:01:45,458 --> 00:01:47,083
+an ant pushing a tricycle.
+
+44
+00:01:47,125 --> 00:01:48,792
+A slim chance at best.
+
+45
+00:01:48,834 --> 00:01:50,250
+Given the choice
+between slim and none
+
+46
+00:01:50,291 --> 00:01:52,000
+I'll take slim any day.
+
+47
+00:01:52,041 --> 00:01:53,500
+Make it so.
+
+48
+00:01:53,542 --> 00:01:55,625
+Lieutenant Worf, contact
+all ships in this sector
+
+49
+00:01:55,667 --> 00:01:58,500
+to rendezvous and join
+us in relief efforts.
+
+50
+00:01:58,542 --> 00:02:00,000
+We'll keep you advised
+of our progress.
+
+51
+00:02:00,041 --> 00:02:01,458
+Picard out.
+
+52
+00:02:04,917 --> 00:02:06,375
+Can you give us
+any more, Geordi?
+
+53
+00:02:06,417 --> 00:02:08,166
+Not without burning out
+the tractor beam emitter.
+
+54
+00:02:08,208 --> 00:02:11,375
+The circuits are already
+beyond the thermal limit.
+
+55
+00:02:11,417 --> 00:02:14,375
+Delta-v
+is 92 meters per second.
+
+56
+00:02:14,417 --> 00:02:16,041
+The mass is too great.
+
+57
+00:02:16,083 --> 00:02:17,000
+We are having an effect
+
+58
+00:02:17,041 --> 00:02:18,333
+but it is
+negligible.
+
+59
+00:02:18,375 --> 00:02:20,583
+(<i> metallic screeching</i> )
+
+60
+00:02:20,625 --> 00:02:21,667
+What is that?
+
+61
+00:02:21,709 --> 00:02:23,667
+DATA:
+Unable to
+identify source!
+
+62
+00:02:23,709 --> 00:02:25,834
+Impulse engines
+passing safety limits!
+
+63
+00:02:25,875 --> 00:02:28,083
+We're seconds
+from automatic shutdown!
+
+64
+00:02:28,125 --> 00:02:31,291
+Reduce engine power,
+tractor beam off!
+
+65
+00:02:31,333 --> 00:02:33,583
+Lieutenant Worf, what the
+hell do the sensors say?!
+
+66
+00:02:33,625 --> 00:02:36,375
+The sound is not
+registering, Commander!
+
+67
+00:02:39,792 --> 00:02:41,083
+Q.
+
+68
+00:02:44,667 --> 00:02:46,208
+Red Alert.
+
+69
+00:03:17,500 --> 00:03:22,083
+<i>Space, the final frontier.</i>
+
+70
+00:03:22,125 --> 00:03:26,417
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+71
+00:03:26,458 --> 00:03:27,917
+<i>Its continuing mission--</i>
+
+72
+00:03:27,959 --> 00:03:31,709
+<i>to explore</i>
+<i>strange new worlds</i>
+
+73
+00:03:31,750 --> 00:03:36,333
+<i>to seek out new life</i>
+<i>and new civilizations</i>
+
+74
+00:03:36,375 --> 00:03:39,834
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+75
+00:04:39,667 --> 00:04:41,333
+<i>Captain's Log, supplemental.</i>
+
+76
+00:04:41,375 --> 00:04:43,083
+<i>We are no closer</i>
+<i>to finding a solution</i>
+
+77
+00:04:43,125 --> 00:04:46,625
+<i>to the deteriorating orbit</i>
+<i>of the Bre'el IV moon</i>
+
+78
+00:04:46,667 --> 00:04:48,291
+<i>but with the arrival of Q</i>
+
+79
+00:04:48,333 --> 00:04:50,792
+<i>we now have a good idea</i>
+<i>of the cause.</i>
+
+80
+00:04:50,834 --> 00:04:52,500
+Our options?
+
+81
+00:04:52,542 --> 00:04:54,792
+We've done everything
+by the book and
+a little extra.
+
+82
+00:04:54,834 --> 00:04:58,166
+We need more time or power,
+and we're short on both.
+
+83
+00:04:58,208 --> 00:04:59,500
+I'll take a look and see
+if there are any rules
+
+84
+00:04:59,542 --> 00:05:01,667
+I<i> haven't</i> broken.
+
+85
+00:05:01,709 --> 00:05:04,959
+Keep me informed.
+
+86
+00:05:05,000 --> 00:05:07,500
+We know you're behind this, Q.
+
+87
+00:05:07,542 --> 00:05:10,291
+These aren't my colors.
+
+88
+00:05:10,333 --> 00:05:13,291
+And what are you
+blathering about, Riker?
+
+89
+00:05:13,333 --> 00:05:15,250
+What kind of
+twisted pleasure
+
+90
+00:05:15,291 --> 00:05:17,875
+does it give you to bring
+terror into their lives?
+
+91
+00:05:17,917 --> 00:05:19,083
+Whose lives?
+
+92
+00:05:19,125 --> 00:05:20,750
+The millions of
+people down there
+
+93
+00:05:20,792 --> 00:05:23,000
+who are watching as their
+moon falls out of the sky.
+
+94
+00:05:23,041 --> 00:05:25,041
+Oh, I haven't the vaguest idea
+what you're talking about
+
+95
+00:05:25,083 --> 00:05:27,542
+and I have a much
+more serious problem.
+
+96
+00:05:27,583 --> 00:05:29,959
+I'm no longer a member
+of the Continuum.
+
+97
+00:05:30,000 --> 00:05:32,500
+My superiors have
+decided to punish me.
+
+98
+00:05:32,542 --> 00:05:34,834
+And punish us as
+well, it would seem.
+
+99
+00:05:34,875 --> 00:05:37,625
+They say I've spread chaos
+through the universe
+
+100
+00:05:37,667 --> 00:05:42,041
+and they've stripped
+me of all my powers.
+
+101
+00:05:42,083 --> 00:05:43,875
+You don't believe me, do you?
+
+102
+00:05:43,917 --> 00:05:46,458
+Do you think I would
+humiliate myself like this?
+
+103
+00:05:46,500 --> 00:05:48,583
+If it served
+your purpose, yes.
+
+104
+00:05:48,625 --> 00:05:51,291
+It's the truth.
+
+105
+00:05:51,333 --> 00:05:54,083
+I stand before you, defrocked.
+
+106
+00:05:54,125 --> 00:05:57,000
+Condemned to be a member
+of this lowest of species--
+
+107
+00:05:57,041 --> 00:06:00,875
+a normal, imperfect,
+lumpen human being.
+
+108
+00:06:00,917 --> 00:06:02,417
+They made you human
+
+109
+00:06:02,458 --> 00:06:04,917
+as part of your punishment?
+
+110
+00:06:04,959 --> 00:06:06,750
+No, it was my request.
+
+111
+00:06:06,792 --> 00:06:09,667
+I could have chosen to exist
+as a Markoffian sea lizard
+
+112
+00:06:09,709 --> 00:06:11,166
+or a Belzoidian flea.
+
+113
+00:06:11,208 --> 00:06:15,291
+Anything I wished,
+as long as it was mortal.
+
+114
+00:06:15,333 --> 00:06:17,583
+And since I had only
+a fraction of a second to mull
+
+115
+00:06:17,625 --> 00:06:19,375
+I chose this
+
+116
+00:06:19,417 --> 00:06:21,333
+and asked them
+to bring me here.
+
+117
+00:06:21,375 --> 00:06:22,542
+Why?
+
+118
+00:06:22,583 --> 00:06:24,250
+Because, in all the universe
+
+119
+00:06:24,291 --> 00:06:26,917
+you're the closest thing
+I have to a friend, Jean Luc.
+
+120
+00:06:26,959 --> 00:06:28,375
+(<i> tricorder humming</i> )
+
+121
+00:06:28,417 --> 00:06:29,542
+DATA:
+Sir
+
+122
+00:06:29,583 --> 00:06:31,333
+he is reading as fully human.
+
+123
+00:06:31,375 --> 00:06:32,917
+What, is there an echo in here?
+
+124
+00:06:32,959 --> 00:06:34,125
+TROI:
+I am sensing
+
+125
+00:06:34,166 --> 00:06:36,458
+an emotional presence, Captain.
+
+126
+00:06:36,500 --> 00:06:39,875
+I would normally describe it
+as being terrified.
+
+127
+00:06:39,917 --> 00:06:41,542
+How rude.
+
+128
+00:06:41,583 --> 00:06:43,583
+What is it you want, Q?
+
+129
+00:06:43,625 --> 00:06:45,166
+Your compassion.
+
+130
+00:06:47,250 --> 00:06:50,000
+All right,
+sanctuary on this ship--
+
+131
+00:06:50,041 --> 00:06:52,750
+dreary as it may sound
+to the both of us.
+
+132
+00:06:52,792 --> 00:06:54,375
+Return that moon to its orbit.
+
+133
+00:06:54,417 --> 00:06:56,834
+I have no powers!
+
+134
+00:06:56,875 --> 00:06:58,000
+Q, the ordinary.
+
+135
+00:06:58,041 --> 00:06:59,959
+Q, the liar,
+Q, the misanthrope.
+
+136
+00:07:00,000 --> 00:07:00,959
+Q, the miserable.
+
+137
+00:07:01,000 --> 00:07:02,250
+Q, the desperate.
+
+138
+00:07:02,291 --> 00:07:04,583
+What must I do
+to convince you people?
+
+139
+00:07:04,625 --> 00:07:05,834
+Die.
+
+140
+00:07:07,458 --> 00:07:09,917
+Oh, very clever, Worf.
+
+141
+00:07:09,959 --> 00:07:12,125
+Eat any good books lately?
+
+142
+00:07:12,166 --> 00:07:14,834
+Fine. You want to be
+treated as human?
+
+143
+00:07:14,875 --> 00:07:15,834
+Absolutely.
+
+144
+00:07:15,875 --> 00:07:16,875
+All right.
+
+145
+00:07:16,917 --> 00:07:18,208
+Mr. Worf
+
+146
+00:07:18,250 --> 00:07:20,166
+throw him in the brig.
+
+147
+00:07:20,208 --> 00:07:22,959
+Delighted, Captain.
+
+148
+00:07:23,000 --> 00:07:25,875
+You can't do this
+to me, Jean-Luc.
+
+149
+00:07:25,917 --> 00:07:28,125
+You will walk
+or I will carry you.
+
+150
+00:07:28,166 --> 00:07:31,417
+Given the option,
+I'll-I'll walk.
+
+151
+00:07:31,458 --> 00:07:32,792
+You've disappointed
+me, Jean-Luc.
+
+152
+00:07:32,834 --> 00:07:34,417
+I'm very disappointed.
+
+153
+00:07:34,458 --> 00:07:35,667
+Hey, I'm claustrophobic.
+
+154
+00:07:35,709 --> 00:07:36,917
+I don't like it in here.
+
+155
+00:07:39,000 --> 00:07:40,166
+It was a mistake.
+
+156
+00:07:40,208 --> 00:07:41,917
+I never should have
+picked human.
+
+157
+00:07:41,959 --> 00:07:43,625
+I knew it the moment I said it.
+
+158
+00:07:43,667 --> 00:07:45,834
+To think of a future
+in this shell.
+
+159
+00:07:45,875 --> 00:07:47,625
+Forced to cover myself
+with a fabric
+
+160
+00:07:47,667 --> 00:07:50,208
+because of some outdated
+human morality--
+
+161
+00:07:50,250 --> 00:07:53,125
+to say nothing
+of being too hot or too cold--
+
+162
+00:07:53,166 --> 00:07:57,875
+growing feeble with age,
+losing my hair
+
+163
+00:07:57,917 --> 00:08:02,750
+catching a disease,
+being ticklish, sneezing
+
+164
+00:08:02,792 --> 00:08:06,041
+having an itch,
+a pimple, bad breath.
+
+165
+00:08:08,709 --> 00:08:10,792
+Having to bathe.
+
+166
+00:08:10,834 --> 00:08:12,333
+Too bad.
+
+167
+00:08:14,500 --> 00:08:17,125
+Klingon. I should
+have said Klingon.
+
+168
+00:08:17,166 --> 00:08:20,625
+In my heart of hearts,
+I am a Klingon, Worf.
+
+169
+00:08:20,667 --> 00:08:22,250
+Sorry.
+
+170
+00:08:22,291 --> 00:08:24,792
+So, you understand, I could
+never survive in confinement.
+
+171
+00:08:24,834 --> 00:08:27,625
+I mean, this is cruel
+and unusual punishment.
+
+172
+00:08:27,667 --> 00:08:30,083
+The universe
+has been my backyard.
+
+173
+00:08:30,125 --> 00:08:32,625
+As a fellow Klingon
+
+174
+00:08:32,667 --> 00:08:34,125
+if you would speak to
+the Captain on my behalf
+
+175
+00:08:34,166 --> 00:08:36,417
+I would be
+eternally grateful.
+
+176
+00:08:36,458 --> 00:08:38,625
+Which doesn't
+mean as much as it
+used to, I admit.
+
+177
+00:08:38,667 --> 00:08:40,583
+Be quiet!
+
+178
+00:08:40,625 --> 00:08:42,208
+Or disappear back
+where you came from!
+
+179
+00:08:42,250 --> 00:08:43,917
+I<i> can't</i> disappear
+
+180
+00:08:43,959 --> 00:08:46,500
+any more than you could
+win a beauty contest.
+
+181
+00:08:49,917 --> 00:08:52,333
+If I were to ask you
+a<i> very</i> simple question
+
+182
+00:08:52,375 --> 00:08:53,709
+do you think you might
+be able to answer it
+
+183
+00:08:53,750 --> 00:08:56,667
+without it troubling
+your intellect too much?
+
+184
+00:08:56,709 --> 00:08:57,667
+Ready?
+
+185
+00:08:57,709 --> 00:08:59,125
+Here goes.
+
+186
+00:08:59,166 --> 00:09:00,625
+Would I permit you to
+lock me away if I still
+
+187
+00:09:00,667 --> 00:09:02,208
+had all my powers?
+
+188
+00:09:02,250 --> 00:09:04,500
+You have fooled us
+too often, Q.
+
+189
+00:09:04,542 --> 00:09:07,875
+Oh, perspicacity incarnate.
+
+190
+00:09:07,917 --> 00:09:09,500
+Please don't feel
+compelled now
+
+191
+00:09:09,542 --> 00:09:13,375
+to tell me the story of
+the boy who cried "Worf."
+
+192
+00:09:13,417 --> 00:09:14,458
+Computer...
+
+193
+00:09:14,500 --> 00:09:17,750
+activate force field.
+
+194
+00:09:17,792 --> 00:09:19,041
+I demand to be let out of here.
+
+195
+00:09:19,083 --> 00:09:20,500
+Do you hear me?
+
+196
+00:09:20,542 --> 00:09:23,417
+You will deactivate
+this cell immediately.
+
+197
+00:09:26,208 --> 00:09:27,667
+Romulan!
+
+198
+00:09:27,709 --> 00:09:29,583
+(<i> growls quietly</i> )
+
+199
+00:09:29,625 --> 00:09:33,500
+I should have said Romulan--
+that Klingon goat.
+
+200
+00:09:33,542 --> 00:09:34,875
+The question is
+
+201
+00:09:34,917 --> 00:09:38,291
+what sort of jaded game
+is he up to this time?
+
+202
+00:09:38,333 --> 00:09:39,792
+Maybe he just
+wants a big laugh.
+
+203
+00:09:39,834 --> 00:09:41,375
+He'll take Bre'el IV
+to the edge of disaster
+
+204
+00:09:41,417 --> 00:09:45,333
+and then pull
+the moon back.
+
+205
+00:09:45,375 --> 00:09:48,667
+Or he may have nothing
+to do with it at all.
+
+206
+00:09:48,709 --> 00:09:50,583
+You honestly think Q
+is telling the truth?
+
+207
+00:09:50,625 --> 00:09:52,000
+Oh, I agree this
+is highly unlikely
+
+208
+00:09:52,041 --> 00:09:54,041
+but we have to proceed
+with our current dilemma
+
+209
+00:09:54,083 --> 00:09:56,208
+as though Q is powerless
+to prevent it, don't we?
+
+210
+00:09:56,250 --> 00:09:57,834
+And there he sits and
+he watches us struggle.
+
+211
+00:09:57,875 --> 00:09:59,792
+I don't see that we
+have any choice.
+
+212
+00:09:59,834 --> 00:10:04,125
+Mr. Worf, will you hail the
+Bre'el IV science station?
+
+213
+00:10:04,166 --> 00:10:05,792
+They're standing by, Captain.
+
+214
+00:10:08,625 --> 00:10:10,250
+BRE'EL DOCTOR:
+Yes, Captain Picard?
+
+215
+00:10:10,291 --> 00:10:12,875
+I'm sorry, but I have to report
+that our first attempt
+
+216
+00:10:12,917 --> 00:10:14,834
+to restore the moon
+to its proper orbit
+
+217
+00:10:14,875 --> 00:10:16,417
+has failed.
+
+218
+00:10:16,458 --> 00:10:20,667
+(<i> sighs</i> )
+
+219
+00:10:20,709 --> 00:10:24,375
+We have less than 25 hours
+before impact, Captain.
+
+220
+00:10:24,417 --> 00:10:25,583
+Our Chief Engineer
+is working on ways
+
+221
+00:10:25,625 --> 00:10:27,291
+to reinforce
+the tractor beam.
+
+222
+00:10:27,333 --> 00:10:29,166
+So, there is a hope
+
+223
+00:10:29,208 --> 00:10:31,333
+but if you have
+an evacuation plan...
+
+224
+00:10:31,375 --> 00:10:33,000
+We have already
+started moving people
+
+225
+00:10:33,041 --> 00:10:35,792
+from the coastal areas
+of the western continent.
+
+226
+00:10:35,834 --> 00:10:38,041
+We are going to make
+another attempt shortly.
+
+227
+00:10:38,083 --> 00:10:40,333
+Picard, out.
+
+228
+00:10:40,375 --> 00:10:42,417
+I've got to tell you, Geordi
+is not at all optimistic.
+
+229
+00:10:44,458 --> 00:10:46,000
+What the devil...?
+
+230
+00:10:47,250 --> 00:10:49,542
+Data?
+
+231
+00:10:49,583 --> 00:10:52,166
+Sensors are showing
+broadband emissions
+
+232
+00:10:52,208 --> 00:10:53,542
+including berthold rays.
+
+233
+00:10:53,583 --> 00:10:55,083
+Lethal?
+
+234
+00:10:55,125 --> 00:10:58,208
+No, Commander, overall exposure
+is less than 75 rems.
+
+235
+00:10:58,250 --> 00:10:59,291
+Very low intensity.
+
+236
+00:10:59,333 --> 00:11:01,417
+More like a soft
+medical scan.
+
+237
+00:11:01,458 --> 00:11:03,500
+I would speculate
+we are being probed.
+
+238
+00:11:03,542 --> 00:11:05,250
+By whom?
+
+239
+00:11:05,291 --> 00:11:07,959
+Sensors cannot identify
+the point of origin.
+
+240
+00:11:08,000 --> 00:11:09,583
+It seems to be coming
+from all around us.
+
+241
+00:11:35,083 --> 00:11:36,458
+Ah, you've come
+to apologize.
+
+242
+00:11:36,500 --> 00:11:38,000
+How nice.
+
+243
+00:11:38,041 --> 00:11:39,208
+All is forgiven.
+
+244
+00:11:39,250 --> 00:11:40,250
+No offense taken.
+
+245
+00:11:40,291 --> 00:11:41,208
+Enough.
+
+246
+00:11:41,250 --> 00:11:43,417
+Q, what exactly is going on?
+
+247
+00:11:43,458 --> 00:11:45,333
+Oh, but how can I know
+what's going on?
+
+248
+00:11:45,375 --> 00:11:47,625
+I've been in this dungeon
+of yours--
+
+249
+00:11:47,667 --> 00:11:51,834
+alone, helpless, bored to tears.
+
+250
+00:11:51,875 --> 00:11:55,041
+We have a moon, inexplicably
+falling out of orbit
+
+251
+00:11:55,083 --> 00:11:58,959
+and just now this ship was
+probed with berthold radiation.
+
+252
+00:11:59,000 --> 00:12:00,375
+I wasn't aware of this.
+
+253
+00:12:02,125 --> 00:12:04,125
+Truthfully, Jean-Luc.
+
+254
+00:12:04,166 --> 00:12:06,000
+I've been entirely preoccupied
+
+255
+00:12:06,041 --> 00:12:09,375
+by a most frightening
+experience of my own.
+
+256
+00:12:09,417 --> 00:12:13,500
+A couple of hours ago,
+I realized that my body
+
+257
+00:12:13,542 --> 00:12:15,750
+was no longer
+functioning properly.
+
+258
+00:12:15,792 --> 00:12:17,250
+I felt weak.
+
+259
+00:12:17,291 --> 00:12:19,333
+I could
+no longer stand.
+
+260
+00:12:19,375 --> 00:12:20,917
+The life was oozing out of me.
+
+261
+00:12:20,959 --> 00:12:23,041
+I lost consciousness.
+
+262
+00:12:23,083 --> 00:12:24,458
+You fell asleep.
+
+263
+00:12:24,500 --> 00:12:27,166
+Oh-- terrifying.
+
+264
+00:12:27,208 --> 00:12:29,917
+How can you stand it
+day after day?
+
+265
+00:12:29,959 --> 00:12:30,917
+You get used to it.
+
+266
+00:12:30,959 --> 00:12:32,000
+What other dangers
+
+267
+00:12:32,041 --> 00:12:33,667
+await me?
+
+268
+00:12:33,709 --> 00:12:34,959
+I'm not prepared for this.
+
+269
+00:12:35,000 --> 00:12:36,208
+I need guidance.
+
+270
+00:12:36,250 --> 00:12:38,542
+Q, I'm not going
+to play along with this.
+
+271
+00:12:38,583 --> 00:12:42,125
+If you want to continue this
+charade, you can do it alone.
+
+272
+00:12:42,166 --> 00:12:44,458
+Jean-Luc, wait.
+
+273
+00:12:44,500 --> 00:12:48,917
+This is getting on my nerves,
+now that I have them.
+
+274
+00:12:48,959 --> 00:12:52,041
+You have a moon in a
+deteriorating orbit.
+
+275
+00:12:52,083 --> 00:12:54,250
+I've known moons
+through the universe--
+
+276
+00:12:54,291 --> 00:12:56,208
+big ones, small ones.
+
+277
+00:12:56,250 --> 00:12:57,875
+I'm an expert.
+
+278
+00:12:57,917 --> 00:13:01,625
+I could help you with this one--
+if you let me out of here.
+
+279
+00:13:01,667 --> 00:13:05,375
+Q, there are millions
+of lives at risk.
+
+280
+00:13:05,417 --> 00:13:06,542
+If you have the power...
+
+281
+00:13:06,583 --> 00:13:09,417
+I<i> don't</i> have any powers.
+
+282
+00:13:09,458 --> 00:13:13,250
+But I have the knowledge
+locked up in this puny brain.
+
+283
+00:13:15,709 --> 00:13:18,333
+You cannot afford to not take
+that advantage, can you?
+
+284
+00:13:21,875 --> 00:13:24,875
+Mr. Data, report
+to Detention Cell Three.
+
+285
+00:13:24,917 --> 00:13:27,000
+On my way, sir.
+
+286
+00:13:27,041 --> 00:13:30,166
+(<i> sighs</i> )
+
+287
+00:13:30,208 --> 00:13:31,750
+Computer, remove
+the force field.
+
+288
+00:13:33,625 --> 00:13:34,834
+If you are human--
+
+289
+00:13:34,875 --> 00:13:36,667
+which I seriously doubt--
+
+290
+00:13:36,709 --> 00:13:39,709
+you will have to work hard
+to earn our trust.
+
+291
+00:13:39,750 --> 00:13:41,709
+I'm not worried
+about that, Jean-Luc.
+
+292
+00:13:41,750 --> 00:13:43,375
+You only dislike me.
+
+293
+00:13:43,417 --> 00:13:45,959
+There are others in the
+cosmos who truly despise me.
+
+294
+00:13:48,917 --> 00:13:51,625
+Mr. Data, you are hereby
+assigned to Q
+
+295
+00:13:51,667 --> 00:13:54,750
+for the remainder
+of his stay.
+
+296
+00:13:54,792 --> 00:13:56,959
+You will escort him
+to Mr. La Forge in Engineering.
+
+297
+00:13:57,000 --> 00:13:58,125
+Aye, sir.
+
+298
+00:13:58,166 --> 00:13:59,917
+Can I have a
+Starfleet uniform?
+
+299
+00:14:03,000 --> 00:14:05,083
+What are<i> you</i>
+looking at?
+
+300
+00:14:05,125 --> 00:14:06,333
+I was considering
+the possibility
+
+301
+00:14:06,375 --> 00:14:08,208
+that you are
+telling the truth--
+
+302
+00:14:08,250 --> 00:14:09,750
+that you really are human.
+
+303
+00:14:09,792 --> 00:14:11,959
+It's the ghastly
+truth, Mr. Data.
+
+304
+00:14:12,000 --> 00:14:14,250
+I can now stub my toe
+with the best of them.
+
+305
+00:14:14,291 --> 00:14:15,625
+An irony.
+
+306
+00:14:15,667 --> 00:14:17,542
+It means that you have achieved
+in disgrace
+
+307
+00:14:17,583 --> 00:14:20,125
+what I have always aspired
+to be.
+
+308
+00:14:29,417 --> 00:14:32,625
+Humans are such
+commonplace
+little creatures.
+
+309
+00:14:32,667 --> 00:14:34,083
+They roam the galaxy
+searching for something,
+
+310
+00:14:34,125 --> 00:14:35,959
+they know not what.
+
+311
+00:14:36,000 --> 00:14:39,000
+The human race has
+an enduring desire
+for knowledge
+
+312
+00:14:39,041 --> 00:14:40,750
+and for new opportunities
+to improve itself.
+
+313
+00:14:40,792 --> 00:14:42,750
+Well, there's certainly
+room for improvement
+
+314
+00:14:42,792 --> 00:14:45,959
+but the truth is, Data,
+they are a minor species
+in the grand scheme--
+
+315
+00:14:46,000 --> 00:14:47,625
+not worth your envy.
+
+316
+00:14:47,667 --> 00:14:48,792
+Oh, I do not feel envy.
+
+317
+00:14:48,834 --> 00:14:50,166
+Well, that's good.
+
+318
+00:14:50,208 --> 00:14:52,625
+I feel nothing at all.
+
+319
+00:14:52,667 --> 00:14:54,583
+That is part
+of my dilemma.
+
+320
+00:14:54,625 --> 00:14:56,542
+I have the curiosity
+of humans
+
+321
+00:14:56,583 --> 00:14:57,834
+but there are questions
+
+322
+00:14:57,875 --> 00:14:59,667
+that I will never
+have the answers to--
+
+323
+00:14:59,709 --> 00:15:02,792
+what it is like
+to laugh or... or cry
+
+324
+00:15:02,834 --> 00:15:04,959
+or to experience
+any human emotions.
+
+325
+00:15:05,000 --> 00:15:06,500
+Hmm.
+
+326
+00:15:06,542 --> 00:15:08,375
+Well, if you ask me,
+these human emotions
+
+327
+00:15:08,417 --> 00:15:10,583
+are not what they're
+cracked up to be.
+
+328
+00:15:10,625 --> 00:15:12,417
+Hmm.
+
+329
+00:15:12,458 --> 00:15:14,959
+The moon will hit
+its perigee in ten hours.
+
+330
+00:15:15,000 --> 00:15:18,583
+Now, we match its trajectory,
+increase emitter coolant rate
+
+331
+00:15:18,625 --> 00:15:21,250
+so that we can apply continuous
+warp-equivalent power nine
+
+332
+00:15:21,291 --> 00:15:22,667
+to the tractor beam.
+
+333
+00:15:22,709 --> 00:15:24,625
+We can push it
+for nearly seven hours
+
+334
+00:15:24,667 --> 00:15:27,417
+and I<i> think</i>
+that just might do it.
+
+335
+00:15:27,458 --> 00:15:29,500
+But there's a problem.
+
+336
+00:15:29,542 --> 00:15:31,083
+The<i> Enterprise</i> will be
+dangerously close
+
+337
+00:15:31,125 --> 00:15:32,583
+to the atmosphere.
+
+338
+00:15:32,625 --> 00:15:33,625
+That's the problem.
+
+339
+00:15:33,667 --> 00:15:34,834
+This is incredible.
+
+340
+00:15:34,875 --> 00:15:36,250
+You see something here, Q?
+
+341
+00:15:36,291 --> 00:15:38,333
+I think I just
+hurt my back.
+
+342
+00:15:38,375 --> 00:15:40,250
+I'm feeling pain.
+
+343
+00:15:40,291 --> 00:15:41,917
+I don't like it.
+
+344
+00:15:41,959 --> 00:15:43,333
+What's the right
+thing to say?
+
+345
+00:15:43,375 --> 00:15:44,667
+"Ow"?
+
+346
+00:15:44,709 --> 00:15:45,750
+Ow.
+Ow.
+
+347
+00:15:45,792 --> 00:15:47,375
+Ow!
+
+348
+00:15:47,417 --> 00:15:49,458
+I can't
+straighten up.
+
+349
+00:15:49,500 --> 00:15:51,250
+Medical assistance
+to Engineering.
+
+350
+00:15:51,291 --> 00:15:53,125
+Q, I've got a few people
+down on Bre'el IV
+
+351
+00:15:53,166 --> 00:15:54,875
+who are going to be hurt...
+Yes, yes, yes.
+
+352
+00:15:54,917 --> 00:15:57,417
+Your marvelous plan will not
+only tear the moon to pieces
+
+353
+00:15:57,458 --> 00:15:59,083
+but your precious ship as well.
+
+354
+00:15:59,125 --> 00:16:00,875
+You got a better idea?
+
+355
+00:16:00,917 --> 00:16:03,542
+Well, I would certainly begin
+by examining the cause
+
+356
+00:16:03,583 --> 00:16:05,083
+and not the symptom.
+
+357
+00:16:05,125 --> 00:16:06,959
+We've already done that, Q,
+and there's no way to...
+
+358
+00:16:07,000 --> 00:16:08,291
+This is
+obviously
+
+359
+00:16:08,333 --> 00:16:09,959
+the result of a large
+celestial object
+
+360
+00:16:10,000 --> 00:16:11,542
+passing through
+at near right angles
+
+361
+00:16:11,583 --> 00:16:13,625
+to the plane
+of the star system--
+
+362
+00:16:13,667 --> 00:16:15,041
+probably a black hole.
+
+363
+00:16:15,083 --> 00:16:16,041
+DATA:
+Can you recommend
+
+364
+00:16:16,083 --> 00:16:17,792
+a way to counter
+the effect?
+
+365
+00:16:17,834 --> 00:16:20,959
+Simple. Change the
+gravitational constant
+of the universe.
+
+366
+00:16:21,041 --> 00:16:22,375
+What?
+
+367
+00:16:22,417 --> 00:16:24,291
+Change the gravitational
+constant of the universe
+
+368
+00:16:24,333 --> 00:16:26,542
+thereby altering the
+mass of the asteroid.
+
+369
+00:16:26,583 --> 00:16:27,750
+Redefine gravity.
+
+370
+00:16:27,792 --> 00:16:29,250
+And how am I supposed
+to do that?
+
+371
+00:16:29,291 --> 00:16:30,500
+You just do it.
+
+372
+00:16:30,542 --> 00:16:33,125
+Oh! Where's that
+doctor, anyway?
+
+373
+00:16:33,166 --> 00:16:34,667
+Geordi is trying to say
+
+374
+00:16:34,709 --> 00:16:36,875
+that changing the gravitational
+constant of the universe
+
+375
+00:16:36,917 --> 00:16:38,375
+is beyond our capabilities.
+
+376
+00:16:38,417 --> 00:16:40,500
+Oh.
+
+377
+00:16:40,542 --> 00:16:44,375
+Well, in that case,
+never mind.
+
+378
+00:16:44,417 --> 00:16:47,458
+Ah, Dr. Crusher.
+
+379
+00:16:47,500 --> 00:16:50,500
+I see Starfleet
+has shipped you
+back into exile.
+
+380
+00:16:50,542 --> 00:16:52,709
+Q says he has
+hurt his back.
+
+381
+00:16:52,750 --> 00:16:54,333
+Uh-huh.
+
+382
+00:16:59,792 --> 00:17:01,041
+Well, if I didn't see it
+with my own eyes
+
+383
+00:17:01,083 --> 00:17:02,959
+I wouldn't believe it.
+
+384
+00:17:03,000 --> 00:17:05,834
+According to this,
+he has classic back trauma--
+
+385
+00:17:05,875 --> 00:17:08,083
+muscle spasms.
+
+386
+00:17:08,125 --> 00:17:09,875
+I've been under a lot
+of pressure lately.
+
+387
+00:17:09,917 --> 00:17:11,333
+Family problems.
+
+388
+00:17:11,375 --> 00:17:13,500
+Mm. Well, don't expect
+too much sympathy from me.
+
+389
+00:17:13,542 --> 00:17:15,917
+You have been a pain
+in our backside often enough.
+
+390
+00:17:15,959 --> 00:17:18,208
+Ah! Oh.
+
+391
+00:17:18,250 --> 00:17:20,500
+Your bedside manner
+is admirable, Doctor.
+
+392
+00:17:20,542 --> 00:17:22,625
+I'm sure your patients
+recover quickly...
+
+393
+00:17:22,667 --> 00:17:24,375
+just to get away from you.
+
+394
+00:17:24,417 --> 00:17:26,208
+Oh!
+
+395
+00:17:26,250 --> 00:17:27,792
+You know, this might work.
+
+396
+00:17:27,834 --> 00:17:29,083
+We can't change
+
+397
+00:17:29,125 --> 00:17:30,709
+the gravitational
+constant of the universe
+
+398
+00:17:30,750 --> 00:17:32,583
+but if we wrap a low-level
+warp field around that moon
+
+399
+00:17:32,625 --> 00:17:35,208
+we could reduce<i> its</i>
+gravitational constant--
+
+400
+00:17:35,250 --> 00:17:38,166
+make it lighter,
+so we<i> can</i> push it.
+
+401
+00:17:38,208 --> 00:17:40,542
+Glad I could help.
+
+402
+00:17:40,583 --> 00:17:43,458
+Ow... I think.
+
+403
+00:17:43,500 --> 00:17:45,875
+Now what?
+
+404
+00:17:45,917 --> 00:17:48,041
+There's something wrong
+with my stomach.
+
+405
+00:17:48,083 --> 00:17:49,583
+It hurts?
+
+406
+00:17:49,625 --> 00:17:52,041
+It's making noises.
+
+407
+00:17:52,083 --> 00:17:53,875
+Maybe you're hungry.
+
+408
+00:18:00,041 --> 00:18:01,000
+I've never eaten before.
+
+409
+00:18:01,041 --> 00:18:02,667
+What do I ask for?
+
+410
+00:18:02,709 --> 00:18:05,375
+The choice of meal
+is determined by
+individual taste.
+
+411
+00:18:05,417 --> 00:18:07,125
+What do you like?
+
+412
+00:18:07,166 --> 00:18:09,417
+Although I do not
+require sustenance
+
+413
+00:18:09,458 --> 00:18:12,667
+I occasionally
+ingest semi-organic
+nutrient suspension
+
+414
+00:18:12,709 --> 00:18:15,041
+in a silicon-based
+liquid medium.
+
+415
+00:18:15,083 --> 00:18:16,709
+Is it good?
+
+416
+00:18:16,750 --> 00:18:18,417
+It would be more
+appropriate to say
+
+417
+00:18:18,458 --> 00:18:20,000
+it is good for<i> me</i>
+
+418
+00:18:20,041 --> 00:18:22,000
+as it lubricates
+my bio-functions.
+
+419
+00:18:22,041 --> 00:18:23,208
+That doesn't sound
+very appealing.
+
+420
+00:18:23,250 --> 00:18:24,458
+What else is there?
+
+421
+00:18:24,500 --> 00:18:26,375
+A wide variety of items.
+
+422
+00:18:26,417 --> 00:18:29,625
+The replicator can make
+anything you desire.
+
+423
+00:18:29,667 --> 00:18:33,291
+How do I know
+what I desire?
+
+424
+00:18:33,333 --> 00:18:36,875
+I have observed that
+the selection of food
+
+425
+00:18:36,917 --> 00:18:38,166
+is often influenced
+
+426
+00:18:38,208 --> 00:18:40,250
+by the mood of the
+person ordering.
+
+427
+00:18:40,291 --> 00:18:41,583
+I'm in a dreadful mood.
+
+428
+00:18:41,625 --> 00:18:44,125
+Get me something
+appropriate.
+
+429
+00:18:44,166 --> 00:18:46,375
+When Counselor Troi
+is unhappy
+
+430
+00:18:46,417 --> 00:18:48,250
+she usually eats
+something chocolate.
+
+431
+00:18:50,625 --> 00:18:51,625
+Chocolate?
+
+432
+00:18:51,667 --> 00:18:52,750
+Mm-hmm.
+
+433
+00:18:52,792 --> 00:18:54,875
+A chocolate sundae,
+for example.
+
+434
+00:18:54,917 --> 00:18:57,375
+Although I do not speak
+from personal experience
+
+435
+00:18:57,417 --> 00:19:02,417
+I have seen it have a
+profound psychological impact.
+
+436
+00:19:02,458 --> 00:19:04,834
+I'll have ten
+chocolate sundaes.
+
+437
+00:19:04,875 --> 00:19:06,333
+Ten?
+
+438
+00:19:06,375 --> 00:19:07,500
+I have never
+seen anyone eat
+
+439
+00:19:07,542 --> 00:19:09,750
+<i>ten</i> chocolate
+sundaes.
+
+440
+00:19:09,792 --> 00:19:11,792
+I'm in a really bad mood.
+
+441
+00:19:11,834 --> 00:19:15,291
+And since I've never
+eaten before, I should
+be... very hungry.
+
+442
+00:19:17,166 --> 00:19:19,959
+(<i> door opens and closes</i> )
+
+443
+00:19:20,000 --> 00:19:22,083
+This is not a moment
+I've been looking forward to.
+
+444
+00:19:32,667 --> 00:19:36,041
+I hear they drummed you
+out of the Continuum.
+
+445
+00:19:36,083 --> 00:19:39,709
+I like to think of it
+as a significant career change.
+
+446
+00:19:39,750 --> 00:19:41,458
+Just one of the boys, eh?
+
+447
+00:19:41,500 --> 00:19:42,583
+One of the boys
+
+448
+00:19:42,625 --> 00:19:46,375
+with an IQ of 2,005.
+
+449
+00:19:46,417 --> 00:19:48,291
+The Captain and many of the
+crew are not yet convinced
+
+450
+00:19:48,333 --> 00:19:51,500
+he is truly human.
+
+451
+00:19:51,542 --> 00:19:53,125
+Really?
+
+452
+00:19:59,709 --> 00:20:01,375
+(<i> yells in pain</i> )
+
+453
+00:20:01,417 --> 00:20:05,000
+Seems human enough
+to me.
+
+454
+00:20:05,041 --> 00:20:06,417
+This is
+a dangerous creature.
+
+455
+00:20:06,458 --> 00:20:07,875
+You have no idea.
+
+456
+00:20:07,917 --> 00:20:09,250
+Why Picard would make her
+a member of the crew
+
+457
+00:20:09,291 --> 00:20:11,125
+and not me...
+
+458
+00:20:11,166 --> 00:20:14,625
+It must be terribly
+frightening for you to
+be totally defenseless
+
+459
+00:20:14,667 --> 00:20:18,208
+after all of those centuries
+of being omnipotent.
+
+460
+00:20:18,250 --> 00:20:21,000
+I'm warning you, I still
+have friends in high places.
+
+461
+00:20:21,041 --> 00:20:23,125
+Frightening one race
+after the other
+
+462
+00:20:23,166 --> 00:20:25,375
+teasing them like
+frightened animals
+
+463
+00:20:25,417 --> 00:20:29,500
+and you enjoying every moment
+of your victims' fears.
+
+464
+00:20:29,542 --> 00:20:33,083
+From now on, I'll do
+missionary work, okay?
+
+465
+00:20:33,125 --> 00:20:35,500
+That would be a most
+noble cause, Q.
+
+466
+00:20:35,542 --> 00:20:37,125
+You could learn a lot
+from this one.
+
+467
+00:20:37,166 --> 00:20:40,375
+Sure-- the robot who teaches
+the course in humanities.
+
+468
+00:20:40,417 --> 00:20:42,417
+I am an android,
+not a robot.
+
+469
+00:20:42,458 --> 00:20:43,583
+I beg your pardon.
+
+470
+00:20:43,625 --> 00:20:44,792
+I'd enjoy that.
+
+471
+00:20:44,834 --> 00:20:45,959
+And you better get used to it.
+
+472
+00:20:46,000 --> 00:20:47,000
+What?
+
+473
+00:20:47,041 --> 00:20:48,166
+Begging.
+
+474
+00:20:48,208 --> 00:20:49,917
+You're a pitiful excuse
+for a human.
+
+475
+00:20:49,959 --> 00:20:51,166
+The only way
+you're going to survive
+
+476
+00:20:51,208 --> 00:20:52,458
+is on the charity
+of others.
+
+477
+00:21:03,834 --> 00:21:05,542
+Oh, I'm not hungry.
+
+478
+00:21:08,458 --> 00:21:11,125
+Captain, sensors are picking up
+a cloud of energetic plasma
+
+479
+00:21:11,166 --> 00:21:13,917
+bearing 341 mark 20.
+
+480
+00:21:13,959 --> 00:21:17,250
+Range-- 12 kilometers
+and closing.
+
+481
+00:21:17,291 --> 00:21:18,542
+On screen.
+
+482
+00:21:23,583 --> 00:21:26,834
+Energy patterns are reading
+as highly organized.
+
+483
+00:21:26,875 --> 00:21:29,291
+A life-form?
+
+484
+00:21:29,333 --> 00:21:31,834
+Attempt to make
+contact, Mr. Worf.
+
+485
+00:21:31,875 --> 00:21:33,291
+Receiving a signal, sir.
+
+486
+00:21:33,333 --> 00:21:34,375
+On speaker.
+
+487
+00:21:34,417 --> 00:21:36,166
+(<i> distorted voice-like static)</i>
+
+488
+00:21:36,208 --> 00:21:38,041
+Computer,
+analyze signal.
+
+489
+00:21:38,083 --> 00:21:40,333
+Signal patterns
+indicate intelligence.
+
+490
+00:21:40,375 --> 00:21:42,583
+Unable to derive
+necessary referents
+
+491
+00:21:42,625 --> 00:21:46,750
+to establish translation matrix.
+
+492
+00:21:46,792 --> 00:21:53,083
+(<i> excited conversation</i> )
+
+493
+00:21:53,125 --> 00:21:55,500
+Calamarain.
+
+494
+00:21:56,709 --> 00:21:58,125
+MAN:
+Be careful!
+
+495
+00:21:58,166 --> 00:21:59,917
+(<i> exclamations of concern</i> )
+
+496
+00:21:59,959 --> 00:22:01,667
+(<i> Q cries out in fear</i> )
+
+497
+00:22:03,667 --> 00:22:05,083
+Captain, we're being hit
+by a field
+
+498
+00:22:05,125 --> 00:22:07,625
+of energetic tachyons
+penetrating the hull.
+
+499
+00:22:07,667 --> 00:22:10,166
+Location-- deck ten, forward.
+
+500
+00:22:10,208 --> 00:22:11,500
+Red Alert.
+
+501
+00:22:11,542 --> 00:22:13,625
+Geordi, increase power
+to shields.
+
+502
+00:22:13,667 --> 00:22:16,834
+Increasing power by 20%.
+
+503
+00:22:16,875 --> 00:22:18,166
+No effect.
+
+504
+00:22:18,208 --> 00:22:20,709
+Increasing to 40%.
+
+505
+00:22:20,750 --> 00:22:22,041
+Still no effect.
+
+506
+00:22:24,458 --> 00:22:26,583
+(<i> electric buzzing,</i>
+<i>Q grunts in pain</i> )
+
+507
+00:22:30,750 --> 00:22:32,583
+Adjusting shield harmonics.
+
+508
+00:22:32,625 --> 00:22:37,333
+Diverting power
+to the forward grids.
+
+509
+00:22:37,375 --> 00:22:39,750
+The added harmonics
+are blocking the tachyon field.
+
+510
+00:22:41,291 --> 00:22:43,417
+(<i> groans in pain</i> )
+
+511
+00:22:43,458 --> 00:22:44,875
+Help me!
+
+512
+00:22:44,917 --> 00:22:47,542
+Somebody, help me!
+
+513
+00:22:47,583 --> 00:22:49,458
+How the mighty have fallen.
+
+514
+00:22:53,625 --> 00:22:55,083
+<i>Captain's Log, supplemental.</i>
+
+515
+00:22:55,125 --> 00:22:57,208
+<i>We have sustained light damage</i>
+<i>from an attack</i>
+
+516
+00:22:57,250 --> 00:23:00,166
+<i>by an alien species</i>
+<i>known as the Calamarain.</i>
+
+517
+00:23:00,208 --> 00:23:03,166
+<i>They apparently</i>
+<i>have a grievance with Q--</i>
+
+518
+00:23:03,208 --> 00:23:06,250
+<i>no doubt one of many</i>
+<i>life-forms that do.</i>
+
+519
+00:23:06,291 --> 00:23:09,625
+The, uh, Calamarain are not
+very hospitable creatures.
+
+520
+00:23:09,667 --> 00:23:12,709
+They exist as swirls
+of ionized gas.
+
+521
+00:23:12,750 --> 00:23:14,959
+What did you
+do to them, Q?
+
+522
+00:23:15,000 --> 00:23:17,709
+Oh, nothing bizarre.
+
+523
+00:23:17,750 --> 00:23:19,333
+Nothing grotesque.
+
+524
+00:23:19,375 --> 00:23:21,458
+You tormented them.
+
+525
+00:23:21,500 --> 00:23:23,583
+A subjective term, Riker.
+
+526
+00:23:23,625 --> 00:23:26,458
+One creature's torment is
+another creature's delight.
+
+527
+00:23:26,500 --> 00:23:28,583
+They simply have
+no sense of humor.
+
+528
+00:23:28,625 --> 00:23:32,709
+A character flaw with which you
+can... personally identify.
+
+529
+00:23:32,750 --> 00:23:34,375
+I say we turn him over to them.
+
+530
+00:23:34,417 --> 00:23:35,625
+Oh, well, I take it back.
+
+531
+00:23:35,667 --> 00:23:36,875
+You do you have
+a sense of humor--
+
+532
+00:23:36,917 --> 00:23:38,750
+a dreadful one at that.
+
+533
+00:23:38,792 --> 00:23:40,250
+I'm serious.
+
+534
+00:23:40,291 --> 00:23:41,583
+Of course.
+
+535
+00:23:41,625 --> 00:23:45,083
+You knew this would happen,
+didn't you?
+
+536
+00:23:45,125 --> 00:23:47,125
+One can never anticipate
+the Calamarain.
+
+537
+00:23:47,166 --> 00:23:50,166
+They're very intelligent,
+but very flighty.
+
+538
+00:23:50,208 --> 00:23:51,709
+Yes, but you
+must have
+
+539
+00:23:51,750 --> 00:23:53,917
+so many enemies.
+
+540
+00:23:53,959 --> 00:23:57,625
+Certainly you knew
+that if once you became mortal
+
+541
+00:23:57,667 --> 00:24:01,000
+some of them might look you up.
+
+542
+00:24:01,041 --> 00:24:02,250
+It had occurred to me.
+
+543
+00:24:02,291 --> 00:24:03,625
+Mm-hmm.
+
+544
+00:24:03,667 --> 00:24:05,500
+And for all your protestations
+of "friendship"
+
+545
+00:24:05,542 --> 00:24:09,667
+your real reason
+for being here is protection.
+
+546
+00:24:09,709 --> 00:24:11,834
+(<i> chuckles</i> )
+
+547
+00:24:11,875 --> 00:24:14,250
+You're very smart, Jean-Luc.
+
+548
+00:24:14,291 --> 00:24:16,458
+But I know human beings.
+
+549
+00:24:16,500 --> 00:24:17,583
+They're all sopping over
+
+550
+00:24:17,625 --> 00:24:20,166
+with compassion
+and forgiveness.
+
+551
+00:24:20,208 --> 00:24:24,792
+They can't wait
+to absolve almost any offense.
+
+552
+00:24:24,834 --> 00:24:26,750
+It's an inherent weakness
+of the breed.
+
+553
+00:24:26,792 --> 00:24:28,834
+On the contrary,
+it is a strength.
+
+554
+00:24:28,875 --> 00:24:32,041
+You call it what you will,
+but I think you'll protect me
+
+555
+00:24:32,083 --> 00:24:34,500
+even though I've tormented you
+now and again.
+
+556
+00:24:34,542 --> 00:24:36,500
+Fighting off all the species
+which you have insulted
+
+557
+00:24:36,542 --> 00:24:38,000
+would be a full-time mission.
+
+558
+00:24:38,041 --> 00:24:39,834
+That's not the one
+I signed up for.
+
+559
+00:24:39,875 --> 00:24:41,667
+Indeed.
+
+560
+00:24:41,709 --> 00:24:44,291
+Human or not,
+I want no part of you.
+
+561
+00:24:44,333 --> 00:24:46,250
+We will deposit you
+at the first starbase.
+
+562
+00:24:46,291 --> 00:24:47,834
+Let them deal with you.
+
+563
+00:24:47,875 --> 00:24:50,625
+Uh-uh, but I could be
+a valuable member of the team.
+
+564
+00:24:50,667 --> 00:24:51,625
+I'm human.
+
+565
+00:24:51,667 --> 00:24:53,083
+I can learn.
+
+566
+00:24:53,125 --> 00:24:55,000
+He has provided important
+theoretical guidance
+
+567
+00:24:55,041 --> 00:24:58,000
+for Geordi's analysis of the
+Bre'el satellite, Captain.
+
+568
+00:24:58,041 --> 00:25:01,166
+It seems you have
+an advocate, Q.
+
+569
+00:25:01,208 --> 00:25:03,000
+I am merely stating the fact,
+Counselor.
+
+570
+00:25:04,834 --> 00:25:06,667
+Mr. La Forge, your status?
+
+571
+00:25:06,709 --> 00:25:08,166
+I've been putting together
+a program
+
+572
+00:25:08,208 --> 00:25:10,709
+to extend the forward lobe
+of the warp field.
+
+573
+00:25:10,750 --> 00:25:13,458
+The field coils aren't designed
+to envelope such a large volume
+
+574
+00:25:13,500 --> 00:25:16,083
+but I'm attempting to modify
+their alignment parameters.
+
+575
+00:25:16,125 --> 00:25:18,875
+DATA:
+Maintaining field integrity
+will be difficult, Geordi.
+
+576
+00:25:18,917 --> 00:25:21,375
+Well, I'm pretty sure
+that we can do it manually.
+
+577
+00:25:21,417 --> 00:25:25,041
+The moon will come
+to its perigee in 14 minutes.
+
+578
+00:25:25,083 --> 00:25:28,208
+Mr. Data, you will escort Q
+to Engineering.
+
+579
+00:25:28,250 --> 00:25:30,166
+You will assist Mr. La Forge.
+
+580
+00:25:30,208 --> 00:25:33,458
+Mr. Worf, hail the Bre'el IV
+science station.
+
+581
+00:25:33,500 --> 00:25:34,625
+Aye, sir.
+
+582
+00:25:38,208 --> 00:25:40,917
+Picard thinks I can't cut it
+on his starship.
+
+583
+00:25:40,959 --> 00:25:42,000
+I can do anything
+
+584
+00:25:42,041 --> 00:25:44,083
+his little trained
+minions can do.
+
+585
+00:25:44,125 --> 00:25:46,834
+I do not perceive your
+skills to be in doubt, Q.
+
+586
+00:25:46,875 --> 00:25:48,875
+The Captain is merely
+concerned with your ability
+
+587
+00:25:48,917 --> 00:25:52,875
+to successfully interact with
+"his little trained minions."
+
+588
+00:25:52,917 --> 00:25:56,583
+Human interpersonal
+relationships are
+more complex.
+
+589
+00:25:56,625 --> 00:26:00,125
+Your experience may not have
+adequately prepared you.
+
+590
+00:26:00,166 --> 00:26:03,291
+I'm not interested in human
+interpersonal relationships.
+
+591
+00:26:03,333 --> 00:26:05,458
+I just want to prove to Picard
+that I'm indispensable.
+
+592
+00:26:09,166 --> 00:26:11,083
+Engineering.
+
+593
+00:26:11,125 --> 00:26:14,834
+To function aboard
+a starship, or in
+any human activity
+
+594
+00:26:14,875 --> 00:26:17,208
+you must learn to
+form relationships.
+
+595
+00:26:17,250 --> 00:26:19,333
+(<i> sighing</i> ):
+It's so hard.
+
+596
+00:26:19,375 --> 00:26:20,917
+And of more
+immediate importance
+
+597
+00:26:20,959 --> 00:26:23,417
+is your ability
+to work within groups.
+
+598
+00:26:23,458 --> 00:26:26,041
+I'm not good in groups.
+
+599
+00:26:26,083 --> 00:26:27,250
+It's difficult
+to work in a group
+
+600
+00:26:27,291 --> 00:26:28,792
+when you're omnipotent.
+
+601
+00:26:31,375 --> 00:26:34,041
+The tides reached 10 meters
+on the last orbit.
+
+602
+00:26:34,083 --> 00:26:36,625
+They are already beginning
+to swell again.
+
+603
+00:26:36,667 --> 00:26:40,000
+We have a lot of frightened
+people down here, Captain.
+
+604
+00:26:40,041 --> 00:26:42,375
+Your moon has begun moving
+towards its perigee.
+
+605
+00:26:42,417 --> 00:26:44,041
+We're preparing
+to make our attempt.
+
+606
+00:26:44,083 --> 00:26:47,250
+Our population has
+already taken shelter
+
+607
+00:26:47,291 --> 00:26:51,125
+but I'm afraid no shelter
+will be adequate if you fail
+
+608
+00:26:51,166 --> 00:26:55,583
+especially for the people
+on the western continent.
+
+609
+00:26:55,625 --> 00:26:57,291
+Whatever the results
+
+610
+00:26:57,333 --> 00:27:01,375
+we know you've
+done your best, Picard.
+
+611
+00:27:01,417 --> 00:27:03,417
+It's appreciated.
+
+612
+00:27:03,458 --> 00:27:05,000
+We'll keep you advised, Doctor.
+
+613
+00:27:05,041 --> 00:27:06,000
+Picard out.
+
+614
+00:27:06,041 --> 00:27:07,417
+Captain, sensors are picking up
+
+615
+00:27:07,458 --> 00:27:10,542
+an increased energy output
+from the Calamarain.
+
+616
+00:27:10,583 --> 00:27:12,500
+La Forge to Bridge.
+
+617
+00:27:12,542 --> 00:27:15,625
+The moon has reached
+its minimum orbital distance.
+
+618
+00:27:15,667 --> 00:27:16,959
+It's time, Captain.
+
+619
+00:27:17,000 --> 00:27:18,375
+We'll have
+to lower shields.
+
+620
+00:27:18,417 --> 00:27:19,959
+Proceed.
+
+621
+00:27:20,000 --> 00:27:23,208
+Mr. Worf, keep a close eye
+on Q's friends out there.
+
+622
+00:27:23,250 --> 00:27:24,625
+Understood.
+
+623
+00:27:28,166 --> 00:27:30,375
+All right, everyone, this is
+what we're going to be doing...
+
+624
+00:27:30,417 --> 00:27:31,834
+Q, everybody already knows
+
+625
+00:27:31,875 --> 00:27:33,583
+what they're going to do,
+except for you.
+
+626
+00:27:33,625 --> 00:27:34,750
+Now, here's
+what I need...
+
+627
+00:27:34,792 --> 00:27:36,208
+La Forge, obviously,
+my knowledge
+
+628
+00:27:36,250 --> 00:27:38,000
+and experience
+far exceeds yours
+
+629
+00:27:38,041 --> 00:27:40,583
+by about a billion times.
+
+630
+00:27:40,625 --> 00:27:43,250
+So, if you'll just step
+aside gracefully.
+
+631
+00:27:43,291 --> 00:27:45,792
+Q, Your experience will
+be most valuable to me
+
+632
+00:27:45,834 --> 00:27:47,792
+if you can manually
+control the field integrity.
+
+633
+00:27:47,834 --> 00:27:49,041
+Don't be foolish.
+
+634
+00:27:49,083 --> 00:27:50,667
+That would be a waste
+of my talents.
+
+635
+00:27:50,709 --> 00:27:52,583
+Q, get to the controls
+or get the hell out of here!
+
+636
+00:27:56,458 --> 00:27:58,000
+Data, you're my liaison
+to the Bridge.
+
+637
+00:27:58,041 --> 00:28:00,500
+I'll need you with me.
+
+638
+00:28:00,542 --> 00:28:03,375
+Who does he think he
+is, giving me orders?
+
+639
+00:28:03,417 --> 00:28:05,625
+Geordi thinks
+he is in command here
+
+640
+00:28:05,667 --> 00:28:08,041
+and he is correct.
+
+641
+00:28:11,125 --> 00:28:14,834
+Engineering, holding at station
+keeping, range 640 meters.
+
+642
+00:28:14,875 --> 00:28:17,041
+DATA:
+Containment fields
+to flight tolerance.
+
+643
+00:28:17,083 --> 00:28:19,709
+Warp core to 90%.
+
+644
+00:28:19,750 --> 00:28:23,125
+Engage field coils,
+tractor beam to stand-by.
+
+645
+00:28:23,166 --> 00:28:25,709
+Field output?
+
+646
+00:28:25,750 --> 00:28:27,417
+<i>Field output?</i>
+
+647
+00:28:27,458 --> 00:28:29,500
+(<i> bored</i> ):
+Two-seventeen.
+
+648
+00:28:29,542 --> 00:28:31,083
+Impulse engines to full.
+
+649
+00:28:33,417 --> 00:28:35,208
+Ready to engage tractor beam.
+
+650
+00:28:35,250 --> 00:28:37,166
+Lowering shields,
+engage tractor beam.
+
+651
+00:28:41,834 --> 00:28:44,083
+Extending warp field forward.
+
+652
+00:28:44,125 --> 00:28:45,917
+PICARD:
+Engineering, is that
+the forward limit?
+
+653
+00:28:45,959 --> 00:28:49,417
+Yes, Captain, we are unable
+to encompass the entire moon.
+
+654
+00:28:49,458 --> 00:28:50,834
+Do you recommend
+that we proceed?
+
+655
+00:28:50,875 --> 00:28:52,166
+The two parts of the moon
+
+656
+00:28:52,208 --> 00:28:54,625
+will have different
+inertial densities.
+
+657
+00:28:54,667 --> 00:28:56,417
+Stand by, Captain.
+
+658
+00:28:56,458 --> 00:28:58,500
+I can adjust the field symmetry
+to compensate.
+
+659
+00:28:58,542 --> 00:28:59,875
+I doubt it.
+
+660
+00:28:59,917 --> 00:29:02,208
+You don't know
+what this ship can do, mister.
+
+661
+00:29:02,250 --> 00:29:04,583
+Yes, Captain,
+I still believe it'll work.
+
+662
+00:29:04,625 --> 00:29:07,750
+Increasing power to warp field
+and tractor beam.
+
+663
+00:29:07,792 --> 00:29:09,250
+And if you're wrong
+the moon will crumble
+
+664
+00:29:09,291 --> 00:29:11,166
+due to subspace compression.
+
+665
+00:29:11,208 --> 00:29:12,291
+Don't say
+I didn't warn you.
+
+666
+00:29:12,333 --> 00:29:13,625
+Shut up, Q.
+
+667
+00:29:13,667 --> 00:29:15,959
+I will not be spoken to
+in this manner!
+
+668
+00:29:16,000 --> 00:29:17,667
+Data.
+
+669
+00:29:17,709 --> 00:29:20,917
+Q, I strongly suggest
+that you cooperate.
+
+670
+00:29:25,166 --> 00:29:26,792
+Inertial mass of
+the moon is decreasing
+
+671
+00:29:26,834 --> 00:29:30,458
+to approximately
+2.5 million metric tons.
+
+672
+00:29:30,500 --> 00:29:32,000
+It<i> is</i> working.
+
+673
+00:29:32,041 --> 00:29:33,542
+We<i> can</i> move it.
+
+674
+00:29:33,583 --> 00:29:34,917
+Firing impulse engines.
+
+675
+00:29:38,291 --> 00:29:42,417
+DATA:
+Captain, the moon's trajectory
+has moved .3 percent.
+
+676
+00:29:42,458 --> 00:29:44,291
+.4 percent.
+
+677
+00:29:44,333 --> 00:29:46,291
+Emergency!
+Shields up.
+
+678
+00:29:46,333 --> 00:29:47,875
+Disengage
+tractor beam.
+
+679
+00:29:47,917 --> 00:29:49,208
+Calamarain attacking.
+
+680
+00:29:49,250 --> 00:29:51,583
+(<i> alarm blaring</i> )
+
+681
+00:29:51,625 --> 00:29:54,500
+Shields holding.
+Tachyon field repelled.
+
+682
+00:29:54,542 --> 00:29:55,875
+LA FORGE:
+Captain, the impact of the blast
+
+683
+00:29:55,917 --> 00:29:57,583
+is pushing us
+into the upper atmosphere.
+
+684
+00:30:03,250 --> 00:30:05,792
+Hull temperature
+rising-- 2,000 degrees
+
+685
+00:30:05,834 --> 00:30:07,542
+2,500 degrees.
+
+686
+00:30:07,583 --> 00:30:09,458
+LA FORGE:
+Moving to full impulse power.
+
+687
+00:30:09,500 --> 00:30:11,291
+WORF:
+Calamarain resuming attack.
+
+688
+00:30:15,333 --> 00:30:16,709
+They've overpowered the shields.
+
+689
+00:30:16,750 --> 00:30:19,333
+Hull penetration, deck 36--
+Engineering.
+
+690
+00:30:19,375 --> 00:30:21,500
+Geordi, can you direct
+anymore power to the shields?
+
+691
+00:30:21,542 --> 00:30:22,834
+We need all the power we have
+
+692
+00:30:22,875 --> 00:30:24,667
+to get out of the atmosphere,
+Commander.
+
+693
+00:30:24,709 --> 00:30:27,000
+(<i> whooshing whir</i> )
+
+694
+00:30:29,583 --> 00:30:31,291
+Ah! Ah! Ah!
+
+695
+00:30:31,333 --> 00:30:32,291
+Get off!
+
+696
+00:30:32,333 --> 00:30:33,834
+No, no, no, no, no!
+
+697
+00:30:33,875 --> 00:30:36,083
+(<i> yelling</i> )
+
+698
+00:30:36,125 --> 00:30:38,000
+Try activating
+the structural integrity field.
+
+699
+00:30:38,041 --> 00:30:39,417
+Yes, sir.
+
+700
+00:30:41,458 --> 00:30:44,291
+(<i> straining groans</i> )
+
+701
+00:30:44,333 --> 00:30:45,542
+It's not working.
+
+702
+00:30:45,583 --> 00:30:47,333
+Structural field harmonics
+on manual.
+
+703
+00:30:47,375 --> 00:30:49,291
+(<i> electronic buzzing</i> )
+
+704
+00:30:49,333 --> 00:30:51,208
+RIKER:
+La Forge, hull temperature
+falling.
+
+705
+00:30:51,250 --> 00:30:52,542
+We're in the clear.
+
+706
+00:30:52,583 --> 00:30:55,709
+Diverting power
+to forward sections<i> now.</i>
+
+707
+00:30:55,750 --> 00:30:56,792
+(<i> yells</i> )
+
+708
+00:30:56,834 --> 00:30:58,917
+(<i> electronic crackling</i> )
+
+709
+00:31:11,000 --> 00:31:14,083
+That charge nearly knocked out
+his positronic net.
+
+710
+00:31:14,125 --> 00:31:15,583
+What can you do for him?
+
+711
+00:31:15,625 --> 00:31:18,417
+We can try to discharge
+and reset the motor pathways
+
+712
+00:31:18,458 --> 00:31:21,083
+recouple the
+autonomic nodes...
+
+713
+00:31:21,125 --> 00:31:23,291
+There's overpressure
+in his fluidic systems.
+
+714
+00:31:23,333 --> 00:31:24,667
+Thermal shock.
+
+715
+00:31:24,709 --> 00:31:26,709
+If he was mortal,
+he'd be dead.
+
+716
+00:31:26,750 --> 00:31:29,417
+Well, let's not overstate
+the matter here, Doctor.
+
+717
+00:31:29,458 --> 00:31:31,125
+I'm mortal and I survived.
+
+718
+00:31:33,875 --> 00:31:35,750
+Oh, the cheers
+are overwhelming.
+
+719
+00:31:35,792 --> 00:31:37,083
+Q, you exceed
+
+720
+00:31:37,125 --> 00:31:39,208
+your own standards
+of self-preoccupation.
+
+721
+00:31:39,250 --> 00:31:40,417
+You have no concern
+for an officer
+
+722
+00:31:40,458 --> 00:31:42,500
+who may have
+saved your life.
+
+723
+00:31:42,542 --> 00:31:44,667
+He's strong.
+He'll survive.
+
+724
+00:31:44,709 --> 00:31:46,625
+LA FORGE:
+Osmotic pressure
+still rising.
+
+725
+00:31:46,667 --> 00:31:49,291
+Maybe we can bypass
+the flow regulator.
+
+726
+00:31:49,333 --> 00:31:51,959
+It would be helpful if everybody
+just got out of here now.
+
+727
+00:31:56,542 --> 00:31:58,417
+Stay with Q.
+
+728
+00:32:01,709 --> 00:32:03,000
+Geordi?
+Hmm?
+
+729
+00:32:03,041 --> 00:32:06,083
+The moon's trajectory.
+
+730
+00:32:06,125 --> 00:32:09,417
+All we did was buy ourselves
+another orbit-- at most.
+
+731
+00:32:09,458 --> 00:32:10,625
+We can try again
+
+732
+00:32:10,667 --> 00:32:11,834
+when the moon comes
+back to its perigee.
+
+733
+00:32:11,875 --> 00:32:13,250
+And when we drop our shields
+
+734
+00:32:13,291 --> 00:32:14,667
+the Calamarains
+go after Q again.
+
+735
+00:32:14,709 --> 00:32:17,208
+Commander, he's
+not worth it.
+
+736
+00:32:24,375 --> 00:32:25,458
+(<i> door chimes</i> )
+
+737
+00:32:25,500 --> 00:32:26,834
+Come.
+
+738
+00:32:30,000 --> 00:32:31,500
+You're right, of course.
+
+739
+00:32:31,542 --> 00:32:33,834
+I'm extraordinarily
+selfish
+
+740
+00:32:33,875 --> 00:32:36,750
+but it has served me
+so well in the past.
+
+741
+00:32:36,792 --> 00:32:39,542
+It will not
+serve you here.
+
+742
+00:32:39,583 --> 00:32:42,041
+Don't be so hard
+on me, Jean-Luc.
+
+743
+00:32:42,083 --> 00:32:43,250
+You've been a mortal
+all your life.
+
+744
+00:32:43,291 --> 00:32:45,083
+You know all about dying.
+
+745
+00:32:45,125 --> 00:32:47,709
+I've never given it
+a second thought.
+
+746
+00:32:47,750 --> 00:32:50,834
+Or a first one,
+for that matter.
+
+747
+00:32:50,875 --> 00:32:53,250
+I could have been killed.
+
+748
+00:32:53,291 --> 00:32:54,750
+If it hadn't been for Data
+
+749
+00:32:54,792 --> 00:32:56,542
+and that one brief
+delay he created
+
+750
+00:32:56,583 --> 00:32:58,667
+I would have
+been gone.
+
+751
+00:32:58,709 --> 00:33:01,709
+No more me.
+
+752
+00:33:01,750 --> 00:33:02,792
+And no one would have missed me
+
+753
+00:33:02,834 --> 00:33:04,458
+would they?
+
+754
+00:33:08,083 --> 00:33:10,583
+Data may have sacrificed
+himself for me.
+
+755
+00:33:10,625 --> 00:33:12,333
+Why?
+
+756
+00:33:12,375 --> 00:33:14,709
+That is his special nature.
+
+757
+00:33:14,750 --> 00:33:18,125
+He learned the lessons
+of humanity well.
+
+758
+00:33:18,166 --> 00:33:21,458
+When I ask myself if I would
+have done the same for him
+
+759
+00:33:21,500 --> 00:33:25,667
+and I am forced to answer no
+
+760
+00:33:25,709 --> 00:33:30,000
+I feel... I feel ashamed.
+
+761
+00:33:30,041 --> 00:33:32,542
+Q, I am not
+your father confessor.
+
+762
+00:33:32,583 --> 00:33:35,583
+You will receive
+no absolution from me.
+
+763
+00:33:35,625 --> 00:33:38,458
+You have brought nothing but
+pain and suffering to this crew.
+
+764
+00:33:38,500 --> 00:33:40,875
+And I am still
+not entirely convinced
+
+765
+00:33:40,917 --> 00:33:45,709
+that all this isn't your latest
+attempt at a puerile joke.
+
+766
+00:33:45,750 --> 00:33:47,542
+It is a joke, a joke on me--
+
+767
+00:33:47,583 --> 00:33:51,875
+joke of the universe,
+the king who would be man.
+
+768
+00:33:51,917 --> 00:33:53,625
+As I learn
+more and more
+
+769
+00:33:53,667 --> 00:33:55,875
+what it is to be human,
+I am more and more convinced
+
+770
+00:33:55,917 --> 00:33:57,625
+that I would never
+make a good one.
+
+771
+00:33:57,667 --> 00:34:00,250
+I don't have what it takes.
+
+772
+00:34:00,291 --> 00:34:04,291
+Without my powers,
+I'm frightened of everything.
+
+773
+00:34:04,333 --> 00:34:06,458
+I'm a coward.
+
+774
+00:34:06,500 --> 00:34:10,083
+And I'm miserable.
+
+775
+00:34:10,125 --> 00:34:11,750
+And I can't go on this way.
+
+776
+00:34:13,959 --> 00:34:16,583
+(<i> door opens and closes</i> )
+
+777
+00:34:24,000 --> 00:34:26,959
+He's going
+to be all right.
+
+778
+00:34:27,000 --> 00:34:28,375
+LA FORGE:
+We're re-calibrating
+
+779
+00:34:28,417 --> 00:34:31,083
+his language circuits,
+so he can't talk yet.
+
+780
+00:34:33,834 --> 00:34:36,208
+There are creatures
+in the universe
+
+781
+00:34:36,250 --> 00:34:40,250
+who would consider you the
+ultimate achievement, android.
+
+782
+00:34:40,291 --> 00:34:45,750
+No feelings, no emotions,
+no pain--
+
+783
+00:34:45,792 --> 00:34:49,542
+and yet you covet
+those qualities of humanity.
+
+784
+00:34:49,583 --> 00:34:51,417
+Believe me,
+you're missing nothing.
+
+785
+00:34:54,667 --> 00:34:58,500
+But if it means anything to you,
+you're a better human than I.
+
+786
+00:35:10,875 --> 00:35:12,208
+Where's the main shuttle bay?
+
+787
+00:35:12,250 --> 00:35:14,333
+Main shuttle bay is located
+on deck four.
+
+788
+00:35:14,375 --> 00:35:15,625
+Take me there.
+
+789
+00:35:16,625 --> 00:35:18,250
+(<i> console beeping</i> )
+
+790
+00:35:18,291 --> 00:35:22,000
+Captain, an unscheduled shuttle
+has just been launched.
+
+791
+00:35:22,041 --> 00:35:23,542
+On main viewer.
+
+792
+00:35:29,125 --> 00:35:30,583
+Hailing frequency.
+
+793
+00:35:30,625 --> 00:35:32,709
+Frequency's open.
+
+794
+00:35:32,750 --> 00:35:35,875
+Shuttle occupant,
+identify yourself.
+
+795
+00:35:35,917 --> 00:35:38,000
+Don't try and talk me out of it,
+Jean-Luc.
+
+796
+00:35:38,041 --> 00:35:39,834
+Q, return to the ship
+immediately.
+
+797
+00:35:39,875 --> 00:35:42,792
+I just can't get used
+to following orders.
+
+798
+00:35:42,834 --> 00:35:46,709
+Captain, the plasma cloud
+is moving toward the shuttle.
+
+799
+00:35:46,750 --> 00:35:48,375
+It's easier this way.
+
+800
+00:35:48,417 --> 00:35:51,333
+They won't bother you
+after I'm gone.
+
+801
+00:35:51,375 --> 00:35:53,500
+Engineering, prepare
+to extend shields.
+
+802
+00:35:53,542 --> 00:35:56,166
+Please, don't fall back
+on your tired cliché
+
+803
+00:35:56,208 --> 00:35:59,792
+of charging to the rescue
+just in the nick of time.
+
+804
+00:35:59,834 --> 00:36:02,083
+I don't want to be rescued.
+
+805
+00:36:02,125 --> 00:36:05,291
+My life as a human being
+has been a dismal failure.
+
+806
+00:36:05,333 --> 00:36:08,291
+Perhaps my death
+will have a little dignity.
+
+807
+00:36:08,333 --> 00:36:11,083
+Q, there is no dignity
+in this suicide.
+
+808
+00:36:11,125 --> 00:36:12,375
+Yes, I suppose you're right.
+
+809
+00:36:12,417 --> 00:36:15,208
+Death of a coward, then,
+so be it.
+
+810
+00:36:15,250 --> 00:36:18,250
+But as a human,
+I would have died of boredom.
+
+811
+00:36:34,875 --> 00:36:38,458
+This goes against
+my better judgment.
+
+812
+00:36:38,500 --> 00:36:40,625
+Transporter Room Three,
+lock on to Shuttle One.
+
+813
+00:36:40,667 --> 00:36:42,000
+Beam it back into its bay.
+
+814
+00:36:42,041 --> 00:36:43,250
+Aye, Captain.
+
+815
+00:36:45,917 --> 00:36:48,166
+It's a perfectly
+good shuttlecraft.
+
+816
+00:36:48,208 --> 00:36:50,125
+Captain, unable to transport.
+
+817
+00:36:50,166 --> 00:36:53,291
+For some reason, I can't lock on
+to the shuttlecraft.
+
+818
+00:36:53,333 --> 00:36:54,417
+Worf, are you sensing
+
+819
+00:36:54,458 --> 00:36:56,041
+any interference
+from the Calamarain?
+
+820
+00:36:56,083 --> 00:36:58,458
+No, sir, but they are still
+moving toward the shuttle.
+
+821
+00:36:58,500 --> 00:37:01,125
+Geordi, extend shields
+around Shuttle One.
+
+822
+00:37:01,166 --> 00:37:03,667
+Extending shields.
+
+823
+00:37:03,709 --> 00:37:05,542
+Commander,
+the shields are frozen.
+
+824
+00:37:05,583 --> 00:37:08,625
+RIKER:
+Cause?
+
+825
+00:37:08,667 --> 00:37:09,875
+Unknown.
+
+826
+00:37:09,917 --> 00:37:13,667
+Lock on tractor beam.
+
+827
+00:37:13,709 --> 00:37:16,000
+Tractor beam is not functioning,
+either.
+
+828
+00:37:16,041 --> 00:37:18,083
+What the hell is going on?
+
+829
+00:37:18,125 --> 00:37:19,500
+MALE VOICE:
+<i>Not bad, Q.</i>
+
+830
+00:37:23,583 --> 00:37:26,333
+Not great...
+
+831
+00:37:26,375 --> 00:37:29,875
+(<i> sighs</i> )
+
+832
+00:37:29,917 --> 00:37:31,750
+but not bad.
+
+833
+00:37:31,792 --> 00:37:33,083
+Q!
+
+834
+00:37:33,125 --> 00:37:35,041
+Ah!
+
+835
+00:37:35,083 --> 00:37:37,500
+Sacrificing yourself
+for these humans?
+
+836
+00:37:37,542 --> 00:37:41,083
+Do I detect
+a<i> little</i> selfless act?
+
+837
+00:37:41,125 --> 00:37:42,417
+You flatter me.
+
+838
+00:37:42,458 --> 00:37:43,917
+I was only trying to put
+a quick end
+
+839
+00:37:43,959 --> 00:37:46,125
+to a miserable existence.
+
+840
+00:37:46,166 --> 00:37:48,166
+(<i> groans</i> )
+
+841
+00:37:48,208 --> 00:37:49,417
+What a dreadful color.
+
+842
+00:37:49,458 --> 00:37:50,875
+Yeah.
+
+843
+00:37:50,917 --> 00:37:52,542
+What are you doing here?
+
+844
+00:37:52,583 --> 00:37:55,583
+Oh, I've been
+keeping track of you.
+
+845
+00:37:55,625 --> 00:37:57,333
+I always thought
+you were in my corner.
+
+846
+00:37:57,375 --> 00:37:58,875
+Ah, no, no.
+
+847
+00:37:58,917 --> 00:38:01,709
+See, actually, I was the one
+who got you kicked out.
+
+848
+00:38:01,750 --> 00:38:03,000
+You know, you're
+incorrigible, Q.
+
+849
+00:38:03,041 --> 00:38:04,166
+You're a lost cause.
+
+850
+00:38:04,208 --> 00:38:06,208
+I can't go
+to a single solar system
+
+851
+00:38:06,250 --> 00:38:09,208
+without having
+to... apologize for you
+
+852
+00:38:09,250 --> 00:38:10,500
+and I'm tired of it.
+
+853
+00:38:10,542 --> 00:38:11,875
+I wasn't the one who misplaced
+
+854
+00:38:11,917 --> 00:38:14,166
+the entire
+Deltived asteroid belt.
+
+855
+00:38:14,208 --> 00:38:16,417
+Hey, this isn't about me.
+
+856
+00:38:16,458 --> 00:38:18,500
+I got better places to be.
+
+857
+00:38:18,542 --> 00:38:20,000
+But somebody had to keep
+an eye on you to make sure
+
+858
+00:38:20,041 --> 00:38:23,333
+you still didn't find a way
+to cause trouble.
+
+859
+00:38:23,375 --> 00:38:24,792
+Even as a member
+of this...
+
+860
+00:38:24,834 --> 00:38:28,750
+hmm... limited species.
+
+861
+00:38:28,792 --> 00:38:31,208
+Well, I... I hope
+I've been entertaining you.
+
+862
+00:38:33,250 --> 00:38:35,083
+Barely.
+
+863
+00:38:35,125 --> 00:38:38,500
+But... I find these humans
+rather interesting.
+
+864
+00:38:38,542 --> 00:38:40,709
+I'm beginning to understand
+what you see in them.
+
+865
+00:38:40,750 --> 00:38:42,083
+After all the things
+that you've done
+
+866
+00:38:42,125 --> 00:38:44,750
+they're still intent
+on keeping you safe.
+
+867
+00:38:44,792 --> 00:38:46,917
+A genetic weakness
+of the race.
+
+868
+00:38:46,959 --> 00:38:48,583
+And they're still at it.
+
+869
+00:38:48,625 --> 00:38:50,750
+They just tried to... mmm...
+
+870
+00:38:50,792 --> 00:38:54,000
+beam you up, back
+whatever it is they call it.
+
+871
+00:38:54,041 --> 00:38:55,208
+Really.
+
+872
+00:38:55,250 --> 00:38:57,166
+I stopped them.
+
+873
+00:38:57,208 --> 00:38:59,291
+Well, if the Calamarains
+hurry up and finish me off
+
+874
+00:38:59,333 --> 00:39:00,959
+we can get you back
+on your way.
+
+875
+00:39:01,000 --> 00:39:02,709
+Afraid I had to put
+them on hold, too.
+
+876
+00:39:02,750 --> 00:39:08,792
+You see, there's still this
+matter of the selfless act.
+
+877
+00:39:08,834 --> 00:39:10,458
+Now, you and I both know
+that the Calamarain
+
+878
+00:39:10,500 --> 00:39:11,625
+would have
+eventually destroyed
+
+879
+00:39:11,667 --> 00:39:14,166
+the<i> Enterprise</i>
+to get to you
+
+880
+00:39:14,208 --> 00:39:17,083
+and that's really
+why you left, right?
+
+881
+00:39:17,125 --> 00:39:19,333
+It was a teeny bit selfless,
+wasn't it?
+
+882
+00:39:19,375 --> 00:39:21,166
+Oh! Yeah, and
+there's my problem.
+
+883
+00:39:21,208 --> 00:39:22,500
+See, I can't go back
+to the Continuum
+
+884
+00:39:22,542 --> 00:39:23,709
+and tell them
+that you committed
+
+885
+00:39:23,750 --> 00:39:25,000
+a selfless act
+just before the end.
+
+886
+00:39:25,041 --> 00:39:26,834
+If I do, there's going
+to be questions
+
+887
+00:39:26,875 --> 00:39:29,625
+there's going to be explanations
+<i>for centuries.</i>
+
+888
+00:39:29,667 --> 00:39:31,959
+I've learned my lesson, Q.
+
+889
+00:39:32,000 --> 00:39:34,709
+Remember who
+you're talking to--
+
+890
+00:39:34,750 --> 00:39:39,709
+all knowing, all seeing.
+
+891
+00:39:39,750 --> 00:39:41,417
+(<i> sighs</i> )
+
+892
+00:39:41,458 --> 00:39:43,667
+Hmm, fine.
+
+893
+00:39:43,709 --> 00:39:45,417
+Oh... you got your powers back.
+
+894
+00:39:47,375 --> 00:39:48,917
+Try and stay out of trouble.
+
+895
+00:39:56,083 --> 00:39:58,417
+So they wanted to destroy me,
+did they?
+
+896
+00:40:02,875 --> 00:40:06,041
+If you think I tormented you
+in the past, my little friends
+
+897
+00:40:06,083 --> 00:40:08,750
+wait until you see
+what I do with you now.
+
+898
+00:40:08,792 --> 00:40:10,458
+Q...?
+
+899
+00:40:11,875 --> 00:40:14,417
+I was just seeing
+if you were still watching.
+
+900
+00:40:18,542 --> 00:40:21,750
+Captain,
+the aliens have disappeared
+
+901
+00:40:21,792 --> 00:40:23,208
+and so has the shuttle.
+
+902
+00:40:23,250 --> 00:40:24,417
+Scan the sector.
+
+903
+00:40:24,458 --> 00:40:26,542
+I have, sir.
+
+904
+00:40:26,583 --> 00:40:30,917
+Well... I suppose
+that is the end of Q.
+
+905
+00:40:36,041 --> 00:40:38,542
+<i>Au contraire,</i>
+<i>mon capitaine!</i>
+
+906
+00:40:38,583 --> 00:40:41,000
+He's back!
+
+907
+00:40:41,041 --> 00:40:43,291
+(<i> playing mariachi music</i> )
+
+908
+00:40:57,083 --> 00:40:58,917
+I'm forgiven.
+
+909
+00:40:58,959 --> 00:41:00,625
+My brothers and sisters
+of the Continuum
+
+910
+00:41:00,667 --> 00:41:01,959
+have taken me back.
+
+911
+00:41:02,000 --> 00:41:05,875
+I'm immortal again,
+omnipotent again.
+
+912
+00:41:05,917 --> 00:41:07,208
+Swell.
+
+913
+00:41:07,250 --> 00:41:08,792
+Don't fret, Riker.
+
+914
+00:41:08,834 --> 00:41:11,125
+My good fortune
+is your good fortune.
+
+915
+00:41:15,792 --> 00:41:17,750
+I don't need your fantasy women.
+
+916
+00:41:17,792 --> 00:41:19,291
+Oh, you're so stolid.
+
+917
+00:41:19,333 --> 00:41:20,917
+You weren't like that
+before the beard.
+
+918
+00:41:23,250 --> 00:41:24,291
+(<i> sighs</i> )
+
+919
+00:41:24,333 --> 00:41:25,500
+Very well.
+
+920
+00:41:30,417 --> 00:41:31,625
+Q!
+
+921
+00:41:31,667 --> 00:41:33,417
+But I feel like celebrating.
+
+922
+00:41:33,458 --> 00:41:35,709
+I don't!
+
+923
+00:41:35,750 --> 00:41:37,041
+All right.
+
+924
+00:41:41,959 --> 00:41:43,208
+All of it.
+
+925
+00:41:43,250 --> 00:41:44,709
+Oh...
+
+926
+00:41:49,166 --> 00:41:51,417
+Now, at the risk
+of being rude...
+
+927
+00:41:51,458 --> 00:41:53,709
+Yes, once again,
+I've overstayed
+my welcome.
+
+928
+00:41:53,750 --> 00:41:55,834
+As a human,
+I was ill-equipped to thank you
+
+929
+00:41:55,875 --> 00:41:59,875
+but, as myself, you have
+my everlasting gratitude.
+
+930
+00:41:59,917 --> 00:42:02,041
+Until next time.
+
+931
+00:42:02,083 --> 00:42:07,709
+Ah, but, before I go,
+there's a debt I wish to repay
+
+932
+00:42:07,750 --> 00:42:09,959
+to my professor
+of the humanities.
+
+933
+00:42:10,000 --> 00:42:11,250
+Data, I've decided
+
+934
+00:42:11,291 --> 00:42:14,500
+to give you something
+very, very special.
+
+935
+00:42:14,542 --> 00:42:16,500
+If your intention is
+to make me human, Q...
+
+936
+00:42:16,542 --> 00:42:17,959
+No, no, no, no, no.
+
+937
+00:42:18,000 --> 00:42:20,709
+I would never curse you
+by making you human.
+
+938
+00:42:20,750 --> 00:42:24,917
+Think of it...
+as a going-away present.
+
+939
+00:42:33,375 --> 00:42:38,375
+(<i> laughing uproariously</i> )
+
+940
+00:42:43,625 --> 00:42:45,375
+LA FORGE:
+Data...?
+
+941
+00:42:54,917 --> 00:42:57,542
+Data, why are
+you laughing?
+
+942
+00:42:57,583 --> 00:42:59,291
+It...
+
+943
+00:43:07,083 --> 00:43:11,792
+I do not know.
+
+944
+00:43:11,834 --> 00:43:15,250
+But it was a wonderful...
+feeling.
+
+945
+00:43:15,291 --> 00:43:16,500
+(<i> console beeping</i> )
+
+946
+00:43:16,542 --> 00:43:20,333
+Captain, Bre'el IV
+is hailing us.
+
+947
+00:43:20,375 --> 00:43:21,792
+On screen,
+Lieutenant.
+
+948
+00:43:23,000 --> 00:43:26,625
+Captain Picard,
+you've done it.
+
+949
+00:43:26,667 --> 00:43:28,125
+I'm sorry?
+
+950
+00:43:28,166 --> 00:43:31,333
+The moon-- it's back
+to its normal orbit.
+
+951
+00:43:31,375 --> 00:43:33,959
+However you did
+it, thank you.
+
+952
+00:43:38,166 --> 00:43:39,750
+Let's see it, Worf.
+
+953
+00:43:46,250 --> 00:43:48,041
+Mr. Data, your analysis?
+
+954
+00:43:48,083 --> 00:43:50,792
+The moon's altitude
+is 55,000 kilometers.
+
+955
+00:43:50,834 --> 00:43:52,834
+Projected orbit is circular.
+
+956
+00:43:52,875 --> 00:43:54,709
+There is no further danger
+to the planet.
+
+957
+00:44:01,875 --> 00:44:06,291
+Ensign, set course
+for Station Nigala IV.
+
+958
+00:44:06,333 --> 00:44:07,709
+Aye, sir.
+
+959
+00:44:13,834 --> 00:44:19,625
+Perhaps there's a... residue
+of humanity in Q after all.
+
+960
+00:44:23,083 --> 00:44:25,667
+Ensign, en...
+
+961
+00:44:25,709 --> 00:44:28,917
+Don't bet
+on it, Picard.

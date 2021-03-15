@@ -1,0 +1,2933 @@
+1
+00:00:01,750 --> 00:00:05,291
+<i>Captain's Log,</i>
+<i>Stardate 46271.5.</i>
+
+2
+00:00:05,333 --> 00:00:08,250
+<i>The</i> Enterprise<i> has entered</i>
+<i>orbit of Deinonychus VII</i>
+
+3
+00:00:08,291 --> 00:00:11,250
+<i>but our scheduled rendezvous</i>
+<i>with the supply ship</i> Biko
+
+4
+00:00:11,291 --> 00:00:13,625
+<i>has been delayed</i>
+<i>for another 48 hours.</i>
+
+5
+00:00:13,667 --> 00:00:15,709
+<i>In the meantime,</i>
+<i>many members of the crew</i>
+
+6
+00:00:15,750 --> 00:00:17,417
+<i>are taking advantage</i>
+<i>of the delay</i>
+
+7
+00:00:17,458 --> 00:00:20,333
+<i>to pursue their own projects,</i>
+<i>myself included.</i>
+
+8
+00:00:20,375 --> 00:00:26,625
+(<i> playing Mozart Trio</i>
+<i>with clarinet and cello</i> )
+
+9
+00:00:35,000 --> 00:00:36,542
+Computer, stop playback.
+
+10
+00:00:36,583 --> 00:00:38,041
+Change the clarinet
+to an oboe.
+
+11
+00:00:39,500 --> 00:00:40,625
+Continue recording.
+
+12
+00:00:46,875 --> 00:00:48,041
+(<i> door chimes</i> )
+
+13
+00:00:49,250 --> 00:00:51,125
+Computer, pause playback.
+
+14
+00:00:51,166 --> 00:00:52,500
+Come.
+
+15
+00:00:54,834 --> 00:00:55,959
+Yes, gentlemen?
+
+16
+00:00:56,000 --> 00:00:57,542
+Captain, we'd like
+your permission
+
+17
+00:00:57,583 --> 00:00:58,917
+to take the
+engineering computer
+
+18
+00:00:58,959 --> 00:01:00,458
+off-line for a
+couple of hours.
+
+19
+00:01:00,500 --> 00:01:02,083
+We're working on
+a new interface
+
+20
+00:01:02,125 --> 00:01:04,000
+that would allow
+Data to act as an
+emergency backup
+
+21
+00:01:04,041 --> 00:01:06,125
+in the event
+of a ship-wide
+systems failure.
+
+22
+00:01:06,166 --> 00:01:07,500
+In theory,
+my neural network
+
+23
+00:01:07,542 --> 00:01:09,417
+should be able
+to sustain key systems
+
+24
+00:01:09,458 --> 00:01:12,125
+until primary control
+is restored.
+
+25
+00:01:12,166 --> 00:01:14,333
+Hmm, it sounds like
+an intriguing experiment.
+
+26
+00:01:14,375 --> 00:01:15,625
+I'll be interested
+to see the results.
+
+27
+00:01:15,667 --> 00:01:16,959
+Permission granted.
+
+28
+00:01:17,000 --> 00:01:18,291
+It's possible we might
+even be able to run
+
+29
+00:01:18,333 --> 00:01:20,333
+some secondary
+systems through Data--
+
+30
+00:01:20,375 --> 00:01:21,458
+weapons control,
+sensor...
+
+31
+00:01:21,500 --> 00:01:22,750
+Yes, I get the idea,
+Mr. La Forge.
+
+32
+00:01:22,792 --> 00:01:24,083
+Thank you.
+Please proceed.
+
+33
+00:01:29,083 --> 00:01:32,000
+Computer, begin playback
+from the first measure.
+
+34
+00:01:38,542 --> 00:01:39,709
+(<i> door chimes</i> )
+
+35
+00:01:41,083 --> 00:01:42,166
+Computer, pause recording.
+
+36
+00:01:42,208 --> 00:01:43,291
+Come.
+
+37
+00:01:46,667 --> 00:01:48,291
+Jean-Luc, I need
+to talk to you
+
+38
+00:01:48,333 --> 00:01:50,458
+about<i> Something</i>
+<i>For Breakfast.</i>
+
+39
+00:01:50,500 --> 00:01:52,166
+Breakfast?
+
+40
+00:01:52,208 --> 00:01:53,583
+The play.
+
+41
+00:01:53,625 --> 00:01:57,166
+Ah, yes, well,
+it's a very intriguing drama
+
+42
+00:01:57,208 --> 00:01:59,458
+but I really don't
+have the time
+
+43
+00:01:59,500 --> 00:02:01,166
+it would take
+to learn a part.
+
+44
+00:02:01,208 --> 00:02:04,750
+And, uh, anyway,
+I'm not much of an actor.
+
+45
+00:02:04,792 --> 00:02:07,834
+That's no problem.
+Oh?
+
+46
+00:02:07,875 --> 00:02:10,458
+Well, you wouldn't
+be playing one
+of the leads.
+
+47
+00:02:10,500 --> 00:02:11,834
+Oh.
+
+48
+00:02:11,875 --> 00:02:13,500
+It's a very small part--
+only two lines.
+
+49
+00:02:14,542 --> 00:02:15,583
+Really?
+
+50
+00:02:15,625 --> 00:02:18,250
+It's the role
+of the butler.
+
+51
+00:02:18,291 --> 00:02:19,917
+Well, I'll think about it
+and let you know.
+
+52
+00:02:22,917 --> 00:02:24,375
+You would be
+wonderful, Jean-Luc.
+
+53
+00:02:28,250 --> 00:02:29,834
+We're rehearsing
+today at 1:30.
+
+54
+00:02:35,458 --> 00:02:38,625
+Computer, begin playback
+from the first measure.
+
+55
+00:02:40,291 --> 00:02:41,417
+(<i> door chimes</i> )
+
+56
+00:02:42,959 --> 00:02:44,083
+Computer, pause recording.
+
+57
+00:02:44,125 --> 00:02:45,208
+Yes!
+
+58
+00:02:46,875 --> 00:02:48,959
+Captain, I
+am sorry to
+interrupt...
+
+59
+00:02:49,000 --> 00:02:50,667
+No. Please, Mr. Worf,
+come in.
+
+60
+00:02:50,709 --> 00:02:51,667
+I was hoping
+to take advantage
+
+61
+00:02:51,709 --> 00:02:52,917
+of the<i> Biko's</i> delay
+
+62
+00:02:52,959 --> 00:02:54,583
+by staging ship-wide
+security drills.
+
+63
+00:02:54,625 --> 00:02:56,417
+I have planned a
+tentative schedule.
+
+64
+00:02:59,000 --> 00:03:01,166
+Oh, yes, this is
+very impressive, Mr. Worf.
+
+65
+00:03:01,208 --> 00:03:02,625
+But we'll be taking on
+new personnel
+
+66
+00:03:02,667 --> 00:03:05,000
+at Starbase 118
+in a few weeks.
+
+67
+00:03:05,041 --> 00:03:07,333
+Surely, the drills
+can wait until then.
+
+68
+00:03:07,375 --> 00:03:09,375
+In that case, I will use
+the time to perform
+
+69
+00:03:09,417 --> 00:03:12,000
+maintenance checks on
+the forward phaser array.
+
+70
+00:03:13,750 --> 00:03:16,709
+Mr. Worf, is there
+some reason
+
+71
+00:03:16,750 --> 00:03:18,625
+why you are trying to
+give yourself more work?
+
+72
+00:03:20,208 --> 00:03:22,458
+No, sir. I simply wish
+to use the extra time...
+
+73
+00:03:22,500 --> 00:03:24,166
+Enjoy yourself.
+
+74
+00:03:24,208 --> 00:03:26,792
+You have
+the free time.
+
+75
+00:03:26,834 --> 00:03:27,959
+Use it.
+
+76
+00:03:29,375 --> 00:03:30,458
+Yes, sir.
+
+77
+00:03:30,500 --> 00:03:31,583
+Thank you, sir.
+
+78
+00:03:42,208 --> 00:03:47,125
+Computer, continue recording
+and playback once more...
+
+79
+00:03:47,166 --> 00:03:48,333
+from the top.
+
+80
+00:03:55,500 --> 00:03:58,333
+(<i> electronic zaps and whirs</i> )
+
+81
+00:03:58,375 --> 00:03:59,417
+(<i> door opening</i> )
+
+82
+00:03:59,458 --> 00:04:00,709
+Father!
+
+83
+00:04:02,583 --> 00:04:03,709
+What did he say?
+
+84
+00:04:12,291 --> 00:04:15,333
+The captain saw fit to
+release me from my duties.
+
+85
+00:04:15,375 --> 00:04:16,667
+You mean you can go?
+
+86
+00:04:18,166 --> 00:04:19,250
+I can go.
+
+87
+00:04:23,125 --> 00:04:24,250
+Saddle up, Father.
+
+88
+00:04:59,709 --> 00:05:02,625
+<i>Space, the final frontier.</i>
+
+89
+00:05:04,333 --> 00:05:07,417
+<i>These are the voyages</i>
+<i>of the starship</i> Enterprise.
+
+90
+00:05:08,667 --> 00:05:10,166
+<i>Its continuing mission--</i>
+
+91
+00:05:10,208 --> 00:05:12,333
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+92
+00:05:14,041 --> 00:05:17,000
+<i>... to seek out new life</i>
+<i>and new civilizations...</i>
+
+93
+00:05:18,583 --> 00:05:21,875
+<i>... to boldly go</i>
+<i>where no one has gone before.</i>
+
+94
+00:06:20,375 --> 00:06:21,625
+(<i> birds cawing</i> )
+
+95
+00:06:23,875 --> 00:06:25,917
+(<i> dog barking distantly</i> )
+
+96
+00:06:27,333 --> 00:06:28,500
+(<i> creaking</i> )
+
+97
+00:06:32,667 --> 00:06:34,625
+(<i> jangling footsteps</i>
+<i>approaching )</i>
+
+98
+00:06:41,041 --> 00:06:42,458
+(<i> barking continues</i> )
+
+99
+00:06:58,125 --> 00:06:59,458
+Where are we?
+
+100
+00:06:59,500 --> 00:07:01,041
+Deadwood.
+
+101
+00:07:01,083 --> 00:07:02,542
+19th-century Earth.
+
+102
+00:07:05,041 --> 00:07:06,250
+The<i> ancient West.</i>
+
+103
+00:07:08,041 --> 00:07:09,625
+What is our<i> function</i> here?
+
+104
+00:07:10,792 --> 00:07:13,458
+You are the sheriff,
+and I'm the deputy.
+
+105
+00:07:15,750 --> 00:07:17,041
+So...
+
+106
+00:07:17,083 --> 00:07:19,083
+we are in
+law enforcement.
+
+107
+00:07:19,125 --> 00:07:20,166
+Right.
+
+108
+00:07:38,083 --> 00:07:40,166
+Geordi?
+Mm-hmm?
+
+109
+00:07:40,208 --> 00:07:42,250
+I have noticed that
+you have not shaved.
+
+110
+00:07:42,291 --> 00:07:44,583
+Are you attempting
+to grow another beard?
+
+111
+00:07:44,625 --> 00:07:46,291
+Matter of fact,
+I am, Data.
+
+112
+00:07:46,333 --> 00:07:47,583
+What do you think?
+
+113
+00:07:49,000 --> 00:07:51,458
+As is the case with many
+natural growth processes
+
+114
+00:07:51,500 --> 00:07:53,542
+it is difficult
+to envision the
+end product
+
+115
+00:07:53,583 --> 00:07:56,000
+based on an
+intermediate stage.
+
+116
+00:07:56,041 --> 00:07:57,291
+You're right.
+
+117
+00:07:57,333 --> 00:07:58,917
+Give it
+a few more days.
+
+118
+00:08:00,625 --> 00:08:01,709
+Okay, I'm going to
+need to access
+
+119
+00:08:01,750 --> 00:08:03,083
+your auxiliary inputs.
+
+120
+00:08:04,750 --> 00:08:05,917
+One moment.
+
+121
+00:08:10,333 --> 00:08:11,500
+I must admit, Data.
+
+122
+00:08:11,542 --> 00:08:14,083
+I never get used
+to seeing you like this.
+
+123
+00:08:14,125 --> 00:08:16,125
+I do not understand.
+
+124
+00:08:16,166 --> 00:08:19,291
+You are constantly working
+on similar electronic systems
+
+125
+00:08:19,333 --> 00:08:21,208
+yet their appearances
+do not disturb you.
+
+126
+00:08:22,709 --> 00:08:24,667
+Yeah, but you're not just
+another electronic system.
+
+127
+00:08:26,291 --> 00:08:28,083
+Thank you, Geordi.
+
+128
+00:08:28,125 --> 00:08:30,709
+Nor are you just another
+biological organism.
+
+129
+00:08:32,458 --> 00:08:34,041
+All right,
+that should do it.
+
+130
+00:08:34,083 --> 00:08:35,041
+You ready?
+
+131
+00:08:35,083 --> 00:08:36,667
+Yes.
+
+132
+00:08:36,709 --> 00:08:38,500
+Establishing
+computer linkup.
+
+133
+00:08:43,333 --> 00:08:45,041
+Interface complete.
+
+134
+00:08:45,083 --> 00:08:47,333
+All right,
+let's see what you can do.
+
+135
+00:08:54,625 --> 00:08:55,792
+(<i> whistle</i> )
+
+136
+00:09:04,417 --> 00:09:06,458
+You wrote this
+holodeck program yourself?
+
+137
+00:09:06,500 --> 00:09:09,041
+Well, Mr. Barclay
+helped a little.
+
+138
+00:09:13,750 --> 00:09:16,208
+I must have a little talk
+with Mr. Barclay.
+
+139
+00:09:16,250 --> 00:09:17,250
+(<i> gunshot</i> )
+
+140
+00:09:17,291 --> 00:09:19,417
+(<i> dog barking</i> )
+
+141
+00:09:19,458 --> 00:09:22,667
+(<i> playing jaunty melody</i> )
+
+142
+00:09:22,709 --> 00:09:24,875
+(<i> indistinct conversation</i> )
+
+143
+00:09:28,291 --> 00:09:30,625
+If ever I find the varmint
+that drew this
+
+144
+00:09:30,667 --> 00:09:33,583
+he'll be sorry
+he ever put pen to paper.
+
+145
+00:09:33,625 --> 00:09:35,250
+I'm ten times uglier
+than that, ain't I?
+
+146
+00:09:35,291 --> 00:09:37,875
+(<i> laughing loudly</i> )
+
+147
+00:09:37,917 --> 00:09:39,667
+Shut up.
+
+148
+00:09:39,709 --> 00:09:41,041
+You laugh so much,
+it's a wonder
+
+149
+00:09:41,083 --> 00:09:42,709
+you ain't got
+flies in your mouth.
+
+150
+00:09:42,750 --> 00:09:44,667
+(<i> laughing</i> )
+
+151
+00:09:48,750 --> 00:09:50,959
+You're a very funny man,
+Señor Eli.
+
+152
+00:09:54,834 --> 00:09:56,083
+That's the bad guy.
+
+153
+00:09:56,125 --> 00:09:58,000
+His name's
+Eli Hollander.
+
+154
+00:09:58,041 --> 00:10:00,417
+They call him
+"The Butcher of Bozeman."
+
+155
+00:10:00,458 --> 00:10:02,333
+He's killed 23 men.
+
+156
+00:10:02,375 --> 00:10:04,875
+He's the meanest and
+the toughest gunslinger
+
+157
+00:10:04,917 --> 00:10:06,417
+in the West.
+
+158
+00:10:06,458 --> 00:10:08,500
+You have to watch
+him-- he's fast.
+
+159
+00:10:08,542 --> 00:10:10,417
+So I am here
+to apprehend him?
+
+160
+00:10:10,458 --> 00:10:11,834
+If you can.
+
+161
+00:10:11,875 --> 00:10:14,959
+(<i> piano music continues</i> )
+
+162
+00:10:21,458 --> 00:10:22,500
+You are under arrest.
+
+163
+00:10:24,583 --> 00:10:25,750
+Is that so?
+
+164
+00:10:30,917 --> 00:10:32,792
+WOMAN:
+Sakes alive!
+Did you see that?
+
+165
+00:10:37,083 --> 00:10:38,375
+You will come with me.
+
+166
+00:10:40,250 --> 00:10:41,750
+No, no, no.
+
+167
+00:10:43,000 --> 00:10:45,166
+Computer, freeze program.
+
+168
+00:10:47,250 --> 00:10:48,709
+What is wrong?
+
+169
+00:10:48,750 --> 00:10:50,250
+That was too easy.
+
+170
+00:10:50,291 --> 00:10:52,750
+It has to be
+harder to beat
+the bad guys.
+
+171
+00:10:52,792 --> 00:10:55,542
+Otherwise,
+it's no fun.
+
+172
+00:10:55,583 --> 00:10:59,709
+Computer, increase program
+difficulty to level four.
+
+173
+00:10:59,750 --> 00:11:02,417
+Go back to where my
+father and I first walked
+
+174
+00:11:02,458 --> 00:11:03,709
+into the saloon.
+
+175
+00:11:06,208 --> 00:11:07,291
+Come on, Father.
+
+176
+00:11:13,709 --> 00:11:17,542
+(<i> plays piano flourish</i> )
+
+177
+00:11:17,583 --> 00:11:19,959
+(<i> same melody plays</i> )
+
+178
+00:11:22,959 --> 00:11:25,125
+If ever I find the varmint
+that drew this
+
+179
+00:11:25,166 --> 00:11:27,125
+he'll be sorry
+he ever put pen to paper.
+
+180
+00:11:28,500 --> 00:11:30,041
+I'm ten times uglier
+than that, ain't I?
+
+181
+00:11:30,083 --> 00:11:32,667
+(<i> laughing loudly</i> )
+
+182
+00:11:32,709 --> 00:11:34,625
+Shut up.
+
+183
+00:11:34,667 --> 00:11:35,875
+You laugh so much,
+it's a wonder
+
+184
+00:11:35,917 --> 00:11:37,625
+you ain't got
+flies in your mouth.
+
+185
+00:11:37,667 --> 00:11:39,500
+(<i> laughing</i> )
+
+186
+00:11:43,667 --> 00:11:45,792
+You're a very funny man,
+Señor Eli.
+
+187
+00:11:58,792 --> 00:12:00,208
+Where are they going?
+
+188
+00:12:00,250 --> 00:12:01,834
+They don't want to get
+hit by the bullets.
+
+189
+00:12:12,583 --> 00:12:14,500
+You... are under arrest.
+
+190
+00:12:15,792 --> 00:12:16,834
+Well...
+
+191
+00:12:18,959 --> 00:12:21,041
+Looks like Sheriff Worf's
+here to arrest me.
+
+192
+00:12:36,041 --> 00:12:37,709
+That don't sound like
+a bright idea...
+
+193
+00:12:49,041 --> 00:12:50,083
+...do it?
+
+194
+00:12:51,166 --> 00:12:52,333
+(<i> cocking rifle</i> )
+
+195
+00:12:54,333 --> 00:12:57,375
+You have been accused
+of committing a homicide.
+
+196
+00:12:57,417 --> 00:12:59,875
+If you mean murder
+
+197
+00:12:59,917 --> 00:13:01,208
+then I guess
+I'm guilty.
+
+198
+00:13:03,458 --> 00:13:05,208
+I've killed 23 men,
+Sheriff.
+
+199
+00:13:07,500 --> 00:13:09,500
+One more ain't going to make
+much of a difference.
+
+200
+00:13:10,834 --> 00:13:15,041
+Of course, shooting
+someone as ugly as you
+
+201
+00:13:15,083 --> 00:13:16,542
+couldn't be considered
+a crime, could it?
+
+202
+00:13:18,333 --> 00:13:20,625
+Was you born that way
+
+203
+00:13:20,667 --> 00:13:22,417
+or did your mama marry
+an armadillo?
+
+204
+00:13:22,458 --> 00:13:24,208
+(<i> laughing loudly</i> )
+
+205
+00:13:25,375 --> 00:13:26,458
+Sheriff, look out!
+
+206
+00:13:40,542 --> 00:13:43,166
+I'm beginning to see
+the appeal of this program.
+
+207
+00:13:43,208 --> 00:13:45,750
+Don't twitch
+a whisker, Sheriff,
+
+208
+00:13:45,792 --> 00:13:47,166
+'less you want
+a shave.
+
+209
+00:13:52,583 --> 00:13:54,667
+Okay, boys.
+
+210
+00:13:54,709 --> 00:13:56,375
+Saddle up!
+
+211
+00:13:56,417 --> 00:13:57,834
+But first...
+
+212
+00:13:59,000 --> 00:14:00,750
+get their
+money and jewelry.
+
+213
+00:14:00,792 --> 00:14:03,125
+You are a
+murderer<i> and</i> a thief.
+
+214
+00:14:06,917 --> 00:14:08,709
+A man's got to
+make a living.
+
+215
+00:14:08,750 --> 00:14:10,458
+(<i> gunshot</i> )
+
+216
+00:14:10,500 --> 00:14:13,792
+(<i> drawls</i> ):
+I suggest you find
+a new line of work.
+
+217
+00:14:17,750 --> 00:14:20,041
+I asked Counselor Troi
+to join us.
+
+218
+00:14:20,083 --> 00:14:22,041
+She loves
+Western stories.
+
+219
+00:14:22,083 --> 00:14:23,792
+You'll regret this,
+stranger.
+
+220
+00:14:33,375 --> 00:14:36,458
+I am now attempting to access
+the long-range sensor array.
+
+221
+00:14:39,625 --> 00:14:41,583
+Forward sensor array
+coming on line.
+
+222
+00:14:43,041 --> 00:14:45,333
+We're getting
+a clear scan.
+
+223
+00:14:45,375 --> 00:14:48,000
+I will perform
+a routine maintenance check
+
+224
+00:14:48,041 --> 00:14:50,542
+on the starboard inertial
+damping system.
+
+225
+00:14:50,583 --> 00:14:52,417
+Dampers on line.
+
+226
+00:14:52,458 --> 00:14:55,083
+Maintenance check
+in progress.
+
+227
+00:14:55,125 --> 00:14:57,166
+Data, I think we're
+onto something here.
+
+228
+00:14:57,208 --> 00:14:58,542
+Let's see what
+you can do
+
+229
+00:14:58,583 --> 00:14:59,792
+with the secondary systems.
+
+230
+00:14:59,834 --> 00:15:02,500
+Try gravitational
+control.
+
+231
+00:15:02,542 --> 00:15:03,834
+Initiating gravit...
+
+232
+00:15:06,750 --> 00:15:08,458
+What's wrong?
+
+233
+00:15:08,500 --> 00:15:10,458
+There appears to be
+an energy fluctuation
+
+234
+00:15:10,500 --> 00:15:12,583
+in my neural net.
+
+235
+00:15:12,625 --> 00:15:14,917
+I am disconnecting my
+interface to the computer.
+
+236
+00:15:18,625 --> 00:15:19,917
+Interface deactivated.
+
+237
+00:15:24,709 --> 00:15:26,083
+You all right?
+
+238
+00:15:26,125 --> 00:15:27,875
+I have experienced
+a brief power surge
+
+239
+00:15:27,917 --> 00:15:31,333
+in my positronic subprocessor,
+but I am fine.
+
+240
+00:15:33,792 --> 00:15:35,750
+Maybe the
+interface coding
+
+241
+00:15:35,792 --> 00:15:37,417
+isn't as stable
+as we thought.
+
+242
+00:15:40,125 --> 00:15:41,333
+Looks like we've got
+
+243
+00:15:41,375 --> 00:15:42,667
+a couple of hours
+of systems analysis
+
+244
+00:15:42,709 --> 00:15:44,208
+before we can
+try this again.
+
+245
+00:15:45,583 --> 00:15:47,083
+Let's check
+the interface programming.
+
+246
+00:16:11,083 --> 00:16:12,917
+What are his rights
+in this century?
+
+247
+00:16:12,959 --> 00:16:17,000
+Is there a trial,
+or shall I execute him?
+
+248
+00:16:17,041 --> 00:16:20,125
+We're supposed to
+hold him till the
+U.S. marshal comes.
+
+249
+00:16:20,166 --> 00:16:23,291
+And then we'll
+take him to Rapid
+City for a trial.
+
+250
+00:16:23,333 --> 00:16:25,542
+Frankly, I don't think
+
+251
+00:16:25,583 --> 00:16:27,959
+I'll be around here
+that long.
+
+252
+00:16:28,000 --> 00:16:29,959
+Not after my old man
+hears about this.
+
+253
+00:16:31,542 --> 00:16:34,125
+What "old man" are you
+referring to?
+
+254
+00:16:36,458 --> 00:16:38,291
+My pa.
+
+255
+00:16:38,333 --> 00:16:41,041
+When he breaks me out
+of this tin can
+
+256
+00:16:41,083 --> 00:16:42,875
+gravedigger will
+be working overtime.
+
+257
+00:16:44,125 --> 00:16:46,583
+Your pa is no match
+for Sheriff Worf.
+
+258
+00:16:46,625 --> 00:16:50,125
+Yes, when your "pa" comes,
+we will be ready for him.
+
+259
+00:16:51,667 --> 00:16:54,125
+(<i> chuckles</i> ):
+Yeah.
+
+260
+00:16:54,166 --> 00:16:55,333
+TROI:
+He's right.
+
+261
+00:16:59,917 --> 00:17:01,583
+You're no match
+for the Hollanders.
+
+262
+00:17:05,208 --> 00:17:08,333
+I'm sure that the three of us
+can handle any problems.
+
+263
+00:17:08,375 --> 00:17:09,875
+Hold on.
+
+264
+00:17:09,917 --> 00:17:12,792
+I was just passing through
+town, saw a little trouble
+
+265
+00:17:12,834 --> 00:17:14,667
+and thought I'd lend a hand.
+
+266
+00:17:14,709 --> 00:17:16,667
+But I ain't one of
+your deputies, Sheriff.
+
+267
+00:17:20,375 --> 00:17:22,875
+Counselor, I would appreciate
+some support in this matter.
+
+268
+00:17:24,125 --> 00:17:25,208
+Durango!
+
+269
+00:17:25,250 --> 00:17:26,750
+I'm called Durango.
+
+270
+00:17:26,792 --> 00:17:29,458
+Yes, uh, Counselor Durango.
+
+271
+00:17:29,500 --> 00:17:30,625
+Perhaps
+you would consider
+
+272
+00:17:30,667 --> 00:17:32,083
+becoming a temporary deputy.
+
+273
+00:17:36,000 --> 00:17:37,041
+For a price.
+
+274
+00:17:41,417 --> 00:17:43,333
+$500.
+
+275
+00:17:46,792 --> 00:17:49,500
+Alexander, we require
+large amounts of currency.
+
+276
+00:17:49,542 --> 00:17:50,750
+Yes, sir.
+
+277
+00:17:50,792 --> 00:17:52,250
+I'll go to the bank
+and make a withdrawal.
+
+278
+00:17:56,917 --> 00:17:59,709
+Deanna, how do you know
+so much about this period
+
+279
+00:17:59,750 --> 00:18:01,750
+in Earth's history?
+
+280
+00:18:01,792 --> 00:18:03,583
+My father used to
+read me stories
+
+281
+00:18:03,625 --> 00:18:06,208
+from the ancient West
+when I was a little girl.
+
+282
+00:18:06,250 --> 00:18:09,542
+I must admit,
+I always wanted
+to play the part
+
+283
+00:18:09,583 --> 00:18:12,500
+of the "mysterious stranger."
+
+284
+00:18:20,583 --> 00:18:21,875
+Oh!
+
+285
+00:18:23,500 --> 00:18:25,500
+You are so brave.
+
+286
+00:18:25,542 --> 00:18:27,250
+Facing down
+that evil man
+
+287
+00:18:27,291 --> 00:18:28,500
+like you did.
+
+288
+00:18:29,667 --> 00:18:32,083
+Why, thank you,
+Miss...?
+
+289
+00:18:32,125 --> 00:18:34,041
+Annie, you big galoot!
+
+290
+00:18:34,083 --> 00:18:35,959
+You best not forget
+that tonight
+
+291
+00:18:36,000 --> 00:18:38,125
+'cause I'm going to
+make you a beefsteak
+
+292
+00:18:38,166 --> 00:18:40,834
+and some gooseberry
+cobbler for dessert.
+
+293
+00:18:40,875 --> 00:18:42,250
+Sounds delicious.
+
+294
+00:18:43,417 --> 00:18:45,709
+And I bought
+some special candles
+
+295
+00:18:45,750 --> 00:18:51,041
+for the table setting--
+pure beeswax.
+
+296
+00:18:51,083 --> 00:18:53,709
+I will not be able
+to come this evening.
+
+297
+00:18:53,750 --> 00:18:55,750
+I have a prisoner.
+
+298
+00:18:55,792 --> 00:18:57,792
+I'll keep an eye on him
+for you, Sheriff.
+
+299
+00:18:57,834 --> 00:18:59,667
+You two go have
+a good time.
+
+300
+00:18:59,709 --> 00:19:01,417
+That's very
+considerate of you
+
+301
+00:19:01,458 --> 00:19:04,458
+but I would be negligent
+in my duties if I did not stay.
+
+302
+00:19:04,500 --> 00:19:06,500
+I am sorry, Ms. Annie.
+
+303
+00:19:07,875 --> 00:19:09,709
+It's another woman,
+ain't it?
+
+304
+00:19:09,750 --> 00:19:11,375
+It's that
+floozy down there
+
+305
+00:19:11,417 --> 00:19:13,083
+at Miss Langford's
+House of Pleasure!
+
+306
+00:19:13,125 --> 00:19:14,208
+Who?
+
+307
+00:19:21,417 --> 00:19:23,291
+You sure got a way
+with women, Sheriff.
+
+308
+00:19:25,959 --> 00:19:27,250
+(<i> coughs</i> )
+
+309
+00:19:37,041 --> 00:19:40,208
+Computer, activate
+Picard Mozart Trio, Program 1.
+
+310
+00:19:41,709 --> 00:19:43,875
+Play back tracks one,
+two and three.
+
+311
+00:19:45,500 --> 00:19:46,834
+Tempo allegro.
+
+312
+00:19:48,458 --> 00:19:51,208
+(<i> music begins</i> )
+
+313
+00:19:56,917 --> 00:19:59,709
+(<i> sound glitches</i> )
+
+314
+00:19:59,750 --> 00:20:01,500
+(<i> tape fast-forwarding</i> )
+
+315
+00:20:01,542 --> 00:20:04,250
+(<i> "The Slavonic Dances"</i>
+<i>plays loudly</i> )
+
+316
+00:20:06,750 --> 00:20:07,834
+Computer, stop playback.
+
+317
+00:20:10,959 --> 00:20:12,959
+Computer, identify
+musical composition.
+
+318
+00:20:13,000 --> 00:20:16,291
+Picard Mozart Trio,
+Program 1.
+
+319
+00:20:22,625 --> 00:20:24,166
+Okay.
+
+320
+00:20:29,583 --> 00:20:32,375
+Let's work through act two
+from the beginning.
+
+321
+00:20:42,041 --> 00:20:43,083
+Whenever you're ready.
+
+322
+00:20:45,208 --> 00:20:46,458
+(<i> clearing throat</i> )
+
+323
+00:20:50,041 --> 00:20:54,166
+<i>"Felis catus</i> is your
+taxonomic nomenclature.
+
+324
+00:20:54,208 --> 00:20:56,041
+"An endothermic quadruped
+
+325
+00:20:56,083 --> 00:20:57,250
+carnivorous
+by nature..."
+
+326
+00:20:57,291 --> 00:20:58,250
+Hold it.
+
+327
+00:20:58,291 --> 00:21:00,500
+Will, what are
+you reading?
+
+328
+00:21:00,542 --> 00:21:02,208
+The lines. Why?
+
+329
+00:21:02,250 --> 00:21:03,750
+That's not
+the right dialogue.
+
+330
+00:21:07,834 --> 00:21:09,625
+"Your visual, olfactory,
+and auditory senses
+
+331
+00:21:09,667 --> 00:21:11,000
+contribute to your..."
+I recognize it.
+
+332
+00:21:11,041 --> 00:21:12,375
+This is Data's poetry.
+
+333
+00:21:14,125 --> 00:21:15,500
+What?
+
+334
+00:21:18,542 --> 00:21:20,250
+The play's gone.
+
+335
+00:21:20,291 --> 00:21:21,750
+I just keep getting
+more poetry.
+
+336
+00:21:31,166 --> 00:21:34,750
+Well, the PADDs
+are functioning normally.
+
+337
+00:21:34,792 --> 00:21:35,917
+It seems to be a problem
+
+338
+00:21:35,959 --> 00:21:37,709
+with the information
+retrieval net.
+
+339
+00:21:37,750 --> 00:21:39,542
+Somehow, when you tried
+to call up your play
+
+340
+00:21:39,583 --> 00:21:42,041
+the computer accessed
+Data's literary files.
+
+341
+00:21:42,083 --> 00:21:43,625
+Geordi, perhaps
+this problem
+
+342
+00:21:43,667 --> 00:21:45,667
+is related to
+our interface experiment.
+
+343
+00:21:45,709 --> 00:21:47,542
+Hmm. We'd better run
+a level-2 diagnostic
+
+344
+00:21:47,583 --> 00:21:48,959
+on the computer
+to see if this problem
+
+345
+00:21:49,000 --> 00:21:50,500
+has spread
+to any other systems.
+
+346
+00:21:50,542 --> 00:21:52,125
+And I will perform
+a self-diagnostic.
+
+347
+00:21:52,166 --> 00:21:53,250
+That's a good idea.
+
+348
+00:22:00,458 --> 00:22:02,333
+You will let me know
+if you find the play?
+
+349
+00:22:02,375 --> 00:22:03,333
+Oh, yeah, don't worry.
+
+350
+00:22:03,375 --> 00:22:04,667
+It's in here
+somewhere.
+
+351
+00:22:18,834 --> 00:22:20,875
+(<i> muffled moaning</i> )
+
+352
+00:22:36,750 --> 00:22:37,875
+(<i> muffled gasp</i> )
+
+353
+00:22:39,041 --> 00:22:40,583
+We got him,<i> Jefe.</i>
+
+354
+00:22:45,583 --> 00:22:47,625
+Where's my boy?
+
+355
+00:22:47,667 --> 00:22:50,625
+I'm not supposed
+to be kidnapped now.
+
+356
+00:22:50,667 --> 00:22:52,458
+Computer, freeze program.
+
+357
+00:22:55,792 --> 00:22:56,750
+Hey!
+
+358
+00:22:56,792 --> 00:22:58,709
+Computer,
+freeze program.
+
+359
+00:23:00,625 --> 00:23:02,500
+You want us to kill him,
+Señor Frank?
+
+360
+00:23:03,667 --> 00:23:05,166
+No.
+
+361
+00:23:05,208 --> 00:23:07,875
+He's more
+valuable to us...
+
+362
+00:23:07,917 --> 00:23:09,000
+alive.
+
+363
+00:23:19,208 --> 00:23:21,291
+Feline supplement 127.
+
+364
+00:23:27,417 --> 00:23:30,792
+Spot, I have formulated
+a new mixture of foods
+
+365
+00:23:30,834 --> 00:23:33,458
+specifically designed for
+your highly selective tastes.
+
+366
+00:23:39,041 --> 00:23:40,208
+(<i> meowing</i> )
+
+367
+00:23:44,709 --> 00:23:46,041
+I find it extremely difficult
+
+368
+00:23:46,083 --> 00:23:47,917
+to predict what you
+will find acceptable.
+
+369
+00:23:49,792 --> 00:23:52,041
+Perhaps hunger will compel you
+to try it again.
+
+370
+00:24:02,458 --> 00:24:04,208
+(<i> meowing</i> )
+
+371
+00:24:04,250 --> 00:24:07,417
+Spot, you are disrupting
+my ability to work.
+
+372
+00:24:11,417 --> 00:24:12,834
+(<i> meowing</i> )
+
+373
+00:24:14,583 --> 00:24:16,333
+(<i> thick Texas drawl</i> ):
+Vamoose, ya little varmint!
+
+374
+00:24:22,000 --> 00:24:24,166
+(<i> plays tinkling melody</i> )
+
+375
+00:24:51,625 --> 00:24:53,625
+What'll it be?
+
+376
+00:24:53,667 --> 00:24:55,834
+I was looking
+for my deputy.
+
+377
+00:24:55,875 --> 00:24:57,792
+Perhaps you have
+seen him.
+
+378
+00:24:57,834 --> 00:24:59,792
+Nope.
+
+379
+00:24:59,834 --> 00:25:01,208
+What'll you have?
+
+380
+00:25:02,750 --> 00:25:05,291
+Um...
+
+381
+00:25:05,333 --> 00:25:06,792
+Klingon fire wine.
+
+382
+00:25:06,834 --> 00:25:08,500
+(<i> laughing</i> )
+
+383
+00:25:08,542 --> 00:25:10,875
+This ain't Kansas City.
+
+384
+00:25:10,917 --> 00:25:14,750
+We ain't got none of that
+fancy European stuff here.
+
+385
+00:25:16,125 --> 00:25:18,834
+Maybe I should
+get you a sherry.
+
+386
+00:25:18,875 --> 00:25:21,208
+Ain't that what
+they serve at
+Miss Langford's?
+
+387
+00:25:21,250 --> 00:25:22,792
+It is, ain't it?
+
+388
+00:25:22,834 --> 00:25:24,458
+Ain't it?
+
+389
+00:25:24,500 --> 00:25:25,709
+Humph.
+
+390
+00:25:27,709 --> 00:25:30,083
+(<i> footsteps approaching</i> )
+
+391
+00:25:31,625 --> 00:25:34,250
+(<i> dog barking</i> )
+
+392
+00:25:34,291 --> 00:25:35,875
+(<i> music stops</i> )
+
+393
+00:25:44,667 --> 00:25:46,375
+Howdy, Sheriff.
+
+394
+00:25:46,417 --> 00:25:48,834
+Commander.
+What are you doing here?
+
+395
+00:25:48,875 --> 00:25:50,458
+The name is
+Frank Hollander.
+
+396
+00:25:53,208 --> 00:25:54,333
+What are you
+looking at?
+
+397
+00:25:56,250 --> 00:25:57,250
+Nothing.
+
+398
+00:25:57,291 --> 00:25:58,917
+Nothing at all,
+Mr. Hollander.
+
+399
+00:26:03,417 --> 00:26:04,625
+What do you want?
+
+400
+00:26:05,917 --> 00:26:06,959
+My boy.
+
+401
+00:26:14,000 --> 00:26:15,500
+That is impossible.
+
+402
+00:26:15,542 --> 00:26:18,375
+Your son is to stand trial
+for murder.
+
+403
+00:26:18,417 --> 00:26:19,750
+Well, then
+
+404
+00:26:19,792 --> 00:26:21,250
+we'll just have
+to work something out.
+
+405
+00:26:23,333 --> 00:26:26,500
+Is there anything
+you... want
+
+406
+00:26:26,542 --> 00:26:28,166
+in exchange
+for my boy?
+
+407
+00:26:29,750 --> 00:26:31,625
+<i>You</i> have nothing I want.
+
+408
+00:26:33,291 --> 00:26:34,417
+Is that so?
+
+409
+00:26:37,291 --> 00:26:38,625
+Is that so?
+
+410
+00:26:41,583 --> 00:26:43,583
+What about your...
+deputy?
+
+411
+00:26:48,208 --> 00:26:49,333
+What about him?
+
+412
+00:26:53,375 --> 00:26:54,458
+Where is he?
+
+413
+00:26:57,291 --> 00:26:59,458
+I do not negotiate
+with criminals.
+
+414
+00:27:02,875 --> 00:27:04,375
+Your son<i> will</i> stand trial.
+
+415
+00:27:05,667 --> 00:27:07,125
+Not so fast.
+(<i> yelps</i> )
+
+416
+00:27:09,208 --> 00:27:11,041
+Commander, what
+are you doing?
+
+417
+00:27:11,083 --> 00:27:12,834
+I ain't in the mood
+for games, Sheriff.
+
+418
+00:27:16,208 --> 00:27:17,291
+Commander?
+
+419
+00:27:19,834 --> 00:27:21,041
+Computer, freeze program.
+
+420
+00:27:28,834 --> 00:27:31,208
+I wouldn't walk out that door
+if I was you, Sheriff.
+
+421
+00:27:51,542 --> 00:27:52,959
+(<i> door opening</i> )
+
+422
+00:27:53,000 --> 00:27:54,083
+What's wrong?
+
+423
+00:27:56,667 --> 00:27:58,792
+The holodeck safeguards
+are not functioning.
+
+424
+00:28:01,000 --> 00:28:02,250
+Alexander's in trouble.
+
+425
+00:28:04,375 --> 00:28:05,917
+My God!
+You've been shot.
+
+426
+00:28:09,041 --> 00:28:10,417
+Computer, end program.
+
+427
+00:28:13,709 --> 00:28:15,041
+Troi to Captain Picard.
+
+428
+00:28:16,709 --> 00:28:17,959
+Troi to security.
+
+429
+00:28:20,333 --> 00:28:22,875
+There's another
+character in
+the program--
+
+430
+00:28:22,917 --> 00:28:24,458
+Hollander's father.
+
+431
+00:28:24,500 --> 00:28:26,291
+And he looks like
+Commander Data.
+
+432
+00:28:26,333 --> 00:28:27,458
+Data?!
+
+433
+00:28:27,500 --> 00:28:28,750
+But it is not
+Data.
+
+434
+00:28:28,792 --> 00:28:30,750
+I-I cannot explain.
+
+435
+00:28:30,792 --> 00:28:33,208
+I believe he has
+taken Alexander.
+
+436
+00:28:35,625 --> 00:28:38,458
+ELI:
+Aw, now, isn't
+that a shame?
+
+437
+00:28:39,542 --> 00:28:42,792
+Poor Sheriff's
+been injured.
+
+438
+00:28:42,834 --> 00:28:44,542
+What's the matter?
+
+439
+00:28:44,583 --> 00:28:47,125
+Was my pa
+a little too rough on ya?
+
+440
+00:28:47,166 --> 00:28:48,875
+(<i> laughing</i> )
+
+441
+00:28:54,709 --> 00:28:56,542
+Data?
+
+442
+00:28:56,583 --> 00:28:58,083
+What?
+
+443
+00:28:59,458 --> 00:29:01,166
+Why is the computer
+creating characters
+
+444
+00:29:01,208 --> 00:29:02,625
+that look like Data?
+
+445
+00:29:07,875 --> 00:29:09,208
+Where have they
+taken my son?
+
+446
+00:29:11,250 --> 00:29:12,417
+Where is he?
+
+447
+00:29:12,458 --> 00:29:15,625
+Temper, temper, Sheriff.
+
+448
+00:29:15,667 --> 00:29:19,041
+My pa ain't going to
+like it if I come
+home all bruised.
+
+449
+00:29:19,083 --> 00:29:20,166
+Worf, wait!
+
+450
+00:29:30,041 --> 00:29:31,750
+We have to remember--
+even though
+
+451
+00:29:31,792 --> 00:29:33,709
+the holodeck
+safeguards
+may be off
+
+452
+00:29:33,750 --> 00:29:35,750
+this is still
+a program.
+
+453
+00:29:35,792 --> 00:29:37,834
+If we can just
+get to the end
+of this story
+
+454
+00:29:37,875 --> 00:29:39,959
+the way it
+was designed
+to play out
+
+455
+00:29:40,000 --> 00:29:42,125
+the program will
+automatically
+terminate.
+
+456
+00:29:47,333 --> 00:29:49,208
+You are right.
+
+457
+00:29:49,250 --> 00:29:52,333
+I will begin by speaking
+to the people of this town.
+
+458
+00:29:52,375 --> 00:29:54,333
+Perhaps somebody witnessed
+Alexander's abduction.
+
+459
+00:30:02,375 --> 00:30:04,083
+<i>Captain's Log, supplemental.</i>
+
+460
+00:30:04,125 --> 00:30:06,542
+<i>Commander La Forge and Mr. Data</i>
+<i>believe they have found</i>
+
+461
+00:30:06,583 --> 00:30:09,208
+<i>the cause</i>
+<i>of the mysterious malfunctions</i>
+
+462
+00:30:09,250 --> 00:30:11,083
+<i>which have been plaguing</i>
+<i>the ship.</i>
+
+463
+00:30:12,709 --> 00:30:14,917
+We think our interface
+experiment may have caused
+
+464
+00:30:14,959 --> 00:30:17,792
+one of the computer's
+core subroutines
+to be altered.
+
+465
+00:30:17,834 --> 00:30:19,208
+When the interface
+malfunction occurred
+
+466
+00:30:19,250 --> 00:30:21,166
+subroutine C-47
+was replaced
+
+467
+00:30:21,208 --> 00:30:23,542
+by elements
+from my personal programming.
+
+468
+00:30:23,583 --> 00:30:25,542
+What does C-47 control?
+
+469
+00:30:25,583 --> 00:30:28,125
+Library computer access,
+replicator selection
+
+470
+00:30:28,166 --> 00:30:30,792
+recreational programming.
+No critical systems.
+
+471
+00:30:30,834 --> 00:30:33,000
+That would explain why
+your music composition program
+
+472
+00:30:33,041 --> 00:30:35,291
+began playing
+"The Slavonic Dances."
+
+473
+00:30:35,333 --> 00:30:36,417
+I have been analyzing
+
+474
+00:30:36,458 --> 00:30:38,500
+the collected works
+of Anton Dvorak.
+
+475
+00:30:38,542 --> 00:30:40,542
+It's the same with
+Dr. Crusher's play
+
+476
+00:30:40,583 --> 00:30:42,166
+and with the food
+replicators.
+
+477
+00:30:42,208 --> 00:30:43,542
+The replicators
+on decks four through nine
+
+478
+00:30:43,583 --> 00:30:45,125
+are producing nothing
+but cat food.
+
+479
+00:30:46,625 --> 00:30:47,875
+Cat food?
+
+480
+00:30:47,917 --> 00:30:49,083
+I have been formulating
+
+481
+00:30:49,125 --> 00:30:51,166
+nutritional supplements
+for Spot.
+
+482
+00:30:51,208 --> 00:30:53,792
+Oh... when can you
+correct the problem?
+
+483
+00:30:53,834 --> 00:30:55,333
+We are currently attempting
+to isolate
+
+484
+00:30:55,375 --> 00:30:57,667
+the corrupted
+circuit pathways.
+
+485
+00:30:57,709 --> 00:30:59,208
+I reckon the process
+should take
+
+486
+00:30:59,250 --> 00:31:00,750
+less than two hours.
+
+487
+00:31:00,792 --> 00:31:02,333
+What did you say?
+
+488
+00:31:02,375 --> 00:31:05,291
+I said the process should
+take less than two hours.
+
+489
+00:31:05,333 --> 00:31:07,250
+No. You said,
+"I reckon."
+
+490
+00:31:09,792 --> 00:31:12,500
+According to my memory logs,
+I did not use those words.
+
+491
+00:31:12,542 --> 00:31:14,709
+(<i> drawls</i> ):
+Y'all must be mistaken.
+
+492
+00:31:14,750 --> 00:31:17,000
+There, Data,
+you did it again.
+
+493
+00:31:17,041 --> 00:31:18,792
+(<i> drawls</i> ):
+Did what?
+
+494
+00:31:18,834 --> 00:31:21,208
+Uh... Mr. La Forge
+
+495
+00:31:21,250 --> 00:31:23,458
+perhaps you should take
+Mr. Data to engineering.
+
+496
+00:31:23,500 --> 00:31:24,875
+See if you can
+find the problem.
+
+497
+00:31:24,917 --> 00:31:26,000
+Aye, sir.
+
+498
+00:31:45,083 --> 00:31:46,667
+(<i> sighing</i> )
+
+499
+00:31:47,834 --> 00:31:52,333
+(<i> cards shuffling</i> )
+
+500
+00:31:52,375 --> 00:31:53,875
+(<i> tapping</i> )
+
+501
+00:32:14,583 --> 00:32:16,500
+Can I help you
+with something?
+
+502
+00:32:19,583 --> 00:32:20,917
+(<i> knocking</i> )
+
+503
+00:32:27,250 --> 00:32:28,291
+I spoke
+to several witnesses
+
+504
+00:32:28,333 --> 00:32:29,792
+who saw Alexander
+being abducted
+
+505
+00:32:29,834 --> 00:32:33,208
+as he was leaving the bank
+by one of Hollander's men.
+
+506
+00:32:33,250 --> 00:32:35,959
+We must begin a systematic
+search of the town.
+
+507
+00:32:36,000 --> 00:32:38,375
+Worf, we've got
+another problem.
+
+508
+00:32:38,417 --> 00:32:39,917
+I saw Eli playing cards.
+
+509
+00:32:39,959 --> 00:32:42,875
+He was shuffling
+the way Data does
+when he plays poker.
+
+510
+00:32:42,917 --> 00:32:44,917
+He doesn't just
+<i>look</i> like Data.
+
+511
+00:32:44,959 --> 00:32:47,375
+He has Data's abilities
+
+512
+00:32:47,417 --> 00:32:50,125
+which means his father
+probably does also.
+
+513
+00:32:50,166 --> 00:32:51,709
+(<i> knocking</i> )
+
+514
+00:33:10,792 --> 00:33:12,458
+I come to see my boy.
+
+515
+00:33:13,875 --> 00:33:15,083
+Remove your weapon.
+
+516
+00:33:21,959 --> 00:33:24,333
+Better take a good look
+at that gun, Sheriff.
+
+517
+00:33:24,375 --> 00:33:26,834
+You might be
+seeing it again real soon.
+
+518
+00:33:26,875 --> 00:33:28,250
+Pa!
+
+519
+00:33:28,291 --> 00:33:29,375
+Eli!
+
+520
+00:33:34,709 --> 00:33:36,458
+How they
+treating you, boy?
+
+521
+00:33:36,500 --> 00:33:37,917
+Real bad, Pa.
+
+522
+00:33:37,959 --> 00:33:39,375
+Ain't fed me
+since I got here
+
+523
+00:33:39,417 --> 00:33:40,542
+and that sheriff's been
+
+524
+00:33:40,583 --> 00:33:43,291
+roughing up on me
+something fierce.
+
+525
+00:33:43,333 --> 00:33:45,375
+Don't you worry, boy.
+
+526
+00:33:45,417 --> 00:33:46,875
+Sheriff's
+going to pay.
+
+527
+00:33:48,875 --> 00:33:50,625
+(<i> whispers</i> ):
+Who's the stranger?
+
+528
+00:33:50,667 --> 00:33:51,750
+I don't know.
+
+529
+00:33:51,792 --> 00:33:53,417
+She ain't
+said her name
+
+530
+00:33:53,458 --> 00:33:55,208
+but she's in cahoots
+with the sheriff
+
+531
+00:33:55,250 --> 00:33:57,500
+and she's mighty mean
+with that Winchester.
+
+532
+00:33:59,041 --> 00:34:00,834
+You sit tight, boy.
+
+533
+00:34:00,875 --> 00:34:03,000
+I'll have you home
+in time for supper.
+
+534
+00:34:07,875 --> 00:34:11,375
+I'm going to give you
+one more opportunity, Sheriff,
+
+535
+00:34:11,417 --> 00:34:13,959
+to avoid a ugly situation.
+
+536
+00:34:15,667 --> 00:34:16,709
+Release my boy.
+
+537
+00:34:20,625 --> 00:34:22,750
+I have reconsidered
+your offer.
+
+538
+00:34:22,792 --> 00:34:25,542
+I will release your son
+in exchange for my deputy.
+
+539
+00:34:27,041 --> 00:34:29,000
+I thought you might have
+a change of heart.
+
+540
+00:34:30,291 --> 00:34:32,083
+Meet me in two hours.
+
+541
+00:34:32,125 --> 00:34:34,208
+You be in front of
+the saloon.
+
+542
+00:34:34,250 --> 00:34:36,000
+I'll be in front
+of the livery stable.
+
+543
+00:34:38,959 --> 00:34:40,291
+Strangers ain't invited.
+
+544
+00:34:44,583 --> 00:34:45,667
+Agreed.
+
+545
+00:35:03,291 --> 00:35:05,250
+In every Western
+I've ever read,
+
+546
+00:35:05,291 --> 00:35:07,166
+the villains always
+break their word.
+
+547
+00:35:07,208 --> 00:35:08,583
+He can't be trusted.
+
+548
+00:35:08,625 --> 00:35:10,208
+But we have made
+an honorable agreement.
+
+549
+00:35:11,917 --> 00:35:13,750
+They're not concerned
+with honor, Worf.
+
+550
+00:35:13,792 --> 00:35:15,875
+This is
+the ancient West.
+
+551
+00:35:15,917 --> 00:35:17,667
+There's a gunfighter
+out there
+
+552
+00:35:17,709 --> 00:35:20,375
+who has the speed and
+accuracy of an android...
+
+553
+00:35:22,250 --> 00:35:24,750
+... and in two hours, he's
+going to try to kill you.
+
+554
+00:35:42,750 --> 00:35:44,000
+Mr. Data.
+
+555
+00:35:44,041 --> 00:35:45,417
+Howdy, Commander.
+
+556
+00:35:46,917 --> 00:35:48,750
+Geordi, what
+have you found?
+
+557
+00:35:48,792 --> 00:35:52,417
+(<i> drawl</i> ):
+Well, we figure part
+of my memory structure
+
+558
+00:35:52,458 --> 00:35:53,959
+(<i> in normal voice</i> ):
+was replaced with information
+
+559
+00:35:54,000 --> 00:35:56,709
+from the computer's
+recreational database.
+
+560
+00:35:56,750 --> 00:35:58,083
+Specifically,
+the files relating
+
+561
+00:35:58,125 --> 00:36:00,333
+to the American
+19th-century West.
+
+562
+00:36:00,375 --> 00:36:02,166
+That would explain
+the accent.
+
+563
+00:36:02,208 --> 00:36:04,250
+You got it, pardner.
+
+564
+00:36:04,291 --> 00:36:06,792
+This is a result of the
+experimental interface?
+
+565
+00:36:06,834 --> 00:36:08,375
+I'm afraid so,
+but we've initiated
+
+566
+00:36:08,417 --> 00:36:10,625
+a progressive memory purge
+to restore Data's programming
+
+567
+00:36:10,667 --> 00:36:12,291
+to its original state.
+
+568
+00:36:12,333 --> 00:36:14,500
+He should be back to normal
+in a couple of hours.
+
+569
+00:36:14,542 --> 00:36:16,959
+And what about the computer's
+recreational database?
+
+570
+00:36:17,000 --> 00:36:18,583
+We've started a memory purge
+there, as well.
+
+571
+00:36:18,625 --> 00:36:20,166
+That should take
+another hour, maybe two.
+
+572
+00:36:23,125 --> 00:36:27,417
+Commander...
+you just sit tight.
+
+573
+00:36:27,458 --> 00:36:30,333
+We'll have this all fixed up
+in time for supper.
+
+574
+00:36:30,375 --> 00:36:31,458
+Good.
+
+575
+00:36:36,041 --> 00:36:37,083
+WORF:
+I will be positioned here
+
+576
+00:36:37,125 --> 00:36:38,583
+at the eastern end
+of the street.
+
+577
+00:36:38,625 --> 00:36:41,041
+Frank Hollander says
+he will approach
+from this end.
+
+578
+00:36:41,083 --> 00:36:44,208
+Now, when he reaches this point,
+he will be within range.
+
+579
+00:36:44,250 --> 00:36:46,166
+Understood.
+What about Alexander?
+
+580
+00:36:46,208 --> 00:36:48,417
+Well, there's a rain barrel
+in front of the saloon.
+
+581
+00:36:48,458 --> 00:36:49,834
+It should be enough
+to stop the bullets.
+
+582
+00:36:49,875 --> 00:36:51,208
+(<i> knocking</i> )
+
+583
+00:37:01,667 --> 00:37:03,750
+You would not believe
+what I went through
+
+584
+00:37:03,792 --> 00:37:04,875
+to get Old Man Newsome
+
+585
+00:37:04,917 --> 00:37:06,542
+to give up
+his telegraph machine.
+
+586
+00:37:11,625 --> 00:37:12,959
+Ah...
+
+587
+00:37:14,333 --> 00:37:16,291
+Excellent.
+
+588
+00:37:16,333 --> 00:37:19,750
+Lord knows why I keep risking
+my life for you, Sheriff.
+
+589
+00:37:22,000 --> 00:37:23,166
+(<i> clearing throat</i> )
+
+590
+00:37:27,750 --> 00:37:30,417
+Oh, yes, uh,
+thank you, Ms. Annie.
+
+591
+00:37:30,458 --> 00:37:31,792
+I'm in your debt.
+
+592
+00:37:33,959 --> 00:37:35,583
+(<i> clock chimes</i> )
+
+593
+00:37:45,667 --> 00:37:47,709
+I have connected
+the communicator's energy cell
+
+594
+00:37:47,750 --> 00:37:49,625
+to serve as the
+power source.
+
+595
+00:37:51,500 --> 00:37:53,583
+How long
+will the field last?
+
+596
+00:37:53,625 --> 00:37:55,458
+No more than
+15 seconds.
+
+597
+00:37:55,500 --> 00:37:57,208
+It is highly unstable.
+
+598
+00:37:57,250 --> 00:37:58,542
+Let's hope it's enough.
+
+599
+00:38:00,917 --> 00:38:02,583
+(<i> bird cawing</i> )
+
+600
+00:38:07,875 --> 00:38:10,166
+(<i> dog barking</i> )
+
+601
+00:38:21,917 --> 00:38:24,417
+(<i> spurs jangling</i> )
+
+602
+00:38:42,625 --> 00:38:45,041
+(<i> dog barking</i> )
+
+603
+00:39:54,792 --> 00:39:57,083
+Eli, get down!
+
+604
+00:39:57,125 --> 00:39:58,333
+Alexander!
+
+605
+00:40:13,166 --> 00:40:15,792
+Don't even think
+about it.
+
+606
+00:40:15,834 --> 00:40:16,959
+Señor Frank!
+
+607
+00:40:45,959 --> 00:40:48,458
+Go ahead, shoot me.
+
+608
+00:40:58,333 --> 00:41:00,333
+Do not show your face
+in this town again.
+
+609
+00:41:04,917 --> 00:41:05,959
+Let's go.
+
+610
+00:41:10,333 --> 00:41:12,208
+(<i> birds cawing</i> )
+
+611
+00:41:23,750 --> 00:41:24,792
+Father!
+
+612
+00:41:27,125 --> 00:41:28,667
+Are you all right?
+
+613
+00:41:28,709 --> 00:41:29,792
+Yes.
+
+614
+00:41:32,333 --> 00:41:33,750
+End program.
+
+615
+00:41:35,875 --> 00:41:38,000
+I don't understand this.
+
+616
+00:41:38,041 --> 00:41:39,834
+The story
+should be over.
+
+617
+00:41:39,875 --> 00:41:41,417
+What's left?
+
+618
+00:41:41,458 --> 00:41:43,083
+Computer, end program.
+
+619
+00:41:45,250 --> 00:41:46,458
+Sheriff!
+
+620
+00:41:55,625 --> 00:41:57,458
+You're as handy
+with a shootin' iron...
+
+621
+00:41:59,792 --> 00:42:01,458
+... as you are with a woman's
+heart.
+
+622
+00:42:02,709 --> 00:42:04,625
+Computer, end program.
+
+623
+00:42:10,417 --> 00:42:11,458
+Computer!
+
+624
+00:42:11,500 --> 00:42:12,625
+<i>Now!</i>
+
+625
+00:42:26,875 --> 00:42:30,458
+<i>Captain's Log,</i>
+<i>Stardate 46278.3.</i>
+
+626
+00:42:30,500 --> 00:42:32,542
+<i>Both Commander Data</i>
+<i>and the ship's computer</i>
+
+627
+00:42:32,583 --> 00:42:34,959
+<i>have been restored</i>
+<i>to normal operation.</i>
+
+628
+00:42:35,000 --> 00:42:37,125
+<i>Our rendezvous</i>
+<i>with the supply ship</i> Biko
+
+629
+00:42:37,166 --> 00:42:38,625
+<i>has proceeded as planned.</i>
+
+630
+00:42:52,625 --> 00:42:53,750
+Father...
+
+631
+00:42:57,792 --> 00:42:59,417
+after what happened
+
+632
+00:42:59,458 --> 00:43:00,542
+I guess
+you'll never want
+
+633
+00:43:00,583 --> 00:43:02,208
+to go back to
+the<i> ancient West.</i>
+
+634
+00:43:09,542 --> 00:43:12,375
+The town of Deadwood may
+face danger once again.
+
+635
+00:43:13,750 --> 00:43:16,959
+If they do, they will
+need a sheriff...
+
+636
+00:43:20,667 --> 00:43:21,709
+and a deputy.

@@ -1,0 +1,3576 @@
+1
+00:00:01,959 --> 00:00:06,417
+PICARD:
+<i>Captain's log,</i>
+<i>Stardate 42625.4.</i>
+
+2
+00:00:06,458 --> 00:00:08,750
+<i>We are entering orbit</i>
+<i>around the eighth planet</i>
+
+3
+00:00:08,792 --> 00:00:13,083
+<i>in this previously unmapped</i>
+<i>Theta 116 solar system.</i>
+
+4
+00:00:13,125 --> 00:00:15,291
+<i>We diverted from our</i>
+<i>scheduled course</i>
+
+5
+00:00:15,333 --> 00:00:17,208
+<i>when a passing Klingon cruiser</i>
+
+6
+00:00:17,250 --> 00:00:20,083
+<i>reported discovering</i>
+<i>pieces of a strange vessel</i>
+
+7
+00:00:20,125 --> 00:00:23,041
+<i>in the upper atmosphere</i>
+<i>of this planet.</i>
+
+8
+00:00:23,083 --> 00:00:25,166
+<i>We have come to investigate.</i>
+
+9
+00:00:25,208 --> 00:00:26,625
+Nasty.
+
+10
+00:00:26,667 --> 00:00:30,083
+Nitrogen, methane,
+liquid neon.
+
+11
+00:00:30,125 --> 00:00:33,917
+Surface temperature,
+-291 degrees Celsius.
+
+12
+00:00:33,959 --> 00:00:38,208
+Winds up to 312 meters
+per second.
+
+13
+00:00:38,250 --> 00:00:40,625
+Not exactly a
+vacation planet, huh?
+
+14
+00:00:40,667 --> 00:00:44,417
+Mm-mm, not unless you
+like ammonia tornados.
+
+15
+00:00:44,458 --> 00:00:46,250
+But I have found
+indications of debris
+
+16
+00:00:46,291 --> 00:00:47,959
+in an elliptical orbit.
+
+17
+00:00:48,000 --> 00:00:49,625
+RIKER:
+You keep me informed.
+
+18
+00:00:49,667 --> 00:00:51,875
+The sooner we find out what
+the Klingons think they saw,
+
+19
+00:00:51,917 --> 00:00:53,583
+the sooner we can get
+the hell out of here.
+
+20
+00:00:53,625 --> 00:00:55,583
+Sounds good to me.
+
+21
+00:00:58,792 --> 00:01:01,417
+(<i> shivers</i> )
+Nasty.
+
+22
+00:01:01,458 --> 00:01:02,834
+(<i> door chimes</i> )
+
+23
+00:01:02,875 --> 00:01:04,500
+Come.
+
+24
+00:01:08,959 --> 00:01:10,291
+Fermat's last theorem.
+
+25
+00:01:10,333 --> 00:01:11,959
+You're familiar
+with it?
+
+26
+00:01:12,000 --> 00:01:13,333
+Vaguely.
+
+27
+00:01:13,375 --> 00:01:14,750
+I spent too many
+math classes
+
+28
+00:01:14,792 --> 00:01:16,542
+daydreaming about
+being on a starship.
+
+29
+00:01:16,583 --> 00:01:18,083
+Mmm.
+
+30
+00:01:18,125 --> 00:01:21,000
+When Pierre de Fermat died,
+they found this equation
+
+31
+00:01:21,041 --> 00:01:23,250
+scrawled in the margin
+of his notes--
+
+32
+00:01:23,291 --> 00:01:26,125
+"X to the nth plus Y to
+the nth equals Z to the nth
+
+33
+00:01:26,166 --> 00:01:27,667
+where N is greater
+than two,"
+
+34
+00:01:27,709 --> 00:01:30,083
+which he said had no
+solution in whole numbers.
+
+35
+00:01:30,125 --> 00:01:35,500
+But, he also added this
+phrase, "remarkable proof."
+
+36
+00:01:35,542 --> 00:01:37,000
+Yeah, that's starting
+to come back to me.
+
+37
+00:01:37,041 --> 00:01:38,458
+There was no proof included.
+
+38
+00:01:38,500 --> 00:01:40,792
+Mm-hmm, and for
+800 years,
+
+39
+00:01:40,834 --> 00:01:42,500
+people have been
+trying to solve it.
+
+40
+00:01:42,542 --> 00:01:43,792
+Including you.
+
+41
+00:01:43,834 --> 00:01:45,417
+I find it stimulating.
+
+42
+00:01:45,458 --> 00:01:48,291
+Also, it puts things
+in perspective.
+
+43
+00:01:48,333 --> 00:01:51,959
+In our arrogance,
+we feel we are so advanced.
+
+44
+00:01:52,000 --> 00:01:55,000
+And yet, we cannot
+unravel a simple knot
+
+45
+00:01:55,041 --> 00:01:57,834
+tied by a part-time
+French mathematician
+
+46
+00:01:57,875 --> 00:02:02,041
+working alone
+without a computer.
+
+47
+00:02:02,083 --> 00:02:05,250
+Captain, we've detected some
+sort of debris in loose orbit.
+
+48
+00:02:05,291 --> 00:02:07,000
+Can you identify it?
+No, sir.
+
+49
+00:02:07,041 --> 00:02:09,417
+I suggest we beam a section
+aboard for analysis.
+
+50
+00:02:09,458 --> 00:02:11,458
+Make it so, Number One.
+
+51
+00:02:21,875 --> 00:02:24,041
+We've locked onto something
+with markings on it.
+
+52
+00:02:24,083 --> 00:02:25,041
+What sort
+of markings?
+
+53
+00:02:25,083 --> 00:02:27,959
+Uncertain.
+Energize.
+
+54
+00:02:52,375 --> 00:02:55,125
+We've got ourselves
+a little puzzle, Number One.
+
+55
+00:02:55,166 --> 00:02:57,542
+Yes, sir,
+I guess we have.
+
+56
+00:03:24,125 --> 00:03:28,750
+PICARD:
+<i>Space, the final frontier.</i>
+
+57
+00:03:28,792 --> 00:03:32,792
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+58
+00:03:32,834 --> 00:03:34,542
+<i>Its continuing mission--</i>
+
+59
+00:03:34,583 --> 00:03:38,709
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+60
+00:03:38,750 --> 00:03:43,208
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+61
+00:03:43,250 --> 00:03:47,458
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+62
+00:04:47,583 --> 00:04:49,125
+Analysis bears out
+that the object
+
+63
+00:04:49,166 --> 00:04:51,917
+was definitely
+terrestrial in origin
+
+64
+00:04:51,959 --> 00:04:53,667
+dated mid-21st century.
+
+65
+00:04:53,709 --> 00:04:56,208
+No, no.
+No Earth ship of that time
+
+66
+00:04:56,250 --> 00:04:58,291
+could have traveled
+out this far.
+
+67
+00:04:58,333 --> 00:05:00,709
+Nevertheless, that is
+what our tests indicate.
+
+68
+00:05:00,750 --> 00:05:02,750
+And the markings we
+discovered are consistent
+
+69
+00:05:02,792 --> 00:05:04,250
+with this hypothesis.
+
+70
+00:05:04,291 --> 00:05:07,000
+Any indication
+of what destroyed it, Data?
+
+71
+00:05:07,041 --> 00:05:08,834
+That is even
+more significant
+
+72
+00:05:08,875 --> 00:05:10,750
+than the object itself,
+Counselor.
+
+73
+00:05:10,792 --> 00:05:12,291
+On several of
+its surfaces,
+
+74
+00:05:12,333 --> 00:05:14,333
+the molecules seem to
+have disintegrated.
+
+75
+00:05:14,375 --> 00:05:16,375
+Disintegrated how?
+
+76
+00:05:16,417 --> 00:05:20,458
+Almost as if they were hit
+by a weapon from our time.
+
+77
+00:05:20,500 --> 00:05:23,375
+Curiouser
+and curiouser.
+
+78
+00:05:23,417 --> 00:05:25,000
+WESLEY:
+Captain, we've detected
+
+79
+00:05:25,041 --> 00:05:27,417
+a large structure
+on the planet.
+
+80
+00:05:30,625 --> 00:05:32,750
+WESLEY:
+It's a building of some sort,
+
+81
+00:05:32,792 --> 00:05:35,417
+situated on a plane
+of frozen methane
+
+82
+00:05:35,458 --> 00:05:38,333
+smack in the middle of a
+tremendous storm belt.
+
+83
+00:05:38,375 --> 00:05:39,750
+I don't believe this.
+
+84
+00:05:39,792 --> 00:05:41,709
+That structure is surrounded
+with breathable air.
+
+85
+00:05:41,750 --> 00:05:43,667
+Is there any connection
+between that structure
+
+86
+00:05:43,709 --> 00:05:45,291
+and the ship fragment
+that we found?
+
+87
+00:05:45,333 --> 00:05:47,750
+Unknown, sir.
+
+88
+00:05:47,792 --> 00:05:49,417
+Suggestions?
+
+89
+00:05:49,458 --> 00:05:52,041
+Well just one, sir-- we can go
+down there and have a look.
+
+90
+00:05:52,083 --> 00:05:53,375
+Breathable air.
+
+91
+00:05:53,417 --> 00:05:55,500
+No life forms that
+might be dangerous.
+
+92
+00:05:55,542 --> 00:05:57,000
+I think we could risk
+
+93
+00:05:57,041 --> 00:05:59,125
+a minimal away team,
+Number One.
+
+94
+00:06:00,834 --> 00:06:02,375
+Give me a moment, gents,
+we're dealing with
+
+95
+00:06:02,417 --> 00:06:04,792
+an extremely
+narrow access point.
+
+96
+00:06:07,000 --> 00:06:09,083
+Phasers on stun.
+
+97
+00:06:11,125 --> 00:06:13,417
+Ready when you are.
+
+98
+00:06:13,458 --> 00:06:15,291
+I believe we've got it now.
+
+99
+00:06:15,333 --> 00:06:16,875
+You have a green light,
+Commander.
+
+100
+00:06:16,917 --> 00:06:18,166
+Energize.
+
+101
+00:06:35,917 --> 00:06:38,542
+Those ammonia storms are less
+than a kilometer away.
+
+102
+00:06:38,583 --> 00:06:42,000
+Yet they do not appear to
+penetrate this breathable zone.
+
+103
+00:06:42,041 --> 00:06:43,667
+It's like the eye
+of a hurricane.
+
+104
+00:06:43,709 --> 00:06:47,291
+Commander, what is that?
+
+105
+00:06:55,709 --> 00:06:57,583
+A door.
+
+106
+00:07:00,000 --> 00:07:04,291
+The structure must be here,
+yet we cannot see it.
+
+107
+00:07:06,917 --> 00:07:09,667
+Enterprise,
+this is Commander Riker.
+
+108
+00:07:09,709 --> 00:07:12,917
+As your readout shows,
+this is an unusual place.
+
+109
+00:07:12,959 --> 00:07:16,750
+Completely calm, no sound,
+no movement,
+
+110
+00:07:16,792 --> 00:07:20,166
+yet a few hundred meters away,
+a storm is raging.
+
+111
+00:07:20,208 --> 00:07:22,291
+PICARD: Any information
+about the structure?
+
+112
+00:07:22,333 --> 00:07:24,875
+Yes, sir, there's an
+antique revolving door.
+
+113
+00:07:24,917 --> 00:07:26,166
+It could be an entrance.
+
+114
+00:07:27,166 --> 00:07:29,542
+Revolving door?
+
+115
+00:07:29,583 --> 00:07:31,792
+Number One,
+proceed with caution.
+
+116
+00:07:31,834 --> 00:07:34,625
+RIKER:
+Yes, sir.
+
+117
+00:07:34,667 --> 00:07:37,333
+Well, this is what
+we came here for.
+
+118
+00:07:37,375 --> 00:07:38,875
+Captain, we're entering.
+
+119
+00:07:48,792 --> 00:07:52,792
+(<i> conversational chatter</i>
+<i>and slot machines ringing</i> )
+
+120
+00:08:19,125 --> 00:08:22,041
+<i>Enterprise</i> to away team,
+come in.
+
+121
+00:08:22,083 --> 00:08:25,166
+We're receiving no signal
+at all from them, sir.
+
+122
+00:08:26,542 --> 00:08:28,333
+Transporter room,
+lock on to the landing party,
+
+123
+00:08:28,375 --> 00:08:30,125
+beam them up.
+
+124
+00:08:30,166 --> 00:08:32,709
+We've got nothing
+to lock on to, sir.
+
+125
+00:08:33,667 --> 00:08:35,166
+Riker to<i> Enterprise.</i>
+
+126
+00:08:35,208 --> 00:08:37,166
+We've entered
+the structure.
+
+127
+00:08:38,458 --> 00:08:40,959
+Riker to<i> Enterprise,</i> 
+come in.
+
+128
+00:08:42,667 --> 00:08:44,542
+Come in,<i> Enterprise.</i>
+
+129
+00:08:45,875 --> 00:08:47,834
+When they went through
+that antique doorway,
+
+130
+00:08:47,875 --> 00:08:49,792
+their signal just
+disappeared, sir.
+
+131
+00:08:51,667 --> 00:08:54,333
+What's causing
+the interference?
+
+132
+00:08:54,375 --> 00:08:55,542
+Unknown.
+
+133
+00:08:55,583 --> 00:08:58,000
+They're receiving us?
+
+134
+00:08:58,041 --> 00:08:59,583
+No.
+
+135
+00:08:59,625 --> 00:09:01,375
+We're going to have to
+recalibrate all the frequencies
+
+136
+00:09:01,417 --> 00:09:02,959
+to find one that'll work.
+
+137
+00:09:03,000 --> 00:09:04,875
+Then do it.
+
+138
+00:09:10,792 --> 00:09:15,000
+Sir, without communication,
+we should beam up immediately.
+
+139
+00:09:15,041 --> 00:09:17,333
+We're here.
+There's no danger.
+
+140
+00:09:17,375 --> 00:09:19,250
+We'll look around,
+then leave.
+
+141
+00:09:19,291 --> 00:09:20,458
+Checking in, gentlemen?
+
+142
+00:09:20,500 --> 00:09:22,792
+You'll have to go
+to the front desk.
+
+143
+00:09:22,834 --> 00:09:25,583
+Very good.
+We'll start with that.
+
+144
+00:09:38,083 --> 00:09:39,500
+(<i> clears throat</i> )
+
+145
+00:09:41,333 --> 00:09:43,000
+Welcome, gentlemen.
+
+146
+00:09:44,583 --> 00:09:46,500
+Have a nice trip?
+
+147
+00:09:49,667 --> 00:09:51,500
+Do you know us?
+
+148
+00:09:51,542 --> 00:09:53,291
+We've been expecting you.
+
+149
+00:09:53,333 --> 00:09:56,417
+A trio of
+foreign gentlemen.
+
+150
+00:09:56,458 --> 00:09:59,250
+Yes, we're from the United
+Federation of Planets.
+
+151
+00:09:59,291 --> 00:10:01,583
+Of course you are.
+
+152
+00:10:01,625 --> 00:10:03,709
+Welcome to the Hotel Royale.
+
+153
+00:10:07,208 --> 00:10:09,917
+Excuse me.
+Did Rita call?
+
+154
+00:10:09,959 --> 00:10:11,291
+I'm busy.
+
+155
+00:10:11,333 --> 00:10:12,667
+You're busy?
+
+156
+00:10:12,709 --> 00:10:14,792
+This is my life
+I'm talking about here.
+
+157
+00:10:14,834 --> 00:10:18,375
+Now, did Rita call
+or not?
+
+158
+00:10:18,417 --> 00:10:20,709
+No, and for your own good,
+
+159
+00:10:20,750 --> 00:10:22,959
+you better quit
+thinking about Rita.
+
+160
+00:10:23,000 --> 00:10:24,625
+I'm not afraid
+of Mickey D.
+
+161
+00:10:24,667 --> 00:10:26,041
+Then you're a fool.
+
+162
+00:10:26,083 --> 00:10:29,125
+Anybody with any sense
+is afraid of Mickey D.
+
+163
+00:10:29,166 --> 00:10:32,041
+If Rita calls,
+you let me know.
+
+164
+00:10:41,333 --> 00:10:43,291
+Kid's just asking
+for trouble.
+
+165
+00:10:43,333 --> 00:10:44,959
+Rita's too much
+for him to handle,
+
+166
+00:10:45,000 --> 00:10:47,917
+and Mickey D's gonna plant
+his face in the pavement.
+
+167
+00:10:49,542 --> 00:10:52,542
+Now, here are your room keys.
+
+168
+00:10:58,709 --> 00:11:01,834
+And some complimentary
+casino chips.
+
+169
+00:11:09,959 --> 00:11:12,041
+Enjoy.
+
+170
+00:11:14,166 --> 00:11:15,875
+What is this place?
+
+171
+00:11:15,917 --> 00:11:18,500
+How did a being
+like you get here?
+
+172
+00:11:18,542 --> 00:11:20,792
+Well, this is the Royale,
+of course.
+
+173
+00:11:20,834 --> 00:11:22,166
+And my personal life is really
+
+174
+00:11:22,208 --> 00:11:23,750
+none of your business,
+thank you.
+
+175
+00:11:23,792 --> 00:11:26,917
+What he means is
+what planet is this?
+
+176
+00:11:26,959 --> 00:11:28,208
+I beg your pardon?
+
+177
+00:11:28,250 --> 00:11:31,250
+This planet--
+what do you call it?
+
+178
+00:11:31,291 --> 00:11:32,750
+Earth.
+
+179
+00:11:32,792 --> 00:11:34,667
+What do you call it?
+
+180
+00:11:34,709 --> 00:11:36,917
+We call it Theta Eight.
+
+181
+00:11:37,875 --> 00:11:39,667
+How charming.
+
+182
+00:12:03,583 --> 00:12:04,667
+Commander?
+
+183
+00:12:04,709 --> 00:12:06,083
+Yes, Data?
+
+184
+00:12:08,000 --> 00:12:10,875
+None of these people
+are emitting life signs.
+
+185
+00:12:10,917 --> 00:12:14,291
+You mean,
+they're not alive?
+
+186
+00:12:14,333 --> 00:12:16,500
+Then what are they?
+
+187
+00:12:16,542 --> 00:12:20,625
+(<i> overlapping chatter</i> )
+
+188
+00:12:28,250 --> 00:12:31,834
+These beings--
+are they machines,
+
+189
+00:12:31,875 --> 00:12:35,041
+or mere illusions
+designed to deceive us?
+
+190
+00:12:35,083 --> 00:12:38,208
+Not illusion, Lieutenant.
+They do exist.
+
+191
+00:12:38,250 --> 00:12:41,291
+But they do not register
+as either man or machine.
+
+192
+00:12:43,166 --> 00:12:45,959
+Take this creature,
+for example.
+
+193
+00:12:46,000 --> 00:12:49,834
+He does not exhibit
+any DNA structure.
+
+194
+00:12:49,875 --> 00:12:51,625
+Excuse me, son.
+
+195
+00:12:51,667 --> 00:12:53,208
+Look who's talking.
+
+196
+00:12:53,250 --> 00:12:56,250
+Man, you sound just like
+my ex-wife.
+
+197
+00:12:57,875 --> 00:12:59,417
+All right.
+
+198
+00:12:59,458 --> 00:13:03,291
+Time to get down
+to "bidness."
+
+199
+00:13:03,333 --> 00:13:04,625
+What sort of "bidness"
+
+200
+00:13:04,667 --> 00:13:07,000
+do you suppose he is
+getting down to?
+
+201
+00:13:17,917 --> 00:13:19,417
+Status report.
+
+202
+00:13:19,458 --> 00:13:22,291
+We're attempting to employ
+alternate encoding schemes.
+
+203
+00:13:22,333 --> 00:13:25,291
+There could be hundreds
+of possible combinations.
+
+204
+00:13:27,375 --> 00:13:30,500
+Is there an intelligence
+causing this interference?
+
+205
+00:13:30,542 --> 00:13:31,834
+Mmm.
+
+206
+00:13:31,875 --> 00:13:34,709
+No, that's impossible
+to tell, Captain.
+
+207
+00:13:46,834 --> 00:13:51,709
+It's unlike Commander Riker
+not to follow procedure.
+
+208
+00:13:51,750 --> 00:13:53,417
+When he lost contact
+with the<i> Enterprise</i>
+
+209
+00:13:53,458 --> 00:13:54,834
+he should have
+returned immediately
+
+210
+00:13:54,875 --> 00:13:56,917
+to the beam-down
+coordinates.
+
+211
+00:13:56,959 --> 00:13:59,959
+I don't feel he's
+in any danger.
+
+212
+00:14:00,000 --> 00:14:03,500
+In fact, if I could choose
+one word to assess his mood,
+
+213
+00:14:03,542 --> 00:14:05,583
+it would be amused.
+
+214
+00:14:07,417 --> 00:14:09,291
+"Amused?"
+
+215
+00:14:10,667 --> 00:14:12,417
+(<i> sighs</i> )
+
+216
+00:14:15,250 --> 00:14:16,709
+What about some chips there,
+mister?
+
+217
+00:14:16,750 --> 00:14:18,709
+Yessiree!
+(<i> laughing</i> )
+
+218
+00:14:18,750 --> 00:14:20,667
+Oh.
+
+219
+00:14:20,709 --> 00:14:22,083
+You're new around
+here, aren't you?
+
+220
+00:14:22,125 --> 00:14:23,709
+Yes, sir.
+Then sit down.
+
+221
+00:14:23,750 --> 00:14:26,208
+I'm gonna teach you how
+this game is played, boy.
+
+222
+00:14:26,250 --> 00:14:29,250
+(<i> laughing</i> )
+
+223
+00:14:29,291 --> 00:14:30,625
+Go ahead, ante up.
+
+224
+00:14:30,667 --> 00:14:33,083
+(<i> inhales deeply</i> )
+I'll be.
+
+225
+00:14:34,917 --> 00:14:36,834
+He wants you
+to cut the cards.
+
+226
+00:14:36,875 --> 00:14:38,750
+Ah!
+Is this poker?
+
+227
+00:14:38,792 --> 00:14:40,166
+No, no. Blackjack.
+
+228
+00:14:41,291 --> 00:14:42,709
+Blackjack.
+
+229
+00:14:42,750 --> 00:14:44,250
+Accessing.
+
+230
+00:14:45,917 --> 00:14:48,542
+Ah, also known as "21."
+
+231
+00:14:48,583 --> 00:14:50,875
+A number which defines
+the object of the game.
+
+232
+00:14:50,917 --> 00:14:53,000
+Picture cards
+are worth ten,
+
+233
+00:14:53,041 --> 00:14:54,667
+aces, one or 11,
+
+234
+00:14:54,709 --> 00:14:57,333
+all other cards,
+face value.
+
+235
+00:14:57,375 --> 00:14:59,041
+Boy, you're right.
+
+236
+00:14:59,083 --> 00:15:00,750
+You are right.
+
+237
+00:15:03,792 --> 00:15:05,458
+(<i> whistles</i> )
+
+238
+00:15:05,500 --> 00:15:06,875
+MAN:
+Pretty smooth.
+
+239
+00:15:06,917 --> 00:15:08,792
+Run 'em, boy.
+
+240
+00:15:08,834 --> 00:15:11,083
+Make 'em nice, 'cause ain't
+no bread in the house.
+
+241
+00:15:16,500 --> 00:15:17,583
+21, 21, 21.
+
+242
+00:15:17,625 --> 00:15:19,834
+Don't look at
+your hand, honey.
+
+243
+00:15:19,875 --> 00:15:23,291
+That gal has got to win.
+
+244
+00:15:23,333 --> 00:15:27,041
+Now, honey, you got 15 and
+the dealer's showing ten.
+
+245
+00:15:28,625 --> 00:15:30,500
+Do I hit, Texas,
+or do I stand?
+
+246
+00:15:30,542 --> 00:15:33,417
+If you gotta win,
+you gotta hit.
+
+247
+00:15:34,583 --> 00:15:35,792
+Hit me.
+
+248
+00:15:37,250 --> 00:15:38,250
+Ooh.
+
+249
+00:15:38,291 --> 00:15:39,834
+TEXAS: Aw.
+Damn!
+
+250
+00:15:39,875 --> 00:15:41,542
+Shoot.
+
+251
+00:15:41,583 --> 00:15:42,625
+Hit me.
+
+252
+00:15:44,792 --> 00:15:48,375
+Twenty-one, and a winner.
+Yessiree!
+
+253
+00:15:48,417 --> 00:15:50,000
+Hit me.
+
+254
+00:15:51,750 --> 00:15:53,000
+Another, please.
+
+255
+00:15:53,041 --> 00:15:55,542
+Don't you think
+you've had about enough?
+
+256
+00:15:55,583 --> 00:15:57,166
+If the objective of the game
+
+257
+00:15:57,208 --> 00:15:59,542
+is to approach a total
+of 21 points,
+
+258
+00:15:59,583 --> 00:16:01,792
+I will definitely
+need another card.
+
+259
+00:16:01,834 --> 00:16:02,875
+Yeah.
+
+260
+00:16:02,917 --> 00:16:05,083
+Boy, you have got the brass.
+
+261
+00:16:05,125 --> 00:16:07,875
+Do you know the what odds are
+on a five-card Charlie?
+
+262
+00:16:07,917 --> 00:16:11,709
+Hell, you're just
+throwing your money away.
+
+263
+00:16:11,750 --> 00:16:13,208
+Hit me.
+
+264
+00:16:14,750 --> 00:16:16,083
+TEXAS:
+How'd you...
+
+265
+00:16:16,125 --> 00:16:17,125
+WOMAN:
+Ooh!
+
+266
+00:16:17,166 --> 00:16:19,375
+TEXAS:
+Well, shut my mouth.
+
+267
+00:16:21,208 --> 00:16:24,625
+Hey, you're not one of them
+card-counting fellows, are you?
+
+268
+00:16:25,792 --> 00:16:27,417
+The number of the cards
+and their values
+
+269
+00:16:27,458 --> 00:16:29,417
+remain quite constant.
+
+270
+00:16:29,458 --> 00:16:31,667
+What would be the purpose
+in counting them?
+
+271
+00:16:32,917 --> 00:16:33,917
+Yeah.
+
+272
+00:16:33,959 --> 00:16:36,250
+RIKER:
+You having fun, Data?
+
+273
+00:16:36,291 --> 00:16:38,291
+Fun, sir?
+
+274
+00:16:38,333 --> 00:16:40,458
+While there is a certain
+amount of enjoyment involved,
+
+275
+00:16:40,500 --> 00:16:42,250
+I am mainly conducting
+research in--
+
+276
+00:16:42,291 --> 00:16:43,417
+Save it.
+We're getting out of here.
+
+277
+00:16:43,458 --> 00:16:44,709
+Understood, sir.
+
+278
+00:16:44,750 --> 00:16:46,125
+TEXAS:
+Guys are holding up the game.
+
+279
+00:16:46,166 --> 00:16:47,667
+Our apologies, sir.
+
+280
+00:16:47,709 --> 00:16:50,458
+I'll watch your chips.
+
+281
+00:16:50,500 --> 00:16:52,083
+Oh, thank you, sir.
+
+282
+00:16:52,125 --> 00:16:53,667
+Hey...
+
+283
+00:16:53,709 --> 00:16:55,333
+The hat.
+
+284
+00:16:57,875 --> 00:16:59,500
+Sorry, sir.
+
+285
+00:17:00,875 --> 00:17:02,083
+Deal 'em up.
+
+286
+00:17:07,375 --> 00:17:09,083
+Progress?
+
+287
+00:17:09,125 --> 00:17:11,750
+We've accessed the range of
+encoding scheme alternates.
+
+288
+00:17:11,792 --> 00:17:13,792
+The difficulty's in
+the frequency range.
+
+289
+00:17:13,834 --> 00:17:15,875
+And the interference
+is highly variable.
+
+290
+00:17:15,917 --> 00:17:17,250
+See, the problem may be
+
+291
+00:17:17,291 --> 00:17:18,917
+with the envelope
+covering the structure.
+
+292
+00:17:18,959 --> 00:17:22,166
+There are hydrogen-carbon
+helix patterns throughout.
+
+293
+00:17:22,208 --> 00:17:24,417
+Any transmissions
+are simply scattered
+
+294
+00:17:24,458 --> 00:17:25,750
+and refracted at random.
+
+295
+00:17:25,792 --> 00:17:27,125
+No wonder you can't
+get through.
+
+296
+00:17:27,166 --> 00:17:28,542
+Exactly.
+
+297
+00:17:30,750 --> 00:17:32,333
+PICARD: Those are some
+fairly aggressive
+
+298
+00:17:32,375 --> 00:17:33,667
+computations, Lieutenant.
+
+299
+00:17:33,709 --> 00:17:35,375
+I'm comparing the
+molecular integrity
+
+300
+00:17:35,417 --> 00:17:38,125
+of that bubble against
+our phasers.
+
+301
+00:17:39,625 --> 00:17:40,959
+Is penetration possible?
+
+302
+00:17:41,000 --> 00:17:43,458
+I don't know just yet,
+it may be an option.
+
+303
+00:17:43,500 --> 00:17:45,417
+I'd like to run this test.
+
+304
+00:17:45,458 --> 00:17:47,542
+Make it so.
+
+305
+00:18:10,250 --> 00:18:12,166
+Let's try that again.
+
+306
+00:18:27,166 --> 00:18:29,834
+Let's find another way
+out of here.
+
+307
+00:18:35,083 --> 00:18:37,000
+Excuse me.
+
+308
+00:18:41,208 --> 00:18:44,125
+Excuse me.
+Aside from the main door,
+
+309
+00:18:44,166 --> 00:18:45,917
+is there another exit
+I might use?
+
+310
+00:18:45,959 --> 00:18:46,875
+(<i> slot machine ringing</i> )
+
+311
+00:18:46,917 --> 00:18:49,125
+(<i> gasps</i> )
+Ooh!
+
+312
+00:18:50,083 --> 00:18:51,709
+Excuse...
+
+313
+00:18:55,083 --> 00:18:56,959
+Excuse me...
+
+314
+00:18:59,917 --> 00:19:02,959
+Say, I was wondering if
+you could tell me...
+
+315
+00:19:20,000 --> 00:19:21,625
+(<i> grunts</i> )
+
+316
+00:19:26,583 --> 00:19:29,208
+It's a good deal of
+structural integrity, Worf.
+
+317
+00:19:29,250 --> 00:19:30,792
+Permission to use
+phaser, sir.
+
+318
+00:19:30,834 --> 00:19:32,458
+Granted.
+
+319
+00:19:57,333 --> 00:19:59,542
+Sir, I can find
+no other exits.
+
+320
+00:19:59,583 --> 00:20:02,041
+I believe
+we are trapped here.
+
+321
+00:20:07,208 --> 00:20:09,041
+<i>Captain's log, supplemental.</i>
+
+322
+00:20:09,083 --> 00:20:12,125
+<i>We remain in orbit</i>
+<i>around Theta Eight,</i>
+
+323
+00:20:12,166 --> 00:20:14,792
+<i>still out of contact</i>
+<i>with the away team.</i>
+
+324
+00:20:14,834 --> 00:20:16,458
+We're almost there, Captain.
+
+325
+00:20:16,500 --> 00:20:19,500
+We'll be able to attempt
+contact in a few minutes.
+
+326
+00:20:22,291 --> 00:20:25,208
+Captain, the situation
+down there has changed.
+
+327
+00:20:26,417 --> 00:20:27,834
+In what way?
+
+328
+00:20:27,875 --> 00:20:32,083
+Commander Riker has
+become tense...
+
+329
+00:20:32,125 --> 00:20:35,000
+closed in.
+He's feeling trapped.
+
+330
+00:20:42,583 --> 00:20:45,000
+Phasers are totally
+ineffective on all surfaces.
+
+331
+00:20:45,041 --> 00:20:46,917
+Sir, our options
+appear quite limited.
+
+332
+00:20:46,959 --> 00:20:48,625
+We don't have any.
+If we're going to get
+
+333
+00:20:48,667 --> 00:20:50,792
+out of here, we're going to
+have to do it on our own.
+
+334
+00:20:50,834 --> 00:20:53,834
+I'm gonna get some answers
+out of that desk clerk.
+
+335
+00:21:01,917 --> 00:21:03,166
+Are you crazy?
+
+336
+00:21:03,208 --> 00:21:04,417
+Wrong.
+
+337
+00:21:04,458 --> 00:21:06,166
+I'm finally getting
+some smarts.
+
+338
+00:21:06,208 --> 00:21:08,583
+You think you're gonna scare
+Mickey D with that gun?
+
+339
+00:21:08,625 --> 00:21:10,792
+I'm gonna make him
+leave Rita alone.
+
+340
+00:21:10,834 --> 00:21:12,875
+Kid, she's a big girl.
+
+341
+00:21:12,917 --> 00:21:14,625
+And she's
+Mickey D's girl.
+
+342
+00:21:14,667 --> 00:21:17,834
+Not anymore.
+Not after tonight.
+
+343
+00:21:17,875 --> 00:21:19,375
+Look kid, I like you.
+
+344
+00:21:19,417 --> 00:21:20,875
+I don't wanna
+see you get hurt,
+
+345
+00:21:20,917 --> 00:21:22,667
+especially over
+some dame.
+
+346
+00:21:22,709 --> 00:21:24,750
+Don't call her that.
+
+347
+00:21:24,792 --> 00:21:26,041
+You'll see.
+
+348
+00:21:26,083 --> 00:21:28,667
+You'll see how tough
+Mickey D is.
+
+349
+00:21:28,709 --> 00:21:30,417
+He's nothing.
+
+350
+00:21:32,458 --> 00:21:34,375
+(<i> deep sigh</i> )
+
+351
+00:21:35,709 --> 00:21:37,041
+I want some answers.
+
+352
+00:21:37,083 --> 00:21:38,375
+I'm sure the concierge
+will be happy--
+
+353
+00:21:38,417 --> 00:21:40,333
+We would like to
+get out of here<i> now.</i>
+
+354
+00:21:40,375 --> 00:21:42,542
+The Royale's exits
+are clearly marked.
+
+355
+00:21:42,583 --> 00:21:43,834
+That's not good enough.
+
+356
+00:21:43,875 --> 00:21:45,542
+If you have a complaint
+about the service
+
+357
+00:21:45,583 --> 00:21:47,208
+you've received
+during your stay here,
+
+358
+00:21:47,250 --> 00:21:49,166
+you can always take it up
+with the manager.
+
+359
+00:21:49,208 --> 00:21:51,166
+Fine, I'd like to
+see him immediately.
+
+360
+00:21:51,208 --> 00:21:53,875
+I'm afraid the manager
+is very busy.
+
+361
+00:22:01,041 --> 00:22:03,083
+PICARD:
+Riker, can you read me?
+
+362
+00:22:03,125 --> 00:22:04,500
+Yes.
+
+363
+00:22:04,542 --> 00:22:06,583
+There's a good deal of
+interference, Captain,
+
+364
+00:22:06,625 --> 00:22:08,375
+but you are getting through.
+
+365
+00:22:09,959 --> 00:22:12,166
+Number One, why haven't
+you left that building?
+
+366
+00:22:12,208 --> 00:22:15,041
+We tried, sir, it seems
+like we're trapped in here.
+
+367
+00:22:15,083 --> 00:22:17,917
+We're in no immediate danger,
+but I am concerned.
+
+368
+00:22:17,959 --> 00:22:21,250
+Something about your location is
+interfering with communication.
+
+369
+00:22:21,291 --> 00:22:22,875
+We are working on the problem.
+
+370
+00:22:22,917 --> 00:22:24,542
+RIKER:
+Standing by, sir.
+
+371
+00:22:24,583 --> 00:22:26,333
+Captain, these frequencies
+are unstable.
+
+372
+00:22:26,375 --> 00:22:27,458
+Then find others.
+
+373
+00:22:27,500 --> 00:22:28,792
+Yes, sir.
+
+374
+00:22:32,333 --> 00:22:34,917
+What is going on
+down there?
+
+375
+00:22:41,375 --> 00:22:43,083
+DATA:
+Commander?
+
+376
+00:22:44,500 --> 00:22:46,208
+I am picking up
+something most unusual
+
+377
+00:22:46,250 --> 00:22:48,709
+in another section
+of this structure.
+
+378
+00:22:48,750 --> 00:22:50,458
+It appears to be human DNA.
+
+379
+00:22:50,500 --> 00:22:51,750
+Where?
+
+380
+00:22:51,792 --> 00:22:55,083
+31.9 meters above
+and to the right of us.
+
+381
+00:22:56,542 --> 00:22:59,333
+Perhaps those turbolifts
+could take us there.
+
+382
+00:23:06,125 --> 00:23:08,542
+Seems to be
+malfunctioning.
+
+383
+00:23:10,792 --> 00:23:12,667
+(<i> elevator dings</i> )
+
+384
+00:23:21,875 --> 00:23:23,542
+(<i> elevator dings</i> )
+
+385
+00:23:32,208 --> 00:23:35,625
+The reading I received is
+from behind this door, sir.
+
+386
+00:23:54,709 --> 00:23:57,125
+My reading is
+intensifying, sir.
+
+387
+00:23:58,500 --> 00:24:00,208
+RIKER:
+Are you getting any life signs?
+
+388
+00:24:00,250 --> 00:24:02,083
+None, sir.
+
+389
+00:24:18,291 --> 00:24:21,250
+Definitely human.
+Male.
+
+390
+00:24:21,291 --> 00:24:24,083
+Looks like the poor devil
+died in his sleep.
+
+391
+00:24:25,625 --> 00:24:29,333
+What a terrible
+way to die.
+
+392
+00:24:29,375 --> 00:24:32,458
+He has been dead for
+283 years, sir.
+
+393
+00:24:32,500 --> 00:24:35,417
+The lack of any
+advanced decomposition
+
+394
+00:24:35,458 --> 00:24:37,667
+is due to the sterile
+environment.
+
+395
+00:24:37,709 --> 00:24:40,417
+Why would anyone
+go to all this trouble?
+
+396
+00:24:40,458 --> 00:24:42,583
+It's just window dressing
+for a dead man.
+
+397
+00:24:42,625 --> 00:24:44,333
+WORF:
+Commander.
+
+398
+00:24:46,875 --> 00:24:49,041
+Is this significant, sir?
+
+399
+00:24:51,125 --> 00:24:53,417
+American.
+
+400
+00:24:53,458 --> 00:24:54,917
+DATA:
+52 stars, sir.
+
+401
+00:24:54,959 --> 00:24:59,000
+Places it between
+2033 and 2079 A.D.
+
+402
+00:24:59,041 --> 00:25:01,583
+Correlates with the
+debris we found.
+
+403
+00:25:06,250 --> 00:25:08,667
+Colonel S. Richey.
+
+404
+00:25:10,959 --> 00:25:13,542
+Rest in peace,
+Colonel.
+
+405
+00:25:16,083 --> 00:25:17,959
+Picard to Riker.
+
+406
+00:25:18,000 --> 00:25:20,500
+Finally.
+Riker. Go ahead.
+
+407
+00:25:20,542 --> 00:25:22,166
+You're coming through
+clearly now.
+
+408
+00:25:22,208 --> 00:25:24,083
+What's your situation?
+
+409
+00:25:24,125 --> 00:25:26,166
+Well, this structure was
+apparently made to resemble
+
+410
+00:25:26,208 --> 00:25:27,792
+20th century Earth.
+
+411
+00:25:27,834 --> 00:25:29,625
+All attempts to exit
+have failed.
+
+412
+00:25:29,667 --> 00:25:32,125
+PICARD: We haven't found a way
+to transport you back yet.
+
+413
+00:25:32,166 --> 00:25:33,500
+I assumed as much, sir.
+
+414
+00:25:33,542 --> 00:25:35,458
+We've also located the
+remains of a human.
+
+415
+00:25:35,500 --> 00:25:37,667
+Request
+identity scan.
+
+416
+00:25:37,709 --> 00:25:40,000
+Colonel Richey,
+American,
+
+417
+00:25:40,041 --> 00:25:41,083
+first initial, "S."
+
+418
+00:25:41,125 --> 00:25:42,834
+Roughly the same
+time period.
+
+419
+00:25:42,875 --> 00:25:44,542
+Do it.
+
+420
+00:25:45,917 --> 00:25:49,417
+Commander,
+some curiosities.
+
+421
+00:25:51,625 --> 00:25:55,792
+Books.
+A novel--<i> Hotel Royale.</i>
+
+422
+00:25:55,834 --> 00:25:57,792
+Summarize, please.
+
+423
+00:26:01,083 --> 00:26:03,166
+Information retrieved,
+Captain.
+
+424
+00:26:04,166 --> 00:26:05,417
+Number One?
+
+425
+00:26:05,458 --> 00:26:06,667
+RIKER:
+Go ahead, Captain.
+
+426
+00:26:06,709 --> 00:26:08,834
+We have the information
+you requested.
+
+427
+00:26:08,875 --> 00:26:12,125
+Colonel Stephen Richey
+was the commanding officer
+
+428
+00:26:12,166 --> 00:26:13,917
+of the explorer ship
+<i>Charybdis,</i>
+
+429
+00:26:13,959 --> 00:26:19,375
+which had a terrestrial
+launch date of July 23, 2037.
+
+430
+00:26:19,417 --> 00:26:21,250
+It was the third
+manned attempt
+
+431
+00:26:21,291 --> 00:26:24,375
+to travel beyond the confines
+of Earth's solar system.
+
+432
+00:26:24,417 --> 00:26:28,959
+Its telemetry failed,
+it was never heard from again.
+
+433
+00:26:29,000 --> 00:26:31,166
+Do you believe that
+you've discovered
+
+434
+00:26:31,208 --> 00:26:33,000
+the remains of
+Colonel Richey?
+
+435
+00:26:33,041 --> 00:26:34,625
+Yes. And Captain,
+we found something else.
+
+436
+00:26:34,667 --> 00:26:38,500
+A novel by Todd Matthews
+entitled<i> Hotel Royale,</i>
+
+437
+00:26:38,542 --> 00:26:39,959
+which is the name
+of this structure.
+
+438
+00:26:40,000 --> 00:26:41,625
+Data.
+
+439
+00:26:41,667 --> 00:26:45,291
+Captain, this is the story of
+a group of compulsive gamblers
+
+440
+00:26:45,333 --> 00:26:48,000
+caught up in a web of crime,
+corruption and deceit.
+
+441
+00:26:48,041 --> 00:26:51,125
+It is told by
+nefarious lothario, Mickey D,
+
+442
+00:26:51,166 --> 00:26:53,500
+who appears only at the
+climax of the story,
+
+443
+00:26:53,542 --> 00:26:55,375
+to carry out the
+cold-blooded murder
+
+444
+00:26:55,417 --> 00:26:56,917
+of the hotel bellboy.
+
+445
+00:26:56,959 --> 00:26:59,583
+There is also a subplot
+about an older man
+
+446
+00:26:59,625 --> 00:27:01,208
+conspiring with
+a younger woman
+
+447
+00:27:01,250 --> 00:27:02,709
+to murder her husband.
+
+448
+00:27:02,750 --> 00:27:04,542
+She is squandering
+her inheritance--
+
+449
+00:27:04,583 --> 00:27:07,041
+Captain, this novel and
+everything Data just described
+
+450
+00:27:07,083 --> 00:27:09,917
+seems to be exactly what's
+happening at this hotel.
+
+451
+00:27:10,959 --> 00:27:12,417
+Extraordinary.
+
+452
+00:27:12,458 --> 00:27:13,625
+RIKER: There's also
+one other thing.
+
+453
+00:27:13,667 --> 00:27:15,291
+A diary with only one entry,
+
+454
+00:27:15,333 --> 00:27:17,959
+obviously made
+by Colonel Richey.
+
+455
+00:27:18,000 --> 00:27:19,166
+PICARD: Can you read it?
+
+456
+00:27:19,208 --> 00:27:20,625
+Yes.
+
+457
+00:27:20,667 --> 00:27:22,250
+"I write this in the hope
+
+458
+00:27:22,291 --> 00:27:24,458
+"that it will someday
+be read by human eyes.
+
+459
+00:27:24,500 --> 00:27:26,166
+"I can only surmise
+at this point,
+
+460
+00:27:26,208 --> 00:27:29,166
+"but apparently our exploratory
+shuttle was contaminated
+
+461
+00:27:29,208 --> 00:27:30,792
+"by an alien life-form
+
+462
+00:27:30,834 --> 00:27:34,208
+"which infected and killed
+all personnel except myself.
+
+463
+00:27:34,250 --> 00:27:38,375
+"I awakened to find myself
+here in the Royale Hotel
+
+464
+00:27:38,417 --> 00:27:41,458
+"precisely as described in
+the novel I found in my room.
+
+465
+00:27:41,500 --> 00:27:46,625
+"And for the last 38 years
+I have survived here.
+
+466
+00:27:46,667 --> 00:27:50,208
+"I have come to understand
+that the alien contaminators
+
+467
+00:27:50,250 --> 00:27:53,375
+"created this place for me
+out of some sense of guilt,
+
+468
+00:27:53,417 --> 00:27:56,208
+"presuming that the novel
+we had on board the shuttle
+
+469
+00:27:56,250 --> 00:27:57,583
+"about the Hotel Royale
+
+470
+00:27:57,625 --> 00:28:01,125
+"was in fact a guide to
+our preferred lifestyle
+
+471
+00:28:01,166 --> 00:28:03,333
+"and social habits.
+
+472
+00:28:03,375 --> 00:28:06,709
+"Obviously, they thought this
+was the world from which I came.
+
+473
+00:28:06,750 --> 00:28:09,041
+"I hold no malice
+toward my benefactors.
+
+474
+00:28:09,083 --> 00:28:10,709
+"They could not possibly
+know the hell
+
+475
+00:28:10,750 --> 00:28:12,041
+"that they have
+put me through.
+
+476
+00:28:12,083 --> 00:28:14,875
+"For it was such
+a badly written book
+
+477
+00:28:14,917 --> 00:28:18,250
+"filled with endless cliche
+and shallow characters.
+
+478
+00:28:19,625 --> 00:28:22,583
+I shall welcome death
+when it comes."
+
+479
+00:28:27,834 --> 00:28:30,583
+I understand,
+Number One.
+
+480
+00:28:30,625 --> 00:28:33,875
+Now, we know why
+all that is there,
+
+481
+00:28:33,917 --> 00:28:36,625
+why can't<i> you</i> get out?
+
+482
+00:28:44,375 --> 00:28:46,000
+Number One.
+RIKER: Yes, sir.
+
+483
+00:28:46,041 --> 00:28:48,000
+Lieutenant La Forge
+has a thought.
+
+484
+00:28:48,041 --> 00:28:51,291
+He believes we can phaser
+a slice in the field
+
+485
+00:28:51,333 --> 00:28:53,000
+surrounding the structure.
+
+486
+00:28:53,041 --> 00:28:55,709
+That means the atmosphere of the
+planet would instantly rush in.
+
+487
+00:28:55,750 --> 00:28:59,375
+Our projected survival would
+be approximately 12 seconds.
+
+488
+00:28:59,417 --> 00:29:01,625
+Correct.
+The cryogenic process
+
+489
+00:29:01,667 --> 00:29:03,625
+would be nearly
+instantaneous.
+
+490
+00:29:03,667 --> 00:29:05,583
+RIKER: But I assume
+you could revive us?
+
+491
+00:29:05,625 --> 00:29:08,417
+Yes, in theory.
+
+492
+00:29:08,458 --> 00:29:10,417
+PICARD:
+You must understand, Number One.
+
+493
+00:29:10,458 --> 00:29:12,792
+We'll wait here for
+months if necessary.
+
+494
+00:29:12,834 --> 00:29:15,333
+We're just
+considering options.
+
+495
+00:29:15,375 --> 00:29:16,834
+RIKER:
+If you're trying to motivate us
+
+496
+00:29:16,875 --> 00:29:18,542
+to find our own
+way out of here,
+
+497
+00:29:18,583 --> 00:29:19,875
+you've succeeded, Captain.
+
+498
+00:29:19,917 --> 00:29:23,500
+(<i> telephone ringing</i> )
+
+499
+00:29:38,750 --> 00:29:40,583
+Yes?
+
+500
+00:29:44,542 --> 00:29:47,959
+There is a female voice
+asking if we want room service.
+
+501
+00:29:51,583 --> 00:29:54,542
+I believe she is asking if
+we want the room cleaned.
+
+502
+00:29:54,583 --> 00:29:56,625
+Tell her no.
+
+503
+00:29:56,667 --> 00:29:58,375
+No.
+
+504
+00:30:02,583 --> 00:30:04,417
+What did she say?
+
+505
+00:30:04,458 --> 00:30:06,917
+She said the kitchen
+will be open 24 hours
+
+506
+00:30:06,959 --> 00:30:08,709
+if we change our minds.
+
+507
+00:30:10,083 --> 00:30:11,834
+We'll go to explore
+the rest of the hotel.
+
+508
+00:30:11,875 --> 00:30:13,750
+We'll keep a com line open.
+You two, go down
+
+509
+00:30:13,792 --> 00:30:15,291
+to the lobby and see if there's
+anything that we missed.
+
+510
+00:30:15,333 --> 00:30:16,709
+You talk to the guests,
+try to find out
+
+511
+00:30:16,750 --> 00:30:18,000
+who or what they are.
+
+512
+00:30:18,041 --> 00:30:20,208
+I'll check out the
+rest of the floors.
+
+513
+00:30:36,291 --> 00:30:39,250
+Computer, locate and display
+the text of the novel
+
+514
+00:30:39,291 --> 00:30:43,709
+entitled<i> Hotel Royale,</i> 
+by Todd Matthews.
+
+515
+00:30:43,750 --> 00:30:46,583
+COMPUTER:
+Accessing.
+
+516
+00:30:46,625 --> 00:30:49,250
+If the cause of the
+difficulties is in the novel,
+
+517
+00:30:49,291 --> 00:30:51,875
+we may find the solution
+within its pages.
+
+518
+00:30:53,417 --> 00:30:55,208
+Ah.
+
+519
+00:30:55,250 --> 00:30:58,709
+"It was a dark and
+stormy night..."
+
+520
+00:30:58,750 --> 00:30:59,959
+(<i> sighs</i> )
+
+521
+00:31:00,000 --> 00:31:02,125
+That's not a promising
+beginning.
+
+522
+00:31:02,166 --> 00:31:04,375
+It may get better.
+
+523
+00:31:15,583 --> 00:31:18,458
+I suggest we separate and
+blend in with these beings.
+
+524
+00:31:18,500 --> 00:31:21,250
+Casual queries offered
+inconspicuously
+
+525
+00:31:21,291 --> 00:31:23,542
+might prove fruitful.
+
+526
+00:31:26,375 --> 00:31:29,000
+(<i> overlapping chatter</i> )
+
+527
+00:31:36,375 --> 00:31:38,542
+WOMAN:
+I need a four. Give me a four.
+
+528
+00:31:38,583 --> 00:31:41,542
+Damn!
+Oh, shoot!
+
+529
+00:31:41,583 --> 00:31:43,500
+How much do I
+have left here?
+
+530
+00:31:43,542 --> 00:31:45,125
+Honey, now, you know
+it's bad luck
+
+531
+00:31:45,166 --> 00:31:46,709
+to count your
+chips at the table.
+
+532
+00:31:46,750 --> 00:31:48,583
+Yeah?
+Excuse me, sir.
+
+533
+00:31:48,625 --> 00:31:52,000
+Might I inquire,
+where are you from?
+
+534
+00:31:52,041 --> 00:31:54,208
+Lubbock, Texas.
+
+535
+00:31:54,250 --> 00:31:56,750
+And how did
+you get here?
+
+536
+00:31:56,792 --> 00:31:57,917
+To Vegas?
+
+537
+00:31:57,959 --> 00:31:59,333
+Drove my car.
+
+538
+00:31:59,375 --> 00:32:02,417
+I got a '91 Caddy with
+only 80,000 miles on it.
+
+539
+00:32:02,458 --> 00:32:04,000
+Where is your
+automobile now?
+
+540
+00:32:04,041 --> 00:32:05,709
+Out front, I suppose.
+
+541
+00:32:05,750 --> 00:32:07,625
+What the hell difference
+does it make?
+
+542
+00:32:07,667 --> 00:32:09,792
+Could you take me there?
+
+543
+00:32:09,834 --> 00:32:11,458
+WOMAN:
+Hit me.
+
+544
+00:32:12,625 --> 00:32:14,583
+I'm losing my shirt.
+
+545
+00:32:15,875 --> 00:32:18,250
+TEXAS: Son, why would
+I want to do that?
+
+546
+00:32:18,291 --> 00:32:21,166
+Can't you see I'm trying
+to help this little lady?
+
+547
+00:32:21,208 --> 00:32:24,667
+I believe you are trapped
+inside the Royale,
+
+548
+00:32:24,709 --> 00:32:26,542
+just as I am.
+
+549
+00:32:26,583 --> 00:32:29,041
+Sure does seem that way when
+you're losing, don't it?
+
+550
+00:32:29,083 --> 00:32:31,542
+We're just trying to
+turn this lady wagon around
+
+551
+00:32:31,583 --> 00:32:33,542
+and win back some
+lost change.
+
+552
+00:32:33,583 --> 00:32:35,583
+Otherwise, she's in
+a desperate situation
+
+553
+00:32:35,625 --> 00:32:37,583
+and she's got nowhere to turn.
+
+554
+00:32:37,625 --> 00:32:39,041
+Well...
+
+555
+00:32:39,083 --> 00:32:40,875
+almost nowhere.
+
+556
+00:32:44,083 --> 00:32:45,792
+I stay, right?
+
+557
+00:32:45,834 --> 00:32:47,542
+I wouldn't.
+
+558
+00:32:48,917 --> 00:32:50,792
+The odds favor
+standing pat.
+
+559
+00:32:53,625 --> 00:32:55,083
+What do I do?
+
+560
+00:32:58,250 --> 00:33:00,125
+Do you want a card or not?
+
+561
+00:33:03,125 --> 00:33:04,875
+Hit me.
+
+562
+00:33:04,917 --> 00:33:07,583
+Oh, too many.
+
+563
+00:33:07,625 --> 00:33:09,166
+Oh...
+
+564
+00:33:10,208 --> 00:33:11,875
+I've almost lost it all.
+
+565
+00:33:11,917 --> 00:33:14,041
+What am I gonna do?
+
+566
+00:33:14,083 --> 00:33:16,542
+There, there, there...
+
+567
+00:33:27,750 --> 00:33:29,166
+What did you find?
+
+568
+00:33:29,208 --> 00:33:30,458
+Nothing.
+
+569
+00:33:30,500 --> 00:33:31,917
+ASSISTANT MANAGER:
+Kid, Rita just called.
+
+570
+00:33:31,959 --> 00:33:33,250
+She did?
+What did she say?
+
+571
+00:33:33,291 --> 00:33:35,375
+It was kinda hard
+to tell, she was crying.
+
+572
+00:33:35,417 --> 00:33:37,333
+Crying?
+Damn!
+
+573
+00:33:37,375 --> 00:33:40,000
+Mickey D thinks he can treat
+people any way he wants.
+
+574
+00:33:40,041 --> 00:33:42,417
+Well, that's all over now.
+
+575
+00:34:04,125 --> 00:34:06,166
+You were told.
+
+576
+00:34:06,208 --> 00:34:08,250
+It's not for you
+to make the call.
+
+577
+00:34:08,291 --> 00:34:10,250
+It's for Rita.
+
+578
+00:34:10,291 --> 00:34:12,750
+She sent me to tell you.
+
+579
+00:34:12,792 --> 00:34:14,625
+Okay, boys, look,
+we can't afford
+
+580
+00:34:14,667 --> 00:34:16,000
+to have any trouble in here.
+
+581
+00:34:16,041 --> 00:34:18,333
+Why don't you just
+take this outside?
+
+582
+00:34:18,375 --> 00:34:19,583
+Yeah.
+
+583
+00:34:19,625 --> 00:34:21,083
+I like that.
+
+584
+00:34:21,125 --> 00:34:23,208
+Come on, baggage man.
+
+585
+00:34:23,250 --> 00:34:26,208
+Let's you and me
+take it outside.
+
+586
+00:34:26,250 --> 00:34:28,959
+BELLBOY: When I was a kid,
+I used to look up to you guys.
+
+587
+00:34:29,000 --> 00:34:32,583
+The suit,
+the fancy shoes.
+
+588
+00:34:32,625 --> 00:34:35,583
+I really thought that
+made you somebody.
+
+589
+00:34:35,625 --> 00:34:37,458
+But you're nobody.
+
+590
+00:34:37,500 --> 00:34:39,250
+(<i> Picard lowers volume</i> )
+
+591
+00:34:39,291 --> 00:34:41,083
+I don't believe
+this dialogue.
+
+592
+00:34:41,125 --> 00:34:43,500
+Did humans really
+talk like that?
+
+593
+00:34:43,542 --> 00:34:45,125
+Not in real life.
+
+594
+00:34:45,166 --> 00:34:47,750
+Remember, everything that's
+going on down there
+
+595
+00:34:47,792 --> 00:34:49,667
+is taken from what
+Colonel Richey calls
+
+596
+00:34:49,709 --> 00:34:52,542
+a second-rate novel.
+
+597
+00:34:52,583 --> 00:34:56,250
+BELLBOY: ...Rita, she could
+do something with her life.
+
+598
+00:34:56,291 --> 00:34:58,333
+With your permission, sir.
+
+599
+00:34:58,375 --> 00:35:00,542
+MICKEY D:
+She's somebody, she's my girl.
+
+600
+00:35:00,583 --> 00:35:01,959
+BELLBOY:
+You got her on the stuff.
+
+601
+00:35:02,000 --> 00:35:03,792
+That's the only reason
+she stays with you.
+
+602
+00:35:03,834 --> 00:35:05,542
+Because you
+feed her sickness.
+
+603
+00:35:05,583 --> 00:35:07,875
+You gotta let me help her.
+
+604
+00:35:10,458 --> 00:35:13,417
+Well, why don't we just go
+outside and talk about it?
+
+605
+00:35:14,834 --> 00:35:16,583
+Just watch yourself.
+
+606
+00:35:16,625 --> 00:35:18,417
+Don't worry.
+
+607
+00:35:24,917 --> 00:35:26,875
+It's all part
+of the novel.
+
+608
+00:35:26,917 --> 00:35:28,792
+Don't interfere.
+
+609
+00:35:34,917 --> 00:35:36,458
+(<i> screams</i> )
+
+610
+00:35:55,417 --> 00:35:58,000
+You shoulda listened
+to me, kid.
+
+611
+00:35:58,041 --> 00:36:01,333
+No woman's
+worth dying for.
+
+612
+00:36:01,375 --> 00:36:05,709
+Killing for, not dying for.
+
+613
+00:36:24,875 --> 00:36:26,375
+Riker to<i> Enterprise.</i>
+
+614
+00:36:26,417 --> 00:36:28,041
+Yes, Number One.
+
+615
+00:36:28,083 --> 00:36:30,750
+RIKER: A bizarre incident
+just took place.
+
+616
+00:36:30,792 --> 00:36:33,709
+The shoot-out between
+the bellboy and Mickey D.
+
+617
+00:36:33,750 --> 00:36:36,041
+Yes, and Mickey D just
+walked out the door.
+
+618
+00:36:36,083 --> 00:36:37,291
+How did he do that?
+
+619
+00:36:40,083 --> 00:36:42,458
+It's on page 244.
+
+620
+00:36:42,500 --> 00:36:44,667
+In the novel, right.
+
+621
+00:36:44,709 --> 00:36:46,959
+How does it end?
+
+622
+00:36:47,000 --> 00:36:50,083
+A bad love affair ends
+in a bloody shoot-out.
+
+623
+00:36:50,125 --> 00:36:54,458
+The hotel gets bought out,
+and life goes on...
+
+624
+00:36:54,500 --> 00:36:55,750
+such as it is.
+
+625
+00:36:55,792 --> 00:36:58,291
+The hotel gets bought?
+By whom?
+
+626
+00:37:01,792 --> 00:37:03,250
+It isn't specific.
+
+627
+00:37:03,291 --> 00:37:05,291
+Simply refers to
+"foreign investors."
+
+628
+00:37:05,333 --> 00:37:09,208
+Sale price: 12.5 million
+United States dollars.
+
+629
+00:37:09,250 --> 00:37:13,667
+They return home, leaving the
+assistant manager in charge.
+
+630
+00:37:17,375 --> 00:37:22,250
+Captain, that's how
+we're getting out.
+
+631
+00:37:24,250 --> 00:37:26,709
+We're buying this place.
+
+632
+00:37:34,083 --> 00:37:36,333
+It is all a question
+of probabilities.
+
+633
+00:37:36,375 --> 00:37:37,625
+Quite simple, really,
+
+634
+00:37:37,667 --> 00:37:39,625
+if one bets with any
+sequential consistency.
+
+635
+00:37:39,667 --> 00:37:41,000
+Elaborate.
+
+636
+00:37:41,041 --> 00:37:43,208
+The combinations
+totalling seven or 11
+
+637
+00:37:43,250 --> 00:37:46,250
+have considerable value when
+achieved on the primary attempt.
+
+638
+00:37:46,291 --> 00:37:49,208
+With eight variations possible
+to create those totals,
+
+639
+00:37:49,250 --> 00:37:51,041
+the likelihood
+of those totals occurring
+
+640
+00:37:51,083 --> 00:37:52,375
+is not significant, however--
+
+641
+00:37:52,417 --> 00:37:54,083
+Okay, okay, can you do it?
+
+642
+00:37:54,125 --> 00:37:55,875
+I believe so, sir.
+
+643
+00:38:00,875 --> 00:38:03,000
+Eight's the point.
+Eighter from Decatur.
+
+644
+00:38:03,041 --> 00:38:05,417
+Can I see no eyes?
+Do it, do it.
+
+645
+00:38:07,875 --> 00:38:09,375
+Oh, snake eyes.
+
+646
+00:38:09,417 --> 00:38:13,000
+Single digits on each cube
+are not at all desirable.
+
+647
+00:38:13,041 --> 00:38:14,542
+You're almost broke.
+
+648
+00:38:14,583 --> 00:38:16,917
+Relax, honey.
+It's only money.
+
+649
+00:38:16,959 --> 00:38:18,208
+Yeah, but if you
+lose it all,
+
+650
+00:38:18,250 --> 00:38:19,917
+I won't even have
+a place to sleep.
+
+651
+00:38:19,959 --> 00:38:22,041
+Don't you worry your
+little head, honey.
+
+652
+00:38:22,083 --> 00:38:24,250
+I'd never let that happen.
+
+653
+00:38:29,709 --> 00:38:31,166
+Go, baby.
+Let's go.
+
+654
+00:38:31,208 --> 00:38:32,500
+Here they come.
+Here they come, babe.
+
+655
+00:38:32,542 --> 00:38:34,500
+CROUPIER: Seven, out.
+TEXAS: Ah, I'm out.
+
+656
+00:38:36,500 --> 00:38:37,917
+Your turn, slick.
+
+657
+00:38:37,959 --> 00:38:39,250
+Go to work.
+
+658
+00:38:39,291 --> 00:38:41,917
+Maybe this turkey will
+bring us some luck.
+
+659
+00:38:52,709 --> 00:38:54,917
+Six.
+Six is your number.
+
+660
+00:38:54,959 --> 00:38:57,291
+Hell, my blind grandma
+can make a six, boy.
+
+661
+00:38:57,333 --> 00:38:58,875
+Come on, roll 'em.
+
+662
+00:38:58,917 --> 00:39:01,250
+I thought seven
+and 11 had value.
+
+663
+00:39:01,291 --> 00:39:03,250
+Actually, six is a valid point.
+
+664
+00:39:03,291 --> 00:39:05,125
+Of course, now, the objective
+is to roll
+
+665
+00:39:05,166 --> 00:39:07,333
+a duplicate six
+before hitting seven.
+
+666
+00:39:07,375 --> 00:39:09,125
+But the probability
+of making a six
+
+667
+00:39:09,166 --> 00:39:11,667
+is no greater than
+that of rolling a seven.
+
+668
+00:39:11,709 --> 00:39:14,625
+There is a certain degree of
+random fortune involved.
+
+669
+00:39:14,667 --> 00:39:17,083
+I believe that is why
+they call it gambling.
+
+670
+00:39:17,125 --> 00:39:19,125
+Yeah.
+
+671
+00:39:23,208 --> 00:39:25,792
+CROUPIER: Seven.
+Seven away. Next shooter.
+
+672
+00:39:25,834 --> 00:39:28,041
+So much for
+your new turkey.
+
+673
+00:39:28,083 --> 00:39:30,000
+Give slick another shot.
+
+674
+00:39:30,041 --> 00:39:32,417
+I got a feeling
+about you, boy.
+
+675
+00:39:36,208 --> 00:39:39,542
+Commander, these cubes are
+improperly balanced.
+
+676
+00:39:39,583 --> 00:39:41,375
+I believe their final
+resting position would be--
+
+677
+00:39:41,417 --> 00:39:42,834
+Can you repair them?
+
+678
+00:39:44,000 --> 00:39:45,250
+I believe so.
+
+679
+00:39:47,625 --> 00:39:49,542
+I will make another attempt.
+
+680
+00:39:53,000 --> 00:39:55,375
+Baby needs a new pair
+of shoes.
+
+681
+00:39:57,959 --> 00:39:59,709
+11! That a boy.
+
+682
+00:39:59,750 --> 00:40:02,667
+Do that a few more times,
+we all gonna get well.
+
+683
+00:40:04,750 --> 00:40:06,917
+Whoo!
+
+684
+00:40:06,959 --> 00:40:08,500
+Seven, winner.
+
+685
+00:40:08,542 --> 00:40:11,792
+And another one!
+(<i> laughing</i> )
+
+686
+00:40:11,834 --> 00:40:14,166
+Keep going, boy, we got 'em
+hot now, let's go, let's go!
+
+687
+00:40:14,208 --> 00:40:15,709
+RIKER: Double 'em up.
+Here we go.
+
+688
+00:40:15,750 --> 00:40:17,875
+Keep it rolling, boy,
+keep it rolling.
+
+689
+00:40:19,583 --> 00:40:21,959
+TEXAS:
+Seven, a winner!
+
+690
+00:40:26,417 --> 00:40:29,083
+Status, Number One?
+
+691
+00:40:29,125 --> 00:40:31,166
+We're having a nice
+run of luck, Captain.
+
+692
+00:40:31,208 --> 00:40:32,959
+PICARD: Don't get out
+of character, Commander.
+
+693
+00:40:33,000 --> 00:40:34,166
+Sir?
+
+694
+00:40:34,208 --> 00:40:36,125
+The foreign investors
+in the book
+
+695
+00:40:36,166 --> 00:40:40,333
+are described
+as flamboyantly generous.
+
+696
+00:40:41,875 --> 00:40:43,750
+Yes, sir.
+I understand.
+
+697
+00:40:49,208 --> 00:40:51,333
+Whoo! Big seven.
+Look at that!
+
+698
+00:40:51,375 --> 00:40:54,750
+Oh!
+Tex, darling.
+
+699
+00:40:54,792 --> 00:40:56,750
+You're brilliant.
+
+700
+00:40:56,792 --> 00:40:58,667
+Yeah, and I'm
+good-looking, too, huh?
+
+701
+00:40:58,709 --> 00:41:00,458
+(<i> laughing</i> )
+
+702
+00:41:00,500 --> 00:41:01,583
+Isn't that enough?
+
+703
+00:41:01,625 --> 00:41:03,625
+No, don't wanna
+come up short.
+
+704
+00:41:03,667 --> 00:41:04,834
+You are keeping count?
+
+705
+00:41:04,875 --> 00:41:07,291
+Yes, sir.
+12.3 million.
+
+706
+00:41:07,333 --> 00:41:09,125
+Perhaps I
+will bet...
+
+707
+00:41:09,166 --> 00:41:10,834
+$700,000.
+
+708
+00:41:10,875 --> 00:41:13,041
+No, bet it all.
+
+709
+00:41:13,083 --> 00:41:16,333
+But sir, the sale price of this
+edifice is 12.5 million.
+
+710
+00:41:16,375 --> 00:41:18,709
+We need some
+spreading around money, Data.
+
+711
+00:41:18,750 --> 00:41:19,792
+Sir?
+
+712
+00:41:19,834 --> 00:41:22,041
+Bet it all.
+Here you go.
+
+713
+00:41:22,083 --> 00:41:24,125
+A little something
+for you, Ziggy.
+
+714
+00:41:24,166 --> 00:41:26,667
+A little something for
+those cocktail waitresses.
+
+715
+00:41:26,709 --> 00:41:29,250
+Run this outside and give it
+to the parking lot attendants.
+
+716
+00:41:29,291 --> 00:41:31,166
+You're very kind, sir.
+
+717
+00:41:31,208 --> 00:41:33,375
+Here you go, Vanessa.
+A little something for you, too.
+
+718
+00:41:33,417 --> 00:41:34,834
+Thank you.
+
+719
+00:41:34,875 --> 00:41:37,875
+When the train comes in,
+everybody rides.
+
+720
+00:41:37,917 --> 00:41:40,500
+Yeah, and I'm getting
+off at this station.
+
+721
+00:41:40,542 --> 00:41:43,917
+After 18 passes,
+air gets a little too thin
+
+722
+00:41:43,959 --> 00:41:45,709
+for this country boy.
+
+723
+00:41:45,750 --> 00:41:47,458
+I'm betting against
+you fellows.
+
+724
+00:41:47,500 --> 00:41:48,917
+Are you nuts?
+
+725
+00:41:48,959 --> 00:41:51,291
+I do not believe that is
+a prudent choice, sir.
+
+726
+00:41:51,333 --> 00:41:54,750
+Hey, that's what
+horse racing's about.
+
+727
+00:41:54,792 --> 00:41:56,125
+Roll 'em, boy.
+
+728
+00:42:10,375 --> 00:42:11,792
+CROUPIER:
+Seven. Seven a winner.
+
+729
+00:42:11,834 --> 00:42:13,375
+Whoo!
+
+730
+00:42:15,041 --> 00:42:16,834
+The man has the touch.
+
+731
+00:42:18,917 --> 00:42:21,875
+You knew you were gonna throw
+that seven, didn't you?
+
+732
+00:42:21,917 --> 00:42:25,083
+You just let me
+go down the tubes.
+
+733
+00:42:25,125 --> 00:42:27,000
+I tried to caution you, sir.
+
+734
+00:42:27,041 --> 00:42:28,750
+What was it?
+I mean...
+
+735
+00:42:28,792 --> 00:42:31,291
+was it personal or-- or what?
+
+736
+00:42:31,333 --> 00:42:33,709
+Because I didn't
+show you my car?
+
+737
+00:42:35,208 --> 00:42:37,083
+Now.
+
+738
+00:42:37,125 --> 00:42:38,750
+I wish to cash in, sir.
+
+739
+00:42:38,792 --> 00:42:41,375
+I'm afraid you've
+broken the bank.
+
+740
+00:42:41,417 --> 00:42:44,792
+Just take 12.5 million, the
+purchase price of this hotel.
+
+741
+00:42:44,834 --> 00:42:46,542
+Spread the rest around.
+
+742
+00:42:46,583 --> 00:42:48,583
+Whew.
+
+743
+00:42:49,834 --> 00:42:51,875
+You're the foreign investors.
+
+744
+00:42:51,917 --> 00:42:53,792
+That's right.
+
+745
+00:42:53,834 --> 00:42:57,166
+We just bought this place,
+lock, stock and barrel.
+
+746
+00:42:57,208 --> 00:42:59,125
+Consider it a done deal.
+
+747
+00:42:59,166 --> 00:43:02,750
+I like you fellas.
+You got style.
+
+748
+00:43:02,792 --> 00:43:04,583
+Let me buy
+you guys a drink.
+
+749
+00:43:04,625 --> 00:43:06,333
+Just enjoy the game.
+
+750
+00:43:06,375 --> 00:43:08,166
+Don't let 'em change
+the dice on you.
+
+751
+00:43:08,208 --> 00:43:10,208
+TEXAS:
+You got it.
+
+752
+00:43:14,250 --> 00:43:15,417
+Phew.
+
+753
+00:43:27,917 --> 00:43:29,834
+<i>Enterprise,</i> this
+is the away team.
+
+754
+00:43:29,875 --> 00:43:31,417
+We're clear of
+the structure.
+
+755
+00:43:31,458 --> 00:43:32,875
+Three to beam up.
+
+756
+00:43:32,917 --> 00:43:35,417
+Time to come home now,
+Number One.
+
+757
+00:43:35,458 --> 00:43:37,875
+Transporter room,
+we have a fix on the away team.
+
+758
+00:43:37,917 --> 00:43:39,458
+Beam them up.
+
+759
+00:43:49,041 --> 00:43:50,083
+(<i> chime</i> )
+
+760
+00:43:50,125 --> 00:43:51,750
+Come.
+
+761
+00:43:53,709 --> 00:43:55,000
+Sir.
+
+762
+00:43:55,041 --> 00:43:56,125
+Welcome back, Number One.
+
+763
+00:43:56,166 --> 00:43:58,834
+Very strange experience.
+Puzzling.
+
+764
+00:43:58,875 --> 00:44:01,291
+I still can't comprehend
+how Colonel Richey's vessel
+
+765
+00:44:01,333 --> 00:44:02,834
+could've traveled
+out that far.
+
+766
+00:44:02,875 --> 00:44:05,125
+Not on its own,
+at any rate.
+
+767
+00:44:05,166 --> 00:44:06,834
+Perhaps they were
+brought here
+
+768
+00:44:06,875 --> 00:44:10,417
+by whoever created that
+make-believe world down there.
+
+769
+00:44:10,458 --> 00:44:12,875
+It's possible they didn't
+know how fragile
+
+770
+00:44:12,917 --> 00:44:15,667
+the humans aboard
+actually were.
+
+771
+00:44:15,709 --> 00:44:18,333
+Only one of them survived.
+
+772
+00:44:18,375 --> 00:44:21,792
+None of it
+makes any sense.
+
+773
+00:44:21,834 --> 00:44:26,041
+Like Fermat's theorem, it's
+a puzzle we may never solve.

@@ -1,0 +1,3517 @@
+1
+00:00:01,959 --> 00:00:05,834
+<i>Captain's Log,</i>
+<i>Stardate 47751.2.</i>
+
+2
+00:00:05,875 --> 00:00:09,166
+<i>The</i> Enterprise<i> has arrived</i>
+<i>at Starbase 310</i>
+
+3
+00:00:09,208 --> 00:00:11,583
+<i>for a meeting</i>
+<i>with Fleet Admiral Necheyev.</i>
+
+4
+00:00:11,625 --> 00:00:13,792
+<i>This visit has also given us</i>
+<i>the opportunity</i>
+
+5
+00:00:13,834 --> 00:00:17,083
+<i>to pick up a member</i>
+<i>of the family.</i>
+
+6
+00:00:18,417 --> 00:00:22,333
+Here you are--
+your very own quarters.
+
+7
+00:00:22,375 --> 00:00:24,041
+And they're as far away
+from mine as possible
+
+8
+00:00:24,083 --> 00:00:26,333
+so you don't even have to
+see me if you don't want to.
+
+9
+00:00:26,375 --> 00:00:28,250
+Mom, you know that's
+not why I asked
+
+10
+00:00:28,291 --> 00:00:29,875
+for my own quarters
+this time.
+
+11
+00:00:29,917 --> 00:00:31,417
+You don't have to explain.
+
+12
+00:00:31,458 --> 00:00:33,166
+There comes a time
+in a young man's life
+
+13
+00:00:33,208 --> 00:00:34,792
+when he doesn't want to stay
+with his poor, senile mother.
+
+14
+00:00:34,834 --> 00:00:37,375
+I understand.
+I'll come visit you
+
+15
+00:00:37,417 --> 00:00:39,834
+in the old doctor's
+home every Sunday.
+
+16
+00:00:39,875 --> 00:00:41,417
+(<i> door chimes</i> )
+
+17
+00:00:41,458 --> 00:00:43,542
+Come in.
+
+18
+00:00:43,583 --> 00:00:46,375
+So... is there
+a runaway cadet in here?
+
+19
+00:00:46,417 --> 00:00:49,959
+If so, we may have
+to call security.
+
+20
+00:00:50,000 --> 00:00:50,959
+Welcome back, Wes.
+
+21
+00:00:51,000 --> 00:00:51,959
+Thanks.
+
+22
+00:00:52,000 --> 00:00:53,583
+So, how's life
+at the academy?
+
+23
+00:00:53,625 --> 00:00:57,000
+It's great.
+
+24
+00:00:57,041 --> 00:00:59,625
+It's great, but it's
+good to have a break.
+
+25
+00:00:59,667 --> 00:01:01,291
+DATA:
+I was, of course,
+
+26
+00:01:01,333 --> 00:01:03,458
+not serious about
+calling security.
+
+27
+00:01:03,500 --> 00:01:04,750
+It was a joke.
+
+28
+00:01:04,792 --> 00:01:06,333
+I got it, Data.
+
+29
+00:01:06,375 --> 00:01:07,834
+So, you just going
+to lounge around
+
+30
+00:01:07,875 --> 00:01:09,250
+while we all have work
+to do around here?
+
+31
+00:01:09,291 --> 00:01:11,250
+I'm sure I can find some
+time to help you, sir.
+
+32
+00:01:11,291 --> 00:01:13,667
+No, Wes.
+Enjoy your vacation.
+
+33
+00:01:13,709 --> 00:01:15,125
+I'm sure
+you've earned it.
+
+34
+00:01:15,166 --> 00:01:16,583
+Thanks.
+
+35
+00:01:16,625 --> 00:01:18,834
+Well, I think
+we'd better let
+you settle in.
+
+36
+00:01:18,875 --> 00:01:21,458
+Yeah, that's a good idea.
+Say, Wes, don't, uh...
+
+37
+00:01:21,500 --> 00:01:23,709
+don't sleep your<i> whole</i>
+vacation away, all right?
+
+38
+00:01:23,750 --> 00:01:25,583
+Good-bye, Wes.
+
+39
+00:01:26,959 --> 00:01:30,291
+Oh... it's good
+to have you home, son.
+
+40
+00:01:30,333 --> 00:01:31,542
+Thanks, Mom.
+
+41
+00:01:31,583 --> 00:01:33,041
+Really.
+
+42
+00:02:15,458 --> 00:02:20,250
+<i>Space, the final frontier.</i>
+
+43
+00:02:20,291 --> 00:02:24,417
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+44
+00:02:24,458 --> 00:02:26,291
+<i>Its continuing mission--</i>
+
+45
+00:02:26,333 --> 00:02:29,792
+<i>to explore</i>
+<i>strange new worlds,</i>
+
+46
+00:02:29,834 --> 00:02:34,417
+<i>to seek out new life</i>
+<i>and new civilizations,</i>
+
+47
+00:02:34,458 --> 00:02:39,166
+<i>to boldly go</i>
+<i>where no one has gone before.</i>
+
+48
+00:03:37,291 --> 00:03:39,291
+Admiral Necheyev has
+just beamed aboard.
+
+49
+00:03:39,333 --> 00:03:41,875
+She's being escorted
+right here.
+Good.
+
+50
+00:03:41,917 --> 00:03:48,250
+Earl Grey tea,
+watercress sandwiches
+and Bularian canapés?
+
+51
+00:03:48,291 --> 00:03:50,041
+Are you up
+for a promotion?
+
+52
+00:03:50,083 --> 00:03:53,500
+I am trying to establish
+a new relationship
+with the admiral.
+
+53
+00:03:53,542 --> 00:03:57,166
+There has been a certain
+amount of tension
+between us in the past.
+
+54
+00:03:57,208 --> 00:03:59,000
+"Tension" is hardly
+the word I'd use.
+
+55
+00:03:59,041 --> 00:04:02,083
+Well, I am trying to get
+things off on a better
+note this time.
+
+56
+00:04:02,125 --> 00:04:04,250
+I want her to feel
+at ease, I want her
+
+57
+00:04:04,291 --> 00:04:06,333
+to feel that she's welcome
+onboard the<i> Enterprise.</i>
+
+58
+00:04:06,375 --> 00:04:09,166
+Is there any reason
+she shouldn't feel
+welcome here?
+
+59
+00:04:09,208 --> 00:04:11,583
+We don't have
+to like her, Will,
+
+60
+00:04:11,625 --> 00:04:14,083
+but we have to
+follow her orders,
+and maintaining
+
+61
+00:04:14,125 --> 00:04:17,083
+this atmosphere
+of confrontation
+serves no purpose.
+
+62
+00:04:18,875 --> 00:04:21,291
+Admiral Necheyev,
+welcome onboard
+the<i> Enterprise.</i>
+
+63
+00:04:21,333 --> 00:04:22,500
+Thank you, Captain.
+
+64
+00:04:22,542 --> 00:04:24,000
+You may leave,
+Commander Riker.
+
+65
+00:04:24,041 --> 00:04:26,458
+Thank you,
+Admiral. Captain.
+
+66
+00:04:29,000 --> 00:04:30,583
+May I offer you some
+refreshments, Admiral?
+
+67
+00:04:30,625 --> 00:04:32,792
+I'll come right
+to the point, Captain.
+
+68
+00:04:32,834 --> 00:04:34,583
+There's a situation
+that's developed
+
+69
+00:04:34,625 --> 00:04:37,917
+on the Cardassian
+border that...
+
+70
+00:04:40,083 --> 00:04:42,083
+Are those
+Bularian canapés?
+
+71
+00:04:42,125 --> 00:04:44,291
+Oh, as a matter
+of fact, they are.
+
+72
+00:04:44,333 --> 00:04:47,875
+I... spoke with your aide,
+Commander Wrightwell,
+
+73
+00:04:47,917 --> 00:04:50,917
+and he said that you were
+particularly fond of them.
+
+74
+00:04:50,959 --> 00:04:52,667
+That was very thoughtful,
+Captain.
+
+75
+00:04:52,709 --> 00:04:53,834
+Thank you.
+
+76
+00:04:53,875 --> 00:04:55,875
+Please.
+
+77
+00:05:00,875 --> 00:05:04,083
+You were saying
+about the Cardassians...
+
+78
+00:05:04,125 --> 00:05:07,083
+Yes. The Federation
+has just completed
+
+79
+00:05:07,125 --> 00:05:10,291
+a very long and drawn-out
+series of negotiations
+
+80
+00:05:10,333 --> 00:05:14,834
+regarding the final
+status of our border
+with the Cardassians.
+
+81
+00:05:14,875 --> 00:05:17,166
+These will be the
+official boundaries.
+
+82
+00:05:17,208 --> 00:05:18,625
+I see.
+
+83
+00:05:18,667 --> 00:05:20,125
+You'll notice a
+demilitarized zone
+
+84
+00:05:20,166 --> 00:05:22,917
+has also been created
+along the border.
+
+85
+00:05:22,959 --> 00:05:26,375
+Neither side
+will be permitted to
+place military outposts,
+
+86
+00:05:26,417 --> 00:05:29,709
+conduct fleet exercises,
+or station warships
+
+87
+00:05:29,750 --> 00:05:32,083
+anywhere in the
+demilitarized area.
+
+88
+00:05:32,125 --> 00:05:37,458
+This border places
+several Federation colonies
+in Cardassian territory
+
+89
+00:05:37,500 --> 00:05:40,709
+and some Cardassian
+colonies in ours.
+
+90
+00:05:40,750 --> 00:05:43,291
+This agreement
+is far from perfect.
+
+91
+00:05:43,333 --> 00:05:45,291
+Neither side got
+everything they wanted
+
+92
+00:05:45,333 --> 00:05:48,333
+but every side got
+something, and as
+someone once said,
+
+93
+00:05:48,375 --> 00:05:51,291
+"Diplomacy is the art
+of the possible."
+
+94
+00:05:51,333 --> 00:05:53,125
+Those colonies
+finding themselves
+
+95
+00:05:53,166 --> 00:05:55,750
+on the wrong side
+of the border
+will have to be moved.
+
+96
+00:05:58,041 --> 00:06:01,458
+Well, the colonists
+are not going to be
+happy about that.
+
+97
+00:06:01,500 --> 00:06:03,542
+Some of them have
+been there for decades.
+
+98
+00:06:03,583 --> 00:06:08,625
+It won't be easy,
+but it's a reasonable
+price to pay for peace.
+
+99
+00:06:08,667 --> 00:06:12,375
+Your mission will be
+to evacuate the
+colony on Dorvan V.
+
+100
+00:06:12,417 --> 00:06:16,125
+Dorvan V?
+
+101
+00:06:16,166 --> 00:06:19,917
+Isn't that where
+the group of North
+American Indians settled?
+
+102
+00:06:19,959 --> 00:06:22,875
+Yes, they've been there
+for about 20 years.
+
+103
+00:06:22,917 --> 00:06:28,750
+They've established a
+village in a small valley
+on the southern continent.
+
+104
+00:06:28,792 --> 00:06:31,291
+Is something wrong?
+
+105
+00:06:31,333 --> 00:06:36,917
+Admiral, centuries ago,
+these North American Indians
+
+106
+00:06:36,959 --> 00:06:39,917
+were forcibly displaced
+from their ancestral lands.
+
+107
+00:06:39,959 --> 00:06:44,750
+These settlers on Dorvan V
+originally left Earth
+more than 200 years ago
+
+108
+00:06:44,792 --> 00:06:47,750
+in order to preserve
+their cultural identity.
+
+109
+00:06:47,792 --> 00:06:49,083
+I am aware of that,
+Captain.
+
+110
+00:06:49,125 --> 00:06:50,375
+You see, Admiral,
+there are some
+
+111
+00:06:50,417 --> 00:06:54,208
+very disturbing
+historical parallels here.
+
+112
+00:06:54,250 --> 00:06:59,000
+Once more, they are being
+asked to leave their
+homes because of a...
+
+113
+00:06:59,041 --> 00:07:02,583
+a political decision
+that has been taken
+by a distant government.
+
+114
+00:07:02,625 --> 00:07:04,333
+An Indian representative
+was included
+
+115
+00:07:04,375 --> 00:07:06,709
+in the deliberations of
+the Federation council.
+
+116
+00:07:06,750 --> 00:07:12,166
+His objections were
+noted, discussed, but
+ultimately rejected.
+
+117
+00:07:12,208 --> 00:07:17,667
+Captain,
+the Indians on Dorvan
+are a nomadic group
+
+118
+00:07:17,709 --> 00:07:19,750
+that have settled there
+only 20 years ago
+
+119
+00:07:19,792 --> 00:07:22,500
+and, at that time,
+they were warned
+that the planet
+
+120
+00:07:22,542 --> 00:07:24,917
+was hotly disputed
+by the Cardassians.
+
+121
+00:07:24,959 --> 00:07:26,333
+The bottom line is,
+they never should
+
+122
+00:07:26,375 --> 00:07:27,834
+have gone there
+in the first place.
+
+123
+00:07:27,875 --> 00:07:31,458
+Granted, but to go to
+them now, after 20 years,
+
+124
+00:07:31,500 --> 00:07:34,458
+and ask them to leave
+what is now their home...
+
+125
+00:07:36,041 --> 00:07:38,834
+I made that same argument
+with the Federation council
+
+126
+00:07:38,875 --> 00:07:41,959
+but it took three years
+to negotiate this treaty.
+
+127
+00:07:42,000 --> 00:07:45,041
+Some concessions had
+to be made, and this
+was one of them.
+
+128
+00:07:45,083 --> 00:07:47,834
+What if these Indians
+refuse to be evacuated?
+
+129
+00:07:47,875 --> 00:07:52,083
+Then your orders will be
+to remove them by whatever
+means are necessary.
+
+130
+00:07:53,417 --> 00:07:57,667
+I understand your moral
+objections, Captain.
+
+131
+00:07:57,709 --> 00:07:59,917
+If you wish,
+I can find someone else
+
+132
+00:07:59,959 --> 00:08:02,291
+to command the<i> Enterprise</i>
+for this mission.
+
+133
+00:08:02,333 --> 00:08:05,542
+That will not
+be necessary, Admiral.
+
+134
+00:08:12,291 --> 00:08:17,083
+I don't envy you this task,
+but I do believe it is
+for the greater good.
+
+135
+00:08:17,125 --> 00:08:19,083
+I understand.
+
+136
+00:08:23,834 --> 00:08:26,125
+And, Captain...
+
+137
+00:08:27,375 --> 00:08:30,542
+thank you for...
+
+138
+00:08:30,583 --> 00:08:32,500
+making me feel welcome.
+
+139
+00:08:32,542 --> 00:08:35,458
+You will always be welcome
+aboard this ship, Admiral.
+
+140
+00:08:46,375 --> 00:08:47,792
+Thanks, Ensign.
+Mm-hmm.
+
+141
+00:08:47,834 --> 00:08:50,709
+Hey, Wes, there you are.
+Come here for a second.
+
+142
+00:08:50,750 --> 00:08:53,500
+I've got something
+I want to show you.
+
+143
+00:08:53,542 --> 00:08:57,667
+Come on, come on.
+You got to take
+a look at this.
+
+144
+00:08:57,709 --> 00:08:59,834
+Now, remember how we
+always used to talk
+
+145
+00:08:59,875 --> 00:09:01,542
+about improving
+quantum efficiency
+
+146
+00:09:01,583 --> 00:09:04,083
+by creating a new
+plasma-dyne relay?
+
+147
+00:09:04,125 --> 00:09:07,041
+Well... take a look...
+
+148
+00:09:07,083 --> 00:09:09,333
+at this.
+
+149
+00:09:09,375 --> 00:09:12,792
+WES:
+You've only got
+one microfusion
+interrelay in there?
+
+150
+00:09:12,834 --> 00:09:14,709
+Your converter interface
+will never hold up.
+
+151
+00:09:14,750 --> 00:09:19,000
+Hey, I ran
+these diagnostics myself.
+
+152
+00:09:19,041 --> 00:09:20,792
+This little baby
+will withstand
+
+153
+00:09:20,834 --> 00:09:24,542
+over 500 cochranes
+of warp field stress.
+
+154
+00:09:24,583 --> 00:09:28,834
+I don't think so.
+You better put a second
+phase inverter in there.
+
+155
+00:09:28,875 --> 00:09:32,083
+Look at your
+subprocessor matrix.
+It needs an overhaul.
+
+156
+00:09:32,125 --> 00:09:37,041
+Well, that may be
+your opinion, Cadet,
+but I stand by my work.
+
+157
+00:09:37,083 --> 00:09:40,083
+Read the latest paper
+from Dr. Vassbinder.
+
+158
+00:09:40,125 --> 00:09:41,792
+He has brilliant
+new theories
+
+159
+00:09:41,834 --> 00:09:44,250
+on warp-propulsion
+interrelays.
+
+160
+00:09:44,291 --> 00:09:46,417
+He'd say all this stuff
+is obsolete.
+
+161
+00:09:48,125 --> 00:09:49,875
+(<i> sighing</i> )
+
+162
+00:09:51,291 --> 00:09:53,583
+I don't know what's
+gotten into you, Wes.
+
+163
+00:09:53,625 --> 00:09:55,208
+Look, do you want
+my help or not?
+
+164
+00:09:55,250 --> 00:09:58,625
+With this kind of an
+attitude, absolutely not.
+
+165
+00:09:58,667 --> 00:09:59,709
+You're dismissed.
+
+166
+00:09:59,750 --> 00:10:00,875
+(<i> disgusted sigh</i> )
+
+167
+00:10:09,500 --> 00:10:11,083
+<i>Captain's Log,</i>
+<i>supplemental.</i>
+
+168
+00:10:11,125 --> 00:10:13,583
+<i>The</i> Enterprise<i> has</i>
+<i>arrived at Dorvan V</i>
+
+169
+00:10:13,625 --> 00:10:16,208
+<i>and I have spoken to the leader</i>
+<i>of the tribal council.</i>
+
+170
+00:10:16,250 --> 00:10:21,166
+<i>He has agreed to meet</i>
+<i>with us this afternoon</i>
+<i>to discuss the situation.</i>
+
+171
+00:10:21,208 --> 00:10:24,375
+Anthwara, there's
+very little I can do.
+
+172
+00:10:24,417 --> 00:10:26,583
+The decision about
+this planet was made
+
+173
+00:10:26,625 --> 00:10:28,291
+at the very highest
+level of Starfleet.
+
+174
+00:10:28,333 --> 00:10:31,375
+Do you know how long we
+have searched for a home?
+
+175
+00:10:31,417 --> 00:10:37,417
+Almost 200 years.
+Then we found this world.
+
+176
+00:10:37,458 --> 00:10:40,000
+Can you blame us for not
+wanting to give it up?
+
+177
+00:10:40,041 --> 00:10:43,709
+I understand, and I respect
+your people's long journey,
+
+178
+00:10:43,750 --> 00:10:46,542
+but I believe
+that I can help you
+to find a new home.
+
+179
+00:10:46,583 --> 00:10:49,250
+TROI:
+As you can see, there
+are three other planets
+
+180
+00:10:49,291 --> 00:10:51,709
+in this sector that have
+environmental conditions
+
+181
+00:10:51,750 --> 00:10:54,125
+similar to those
+here on Dorvan V.
+
+182
+00:10:54,166 --> 00:10:57,917
+They're all
+uninhabited and could
+be colonized immediately.
+
+183
+00:10:57,959 --> 00:11:00,333
+And if none of these worlds
+meets with your approval,
+
+184
+00:11:00,375 --> 00:11:01,792
+then we will find you
+other choices.
+
+185
+00:11:01,834 --> 00:11:04,250
+You do not understand,
+Captain.
+
+186
+00:11:04,291 --> 00:11:10,834
+The choice of this planet
+was not only because of
+environmental conditions.
+
+187
+00:11:10,875 --> 00:11:13,500
+There were other more...
+
+188
+00:11:14,542 --> 00:11:17,542
+intangible concerns
+as well.
+
+189
+00:11:22,875 --> 00:11:27,000
+When I came here
+20 years ago...
+
+190
+00:11:27,041 --> 00:11:34,166
+I was welcomed
+by the mountains,
+the rivers, the sky.
+
+191
+00:11:34,208 --> 00:11:37,625
+Anthwara, he's
+laughing at you.
+
+192
+00:11:37,667 --> 00:11:40,625
+He thinks you're talking
+about old superstition
+and nonsense.
+
+193
+00:11:40,667 --> 00:11:42,583
+This is not true.
+
+194
+00:11:42,625 --> 00:11:45,500
+I have the deepest
+respect for your beliefs
+
+195
+00:11:45,542 --> 00:11:47,875
+and the meaning
+that they hold
+for your people.
+
+196
+00:11:47,917 --> 00:11:50,959
+Then you can respect
+the fact
+
+197
+00:11:51,000 --> 00:11:58,041
+that<i> this</i> planet holds
+a deep spiritual
+significance for us.
+
+198
+00:11:59,667 --> 00:12:05,083
+It has taken us two centuries
+to find this place.
+
+199
+00:12:05,125 --> 00:12:09,583
+We do not want to spend
+another 200 years
+
+200
+00:12:09,625 --> 00:12:13,375
+searching for what
+we already have.
+
+201
+00:12:13,417 --> 00:12:16,333
+Captain, I suggest
+we adjourn--
+
+202
+00:12:16,375 --> 00:12:19,333
+allow us all time
+to think about
+what's been said.
+
+203
+00:12:19,375 --> 00:12:21,500
+Agreed.
+
+204
+00:12:21,542 --> 00:12:23,709
+We will reconvene
+tomorrow.
+
+205
+00:12:23,750 --> 00:12:27,750
+And in the meantime,
+I would like
+to invite you all
+
+206
+00:12:27,792 --> 00:12:29,792
+to join us this evening
+on the<i> Enterprise.</i>
+
+207
+00:12:29,834 --> 00:12:32,917
+Thank you.
+We look forward to it.
+
+208
+00:12:43,542 --> 00:12:45,208
+Ever since
+you've come onboard,
+
+209
+00:12:45,250 --> 00:12:49,000
+you've been moody,
+sullen, and rude.
+
+210
+00:12:49,041 --> 00:12:50,166
+What's going on?
+
+211
+00:12:50,208 --> 00:12:53,709
+Nothing. I just want
+to be left alone.
+
+212
+00:12:53,750 --> 00:12:56,834
+That incident
+in engineering
+was inexcusable.
+
+213
+00:12:56,875 --> 00:12:58,375
+That is my business.
+
+214
+00:12:58,417 --> 00:13:00,458
+I don't need you telling
+me how to behave.
+
+215
+00:13:00,500 --> 00:13:02,000
+I shouldn't have to.
+
+216
+00:13:02,041 --> 00:13:03,875
+You're a fourth-year
+Starfleet cadet.
+
+217
+00:13:03,917 --> 00:13:05,542
+You should have
+a certain level
+of maturity.
+
+218
+00:13:05,583 --> 00:13:08,792
+Maybe I am sick
+of following rules
+and regulations.
+
+219
+00:13:08,834 --> 00:13:11,667
+Maybe I'm sick of living
+up to everyone else's
+expectations.
+
+220
+00:13:11,709 --> 00:13:13,875
+Did you ever
+think of that?
+
+221
+00:13:15,500 --> 00:13:18,750
+(<i> door opens, closes</i> )
+
+222
+00:13:18,792 --> 00:13:21,542
+I have been fascinated,
+
+223
+00:13:21,583 --> 00:13:25,458
+looking into the
+history and traditions
+of your people,
+
+224
+00:13:25,500 --> 00:13:29,375
+and I was very interested
+to learn that your
+Grandfather Katowa
+
+225
+00:13:29,417 --> 00:13:33,125
+was the man who first led
+the group of Indians
+
+226
+00:13:33,166 --> 00:13:35,750
+from Earth initially,
+more than 200 years ago.
+
+227
+00:13:35,792 --> 00:13:38,709
+Hmm. There was a great
+deal of opposition.
+
+228
+00:13:38,750 --> 00:13:41,417
+Even my own father
+was against it.
+
+229
+00:13:41,458 --> 00:13:46,250
+But when Katowa
+made his decision,
+it was final.
+
+230
+00:13:46,291 --> 00:13:47,875
+My father never said
+another word.
+
+231
+00:13:47,917 --> 00:13:50,875
+It's never easy to
+leave one's home...
+
+232
+00:13:50,917 --> 00:13:55,041
+the safe and the familiar.
+
+233
+00:13:55,083 --> 00:13:57,917
+But there are times when...
+
+234
+00:13:57,959 --> 00:14:02,500
+the greater good
+demands that certain...
+
+235
+00:14:02,542 --> 00:14:04,375
+sacrifices are made.
+
+236
+00:14:04,417 --> 00:14:05,667
+I'm sure
+that was something
+
+237
+00:14:05,709 --> 00:14:07,542
+that your grandfather
+understood.
+
+238
+00:14:07,583 --> 00:14:10,291
+So does his grandson.
+
+239
+00:14:11,250 --> 00:14:14,166
+There are also times...
+
+240
+00:14:14,208 --> 00:14:17,875
+when a people
+sacrificed too much...
+
+241
+00:14:19,375 --> 00:14:23,333
+...when a people must
+hold on to what we have,
+
+242
+00:14:23,375 --> 00:14:26,125
+even against
+overwhelming opposition.
+
+243
+00:14:26,166 --> 00:14:29,959
+What do you know about
+your family, Captain?
+
+244
+00:14:30,000 --> 00:14:33,375
+Um, well, a great
+deal, actually.
+
+245
+00:14:33,417 --> 00:14:36,083
+My father was
+a strong believer
+
+246
+00:14:36,125 --> 00:14:40,208
+in passing on the
+traditions and history
+of a family.
+
+247
+00:14:40,250 --> 00:14:43,041
+I would like to know
+more about your family.
+
+248
+00:14:43,083 --> 00:14:46,667
+<i>We</i> have strong ties
+to our ancestors.
+
+249
+00:14:46,709 --> 00:14:50,041
+We believe their actions
+guide us... even now.
+
+250
+00:14:50,083 --> 00:14:52,333
+Knowing more
+about your family
+
+251
+00:14:52,375 --> 00:14:55,125
+might help me
+to better understand you.
+
+252
+00:14:55,166 --> 00:14:59,041
+Besides, it
+is always good
+
+253
+00:14:59,083 --> 00:15:04,625
+to understand
+one's adversary
+in any negotiation.
+
+254
+00:15:04,667 --> 00:15:06,750
+I hope that by the
+end of this matter,
+
+255
+00:15:06,792 --> 00:15:10,083
+you will
+no longer look on me
+as an adversary.
+
+256
+00:15:11,333 --> 00:15:15,291
+My family.
+Well, um...
+
+257
+00:15:15,333 --> 00:15:19,208
+our roots in Western
+Europe go back to the
+time of Charlemagne.
+
+258
+00:15:19,250 --> 00:15:22,083
+There is a record
+of a nobleman...
+
+259
+00:15:23,333 --> 00:15:24,792
+Sorry I'm late.
+
+260
+00:15:24,834 --> 00:15:27,041
+We'll talk
+about it later.
+
+261
+00:15:45,291 --> 00:15:47,875
+MAN:
+Wesley Crusher?
+
+262
+00:15:50,750 --> 00:15:51,917
+Yes?
+
+263
+00:15:51,959 --> 00:15:54,792
+I am Lakanta.
+
+264
+00:15:54,834 --> 00:15:57,041
+It's nice to meet you.
+
+265
+00:15:59,000 --> 00:16:02,041
+Can I get you
+a drink or something?
+
+266
+00:16:02,083 --> 00:16:04,917
+I have known...
+
+267
+00:16:04,959 --> 00:16:09,709
+that you were coming to us
+for the past two years.
+
+268
+00:16:16,417 --> 00:16:19,500
+Two years ago...
+
+269
+00:16:19,542 --> 00:16:23,709
+I went into the habak
+and began a vision quest,
+
+270
+00:16:23,750 --> 00:16:26,125
+and while I was there,
+I saw many things,
+
+271
+00:16:26,166 --> 00:16:31,125
+talked to many animals,
+many spirits...
+
+272
+00:16:33,083 --> 00:16:35,041
+and I saw you.
+
+273
+00:16:35,083 --> 00:16:37,625
+I don't think
+I understand.
+
+274
+00:16:37,667 --> 00:16:43,250
+I know why you came
+to us, Wesley--
+
+275
+00:16:43,291 --> 00:16:48,583
+to find the answers
+that you seek.
+
+276
+00:16:59,709 --> 00:17:01,125
+I just don't know
+what to do, Jean-Luc.
+
+277
+00:17:01,166 --> 00:17:02,917
+It's as if somebody
+took my son away
+
+278
+00:17:02,959 --> 00:17:04,625
+and left this stranger
+in his place.
+
+279
+00:17:04,667 --> 00:17:06,709
+But in a sense, that's
+exactly what happened.
+
+280
+00:17:06,750 --> 00:17:09,166
+When Wesley left
+the<i> Enterprise</i>
+three years ago,
+
+281
+00:17:09,208 --> 00:17:12,542
+he was a boy,
+and now he has
+returned a young man.
+
+282
+00:17:12,583 --> 00:17:17,166
+And that can't be
+easy for a mother
+or a son.
+
+283
+00:17:17,208 --> 00:17:18,792
+But it's gone beyond
+just the two of us.
+
+284
+00:17:18,834 --> 00:17:22,458
+Yes, I heard about the
+incident with Geordi.
+
+285
+00:17:22,500 --> 00:17:24,625
+Have you heard what
+happened in the academy?
+
+286
+00:17:24,667 --> 00:17:26,834
+I called
+Admiral Brand today.
+
+287
+00:17:26,875 --> 00:17:28,709
+She said his grades
+are dropping,
+
+288
+00:17:28,750 --> 00:17:30,583
+that he's becoming
+remote and defensive.
+
+289
+00:17:30,625 --> 00:17:33,208
+If he's not careful,
+he's going to wash
+out next term.
+
+290
+00:17:33,250 --> 00:17:37,542
+Maybe... maybe you should
+talk to him, Jean-Luc.
+
+291
+00:17:37,583 --> 00:17:39,333
+Maybe it's the kind
+of thing that a boy--
+
+292
+00:17:39,375 --> 00:17:41,291
+a<i> man--</i> needs to discuss
+with another man.
+
+293
+00:17:41,333 --> 00:17:44,500
+I don't think he wants
+either of us to talk
+to him right now.
+
+294
+00:17:44,542 --> 00:17:45,792
+But he needs our help.
+
+295
+00:17:45,834 --> 00:17:48,250
+But, Beverly, he's
+got to<i> want</i> that help.
+
+296
+00:17:48,291 --> 00:17:51,375
+If he doesn't, then
+any efforts on our part
+
+297
+00:17:51,417 --> 00:17:53,041
+could only push him
+further away.
+
+298
+00:17:53,083 --> 00:18:00,375
+He's-- he's got
+to... work this out
+for himself.
+
+299
+00:18:08,667 --> 00:18:11,291
+How long have you
+been watching me?
+
+300
+00:18:12,458 --> 00:18:15,625
+Since you beamed down.
+
+301
+00:18:15,667 --> 00:18:18,291
+Well, I'm here.
+
+302
+00:18:18,333 --> 00:18:20,333
+What should I do?
+
+303
+00:18:20,375 --> 00:18:23,375
+I don't know.
+
+304
+00:18:23,417 --> 00:18:26,291
+I thought you said
+you were going to help me
+find some answers.
+
+305
+00:18:26,333 --> 00:18:28,500
+Answers
+to your questions.
+
+306
+00:18:30,417 --> 00:18:32,834
+Tell me about this habak.
+
+307
+00:18:32,875 --> 00:18:35,875
+You said you had some
+kind of vision there?
+
+308
+00:18:38,083 --> 00:18:41,917
+The habak is holy to us.
+
+309
+00:18:41,959 --> 00:18:46,458
+We hold our rituals
+and our ceremonies there.
+
+310
+00:18:46,500 --> 00:18:49,125
+It's sacred to us.
+
+311
+00:18:49,166 --> 00:18:51,250
+What's sacred to you,
+Wesley?
+
+312
+00:18:53,125 --> 00:18:55,667
+I don't know.
+
+313
+00:18:55,709 --> 00:18:58,125
+I mean, I think
+a lot of things
+are important.
+
+314
+00:18:58,166 --> 00:19:00,583
+I have a lot of
+respect for things,
+
+315
+00:19:00,625 --> 00:19:04,041
+but I don't really
+consider anything sacred.
+
+316
+00:19:04,083 --> 00:19:07,208
+Look around us.
+
+317
+00:19:07,250 --> 00:19:10,041
+What do you think
+is sacred to us here?
+
+318
+00:19:10,083 --> 00:19:13,250
+Maybe the necklace
+you're wearing?
+
+319
+00:19:16,000 --> 00:19:18,417
+The designs on the walls?
+
+320
+00:19:19,542 --> 00:19:22,583
+Everything
+is sacred to us.
+
+321
+00:19:22,625 --> 00:19:26,375
+The buildings,
+the food, the sky,
+
+322
+00:19:26,417 --> 00:19:30,834
+the dirt beneath
+your feet and you.
+
+323
+00:19:30,875 --> 00:19:37,917
+Whether you believe
+in your spirit or not,
+we believe in it.
+
+324
+00:19:37,959 --> 00:19:42,041
+You are a sacred
+person here, Wesley.
+
+325
+00:19:42,083 --> 00:19:45,083
+I think that's the
+first time anyone's used
+
+326
+00:19:45,125 --> 00:19:47,291
+<i>that</i> particular word
+to describe me.
+
+327
+00:19:47,333 --> 00:19:55,041
+So, if you are sacred,
+then you<i> must</i> treat
+yourself with respect.
+
+328
+00:19:55,083 --> 00:19:59,000
+To do otherwise
+is to desecrate
+something that is holy.
+
+329
+00:19:59,041 --> 00:20:02,208
+Is that what you think
+I've been doing?
+
+330
+00:20:02,250 --> 00:20:05,083
+Only you can
+decide that.
+
+331
+00:20:06,917 --> 00:20:11,417
+I guess I haven't
+had a lot of respect
+for myself lately.
+
+332
+00:20:13,166 --> 00:20:19,083
+Then perhaps it's time
+for your own vision
+quest to begin.
+
+333
+00:20:27,291 --> 00:20:31,792
+Anthwara, I deeply regret
+that we have not been able
+to reach an agreement.
+
+334
+00:20:31,834 --> 00:20:37,792
+But-- and I must be
+blunt-- I cannot take
+no for an answer.
+
+335
+00:20:37,834 --> 00:20:42,083
+This planet will be
+handed over to the
+Cardassian government
+
+336
+00:20:42,125 --> 00:20:45,458
+in accordance with the terms
+of the border agreement.
+
+337
+00:20:45,500 --> 00:20:50,125
+I'm very sorry, but
+you will have to leave.
+
+338
+00:20:50,166 --> 00:20:51,917
+And if we do not?
+
+339
+00:20:51,959 --> 00:20:56,166
+Then I will be forced...
+to remove you
+
+340
+00:20:56,208 --> 00:20:58,625
+by whatever means
+are necessary.
+
+341
+00:20:58,667 --> 00:21:01,834
+We know you will
+not take us from
+this land, Captain.
+
+342
+00:21:01,875 --> 00:21:04,875
+I may regret it,
+but I am not able...
+
+343
+00:21:04,917 --> 00:21:09,083
+When you first came to us,
+we did not know
+
+344
+00:21:09,125 --> 00:21:11,750
+why<i> you</i> were sent
+by the Federation,
+
+345
+00:21:11,792 --> 00:21:14,959
+but we knew there
+must be a good reason.
+
+346
+00:21:15,000 --> 00:21:20,500
+To us, nothing that
+happens is truly random.
+
+347
+00:21:22,041 --> 00:21:27,166
+So, we searched
+for the true reason
+you were sent,
+
+348
+00:21:27,208 --> 00:21:29,667
+and we did not find it
+until last night.
+
+349
+00:21:29,709 --> 00:21:34,333
+Are you familiar
+with the Pueblo
+Revolt of 1680?
+
+350
+00:21:34,375 --> 00:21:36,291
+I am.
+
+351
+00:21:36,333 --> 00:21:40,291
+Several Indian tribes
+rose up to overthrow
+their Spanish overlords
+
+352
+00:21:40,333 --> 00:21:42,875
+and drove them
+out of what is now
+called New Mexico.
+
+353
+00:21:42,917 --> 00:21:49,125
+Ten years later,
+the Spanish returned
+to reconquer the area.
+
+354
+00:21:49,166 --> 00:21:55,291
+They were brutal.
+I would use the word...
+"savage."
+
+355
+00:21:55,333 --> 00:21:58,041
+They killed hundreds
+of our people.
+
+356
+00:21:58,083 --> 00:22:00,583
+Thousands more
+were maimed.
+
+357
+00:22:00,625 --> 00:22:05,583
+The name of one
+of the soldiers
+
+358
+00:22:05,625 --> 00:22:10,250
+was Javier Maribona...
+
+359
+00:22:10,291 --> 00:22:15,542
+Picard...
+your ancestor.
+
+360
+00:22:15,583 --> 00:22:21,083
+I'm not aware of this
+incident or of the
+man you named...
+
+361
+00:22:22,709 --> 00:22:25,250
+...and this happened
+more than 700 years ago.
+
+362
+00:22:25,291 --> 00:22:27,417
+I do not see what
+bearing it can have...
+
+363
+00:22:27,458 --> 00:22:30,166
+That is why you
+have come to us--
+
+364
+00:22:30,208 --> 00:22:35,500
+to erase a stain of blood
+
+365
+00:22:35,542 --> 00:22:41,542
+worn by your family
+for 23 generations.
+
+366
+00:22:48,709 --> 00:22:50,875
+(<i> door opens</i> )
+
+367
+00:22:53,834 --> 00:22:56,333
+(<i> dog barking</i> )
+
+368
+00:22:57,959 --> 00:23:00,083
+Mr. Worf,
+what is going on?
+
+369
+00:23:00,125 --> 00:23:04,041
+We have unwelcome
+visitors, sir.
+
+370
+00:23:14,667 --> 00:23:17,709
+I'm Captain Jean-Luc Picard
+of the<i> Enterprise.</i>
+
+371
+00:23:17,750 --> 00:23:19,917
+I am Gul Evek.
+
+372
+00:23:19,959 --> 00:23:22,458
+What are all these
+people still doing here?
+
+373
+00:23:22,500 --> 00:23:25,000
+The evacuation should be
+well underway by now.
+
+374
+00:23:25,041 --> 00:23:27,875
+May I have a word
+with you... alone?
+
+375
+00:23:27,917 --> 00:23:29,625
+(<i> sighing</i> )
+
+376
+00:23:29,667 --> 00:23:31,333
+As you wish.
+
+377
+00:23:31,375 --> 00:23:33,500
+Wait here.
+
+378
+00:23:41,750 --> 00:23:43,667
+It was my understanding
+that there would be
+
+379
+00:23:43,709 --> 00:23:46,166
+no Cardassian presence here
+for another six weeks.
+
+380
+00:23:46,208 --> 00:23:50,000
+Your arrival here may
+have upset some very
+delicate negotiations.
+
+381
+00:23:50,041 --> 00:23:52,750
+Negotiations?
+The status of this planet
+
+382
+00:23:52,792 --> 00:23:54,542
+has been settled.
+What are you negotiating?
+
+383
+00:23:54,583 --> 00:23:56,792
+I will be very happy
+to explain that to you,
+
+384
+00:23:56,834 --> 00:24:00,750
+but for now, I must
+ask you and your men
+to leave immediately.
+
+385
+00:24:00,792 --> 00:24:01,875
+Captain,
+we have been sent here
+
+386
+00:24:01,917 --> 00:24:03,417
+to perform
+a preliminary survey
+
+387
+00:24:03,458 --> 00:24:06,458
+of all the buildings
+and equipment being
+left behind.
+
+388
+00:24:06,500 --> 00:24:08,041
+I have no intention
+of leaving
+
+389
+00:24:08,083 --> 00:24:09,709
+until our mission
+is complete.
+
+390
+00:24:10,625 --> 00:24:12,083
+Very well.
+
+391
+00:24:12,125 --> 00:24:15,625
+Complete your mission,
+but remember,
+
+392
+00:24:15,667 --> 00:24:20,542
+this is Federation
+territory, Gul Evek,
+and until that changes,
+
+393
+00:24:20,583 --> 00:24:25,875
+these people are under
+<i>my</i> jurisdiction and
+I will protect them.
+
+394
+00:24:25,917 --> 00:24:27,458
+Is that a threat?
+
+395
+00:24:27,500 --> 00:24:28,959
+It's a fact.
+
+396
+00:24:29,000 --> 00:24:32,875
+Bear that in mind while
+you conduct your "survey."
+
+397
+00:24:50,917 --> 00:24:56,667
+This is the habak,
+the focal point
+of our lives.
+
+398
+00:24:56,709 --> 00:24:58,667
+Strangers are
+not welcome here.
+
+399
+00:24:58,709 --> 00:25:01,375
+When I asked to come
+here, you said that
+it would be...
+
+400
+00:25:01,417 --> 00:25:05,166
+You're not a stranger.
+I told you.
+
+401
+00:25:05,208 --> 00:25:07,166
+I've seen you here before.
+
+402
+00:25:09,875 --> 00:25:11,542
+What are those figures?
+
+403
+00:25:11,583 --> 00:25:15,375
+They are Mansara--
+dolls that represent
+
+404
+00:25:15,417 --> 00:25:18,166
+the different spirits
+that have come to
+this place.
+
+405
+00:25:18,208 --> 00:25:20,667
+That one looks
+like a Klingon.
+
+406
+00:25:22,166 --> 00:25:27,417
+Yes. Our culture
+is rooted in the past,
+
+407
+00:25:27,458 --> 00:25:31,208
+but it's not
+limited to the past.
+
+408
+00:25:31,250 --> 00:25:35,542
+The spirits of
+the Klingon, the Vulcan,
+and the Ferengi
+
+409
+00:25:35,583 --> 00:25:40,166
+come to us just as
+the bear and the
+coyote, the parrot.
+
+410
+00:25:43,709 --> 00:25:45,583
+There's no difference.
+
+411
+00:25:46,792 --> 00:25:48,667
+What should I do?
+
+412
+00:25:50,083 --> 00:25:52,125
+Start the fire.
+
+413
+00:25:52,166 --> 00:25:54,000
+And then sit and wait.
+
+414
+00:25:54,041 --> 00:25:55,625
+What am I waiting for?
+
+415
+00:25:55,667 --> 00:25:58,709
+This is<i> your</i> journey,
+Wesley.
+
+416
+00:25:58,750 --> 00:26:02,542
+I can open the door,
+but only you can go
+through it.
+
+417
+00:26:09,458 --> 00:26:11,542
+Admiral, the Indian
+council is adamant.
+
+418
+00:26:11,583 --> 00:26:13,458
+They refuse to
+leave Dorvan V.
+
+419
+00:26:13,500 --> 00:26:15,375
+Is there any indication
+the tribal council
+
+420
+00:26:15,417 --> 00:26:17,667
+will change their position
+in the near future?
+
+421
+00:26:17,709 --> 00:26:18,750
+No, sir.
+
+422
+00:26:18,792 --> 00:26:20,583
+Then I see
+no other choice.
+
+423
+00:26:20,625 --> 00:26:22,834
+Admiral, I have
+every reason to believe
+
+424
+00:26:22,875 --> 00:26:25,375
+that they will resist
+any attempt to remove them.
+
+425
+00:26:25,417 --> 00:26:27,583
+I strongly urge
+you to request
+
+426
+00:26:27,625 --> 00:26:29,709
+an emergency session
+of the Federation council.
+
+427
+00:26:29,750 --> 00:26:33,250
+The issue of Dorvan V
+must be reopened.
+
+428
+00:26:33,291 --> 00:26:35,458
+Captain, I made that
+request two days ago.
+
+429
+00:26:35,500 --> 00:26:37,458
+The answer was no.
+
+430
+00:26:37,500 --> 00:26:39,333
+I'm sorry,
+but you have your orders.
+
+431
+00:26:39,375 --> 00:26:41,458
+Starfleet out.
+
+432
+00:26:41,500 --> 00:26:44,083
+So much for your reprieve
+from Starfleet.
+
+433
+00:26:46,792 --> 00:26:48,709
+(<i> sighs</i> )
+
+434
+00:26:51,417 --> 00:26:53,834
+Anthwara believes...
+
+435
+00:26:53,875 --> 00:26:57,291
+that I am responsible
+for the crimes
+
+436
+00:26:57,333 --> 00:27:00,208
+of one of my ancestors
+against his people.
+
+437
+00:27:00,250 --> 00:27:02,041
+Do you believe that?
+
+438
+00:27:02,083 --> 00:27:05,917
+No, of course not.
+I respect his belief,
+
+439
+00:27:05,959 --> 00:27:12,250
+but I do not see
+how it can have any
+bearing on this mission.
+
+440
+00:27:12,291 --> 00:27:15,792
+But even so,
+I can't help wondering...
+
+441
+00:27:15,834 --> 00:27:23,792
+if a dark chapter
+in my family's history
+is about to be repeated.
+
+442
+00:27:23,834 --> 00:27:27,375
+If those people
+take up arms against us,
+
+443
+00:27:27,417 --> 00:27:30,583
+then I cannot foresee
+the consequences.
+
+444
+00:27:33,208 --> 00:27:35,250
+Mr. Worf, will you
+come in here a moment?
+
+445
+00:27:35,291 --> 00:27:37,542
+Aye, sir.
+
+446
+00:27:43,917 --> 00:27:48,291
+Mr. Worf, will you
+begin preparations
+
+447
+00:27:48,333 --> 00:27:50,959
+to remove the inhabitants
+from Dorvan V?
+
+448
+00:27:51,000 --> 00:27:52,583
+Aye, sir.
+
+449
+00:28:31,208 --> 00:28:34,291
+Wesley.
+
+450
+00:28:35,792 --> 00:28:37,083
+Dad?
+
+451
+00:28:37,125 --> 00:28:39,667
+You've reached
+the end, Wesley.
+
+452
+00:28:39,709 --> 00:28:42,041
+The end of what?
+
+453
+00:28:42,083 --> 00:28:46,166
+This journey--
+one you started
+a long time ago...
+
+454
+00:28:46,208 --> 00:28:48,667
+when I left you
+and your mother.
+
+455
+00:28:48,709 --> 00:28:51,208
+You mean when you died.
+
+456
+00:28:51,250 --> 00:28:54,583
+You set out on a journey
+that wasn't your own.
+
+457
+00:28:54,625 --> 00:28:57,875
+Now it's time to find
+a path that is truly yours.
+
+458
+00:28:57,917 --> 00:29:00,667
+Don't follow<i> me</i>
+any further.
+
+459
+00:29:00,709 --> 00:29:02,709
+I don't understand.
+
+460
+00:29:02,750 --> 00:29:04,000
+Yes, you do.
+
+461
+00:29:04,041 --> 00:29:06,792
+It's just hard
+for you to accept.
+
+462
+00:29:06,834 --> 00:29:10,834
+Good-bye, Wesley,
+and good luck.
+
+463
+00:29:13,625 --> 00:29:14,500
+Dad, wait!
+
+464
+00:29:14,542 --> 00:29:15,709
+(<i> gasps</i> )
+
+465
+00:29:37,625 --> 00:29:39,709
+Mr. Crusher.
+
+466
+00:29:40,625 --> 00:29:42,458
+Are you all right?
+
+467
+00:29:42,500 --> 00:29:44,250
+Yeah, Worf, I'm fine.
+
+468
+00:29:44,291 --> 00:29:47,375
+Lay out a
+confinement beam trace
+
+469
+00:29:47,417 --> 00:29:50,333
+along the southeastern
+side of the village,
+but be discreet.
+
+470
+00:29:50,375 --> 00:29:52,000
+We do not wish to
+alarm these people.
+
+471
+00:29:52,041 --> 00:29:53,083
+Yes, sir.
+
+472
+00:29:56,709 --> 00:30:01,875
+Worf?
+What are you doing?
+
+473
+00:30:03,917 --> 00:30:07,834
+We are laying out
+transporter coordinates
+for a security perimeter.
+
+474
+00:30:07,875 --> 00:30:11,792
+It may be necessary
+to remove these people
+by force.
+
+475
+00:30:15,875 --> 00:30:20,583
+Worf...
+we can't do this.
+
+476
+00:30:20,625 --> 00:30:24,583
+These people deserve
+better than to be
+removed from their homes.
+
+477
+00:30:24,625 --> 00:30:25,875
+I understand, but
+now is not the time.
+
+478
+00:30:25,917 --> 00:30:27,792
+Do you know what
+they're trying to do?
+
+479
+00:30:27,834 --> 00:30:31,291
+They're preparing to
+beam you away and take
+you to their ship.
+
+480
+00:30:31,333 --> 00:30:33,250
+You're not going to let
+them do that, are you?
+
+481
+00:30:33,291 --> 00:30:34,250
+No.
+
+482
+00:30:34,291 --> 00:30:36,959
+No, we won't.
+
+483
+00:30:37,000 --> 00:30:38,667
+Leave now.
+
+484
+00:30:38,709 --> 00:30:39,875
+Yeah!
+
+485
+00:30:46,333 --> 00:30:48,041
+Inexcusable.
+
+486
+00:30:48,083 --> 00:30:50,709
+You defied the orders
+of the ranking officer
+on the scene.
+
+487
+00:30:50,750 --> 00:30:53,500
+You put the lives
+of the entire away
+team in jeopardy,
+
+488
+00:30:53,542 --> 00:30:57,291
+and you made
+an already tense
+situation worse.
+
+489
+00:30:59,792 --> 00:31:05,709
+Your actions reflect
+very badly on this ship
+and on that uniform.
+
+490
+00:31:05,750 --> 00:31:10,458
+Now, I want an
+explanation, Mr. Crusher,
+and I want it now.
+
+491
+00:31:14,959 --> 00:31:17,125
+What you're doing
+down there is wrong.
+
+492
+00:31:17,166 --> 00:31:20,834
+These people are not
+some random group
+of colonists.
+
+493
+00:31:20,875 --> 00:31:22,375
+They're a unique culture
+with a history
+
+494
+00:31:22,417 --> 00:31:24,208
+that predates the
+Federation and Starfleet.
+
+495
+00:31:24,250 --> 00:31:26,917
+That does not alter
+the fact that my
+orders are to...
+
+496
+00:31:26,959 --> 00:31:28,834
+I know Admiral Necheyev
+gave you an order,
+
+497
+00:31:28,875 --> 00:31:31,625
+and she was given
+an order from the
+Federation council,
+
+498
+00:31:31,667 --> 00:31:33,041
+but it's still wrong.
+
+499
+00:31:33,083 --> 00:31:36,917
+That decision is not
+yours to make, Cadet.
+
+500
+00:31:38,417 --> 00:31:40,959
+I don't know what has
+got into you lately,
+
+501
+00:31:41,000 --> 00:31:43,333
+and frankly, right now,
+I don't care.
+
+502
+00:31:43,375 --> 00:31:46,625
+But I will tell you
+this-- while you
+wear that uniform,
+
+503
+00:31:46,667 --> 00:31:49,375
+you will obey every
+order you are given
+
+504
+00:31:49,417 --> 00:31:53,250
+and you<i> will</i> conform
+to Starfleet regulations
+and rules of conduct.
+
+505
+00:31:53,291 --> 00:31:55,000
+Is that clear?
+
+506
+00:31:55,041 --> 00:32:01,166
+Yes, sir, it is,
+but I won't be wearing
+this uniform any longer.
+
+507
+00:32:01,208 --> 00:32:03,875
+I'm resigning
+from the academy.
+
+508
+00:32:06,208 --> 00:32:07,625
+(<i> badge drops</i> )
+
+509
+00:32:08,709 --> 00:32:12,458
+(<i> door opens, closes</i> )
+
+510
+00:32:13,667 --> 00:32:14,834
+Riker to Captain.
+
+511
+00:32:14,875 --> 00:32:16,333
+Go ahead, Number One.
+
+512
+00:32:16,375 --> 00:32:18,041
+Gul Evek
+wants to meet with you
+
+513
+00:32:18,083 --> 00:32:22,291
+to discuss the situation
+on the surface.
+
+514
+00:32:22,333 --> 00:32:24,000
+Let him come aboard.
+
+515
+00:32:24,041 --> 00:32:25,208
+I'll see him in here.
+
+516
+00:32:25,250 --> 00:32:26,583
+Aye, sir.
+
+517
+00:32:34,959 --> 00:32:36,792
+Why are you doing this?
+
+518
+00:32:36,834 --> 00:32:38,917
+I told you.
+
+519
+00:32:40,625 --> 00:32:43,375
+Starfleet isn't for me.
+
+520
+00:32:45,000 --> 00:32:47,500
+Look, I may not
+be able to stop you
+
+521
+00:32:47,542 --> 00:32:49,458
+from throwing away
+your entire life,
+
+522
+00:32:49,500 --> 00:32:53,000
+but you<i> are</i> going to
+stand here and explain
+it to me first.
+
+523
+00:32:53,041 --> 00:32:55,208
+You owe me that much.
+
+524
+00:32:59,583 --> 00:33:05,291
+I saw Dad today.
+He told me not
+to follow him.
+
+525
+00:33:05,333 --> 00:33:07,000
+You what?
+
+526
+00:33:07,041 --> 00:33:13,750
+I was participating
+in an Indian ritual
+and I had a vision.
+
+527
+00:33:13,792 --> 00:33:17,208
+Dad came to me and told
+me not to follow him.
+
+528
+00:33:17,250 --> 00:33:20,500
+He said I had to
+find my own path.
+
+529
+00:33:20,542 --> 00:33:22,667
+Is that what
+this is all about?
+
+530
+00:33:22,709 --> 00:33:25,083
+A vision told you
+to leave the academy,
+
+531
+00:33:25,125 --> 00:33:26,583
+and now you're
+packing your bags?
+
+532
+00:33:26,625 --> 00:33:29,750
+No. No, it's
+more than that.
+
+533
+00:33:29,792 --> 00:33:33,250
+I've known
+I needed to do this
+for a long time.
+
+534
+00:33:33,291 --> 00:33:35,583
+I just haven't been able
+to admit it to myself.
+
+535
+00:33:35,625 --> 00:33:37,625
+But you always said
+that being at the academy
+
+536
+00:33:37,667 --> 00:33:39,166
+was the best thing that
+ever happened to you.
+
+537
+00:33:39,208 --> 00:33:41,792
+I know.
+For a while, it was.
+
+538
+00:33:41,834 --> 00:33:44,917
+But as time went on
+and graduation got closer,
+
+539
+00:33:44,959 --> 00:33:48,041
+I... I started feeling
+really depressed.
+
+540
+00:33:48,083 --> 00:33:50,000
+I thought maybe
+it was the workload
+
+541
+00:33:50,041 --> 00:33:53,875
+or the stress
+of being away from home,
+but it didn't go away.
+
+542
+00:33:53,917 --> 00:33:55,166
+It just got worse.
+
+543
+00:33:55,208 --> 00:33:56,583
+(<i> sighing</i> )
+
+544
+00:33:59,917 --> 00:34:02,792
+Why didn't you
+ever say anything?
+
+545
+00:34:02,834 --> 00:34:06,959
+I didn't want to
+disappoint you or Captain
+Picard or my friends.
+
+546
+00:34:07,000 --> 00:34:09,291
+You guys were
+all so proud of me.
+
+547
+00:34:09,333 --> 00:34:13,583
+I'd be proud of you
+no matter what you
+were doing, Wesley.
+
+548
+00:34:13,625 --> 00:34:16,500
+I love<i> you.</i>
+
+549
+00:34:16,542 --> 00:34:19,709
+I know, Mom.
+
+550
+00:34:19,750 --> 00:34:25,625
+I guess the truth is
+that I was afraid of
+disappointing myself.
+
+551
+00:34:25,667 --> 00:34:28,750
+I never questioned
+the fact that I would
+be in Starfleet,
+
+552
+00:34:28,792 --> 00:34:31,959
+but when Dad said
+not to follow him,
+
+553
+00:34:32,000 --> 00:34:34,834
+it just made
+so much sense.
+
+554
+00:34:34,875 --> 00:34:37,709
+Everything is
+so clear now.
+
+555
+00:34:42,333 --> 00:34:46,458
+Maybe it is partly
+my fault.
+
+556
+00:34:49,333 --> 00:34:52,583
+We didn't realize
+the kind of pressure
+we were putting on you
+
+557
+00:34:52,625 --> 00:34:55,709
+to be exactly what we
+expected you to be.
+
+558
+00:34:56,959 --> 00:34:59,375
+Oh, I don't blame
+you at all.
+
+559
+00:34:59,417 --> 00:35:02,875
+This is my decision.
+It always has been.
+
+560
+00:35:02,917 --> 00:35:09,750
+You know that... alien...
+from Tau Ceti--
+
+561
+00:35:09,792 --> 00:35:12,792
+the one who could control
+warp fields with his mind?
+
+562
+00:35:12,834 --> 00:35:14,166
+The traveler.
+
+563
+00:35:14,208 --> 00:35:16,083
+He told Captain Picard
+a long time ago
+
+564
+00:35:16,125 --> 00:35:21,000
+that you were very
+special, like Mozart...
+
+565
+00:35:21,041 --> 00:35:24,083
+and that you were
+destined for something
+quite different
+
+566
+00:35:24,125 --> 00:35:25,291
+from the rest of us.
+
+567
+00:35:25,333 --> 00:35:29,083
+Maybe this is
+the first step.
+
+568
+00:35:30,834 --> 00:35:33,291
+I love you.
+
+569
+00:35:35,125 --> 00:35:38,834
+I love you, too, Mom.
+
+570
+00:35:38,875 --> 00:35:41,291
+You shouldn't
+be here, Wesley.
+
+571
+00:35:41,333 --> 00:35:43,166
+Why?
+
+572
+00:35:44,250 --> 00:35:45,750
+Get down there!
+
+573
+00:35:48,208 --> 00:35:49,709
+Bring them over here.
+
+574
+00:35:49,750 --> 00:35:53,208
+Why have you taken
+these men prisoner?
+
+575
+00:35:53,250 --> 00:35:56,542
+This is not their world.
+They have no right
+to be here.
+
+576
+00:35:56,583 --> 00:36:00,125
+The terms of the treaty
+gives them the right
+to survey this planet.
+
+577
+00:36:00,166 --> 00:36:02,917
+We don't recognize
+that treaty.
+
+578
+00:36:02,959 --> 00:36:06,083
+(<i> indistinct shouting</i> )
+
+579
+00:36:12,375 --> 00:36:14,333
+Worf to Picard.
+
+580
+00:36:14,375 --> 00:36:17,583
+An armed group of
+Indians has taken two
+Cardassian prisoners.
+
+581
+00:36:17,625 --> 00:36:19,875
+The situation
+is extremely volatile.
+
+582
+00:36:19,917 --> 00:36:21,208
+Request instructions.
+
+583
+00:36:21,250 --> 00:36:24,500
+Stand by, Mr. Worf.
+
+584
+00:36:24,542 --> 00:36:26,208
+Have your ship
+lock on to your people
+
+585
+00:36:26,250 --> 00:36:28,125
+and beam them out of there
+before something happens.
+
+586
+00:36:28,166 --> 00:36:31,458
+<i>My</i> people? What about
+these Indians of yours?
+
+587
+00:36:31,500 --> 00:36:32,917
+They've taken hostages!
+
+588
+00:36:32,959 --> 00:36:34,583
+This is our planet,
+Captain.
+
+589
+00:36:34,625 --> 00:36:37,750
+We will not
+be chased away
+by some unruly crowd.
+
+590
+00:36:37,792 --> 00:36:39,417
+Gul Evek to the<i> Vetar.</i>
+
+591
+00:36:39,458 --> 00:36:42,000
+This is Glinn Telak
+aboard the<i> Vetar.</i> 
+Go ahead.
+
+592
+00:36:42,041 --> 00:36:44,583
+Two of our men on
+the surface have
+been taken prisoner.
+
+593
+00:36:44,625 --> 00:36:46,333
+Prepare to send an
+armed squad of troopers
+
+594
+00:36:46,375 --> 00:36:48,875
+to rescue them and
+to occupy the village.
+
+595
+00:36:48,917 --> 00:36:52,041
+Gul Evek, those people
+are Federation citizens
+
+596
+00:36:52,083 --> 00:36:53,917
+and I am sworn
+to protect them.
+
+597
+00:36:53,959 --> 00:36:56,041
+If your troops
+attack that village,
+
+598
+00:36:56,083 --> 00:36:58,375
+my security forces
+will respond.
+
+599
+00:36:58,417 --> 00:37:00,041
+I hope you realize
+the consequences
+
+600
+00:37:00,083 --> 00:37:03,166
+of Federation officers
+firing on Cardassian troops.
+
+601
+00:37:03,208 --> 00:37:05,583
+Oh, yes, I do.
+That is why
+
+602
+00:37:05,625 --> 00:37:09,792
+we must stop this now
+before it's too late.
+
+603
+00:37:12,750 --> 00:37:15,834
+I cannot allow you
+to hold these men
+as prisoners.
+
+604
+00:37:15,875 --> 00:37:17,917
+You have no
+authority here.
+
+605
+00:37:17,959 --> 00:37:19,125
+(<i> grunting</i> )
+
+606
+00:37:22,542 --> 00:37:24,625
+No!
+
+607
+00:37:32,166 --> 00:37:34,250
+What happened?
+
+608
+00:37:38,542 --> 00:37:39,625
+Did you do this?
+
+609
+00:37:39,667 --> 00:37:41,041
+(<i> chuckles</i> )
+
+610
+00:37:41,083 --> 00:37:44,417
+I didn't do
+anything; you did.
+
+611
+00:37:44,458 --> 00:37:45,834
+<i>I</i> did?
+
+612
+00:37:45,875 --> 00:37:49,500
+You pulled yourself
+out of their time.
+
+613
+00:37:49,542 --> 00:37:51,583
+You took the
+first step, Wesley.
+
+614
+00:37:51,625 --> 00:37:53,417
+My first step to where?
+
+615
+00:37:53,458 --> 00:37:56,208
+To another plane
+of existence...
+
+616
+00:37:56,250 --> 00:37:58,000
+another way of thinking.
+
+617
+00:37:58,041 --> 00:37:59,208
+I don't understand.
+
+618
+00:37:59,250 --> 00:38:01,959
+You found a new
+beginning for yourself--
+
+619
+00:38:02,000 --> 00:38:03,583
+the first step
+on a journey
+
+620
+00:38:03,625 --> 00:38:06,417
+that few humans
+will ever take.
+
+621
+00:38:06,458 --> 00:38:09,000
+Who are you?
+
+622
+00:38:12,875 --> 00:38:15,500
+The traveler.
+
+623
+00:38:15,542 --> 00:38:19,000
+I've waited a long time
+for this moment, Wesley.
+
+624
+00:38:19,041 --> 00:38:24,291
+So, all those things
+I saw in the habak--
+
+625
+00:38:24,333 --> 00:38:28,083
+my father and the things
+he said to me--
+
+626
+00:38:28,125 --> 00:38:29,667
+that was<i> your</i> doing?
+
+627
+00:38:29,709 --> 00:38:32,250
+I merely opened
+the door for you.
+
+628
+00:38:32,291 --> 00:38:35,041
+What you experienced
+came from your own mind--
+
+629
+00:38:35,083 --> 00:38:38,375
+your own...
+spirit, if you wish.
+
+630
+00:38:38,417 --> 00:38:40,291
+I hoped that you
+would open your mind
+
+631
+00:38:40,333 --> 00:38:42,291
+to new possibilities,
+and you did.
+
+632
+00:38:42,333 --> 00:38:45,208
+You pulled yourself out
+of time, don't you see?
+
+633
+00:38:45,250 --> 00:38:47,041
+You've evolved
+to a new level.
+
+634
+00:38:47,083 --> 00:38:48,417
+You're ready to
+explore places
+
+635
+00:38:48,458 --> 00:38:50,792
+where thought
+and energy combine
+
+636
+00:38:50,834 --> 00:38:53,917
+in ways you can't
+even imagine.
+
+637
+00:38:53,959 --> 00:38:57,041
+And I will
+be your guide...
+
+638
+00:38:57,083 --> 00:38:59,333
+if you like.
+
+639
+00:39:03,375 --> 00:39:04,875
+What about them?
+
+640
+00:39:04,917 --> 00:39:07,291
+I can't just leave
+them like this.
+
+641
+00:39:07,333 --> 00:39:09,917
+They must find their
+own destinies, Wesley.
+
+642
+00:39:09,959 --> 00:39:12,625
+It's not our place
+to... interfere.
+
+643
+00:39:12,667 --> 00:39:14,917
+But--
+Have faith
+in their abilities
+
+644
+00:39:14,959 --> 00:39:17,500
+to solve their
+problems on their own.
+
+645
+00:39:22,041 --> 00:39:24,667
+(<i> yelling</i> )
+
+646
+00:39:24,709 --> 00:39:27,834
+The Cardassian ship
+is powering its weapons
+and its transporters.
+
+647
+00:39:27,875 --> 00:39:30,834
+This is the<i> Vetar</i> to Gul Evek.
+Our troops are under attack.
+
+648
+00:39:30,875 --> 00:39:32,458
+They're requesting
+immediate assistance.
+
+649
+00:39:32,500 --> 00:39:34,667
+What are your orders?
+
+650
+00:39:34,709 --> 00:39:39,417
+Evek, the last war
+caused massive destruction
+and cost millions of lives.
+
+651
+00:39:39,458 --> 00:39:43,041
+Don't send our two
+peoples down that same
+path again-- not like this.
+
+652
+00:39:43,083 --> 00:39:45,959
+Now the future lies
+in your hands, right now.
+
+653
+00:39:46,000 --> 00:39:48,291
+Give us one last chance
+for peace.
+
+654
+00:39:48,333 --> 00:39:49,917
+Gul Evek,
+what are your orders?
+
+655
+00:39:49,959 --> 00:39:53,125
+Can we open fire?
+
+656
+00:39:53,166 --> 00:39:55,667
+Evek to the<i> Vetar.</i>
+
+657
+00:39:55,709 --> 00:39:59,250
+Lock on our troops
+on the surface...
+
+658
+00:39:59,291 --> 00:40:01,125
+and beam them aboard.
+
+659
+00:40:01,166 --> 00:40:02,709
+But, sir,
+they've been fired upon!
+
+660
+00:40:02,750 --> 00:40:04,083
+Those are my orders!
+Carry them out.
+
+661
+00:40:04,125 --> 00:40:05,291
+Yes, sir.
+
+662
+00:40:05,333 --> 00:40:06,750
+Beam up the away
+team immediately.
+
+663
+00:40:06,792 --> 00:40:08,917
+Aye, sir.
+
+664
+00:40:08,959 --> 00:40:14,709
+I lost two of three sons
+in the war, Captain.
+
+665
+00:40:15,917 --> 00:40:18,875
+I don't want to lose
+the last one.
+
+666
+00:40:29,750 --> 00:40:33,959
+Anthwara, I want to
+be absolutely sure
+
+667
+00:40:34,000 --> 00:40:37,500
+that you understand
+the implications
+of this agreement.
+
+668
+00:40:37,542 --> 00:40:41,041
+By giving up your status
+as Federation citizens,
+
+669
+00:40:41,083 --> 00:40:43,834
+any future request
+you or your people
+
+670
+00:40:43,875 --> 00:40:48,041
+make to Starfleet
+will go unanswered.
+
+671
+00:40:48,083 --> 00:40:51,291
+You will be
+on your own...
+
+672
+00:40:51,333 --> 00:40:54,125
+and under Cardassian
+jurisdiction.
+
+673
+00:40:54,166 --> 00:40:56,375
+I understand, Captain,
+
+674
+00:40:56,417 --> 00:41:00,959
+and we are prepared
+to take that risk.
+
+675
+00:41:02,583 --> 00:41:07,583
+Will the Cardassian
+government honor
+your agreement here?
+
+676
+00:41:07,625 --> 00:41:09,208
+I believe
+I can convince them
+
+677
+00:41:09,250 --> 00:41:11,834
+that this is
+an equitable solution.
+
+678
+00:41:11,875 --> 00:41:14,875
+I cannot speak for
+every Cardassian
+you may encounter,
+
+679
+00:41:14,917 --> 00:41:21,458
+but if you leave us
+alone, I suspect that
+we will do the same.
+
+680
+00:41:21,500 --> 00:41:24,375
+Will this be acceptable
+to the Starfleet command?
+
+681
+00:41:24,417 --> 00:41:27,667
+It will not be easy,
+but with Admiral
+Necheyev's support,
+
+682
+00:41:27,709 --> 00:41:31,041
+I think they will go
+along with it in the end.
+
+683
+00:41:31,083 --> 00:41:34,291
+Then, if there's
+nothing else, I will
+return to my ship.
+
+684
+00:41:34,333 --> 00:41:36,583
+I have a rather lengthy
+report to write.
+
+685
+00:41:36,625 --> 00:41:39,709
+Captain. Anthwara.
+
+686
+00:41:42,333 --> 00:41:45,583
+I was right, Captain.
+
+687
+00:41:45,625 --> 00:41:49,291
+You did not take us
+from our land,
+
+688
+00:41:49,333 --> 00:41:55,333
+and you have wiped
+clean a very old
+stain of blood.
+
+689
+00:42:00,417 --> 00:42:03,583
+(<i> door opens, closes</i> )
+
+690
+00:42:06,417 --> 00:42:11,458
+<i>Captain's Log,</i>
+<i>Stardate 47755.3.</i>
+
+691
+00:42:11,500 --> 00:42:14,750
+<i>The</i> Enterprise<i> is</i>
+<i>preparing to leave Dorvan V,</i>
+
+692
+00:42:14,792 --> 00:42:19,625
+<i>but former Cadet Wesley Crusher</i>
+<i>will be staying behind.</i>
+
+693
+00:42:19,667 --> 00:42:21,959
+Where will you go?
+
+694
+00:42:24,375 --> 00:42:28,583
+The traveler said
+that my studies would
+begin with these people.
+
+695
+00:42:28,625 --> 00:42:31,792
+He said that they're
+aware of many things.
+
+696
+00:42:31,834 --> 00:42:35,500
+I can learn
+a lot from them.
+
+697
+00:42:35,542 --> 00:42:37,959
+That's just what I need--
+more studying.
+
+698
+00:42:38,000 --> 00:42:40,208
+Somehow,
+I think you'll manage.
+
+699
+00:42:40,250 --> 00:42:41,583
+Me, too.
+
+700
+00:42:41,625 --> 00:42:47,333
+Well, good luck,
+Mr...
+
+701
+00:42:47,375 --> 00:42:48,959
+Good luck, Wesley.
+
+702
+00:42:49,000 --> 00:42:52,875
+Thank you...
+for a lot of things.
+
+703
+00:42:59,500 --> 00:43:02,166
+Oh...
+
+704
+00:43:04,959 --> 00:43:06,917
+Now, you be sure
+and dress warmly
+
+705
+00:43:06,959 --> 00:43:09,917
+on those other planes
+of existence.
+
+706
+00:43:09,959 --> 00:43:12,041
+I will.
+
+707
+00:43:18,500 --> 00:43:19,625
+Bye, Mom.
+
+708
+00:43:19,667 --> 00:43:21,291
+Good-bye.
+
+709
+00:43:26,667 --> 00:43:28,834
+PICARD:
+Energize.

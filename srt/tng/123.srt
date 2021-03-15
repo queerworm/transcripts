@@ -1,0 +1,3733 @@
+1
+00:00:01,667 --> 00:00:05,625
+PICARD:
+<i>Captain's Log,</i>
+<i>Stardate 41601.3.</i>
+
+2
+00:00:05,667 --> 00:00:08,000
+<i>We are crossing through</i>
+<i>the Zed Lapis sector</i>
+
+3
+00:00:08,041 --> 00:00:10,542
+<i>where we will rendezvous</i>
+<i>with Shuttlecraft 13</i>
+
+4
+00:00:10,583 --> 00:00:11,917
+<i>carrying Deanna Troi</i>
+
+5
+00:00:11,959 --> 00:00:13,375
+<i>who is returning</i>
+<i>from a conference.</i>
+
+6
+00:00:13,417 --> 00:00:15,083
+<i>Because engineering is involved</i>
+
+7
+00:00:15,125 --> 00:00:17,625
+<i>in preventive maintenance</i>
+<i>on our dilithium crystals</i>
+
+8
+00:00:17,667 --> 00:00:20,041
+<i>we are presently traveling</i>
+<i>on impulse power.</i>
+
+9
+00:00:21,458 --> 00:00:23,542
+Routine deep sensor probes
+indicate no obstacles
+
+10
+00:00:23,583 --> 00:00:25,667
+or vessels within a range
+of three light years.
+
+11
+00:00:25,709 --> 00:00:26,792
+Confirmed.
+
+12
+00:00:28,166 --> 00:00:30,333
+The martial arts competition
+is in three days.
+
+13
+00:00:30,375 --> 00:00:32,375
+Are you prepared?
+
+14
+00:00:32,417 --> 00:00:34,792
+I will be if you'll meet me
+on the holodeck later.
+
+15
+00:00:34,834 --> 00:00:36,083
+I need your help
+
+16
+00:00:36,125 --> 00:00:38,083
+with the Mishiama
+wrist-lock and break.
+
+17
+00:00:38,125 --> 00:00:39,083
+If it works on you
+
+18
+00:00:39,125 --> 00:00:41,250
+I can use it
+on anyone.
+
+19
+00:00:41,291 --> 00:00:42,834
+A valid assumption.
+
+20
+00:00:42,875 --> 00:00:44,709
+Who is your
+first competitor?
+
+21
+00:00:44,750 --> 00:00:47,000
+Science Officer Swenson.
+
+22
+00:00:47,041 --> 00:00:49,125
+You will defeat him easily.
+
+23
+00:00:49,166 --> 00:00:50,375
+Well, I'm more concerned
+
+24
+00:00:50,417 --> 00:00:52,834
+with Lieutenant Minnerly's
+kick-boxing.
+
+25
+00:00:52,875 --> 00:00:55,458
+You are favored
+in the ship's pool.
+
+26
+00:00:57,834 --> 00:00:59,333
+You bet on me?
+
+27
+00:00:59,375 --> 00:01:00,458
+A sure thing.
+
+28
+00:01:11,750 --> 00:01:12,959
+LA FORGE:
+Captain
+
+29
+00:01:13,000 --> 00:01:14,250
+estimated rendezvous
+with the shuttle
+
+30
+00:01:14,291 --> 00:01:16,333
+in one hour and ten minutes.
+
+31
+00:01:16,375 --> 00:01:17,417
+Thank you,
+Lieutenant.
+
+32
+00:01:17,458 --> 00:01:19,208
+LA FORGE:
+Aye, sir.
+
+33
+00:01:19,250 --> 00:01:21,834
+It'll be good to have
+Counselor Troi back,
+won't it, Number One?
+
+34
+00:01:23,250 --> 00:01:24,083
+It certainly will.
+
+35
+00:01:24,125 --> 00:01:25,750
+WORF:
+Sir!
+
+36
+00:01:25,792 --> 00:01:28,500
+I'm receiving an emergency
+transmission from the shuttle.
+
+37
+00:01:28,542 --> 00:01:30,667
+PICARD:
+On main viewer.
+
+38
+00:01:30,709 --> 00:01:31,959
+I can't, sir.
+
+39
+00:01:32,000 --> 00:01:33,500
+We're receiving
+audio only.
+
+40
+00:01:33,542 --> 00:01:34,583
+PICARD:
+Open the frequency.
+
+41
+00:01:34,625 --> 00:01:35,667
+Aye, sir.
+
+42
+00:01:35,709 --> 00:01:37,083
+LIEUTENANT PRIETO:
+What a jolt.
+
+43
+00:01:37,125 --> 00:01:38,417
+Position report?
+
+44
+00:01:38,458 --> 00:01:40,417
+Sir, I have an onboard
+systems failure.
+
+45
+00:01:40,458 --> 00:01:41,875
+You'll have to tell me
+where I am.
+
+46
+00:01:41,917 --> 00:01:43,083
+I read your coordinates
+
+47
+00:01:43,125 --> 00:01:46,083
+at three-seven-zero
+point two-three-six.
+
+48
+00:01:46,125 --> 00:01:47,458
+Confirm.
+
+49
+00:01:47,500 --> 00:01:48,458
+PRIETO:
+I can't confirm.
+
+50
+00:01:48,500 --> 00:01:50,125
+My instruments are haywire.
+
+51
+00:01:50,166 --> 00:01:52,875
+Lieutenant Prieto,
+is Counselor Troi all right?
+
+52
+00:01:52,917 --> 00:01:54,291
+PRIETO:
+Yes, sir.
+
+53
+00:01:54,333 --> 00:01:55,709
+Just a little shaken.
+
+54
+00:01:55,750 --> 00:01:56,875
+We're being buffeted a bit.
+
+55
+00:01:58,333 --> 00:01:59,417
+Losing more power!
+
+56
+00:02:00,583 --> 00:02:01,959
+My flight control
+computer's fried.
+
+57
+00:02:02,000 --> 00:02:03,709
+Main engineering.
+
+58
+00:02:03,750 --> 00:02:06,041
+ENGINEERING:
+Lieutenant Commander
+Leland T. Lynch here, sir.
+
+59
+00:02:07,917 --> 00:02:10,166
+How long before we can return
+to warp power?
+
+60
+00:02:10,208 --> 00:02:11,458
+Captain, I'm in the middle
+
+61
+00:02:11,500 --> 00:02:13,583
+of realigning
+the dilithium crystals.
+
+62
+00:02:13,625 --> 00:02:15,041
+PICARD:
+There is an emergency.
+
+63
+00:02:15,083 --> 00:02:16,125
+We need warp drive.
+
+64
+00:02:16,166 --> 00:02:17,125
+How long?
+
+65
+00:02:17,166 --> 00:02:18,250
+20 minutes--
+maybe more.
+
+66
+00:02:18,291 --> 00:02:19,709
+We don't have it, Mr. Lynch.
+
+67
+00:02:19,750 --> 00:02:21,000
+LYNCH:
+I'll align it by hand.
+
+68
+00:02:21,041 --> 00:02:21,917
+Whatever it takes.
+
+69
+00:02:21,959 --> 00:02:23,417
+LYNCH:
+Aye, sir.
+
+70
+00:02:23,458 --> 00:02:25,041
+Shuttle, this is the<i> Enterprise.</i>
+
+71
+00:02:25,083 --> 00:02:26,291
+Your coordinates now read
+
+72
+00:02:26,333 --> 00:02:28,625
+two-three-seven
+point one-zero-one.
+
+73
+00:02:28,667 --> 00:02:30,875
+Ben, you're dangerously close
+to a planet.
+
+74
+00:02:30,917 --> 00:02:32,458
+PRIETO:
+I can see it.
+
+75
+00:02:32,500 --> 00:02:35,500
+The planet is Vagra II, sir,
+in the Zed Lapis sector.
+
+76
+00:02:35,542 --> 00:02:36,959
+Uninhabited.
+
+77
+00:02:37,000 --> 00:02:38,458
+Lieutenant, report.
+
+78
+00:02:38,500 --> 00:02:40,083
+This is Counselor Troi.
+
+79
+00:02:40,125 --> 00:02:41,458
+I'll relay, sir.
+
+80
+00:02:41,500 --> 00:02:43,458
+The pilot is busy.
+
+81
+00:02:43,500 --> 00:02:45,834
+We've lost most
+of our impulse power.
+
+82
+00:02:45,875 --> 00:02:47,875
+Engineering, status report.
+
+83
+00:02:47,917 --> 00:02:49,375
+Working on it, Captain.
+
+84
+00:02:49,417 --> 00:02:50,750
+Three minutes.
+
+85
+00:02:50,792 --> 00:02:52,458
+But there are no guarantees.
+
+86
+00:02:52,500 --> 00:02:54,208
+PRIETO:
+Captain, we're out of control.
+
+87
+00:02:54,250 --> 00:02:56,000
+We're caught
+in the planet's gravity.
+
+88
+00:03:20,041 --> 00:03:22,834
+PICARD:
+<i>Space, the final frontier.</i>
+
+89
+00:03:24,709 --> 00:03:27,625
+<i>These are the voyages</i>
+<i>of the Starship</i> Enterprise.
+
+90
+00:03:29,125 --> 00:03:30,583
+<i>Its continuing mission--</i>
+
+91
+00:03:30,625 --> 00:03:32,583
+<i>to explore</i>
+<i>strange new worlds...</i>
+
+92
+00:03:34,625 --> 00:03:37,458
+<i>... to seek out new life</i>
+<i>and new civilizations...</i>
+
+93
+00:03:39,208 --> 00:03:42,375
+<i>... to boldly go</i>
+<i>where no one has gone before.</i>
+
+94
+00:04:46,417 --> 00:04:48,166
+PICARD:
+<i>Captain's Log, supplemental.</i>
+
+95
+00:04:48,208 --> 00:04:51,000
+<i>We've lost all contact</i>
+<i>with Shuttlecraft 13</i>
+
+96
+00:04:51,041 --> 00:04:54,291
+<i>and can only assume they've</i>
+<i>crash-landed on Vagra II.</i>
+
+97
+00:04:54,333 --> 00:04:55,709
+<i>Meanwhile, main engineering</i>
+
+98
+00:04:55,750 --> 00:04:57,709
+<i>is trying</i>
+<i>to return us to warp power.</i>
+
+99
+00:04:59,208 --> 00:05:00,250
+Forget the final check.
+
+100
+00:05:06,959 --> 00:05:08,417
+Initiate start-up sequence.
+
+101
+00:05:08,458 --> 00:05:10,083
+COMPUTER:
+Beginning checklist.
+
+102
+00:05:10,125 --> 00:05:11,250
+Override.
+
+103
+00:05:11,291 --> 00:05:12,917
+We're going directly
+to start-up.
+
+104
+00:05:12,959 --> 00:05:15,125
+COMPUTER:
+That procedure
+is not recommended.
+
+105
+00:05:15,166 --> 00:05:16,834
+Understood. Now!
+
+106
+00:05:16,875 --> 00:05:19,792
+Prime matter/antimatter
+injectors.
+
+107
+00:05:19,834 --> 00:05:22,250
+Set ratio
+at 25 to one.
+
+108
+00:05:22,291 --> 00:05:23,375
+COMPUTER:
+Ratio set.
+
+109
+00:05:23,417 --> 00:05:24,959
+Power engine core.
+
+110
+00:05:25,000 --> 00:05:26,333
+Inject reactants.
+
+111
+00:05:29,542 --> 00:05:31,000
+Leland T. Lynch here, Captain.
+
+112
+00:05:31,041 --> 00:05:33,125
+We now have minimum warp drive.
+
+113
+00:05:33,166 --> 00:05:34,834
+Course plotted and set
+for Vagra II, sir.
+
+114
+00:05:34,875 --> 00:05:36,333
+Warp eight.
+
+115
+00:05:36,375 --> 00:05:38,667
+LYNCH:
+I said,<i> minimum</i> warp drive,
+Captain.
+
+116
+00:05:38,709 --> 00:05:40,667
+You heard the order, Mr. Lynch.
+
+117
+00:05:40,709 --> 00:05:41,750
+Make it so.
+
+118
+00:05:41,792 --> 00:05:42,959
+LYNCH:
+Yes, sir.
+
+119
+00:05:50,083 --> 00:05:51,500
+LA FORGE:
+Approaching
+Vagra II, Captain.
+
+120
+00:05:51,542 --> 00:05:53,041
+Strange, sir.
+
+121
+00:05:53,083 --> 00:05:55,250
+There is no emergency signal
+from the shuttle as yet.
+
+122
+00:05:56,834 --> 00:05:58,458
+What is this place, Mr. Data?
+
+123
+00:05:58,500 --> 00:06:00,208
+There is little information
+in the library computer
+
+124
+00:06:00,250 --> 00:06:01,917
+other than the fact
+of its existence.
+
+125
+00:06:03,583 --> 00:06:06,291
+Our sensors show
+no signs of life-forms.
+
+126
+00:06:06,333 --> 00:06:08,000
+Virtually no vegetation.
+
+127
+00:06:08,041 --> 00:06:09,250
+Atmosphere?
+
+128
+00:06:09,291 --> 00:06:11,250
+DATA:
+Minimum for
+our needs, sir.
+
+129
+00:06:11,291 --> 00:06:12,417
+Standard orbit.
+
+130
+00:06:12,458 --> 00:06:14,000
+LA FORGE:
+Aye, sir,
+standard orbit.
+
+131
+00:06:23,125 --> 00:06:24,583
+I've located
+the shuttle.
+
+132
+00:06:24,625 --> 00:06:25,750
+Life signs?
+
+133
+00:06:25,792 --> 00:06:27,125
+WORF:
+Not yet, sir.
+
+134
+00:06:27,166 --> 00:06:29,709
+Still probing.
+
+135
+00:06:29,750 --> 00:06:32,291
+It appears to be buried
+under a lot of debris.
+
+136
+00:06:36,917 --> 00:06:38,083
+I may have something, sir.
+
+137
+00:06:39,625 --> 00:06:41,625
+Faint life signs.
+
+138
+00:06:41,667 --> 00:06:42,709
+Very faint.
+
+139
+00:06:42,750 --> 00:06:44,041
+How many?
+
+140
+00:06:44,083 --> 00:06:46,333
+There's no way
+of telling from here.
+
+141
+00:06:46,375 --> 00:06:47,792
+Data, can we beam up
+the injured?
+
+142
+00:06:47,834 --> 00:06:49,041
+No, sir.
+
+143
+00:06:49,083 --> 00:06:50,792
+Our sensors
+are not fully penetrating
+
+144
+00:06:50,834 --> 00:06:52,083
+whatever the debris is.
+
+145
+00:06:53,792 --> 00:06:54,834
+That's very unusual.
+
+146
+00:06:54,875 --> 00:06:55,959
+DATA:
+Yes, sir.
+
+147
+00:06:56,000 --> 00:06:57,166
+I cannot
+explain.
+
+148
+00:07:03,125 --> 00:07:04,500
+Number One,
+prepare your away team.
+
+149
+00:07:04,542 --> 00:07:05,458
+Right away.
+
+150
+00:07:05,500 --> 00:07:06,625
+Data!
+Yar!
+
+151
+00:07:10,250 --> 00:07:12,125
+Dr. Crusher, have you been
+monitoring all this?
+
+152
+00:07:12,166 --> 00:07:15,250
+BEVERLY:
+Yes, I'll meet the away team
+in Transporter Room Four.
+
+153
+00:07:49,875 --> 00:07:50,834
+BEVERLY:
+Let's go.
+
+154
+00:07:50,875 --> 00:07:52,291
+The life signs
+are weak.
+
+155
+00:07:58,458 --> 00:07:59,875
+RIKER:
+What is this?
+
+156
+00:07:59,917 --> 00:08:01,333
+No idea.
+
+157
+00:08:01,375 --> 00:08:03,041
+We'll go around just to
+be on the safe side.
+
+158
+00:08:18,458 --> 00:08:19,583
+Let's try
+the other way.
+
+159
+00:08:33,375 --> 00:08:34,667
+<i>Enterprise,</i> this is Riker.
+
+160
+00:08:34,709 --> 00:08:35,875
+We've got a problem.
+
+161
+00:08:35,917 --> 00:08:36,917
+What kind of problem,
+Number One?
+
+162
+00:08:36,959 --> 00:08:38,792
+RIKER:
+I'm not sure yet.
+
+163
+00:08:38,834 --> 00:08:42,125
+There appears to be some kind
+of a slick blocking our path.
+
+164
+00:08:42,166 --> 00:08:43,250
+We'll keep you apprised.
+
+165
+00:08:43,291 --> 00:08:44,500
+Maintain an open frequency.
+
+166
+00:08:44,542 --> 00:08:46,000
+RIKER:
+Aye, sir.
+
+167
+00:08:46,041 --> 00:08:47,667
+Analysis, Mr. Data.
+
+168
+00:08:48,917 --> 00:08:50,333
+Inconclusive, sir.
+
+169
+00:08:50,375 --> 00:08:51,667
+I cannot tell you
+what it is
+
+170
+00:08:51,709 --> 00:08:54,208
+but I can tell you
+what it is not.
+
+171
+00:08:54,250 --> 00:08:55,208
+Explain.
+
+172
+00:08:55,250 --> 00:08:56,291
+There is no evidence
+
+173
+00:08:56,333 --> 00:08:58,333
+of neural
+or circulatory systems.
+
+174
+00:08:58,375 --> 00:09:00,417
+No internal
+organs.
+
+175
+00:09:00,458 --> 00:09:02,625
+Cellular structure,
+unknown.
+
+176
+00:09:02,667 --> 00:09:04,792
+Does not have any proteins
+which are known to us.
+
+177
+00:09:04,834 --> 00:09:05,917
+It's narrower over here.
+
+178
+00:09:05,959 --> 00:09:07,000
+We can get over it.
+
+179
+00:09:09,959 --> 00:09:11,792
+How is it moving, Data?
+
+180
+00:09:11,834 --> 00:09:13,625
+I do not
+know, sir.
+
+181
+00:09:13,667 --> 00:09:14,792
+It does not
+appear to have
+
+182
+00:09:14,834 --> 00:09:17,750
+a skeletal framework
+or musculature.
+
+183
+00:09:17,792 --> 00:09:19,375
+Then what's causing it to move?
+
+184
+00:09:20,792 --> 00:09:22,709
+It appears
+to be following us, sir.
+
+185
+00:09:22,750 --> 00:09:23,875
+No sign
+of intelligence--
+
+186
+00:09:23,917 --> 00:09:25,041
+no brain as we know it--
+
+187
+00:09:25,083 --> 00:09:28,000
+yet evidence of thought,
+Mr. Data?
+
+188
+00:09:28,041 --> 00:09:29,750
+Insufficient information, sir.
+
+189
+00:09:31,542 --> 00:09:33,166
+Is it a life-form, Data?
+
+190
+00:09:33,208 --> 00:09:36,000
+DATA:
+Again, insufficient
+information, sir.
+
+191
+00:09:36,041 --> 00:09:37,125
+Theorize.
+
+192
+00:09:38,625 --> 00:09:39,875
+It is possible.
+
+193
+00:09:39,917 --> 00:09:42,709
+(<i> rumbling growls</i> )
+
+194
+00:09:42,750 --> 00:09:45,083
+(<i> deep male voice</i> ):
+<i>Very good, tin man.</i>
+
+195
+00:09:54,375 --> 00:09:56,125
+What is it, Number One?
+
+196
+00:09:56,166 --> 00:09:57,250
+What are you seeing?
+
+197
+00:10:02,375 --> 00:10:03,417
+Trouble.
+
+198
+00:10:10,542 --> 00:10:12,208
+PICARD:
+<i>Captain's Log, supplemental.</i>
+
+199
+00:10:12,250 --> 00:10:13,875
+<i>While on a mission</i>
+<i>to rescue survivors</i>
+
+200
+00:10:13,917 --> 00:10:15,709
+<i>from an unexplained</i>
+<i>shuttle crash</i>
+
+201
+00:10:15,750 --> 00:10:18,291
+<i>the away team has encountered</i>
+<i>a strange creature</i>
+
+202
+00:10:18,333 --> 00:10:21,041
+<i>which seems able to assume</i>
+<i>different forms</i>
+
+203
+00:10:21,083 --> 00:10:24,291
+<i>including one</i>
+<i>which resembles humanoid.</i>
+
+204
+00:10:24,333 --> 00:10:26,041
+PICARD:
+Easy, Number One.
+
+205
+00:10:26,083 --> 00:10:27,583
+Let's find out what it is
+we're dealing with.
+
+206
+00:10:27,625 --> 00:10:29,417
+RIKER:
+Agreed, Captain.
+
+207
+00:10:29,458 --> 00:10:33,834
+And, Number One, I don't believe
+that the location of the crash
+
+208
+00:10:33,875 --> 00:10:35,208
+and the proximity
+of the creature
+
+209
+00:10:35,250 --> 00:10:36,583
+is a coincidence.
+
+210
+00:10:48,834 --> 00:10:51,500
+I'm Commander William Riker
+of the USS<i> Enterprise.</i>
+
+211
+00:10:51,542 --> 00:10:53,583
+<i>I am Armus.</i>
+
+212
+00:10:53,625 --> 00:10:56,083
+<i>Why are you here?</i>
+
+213
+00:10:56,125 --> 00:10:57,458
+We mean you no harm.
+
+214
+00:10:57,500 --> 00:10:59,709
+We have injured crewmen
+in the shuttlecraft.
+
+215
+00:10:59,750 --> 00:11:00,792
+We need to get to them.
+
+216
+00:11:00,834 --> 00:11:02,333
+May we pass?
+
+217
+00:11:02,375 --> 00:11:06,291
+<i>You haven't given me</i>
+<i>a good enough reason.</i>
+
+218
+00:11:06,333 --> 00:11:10,166
+Preserving life, all life,
+is very important to us.
+
+219
+00:11:10,208 --> 00:11:11,667
+<i>Why?</i>
+
+220
+00:11:13,667 --> 00:11:14,959
+We believe everything
+in the universe
+
+221
+00:11:15,000 --> 00:11:16,625
+has a right to exist.
+
+222
+00:11:16,667 --> 00:11:20,417
+<i>An interesting notion</i>
+<i>which I do not share.</i>
+
+223
+00:11:20,458 --> 00:11:23,125
+<i>You may leave</i>
+<i>now if you wish.</i>
+
+224
+00:11:24,417 --> 00:11:26,166
+We are not going
+without our shuttle crew.
+
+225
+00:11:26,208 --> 00:11:27,625
+<i>I warn you.</i>
+
+226
+00:11:27,667 --> 00:11:28,834
+YAR:
+Enough.
+
+227
+00:11:28,875 --> 00:11:31,041
+We have people
+who need attention.
+
+228
+00:11:31,083 --> 00:11:32,917
+We won't hurt you
+but we must help them.
+
+229
+00:11:46,375 --> 00:11:48,041
+PICARD:
+Number One?
+
+230
+00:11:48,083 --> 00:11:49,083
+The creature attacked us.
+
+231
+00:11:49,125 --> 00:11:50,333
+Lieutenant Yar is down.
+
+232
+00:11:50,375 --> 00:11:52,208
+It seems to feed
+on our phaser energy.
+
+233
+00:11:52,250 --> 00:11:53,458
+We had no effect
+on it.
+
+234
+00:12:05,792 --> 00:12:07,583
+PICARD:
+What's Lieutenant Yar's
+condition?
+
+235
+00:12:07,625 --> 00:12:11,000
+(<i> instrument beeping rapidly)</i>
+
+236
+00:12:11,041 --> 00:12:13,041
+PICARD:
+Doctor Crusher, report.
+
+237
+00:12:13,083 --> 00:12:14,291
+She's dead.
+
+238
+00:12:19,375 --> 00:12:20,375
+Transporter room.
+
+239
+00:12:20,417 --> 00:12:21,500
+Get them up, now!
+
+240
+00:12:27,834 --> 00:12:29,709
+I need her in Sick Bay now.
+
+241
+00:12:29,750 --> 00:12:31,417
+Go to yellow alert,
+Lieutenant Worf.
+
+242
+00:12:31,458 --> 00:12:32,458
+I'll be in Sick Bay.
+
+243
+00:12:32,500 --> 00:12:33,542
+Aye, sir.
+
+244
+00:12:41,291 --> 00:12:42,250
+Status, Doctor?
+
+245
+00:12:42,291 --> 00:12:43,667
+Unchanged.
+
+246
+00:12:44,959 --> 00:12:46,166
+Can you bring her back?
+
+247
+00:12:46,208 --> 00:12:47,250
+BEVERLY:
+We'll see.
+
+248
+00:12:47,291 --> 00:12:48,417
+Neural
+stimulator.
+
+249
+00:12:51,625 --> 00:12:52,875
+NURSE:
+Neural stimulator
+locked in.
+
+250
+00:12:52,917 --> 00:12:54,834
+BEVERLY:
+Interlock
+current feeds.
+
+251
+00:12:54,875 --> 00:12:57,917
+Set sensitivity factor to 4.4.
+
+252
+00:12:57,959 --> 00:12:59,375
+NURSE:
+Affirmative.
+
+253
+00:13:01,208 --> 00:13:04,500
+TECHNICIAN:
+Monitoring 2.3, 1.8.
+
+254
+00:13:05,750 --> 00:13:07,208
+There, you did it.
+
+255
+00:13:07,250 --> 00:13:09,291
+No, I've got her
+on total support.
+
+256
+00:13:09,333 --> 00:13:11,250
+There is no independent
+brain functioning.
+
+257
+00:13:13,083 --> 00:13:14,625
+TECHNICIAN:
+Current feeds operating.
+
+258
+00:13:14,667 --> 00:13:16,000
+NURSE:
+She's not
+responding, Doctor.
+
+259
+00:13:16,041 --> 00:13:17,792
+Her synaptic network
+is breaking down.
+
+260
+00:13:17,834 --> 00:13:18,917
+Inject norep.
+
+261
+00:13:23,000 --> 00:13:24,625
+NURSE:
+Neurons are beginning
+to depolarize.
+
+262
+00:13:27,208 --> 00:13:29,000
+Let's go for direct
+reticular stimulation.
+
+263
+00:13:29,041 --> 00:13:29,959
+Direct?
+
+264
+00:13:30,000 --> 00:13:31,333
+Do it.
+
+265
+00:13:33,375 --> 00:13:34,583
+(<i> electronic zap</i> )
+
+266
+00:13:38,750 --> 00:13:40,667
+Increase to 70 microvolts.
+
+267
+00:13:43,875 --> 00:13:45,166
+(<i> electronic zap</i> )
+
+268
+00:13:45,208 --> 00:13:46,500
+85 microvolts.
+
+269
+00:13:49,750 --> 00:13:50,834
+(<i> electronic zap</i> )
+
+270
+00:13:50,875 --> 00:13:51,959
+Again.
+
+271
+00:13:53,041 --> 00:13:54,208
+(<i> electronic zap</i> )
+
+272
+00:13:57,542 --> 00:13:59,041
+(<i> whispering</i> ):
+90.
+
+273
+00:13:59,083 --> 00:14:00,166
+(<i> electronic zap</i> )
+
+274
+00:14:00,208 --> 00:14:01,375
+BEVERLY:
+Again.
+
+275
+00:14:02,458 --> 00:14:03,750
+(<i> electronic zap</i> )
+
+276
+00:14:03,792 --> 00:14:05,375
+BEVERLY:
+Again.
+
+277
+00:14:05,417 --> 00:14:06,583
+(<i> electronic zap</i> )
+
+278
+00:14:07,750 --> 00:14:08,917
+(<i> electronic zap</i> )
+
+279
+00:14:10,667 --> 00:14:11,834
+(<i> electronic zap</i> )
+
+280
+00:14:18,458 --> 00:14:19,542
+She's gone.
+
+281
+00:14:24,500 --> 00:14:25,542
+Gone?
+
+282
+00:14:30,959 --> 00:14:32,333
+There was too much
+synaptic damage.
+
+283
+00:14:33,750 --> 00:14:35,625
+That thing just sucked
+the life right out of her.
+
+284
+00:14:37,208 --> 00:14:38,417
+There's nothing I can do.
+
+285
+00:15:01,834 --> 00:15:03,083
+(<i> communicator not functioning)</i>
+
+286
+00:15:07,917 --> 00:15:10,208
+(<i> suction noises</i> )
+
+287
+00:15:17,583 --> 00:15:19,792
+ARMUS:
+<i>Your friends</i>
+<i>have deserted you.</i>
+
+288
+00:15:21,000 --> 00:15:22,750
+<i>They're not coming back.</i>
+
+289
+00:15:23,959 --> 00:15:25,041
+You're wrong.
+
+290
+00:15:26,417 --> 00:15:28,583
+<i>I killed one of them.</i>
+
+291
+00:15:30,583 --> 00:15:31,625
+Yes.
+
+292
+00:15:33,250 --> 00:15:34,250
+I know.
+
+293
+00:15:34,291 --> 00:15:36,875
+<i>How could you</i>
+<i>be in there</i>
+
+294
+00:15:36,917 --> 00:15:38,291
+<i>and know that?</i>
+
+295
+00:15:38,333 --> 00:15:39,792
+I felt her die.
+
+296
+00:15:39,834 --> 00:15:41,583
+<i>Do you want</i>
+<i>to know why</i>
+
+297
+00:15:41,625 --> 00:15:43,083
+<i>I killed her?</i>
+
+298
+00:15:45,333 --> 00:15:46,834
+Your answer would be
+meaningless.
+
+299
+00:15:49,000 --> 00:15:51,667
+That act had no reason.
+
+300
+00:15:51,709 --> 00:15:53,500
+<i>Exactly.</i>
+
+301
+00:15:53,542 --> 00:15:55,917
+<i>It had no meaning.</i>
+
+302
+00:15:55,959 --> 00:15:59,250
+<i>I did it</i>
+<i>because I wanted to.</i>
+
+303
+00:15:59,291 --> 00:16:01,667
+<i>It amused me.</i>
+
+304
+00:16:01,709 --> 00:16:06,375
+No, you thought it would
+amuse you, but it didn't.
+
+305
+00:16:08,375 --> 00:16:10,583
+You felt no satisfaction.
+
+306
+00:16:10,625 --> 00:16:14,458
+<i>No, it was too easy.</i>
+
+307
+00:16:17,333 --> 00:16:18,667
+You wanted her to suffer.
+
+308
+00:16:22,083 --> 00:16:23,792
+You have a great need.
+
+309
+00:16:23,834 --> 00:16:25,417
+<i>I need nothing.</i>
+
+310
+00:16:25,458 --> 00:16:26,542
+Liar.
+
+311
+00:16:29,417 --> 00:16:31,125
+End this.
+
+312
+00:16:31,166 --> 00:16:32,542
+Let us go.
+
+313
+00:16:32,583 --> 00:16:34,250
+<i>Not yet.</i>
+
+314
+00:16:34,291 --> 00:16:36,583
+They won't give you
+what you want.
+
+315
+00:16:36,625 --> 00:16:38,834
+<i>And what is that?</i>
+
+316
+00:16:38,875 --> 00:16:40,875
+To break their spirit.
+
+317
+00:16:40,917 --> 00:16:44,208
+<i>Oh, is that</i>
+<i>what I want?</i>
+
+318
+00:16:44,250 --> 00:16:47,166
+<i>If breaking their spirit</i>
+<i>will amuse me</i>
+
+319
+00:16:47,208 --> 00:16:49,750
+<i>then that's</i>
+<i>what I will have.</i>
+
+320
+00:16:51,583 --> 00:16:52,667
+Never.
+
+321
+00:16:59,750 --> 00:17:01,834
+She didn't do anything.
+Her phaser was lowered.
+
+322
+00:17:01,875 --> 00:17:03,917
+LA FORGE:
+She only wanted to get to
+Troi and Lieutenant Prieto.
+
+323
+00:17:03,959 --> 00:17:05,959
+RIKER:
+There was nothing at all
+provocative about what she did.
+
+324
+00:17:06,000 --> 00:17:07,667
+BEVERLY:
+It was a brutal,
+senseless act.
+
+325
+00:17:10,500 --> 00:17:12,917
+Lieutenant Yar's death is
+very painful for all of us.
+
+326
+00:17:12,959 --> 00:17:14,667
+We will have to deal with it
+as best we can for now.
+
+327
+00:17:16,250 --> 00:17:18,834
+Until the shuttle crew is
+safely beamed aboard this ship
+
+328
+00:17:18,875 --> 00:17:20,041
+our feelings will have to wait.
+
+329
+00:17:20,083 --> 00:17:21,291
+Is that understood?
+
+330
+00:17:26,166 --> 00:17:27,250
+Lieutenant Worf
+
+331
+00:17:27,291 --> 00:17:29,542
+you are now acting
+Chief of Security.
+
+332
+00:17:29,583 --> 00:17:30,875
+I will do
+my best, sir.
+
+333
+00:17:32,166 --> 00:17:34,375
+Doctor, what is the state
+of the shuttle crew?
+
+334
+00:17:34,417 --> 00:17:36,291
+We're still receiving
+faint life signs
+
+335
+00:17:36,333 --> 00:17:38,333
+but the sensor readings
+are fluctuating.
+
+336
+00:17:38,375 --> 00:17:40,041
+They may not
+be accurate.
+
+337
+00:17:40,083 --> 00:17:43,208
+Armus is capable of creating
+undefined force fields.
+
+338
+00:17:43,250 --> 00:17:45,125
+In effect, we are powerless
+to communicate
+
+339
+00:17:45,166 --> 00:17:47,917
+or use the transporter
+unless it allows it.
+
+340
+00:17:47,959 --> 00:17:50,250
+A creature against whom
+we seem to have no defense.
+
+341
+00:17:51,625 --> 00:17:53,125
+Number One?
+
+342
+00:17:53,166 --> 00:17:55,709
+It's down on that planet
+waiting for us to come back.
+
+343
+00:17:55,750 --> 00:17:57,041
+It killed Tasha
+
+344
+00:17:57,083 --> 00:17:59,375
+and it could have killed us,
+but it didn't.
+
+345
+00:17:59,417 --> 00:18:02,583
+Deanna and Ben are alive
+for a reason.
+
+346
+00:18:02,625 --> 00:18:05,041
+And it knows that we're
+not going anywhere
+
+347
+00:18:05,083 --> 00:18:06,625
+as long as they're
+still alive.
+
+348
+00:18:06,667 --> 00:18:09,417
+Are you saying that its attack
+on Yar was not arbitrary
+
+349
+00:18:09,458 --> 00:18:10,709
+but part of some tactic?
+
+350
+00:18:10,750 --> 00:18:13,000
+The only way to find out
+is to go back down.
+
+351
+00:18:13,041 --> 00:18:15,166
+Commander, I may be able to see
+something in the creature
+
+352
+00:18:15,208 --> 00:18:16,458
+which might be helpful.
+
+353
+00:18:16,500 --> 00:18:17,625
+Agreed.
+
+354
+00:18:17,667 --> 00:18:18,875
+Prepare your away team,
+Number One.
+
+355
+00:18:23,583 --> 00:18:24,625
+Lieutenant Worf?
+
+356
+00:18:30,333 --> 00:18:32,333
+I will remain
+on the ship.
+
+357
+00:18:32,375 --> 00:18:34,291
+WORF:
+The object here
+is not to engage
+
+358
+00:18:34,333 --> 00:18:35,917
+the creature
+in battle.
+
+359
+00:18:35,959 --> 00:18:37,834
+The goal
+is the safe return
+
+360
+00:18:37,875 --> 00:18:39,500
+of Counselor Troi
+and Lieutenant Prieto.
+
+361
+00:18:40,875 --> 00:18:42,917
+I can best accomplish this
+at the tactical station.
+
+362
+00:18:44,500 --> 00:18:45,709
+Very good.
+
+363
+00:18:45,750 --> 00:18:46,792
+Number One.
+
+364
+00:19:07,625 --> 00:19:08,959
+<i>Enterprise.</i>
+
+365
+00:19:09,000 --> 00:19:10,500
+PICARD:
+Number One.
+
+366
+00:19:10,542 --> 00:19:11,875
+We're approaching
+the shuttlecraft.
+
+367
+00:19:11,917 --> 00:19:13,333
+The creature
+is covering it.
+
+368
+00:19:15,583 --> 00:19:17,709
+ARMUS:
+<i>I lied to you.</i>
+
+369
+00:19:17,750 --> 00:19:19,333
+<i>They came back.</i>
+
+370
+00:19:20,709 --> 00:19:22,208
+Let me talk with them.
+
+371
+00:19:22,250 --> 00:19:23,625
+<i>No.</i>
+
+372
+00:19:23,667 --> 00:19:24,917
+Why?
+
+373
+00:19:24,959 --> 00:19:26,333
+Does the thought
+
+374
+00:19:26,375 --> 00:19:29,208
+of my having contact with them
+make you uneasy?
+
+375
+00:19:29,250 --> 00:19:33,250
+<i>No, not being able</i>
+<i>to contact</i> you--
+
+376
+00:19:33,291 --> 00:19:36,125
+<i>not knowing</i>
+<i>if you are alive--</i>
+
+377
+00:19:36,166 --> 00:19:38,625
+<i>makes them uneasy.</i>
+
+378
+00:19:38,667 --> 00:19:41,375
+<i>Can't you feel</i>
+<i>how worried they are?</i>
+
+379
+00:19:41,417 --> 00:19:42,625
+Yes.
+
+380
+00:19:44,208 --> 00:19:45,834
+Yes, they are worried.
+
+381
+00:19:45,875 --> 00:19:47,667
+<i>They care for you.</i>
+
+382
+00:19:47,709 --> 00:19:50,792
+<i>You must be</i>
+<i>very special.</i>
+
+383
+00:19:50,834 --> 00:19:53,125
+We are members of a community.
+
+384
+00:19:53,166 --> 00:19:55,291
+We all care for one another.
+
+385
+00:19:55,333 --> 00:19:56,542
+<i>Equally?</i>
+
+386
+00:19:57,834 --> 00:19:59,917
+You were really surprised
+they came back.
+
+387
+00:19:59,959 --> 00:20:01,625
+<i>Yes.</i>
+
+388
+00:20:01,667 --> 00:20:02,959
+Why?
+
+389
+00:20:04,125 --> 00:20:05,542
+Because the others did not?
+
+390
+00:20:07,000 --> 00:20:08,583
+<i>What others?</i>
+
+391
+00:20:09,917 --> 00:20:12,083
+You can't hide
+the emptiness from me.
+
+392
+00:20:13,959 --> 00:20:15,709
+The others.
+
+393
+00:20:15,750 --> 00:20:18,000
+The ones who hurt you.
+
+394
+00:20:18,041 --> 00:20:19,834
+Who left you alone, rejected.
+
+395
+00:20:21,667 --> 00:20:23,834
+The ones who make you so angry.
+
+396
+00:20:25,375 --> 00:20:28,291
+<i>What do you</i>
+<i>know of them?</i>
+
+397
+00:20:28,333 --> 00:20:29,959
+Only what you tell me.
+
+398
+00:20:30,000 --> 00:20:31,959
+<i>I will tell you</i>
+<i>nothing.</i>
+
+399
+00:20:33,625 --> 00:20:34,750
+Not now...
+
+400
+00:20:36,250 --> 00:20:37,333
+but soon.
+
+401
+00:20:48,667 --> 00:20:49,875
+Captain, look at this.
+
+402
+00:20:52,041 --> 00:20:53,625
+The force
+of the energy field
+
+403
+00:20:53,667 --> 00:20:55,667
+around the shuttlecraft
+decreased for a few moments
+
+404
+00:20:55,709 --> 00:20:57,709
+when the creature
+was draped over it.
+
+405
+00:20:57,750 --> 00:20:59,625
+PICARD:
+But not low enough
+to beam them out.
+
+406
+00:20:59,667 --> 00:21:00,834
+Almost.
+
+407
+00:21:00,875 --> 00:21:02,875
+It's approaching
+the away team now
+
+408
+00:21:02,917 --> 00:21:04,458
+and the energy field
+over the shuttlecraft
+
+409
+00:21:04,500 --> 00:21:06,208
+is back to
+full intensity.
+
+410
+00:21:06,250 --> 00:21:07,458
+Chart it.
+
+411
+00:21:07,500 --> 00:21:08,458
+I want to see
+if there's a pattern.
+
+412
+00:21:08,500 --> 00:21:09,583
+Aye, sir.
+
+413
+00:21:20,208 --> 00:21:22,208
+<i>She said you'd be back.</i>
+
+414
+00:21:24,250 --> 00:21:25,458
+Then she is alive.
+
+415
+00:21:25,500 --> 00:21:27,291
+<i>For now.</i>
+
+416
+00:21:27,333 --> 00:21:29,166
+<i>Why have you</i>
+<i>returned?</i>
+
+417
+00:21:29,208 --> 00:21:30,417
+We have no choice.
+
+418
+00:21:30,458 --> 00:21:32,000
+We're here to negotiate
+for our team.
+
+419
+00:21:32,041 --> 00:21:33,583
+What do you want?
+
+420
+00:21:33,625 --> 00:21:36,083
+<i>Maybe I want nothing.</i>
+
+421
+00:21:36,125 --> 00:21:37,625
+RIKER:
+Then you would
+have killed all of us.
+
+422
+00:21:37,667 --> 00:21:39,792
+Armus:
+<i>I still might.</i>
+
+423
+00:21:39,834 --> 00:21:40,875
+RIKER:
+What do you want?
+
+424
+00:21:40,917 --> 00:21:42,041
+Tell me.
+
+425
+00:21:42,083 --> 00:21:44,125
+Maybe we can reach
+an accommodation.
+
+426
+00:21:44,166 --> 00:21:46,959
+<i>If I tell you, will</i>
+<i>you give it to me?</i>
+
+427
+00:21:47,000 --> 00:21:47,959
+I might.
+
+428
+00:21:48,000 --> 00:21:49,458
+It depends.
+
+429
+00:21:50,792 --> 00:21:52,458
+I am a doctor.
+
+430
+00:21:52,500 --> 00:21:55,333
+I need to treat
+our injured friends.
+
+431
+00:21:55,375 --> 00:21:56,792
+<i>Say, "please."</i>
+
+432
+00:21:59,125 --> 00:22:00,500
+Please.
+
+433
+00:22:00,542 --> 00:22:02,500
+<i>You ask nicely.</i>
+
+434
+00:22:02,542 --> 00:22:04,291
+<i>I will allow it.</i>
+
+435
+00:22:05,583 --> 00:22:06,959
+<i>Wait!</i>
+
+436
+00:22:07,000 --> 00:22:09,083
+<i>I've changed my mind.</i>
+
+437
+00:22:09,125 --> 00:22:11,500
+<i>Talk to her</i>
+<i>from here.</i>
+
+438
+00:22:11,542 --> 00:22:13,000
+How...
+
+439
+00:22:14,875 --> 00:22:16,542
+Troi, can you hear me?
+
+440
+00:22:19,125 --> 00:22:21,083
+BEVERLY:
+Deanna, are you all right?
+
+441
+00:22:23,625 --> 00:22:25,041
+Beverly?
+
+442
+00:22:25,083 --> 00:22:26,208
+TROI:
+I can hear you.
+
+443
+00:22:27,959 --> 00:22:29,083
+Are you all right?
+
+444
+00:22:30,750 --> 00:22:32,542
+Yes.
+
+445
+00:22:32,583 --> 00:22:35,166
+We've encountered
+some difficulty.
+
+446
+00:22:37,250 --> 00:22:38,709
+I know.
+
+447
+00:22:38,750 --> 00:22:40,500
+She needs our help.
+
+448
+00:22:40,542 --> 00:22:42,000
+<i>So what?</i>
+
+449
+00:22:43,333 --> 00:22:45,500
+Our friends are suffering
+a few meters away
+
+450
+00:22:45,542 --> 00:22:46,875
+yet you block our path.
+
+451
+00:22:46,917 --> 00:22:48,041
+Why?
+
+452
+00:22:48,083 --> 00:22:51,542
+<i>You are all ungrateful.</i>
+
+453
+00:22:51,583 --> 00:22:53,166
+BEVERLY:
+What is he
+made of?
+
+454
+00:22:53,208 --> 00:22:55,166
+DATA:
+It did not register
+on the tricorder.
+
+455
+00:22:55,208 --> 00:22:59,208
+<i>"It?" Does that mean</i>
+<i>I am not alive?</i>
+
+456
+00:22:59,250 --> 00:23:01,834
+No, clearly you
+are some kind
+
+457
+00:23:01,875 --> 00:23:03,667
+of intelligent form.
+
+458
+00:23:03,709 --> 00:23:08,291
+<i>But you said</i>
+<i>I did not register</i>
+<i>on your instrument.</i>
+
+459
+00:23:08,333 --> 00:23:11,208
+<i>Perhaps your instruments</i>
+<i>are useless.</i>
+
+460
+00:23:21,333 --> 00:23:23,041
+<i>Don't help him.</i>
+
+461
+00:23:23,083 --> 00:23:24,125
+Data.
+
+462
+00:23:29,458 --> 00:23:30,792
+Half meter
+to the right, Geordi.
+
+463
+00:23:35,875 --> 00:23:37,458
+<i>Aren't you going</i>
+<i>to lead him</i>
+
+464
+00:23:37,500 --> 00:23:40,542
+<i>to his sight again, robot?</i>
+
+465
+00:23:40,583 --> 00:23:43,041
+No, you will just move it again
+
+466
+00:23:43,083 --> 00:23:44,333
+and I will not help you
+hurt him.
+
+467
+00:23:45,500 --> 00:23:47,041
+<i>Then give it to him.</i>
+
+468
+00:23:47,083 --> 00:23:49,875
+<i>I will find</i>
+<i>something else</i>
+<i>to amuse me.</i>
+
+469
+00:24:05,792 --> 00:24:08,750
+<i>You said they</i>
+<i>wouldn't amuse me.</i>
+
+470
+00:24:08,792 --> 00:24:11,000
+<i>You were right.</i>
+
+471
+00:24:11,041 --> 00:24:12,542
+And the emptiness remains.
+
+472
+00:24:16,667 --> 00:24:18,166
+You sound so alone.
+
+473
+00:24:19,500 --> 00:24:21,083
+<i>I am alone.</i>
+
+474
+00:24:23,291 --> 00:24:24,583
+Abandoned.
+
+475
+00:24:26,542 --> 00:24:28,667
+Who deserted you?
+
+476
+00:24:28,709 --> 00:24:32,250
+<i>Creatures whose beauty</i>
+<i>now dazzles all who see them.</i>
+
+477
+00:24:33,417 --> 00:24:36,250
+<i>They would not exist</i>
+<i>without me.</i>
+
+478
+00:24:38,500 --> 00:24:40,166
+You were together.
+
+479
+00:24:40,208 --> 00:24:43,458
+<i>They perfected a means</i>
+<i>of bringing to the surface</i>
+
+480
+00:24:43,500 --> 00:24:46,792
+<i>all that was evil</i>
+<i>and negative within...</i>
+
+481
+00:24:46,834 --> 00:24:50,000
+<i>erupting, spreading,</i>
+<i>connecting.</i>
+
+482
+00:24:50,041 --> 00:24:53,125
+<i>In time, it formed</i>
+<i>a second skin--</i>
+
+483
+00:24:53,166 --> 00:24:55,041
+<i>dank and vile.</i>
+
+484
+00:24:57,000 --> 00:24:58,333
+You.
+
+485
+00:24:58,375 --> 00:24:59,458
+<i>Yes.</i>
+
+486
+00:25:02,709 --> 00:25:04,583
+They discarded you and left.
+
+487
+00:25:06,125 --> 00:25:07,709
+<i>And here I am.</i>
+
+488
+00:25:11,542 --> 00:25:12,625
+You have my pity.
+
+489
+00:25:15,834 --> 00:25:18,000
+(<i> rumbling growls</i> )
+
+490
+00:25:20,000 --> 00:25:21,875
+<i>Your pity?</i>
+
+491
+00:25:21,917 --> 00:25:23,834
+<i>Save that for yourself!</i>
+
+492
+00:25:34,125 --> 00:25:35,834
+(<i> no audio</i> )
+
+493
+00:25:39,542 --> 00:25:40,917
+Data!
+
+494
+00:25:40,959 --> 00:25:43,000
+Data, something's got me!
+
+495
+00:25:43,041 --> 00:25:44,917
+ARMUS:
+<i>Touch him, and he dies.</i>
+
+496
+00:25:44,959 --> 00:25:45,875
+No!
+
+497
+00:25:45,917 --> 00:25:47,291
+No, don't!
+
+498
+00:25:57,875 --> 00:25:59,208
+<i>Enterprise.</i>
+
+499
+00:25:59,250 --> 00:26:02,750
+Armus has... enveloped
+Commander Riker.
+
+500
+00:26:02,792 --> 00:26:04,041
+I'm beaming you up.
+
+501
+00:26:04,083 --> 00:26:07,917
+<i>If any of you leave now,</i>
+<i>he dies.</i>
+
+502
+00:26:07,959 --> 00:26:10,709
+<i>And so do the survivors</i>
+<i>of the crash.</i>
+
+503
+00:26:30,458 --> 00:26:32,125
+PICARD:
+<i>Captain's Log, supplemental.</i>
+
+504
+00:26:32,166 --> 00:26:35,000
+<i>There is grave danger</i>
+<i>to the crew on Vagra II.</i>
+
+505
+00:26:35,041 --> 00:26:36,458
+<i>My first officer is missing--</i>
+
+506
+00:26:36,500 --> 00:26:39,000
+<i>attacked by this entity</i>
+<i>known as Armus.</i>
+
+507
+00:26:40,917 --> 00:26:42,792
+Captain, perhaps you
+should take a look at this.
+
+508
+00:26:44,792 --> 00:26:46,291
+WORF:
+We have the chart
+of the energy field
+
+509
+00:26:46,333 --> 00:26:47,750
+surrounding the shuttle.
+
+510
+00:26:47,792 --> 00:26:49,250
+There are a lot
+of fluctuations.
+
+511
+00:26:49,291 --> 00:26:51,458
+Yes, but there<i> is</i>
+a pattern.
+
+512
+00:26:51,500 --> 00:26:54,166
+Here is where it killed
+Lieutenant Yar
+
+513
+00:26:54,208 --> 00:26:56,750
+and here is where it
+absorbed Commander Riker.
+
+514
+00:26:56,792 --> 00:27:00,166
+And here, here, where
+the energy is lowest?
+
+515
+00:27:00,208 --> 00:27:02,458
+Both times, it had
+enveloped the shuttle.
+
+516
+00:27:05,041 --> 00:27:06,875
+It has something to do
+with Counselor Troi.
+
+517
+00:27:08,250 --> 00:27:10,458
+PICARD:
+Somehow, when it's
+dealing with her
+
+518
+00:27:10,500 --> 00:27:12,458
+the energy field
+is affected.
+
+519
+00:27:12,500 --> 00:27:13,667
+I want to talk to her.
+
+520
+00:27:13,709 --> 00:27:14,792
+I'm going to beam down.
+
+521
+00:27:14,834 --> 00:27:16,125
+Lieutenant Worf,
+you have the conn.
+
+522
+00:27:20,208 --> 00:27:21,417
+TROI:
+Imzadi!
+
+523
+00:27:21,458 --> 00:27:24,041
+No, please stop hurting him.
+
+524
+00:27:25,333 --> 00:27:27,125
+ARMUS:
+<i>He resists.</i>
+
+525
+00:27:27,166 --> 00:27:31,208
+<i>If he would give himself over,</i>
+<i>the pain would diminish.</i>
+
+526
+00:27:32,417 --> 00:27:33,709
+<i>He struggles.</i>
+
+527
+00:27:33,750 --> 00:27:35,917
+<i>You should feel</i>
+<i>his strength.</i>
+
+528
+00:27:37,625 --> 00:27:39,542
+I can.
+
+529
+00:27:39,583 --> 00:27:42,041
+<i>Should I let him go?</i>
+
+530
+00:27:42,083 --> 00:27:44,583
+You only ask to torment me.
+
+531
+00:27:44,625 --> 00:27:46,375
+<i>Perhaps.</i>
+
+532
+00:27:46,417 --> 00:27:48,542
+How should I answer?
+
+533
+00:27:48,583 --> 00:27:51,333
+What can I offer except myself?
+
+534
+00:27:51,375 --> 00:27:53,709
+<i>And would you give</i>
+<i>yourself for him?</i>
+
+535
+00:27:54,750 --> 00:27:57,500
+<i>Would you give</i>
+<i>that much?</i>
+
+536
+00:27:57,542 --> 00:28:00,291
+Yes, without hesitation.
+
+537
+00:28:02,083 --> 00:28:03,959
+<i>Just for him?</i>
+
+538
+00:28:04,000 --> 00:28:06,250
+No, not just for him.
+
+539
+00:28:06,291 --> 00:28:08,458
+I would do the same
+for any of the others.
+
+540
+00:28:10,834 --> 00:28:13,375
+Armus, you have me.
+
+541
+00:28:14,750 --> 00:28:16,291
+Let them go.
+
+542
+00:28:16,333 --> 00:28:20,375
+<i>Perhaps...</i>
+<i>Ah, another has arrived.</i>
+
+543
+00:28:38,458 --> 00:28:40,750
+<i>You are the one in charge?</i>
+
+544
+00:28:43,500 --> 00:28:45,000
+Is Commander Riker alive?
+
+545
+00:28:45,041 --> 00:28:47,250
+<i>Answer, tin man.</i>
+
+546
+00:28:47,291 --> 00:28:50,750
+I would guess that death
+is no longer sufficient
+
+547
+00:28:50,792 --> 00:28:52,333
+to alleviate
+its boredom.
+
+548
+00:28:52,375 --> 00:28:54,041
+Therefore, Commander
+Riker is alive.
+
+549
+00:28:55,208 --> 00:28:56,291
+<i>Maybe.</i>
+
+550
+00:29:05,291 --> 00:29:08,333
+<i>Don't you want to ask me</i>
+<i>what I want?</i>
+
+551
+00:29:09,667 --> 00:29:11,041
+No.
+
+552
+00:29:11,083 --> 00:29:14,500
+<i>Not even to protect</i>
+<i>your own existence?</i>
+
+553
+00:29:20,500 --> 00:29:22,166
+I want to see my people
+in the shuttle.
+
+554
+00:29:23,458 --> 00:29:24,917
+<i>Entertain me.</i>
+
+555
+00:29:26,458 --> 00:29:28,041
+Hm-mm.
+
+556
+00:29:28,083 --> 00:29:30,250
+<i>Then I will do it myself.</i>
+
+557
+00:29:41,709 --> 00:29:43,083
+<i>You, tin man--</i>
+
+558
+00:29:48,333 --> 00:29:50,333
+<i>Now, tell me,</i>
+<i>how would you feel</i>
+
+559
+00:29:50,375 --> 00:29:51,792
+<i>if</i> you<i> were</i>
+<i>the instrument</i>
+
+560
+00:29:51,834 --> 00:29:53,834
+<i>of death</i>
+<i>for your leader?</i>
+
+561
+00:29:53,875 --> 00:29:55,417
+Don't struggle, Data.
+
+562
+00:29:55,458 --> 00:29:58,583
+I have no control over
+what you do with the phaser.
+
+563
+00:29:58,625 --> 00:30:01,583
+Therefore, I would not be
+the instrument of his death.
+
+564
+00:30:01,625 --> 00:30:03,458
+<i>Perhaps killing the doctor</i>
+
+565
+00:30:03,500 --> 00:30:05,542
+<i>would engender</i>
+<i>more feeling.</i>
+
+566
+00:30:07,458 --> 00:30:10,583
+No, the control
+is still yours.
+
+567
+00:30:10,625 --> 00:30:13,500
+<i>And what about</i>
+<i>you, Doctor?</i>
+
+568
+00:30:13,542 --> 00:30:15,709
+<i>Are you ready to die?</i>
+
+569
+00:30:15,750 --> 00:30:18,583
+<i>Tell me you are</i>
+<i>not afraid.</i>
+
+570
+00:30:18,625 --> 00:30:20,166
+I am afraid.
+
+571
+00:30:20,208 --> 00:30:22,041
+<i>Beg me to</i>
+<i>spare you.</i>
+
+572
+00:30:22,083 --> 00:30:23,166
+No.
+
+573
+00:30:24,458 --> 00:30:26,166
+<i>One of you is going to die.</i>
+
+574
+00:30:27,333 --> 00:30:29,333
+<i>And you, Doctor, get to choose.</i>
+
+575
+00:30:30,417 --> 00:30:32,917
+<i>You don't like that,</i>
+<i>do you?</i>
+
+576
+00:30:32,959 --> 00:30:35,291
+Then I choose myself.
+
+577
+00:30:35,333 --> 00:30:36,709
+<i>No.</i>
+
+578
+00:30:36,750 --> 00:30:38,917
+<i>You are going to live.</i>
+
+579
+00:30:38,959 --> 00:30:40,959
+<i>One of them dies.</i>
+
+580
+00:30:44,291 --> 00:30:46,000
+<i>Maybe this one.</i>
+
+581
+00:30:46,041 --> 00:30:48,375
+<i>Though I would not</i>
+<i>call it death</i>
+
+582
+00:30:48,417 --> 00:30:50,625
+<i>since he is only a device.</i>
+
+583
+00:30:50,667 --> 00:30:52,250
+<i>Tell me,</i>
+<i>tin man</i>
+
+584
+00:30:52,291 --> 00:30:53,583
+<i>how does</i>
+<i>it feel</i>
+
+585
+00:30:53,625 --> 00:30:55,291
+<i>to face your</i>
+<i>own extinction?</i>
+
+586
+00:30:56,834 --> 00:30:58,166
+Curious.
+
+587
+00:30:58,208 --> 00:30:59,417
+(<i> phaser drops to the ground)</i>
+
+588
+00:31:03,333 --> 00:31:05,750
+You are capable
+of great sadism and cruelty.
+
+589
+00:31:07,125 --> 00:31:08,959
+Interesting--
+
+590
+00:31:09,000 --> 00:31:10,875
+no redeeming qualities.
+
+591
+00:31:10,917 --> 00:31:13,250
+<i>So what do you think?</i>
+
+592
+00:31:13,291 --> 00:31:15,125
+I think you should be destroyed.
+
+593
+00:31:15,166 --> 00:31:18,333
+<i>A moral judgment</i>
+<i>from a machine?</i>
+
+594
+00:31:18,375 --> 00:31:20,291
+Data.
+
+595
+00:31:20,333 --> 00:31:22,834
+Armus, we are finished
+dealing with you.
+
+596
+00:31:22,875 --> 00:31:26,667
+<i>I have your man in here</i>
+<i>and the others in the shuttle.</i>
+
+597
+00:31:26,709 --> 00:31:27,959
+It doesn't matter.
+
+598
+00:31:28,000 --> 00:31:30,083
+We will no longer be
+a source of amusement.
+
+599
+00:31:30,125 --> 00:31:32,250
+<i>I can kill them.</i>
+
+600
+00:31:32,291 --> 00:31:33,875
+Yes, you can
+
+601
+00:31:33,917 --> 00:31:35,291
+but only I can command them.
+
+602
+00:31:35,333 --> 00:31:37,000
+They follow my orders.
+
+603
+00:31:37,041 --> 00:31:39,000
+<i>Have them amuse me.</i>
+
+604
+00:31:39,041 --> 00:31:41,375
+Only if you will let me see
+my people on the shuttle first.
+
+605
+00:31:41,417 --> 00:31:42,333
+I must see them.
+
+606
+00:31:42,375 --> 00:31:43,917
+<i>Not possible.</i>
+
+607
+00:31:45,291 --> 00:31:47,125
+Then our business with you
+is concluded.
+
+608
+00:31:47,166 --> 00:31:50,125
+<i>And you claim you care</i>
+<i>about your comrades.</i>
+
+609
+00:31:51,375 --> 00:31:52,625
+I care.
+
+610
+00:31:52,667 --> 00:31:54,166
+Which is why
+I must see them.
+
+611
+00:31:55,333 --> 00:31:57,041
+<i>You want to see your people?</i>
+
+612
+00:32:03,542 --> 00:32:04,875
+<i>Then here.</i>
+
+613
+00:32:06,208 --> 00:32:07,417
+<i>Look...</i>
+
+614
+00:32:08,625 --> 00:32:10,166
+<i>at this one.</i>
+
+615
+00:32:15,208 --> 00:32:17,250
+BEVERLY:
+He's alive.
+
+616
+00:32:17,291 --> 00:32:18,792
+(<i> gulping and gasping</i> )
+
+617
+00:32:18,834 --> 00:32:20,333
+Don't move.
+
+618
+00:32:23,125 --> 00:32:24,667
+PICARD:
+Is he
+all right?
+
+619
+00:32:24,709 --> 00:32:26,333
+All signs
+show normal.
+
+620
+00:32:27,667 --> 00:32:28,959
+RIKER:
+So much
+frustration
+
+621
+00:32:29,000 --> 00:32:30,208
+it had to get
+rid of me.
+
+622
+00:32:36,458 --> 00:32:37,959
+Now, let me see the others.
+
+623
+00:32:39,083 --> 00:32:40,750
+<i>No.</i>
+
+624
+00:32:40,792 --> 00:32:43,667
+I will not allow my people
+to entertain you until you do.
+
+625
+00:32:43,709 --> 00:32:46,959
+<i>They are incapable</i>
+<i>of entertaining me.</i>
+
+626
+00:32:48,834 --> 00:32:50,500
+PICARD:
+I want the four
+of you out of here.
+
+627
+00:32:50,542 --> 00:32:53,000
+<i>Enterprise,</i> beam
+up the away team
+immediately.
+
+628
+00:32:53,041 --> 00:32:54,250
+WORF:
+Aye, sir.
+
+629
+00:32:55,750 --> 00:32:58,166
+(<i> sighs</i> )
+
+630
+00:32:58,208 --> 00:32:59,667
+They're no longer involved.
+
+631
+00:32:59,709 --> 00:33:01,542
+This is between you and me.
+
+632
+00:33:01,583 --> 00:33:03,125
+<i>They may leave.</i>
+
+633
+00:33:20,083 --> 00:33:21,333
+Now...
+
+634
+00:33:21,375 --> 00:33:23,667
+<i>I want to leave</i>
+<i>this place.</i>
+
+635
+00:33:26,709 --> 00:33:28,583
+You want me to give
+you transportation?
+
+636
+00:33:30,166 --> 00:33:31,166
+<i>For which</i>
+
+637
+00:33:31,208 --> 00:33:33,417
+<i>I will trade you lives.</i>
+
+638
+00:33:33,458 --> 00:33:35,583
+I must see my people
+in the shuttle.
+
+639
+00:33:35,625 --> 00:33:37,000
+<i>Will you give me</i>
+
+640
+00:33:37,041 --> 00:33:38,417
+<i>what I want?</i>
+
+641
+00:33:40,458 --> 00:33:42,417
+I have the means
+
+642
+00:33:42,458 --> 00:33:43,959
+but, first,
+I must see my people.
+
+643
+00:33:45,625 --> 00:33:47,000
+<i>If you must.</i>
+
+644
+00:33:55,792 --> 00:33:57,875
+Troi, are you
+all right?
+
+645
+00:33:57,917 --> 00:33:59,750
+Yes, but Ben
+is not.
+
+646
+00:34:05,250 --> 00:34:06,291
+He's alive.
+
+647
+00:34:09,417 --> 00:34:10,917
+Were you able to help Tasha?
+
+648
+00:34:15,625 --> 00:34:16,667
+No.
+
+649
+00:34:20,917 --> 00:34:22,125
+Troi...
+
+650
+00:34:23,417 --> 00:34:25,917
+Troi, we must talk.
+
+651
+00:34:25,959 --> 00:34:27,208
+I believe
+it's possible
+
+652
+00:34:27,250 --> 00:34:28,583
+to outmaneuver
+this creature
+
+653
+00:34:28,625 --> 00:34:30,625
+and beam you and Ben
+back up to the ship.
+
+654
+00:34:30,667 --> 00:34:31,959
+We've been monitoring
+
+655
+00:34:32,000 --> 00:34:34,041
+the energy field
+that surrounds the shuttle.
+
+656
+00:34:34,083 --> 00:34:36,875
+When the creature is here,
+the field weakens.
+
+657
+00:34:38,458 --> 00:34:39,500
+Do you know why?
+
+658
+00:34:40,625 --> 00:34:42,750
+The creature
+is filled with rage--
+
+659
+00:34:42,792 --> 00:34:46,041
+undirected, unfocused rage.
+
+660
+00:34:46,083 --> 00:34:49,000
+When he confronts it,
+his guard goes down
+
+661
+00:34:49,041 --> 00:34:52,208
+because he's feeling it
+instead of suppressing it.
+
+662
+00:34:52,250 --> 00:34:54,333
+Acknowledging his needs
+
+663
+00:34:54,375 --> 00:34:56,291
+makes him
+vulnerable.
+
+664
+00:34:56,333 --> 00:34:57,667
+What caused the rage?
+
+665
+00:34:59,000 --> 00:35:01,000
+He was left here--
+
+666
+00:35:01,041 --> 00:35:02,125
+abandoned.
+
+667
+00:35:11,041 --> 00:35:12,583
+WORF:
+The force field
+will have to drop
+
+668
+00:35:12,625 --> 00:35:14,458
+below 2.7 before
+we can beam them up.
+
+669
+00:35:17,750 --> 00:35:19,458
+<i>Satisfied?</i>
+
+670
+00:35:19,500 --> 00:35:21,000
+Yes.
+
+671
+00:35:21,041 --> 00:35:23,166
+<i>Then, can we leave?</i>
+
+672
+00:35:23,208 --> 00:35:24,625
+Where do you
+want to go?
+
+673
+00:35:24,667 --> 00:35:26,250
+Do you want to try to find
+those who left you here?
+
+674
+00:35:27,375 --> 00:35:29,375
+<i>She told you</i>
+<i>about them!</i>
+
+675
+00:35:37,291 --> 00:35:38,583
+How long have
+you been here?
+
+676
+00:35:39,792 --> 00:35:41,750
+<i>Since they left--</i>
+
+677
+00:35:41,792 --> 00:35:44,083
+<i>a very long time.</i>
+
+678
+00:35:44,125 --> 00:35:45,542
+A long time to be alone.
+
+679
+00:35:45,583 --> 00:35:47,291
+<i>Save your</i>
+<i>compassion.</i>
+
+680
+00:35:47,333 --> 00:35:49,083
+<i>It's revolting.</i>
+
+681
+00:35:49,125 --> 00:35:53,542
+<i>You offer it like a prize</i>
+<i>when, in fact, it's an insult.</i>
+
+682
+00:35:53,583 --> 00:35:55,250
+Because you feel unworthy.
+
+683
+00:35:55,291 --> 00:35:57,417
+<i>You overrate</i>
+<i>your gift.</i>
+
+684
+00:35:57,458 --> 00:36:01,750
+<i>You humans are puny--</i>
+<i>weak.</i>
+
+685
+00:36:01,792 --> 00:36:03,709
+But our spirit is indomitable.
+
+686
+00:36:03,750 --> 00:36:07,166
+<i>And still, you die</i>
+<i>from a flick of my power.</i>
+
+687
+00:36:09,333 --> 00:36:11,625
+A great poet once said
+
+688
+00:36:11,667 --> 00:36:14,333
+"All spirits are enslaved
+that serve things evil."
+
+689
+00:36:15,834 --> 00:36:18,000
+<i>You do not understand.</i>
+
+690
+00:36:18,041 --> 00:36:20,458
+<i>I do not serve things evil--</i>
+
+691
+00:36:20,500 --> 00:36:22,125
+<i>I</i> am<i> evil.</i>
+
+692
+00:36:23,750 --> 00:36:26,458
+Oh, no, you are not.
+
+693
+00:36:26,500 --> 00:36:28,291
+<i>I am a skin of evil</i>
+
+694
+00:36:28,333 --> 00:36:31,792
+<i>left here by a race</i>
+<i>of titans who believed</i>
+
+695
+00:36:31,834 --> 00:36:34,917
+<i>if they rid themselves of me,</i>
+<i>they would free</i>
+
+696
+00:36:34,959 --> 00:36:37,834
+<i>the bonds of</i>
+<i>destructiveness.</i>
+
+697
+00:36:37,875 --> 00:36:39,583
+Yes, so here you are.
+
+698
+00:36:41,166 --> 00:36:44,417
+Feeding on your own loneliness,
+consumed by your own pain
+
+699
+00:36:44,458 --> 00:36:46,291
+believing
+your own lies.
+
+700
+00:36:46,333 --> 00:36:47,625
+Set the computer.
+
+701
+00:36:47,667 --> 00:36:50,875
+When the energy level
+reaches 2.6.205
+
+702
+00:36:50,917 --> 00:36:53,125
+automatically beam up
+Troi and Prieto.
+
+703
+00:36:53,166 --> 00:36:55,041
+We'll do a parallel
+transport on the captain.
+
+704
+00:36:55,083 --> 00:36:56,250
+Yes, sir.
+
+705
+00:36:57,625 --> 00:36:59,041
+You say you
+are true evil?
+
+706
+00:37:00,375 --> 00:37:02,542
+Shall I tell you
+what true evil is?
+
+707
+00:37:03,834 --> 00:37:05,625
+It is to submit
+to you.
+
+708
+00:37:05,667 --> 00:37:07,417
+It's when
+we surrender
+our freedom--
+
+709
+00:37:07,458 --> 00:37:08,458
+our dignity--
+
+710
+00:37:08,500 --> 00:37:09,709
+instead of defying you.
+
+711
+00:37:09,750 --> 00:37:13,083
+<i>I will kill you</i>
+<i>and those in there!</i>
+
+712
+00:37:13,125 --> 00:37:15,709
+But you will still be here...
+
+713
+00:37:15,750 --> 00:37:17,375
+in this place.
+
+714
+00:37:17,417 --> 00:37:18,333
+Forever.
+
+715
+00:37:18,375 --> 00:37:19,333
+Alone.
+
+716
+00:37:19,375 --> 00:37:20,291
+Immortal.
+
+717
+00:37:20,333 --> 00:37:22,333
+(<i> gasping and growling</i> )
+
+718
+00:37:23,750 --> 00:37:25,792
+WORF:
+Stand by for
+parallel transport.
+
+719
+00:37:25,834 --> 00:37:29,125
+The energy level
+has dropped to 2.6.3.
+
+720
+00:37:29,166 --> 00:37:31,625
+That's your real fear--
+
+721
+00:37:31,667 --> 00:37:33,250
+never to die.
+
+722
+00:37:33,291 --> 00:37:36,500
+Never again to be united
+with those who left you here.
+
+723
+00:37:36,542 --> 00:37:38,625
+(<i> gasping roar</i> )
+
+724
+00:37:38,667 --> 00:37:40,333
+WORF:
+Energy field
+is 2.6.
+
+725
+00:37:40,375 --> 00:37:41,750
+Computer
+beginning
+transport.
+
+726
+00:37:47,792 --> 00:37:49,917
+(<i> gasping</i> )
+
+727
+00:37:49,959 --> 00:37:51,834
+I'm not taking you anywhere.
+
+728
+00:37:51,875 --> 00:37:57,166
+(<i> wailing and screaming</i> )
+
+729
+00:38:07,000 --> 00:38:10,166
+PICARD:
+<i>Captain's Log, Stardate 41602.1</i>
+
+730
+00:38:11,417 --> 00:38:13,375
+<i>The shuttlecraft</i>
+<i>has been destroyed</i>
+
+731
+00:38:13,417 --> 00:38:14,917
+<i>to prevent any possibility</i>
+
+732
+00:38:14,959 --> 00:38:17,166
+<i>of Armus leaving the planet.</i>
+
+733
+00:38:17,208 --> 00:38:19,208
+<i>Vagra II will be</i>
+<i>declared off-limits</i>
+
+734
+00:38:20,792 --> 00:38:22,333
+<i>but the damage has been done.</i>
+
+735
+00:38:23,917 --> 00:38:27,208
+<i>One of the saddest duties</i>
+<i>I've ever had to perform</i>
+
+736
+00:38:27,250 --> 00:38:28,500
+<i>is now ahead of me.</i>
+
+737
+00:38:39,208 --> 00:38:44,375
+We're here together to honor
+our friend and comrade--
+
+738
+00:38:44,417 --> 00:38:46,250
+Lieutenant
+Natasha Yar.
+
+739
+00:38:47,709 --> 00:38:50,041
+Coming to terms
+with the loss
+of a colleague
+
+740
+00:38:50,083 --> 00:38:53,959
+is perhaps the
+most difficult
+task we must face
+
+741
+00:38:54,000 --> 00:38:56,125
+in the work we have
+chosen to pursue.
+
+742
+00:38:57,458 --> 00:38:59,208
+We will all
+find time
+
+743
+00:38:59,250 --> 00:39:02,625
+to grieve for her in
+the days that are ahead
+
+744
+00:39:02,667 --> 00:39:07,083
+but, for now,
+she has asked
+
+745
+00:39:07,125 --> 00:39:11,250
+that we celebrate
+her life... with this.
+
+746
+00:39:27,875 --> 00:39:29,166
+Hello, my friends.
+
+747
+00:39:30,834 --> 00:39:34,000
+You are here now watching this
+image of me because I have died.
+
+748
+00:39:35,667 --> 00:39:38,250
+It probably happened
+while I was on duty...
+
+749
+00:39:38,291 --> 00:39:40,792
+and quickly,
+which is what I expected.
+
+750
+00:39:42,667 --> 00:39:44,166
+Never forget I died doing
+
+751
+00:39:44,208 --> 00:39:45,709
+exactly
+what I chose to do.
+
+752
+00:39:47,250 --> 00:39:50,458
+What I want you to
+know is how much
+I loved my life
+
+753
+00:39:50,500 --> 00:39:52,667
+and those of you
+who shared it with me.
+
+754
+00:39:54,333 --> 00:39:55,500
+You are my family.
+
+755
+00:39:57,041 --> 00:39:59,333
+You all know
+where I came from
+
+756
+00:39:59,375 --> 00:40:01,291
+and what my life
+was like before.
+
+757
+00:40:01,333 --> 00:40:04,333
+But Starfleet took that
+frightened angry, young girl
+
+758
+00:40:04,375 --> 00:40:05,917
+and tempered her.
+
+759
+00:40:05,959 --> 00:40:08,834
+I have been blessed
+with your friendship
+and your love.
+
+760
+00:40:10,709 --> 00:40:12,166
+Will Riker--
+
+761
+00:40:12,208 --> 00:40:13,625
+you are the best.
+
+762
+00:40:15,333 --> 00:40:17,083
+You trusted me
+
+763
+00:40:17,125 --> 00:40:19,375
+you encouraged me
+
+764
+00:40:19,417 --> 00:40:21,208
+and most of all,
+you made me laugh.
+
+765
+00:40:24,125 --> 00:40:29,083
+Deanna, you are capable
+of so much love.
+
+766
+00:40:30,875 --> 00:40:32,917
+You taught me without
+ever having to say a word.
+
+767
+00:40:35,000 --> 00:40:38,792
+I realized I could be feminine
+without losing anything.
+
+768
+00:40:44,667 --> 00:40:45,959
+Ah, Worf...
+
+769
+00:40:47,208 --> 00:40:49,458
+we are so
+much alike,
+you and I--
+
+770
+00:40:49,500 --> 00:40:51,667
+both warriors--
+
+771
+00:40:51,709 --> 00:40:54,041
+orphans who found ourselves
+this family.
+
+772
+00:40:56,667 --> 00:40:57,792
+I hope I met death
+
+773
+00:40:57,834 --> 00:40:59,625
+with my eyes
+wide open.
+
+774
+00:41:01,667 --> 00:41:05,250
+Beverly, your
+fierce devotion
+comes from within.
+
+775
+00:41:05,291 --> 00:41:07,291
+It can't
+be diminished.
+
+776
+00:41:07,333 --> 00:41:12,625
+From you, I have learned
+to strive for excellence
+
+777
+00:41:12,667 --> 00:41:14,500
+no matter
+what the personal cost.
+
+778
+00:41:16,458 --> 00:41:20,125
+Wesley, I'm sorry
+I won't be able
+
+779
+00:41:20,166 --> 00:41:23,583
+to see you grow
+into the exceptional
+man you'll become.
+
+780
+00:41:25,083 --> 00:41:28,000
+But your kindness
+and innocence are ageless.
+
+781
+00:41:30,625 --> 00:41:31,750
+Geordi...
+
+782
+00:41:35,208 --> 00:41:38,750
+in those moments
+I felt the most despair
+
+783
+00:41:38,792 --> 00:41:39,959
+you took my hand
+
+784
+00:41:40,000 --> 00:41:41,583
+and helped me to see
+things differently.
+
+785
+00:41:42,792 --> 00:41:44,875
+You taught me
+to look beyond
+the moment.
+
+786
+00:41:46,375 --> 00:41:48,041
+My friend, Data--
+
+787
+00:41:48,083 --> 00:41:50,875
+you see things
+with the wonder
+of a child.
+
+788
+00:41:53,125 --> 00:41:54,917
+And that makes you more human
+than any of us.
+
+789
+00:42:00,917 --> 00:42:02,291
+Captain Jean-Luc Picard.
+
+790
+00:42:05,166 --> 00:42:09,041
+I wish I could say you've
+been like a father to me
+
+791
+00:42:09,083 --> 00:42:10,250
+but I've never had one
+
+792
+00:42:10,291 --> 00:42:12,000
+so I don't know
+what it feels like.
+
+793
+00:42:14,667 --> 00:42:17,125
+But if there were someone
+in this universe
+
+794
+00:42:17,166 --> 00:42:20,417
+I could choose to be like--
+
+795
+00:42:20,458 --> 00:42:25,041
+someone who I would want
+to make proud of me--
+
+796
+00:42:27,000 --> 00:42:28,083
+it's you.
+
+797
+00:42:29,917 --> 00:42:33,500
+You who have the heart
+of an explorer
+
+798
+00:42:33,542 --> 00:42:35,208
+and the soul
+of a poet.
+
+799
+00:42:36,792 --> 00:42:38,875
+So, you'll
+understand
+when I say
+
+800
+00:42:40,959 --> 00:42:43,083
+"death is that state
+
+801
+00:42:43,125 --> 00:42:46,291
+"in which one exists only
+in the memory of others...
+
+802
+00:42:48,333 --> 00:42:49,750
+which is why it is not an end."
+
+803
+00:42:53,333 --> 00:42:54,500
+No good-byes.
+
+804
+00:42:55,750 --> 00:42:57,375
+Just good
+memories.
+
+805
+00:43:00,583 --> 00:43:02,333
+Hailing frequencies
+closed, sir.
+
+806
+00:43:11,333 --> 00:43:12,583
+<i>Au revoir,</i> Natasha.
+
+807
+00:43:24,500 --> 00:43:25,709
+The gathering is concluded.
+
+808
+00:43:48,125 --> 00:43:50,125
+Sir...
+
+809
+00:43:50,166 --> 00:43:51,834
+the purpose
+of this gathering...
+
+810
+00:43:53,750 --> 00:43:55,583
+confuses me.
+
+811
+00:43:55,625 --> 00:43:57,000
+Oh? How so?
+
+812
+00:43:59,166 --> 00:44:02,542
+My thoughts
+are not for Tasha
+
+813
+00:44:02,583 --> 00:44:04,208
+but for myself.
+
+814
+00:44:05,875 --> 00:44:07,834
+I keep thinking
+
+815
+00:44:07,875 --> 00:44:09,667
+how empty it will be
+without her presence.
+
+816
+00:44:12,250 --> 00:44:13,583
+Did I miss
+the point?
+
+817
+00:44:17,625 --> 00:44:18,625
+No, you didn't,
+Data--
+
+818
+00:44:18,667 --> 00:44:19,709
+you got it.
