@@ -1,0 +1,4371 @@
+1
+00:00:35,911 --> 00:00:38,205
+It's extraordinary.
+
+2
+00:00:39,498 --> 00:00:41,709
+I must remind you
+( device chittering )
+
+3
+00:00:41,709 --> 00:00:44,879
+that it is also
+a potential security risk.
+
+4
+00:00:44,879 --> 00:00:47,088
+It's losing power.
+
+5
+00:00:47,088 --> 00:00:48,799
+I'd like to move it
+to Engineering
+
+6
+00:00:48,799 --> 00:00:51,134
+to see if I can repair it
+before it drains completely.
+
+7
+00:00:51,134 --> 00:00:53,971
+I suggest we allow
+the power to drain.
+
+8
+00:00:53,971 --> 00:00:55,514
+We should take
+the opportunity
+
+9
+00:00:55,514 --> 00:00:57,057
+to examine it
+while it is idle.
+
+10
+00:00:57,057 --> 00:00:58,308
+Then we can decide
+
+11
+00:00:58,308 --> 00:01:00,310
+whether it is wise
+to repair it.
+
+12
+00:01:00,310 --> 00:01:01,979
+Captain, this thing
+
+13
+00:01:01,979 --> 00:01:04,105
+has a completely
+unfamiliar power source.
+
+14
+00:01:04,105 --> 00:01:05,941
+Once it stops working,
+
+15
+00:01:05,941 --> 00:01:08,109
+it's very possible I'll never be
+able to get it going again,
+
+16
+00:01:08,109 --> 00:01:09,695
+and we'll have lost
+an opportunity
+
+17
+00:01:09,695 --> 00:01:11,989
+to study a new technology.
+
+18
+00:01:11,989 --> 00:01:16,117
+This<i> is</i> a ship
+of exploration, Mr. Tuvok.
+
+19
+00:01:20,998 --> 00:01:24,376
+TORRES:
+The power's surging.
+
+20
+00:01:24,376 --> 00:01:25,920
+If we can't find
+a way to stabilize it,
+
+21
+00:01:25,920 --> 00:01:27,838
+we're going to lose it.
+
+22
+00:01:27,838 --> 00:01:30,758
+What about an interface
+with an EPS power conduit?
+
+23
+00:01:30,758 --> 00:01:32,801
+Well, the
+energy signatures
+are incompatible,
+
+24
+00:01:32,801 --> 00:01:35,846
+but it might
+buy us some time.
+
+25
+00:01:37,056 --> 00:01:39,058
+( whirring )
+
+26
+00:01:45,856 --> 00:01:48,943
+Okay, let's give it
+a try.
+
+27
+00:01:48,943 --> 00:01:52,071
+TORRES: Two-second burst,
+five percent maximum output.
+
+28
+00:01:53,405 --> 00:01:55,323
+On my mark.
+
+29
+00:01:55,323 --> 00:01:56,617
+Now.
+
+30
+00:01:57,910 --> 00:01:59,369
+We're losing it.
+
+31
+00:01:59,369 --> 00:02:01,580
+Maybe we're overloading
+its systems.
+
+32
+00:02:01,580 --> 00:02:03,958
+Let's try
+a longer burst
+at lower power.
+
+33
+00:02:03,958 --> 00:02:05,042
+Got it.
+
+34
+00:02:05,042 --> 00:02:06,961
+Five seconds
+at three percent.
+
+35
+00:02:06,961 --> 00:02:08,503
+On your mark.
+
+36
+00:02:08,503 --> 00:02:10,213
+Now.
+
+37
+00:02:10,213 --> 00:02:12,132
+I think
+it's working.
+
+38
+00:02:12,132 --> 00:02:14,009
+EPS flow
+is holding steady.
+
+39
+00:02:14,009 --> 00:02:16,303
+EM field leakage
+is minimal.
+
+40
+00:02:16,303 --> 00:02:19,556
+We'll have to watch the pressure
+at the connector.
+
+41
+00:02:19,556 --> 00:02:21,934
+Let's try to keep it below
+eighty-five percent.
+
+42
+00:02:21,934 --> 00:02:24,144
+Flux capacitance is spiking
+intermittently,
+
+43
+00:02:24,144 --> 00:02:26,063
+but I don't think
+that's the problem.
+
+44
+00:02:26,063 --> 00:02:28,023
+Let's reinforce the power
+conduit coupling,
+
+45
+00:02:28,023 --> 00:02:30,191
+just to be on
+the safe side.
+
+46
+00:02:32,444 --> 00:02:35,489
+<i>( dramatic</i>
+<i>theme music playing )</i>
+
+47
+00:04:18,842 --> 00:04:20,969
+TORRES: It's suffered
+a lot of damage,
+
+48
+00:04:20,969 --> 00:04:22,512
+but I think
+the EPS charge
+
+49
+00:04:22,512 --> 00:04:25,724
+will keep it running
+for at least 18 hours.
+
+50
+00:04:25,724 --> 00:04:27,184
+It's not a cyborg.
+
+51
+00:04:27,184 --> 00:04:29,061
+It's completely robotic.
+
+52
+00:04:29,061 --> 00:04:31,772
+No organ components
+of any kind.
+
+53
+00:04:31,772 --> 00:04:35,067
+This looks like some kind
+of programming center.
+
+54
+00:04:35,067 --> 00:04:36,777
+But I'm not detecting
+any pathways
+
+55
+00:04:36,777 --> 00:04:38,946
+for transmitting
+information.
+
+56
+00:04:38,946 --> 00:04:40,781
+It's got arms, legs.
+
+57
+00:04:40,781 --> 00:04:42,323
+We saw it move its head.
+
+58
+00:04:42,323 --> 00:04:46,203
+It's clearly designed
+to perform motor functions.
+
+59
+00:04:46,203 --> 00:04:48,663
+So where do those
+commands come from?
+
+60
+00:04:48,663 --> 00:04:49,706
+Maybe it needs to interface
+
+61
+00:04:49,706 --> 00:04:52,667
+with an
+outside source.
+
+62
+00:04:52,667 --> 00:04:54,628
+Speaking of sources,
+
+63
+00:04:54,628 --> 00:04:56,922
+this energy module
+seems to be what powers
+
+64
+00:04:56,922 --> 00:04:59,424
+the entire mechanism.
+
+65
+00:04:59,424 --> 00:05:01,927
+It isn't designed
+to run on EPS energy.
+
+66
+00:05:01,927 --> 00:05:05,180
+It runs on some kind
+of super-conducting plasma.
+
+67
+00:05:05,180 --> 00:05:07,307
+( gasps )
+
+68
+00:05:07,307 --> 00:05:09,893
+If we keep charging it,
+
+69
+00:05:09,893 --> 00:05:11,979
+we may end up destroying it.
+
+70
+00:05:11,979 --> 00:05:14,355
+( high-pitched tone )
+
+71
+00:05:14,355 --> 00:05:17,109
+( babbling )
+
+72
+00:05:17,109 --> 00:05:18,986
+It's trying
+to communicate.
+
+73
+00:05:18,986 --> 00:05:22,363
+We don't know that. It may just
+be some kind of recording.
+
+74
+00:05:22,363 --> 00:05:23,573
+Pralor! Pralor!
+
+75
+00:05:24,866 --> 00:05:26,034
+Pralor! Pralor!
+
+76
+00:05:26,034 --> 00:05:29,329
+Pralor! Pralor! Pralor!
+
+77
+00:05:29,329 --> 00:05:30,914
+What are you
+trying to say?
+
+78
+00:05:30,914 --> 00:05:33,667
+What's "Pralor"?
+
+79
+00:05:33,667 --> 00:05:37,921
+If you can hear me,
+try to move...
+
+80
+00:05:37,921 --> 00:05:39,422
+Try to move your arm.
+
+81
+00:05:42,634 --> 00:05:46,638
+B'Elanna, we don't even know
+if it can see you,
+
+82
+00:05:46,638 --> 00:05:47,848
+much less understand
+
+83
+00:05:47,848 --> 00:05:50,267
+a word you're saying.
+
+84
+00:06:04,031 --> 00:06:06,116
+We've got to figure out
+a way to fix it.
+
+85
+00:06:06,116 --> 00:06:07,534
+We've been trying for hours.
+
+86
+00:06:07,534 --> 00:06:08,869
+We need a break.
+
+87
+00:06:08,869 --> 00:06:11,079
+The EPS charge should
+hold till morning.
+
+88
+00:06:11,079 --> 00:06:12,455
+You go ahead.
+
+89
+00:06:12,455 --> 00:06:14,749
+I could use some time
+alone to think.
+
+90
+00:06:14,749 --> 00:06:17,252
+If you're staying,
+I'm staying.
+
+91
+00:06:17,252 --> 00:06:19,254
+Get some rest, Harry.
+
+92
+00:06:20,463 --> 00:06:22,007
+You may think you're tougher
+
+93
+00:06:22,007 --> 00:06:24,009
+than everybody else,
+B'Elanna Torres,
+
+94
+00:06:24,009 --> 00:06:26,511
+but I can go without sleep
+just as long as you can.
+
+95
+00:06:26,511 --> 00:06:29,348
+Don't make me laugh,
+Starfleet.
+
+96
+00:06:29,348 --> 00:06:33,101
+And don't make me
+pull rank on you either.
+
+97
+00:06:33,101 --> 00:06:35,312
+If you insist.
+
+98
+00:06:35,312 --> 00:06:37,939
+But let me know if you
+come up with anything...
+
+99
+00:06:37,939 --> 00:06:39,524
+Lieutenant.
+
+100
+00:06:46,907 --> 00:06:50,118
+TORRES:<i> Chief Engineer's Log:</i>
+<i>Supplemental.</i>
+
+101
+00:06:50,118 --> 00:06:52,037
+<i>I've tried 13 different methods</i>
+
+102
+00:06:52,037 --> 00:06:54,581
+<i>of reinitializing</i>
+<i>the robot's power source</i>
+
+103
+00:06:54,581 --> 00:06:56,208
+<i>and I'm still having no luck.</i>
+
+104
+00:06:56,208 --> 00:06:57,834
+<i>So I've decided</i>
+<i>to go to the mess hall</i>
+
+105
+00:06:57,834 --> 00:07:01,129
+<i>to recharge my own</i>
+<i>declining energy reserves.</i>
+
+106
+00:07:13,892 --> 00:07:16,519
+Neelix, I need
+another pot of coffee.
+
+107
+00:07:16,519 --> 00:07:18,897
+Even though breakfast
+isn't officially served
+
+108
+00:07:18,897 --> 00:07:20,481
+for another
+hour and a half,
+
+109
+00:07:20,481 --> 00:07:24,319
+I'd be happy to pour you
+a glass of traggle nectar.
+
+110
+00:07:24,319 --> 00:07:26,071
+I will even fix you
+
+111
+00:07:26,071 --> 00:07:29,366
+my special Jibalian
+seven-spice omelet.
+
+112
+00:07:29,366 --> 00:07:31,076
+Just coffee.
+
+113
+00:07:31,076 --> 00:07:33,870
+I'm sorry, B'Elanna,
+but two pots of Lauris blend
+
+114
+00:07:33,870 --> 00:07:36,998
+is the absolute limit.
+
+115
+00:07:36,998 --> 00:07:39,084
+You're cutting me off?
+
+116
+00:07:42,963 --> 00:07:45,799
+Oh, I guess
+you're right.
+
+117
+00:07:45,799 --> 00:07:49,219
+It was starting to
+taste almost palatable.
+
+118
+00:07:51,138 --> 00:07:55,642
+Still no idea how to revive
+our mechanized guest?
+
+119
+00:07:55,642 --> 00:07:57,060
+All I've been
+able to do
+
+120
+00:07:57,060 --> 00:07:59,646
+is postpone
+the inevitable.
+
+121
+00:07:59,646 --> 00:08:01,356
+The constant
+power depletion
+
+122
+00:08:01,356 --> 00:08:05,735
+is like a
+bleeding artery,
+
+123
+00:08:05,735 --> 00:08:08,071
+and haven't got
+a tourniquet.
+
+124
+00:08:08,071 --> 00:08:10,324
+I remember
+when I was trying
+
+125
+00:08:10,324 --> 00:08:13,201
+to perfect the recipe
+for my Jibalian omelet.
+
+126
+00:08:13,201 --> 00:08:14,744
+I tried everything--
+
+127
+00:08:14,744 --> 00:08:18,081
+a little more spith basil,
+a little less prishic--
+
+128
+00:08:18,081 --> 00:08:21,084
+but I couldn't get it right.
+
+129
+00:08:21,084 --> 00:08:23,420
+Finally, I fell asleep
+from exhaustion.
+
+130
+00:08:23,420 --> 00:08:25,213
+Right there
+at the counter.
+
+131
+00:08:25,213 --> 00:08:30,385
+And then, in a dream,
+it came to me.
+
+132
+00:08:30,385 --> 00:08:35,640
+I was using six spices,
+but the omelet needed seven.
+
+133
+00:08:35,640 --> 00:08:37,184
+Let me guess.
+
+134
+00:08:37,184 --> 00:08:39,686
+Leola root.
+
+135
+00:08:39,686 --> 00:08:42,022
+Nimian sea salt,
+actually.
+
+136
+00:08:42,022 --> 00:08:44,065
+Salt?
+Yes, salt--
+
+137
+00:08:44,065 --> 00:08:46,526
+the most common spice
+in the galaxy.
+
+138
+00:08:46,526 --> 00:08:50,030
+But I was too tired,
+so I couldn't see it.
+
+139
+00:08:51,698 --> 00:08:53,700
+That is...
+
+140
+00:08:53,700 --> 00:08:57,871
+a very interesting
+story, Neelix.
+
+141
+00:08:57,871 --> 00:09:00,540
+Now, how about
+some more coffee?
+
+142
+00:09:00,540 --> 00:09:02,042
+To bed.
+
+143
+00:09:03,001 --> 00:09:04,085
+I said to bed...
+
+144
+00:09:04,085 --> 00:09:05,670
+I'm going.
+
+145
+00:09:08,256 --> 00:09:09,466
+I'm going.
+
+146
+00:09:22,145 --> 00:09:23,897
+( sighs )
+
+147
+00:09:25,065 --> 00:09:26,816
+( hollow knocking )
+
+148
+00:09:27,734 --> 00:09:29,236
+Anybody home?
+
+149
+00:09:31,071 --> 00:09:32,655
+What's that?
+
+150
+00:09:34,157 --> 00:09:36,243
+You think I should
+go to bed too?
+
+151
+00:09:39,496 --> 00:09:42,123
+Well...
+
+152
+00:09:42,123 --> 00:09:44,167
+I guess I'm outnumbered.
+
+153
+00:10:14,781 --> 00:10:18,826
+Computer, activate Emergency
+Medical Holographic program.
+
+154
+00:10:18,826 --> 00:10:20,620
+Please
+state the nature.
+
+155
+00:10:22,997 --> 00:10:25,708
+If there has been a change
+in the official dress code,
+
+156
+00:10:25,708 --> 00:10:27,668
+I certainly wish someone
+would have informed me.
+
+157
+00:10:27,668 --> 00:10:29,003
+This is what I sleep in.
+
+158
+00:10:29,003 --> 00:10:30,422
+I didn't have
+time to change.
+
+159
+00:10:30,422 --> 00:10:31,798
+I see.
+
+160
+00:10:31,798 --> 00:10:33,716
+May I assume your haste
+is an indication
+
+161
+00:10:33,716 --> 00:10:35,802
+that you have a medical
+problem of some kind?
+
+162
+00:10:35,802 --> 00:10:37,304
+An engineering
+problem actually,
+
+163
+00:10:37,304 --> 00:10:38,972
+but I thought you
+might have some insight.
+
+164
+00:10:38,972 --> 00:10:42,476
+Hm. I should remind you
+I'm a doctor...
+
+165
+00:10:42,476 --> 00:10:44,060
+Not an engineer. Right.
+
+166
+00:10:44,060 --> 00:10:46,229
+But this isn't a typical
+engineering problem.
+
+167
+00:10:46,229 --> 00:10:50,275
+I've been working on
+trying to repair a robot.
+
+168
+00:10:50,275 --> 00:10:52,611
+Ah, yes.
+The mechanical man.
+
+169
+00:10:52,611 --> 00:10:54,321
+Kes told me about it.
+Fascinating.
+
+170
+00:10:54,321 --> 00:10:56,281
+He's about to die.
+Die?
+
+171
+00:10:56,281 --> 00:10:58,158
+Die. Stop functioning.
+Whatever.
+
+172
+00:10:58,158 --> 00:11:01,328
+Unless I can figure out a way to
+sustain his main energy source.
+
+173
+00:11:01,328 --> 00:11:03,121
+What kind of energy source
+are we talking about?
+
+174
+00:11:03,121 --> 00:11:06,124
+Well, it's some type
+of chromo-dynamic module
+
+175
+00:11:06,124 --> 00:11:08,418
+powered by
+a tri-polymer plasma.
+
+176
+00:11:08,418 --> 00:11:10,837
+But the plasma
+is contaminated.
+
+177
+00:11:10,837 --> 00:11:12,046
+It's decaying.
+
+178
+00:11:12,046 --> 00:11:13,923
+Hm. Like diseased blood.
+
+179
+00:11:13,923 --> 00:11:17,385
+Right. It can't retain enough
+energy to keep the module
+running.
+
+180
+00:11:17,385 --> 00:11:19,387
+Have you considered
+a transfusion?
+
+181
+00:11:19,387 --> 00:11:22,265
+You mean replacing
+the plasma itself?
+
+182
+00:11:22,265 --> 00:11:24,809
+Well, that was one
+of my first ideas.
+
+183
+00:11:24,809 --> 00:11:28,146
+But where do I get my hands
+on a polymer plasma
+composed of elements
+
+184
+00:11:28,146 --> 00:11:30,398
+I didn't even know existed
+24 hours ago?
+
+185
+00:11:30,398 --> 00:11:33,527
+Aren't<i> Voyager's</i> engines
+powered by warp plasma?
+
+186
+00:11:35,820 --> 00:11:39,073
+Well, it's a very
+different substance.
+
+187
+00:11:39,073 --> 00:11:41,034
+It's too highly charged.
+
+188
+00:11:41,034 --> 00:11:43,911
+It would burn out
+the robot's systems in seconds.
+
+189
+00:11:46,122 --> 00:11:48,082
+It would be like
+trying to give a Bolian
+
+190
+00:11:48,082 --> 00:11:50,251
+a blood transfusion
+from a Vulcan.
+
+191
+00:11:50,251 --> 00:11:52,253
+Which ordinarily
+would kill
+
+192
+00:11:52,253 --> 00:11:54,548
+the unfortunate Bolian.
+
+193
+00:11:54,548 --> 00:11:55,965
+But there
+have been instances
+
+194
+00:11:55,965 --> 00:11:57,634
+when artificial blood
+was unavailable,
+
+195
+00:11:57,634 --> 00:12:00,011
+and existing blood cells
+were genetically altered
+
+196
+00:12:00,011 --> 00:12:01,846
+for interspecies
+transfusions.
+
+197
+00:12:01,846 --> 00:12:03,890
+It's a good idea,
+but warp plasma radiates
+
+198
+00:12:03,890 --> 00:12:08,102
+at too high a frequency
+to alter electro-chemically.
+
+199
+00:12:08,102 --> 00:12:09,604
+Unless...
+
+200
+00:12:09,604 --> 00:12:10,938
+Go on...
+
+201
+00:12:12,148 --> 00:12:17,070
+I could modify a series
+of anodyne relays,
+
+202
+00:12:17,070 --> 00:12:20,281
+attach them directly
+to the robot's power module.
+
+203
+00:12:20,281 --> 00:12:22,116
+They could act
+as a sort of regulator
+
+204
+00:12:22,116 --> 00:12:23,493
+to make
+the warp plasma compatible
+
+205
+00:12:23,493 --> 00:12:25,078
+with the robot's
+energy matrix!
+
+206
+00:12:26,454 --> 00:12:28,956
+That's exactly
+what I was going to suggest.
+
+207
+00:12:30,208 --> 00:12:32,960
+That's the last
+of the relays.
+
+208
+00:12:32,960 --> 00:12:36,256
+The plasma injector
+is sealed.
+
+209
+00:12:36,256 --> 00:12:38,091
+This is your show,
+Lieutenant.
+
+210
+00:12:38,091 --> 00:12:39,593
+Whenever
+you're ready.
+
+211
+00:12:44,264 --> 00:12:46,182
+Activating the relays.
+
+212
+00:12:48,309 --> 00:12:50,520
+All right, Harry,
+start the infusion.
+
+213
+00:12:50,520 --> 00:12:51,688
+20% nominal flow.
+
+214
+00:12:51,688 --> 00:12:53,732
+Initiating plasma flow.
+
+215
+00:12:55,275 --> 00:12:57,235
+Energy levels
+are up 14%.
+
+216
+00:12:57,235 --> 00:12:59,279
+The relays
+are holding.
+
+217
+00:12:59,279 --> 00:13:01,155
+Harry, give it
+a little more juice.
+
+218
+00:13:01,155 --> 00:13:02,449
+Got it.
+
+219
+00:13:02,449 --> 00:13:05,076
+I'm taking it
+to 30 percent.
+
+220
+00:13:05,076 --> 00:13:06,620
+35 percent.
+
+221
+00:13:06,620 --> 00:13:08,996
+Wait. The energy levels
+are rising too fast.
+
+222
+00:13:08,996 --> 00:13:10,957
+We're going
+to burn out its systems.
+
+223
+00:13:10,957 --> 00:13:12,584
+But it needs more plasma.
+
+224
+00:13:12,584 --> 00:13:14,919
+What about increasing the
+capacitance of the relays?
+
+225
+00:13:14,919 --> 00:13:16,170
+Let's give it a try.
+
+226
+00:13:19,215 --> 00:13:20,925
+It's stabilizing.
+
+227
+00:13:20,925 --> 00:13:23,010
+Hold the flow
+right there
+
+228
+00:13:23,010 --> 00:13:25,221
+and see what happens.
+
+229
+00:13:26,723 --> 00:13:28,182
+The plasma's
+circulating.
+
+230
+00:13:29,350 --> 00:13:32,186
+The programming center
+is activated.
+
+231
+00:13:32,186 --> 00:13:33,563
+I think we may have done it.
+
+232
+00:13:33,563 --> 00:13:35,189
+( gasps )
+
+233
+00:13:35,189 --> 00:13:36,899
+MALE COMPUTER VOICE:
+Please identify yourself.
+
+234
+00:13:36,899 --> 00:13:39,736
+I'm Lieutenant
+B'Elanna Torres
+
+235
+00:13:39,736 --> 00:13:42,071
+of the Federation
+Starship<i> Voyager.</i>
+
+236
+00:13:42,071 --> 00:13:44,949
+I am Automated
+Unit 3-9-4-7.
+
+237
+00:13:44,949 --> 00:13:48,911
+Thank you for reactivating me,
+Lieutenant B'Elanna Torres.
+
+238
+00:13:48,911 --> 00:13:51,790
+<i>( dramatic theme playing )</i>
+
+239
+00:13:59,130 --> 00:14:01,424
+TORRES:<i> Chief Engineer's Log:</i>
+<i>Supplemental.</i>
+
+240
+00:14:01,424 --> 00:14:03,551
+<i>The robot's power module</i>
+<i>is continuing</i>
+
+241
+00:14:03,551 --> 00:14:05,386
+<i>to function normally,</i>
+<i>using plasma</i>
+
+242
+00:14:05,386 --> 00:14:06,721
+<i>from our warp engines.</i>
+
+243
+00:14:06,721 --> 00:14:08,682
+<i>Repairing its systems</i>
+<i>has taught me</i>
+
+244
+00:14:08,682 --> 00:14:10,809
+<i>more about robotics</i>
+<i>than I ever could have learned</i>
+
+245
+00:14:10,809 --> 00:14:12,644
+<i>at Starfleet Academy.</i>
+
+246
+00:14:12,644 --> 00:14:14,479
+( device chittering )
+
+247
+00:14:14,479 --> 00:14:16,481
+I think we're past
+the critical stage.
+
+248
+00:14:16,481 --> 00:14:18,065
+I concur.
+
+249
+00:14:18,065 --> 00:14:20,067
+According to my
+self-diagnostic systems,
+
+250
+00:14:20,067 --> 00:14:23,363
+Automated Personnel Unit 3947
+is currently functioning
+
+251
+00:14:23,363 --> 00:14:26,616
+at 68% of peak
+operating capabilities.
+
+252
+00:14:27,701 --> 00:14:30,328
+Automated Personnel
+Unit 3947
+
+253
+00:14:30,328 --> 00:14:33,206
+is an extremely
+well-designed machine.
+
+254
+00:14:33,206 --> 00:14:34,666
+Lieutenant B'Elanna Torres
+
+255
+00:14:34,666 --> 00:14:37,043
+is an extremely
+proficient humanoid.
+
+256
+00:14:39,629 --> 00:14:43,341
+So how did you end up floating
+in space so badly damaged?
+
+257
+00:14:43,341 --> 00:14:45,677
+I was operating
+an asteroid-mining pod.
+
+258
+00:14:45,677 --> 00:14:47,011
+It exploded.
+
+259
+00:14:47,011 --> 00:14:49,472
+Do you know what
+caused the explosion?
+
+260
+00:14:49,472 --> 00:14:51,432
+I am unable to access
+that information.
+
+261
+00:14:51,432 --> 00:14:53,226
+My memory cells
+are not yet functioning
+
+262
+00:14:53,226 --> 00:14:55,770
+at optimal efficiency.
+
+263
+00:14:55,770 --> 00:14:57,938
+Do you remember
+where you come from?
+
+264
+00:14:57,938 --> 00:15:01,693
+I am stationed aboard
+a Pralor vessel.
+
+265
+00:15:01,693 --> 00:15:04,571
+Well, we'll do our best
+to find your ship
+
+266
+00:15:04,571 --> 00:15:05,946
+and return you
+to your people.
+
+267
+00:15:05,946 --> 00:15:07,490
+Thank you.
+
+268
+00:15:07,490 --> 00:15:10,284
+I'm hoping that the memory loss
+is only temporary.
+
+269
+00:15:10,284 --> 00:15:12,662
+Once the new plasma
+has a chance
+
+270
+00:15:12,662 --> 00:15:15,122
+to fully integrate
+into your systems,
+
+271
+00:15:15,122 --> 00:15:18,585
+I think you'll be
+pretty close to... optimal.
+
+272
+00:15:18,585 --> 00:15:20,086
+The new plasma?
+
+273
+00:15:20,086 --> 00:15:21,921
+Yes, I adapted
+your power module
+
+274
+00:15:21,921 --> 00:15:24,799
+to accept our warp plasma
+as an energy source.
+
+275
+00:15:24,799 --> 00:15:27,968
+You repaired my power module?
+
+276
+00:15:27,968 --> 00:15:29,470
+Are you a Builder?
+
+277
+00:15:30,388 --> 00:15:32,390
+A Builder?
+
+278
+00:15:32,390 --> 00:15:34,308
+Well, I guess
+you could say that.
+
+279
+00:15:34,308 --> 00:15:35,769
+I'm an engineer.
+
+280
+00:15:35,769 --> 00:15:38,521
+I'm responsible for repairing
+and maintaining
+
+281
+00:15:38,521 --> 00:15:39,814
+all the systems on the ship.
+
+282
+00:15:39,814 --> 00:15:41,775
+Only the Builders
+were capable
+
+283
+00:15:41,775 --> 00:15:44,444
+of constructing or repairing
+power modules.
+
+284
+00:15:44,444 --> 00:15:48,531
+The Builders are...
+the people who created you?
+
+285
+00:15:48,531 --> 00:15:49,699
+Yes.
+
+286
+00:15:49,699 --> 00:15:51,659
+And they're humanoids?
+Like me?
+
+287
+00:15:51,659 --> 00:15:54,412
+Yes. Like Lieutenant
+B'Elanna Torres.
+
+288
+00:16:00,460 --> 00:16:03,212
+You could create
+a new power module.
+
+289
+00:16:04,422 --> 00:16:05,965
+You don't need
+a new module.
+
+290
+00:16:05,965 --> 00:16:08,050
+The one I just fixed
+will work fine now.
+
+291
+00:16:08,050 --> 00:16:10,762
+The new power module
+will not be for me.
+
+292
+00:16:10,762 --> 00:16:12,847
+It will be a prototype
+for the construction
+
+293
+00:16:12,847 --> 00:16:14,849
+of additional
+automated units.
+
+294
+00:16:14,849 --> 00:16:17,393
+Can't the Builders make
+additional units?
+
+295
+00:16:17,393 --> 00:16:20,396
+The Builders no longer exist.
+
+296
+00:16:29,447 --> 00:16:32,909
+Apparently, thousands of them
+were built as service modules.
+
+297
+00:16:32,909 --> 00:16:35,703
+But the race who created them--
+these Builders--
+
+298
+00:16:35,703 --> 00:16:38,372
+were killed off
+decades ago in a war.
+
+299
+00:16:38,372 --> 00:16:40,416
+Leaving the automated units
+to fend for themselves.
+
+300
+00:16:40,416 --> 00:16:42,627
+Now they're wearing out,
+breaking down.
+
+301
+00:16:42,627 --> 00:16:44,504
+They've learned to make
+repairs for themselves--
+
+302
+00:16:44,504 --> 00:16:45,880
+some pretty complex.
+
+303
+00:16:45,880 --> 00:16:48,883
+But the construction
+of a power module--
+
+304
+00:16:48,883 --> 00:16:51,803
+the device
+which sustains them--
+
+305
+00:16:51,803 --> 00:16:53,387
+is beyond their grasp.
+
+306
+00:16:53,387 --> 00:16:57,141
+It's... an incredible
+challenge, Captain.
+
+307
+00:16:57,141 --> 00:16:59,185
+But with enough time
+to study their systems
+
+308
+00:16:59,185 --> 00:17:01,354
+I might be able
+to do it.
+
+309
+00:17:01,354 --> 00:17:05,608
+I don't doubt
+your abilities, B'Elanna,
+
+310
+00:17:05,608 --> 00:17:07,568
+but helping them reproduce
+
+311
+00:17:07,568 --> 00:17:10,655
+is a clear violation
+of the Prime Directive.
+
+312
+00:17:10,655 --> 00:17:12,949
+They've expressed
+a desire to procreate.
+
+313
+00:17:12,949 --> 00:17:14,868
+That's basic
+to any lifeform.
+
+314
+00:17:14,868 --> 00:17:16,577
+I'm not saying
+they don't have the same rights
+
+315
+00:17:16,577 --> 00:17:18,788
+as any organic species.
+That's not the issue here.
+
+316
+00:17:18,788 --> 00:17:20,122
+Are you sure?
+
+317
+00:17:20,122 --> 00:17:22,249
+Suppose
+they<i> were</i> organic.
+
+318
+00:17:22,249 --> 00:17:23,793
+But they
+had become sterile.
+
+319
+00:17:23,793 --> 00:17:26,170
+And we had a treatment
+that would enable them
+
+320
+00:17:26,170 --> 00:17:28,255
+to start reproducing again.
+
+321
+00:17:28,255 --> 00:17:31,801
+Would you withhold
+that treatment?
+
+322
+00:17:31,801 --> 00:17:34,470
+Maybe. I'd have to know more
+about the circumstances.
+
+323
+00:17:34,470 --> 00:17:35,972
+But we're not talking
+
+324
+00:17:35,972 --> 00:17:38,098
+about treating
+a disorder here, are we?
+
+325
+00:17:38,098 --> 00:17:39,559
+What's the difference?
+
+326
+00:17:39,559 --> 00:17:41,561
+Unlike a species
+that's become sterile,
+
+327
+00:17:41,561 --> 00:17:43,897
+these robots never had
+the ability to reproduce.
+
+328
+00:17:43,897 --> 00:17:46,733
+What you're talking about
+is giving them new abilities,
+
+329
+00:17:46,733 --> 00:17:47,984
+which is the equivalent
+
+330
+00:17:47,984 --> 00:17:49,777
+of altering
+their genetic structure.
+
+331
+00:17:49,777 --> 00:17:51,070
+To correct a flaw.
+
+332
+00:17:51,070 --> 00:17:52,572
+You can't call it
+a flaw.
+
+333
+00:17:52,572 --> 00:17:54,156
+This is the way
+they were designed.
+
+334
+00:17:54,156 --> 00:17:56,158
+I'm trying to save them
+from extinction.
+
+335
+00:17:56,158 --> 00:17:59,161
+Unfortunately, extinction is
+often the natural end of
+evolution.
+
+336
+00:17:59,161 --> 00:18:01,581
+So you'll just willing to let
+their entire society die off?
+
+337
+00:18:01,581 --> 00:18:03,708
+We don't know
+that's going to happen.
+
+338
+00:18:03,708 --> 00:18:06,586
+If they're adaptable as you say,
+and capable of educating
+themselves,
+
+339
+00:18:06,586 --> 00:18:09,881
+they might learn to build a
+power module themselves someday.
+
+340
+00:18:09,881 --> 00:18:12,341
+"Someday" could be
+too late.
+
+341
+00:18:12,341 --> 00:18:15,094
+There are only a few
+hundred of them left.
+
+342
+00:18:15,094 --> 00:18:17,346
+I feel for
+the robots' plight.
+
+343
+00:18:17,346 --> 00:18:20,182
+But what you're proposing
+is exactly the kind of tampering
+
+344
+00:18:20,182 --> 00:18:21,768
+the Prime Directive
+prohibits.
+
+345
+00:18:21,768 --> 00:18:23,770
+We know almost nothing
+about these creatures,
+
+346
+00:18:23,770 --> 00:18:25,563
+or the race
+that built them.
+
+347
+00:18:25,563 --> 00:18:28,482
+What would be the consequences
+of increasing their population?
+
+348
+00:18:28,482 --> 00:18:31,193
+Both to their own civilization
+and others in this quadrant?
+
+349
+00:18:31,193 --> 00:18:33,112
+Who are we
+to swoop in, play god,
+
+350
+00:18:33,112 --> 00:18:35,489
+and then continue on our way
+without the slightest
+consideration
+
+351
+00:18:35,489 --> 00:18:37,575
+of the the long-term effects
+of our actions?
+Captain...
+
+352
+00:18:37,575 --> 00:18:41,370
+B'Elanna, I share
+your scientific curiosity,
+
+353
+00:18:41,370 --> 00:18:44,958
+and I admire your compassion,
+but the answer is no.
+
+354
+00:18:51,756 --> 00:18:54,467
+I do not concur
+with your captain's decision.
+
+355
+00:18:54,467 --> 00:18:57,428
+She's following
+our Prime Directive.
+
+356
+00:18:57,428 --> 00:19:00,473
+Define
+"Prime Directive."
+
+357
+00:19:00,473 --> 00:19:02,391
+It forbids us
+to interfere
+
+358
+00:19:02,391 --> 00:19:04,978
+in the natural development
+of other cultures.
+
+359
+00:19:06,312 --> 00:19:08,898
+The automated units
+were not created naturally.
+
+360
+00:19:08,898 --> 00:19:10,483
+We were built.
+
+361
+00:19:10,483 --> 00:19:12,526
+You could help us
+build more.
+
+362
+00:19:12,526 --> 00:19:15,362
+Captain Janeway
+doesn't think
+that's a good idea.
+
+363
+00:19:15,362 --> 00:19:18,491
+But Lieutenant
+B'Elanna Torres does.
+
+364
+00:19:20,868 --> 00:19:22,578
+Maybe...
+
+365
+00:19:23,871 --> 00:19:25,665
+I don't know...
+
+366
+00:19:26,540 --> 00:19:28,835
+I'd like to try...
+
+367
+00:19:28,835 --> 00:19:30,711
+but I can't.
+
+368
+00:19:31,879 --> 00:19:34,757
+Without your help,
+we will not survive.
+
+369
+00:19:35,800 --> 00:19:37,176
+( sighs )
+
+370
+00:19:38,803 --> 00:19:42,140
+I thought Lieutenant
+B'Elanna Torres
+was a Builder.
+
+371
+00:19:45,351 --> 00:19:46,894
+So did I.
+
+372
+00:19:51,899 --> 00:19:54,027
+We've located your ship.
+
+373
+00:19:54,027 --> 00:19:56,487
+We should be in communications
+range in about an hour.
+
+374
+00:19:57,530 --> 00:19:59,573
+Thank you.
+
+375
+00:20:03,744 --> 00:20:06,789
+The alien vessel is entering
+visual range, Captain.
+
+376
+00:20:06,789 --> 00:20:08,207
+Yellow Alert.
+
+377
+00:20:08,207 --> 00:20:09,542
+Slow to one-quarter impulse.
+
+378
+00:20:09,542 --> 00:20:11,127
+Put them on screen,
+Ensign Kim.
+
+379
+00:20:11,127 --> 00:20:12,419
+KIM: Aye, Captain.
+
+380
+00:20:12,419 --> 00:20:13,671
+JANEWAY: Magnify.
+
+381
+00:20:16,507 --> 00:20:18,009
+TUVOK:
+We're being scanned, Captain.
+
+382
+00:20:18,009 --> 00:20:19,719
+That's all right.
+Let them take a look.
+
+383
+00:20:19,719 --> 00:20:21,470
+Open the channel.
+
+384
+00:20:21,470 --> 00:20:25,058
+<i>Pralor Automated</i>
+<i>Personnel Unit 6263</i>
+
+385
+00:20:25,058 --> 00:20:27,852
+<i>requests you identify</i>
+<i>yourselves.</i>
+
+386
+00:20:27,852 --> 00:20:29,311
+I'm Captain
+Kathryn Janeway
+
+387
+00:20:29,311 --> 00:20:31,689
+of the Federation
+Starship<i> Voyager.</i>
+
+388
+00:20:31,689 --> 00:20:35,860
+<i>What are your intentions,</i>
+<i>Captain Kathryn Janeway?</i>
+
+389
+00:20:35,860 --> 00:20:37,653
+We rescued
+one of your crew members--
+
+390
+00:20:37,653 --> 00:20:40,740
+Unit 3947-- and we'd like
+to return him to your ship.
+
+391
+00:20:40,740 --> 00:20:43,283
+<i>We'll prepare</i>
+<i>to receive the unit.</i>
+
+392
+00:20:43,283 --> 00:20:45,078
+<i>Thank you</i>
+<i>for your assistance.</i>
+
+393
+00:20:46,495 --> 00:20:49,957
+Very polite,
+these automated units.
+
+394
+00:20:53,586 --> 00:20:55,379
+Captain Janeway
+gave me permission
+
+395
+00:20:55,379 --> 00:20:57,173
+to give you some
+extra warp plasma
+
+396
+00:20:57,173 --> 00:21:00,009
+in case the plasma
+we've infused into
+your system
+
+397
+00:21:00,009 --> 00:21:01,761
+starts to degrade.
+
+398
+00:21:01,761 --> 00:21:03,512
+Thank you.
+
+399
+00:21:03,512 --> 00:21:07,225
+And you'll have to re-modulate
+the anodyne relays periodically.
+
+400
+00:21:07,225 --> 00:21:08,809
+You are
+repeating instructions
+
+401
+00:21:08,809 --> 00:21:10,436
+you have
+already given me, B'Elanna.
+
+402
+00:21:10,436 --> 00:21:12,897
+I'm just making sure.
+
+403
+00:21:14,314 --> 00:21:17,359
+Well, I guess
+this is good-bye.
+
+404
+00:21:20,029 --> 00:21:21,614
+( grunts in pain )
+
+405
+00:21:21,614 --> 00:21:23,574
+What are you doing?
+
+406
+00:21:23,574 --> 00:21:24,951
+( gasps )
+
+407
+00:21:27,995 --> 00:21:30,664
+Captain, I'm detecting a
+chromo-dynamic energy discharge
+
+408
+00:21:30,664 --> 00:21:32,583
+in Transporter Room Two.
+
+409
+00:21:32,583 --> 00:21:35,086
+Bridge to
+Transporter Room Two.
+
+410
+00:21:35,086 --> 00:21:36,462
+Janeway to Torres.
+
+411
+00:21:38,256 --> 00:21:40,382
+( scanner chittering )
+
+412
+00:21:40,382 --> 00:21:43,552
+Captain, someone's
+initiating a transport.
+
+413
+00:21:47,974 --> 00:21:50,768
+It's Torres
+and the robot.
+Override.
+
+414
+00:21:51,644 --> 00:21:53,020
+I can't block it.
+
+415
+00:21:53,020 --> 00:21:54,563
+Their patterns are already
+in the buffer.
+
+416
+00:21:58,901 --> 00:22:00,694
+They're gone, Captain.
+
+417
+00:22:11,080 --> 00:22:12,832
+Transport her
+back now, Mr. Kim.
+
+418
+00:22:12,832 --> 00:22:15,209
+KIM: I can't get
+a lock on her.
+
+419
+00:22:15,209 --> 00:22:16,627
+TUVOK: They have erected
+some sort of
+
+420
+00:22:16,627 --> 00:22:18,420
+subspace defense
+field around their vessel.
+
+421
+00:22:18,420 --> 00:22:21,715
+Our targeting scanners
+cannot penetrate it.
+Hail them.
+
+422
+00:22:21,715 --> 00:22:23,092
+KIM: They're not
+responding.
+
+423
+00:22:23,092 --> 00:22:25,594
+Open a channel
+on wide-band subspace.
+
+424
+00:22:25,594 --> 00:22:27,054
+Channel open.
+
+425
+00:22:27,054 --> 00:22:28,806
+This is Captain Janeway.
+
+426
+00:22:28,806 --> 00:22:30,308
+Your abduction
+of our crew member
+
+427
+00:22:30,308 --> 00:22:32,018
+is a clear act of aggression.
+
+428
+00:22:32,018 --> 00:22:33,853
+If you do not return her
+immediately,
+
+429
+00:22:33,853 --> 00:22:35,813
+we will be forced
+to retaliate.
+
+430
+00:22:37,481 --> 00:22:39,775
+Confirm that they've received
+the transmission, Mr. Kim.
+
+431
+00:22:39,775 --> 00:22:41,401
+They heard us all right.
+
+432
+00:22:41,401 --> 00:22:43,112
+They're just not answering.
+
+433
+00:22:44,404 --> 00:22:48,242
+Mr. Tuvok,
+power the forward phaser banks.
+
+434
+00:22:54,540 --> 00:22:56,542
+What the hell
+is going on here?
+
+435
+00:22:56,542 --> 00:22:58,044
+This is where
+you will assist
+
+436
+00:22:58,044 --> 00:22:59,795
+in the creation
+of the prototype.
+
+437
+00:22:59,795 --> 00:23:03,423
+I told you
+I can't help you!
+
+438
+00:23:03,423 --> 00:23:05,176
+Now return me to my ship.
+
+439
+00:23:05,176 --> 00:23:06,635
+That is not possible.
+
+440
+00:23:06,635 --> 00:23:08,179
+Torres to<i> Voyager.</i>
+
+441
+00:23:08,179 --> 00:23:10,639
+Your communication device
+has been deactivated.
+
+442
+00:23:12,933 --> 00:23:15,561
+I do not wish to
+injure you, B'Elanna.
+
+443
+00:23:15,561 --> 00:23:17,938
+I helped you.
+I reactivated you.
+
+444
+00:23:17,938 --> 00:23:19,273
+Why are you doing this?
+
+445
+00:23:19,273 --> 00:23:20,733
+We require additional
+automated units
+
+446
+00:23:20,733 --> 00:23:22,400
+to prevent
+our extinction.
+
+447
+00:23:22,400 --> 00:23:24,237
+Captain Janeway won't let you
+get away with this!
+
+448
+00:23:24,237 --> 00:23:27,240
+It would be inadvisable
+for your captain to provoke us.
+
+449
+00:23:27,240 --> 00:23:28,574
+Still no response, Captain.
+
+450
+00:23:28,574 --> 00:23:29,992
+Mr. Tuvok, any luck
+
+451
+00:23:29,992 --> 00:23:31,827
+penetrating their
+defense field?
+Negative.
+
+452
+00:23:31,827 --> 00:23:33,829
+Commander, is there
+any sign that they're
+
+453
+00:23:33,829 --> 00:23:35,664
+preparing to attack?
+
+454
+00:23:35,664 --> 00:23:37,917
+Their shielding is making it
+difficult to get clear readings.
+
+455
+00:23:37,917 --> 00:23:40,378
+I can't even tell you what
+their weapons capabilities are.
+
+456
+00:23:40,378 --> 00:23:44,590
+Mr. Tuvok, I don't want you
+to hit their ship,
+
+457
+00:23:44,590 --> 00:23:46,759
+but I do want you to open a hole
+in their shielding
+
+458
+00:23:46,759 --> 00:23:48,219
+wide enough
+to transport through.
+
+459
+00:23:48,219 --> 00:23:49,427
+Understood.
+
+460
+00:23:49,427 --> 00:23:51,347
+Mr. Kim,
+match the targeting scanners
+
+461
+00:23:51,347 --> 00:23:52,973
+to the coordinates
+of the phaser fire,
+
+462
+00:23:52,973 --> 00:23:55,226
+and stand by
+to beam B'Elanna back.
+
+463
+00:23:55,226 --> 00:23:56,769
+Phasers calibrated.
+
+464
+00:23:56,769 --> 00:23:57,978
+Fire.
+
+465
+00:24:02,316 --> 00:24:04,151
+Their field strength
+is down to 80%.
+
+466
+00:24:04,151 --> 00:24:06,528
+That's progress.
+Fire again.
+
+467
+00:24:06,528 --> 00:24:07,947
+( deep rumbling )
+
+468
+00:24:14,203 --> 00:24:16,538
+Initiating evasive pattern
+Omega Six.
+
+469
+00:24:17,790 --> 00:24:19,333
+They're firing
+some kind of
+
+470
+00:24:19,333 --> 00:24:21,168
+quantum resonance charges,
+Captain.
+
+471
+00:24:21,168 --> 00:24:23,963
+Our aft shields
+are down to 53% and dropping.
+
+472
+00:24:23,963 --> 00:24:26,382
+Rerouting power
+to aft shields.
+
+473
+00:24:26,382 --> 00:24:28,384
+Down to 24%.
+
+474
+00:24:28,384 --> 00:24:30,677
+Switching evasive pattern
+to Theta One.
+
+475
+00:24:30,677 --> 00:24:33,264
+Lieutenant Tuvok, load
+torpedo bays one through four
+
+476
+00:24:33,264 --> 00:24:35,515
+and stand by to fire
+on my order.
+
+477
+00:24:38,436 --> 00:24:40,478
+Your captain has made
+a tactical error
+
+478
+00:24:40,478 --> 00:24:41,521
+by attacking us.
+
+479
+00:24:41,521 --> 00:24:42,815
+Our weapons systems
+
+480
+00:24:42,815 --> 00:24:44,984
+are substantially
+superior to yours.
+
+481
+00:24:44,984 --> 00:24:46,735
+Your shields are failing.
+
+482
+00:24:46,735 --> 00:24:49,280
+Your weapons pose
+no threat to us.
+
+483
+00:24:51,615 --> 00:24:53,326
+Aft shields
+have been penetrated.
+
+484
+00:24:53,326 --> 00:24:55,286
+We've got
+to get out of here.
+
+485
+00:24:55,286 --> 00:24:56,745
+Agreed.
+
+486
+00:24:56,745 --> 00:24:58,414
+We'll try to come back
+for B'Elanna later.
+
+487
+00:24:58,414 --> 00:25:00,707
+Do it, Mr. Paris.
+Warp Three.
+
+488
+00:25:00,707 --> 00:25:03,752
+Propulsion systems are off-line.
+We're dead in the water.
+
+489
+00:25:05,379 --> 00:25:07,173
+(<i> alarm blaring</i> )
+
+490
+00:25:07,173 --> 00:25:09,342
+Hull breach on Deck Six.
+
+491
+00:25:09,342 --> 00:25:11,427
+Initiating
+emergency containment field.
+
+492
+00:25:11,427 --> 00:25:13,595
+Environmental control systems
+are failing.
+
+493
+00:25:13,595 --> 00:25:15,431
+Oxygen levels
+on decks three through seven
+
+494
+00:25:15,431 --> 00:25:16,890
+have dropped to Critical.
+
+495
+00:25:16,890 --> 00:25:19,059
+We've lost artificial gravity
+on Deck Eight.
+
+496
+00:25:19,059 --> 00:25:20,560
+Injury reports from all decks.
+
+497
+00:25:20,560 --> 00:25:22,813
+( rumbling impact )
+( Janeway grunts )
+
+498
+00:25:22,813 --> 00:25:24,482
+You've got to stop this.
+
+499
+00:25:24,482 --> 00:25:25,774
+Your ship opened fire.
+
+500
+00:25:25,774 --> 00:25:27,401
+We are programmed
+to defend ourselves.
+
+501
+00:25:27,401 --> 00:25:29,487
+They're helpless.
+Can't you see that?
+
+502
+00:25:29,487 --> 00:25:32,490
+Our enemies
+must be destroyed.
+
+503
+00:25:32,490 --> 00:25:33,907
+We a not your enemies.
+
+504
+00:25:33,907 --> 00:25:35,409
+You are not
+my enemy, B'Elanna,
+
+505
+00:25:35,409 --> 00:25:36,827
+but your captain is,
+
+506
+00:25:36,827 --> 00:25:38,787
+and your crew
+follows her commands.
+
+507
+00:25:38,787 --> 00:25:40,622
+Captain Janeway
+backed me
+
+508
+00:25:40,622 --> 00:25:42,249
+when I wanted
+to reactivate you,
+
+509
+00:25:42,249 --> 00:25:44,418
+over the objections of
+her Chief Security Officer.
+
+510
+00:25:44,418 --> 00:25:46,670
+You wouldn't be here
+if it weren't for her.
+
+511
+00:25:48,588 --> 00:25:50,341
+All right.
+
+512
+00:25:50,341 --> 00:25:54,011
+If that's what it will take
+to stop this, I'll do it.
+
+513
+00:25:54,011 --> 00:25:57,348
+I'll build your
+damned prototype.
+
+514
+00:25:57,348 --> 00:25:59,475
+We're losing
+life support, Captain.
+
+515
+00:26:02,019 --> 00:26:05,022
+The robots have powered down
+their weapons systems.
+
+516
+00:26:05,022 --> 00:26:06,524
+They're hailing us, Captain.
+
+517
+00:26:07,441 --> 00:26:08,901
+On screen.
+
+518
+00:26:08,901 --> 00:26:11,237
+<i>Captain,</i>
+<i>is everybody okay?</i>
+
+519
+00:26:11,237 --> 00:26:13,155
+We'll be all right.
+What about you?
+
+520
+00:26:13,155 --> 00:26:14,698
+( sighs )
+
+521
+00:26:14,698 --> 00:26:17,368
+<i>I've agreed to help them</i>
+<i>build their prototype.</i>
+
+522
+00:26:18,869 --> 00:26:20,287
+Lieutenant...
+
+523
+00:26:20,287 --> 00:26:21,830
+<i>I know how you feel</i>
+<i>about this, Captain.</i>
+
+524
+00:26:21,830 --> 00:26:23,541
+<i>I don't like it either,</i>
+
+525
+00:26:23,541 --> 00:26:26,835
+<i>but if I don't do it,</i>
+<i>they'll destroy</i> Voyager.
+
+526
+00:26:29,463 --> 00:26:31,298
+<i>What choice do I have?</i>
+
+527
+00:26:43,601 --> 00:26:46,021
+UNIT 3947: These are all
+the materials necessary
+
+528
+00:26:46,021 --> 00:26:48,399
+to construct
+a prototype unit.
+
+529
+00:26:48,399 --> 00:26:49,983
+You will be provided
+with whatever additional
+
+530
+00:26:49,983 --> 00:26:52,111
+tools and equipment
+you require.
+
+531
+00:26:52,111 --> 00:26:54,947
+You may access our database
+and schematic information
+
+532
+00:26:54,947 --> 00:26:57,575
+from this computer terminal,
+but it will not allow you
+
+533
+00:26:57,575 --> 00:26:59,785
+to interface
+with any critical systems.
+
+534
+00:26:59,785 --> 00:27:01,287
+While you're on board,
+
+535
+00:27:01,287 --> 00:27:03,080
+you will have no contact
+with your ship,
+
+536
+00:27:03,080 --> 00:27:05,165
+nor will you leave
+this room.
+
+537
+00:27:05,165 --> 00:27:07,625
+I will remain here
+to supervise your work.
+
+538
+00:27:07,625 --> 00:27:09,462
+You may proceed.
+
+539
+00:27:11,171 --> 00:27:14,467
+Proceed. Right.
+
+540
+00:27:14,467 --> 00:27:17,553
+But the question is,
+where do I proceed from?
+
+541
+00:27:20,556 --> 00:27:23,142
+Let me ask you this.
+
+542
+00:27:23,142 --> 00:27:27,396
+Have any of you ever tried
+to build a prototype?
+
+543
+00:27:27,396 --> 00:27:30,399
+We have tried,
+and failed.
+
+544
+00:27:30,399 --> 00:27:33,735
+What was the problem?
+I am unable to explain
+the failure.
+
+545
+00:27:33,735 --> 00:27:36,447
+We duplicated a power module
+to exact specifications
+
+546
+00:27:36,447 --> 00:27:38,824
+on several occasions,
+but in all instances
+
+547
+00:27:38,824 --> 00:27:42,995
+the energy output of the new
+module was insufficient to
+operate a unit.
+
+548
+00:27:42,995 --> 00:27:46,248
+And you're sure you reproduced
+the module exactly?
+
+549
+00:27:46,248 --> 00:27:48,834
+This is a schematic
+of a power module
+
+550
+00:27:48,834 --> 00:27:50,628
+from a terminated unit.
+
+551
+00:27:50,628 --> 00:27:52,630
+This one is from
+a failed prototype.
+
+552
+00:27:52,630 --> 00:27:54,590
+They are identical.
+
+553
+00:27:54,590 --> 00:27:57,176
+There is no reason why one
+should function while
+the other does not.
+
+554
+00:27:57,176 --> 00:28:01,180
+Unit 3947,
+what can you report?
+
+555
+00:28:01,180 --> 00:28:03,681
+Well, let's see.
+We've been working
+for about five minutes.
+
+556
+00:28:03,681 --> 00:28:07,186
+So, I guess we don't have
+a lot of progress to report.
+
+557
+00:28:07,186 --> 00:28:09,522
+Our sensors indicate
+that the humanoid vessel
+
+558
+00:28:09,522 --> 00:28:12,941
+will require approximately
+140 hours to repair.
+
+559
+00:28:12,941 --> 00:28:14,943
+It is necessary for
+you to complete work
+
+560
+00:28:14,943 --> 00:28:17,404
+on the prototype
+before that time.
+
+561
+00:28:17,404 --> 00:28:20,533
+Why? We don't seem to be
+any match for you.
+
+562
+00:28:20,533 --> 00:28:24,244
+Our tactical subprocessors
+indicate a 79% likelihood
+
+563
+00:28:24,244 --> 00:28:25,621
+that a rescue
+will be attempted
+
+564
+00:28:25,621 --> 00:28:27,747
+once sufficient repairs
+are completed.
+
+565
+00:28:27,747 --> 00:28:29,124
+At optimal efficiency,
+
+566
+00:28:29,124 --> 00:28:31,709
+your engines are more
+powerful than ours.
+
+567
+00:28:31,709 --> 00:28:33,587
+It is also possible
+that these humanoids
+
+568
+00:28:33,587 --> 00:28:36,714
+will not make decisions
+based on tactical probabilities.
+
+569
+00:28:36,714 --> 00:28:40,010
+Their cognitive process
+is... unpredictable.
+
+570
+00:28:40,010 --> 00:28:43,930
+We will remain on
+full tactical alert.
+
+571
+00:28:43,930 --> 00:28:46,308
+The humanoid may
+purposefully attempt
+
+572
+00:28:46,308 --> 00:28:48,268
+to delay completion
+of the prototype,
+
+573
+00:28:48,268 --> 00:28:50,312
+hoping
+she will be rescued.
+
+574
+00:28:50,312 --> 00:28:52,898
+I don't know if a promise
+means anything to you people,
+
+575
+00:28:52,898 --> 00:28:54,525
+but it does to us.
+
+576
+00:28:54,525 --> 00:28:57,819
+I gave you my word
+that I'd do my best. And I will.
+
+577
+00:28:57,819 --> 00:28:59,446
+According to my observations,
+
+578
+00:28:59,446 --> 00:29:02,199
+the humanoid is operating
+at optimal efficiency.
+
+579
+00:29:02,199 --> 00:29:03,992
+Thank you.
+
+580
+00:29:03,992 --> 00:29:05,369
+But I have to tell you,
+
+581
+00:29:05,369 --> 00:29:07,287
+there are no guarantees here.
+
+582
+00:29:07,287 --> 00:29:08,872
+Building a prototype
+from scratch
+
+583
+00:29:08,872 --> 00:29:10,165
+is a lot different
+
+584
+00:29:10,165 --> 00:29:12,042
+than repairing
+a broken power module.
+
+585
+00:29:12,042 --> 00:29:13,752
+I don't even know
+if it's possible.
+
+586
+00:29:13,752 --> 00:29:17,464
+If you fail,
+you and your people will die.
+
+587
+00:29:20,217 --> 00:29:21,468
+B'Elanna Torres,
+
+588
+00:29:21,468 --> 00:29:24,513
+6263 is
+a designated command unit.
+
+589
+00:29:24,513 --> 00:29:27,558
+He is merely following
+his programming.
+
+590
+00:29:27,558 --> 00:29:32,354
+I don't need to be threatened.
+
+591
+00:29:32,354 --> 00:29:34,440
+I told you I'd do my best.
+
+592
+00:29:34,440 --> 00:29:38,235
+I believe you,
+but Unit 6263 does not.
+
+593
+00:29:38,235 --> 00:29:41,488
+He does not know Lieutenant
+B'Elanna Torres as I do.
+
+594
+00:29:44,324 --> 00:29:47,911
+Let me see one of those
+terminated power modules.
+
+595
+00:29:47,911 --> 00:29:49,496
+We've managed to repair
+the hull breach,
+
+596
+00:29:49,496 --> 00:29:51,582
+but we have no power
+on decks three through seven.
+
+597
+00:29:51,582 --> 00:29:54,334
+Aft shields are still
+completely nonfunctional.
+
+598
+00:29:54,334 --> 00:29:55,586
+And last but not least,
+
+599
+00:29:55,586 --> 00:29:57,337
+the dilithium matrix
+is destabilized,
+
+600
+00:29:57,337 --> 00:29:59,465
+so we can't get
+the warp engines running.
+
+601
+00:29:59,465 --> 00:30:02,342
+We're talking about at least
+another six days of repairs.
+
+602
+00:30:02,342 --> 00:30:04,010
+We're not sticking
+around that long.
+
+603
+00:30:04,010 --> 00:30:06,138
+I want a plan to get
+B'Elanna off that ship
+
+604
+00:30:06,138 --> 00:30:08,515
+before she can finish
+building the prototype.
+
+605
+00:30:08,515 --> 00:30:09,808
+In that case,
+I suggest
+
+606
+00:30:09,808 --> 00:30:11,727
+we make warp drive
+our priority.
+
+607
+00:30:11,727 --> 00:30:13,562
+Any rescue attempt
+will no doubt necessitate
+
+608
+00:30:13,562 --> 00:30:15,564
+a rapid departure.
+Agreed.
+
+609
+00:30:15,564 --> 00:30:17,566
+Mr. Kim, can you give me
+an estimate
+
+610
+00:30:17,566 --> 00:30:19,276
+on repairing
+the dilithium matrix?
+
+611
+00:30:19,276 --> 00:30:20,986
+How does 72 hours sound?
+
+612
+00:30:20,986 --> 00:30:23,363
+Like 24 hours too long.
+
+613
+00:30:23,363 --> 00:30:24,657
+Dismissed.
+
+614
+00:30:26,700 --> 00:30:29,035
+TORRES: Hand me
+the sub-micron scanner.
+( whirring )
+
+615
+00:30:32,539 --> 00:30:34,625
+Phase coil resonator.
+
+616
+00:30:36,335 --> 00:30:37,919
+( whirring )
+
+617
+00:30:37,919 --> 00:30:41,340
+Well, I think I know why
+your other prototypes failed,
+
+618
+00:30:41,340 --> 00:30:44,134
+but... I'm not sure I know
+what to do about it yet.
+
+619
+00:30:44,134 --> 00:30:45,594
+Explain.
+
+620
+00:30:45,594 --> 00:30:47,513
+The automated units
+are modular.
+
+621
+00:30:47,513 --> 00:30:49,515
+Your parts are identical,
+interchangeable, right?
+
+622
+00:30:49,515 --> 00:30:50,557
+That is correct.
+
+623
+00:30:50,557 --> 00:30:52,601
+So...
+
+624
+00:30:52,601 --> 00:30:55,061
+If you lose an arm,
+
+625
+00:30:55,061 --> 00:30:58,148
+you can replace it
+with another one,
+
+626
+00:30:58,148 --> 00:31:00,442
+and over the years, you've
+learned to make new arms
+
+627
+00:31:00,442 --> 00:31:02,402
+because
+they're all the same,
+
+628
+00:31:02,402 --> 00:31:04,363
+and your programming
+is sophisticated enough
+
+629
+00:31:04,363 --> 00:31:07,240
+to allow you to reproduce
+what you see,
+
+630
+00:31:07,240 --> 00:31:10,160
+but each power module
+
+631
+00:31:10,160 --> 00:31:13,205
+has a slightly different
+energy signature,
+
+632
+00:31:13,205 --> 00:31:16,375
+so, even if you copy
+this guy's module exactly,
+
+633
+00:31:16,375 --> 00:31:18,377
+it wouldn't work
+in any other unit.
+
+634
+00:31:18,377 --> 00:31:21,630
+As far as I can tell,
+every automated unit
+
+635
+00:31:21,630 --> 00:31:25,050
+has a power module with
+a unique energy code.
+
+636
+00:31:25,050 --> 00:31:27,135
+Can you reprogram
+the energy codes
+
+637
+00:31:27,135 --> 00:31:28,887
+to make the modules
+interchangeable?
+
+638
+00:31:30,347 --> 00:31:31,557
+I don't think so.
+
+639
+00:31:32,599 --> 00:31:34,560
+You have failed.
+
+640
+00:31:34,560 --> 00:31:36,770
+I will inform 6263.
+
+641
+00:31:36,770 --> 00:31:37,937
+Hey!
+
+642
+00:31:37,937 --> 00:31:39,439
+Do all you
+automated units give up
+
+643
+00:31:39,439 --> 00:31:40,858
+the minute you hit
+a bump in the road?
+
+644
+00:31:40,858 --> 00:31:43,193
+Do you have
+an alternative idea?
+
+645
+00:31:44,110 --> 00:31:45,945
+What we've got to do
+
+646
+00:31:45,945 --> 00:31:47,947
+is design
+a standardized module
+
+647
+00:31:47,947 --> 00:31:52,118
+with a uniform energy code
+that can power any unit.
+
+648
+00:31:52,118 --> 00:31:53,787
+According to my observations,
+
+649
+00:31:53,787 --> 00:31:56,749
+there is now sufficient reason
+for greater optimism.
+
+650
+00:31:57,999 --> 00:32:00,043
+You took the words
+right out of my mouth.
+
+651
+00:32:05,424 --> 00:32:07,133
+TUVOK: Due to the complexity
+of their defense field,
+
+652
+00:32:07,133 --> 00:32:09,052
+and our severe power shortage,
+
+653
+00:32:09,052 --> 00:32:11,012
+it is unlikely that we can
+modify the transporters
+
+654
+00:32:11,012 --> 00:32:12,681
+to beam
+Lieutenant Torres out.
+
+655
+00:32:12,681 --> 00:32:14,516
+But if we can maneuver
+inside the field...
+
+656
+00:32:14,516 --> 00:32:16,976
+Our transporters
+could get the job done.
+
+657
+00:32:16,976 --> 00:32:18,353
+Is that a
+viable option?
+
+658
+00:32:18,353 --> 00:32:20,564
+For a shuttlecraft,
+it may be.
+
+659
+00:32:20,564 --> 00:32:22,775
+They were able to knock
+out<i> Voyager's</i> shields
+in a matter of minutes.
+
+660
+00:32:22,775 --> 00:32:24,735
+A shuttle would be
+even more vulnerable.
+
+661
+00:32:24,735 --> 00:32:27,153
+It would be advisable to create
+a diversion of some sort.
+
+662
+00:32:27,153 --> 00:32:29,072
+To take their attention
+away from the shuttle.
+
+663
+00:32:29,072 --> 00:32:30,365
+Attack them again?
+
+664
+00:32:30,365 --> 00:32:31,867
+I don't want to risk that
+a second time.
+
+665
+00:32:31,867 --> 00:32:33,493
+I don't need
+a diversion.
+
+666
+00:32:33,493 --> 00:32:35,704
+Just give me a chance.
+I'll get her out of there.
+
+667
+00:32:35,704 --> 00:32:38,164
+You don't mind if
+we give you a little
+help, do you, Paris?
+
+668
+00:32:38,164 --> 00:32:39,875
+I'd hate to lose
+another shuttle.
+
+669
+00:32:39,875 --> 00:32:42,294
+Your concern
+for my welfare
+
+670
+00:32:42,294 --> 00:32:43,587
+is heartwarming.
+
+671
+00:32:43,587 --> 00:32:44,838
+In another 12 hours
+
+672
+00:32:44,838 --> 00:32:46,506
+our warp engines
+will be back on line.
+
+673
+00:32:46,506 --> 00:32:47,925
+I'd like to come up
+with a diversion
+
+674
+00:32:47,925 --> 00:32:49,676
+before then.
+Okay, gentlemen?
+
+675
+00:33:01,187 --> 00:33:03,398
+So far, so good.
+
+676
+00:33:03,398 --> 00:33:07,110
+I'm not getting any feedback
+from the motor circuits.
+
+677
+00:33:07,110 --> 00:33:10,071
+You going to be
+the obstetrician
+of this unit, 3947?
+
+678
+00:33:10,071 --> 00:33:13,032
+Please rephrase
+the question.
+
+679
+00:33:13,032 --> 00:33:14,576
+If this works,
+
+680
+00:33:14,576 --> 00:33:17,412
+will you be in charge
+of assembling the new units?
+
+681
+00:33:17,412 --> 00:33:19,748
+I am programmed
+as a ships maintenance unit.
+
+682
+00:33:19,748 --> 00:33:21,500
+I have no knowledge of design,
+
+683
+00:33:21,500 --> 00:33:23,418
+nor do any of the other
+automated personnel.
+
+684
+00:33:23,418 --> 00:33:26,630
+Sounds like you just
+volunteered for new duty.
+
+685
+00:33:26,630 --> 00:33:27,881
+I hope you're
+watching closely.
+
+686
+00:33:27,881 --> 00:33:29,549
+I am observing your work.
+
+687
+00:33:29,549 --> 00:33:30,926
+However, I do not possess
+
+688
+00:33:30,926 --> 00:33:33,136
+your improvisational
+capabilities.
+
+689
+00:33:34,346 --> 00:33:36,556
+Well, once we have
+the prototype,
+
+690
+00:33:36,556 --> 00:33:38,892
+all you'd have to do is copy it.
+
+691
+00:33:41,561 --> 00:33:43,522
+Tell me
+something, 39.
+
+692
+00:33:43,522 --> 00:33:45,106
+Can I call you 39?
+
+693
+00:33:45,106 --> 00:33:48,026
+I am Automated Unit 3947.
+
+694
+00:33:48,026 --> 00:33:49,194
+Fine.
+
+695
+00:33:49,194 --> 00:33:51,279
+3947,
+
+696
+00:33:51,279 --> 00:33:54,157
+did you wake up
+on a bench like this one?
+
+697
+00:33:54,157 --> 00:33:55,492
+How long have you been alive?
+
+698
+00:33:55,492 --> 00:34:00,288
+I have been in service
+1,314,807 hours
+
+699
+00:34:00,288 --> 00:34:01,832
+and 33 minutes.
+
+700
+00:34:01,832 --> 00:34:05,418
+I was activated by a Builder
+from the Pralor homeworld.
+
+701
+00:34:05,418 --> 00:34:07,754
+Tell me something more
+about these Builders.
+
+702
+00:34:07,754 --> 00:34:09,548
+Were they anything like us?
+
+703
+00:34:09,548 --> 00:34:11,049
+I have insufficient knowledge
+of your culture
+
+704
+00:34:11,049 --> 00:34:12,843
+to provide an adequate response.
+
+705
+00:34:12,843 --> 00:34:14,845
+Will you provide
+additional information?
+
+706
+00:34:14,845 --> 00:34:16,471
+Well, I asked
+about your culture.
+
+707
+00:34:16,471 --> 00:34:18,390
+Only fair
+you should ask about mine.
+
+708
+00:34:18,390 --> 00:34:22,352
+Does your culture include
+artificial life-forms?
+
+709
+00:34:22,352 --> 00:34:24,855
+As a matter of fact, it does.
+
+710
+00:34:24,855 --> 00:34:26,314
+Are they similar
+
+711
+00:34:26,314 --> 00:34:28,441
+to the automated personnel
+units aboard this ship?
+
+712
+00:34:28,441 --> 00:34:30,485
+Well, they come
+in different shapes and sizes.
+
+713
+00:34:30,485 --> 00:34:32,362
+Some have limbs, some don't.
+
+714
+00:34:32,362 --> 00:34:35,032
+Most don't have
+your cognitive abilities.
+
+715
+00:34:35,032 --> 00:34:37,242
+Are they your servants?
+
+716
+00:34:39,619 --> 00:34:40,954
+Well, I guess you could say
+
+717
+00:34:40,954 --> 00:34:42,998
+that the robots we use
+are servants,
+
+718
+00:34:42,998 --> 00:34:44,750
+in a manner of speaking.
+
+719
+00:34:44,750 --> 00:34:47,502
+But they aren't sentient
+like you.
+
+720
+00:34:47,502 --> 00:34:50,505
+In fact, we have
+only one sentient
+
+721
+00:34:50,505 --> 00:34:52,173
+artificial life-form
+in our society,
+
+722
+00:34:52,173 --> 00:34:54,551
+and he is treated
+the same as any human.
+
+723
+00:34:54,551 --> 00:34:57,178
+The same. He is equal
+to a Builder?
+
+724
+00:34:58,638 --> 00:35:00,515
+That's right.
+
+725
+00:35:00,515 --> 00:35:03,101
+He works on a ship
+just like you and I.
+
+726
+00:35:03,101 --> 00:35:05,144
+He wears the same uniform I do.
+
+727
+00:35:06,312 --> 00:35:08,023
+What is his designant number?
+
+728
+00:35:08,023 --> 00:35:12,485
+He has a name,
+like the rest of us. "Data."
+
+729
+00:35:12,485 --> 00:35:16,740
+Data. I would like
+to be acquainted with this Data.
+
+730
+00:35:21,327 --> 00:35:25,415
+Well, it looks like this
+standardized power module
+
+731
+00:35:25,415 --> 00:35:26,959
+is working pretty well so far.
+
+732
+00:35:26,959 --> 00:35:29,168
+You will succeed,
+B'Elanna Torres.
+
+733
+00:35:29,168 --> 00:35:31,088
+Don't send me flowers yet.
+
+734
+00:35:31,088 --> 00:35:32,464
+I've still got to see
+
+735
+00:35:32,464 --> 00:35:34,633
+whether it will power
+an actual unit.
+
+736
+00:35:34,633 --> 00:35:37,636
+I believe it will.
+
+737
+00:35:37,636 --> 00:35:39,721
+We're making progress
+on the dilithium matrix.
+
+738
+00:35:39,721 --> 00:35:42,223
+It should be stable enough
+to reinitialize the warp core
+
+739
+00:35:42,223 --> 00:35:43,349
+in about six hours.
+
+740
+00:35:43,349 --> 00:35:44,768
+Good. What about
+our diversion?
+
+741
+00:35:44,768 --> 00:35:46,478
+Any suggestions?
+
+742
+00:35:46,478 --> 00:35:48,897
+When we were in the Maquis,
+
+743
+00:35:48,897 --> 00:35:50,482
+B'Elanna once linked
+a holoemitter
+
+744
+00:35:50,482 --> 00:35:51,984
+to a deflector array
+
+745
+00:35:51,984 --> 00:35:54,778
+and projected an image
+of another ship into space.
+
+746
+00:35:54,778 --> 00:35:56,488
+I like it.
+
+747
+00:35:56,488 --> 00:35:58,448
+But do we have enough power?
+
+748
+00:35:58,448 --> 00:36:00,659
+We will by the time
+the warp core's on line.
+
+749
+00:36:00,659 --> 00:36:02,243
+I already have Kim working on
+the holodeck...
+
+750
+00:36:02,243 --> 00:36:04,454
+<i>Tuvok to Captain Janeway.</i> 
+Go ahead.
+
+751
+00:36:04,454 --> 00:36:06,456
+<i>I'm picking up</i>
+<i>an unidentified alien ship</i>
+
+752
+00:36:06,456 --> 00:36:07,874
+<i>on long-range sensors.</i>
+
+753
+00:36:07,874 --> 00:36:11,128
+<i>It's heading</i>
+<i>for our coordinates.</i>
+
+754
+00:36:11,128 --> 00:36:12,545
+We're on our way.
+
+755
+00:36:15,048 --> 00:36:17,717
+Well, it fits.
+
+756
+00:36:17,717 --> 00:36:19,177
+Cross your fingers.
+
+757
+00:36:25,100 --> 00:36:27,769
+So far, so good.
+
+758
+00:36:27,769 --> 00:36:30,981
+Let's hope it can interface
+with the unit.
+
+759
+00:36:32,107 --> 00:36:34,400
+( unit powers up )
+
+760
+00:36:35,610 --> 00:36:37,236
+( power fails )
+
+761
+00:36:37,236 --> 00:36:39,531
+It does
+not function correctly.
+
+762
+00:36:39,531 --> 00:36:42,450
+It does not function
+correctly<i> yet.</i>
+
+763
+00:36:42,450 --> 00:36:44,077
+Your builders
+should have programmed you
+
+764
+00:36:44,077 --> 00:36:46,579
+with a little more patience.
+
+765
+00:36:46,579 --> 00:36:51,292
+I'm going to try adjusting
+the flux capacitance.
+
+766
+00:36:51,292 --> 00:36:53,086
+( unit powers up )
+
+767
+00:36:58,967 --> 00:37:04,056
+Prototype Unit 0001 is ready
+to accept programming.
+
+768
+00:37:05,223 --> 00:37:06,349
+We did it.
+
+769
+00:37:08,185 --> 00:37:09,602
+We actually did it.
+
+770
+00:37:09,602 --> 00:37:11,938
+<i>You</i> did it,
+B'Elanna Torres.
+
+771
+00:37:11,938 --> 00:37:13,773
+I knew this task
+would not exceed
+
+772
+00:37:13,773 --> 00:37:15,817
+your operating
+capabilities.
+
+773
+00:37:15,817 --> 00:37:21,489
+Prototype Unit 0001
+is ready to accept programming.
+
+774
+00:37:24,117 --> 00:37:25,326
+What are you doing?
+
+775
+00:37:25,326 --> 00:37:27,913
+I am congratulating you!
+
+776
+00:37:27,913 --> 00:37:29,581
+You're a father.
+
+777
+00:37:29,581 --> 00:37:31,041
+( laughing )
+
+778
+00:37:31,041 --> 00:37:32,250
+( rumbling )
+
+779
+00:37:37,296 --> 00:37:40,258
+No sign of organic life
+aboard that ship either.
+
+780
+00:37:40,258 --> 00:37:42,468
+They appear to be manned
+by automated units
+
+781
+00:37:42,468 --> 00:37:45,055
+virtually identical to those
+operating the first ship.
+
+782
+00:37:45,055 --> 00:37:46,639
+Is it possible
+that we've stumbled
+
+783
+00:37:46,639 --> 00:37:50,185
+into the middle
+of some kind of... robotic war?
+
+784
+00:37:50,185 --> 00:37:52,187
+<i>( dramatic theme playing )</i>
+
+785
+00:37:53,688 --> 00:37:58,526
+<i>( dramatic theme playing )</i>
+
+786
+00:37:58,526 --> 00:38:00,403
+We've got to get
+Torres back now.
+
+787
+00:38:00,403 --> 00:38:02,948
+Agreed, but first I want
+to show both those ships
+
+788
+00:38:02,948 --> 00:38:04,490
+this isn't our fight.
+
+789
+00:38:04,490 --> 00:38:06,910
+Ease us back on maneuvering
+thrusters, Mr. Paris,
+
+790
+00:38:06,910 --> 00:38:08,120
+nice and steady.
+
+791
+00:38:08,120 --> 00:38:09,913
+The second ship
+is hailing us.
+
+792
+00:38:09,913 --> 00:38:11,873
+On screen.
+
+793
+00:38:11,873 --> 00:38:14,042
+<i>Cravic Automated Commander 122</i>
+
+794
+00:38:14,042 --> 00:38:15,501
+<i>requests you identify yourself.</i>
+
+795
+00:38:15,501 --> 00:38:17,129
+My name
+is Kathryn Janeway,
+
+796
+00:38:17,129 --> 00:38:19,589
+Captain of the Federation
+Starship<i> Voyager.</i>
+
+797
+00:38:19,589 --> 00:38:22,008
+<i>Withdraw from this area</i>
+<i>immediately.</i>
+
+798
+00:38:22,008 --> 00:38:23,885
+I'm afraid I can't do that.
+
+799
+00:38:23,885 --> 00:38:25,804
+One of my crew members
+is being held hostage
+
+800
+00:38:25,804 --> 00:38:27,305
+aboard the Pralor vessel.
+
+801
+00:38:27,305 --> 00:38:28,640
+I won't leave without her.
+
+802
+00:38:28,640 --> 00:38:30,892
+<i>Remain at</i>
+<i>your present coordinates</i>
+
+803
+00:38:30,892 --> 00:38:34,229
+<i>and don't attempt to intervene,</i>
+<i>or you will be fired on.</i>
+
+804
+00:38:35,855 --> 00:38:37,649
+Captain,
+this new ship could be a...
+
+805
+00:38:37,649 --> 00:38:39,818
+The diversion
+we've been looking for.
+
+806
+00:38:39,818 --> 00:38:42,737
+Mr. Kim, what's the status
+of our warp engines?
+
+807
+00:38:42,737 --> 00:38:45,031
+We're still an hour
+away at best.
+
+808
+00:38:45,031 --> 00:38:47,242
+We may not have an hour.
+Get down to Engineering.
+
+809
+00:38:47,242 --> 00:38:48,701
+Be ready to give me
+as much power as you can
+
+810
+00:38:48,701 --> 00:38:50,162
+the minute we get Torres back.
+
+811
+00:38:50,162 --> 00:38:51,537
+Aye, Captain.
+
+812
+00:38:51,537 --> 00:38:53,331
+If those two ships
+keep each other busy,
+
+813
+00:38:53,331 --> 00:38:55,458
+we may not need warp
+to get away.
+
+814
+00:38:55,458 --> 00:38:58,295
+Mr. Paris, report
+to the Shuttle Bay.
+Yes, ma'am.
+
+815
+00:38:58,295 --> 00:39:00,046
+Chakotay,
+you have the con.
+
+816
+00:39:06,219 --> 00:39:07,679
+Who are they?
+
+817
+00:39:07,679 --> 00:39:10,682
+Automated personnel units
+of the Cravic homeworld.
+
+818
+00:39:10,682 --> 00:39:13,143
+Robots from
+another world?
+That is correct.
+
+819
+00:39:13,143 --> 00:39:14,644
+Why are they
+attacking you?
+
+820
+00:39:14,644 --> 00:39:16,604
+They were programmed to
+do so by their builders.
+
+821
+00:39:16,604 --> 00:39:21,359
+Prototype Unit 0001
+is ready to accept programming.
+
+822
+00:39:22,652 --> 00:39:25,071
+The Cravic Builders,
+the Pralor Builders--
+
+823
+00:39:25,071 --> 00:39:28,200
+Were they enemies?
+That is correct.
+
+824
+00:39:28,200 --> 00:39:30,952
+Look, maybe Captain Janeway
+can contact the Cravic leaders
+
+825
+00:39:30,952 --> 00:39:32,829
+and convince them
+to stop the fighting, then...
+
+826
+00:39:32,829 --> 00:39:34,539
+That is not possible.
+
+827
+00:39:34,539 --> 00:39:35,832
+Why not?
+
+828
+00:39:35,832 --> 00:39:37,917
+The Cravic are also extinct.
+
+829
+00:39:47,593 --> 00:39:50,471
+I'm approaching the perimeter
+of the defense field.
+
+830
+00:39:50,471 --> 00:39:51,639
+TUVOK:
+<i>Acknowledged.</i>
+
+831
+00:39:51,639 --> 00:39:53,350
+Rotate your
+shield harmonics
+
+832
+00:39:53,350 --> 00:39:54,559
+until
+they are synchronized
+
+833
+00:39:54,559 --> 00:39:55,852
+with the frequency
+of the field.
+
+834
+00:39:57,062 --> 00:39:59,022
+Shields synchronized.
+
+835
+00:39:59,022 --> 00:40:00,565
+I'm going in.
+
+836
+00:40:00,565 --> 00:40:02,359
+( shuttle struck by weapon )
+
+837
+00:40:02,359 --> 00:40:03,902
+Then again, maybe not.
+
+838
+00:40:03,902 --> 00:40:06,445
+It didn't work.
+He bounced right
+off the field.
+
+839
+00:40:06,445 --> 00:40:09,657
+Mr. Paris, re-set your heading
+for coordinates 105.
+
+840
+00:40:09,657 --> 00:40:11,326
+Mark 4-0.
+
+841
+00:40:11,326 --> 00:40:13,328
+Uh, if I understand you, Tuvok,
+
+842
+00:40:13,328 --> 00:40:15,163
+that would take me
+into a direct line of fire
+
+843
+00:40:15,163 --> 00:40:16,414
+with the Cravic ship.
+
+844
+00:40:16,414 --> 00:40:18,583
+Precisely.
+The concentration of fire
+
+845
+00:40:18,583 --> 00:40:20,501
+is opening a rift
+in the Pralor defense field.
+
+846
+00:40:20,501 --> 00:40:22,628
+Which I just might be able
+to sneak through
+
+847
+00:40:22,628 --> 00:40:25,131
+if I can dodge
+a disruptor blast or two.
+
+848
+00:40:25,131 --> 00:40:26,632
+Changing heading.
+
+849
+00:40:28,134 --> 00:40:30,387
+If both sides
+were annihilated,
+
+850
+00:40:30,387 --> 00:40:31,846
+then why continue
+your war?
+
+851
+00:40:31,846 --> 00:40:33,098
+3947: All automated
+personnel units
+
+852
+00:40:33,098 --> 00:40:34,724
+were programmed
+to achieve victory.
+
+853
+00:40:34,724 --> 00:40:38,770
+Prototype Unit 0001
+is ready to accept programming.
+
+854
+00:40:38,770 --> 00:40:40,813
+The Cravic ship has penetrated
+our defense shield.
+
+855
+00:40:40,813 --> 00:40:41,898
+Has anyone
+in all these years
+
+856
+00:40:41,898 --> 00:40:43,524
+ever tried
+to stop this war?
+
+857
+00:40:43,524 --> 00:40:45,360
+The Pralor and the Cravic
+called a truce.
+
+858
+00:40:45,360 --> 00:40:47,820
+Wait a minute, if both sides
+called a truce,
+
+859
+00:40:47,820 --> 00:40:50,198
+then why didn't they
+stop you from fighting?
+
+860
+00:40:50,198 --> 00:40:51,574
+They attempted to do so.
+
+861
+00:40:51,574 --> 00:40:52,825
+And?
+
+862
+00:40:52,825 --> 00:40:55,120
+We terminated the Builders.
+
+863
+00:40:55,120 --> 00:40:57,622
+<i>( dramatic theme playing )</i>
+
+864
+00:41:00,541 --> 00:41:02,252
+Paris to<i> Voyager.</i>
+
+865
+00:41:02,252 --> 00:41:04,254
+I'm approaching the entry point.
+
+866
+00:41:04,254 --> 00:41:05,755
+Acknowledged.
+Showing a rift
+
+867
+00:41:05,755 --> 00:41:08,091
+in the defense field
+off your starboard bow.
+
+868
+00:41:08,091 --> 00:41:09,508
+I'm on it.
+
+869
+00:41:15,807 --> 00:41:17,892
+When it was anticipated
+that the war would end,
+
+870
+00:41:17,892 --> 00:41:20,228
+the Builders no longer
+required our services
+
+871
+00:41:20,228 --> 00:41:21,813
+and they attempted
+to terminate us.
+
+872
+00:41:21,813 --> 00:41:23,982
+In doing so,
+they became the enemy.
+
+873
+00:41:23,982 --> 00:41:26,359
+We are programmed
+to destroy the enemy.
+
+874
+00:41:26,359 --> 00:41:28,111
+It is necessary
+for our survival.
+
+875
+00:41:28,111 --> 00:41:30,822
+Now that you have
+constructed the prototype,
+
+876
+00:41:30,822 --> 00:41:32,991
+we will soon outnumber
+the Cravic units.
+
+877
+00:41:32,991 --> 00:41:35,160
+We will achieve victory.
+
+878
+00:41:35,160 --> 00:41:36,244
+( Torres grunts )
+
+879
+00:41:37,329 --> 00:41:39,289
+This is 3947.
+Fire units, report
+
+880
+00:41:39,289 --> 00:41:42,167
+to the Reconstruction Bay
+Number One.
+
+881
+00:41:42,167 --> 00:41:44,294
+The individual energy codes--
+
+882
+00:41:44,294 --> 00:41:46,212
+is that why
+the Builders added them--
+
+883
+00:41:46,212 --> 00:41:48,381
+to prevent
+the procreation of these units?
+
+884
+00:41:48,381 --> 00:41:49,882
+( gasps )
+
+885
+00:41:49,882 --> 00:41:51,717
+My God, what have I done?
+
+886
+00:42:02,937 --> 00:42:08,985
+Prototype Unit 0001
+is ready to accept programming.
+
+887
+00:42:10,069 --> 00:42:12,071
+( zapping )
+( warbling speech )
+
+888
+00:42:13,906 --> 00:42:15,241
+( grunts )
+
+889
+00:42:20,746 --> 00:42:23,041
+You have terminated
+the prototype.
+
+890
+00:42:23,041 --> 00:42:25,835
+Yes. I have.
+
+891
+00:42:25,835 --> 00:42:27,504
+You will build another.
+
+892
+00:42:27,504 --> 00:42:29,172
+Never.
+
+893
+00:42:29,172 --> 00:42:31,049
+Lieutenant B'Elanna Torres,
+
+894
+00:42:31,049 --> 00:42:34,219
+I told 6263
+you were not our enemy.
+
+895
+00:42:35,178 --> 00:42:38,806
+I never wanted to be your enemy.
+
+896
+00:42:38,806 --> 00:42:40,933
+I'm sorry.
+
+897
+00:42:47,190 --> 00:42:49,067
+Shuttle to<i> Voyager.</i>
+
+898
+00:42:49,067 --> 00:42:52,070
+I've got her, but she's injured.
+Tell the doctor to stand by.
+
+899
+00:42:52,070 --> 00:42:54,739
+<i>Beam her out as soon as</i>
+<i>I clear the defense field.</i>
+
+900
+00:42:54,739 --> 00:42:56,241
+Acknowledged, Mr. Paris.
+
+901
+00:42:56,241 --> 00:42:59,327
+The ships are continuing
+to exchange fire, Captain.
+
+902
+00:42:59,327 --> 00:43:00,745
+They are ignoring
+the shuttle.
+
+903
+00:43:01,871 --> 00:43:03,081
+Bridge to Engineering.
+
+904
+00:43:03,081 --> 00:43:04,499
+Stand by, warp engines.
+
+905
+00:43:04,499 --> 00:43:06,418
+We'll engage
+the moment Mr. Paris gets back.
+
+906
+00:43:06,418 --> 00:43:07,544
+<i>Aye, Captain.</i>
+
+907
+00:43:07,544 --> 00:43:10,296
+<i>( dramatic theme playing )</i>
+
+908
+00:43:12,882 --> 00:43:15,968
+One pot of Landras blend,
+compliments of the chef.
+
+909
+00:43:15,968 --> 00:43:18,179
+Mm. I never thought
+Neelix's coffee
+
+910
+00:43:18,179 --> 00:43:19,472
+could taste so good.
+
+911
+00:43:19,472 --> 00:43:21,682
+I'll tell him
+you said so.
+
+912
+00:43:26,062 --> 00:43:27,313
+( sighs )
+
+913
+00:43:27,313 --> 00:43:29,524
+I don't know what to say.
+
+914
+00:43:31,943 --> 00:43:34,112
+As far as I'm concerned,
+
+915
+00:43:34,112 --> 00:43:36,239
+you did what you thought
+was necessary
+
+916
+00:43:36,239 --> 00:43:39,742
+to ensure the safety
+of this crew.
+
+917
+00:43:39,742 --> 00:43:42,287
+Thank you.
+
+918
+00:43:42,287 --> 00:43:44,789
+It must have been difficult.
+
+919
+00:43:44,789 --> 00:43:47,292
+Difficult?
+
+920
+00:43:47,292 --> 00:43:49,586
+To destroy what you created.
+
+921
+00:43:51,421 --> 00:43:53,631
+It was necessary.
+
+922
+00:43:53,631 --> 00:43:55,341
+I read your report.
+
+923
+00:43:56,717 --> 00:44:00,305
+It was no small achievement,
+B'Elanna.
+
+924
+00:44:00,305 --> 00:44:03,015
+You gave that unit life.
+
+925
+00:44:05,768 --> 00:44:09,021
+You should have
+seen it, Captain.
+
+926
+00:44:09,021 --> 00:44:12,609
+It was incredible.
+
+927
+00:44:12,609 --> 00:44:15,403
+I installed that module,
+
+928
+00:44:15,403 --> 00:44:18,906
+and the prototype
+looked up at me
+
+929
+00:44:18,906 --> 00:44:21,867
+and asked me
+for programming.
+
+930
+00:44:25,079 --> 00:44:29,375
+As I said,
+it must have been difficult.
+
+931
+00:44:33,796 --> 00:44:35,714
+It was necessary.
+
+932
+00:44:40,845 --> 00:44:44,223
+<i>( dramatic theme playing )</i>
+
+933
+00:44:50,771 --> 00:44:55,485
+<i>( dramatic</i>
+<i>theme music playing )</i>

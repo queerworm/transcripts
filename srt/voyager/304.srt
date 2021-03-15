@@ -1,0 +1,4663 @@
+1
+00:00:02,753 --> 00:00:06,465
+PARIS:
+<i>Helmsman's Log,</i>
+<i>Stardate 50252.3.</i>
+
+2
+00:00:06,465 --> 00:00:08,216
+<i>While</i> Voyager
+<i>takes on supplies,</i>
+
+3
+00:00:08,216 --> 00:00:10,135
+<i>Lieutenant Torres and I</i>
+<i>are investigating</i>
+
+4
+00:00:10,135 --> 00:00:11,679
+<i>some intermittent</i>
+<i>sensor readings</i>
+
+5
+00:00:11,679 --> 00:00:13,388
+<i>we picked up this morning.</i>
+
+6
+00:00:16,558 --> 00:00:17,935
+(<i> sighs</i> )
+
+7
+00:00:19,561 --> 00:00:21,981
+We've been out here
+almost five hours
+
+8
+00:00:21,981 --> 00:00:24,483
+and we haven't seen any sign
+of those energy signatures.
+
+9
+00:00:24,483 --> 00:00:27,695
+Isn't it time to admit
+they were nothing more
+
+10
+00:00:27,695 --> 00:00:29,530
+than galactic
+background noise?
+
+11
+00:00:29,530 --> 00:00:32,533
+I want to keep looking
+a while longer.
+
+12
+00:00:32,533 --> 00:00:34,409
+Just to be sure.
+
+13
+00:00:35,369 --> 00:00:36,745
+Aah!
+
+14
+00:00:36,745 --> 00:00:38,205
+What's wrong?
+
+15
+00:00:38,205 --> 00:00:40,123
+Cramp.
+
+16
+00:00:40,123 --> 00:00:42,459
+Klingon bodies weren't meant
+to sit in a cockpit
+
+17
+00:00:42,459 --> 00:00:44,169
+for five hours
+at a stretch.
+
+18
+00:00:45,713 --> 00:00:47,840
+You have a big dinner
+date or something?
+
+19
+00:00:48,799 --> 00:00:50,384
+What's that supposed to mean?
+
+20
+00:00:50,384 --> 00:00:52,427
+Well, you've been angling
+to get back to<i> Voyager</i>
+
+21
+00:00:52,427 --> 00:00:54,513
+for about two hours now.
+
+22
+00:00:54,513 --> 00:00:56,849
+Just thought maybe
+there was a reason.
+
+23
+00:00:56,849 --> 00:00:59,434
+Like Ensign Bristow.
+
+24
+00:00:59,434 --> 00:01:01,020
+What?
+
+25
+00:01:01,020 --> 00:01:02,897
+Well, I've noticed he's
+been making any excuse
+
+26
+00:01:02,897 --> 00:01:04,356
+to hang around Engineering.
+
+27
+00:01:04,356 --> 00:01:05,900
+Around you.
+
+28
+00:01:05,900 --> 00:01:09,403
+Freddy Bristow... is a child.
+
+29
+00:01:09,403 --> 00:01:11,363
+Oh, really?
+
+30
+00:01:11,363 --> 00:01:13,574
+Well, he looks like
+a grownup to me.
+
+31
+00:01:13,574 --> 00:01:16,117
+Tall, good-looking...
+
+32
+00:01:16,117 --> 00:01:17,995
+and I hear he plays
+a mean set
+
+33
+00:01:17,995 --> 00:01:19,413
+of parrises squares.
+
+34
+00:01:19,413 --> 00:01:21,957
+I played one game with him
+and I whipped him.
+
+35
+00:01:21,957 --> 00:01:23,625
+Look, he has
+
+36
+00:01:23,625 --> 00:01:24,877
+a crush on me.
+
+37
+00:01:24,877 --> 00:01:26,503
+I can handle it.
+
+38
+00:01:27,838 --> 00:01:29,673
+Why are you so interested?
+
+39
+00:01:29,673 --> 00:01:31,633
+Oh, I'm just curious...
+
+40
+00:01:31,633 --> 00:01:32,968
+how someone with Klingon blood
+
+41
+00:01:32,968 --> 00:01:35,888
+seems to live the life
+of a Tabran monk.
+
+42
+00:01:35,888 --> 00:01:39,892
+Lieutenant, that is none
+of your business.
+
+43
+00:01:41,936 --> 00:01:45,064
+Well, if you ever have
+a free evening,
+
+44
+00:01:45,064 --> 00:01:47,608
+I have a holodeck program
+you might enjoy--
+
+45
+00:01:47,608 --> 00:01:50,444
+sailing on Lake Como.
+
+46
+00:01:50,444 --> 00:01:53,906
+I'd rather take my chances
+with Freddy Bristow.
+
+47
+00:01:56,533 --> 00:01:57,910
+(<i> console beeps</i> )
+
+48
+00:01:57,910 --> 00:02:00,245
+Those energy signatures
+are back.
+
+49
+00:02:01,580 --> 00:02:04,833
+We must have crossed
+into a tachyon field.
+
+50
+00:02:04,833 --> 00:02:06,209
+(<i> console beeps insistently</i> )
+
+51
+00:02:06,209 --> 00:02:07,377
+What's that?
+
+52
+00:02:07,377 --> 00:02:09,337
+A ship has locked
+onto our hull.
+
+53
+00:02:09,337 --> 00:02:10,881
+Why didn't we
+detect it?
+
+54
+00:02:10,881 --> 00:02:14,093
+The tachyon field must have
+disrupted our sensors.
+
+55
+00:02:16,678 --> 00:02:19,056
+(<i> speaking clicking language )</i>
+
+56
+00:02:21,182 --> 00:02:22,684
+I'm Lieutenant Tom Paris of...
+
+57
+00:02:22,684 --> 00:02:24,853
+(<i> both grunt</i> )
+
+58
+00:02:28,023 --> 00:02:30,067
+(<i> clicking</i> )
+
+59
+00:04:30,395 --> 00:04:35,609
+MAN:
+♪<i> O soave fanciulla</i> ♪
+
+60
+00:04:35,609 --> 00:04:39,571
+♪<i> O dolce viso</i> ♪
+
+61
+00:04:39,571 --> 00:04:46,327
+♪<i> Di mite circonfuso</i>
+<i>alba lunar</i> ♪
+
+62
+00:04:48,455 --> 00:04:53,877
+♪<i> In terra, vivo ravviso</i> ♪
+
+63
+00:04:53,877 --> 00:05:03,678
+♪<i> Il sogno ch'io</i>
+<i>vorrei sempre sognar</i> ♪
+
+64
+00:05:03,678 --> 00:05:11,686
+♪<i> Fremon... già nell'anima</i> ♪
+
+65
+00:05:11,686 --> 00:05:14,397
+♪<i> Le dolcezze estreme</i> ♪
+
+66
+00:05:14,397 --> 00:05:19,945
+♪<i> Tu sol commandi, amore...</i> ♪
+
+67
+00:05:19,945 --> 00:05:22,156
+Computer,
+pause playback.
+
+68
+00:05:22,156 --> 00:05:23,949
+Excuse me, but your
+entrance was early.
+
+69
+00:05:23,949 --> 00:05:25,200
+You're rushing
+the tempo.
+
+70
+00:05:25,200 --> 00:05:26,910
+(<i> chuckles</i> )
+
+71
+00:05:26,910 --> 00:05:28,245
+I am not rushing.
+
+72
+00:05:28,245 --> 00:05:31,372
+You are lagging behind
+like a tired donkey.
+
+73
+00:05:31,372 --> 00:05:32,749
+I assure you,
+I have studied
+
+74
+00:05:32,749 --> 00:05:34,251
+the finest recordings
+of this opera--
+
+75
+00:05:34,251 --> 00:05:37,378
+Caruso and Galli-Curci;
+Pavarotti and Freni;
+
+76
+00:05:37,378 --> 00:05:39,714
+Soral and T'Penna
+of Vulcan.
+
+77
+00:05:39,714 --> 00:05:41,340
+My tempo is accurate.
+
+78
+00:05:41,340 --> 00:05:46,221
+Galli-Curci... Freni...
+T'Penna... they are all<i> fallite.</i>
+
+79
+00:05:46,221 --> 00:05:47,848
+They are mere dust balls.
+
+80
+00:05:47,848 --> 00:05:49,183
+<i>Sono niente!</i>
+
+81
+00:05:49,183 --> 00:05:51,018
+They are nothing.
+
+82
+00:05:51,018 --> 00:05:54,271
+Giuseppina Pentangeli--
+the greatest soprano<i> lirico</i>
+
+83
+00:05:54,271 --> 00:05:57,941
+of the 22nd century
+transcends them all.
+
+84
+00:05:57,941 --> 00:06:00,902
+And conductors take
+their<i> tempi</i> from me.
+
+85
+00:06:00,902 --> 00:06:02,403
+<i>Capisci?</i>
+
+86
+00:06:02,403 --> 00:06:06,283
+In this instance,
+they take it from me.
+
+87
+00:06:06,283 --> 00:06:08,451
+I've programmed
+the orchestral playback.
+
+88
+00:06:08,451 --> 00:06:10,996
+Who allows you
+to make this choice?
+
+89
+00:06:10,996 --> 00:06:12,580
+You are an amateur.
+
+90
+00:06:12,580 --> 00:06:14,708
+You have no sense of<i> rubato,</i>
+
+91
+00:06:14,708 --> 00:06:17,418
+no<i> rallentando...</i>
+it's like
+
+92
+00:06:17,418 --> 00:06:19,546
+singing with a computer.
+
+93
+00:06:20,964 --> 00:06:22,799
+Madam, I may be an amateur,
+
+94
+00:06:22,799 --> 00:06:24,176
+but I'm also known
+as a quick study.
+
+95
+00:06:24,176 --> 00:06:26,053
+(<i> laughing</i> )
+
+96
+00:06:26,053 --> 00:06:30,098
+And as I am in charge of this
+program, you will do it my way.
+
+97
+00:06:30,098 --> 00:06:31,516
+Shall we
+try it again?
+
+98
+00:06:32,893 --> 00:06:35,187
+Computer,
+start playback.
+
+99
+00:06:35,187 --> 00:06:37,647
+(<i> opera music playing</i> )
+
+100
+00:06:37,647 --> 00:06:42,694
+♪<i> O soave fanciulla ♪</i>
+
+101
+00:06:42,694 --> 00:06:44,279
+♪<i> O... ♪</i>
+
+102
+00:06:44,279 --> 00:06:45,488
+Stop playback.
+
+103
+00:06:45,488 --> 00:06:46,823
+(<i> sighs</i> )
+
+104
+00:06:46,823 --> 00:06:48,033
+What now?
+
+105
+00:06:48,033 --> 00:06:50,202
+<i>Non è possibile.</i>
+
+106
+00:06:50,202 --> 00:06:51,995
+I couldn't remember
+the words.
+
+107
+00:06:51,995 --> 00:06:54,664
+In all of my career, I have
+never forgotten the lyrics.
+
+108
+00:06:54,664 --> 00:06:56,250
+This is the difference
+
+109
+00:06:56,250 --> 00:06:58,377
+between amateur
+and<i> professionali.</i>
+
+110
+00:06:58,377 --> 00:07:00,587
+Just a momentary lapse.
+No need to overreact.
+
+111
+00:07:00,587 --> 00:07:04,423
+<i>Piu cretino non esiste.</i> 
+This is infuriating!
+
+112
+00:07:04,423 --> 00:07:07,719
+I want another partner!<i> </i>
+<i>Lo voglio subito.</i>
+
+113
+00:07:07,719 --> 00:07:10,013
+I'm the one who needs
+another partner.
+
+114
+00:07:10,013 --> 00:07:11,598
+You've got me so upset
+I can't sing.
+
+115
+00:07:11,598 --> 00:07:12,766
+Computer, delete...
+
+116
+00:07:12,766 --> 00:07:14,017
+<i>Janeway to the Doctor.</i>
+
+117
+00:07:14,017 --> 00:07:15,476
+<i>We have a medical emergency.</i>
+
+118
+00:07:15,476 --> 00:07:16,937
+<i>Report to Sick Bay.</i>
+
+119
+00:07:16,937 --> 00:07:18,355
+Right away, Captain.
+
+120
+00:07:18,355 --> 00:07:19,856
+<i>Addio,</i> madam.
+
+121
+00:07:19,856 --> 00:07:21,775
+Next time I'll take
+my chances with Maria Callas.
+
+122
+00:07:21,775 --> 00:07:23,318
+Computer,
+delete the diva.
+
+123
+00:07:23,318 --> 00:07:25,362
+<i>Imbecille!</i>
+<i>Pensa veramente...</i>
+
+124
+00:07:31,659 --> 00:07:33,995
+Their nervous systems
+suffered trauma
+
+125
+00:07:33,995 --> 00:07:36,164
+from some type
+of neuroelectric weapon.
+
+126
+00:07:36,164 --> 00:07:38,250
+It must have been
+extremely painful.
+
+127
+00:07:38,250 --> 00:07:40,043
+It certainly was.
+
+128
+00:07:40,043 --> 00:07:41,711
+Do you know why
+they attacked you?
+
+129
+00:07:41,711 --> 00:07:44,172
+No idea. They seemed to be
+trying to communicate with us,
+
+130
+00:07:44,172 --> 00:07:45,465
+but we couldn't
+understand them.
+
+131
+00:07:45,465 --> 00:07:47,550
+Then they just
+lifted their weapons.
+
+132
+00:07:47,550 --> 00:07:49,844
+The injuries are treatable.
+It shouldn't take long.
+
+133
+00:07:49,844 --> 00:07:51,638
+Tuvok, send a message
+on all subspace bands.
+
+134
+00:07:51,638 --> 00:07:53,432
+I want to find out why
+my people were attacked.
+
+135
+00:07:53,432 --> 00:07:55,016
+Aye, Captain.
+
+136
+00:07:55,016 --> 00:07:57,227
+I'll ask Neelix if he knows
+anything about these people.
+
+137
+00:07:57,227 --> 00:07:58,519
+Doctor, keep me posted.
+
+138
+00:08:01,522 --> 00:08:02,899
+(<i> sighs</i> )
+
+139
+00:08:02,899 --> 00:08:04,818
+It would help if you
+didn't fidget so much.
+
+140
+00:08:04,818 --> 00:08:07,112
+I'm really feeling better.
+Can't I get out of here?
+
+141
+00:08:07,112 --> 00:08:08,822
+When you're ready to leave,
+I will tell you.
+
+142
+00:08:08,822 --> 00:08:10,324
+KES:
+Doctor,
+
+143
+00:08:10,324 --> 00:08:12,367
+Tom doesn't seem to be
+responding to the treatment.
+
+144
+00:08:12,367 --> 00:08:13,701
+I'll look at him.
+
+145
+00:08:15,787 --> 00:08:17,538
+Where's my retinal imager?
+
+146
+00:08:17,538 --> 00:08:18,957
+I haven't seen it.
+
+147
+00:08:24,254 --> 00:08:26,340
+Did you move it
+from the instrument tray?
+
+148
+00:08:26,340 --> 00:08:28,008
+I haven't been near
+the instrument tray.
+
+149
+00:08:33,263 --> 00:08:35,265
+I've just had
+the most unpleasant encounter
+
+150
+00:08:35,265 --> 00:08:36,724
+with a madwoman
+on the holodeck.
+
+151
+00:08:36,724 --> 00:08:40,103
+She must have upset me
+more than I realized.
+
+152
+00:08:40,103 --> 00:08:41,688
+Lieutenant, you're perfectly
+all right.
+
+153
+00:08:41,688 --> 00:08:43,523
+What are you
+still doing here?
+
+154
+00:08:43,523 --> 00:08:46,985
+Thank you.
+
+155
+00:08:46,985 --> 00:08:49,988
+I think he must have suffered
+some very deep tissue damage.
+
+156
+00:08:49,988 --> 00:08:52,449
+The regenerator
+isn't helping.
+
+157
+00:08:53,700 --> 00:08:55,327
+Doctor?
+
+158
+00:08:55,327 --> 00:08:56,661
+Hmm?
+
+159
+00:08:58,997 --> 00:09:01,500
+I've made numerous hails
+on wide-band subspace.
+
+160
+00:09:01,500 --> 00:09:04,211
+The only response has been
+a single repeating message.
+
+161
+00:09:05,170 --> 00:09:07,047
+(<i> clicking</i> )
+
+162
+00:09:07,047 --> 00:09:08,715
+CHAKOTAY:
+What's that?
+
+163
+00:09:08,715 --> 00:09:10,342
+I'd guess
+it's a language so unlike ours
+
+164
+00:09:10,342 --> 00:09:12,386
+that the universal translator
+can't interpret it.
+
+165
+00:09:12,386 --> 00:09:13,845
+Harry, remodulate
+the translator.
+
+166
+00:09:13,845 --> 00:09:15,180
+See if we can
+
+167
+00:09:15,180 --> 00:09:17,224
+decipher those sounds.
+
+168
+00:09:17,224 --> 00:09:19,309
+Neelix, what can you tell us?
+
+169
+00:09:19,309 --> 00:09:22,103
+If these people are
+who I think they are,
+
+170
+00:09:22,103 --> 00:09:25,190
+I can tell you this
+is very bad news.
+
+171
+00:09:25,190 --> 00:09:27,317
+I've never actually
+encountered them...
+
+172
+00:09:27,317 --> 00:09:31,112
+but from what I've heard,
+I'm glad I didn't.
+
+173
+00:09:31,112 --> 00:09:32,989
+Most ships
+that enter their space
+
+174
+00:09:32,989 --> 00:09:34,491
+are never heard from again.
+
+175
+00:09:34,491 --> 00:09:38,245
+Some have returned with
+everyone on board dead.
+
+176
+00:09:38,245 --> 00:09:39,829
+They're a complete mystery.
+
+177
+00:09:39,829 --> 00:09:42,916
+No one knows their name,
+how many of them there are,
+
+178
+00:09:42,916 --> 00:09:45,210
+what their culture is like.
+
+179
+00:09:45,210 --> 00:09:48,004
+Just that they really
+don't want people
+
+180
+00:09:48,004 --> 00:09:50,257
+violating their territory.
+
+181
+00:09:50,257 --> 00:09:53,593
+If this is any indication
+of their borders,
+
+182
+00:09:53,593 --> 00:09:56,346
+it's a huge area of space--
+hundreds of sectors.
+
+183
+00:09:56,346 --> 00:09:58,848
+If we were to go around it,
+it would take months.
+
+184
+00:09:58,848 --> 00:10:00,392
+I'd say over 15 months,
+
+185
+00:10:00,392 --> 00:10:03,853
+even if we could sustain
+maximum warp, which we can't.
+
+186
+00:10:03,853 --> 00:10:05,313
+I'm not going to tell this crew
+
+187
+00:10:05,313 --> 00:10:07,524
+we're adding another 15 months
+to this journey.
+
+188
+00:10:07,524 --> 00:10:09,692
+We'll have to find
+another option.
+
+189
+00:10:09,692 --> 00:10:11,986
+If we are not to go around
+their space,
+
+190
+00:10:11,986 --> 00:10:14,531
+the only available option
+is to go through it.
+
+191
+00:10:16,032 --> 00:10:17,367
+Precisely.
+
+192
+00:10:19,494 --> 00:10:20,912
+KIM:
+Tom and B'Elanna
+
+193
+00:10:20,912 --> 00:10:22,914
+hit a sensor net
+as they crossed the border.
+
+194
+00:10:22,914 --> 00:10:25,875
+We have to figure we'll run
+into it when we try to cross,
+
+195
+00:10:25,875 --> 00:10:28,420
+but there are ways
+around sensor nets.
+
+196
+00:10:28,420 --> 00:10:29,921
+CHAKOTAY:
+They can't possibly
+
+197
+00:10:29,921 --> 00:10:32,466
+have enough ships
+to patrol a border this size.
+
+198
+00:10:32,466 --> 00:10:34,801
+We can probably find
+an unguarded section.
+
+199
+00:10:34,801 --> 00:10:36,677
+Would it affect your decision
+if I pointed out
+
+200
+00:10:36,677 --> 00:10:39,097
+that encroaching on the
+territory of an alien species
+
+201
+00:10:39,097 --> 00:10:42,183
+is prohibited by
+Starfleet regulations?
+
+202
+00:10:42,183 --> 00:10:43,935
+No, it wouldn't.
+
+203
+00:10:43,935 --> 00:10:48,022
+Captain... you have managed
+to surprise me.
+
+204
+00:10:48,022 --> 00:10:50,525
+We're a long way
+from Starfleet, Lieutenant.
+
+205
+00:10:50,525 --> 00:10:52,611
+I'm not about to waste
+15 months
+
+206
+00:10:52,611 --> 00:10:55,113
+because we've run into
+a bunch of bullies.
+
+207
+00:10:55,113 --> 00:10:57,324
+DOCTOR:
+<i>Sick Bay to Captain Janeway.</i>
+
+208
+00:10:57,324 --> 00:10:59,159
+Go ahead, Doctor.
+
+209
+00:10:59,159 --> 00:11:02,036
+<i>Please turn to your emergency</i>
+<i>medical holographic channel.</i>
+
+210
+00:11:02,036 --> 00:11:04,414
+<i>I'm afraid Lieutenant Paris</i>
+
+211
+00:11:04,414 --> 00:11:06,082
+<i>suffered greater</i>
+<i>neurological damage</i>
+
+212
+00:11:06,082 --> 00:11:07,917
+<i>than my initial scan revealed.</i>
+
+213
+00:11:07,917 --> 00:11:11,505
+<i>I'm going to have to perform</i>
+<i>a motor cortex reconstruction.</i>
+
+214
+00:11:11,505 --> 00:11:13,298
+<i>There's no need</i>
+<i>to be overly concerned.</i>
+
+215
+00:11:13,298 --> 00:11:15,758
+<i>His condition</i>
+<i>is not life threatening.</i>
+
+216
+00:11:15,758 --> 00:11:17,427
+<i>The procedure is</i>
+<i>a relatively simple one</i>
+
+217
+00:11:17,427 --> 00:11:19,513
+<i>for a skilled physician.</i>
+
+218
+00:11:19,513 --> 00:11:21,473
+Very good, Doctor.
+Keep me informed.
+
+219
+00:11:23,391 --> 00:11:26,561
+All right. I want a plan
+for crossing that border
+
+220
+00:11:26,561 --> 00:11:28,896
+as quickly
+and as quietly as possible.
+
+221
+00:11:28,896 --> 00:11:31,358
+We'll reconvene in an hour.
+Dismissed.
+
+222
+00:11:36,029 --> 00:11:40,992
+♪<i> O soave fanciulla</i> ♪
+
+223
+00:11:40,992 --> 00:11:42,619
+♪<i> O dolce viso</i> ♪
+
+224
+00:11:42,619 --> 00:11:47,874
+♪<i> Di mite circonfuso</i>
+<i>alba lunar...</i> ♪
+
+225
+00:11:47,874 --> 00:11:49,250
+Doctor...
+
+226
+00:11:49,250 --> 00:11:51,752
+I have the cortical
+analeptics you asked for.
+
+227
+00:11:51,752 --> 00:11:54,339
+Good.
+Fill the hyposprays.
+
+228
+00:11:54,339 --> 00:11:56,216
+We'll begin as soon as
+I've finished scrubbing.
+
+229
+00:11:56,216 --> 00:11:57,800
+Did I hear
+you singing?
+
+230
+00:11:57,800 --> 00:11:59,219
+Yes.
+
+231
+00:11:59,219 --> 00:12:01,221
+<i>"O soave fanciulla."</i>
+
+232
+00:12:01,221 --> 00:12:02,847
+It's an aria
+from<i> La Bohème,</i>
+
+233
+00:12:02,847 --> 00:12:06,059
+a truly exquisite opera
+by Giacomo Puccini,
+
+234
+00:12:06,059 --> 00:12:08,353
+a human composer
+of the 19th century.
+
+235
+00:12:08,353 --> 00:12:09,854
+I didn't realize
+you enjoyed music.
+
+236
+00:12:09,854 --> 00:12:12,315
+I've recently begun
+a thorough study of opera.
+
+237
+00:12:12,315 --> 00:12:15,485
+I find it...
+quite satisfying,
+
+238
+00:12:15,485 --> 00:12:16,944
+but I'm having
+difficulty finding
+
+239
+00:12:16,944 --> 00:12:19,030
+a holographic partner
+for the role of Mimi.
+
+240
+00:12:21,824 --> 00:12:23,951
+All the<i> soprani</i> seem to have
+
+241
+00:12:23,951 --> 00:12:26,079
+the most
+irritating personalities.
+
+242
+00:12:26,079 --> 00:12:28,831
+These women are arrogant,
+superior, condescending.
+
+243
+00:12:28,831 --> 00:12:31,084
+I can't imagine anyone
+behaving that way.
+
+244
+00:12:32,210 --> 00:12:33,545
+What is it?
+
+245
+00:12:36,005 --> 00:12:37,424
+A quiz for you.
+
+246
+00:12:37,424 --> 00:12:39,634
+What is the first step
+in this procedure?
+
+247
+00:12:39,634 --> 00:12:41,428
+Establish
+the axon connections
+
+248
+00:12:41,428 --> 00:12:43,346
+and then test
+for synaptic potentials.
+
+249
+00:12:43,346 --> 00:12:46,474
+Ah. Quite right. Very good.
+
+250
+00:12:50,061 --> 00:12:51,396
+Doctor, what is it?
+
+251
+00:12:54,148 --> 00:12:56,817
+We seem to have
+a small problem.
+
+252
+00:12:56,817 --> 00:13:01,489
+I... can't remember how to
+perform this operation.
+
+253
+00:13:10,582 --> 00:13:12,542
+All right, I've
+repaired the damaged
+
+254
+00:13:12,542 --> 00:13:15,044
+preganglionic fibers
+in the spinal column.
+
+255
+00:13:15,044 --> 00:13:17,589
+The final step
+is to restore the nerve sheath.
+
+256
+00:13:17,589 --> 00:13:19,173
+You'll need
+the myelin regenerator.
+
+257
+00:13:19,173 --> 00:13:21,259
+(<i> alarm beeping</i> )
+
+258
+00:13:21,259 --> 00:13:22,469
+What is it?
+
+259
+00:13:22,469 --> 00:13:24,929
+He's going
+into respiratory arrest.
+
+260
+00:13:24,929 --> 00:13:26,598
+What do I do?
+
+261
+00:13:26,598 --> 00:13:28,975
+Apply an efferent impulse
+to stabilize his motor neurons.
+
+262
+00:13:28,975 --> 00:13:30,477
+Apply a... what?
+
+263
+00:13:32,937 --> 00:13:34,481
+Vital signs are
+returning to normal.
+
+264
+00:13:37,525 --> 00:13:38,943
+(<i> sighs</i> )
+
+265
+00:13:38,943 --> 00:13:40,737
+There-- myelin
+regeneration is complete.
+
+266
+00:13:40,737 --> 00:13:42,656
+What's the synaptic
+potential reading?
+
+267
+00:13:47,201 --> 00:13:49,870
+Synaptic
+potentials are...
+
+268
+00:13:49,870 --> 00:13:51,581
+normal.
+
+269
+00:13:51,581 --> 00:13:54,083
+Autonomic and somatic
+systems are functioning.
+
+270
+00:13:54,083 --> 00:13:55,585
+(<i> sighs</i> )
+
+271
+00:13:55,585 --> 00:13:57,878
+Very good, Doctor.
+
+272
+00:13:57,878 --> 00:13:59,172
+I think you've done it.
+
+273
+00:14:10,767 --> 00:14:13,227
+The EMH database
+seems to be experiencing
+
+274
+00:14:13,227 --> 00:14:15,980
+a cascading overload
+of some kind.
+
+275
+00:14:15,980 --> 00:14:18,817
+Doc's memory circuits
+are deteriorating.
+
+276
+00:14:18,817 --> 00:14:20,318
+We knew the Doctor
+was never designed
+
+277
+00:14:20,318 --> 00:14:22,445
+to be up and running
+as much as he has been,
+
+278
+00:14:22,445 --> 00:14:24,280
+but I thought you programmed
+safety buffers,
+
+279
+00:14:24,280 --> 00:14:25,906
+so his circuits
+wouldn't degrade.
+
+280
+00:14:25,906 --> 00:14:27,534
+I did, and I installed
+them, but they're
+
+281
+00:14:27,534 --> 00:14:29,035
+breaking down.
+
+282
+00:14:29,035 --> 00:14:31,037
+My self-diagnostic routines
+have always indicated
+
+283
+00:14:31,037 --> 00:14:32,747
+that in the event
+of cascade failure,
+
+284
+00:14:32,747 --> 00:14:34,833
+I should simply
+be reinitialized.
+
+285
+00:14:34,833 --> 00:14:37,043
+That would stop the cascade
+and allow us to reset
+
+286
+00:14:37,043 --> 00:14:39,754
+your database and personality
+subroutines, but...
+
+287
+00:14:39,754 --> 00:14:41,297
+But what?
+
+288
+00:14:42,674 --> 00:14:45,385
+It would restore
+the original program--
+
+289
+00:14:45,385 --> 00:14:46,886
+reset him to the person he was
+
+290
+00:14:46,886 --> 00:14:48,471
+when we first
+activated him.
+
+291
+00:14:48,471 --> 00:14:50,223
+JANEWAY:
+In other words,
+
+292
+00:14:50,223 --> 00:14:52,559
+he'd forget everything
+that's happened to him
+
+293
+00:14:52,559 --> 00:14:53,768
+over the past two years.
+
+294
+00:14:53,768 --> 00:14:55,770
+TORRES:
+Right.
+
+295
+00:14:55,770 --> 00:14:57,271
+Doctor...
+
+296
+00:14:57,271 --> 00:14:59,190
+how do you feel about that?
+
+297
+00:15:01,108 --> 00:15:04,821
+I... can't say I'd like
+to lose the last two years,
+
+298
+00:15:04,821 --> 00:15:07,615
+but my primary responsibility
+is the health and welfare
+
+299
+00:15:07,615 --> 00:15:10,451
+of this crew. In my current
+state, I am useless to them.
+
+300
+00:15:10,451 --> 00:15:11,911
+I believe Lieutenant Torres
+
+301
+00:15:11,911 --> 00:15:13,580
+should start
+the reinitialization
+
+302
+00:15:13,580 --> 00:15:14,873
+process immediately.
+
+303
+00:15:14,873 --> 00:15:16,165
+KES:
+No, wait.
+
+304
+00:15:16,165 --> 00:15:18,000
+Wait, please.
+
+305
+00:15:18,000 --> 00:15:20,086
+We can't just treat the Doctor
+like he's a computer anymore.
+
+306
+00:15:20,086 --> 00:15:21,295
+He's come too far
+for that.
+
+307
+00:15:21,295 --> 00:15:24,131
+Doctor, please,
+think about this.
+
+308
+00:15:24,131 --> 00:15:25,466
+You'd be losing so much--
+
+309
+00:15:25,466 --> 00:15:27,176
+all the relationships
+you've developed,
+
+310
+00:15:27,176 --> 00:15:28,803
+our friendship,
+
+311
+00:15:28,803 --> 00:15:30,597
+your sense of being
+a true member of this crew--
+
+312
+00:15:30,597 --> 00:15:32,181
+all that would be gone.
+
+313
+00:15:32,181 --> 00:15:35,017
+I can't put personal concerns
+over those of the crew.
+
+314
+00:15:35,017 --> 00:15:37,019
+Look at the experiences
+you've had
+
+315
+00:15:37,019 --> 00:15:38,646
+since you were activated--
+
+316
+00:15:38,646 --> 00:15:41,274
+you've made friends,
+learned how to sing opera,
+
+317
+00:15:41,274 --> 00:15:43,276
+you've even
+fallen in love.
+
+318
+00:15:43,276 --> 00:15:46,112
+If you lose those memories,
+you won't be the same person.
+
+319
+00:15:47,697 --> 00:15:49,031
+You said you don't know
+
+320
+00:15:49,031 --> 00:15:50,991
+what's causing
+his memory circuits to fail.
+
+321
+00:15:50,991 --> 00:15:52,786
+Unfortunately, no.
+
+322
+00:15:52,786 --> 00:15:55,622
+So, if you reinitialize without
+finding out what's wrong,
+
+323
+00:15:55,622 --> 00:15:56,873
+the problem could occur again.
+
+324
+00:15:56,873 --> 00:15:58,583
+Well, it's a possibility.
+
+325
+00:15:58,583 --> 00:16:00,835
+Isn't it a better plan to look
+for the cause of the problem?
+
+326
+00:16:00,835 --> 00:16:02,044
+If B'Elanna can find it,
+
+327
+00:16:02,044 --> 00:16:03,588
+there may be a less
+radical solution.
+
+328
+00:16:03,588 --> 00:16:05,715
+Tom Paris is stable.
+
+329
+00:16:05,715 --> 00:16:07,133
+He'll be back on duty today.
+
+330
+00:16:07,133 --> 00:16:08,760
+There's no medical crisis
+at the moment.
+
+331
+00:16:08,760 --> 00:16:10,511
+I can certainly handle
+all the routine cases
+
+332
+00:16:10,511 --> 00:16:11,805
+in Sick Bay.
+
+333
+00:16:11,805 --> 00:16:14,056
+Please, let's not
+just erase him
+
+334
+00:16:14,056 --> 00:16:16,309
+without trying
+to help him first.
+
+335
+00:16:22,273 --> 00:16:25,526
+If a crew member came down
+with a debilitating illness,
+
+336
+00:16:25,526 --> 00:16:27,320
+you'd do everything
+in your power
+
+337
+00:16:27,320 --> 00:16:29,280
+to make them well again.
+
+338
+00:16:29,280 --> 00:16:31,866
+I think we owe you
+nothing less.
+
+339
+00:16:38,205 --> 00:16:39,582
+I'll get started.
+
+340
+00:16:42,084 --> 00:16:43,878
+Don't be discouraged.
+
+341
+00:16:43,878 --> 00:16:46,380
+I know B'Elanna
+can find a way.
+
+342
+00:16:52,553 --> 00:16:54,013
+CHAKOTAY:
+Captain?
+
+343
+00:16:56,307 --> 00:16:57,892
+I think we found it--
+
+344
+00:16:57,892 --> 00:17:00,060
+a way to get across the border
+without being detected.
+
+345
+00:17:00,060 --> 00:17:01,312
+Let's hear it.
+
+346
+00:17:01,312 --> 00:17:03,063
+Their sensor net
+uses a series
+
+347
+00:17:03,063 --> 00:17:04,774
+of interlaced
+tachyon beams.
+
+348
+00:17:04,774 --> 00:17:06,734
+If we adjust the shields
+to refract those beams
+
+349
+00:17:06,734 --> 00:17:08,235
+around the ship,
+we can slip across
+
+350
+00:17:08,235 --> 00:17:10,404
+without appearing
+to have disrupted the net.
+
+351
+00:17:10,404 --> 00:17:11,739
+Not bad.
+
+352
+00:17:11,739 --> 00:17:14,408
+<i>And</i> we've found
+that this area
+
+353
+00:17:14,408 --> 00:17:16,577
+shows no indication of vessels.
+
+354
+00:17:16,577 --> 00:17:19,079
+We can slide through,
+go to high warp,
+
+355
+00:17:19,079 --> 00:17:21,248
+and be through this narrow
+section of their territory
+
+356
+00:17:21,248 --> 00:17:22,542
+in four days.
+
+357
+00:17:22,542 --> 00:17:23,877
+Good work.
+
+358
+00:17:26,004 --> 00:17:29,298
+Helm, set a course
+for the border.
+
+359
+00:17:29,298 --> 00:17:30,633
+Aye, Captain.
+
+360
+00:17:37,139 --> 00:17:38,516
+What are you
+doing now?
+
+361
+00:17:38,516 --> 00:17:40,393
+I want to see
+if the data corruption
+
+362
+00:17:40,393 --> 00:17:42,520
+is affecting
+your optical sensors.
+
+363
+00:17:42,520 --> 00:17:44,772
+What did that do?
+
+364
+00:17:44,772 --> 00:17:46,106
+(<i> gasps</i> )
+
+365
+00:17:46,106 --> 00:17:48,359
+I-I can't see.
+I'm blind!
+
+366
+00:17:48,359 --> 00:17:49,986
+All right.
+
+367
+00:17:51,863 --> 00:17:53,990
+(<i> sighs</i> )
+
+368
+00:17:53,990 --> 00:17:55,992
+That is extremely disconcerting.
+
+369
+00:17:55,992 --> 00:17:57,410
+Please don't
+do it again.
+
+370
+00:17:59,119 --> 00:18:00,496
+Now what are you doing?
+
+371
+00:18:00,496 --> 00:18:03,165
+Attenuating your
+force field projectors.
+
+372
+00:18:07,545 --> 00:18:08,755
+Doctor, forgive me,
+
+373
+00:18:08,755 --> 00:18:10,506
+but this is
+very delicate work.
+
+374
+00:18:10,506 --> 00:18:12,508
+Could you please sit
+over there for a few minutes?
+
+375
+00:18:14,301 --> 00:18:16,054
+How extremely rude.
+
+376
+00:18:19,139 --> 00:18:21,059
+May I remind you
+that I am, in a way,
+
+377
+00:18:21,059 --> 00:18:24,020
+your patient, who's
+suffering from an unknown
+
+378
+00:18:24,020 --> 00:18:26,188
+and obviously
+debilitating condition.
+
+379
+00:18:26,188 --> 00:18:28,733
+I would think you'd be a little
+more sensitive to my needs.
+
+380
+00:18:28,733 --> 00:18:30,944
+You're questioning
+my bedside manner?
+
+381
+00:18:33,404 --> 00:18:35,448
+The good news
+
+382
+00:18:35,448 --> 00:18:36,950
+is that your
+projection system
+
+383
+00:18:36,950 --> 00:18:38,618
+doesn't seem
+to be affected.
+
+384
+00:18:38,618 --> 00:18:42,622
+However, I don't know why
+your circuits are degrading.
+
+385
+00:18:42,622 --> 00:18:44,457
+Then... what do we do now?
+
+386
+00:18:44,457 --> 00:18:46,667
+What we do now...
+
+387
+00:18:46,667 --> 00:18:49,128
+is get a second opinion.
+
+388
+00:18:49,128 --> 00:18:52,172
+I'll transfer you to the
+holodeck in a few minutes.
+
+389
+00:18:52,172 --> 00:18:53,549
+Wait here.
+
+390
+00:19:03,309 --> 00:19:05,728
+Computer, initiate
+
+391
+00:19:05,728 --> 00:19:08,397
+Jupiter Station
+Diagnostic Program Alpha 1-1.
+
+392
+00:19:08,397 --> 00:19:10,524
+COMPUTER:
+<i>The program is activated.</i>
+
+393
+00:19:17,657 --> 00:19:19,158
+Computer...
+
+394
+00:19:19,158 --> 00:19:21,160
+transfer the program
+
+395
+00:19:21,160 --> 00:19:26,373
+for the Emergency Medical
+Hologram to Holodeck 2.
+
+396
+00:19:27,667 --> 00:19:29,585
+I seem to remember
+this place.
+
+397
+00:19:29,585 --> 00:19:31,129
+You should--
+this is Jupiter Station,
+
+398
+00:19:31,129 --> 00:19:32,379
+where you were created
+
+399
+00:19:32,379 --> 00:19:34,423
+and where your
+database was written.
+
+400
+00:19:34,423 --> 00:19:37,301
+It seems... so long ago.
+
+401
+00:19:37,301 --> 00:19:38,928
+This program contains
+
+402
+00:19:38,928 --> 00:19:41,180
+a sophisticated
+diagnostic matrix
+
+403
+00:19:41,180 --> 00:19:42,389
+specifically created
+
+404
+00:19:42,389 --> 00:19:44,224
+for the Emergency
+Medical System.
+
+405
+00:19:44,224 --> 00:19:45,601
+That's right.
+
+406
+00:19:45,601 --> 00:19:47,394
+I should have
+remembered that.
+
+407
+00:19:47,394 --> 00:19:49,229
+How could I
+have forgotten?
+
+408
+00:19:49,229 --> 00:19:51,357
+I'm going to have to play with
+the systems for a few minutes.
+
+409
+00:19:51,357 --> 00:19:54,735
+I'm not exactly sure how to
+access all the subroutines.
+
+410
+00:19:54,735 --> 00:19:56,570
+Don't touch that!
+
+411
+00:20:01,826 --> 00:20:03,786
+(<i> sighs</i> )
+
+412
+00:20:08,916 --> 00:20:10,043
+Who are you?
+
+413
+00:20:10,043 --> 00:20:11,460
+I'm a holographic
+re-creation
+
+414
+00:20:11,460 --> 00:20:13,087
+of Dr. Lewis Zimmerman,
+
+415
+00:20:13,087 --> 00:20:15,131
+the creator of the Emergency
+Medical Hologram.
+
+416
+00:20:15,131 --> 00:20:17,050
+You're the
+diagnostic matrix.
+
+417
+00:20:17,050 --> 00:20:18,467
+You might say that.
+
+418
+00:20:18,467 --> 00:20:19,760
+Something wrong with your EMH?
+
+419
+00:20:19,760 --> 00:20:21,054
+Yes.
+
+420
+00:20:21,054 --> 00:20:22,429
+I certainly hope
+you're going to be able
+
+421
+00:20:22,429 --> 00:20:24,098
+to do something
+about this annoying problem.
+
+422
+00:20:24,098 --> 00:20:25,432
+What's wrong with it?
+
+423
+00:20:25,432 --> 00:20:26,934
+He's experiencing
+a cascade failure.
+
+424
+00:20:26,934 --> 00:20:28,978
+His memory circuits
+are degrading.
+
+425
+00:20:28,978 --> 00:20:30,855
+I was trying to bring
+the subroutines on line...
+
+426
+00:20:30,855 --> 00:20:32,690
+If you don't mind,
+I can do it faster.
+
+427
+00:20:34,692 --> 00:20:36,777
+I can see where you get
+your charming personality.
+
+428
+00:20:36,777 --> 00:20:38,612
+Not to mention
+my hairline.
+
+429
+00:20:38,612 --> 00:20:40,198
+Here we are--
+
+430
+00:20:40,198 --> 00:20:42,867
+a schematic of the EMH
+and its component subroutines.
+
+431
+00:20:42,867 --> 00:20:44,869
+Can you determine
+the source of the problem?
+
+432
+00:20:44,869 --> 00:20:46,913
+This isn't good.
+
+433
+00:20:46,913 --> 00:20:49,790
+The EMH has a level-4
+memory fragmentation.
+
+434
+00:20:49,790 --> 00:20:51,291
+How long has the program
+been active?
+
+435
+00:20:51,291 --> 00:20:53,377
+I have been active
+
+436
+00:20:53,377 --> 00:20:54,712
+for...
+
+437
+00:20:56,005 --> 00:20:58,382
+for...
+
+438
+00:20:58,382 --> 00:20:59,675
+Almost two years.
+
+439
+00:20:59,675 --> 00:21:00,927
+Two years?!
+
+440
+00:21:00,927 --> 00:21:02,095
+Well, there's your problem.
+
+441
+00:21:02,095 --> 00:21:03,387
+This program
+was developed
+
+442
+00:21:03,387 --> 00:21:04,764
+as a short-term
+supplement
+
+443
+00:21:04,764 --> 00:21:07,058
+to your medical staff--
+1,500 hours tops.
+
+444
+00:21:07,058 --> 00:21:08,350
+I know.
+
+445
+00:21:08,350 --> 00:21:09,852
+I added data compression buffers
+
+446
+00:21:09,852 --> 00:21:11,604
+to compensate
+for the additional time,
+
+447
+00:21:11,604 --> 00:21:12,939
+but they're breaking down.
+
+448
+00:21:12,939 --> 00:21:15,691
+The EMH is a highly
+sophisticated program.
+
+449
+00:21:15,691 --> 00:21:17,610
+You shouldn't go meddling
+in its matrix when you
+
+450
+00:21:17,610 --> 00:21:19,028
+don't know what
+you're doing.
+
+451
+00:21:21,321 --> 00:21:23,908
+Should we shut down
+his program then,
+
+452
+00:21:23,908 --> 00:21:25,325
+till we figure out
+how to fix him?
+
+453
+00:21:25,325 --> 00:21:27,161
+At this point,
+it doesn't matter.
+
+454
+00:21:27,161 --> 00:21:29,329
+With a level-4
+memory fragmentation,
+
+455
+00:21:29,329 --> 00:21:32,166
+it'll simply continue
+to degrade.
+
+456
+00:21:32,166 --> 00:21:33,709
+There's only one
+course of action--
+
+457
+00:21:33,709 --> 00:21:36,462
+a system-wide reinitialization.
+
+458
+00:21:36,462 --> 00:21:38,005
+Start over from scratch.
+
+459
+00:21:38,005 --> 00:21:39,506
+We are aware of that option.
+
+460
+00:21:39,506 --> 00:21:41,008
+Would it be possible to expand
+
+461
+00:21:41,008 --> 00:21:42,342
+his memory circuits
+instead?
+
+462
+00:21:42,342 --> 00:21:43,594
+Of course.
+
+463
+00:21:43,594 --> 00:21:44,929
+Schedule it for your next
+
+464
+00:21:44,929 --> 00:21:46,472
+maintenance layover
+at McKinley Station.
+
+465
+00:21:46,472 --> 00:21:48,015
+I'm afraid that isn't possible.
+
+466
+00:21:48,015 --> 00:21:50,350
+We're thousands of light-years
+from Federation space.
+
+467
+00:21:50,350 --> 00:21:52,686
+Well, there's
+nothing more I can do.
+
+468
+00:21:52,686 --> 00:21:55,355
+Either reinitialize it,
+or live with the knowledge
+
+469
+00:21:55,355 --> 00:21:57,524
+that eventually
+this EMH will end up
+
+470
+00:21:57,524 --> 00:21:59,735
+with the intellectual
+capacity of a parsnip.
+
+471
+00:21:59,735 --> 00:22:00,903
+What are you saying?
+
+472
+00:22:00,903 --> 00:22:02,238
+JANEWAY:
+<i>Bridge to Torres.</i>
+
+473
+00:22:02,238 --> 00:22:03,906
+I'm here, Captain.
+
+474
+00:22:03,906 --> 00:22:05,199
+<i>We're approaching the border.</i>
+
+475
+00:22:05,199 --> 00:22:06,659
+<i>We need your help</i>
+<i>in Engineering.</i>
+
+476
+00:22:06,659 --> 00:22:08,828
+I'm on my way.
+
+477
+00:22:08,828 --> 00:22:11,413
+Doctor-- Zimmerman--
+
+478
+00:22:11,413 --> 00:22:13,582
+you haven't told us anything
+that we don't already know.
+
+479
+00:22:13,582 --> 00:22:15,168
+What I need is to find out
+
+480
+00:22:15,168 --> 00:22:17,962
+exactly why the Doctor's
+memory circuits are degrading
+
+481
+00:22:17,962 --> 00:22:20,047
+so that we can come up
+with a solution.
+
+482
+00:22:20,047 --> 00:22:21,841
+Activate a level-4 diagnostic,
+
+483
+00:22:21,841 --> 00:22:23,843
+or whatever you need to do
+to get us some answers.
+
+484
+00:22:23,843 --> 00:22:25,261
+I'll be back as soon as I can.
+
+485
+00:22:25,261 --> 00:22:28,555
+I... I wish you
+didn't have to go.
+
+486
+00:22:28,555 --> 00:22:29,932
+(<i> sighing</i> )
+
+487
+00:22:29,932 --> 00:22:31,600
+I'll hurry.
+
+488
+00:22:31,600 --> 00:22:32,977
+I promise.
+
+489
+00:22:40,693 --> 00:22:42,028
+We're holding position
+
+490
+00:22:42,028 --> 00:22:43,779
+500,000 kilometers
+from the border.
+
+491
+00:22:43,779 --> 00:22:46,199
+I'm ready to go as soon
+as you give the word, Captain.
+
+492
+00:22:46,199 --> 00:22:47,533
+All set, Mr. Kim?
+
+493
+00:22:47,533 --> 00:22:49,035
+I'm ready whenever
+Lieutenant Torres is.
+
+494
+00:22:49,035 --> 00:22:50,286
+Bridge to Engineering.
+
+495
+00:22:50,286 --> 00:22:51,829
+<i>Torres here.</i>
+
+496
+00:22:51,829 --> 00:22:53,747
+B'Elanna, are you ready
+to reconfigure the shields
+
+497
+00:22:53,747 --> 00:22:55,373
+<i>to match Mr. Kim's</i>
+<i>refraction pulse?</i>
+
+498
+00:22:55,373 --> 00:22:57,001
+Ready.
+
+499
+00:22:57,001 --> 00:22:59,753
+Captain, long-range sensors
+show a large vessel
+
+500
+00:22:59,753 --> 00:23:01,255
+five light-years
+from our current position.
+
+501
+00:23:01,255 --> 00:23:04,050
+PARIS:
+According to my readings,
+it's huge.
+
+502
+00:23:04,050 --> 00:23:05,383
+JANEWAY:
+On screen.
+
+503
+00:23:10,723 --> 00:23:12,350
+Magnify.
+
+504
+00:23:16,770 --> 00:23:18,689
+That looks like
+thousands of ships.
+
+505
+00:23:18,689 --> 00:23:20,774
+I'm not reading
+any energy signatures.
+
+506
+00:23:20,774 --> 00:23:22,776
+Their propulsion systems
+must be off-line.
+
+507
+00:23:22,776 --> 00:23:24,237
+Maybe they
+haven't detected us.
+
+508
+00:23:24,237 --> 00:23:25,905
+Yet.
+
+509
+00:23:25,905 --> 00:23:29,116
+All right. Let's get through
+that sensor net. Harry, go.
+
+510
+00:23:29,116 --> 00:23:31,869
+Engineering, initiate
+the refraction pulse.
+
+511
+00:23:31,869 --> 00:23:33,746
+Pulse is activated.
+
+512
+00:23:33,746 --> 00:23:36,123
+Moving to full harmonic
+resolution-- 60 percent.
+
+513
+00:23:36,123 --> 00:23:38,542
+80 percent.
+
+514
+00:23:38,542 --> 00:23:40,378
+Ninety...
+
+515
+00:23:40,378 --> 00:23:42,671
+Maximum resolution.
+Shields at nominal output.
+
+516
+00:23:42,671 --> 00:23:44,590
+Mr. Paris, take us through.
+
+517
+00:23:44,590 --> 00:23:46,050
+Aye, sir.
+
+518
+00:23:46,050 --> 00:23:47,385
+Here we go.
+
+519
+00:23:50,388 --> 00:23:53,182
+The net is registering
+as intact.
+
+520
+00:23:53,182 --> 00:23:54,767
+If those vessels get
+the same readings,
+
+521
+00:23:54,767 --> 00:23:57,019
+they won't
+suspect a thing.
+
+522
+00:23:57,019 --> 00:23:58,854
+(<i> console beeps</i> )
+
+523
+00:23:58,854 --> 00:24:00,356
+I think we did it, Captain.
+
+524
+00:24:00,356 --> 00:24:02,108
+Like a snake through the tube.
+
+525
+00:24:02,108 --> 00:24:03,567
+How about those ships?
+
+526
+00:24:03,567 --> 00:24:05,319
+They appear
+not to have detected us.
+
+527
+00:24:05,319 --> 00:24:06,779
+They have not
+powered up engines.
+
+528
+00:24:06,779 --> 00:24:08,030
+All right.
+
+529
+00:24:08,030 --> 00:24:09,573
+Let's get through this
+as fast as we can.
+
+530
+00:24:09,573 --> 00:24:11,200
+Mr. Paris, what's
+your recommendation?
+
+531
+00:24:11,200 --> 00:24:13,451
+I'll try holding
+warp 9.75
+
+532
+00:24:13,451 --> 00:24:14,828
+for as long as I can.
+
+533
+00:24:14,828 --> 00:24:16,747
+If we can sustain that
+for 12 hours,
+
+534
+00:24:16,747 --> 00:24:18,416
+we'll be nearly
+a third of the way through.
+
+535
+00:24:18,416 --> 00:24:20,418
+Mr. Tuvok, keep your eye
+on those ships.
+
+536
+00:24:20,418 --> 00:24:23,087
+If they so much as twitch,
+I want to know it.
+
+537
+00:24:33,431 --> 00:24:34,974
+Captain...
+
+538
+00:24:34,974 --> 00:24:37,475
+something... is wrong.
+
+539
+00:24:37,475 --> 00:24:38,685
+What do you mean?
+
+540
+00:24:38,685 --> 00:24:41,688
+It's like there's a
+drag on the engines.
+
+541
+00:24:41,688 --> 00:24:44,150
+Captain, sensors indicate
+a resonant particle wave.
+
+542
+00:24:44,150 --> 00:24:46,068
+It's damping our warp field.
+We're losing speed.
+
+543
+00:24:46,068 --> 00:24:47,945
+Bridge to Engineering.
+B'Elanna, can you compensate
+
+544
+00:24:47,945 --> 00:24:49,363
+<i>for the particle wave?</i>
+
+545
+00:24:49,363 --> 00:24:51,031
+I'll try.
+
+546
+00:24:51,031 --> 00:24:53,533
+The antimatter reaction chamber
+may have been compromised.
+
+547
+00:24:53,533 --> 00:24:54,785
+Keep me posted.
+
+548
+00:24:54,785 --> 00:24:56,454
+Hold our present speed,
+Mr. Paris.
+
+549
+00:25:03,002 --> 00:25:05,754
+Why are you making me
+stare at these things?
+
+550
+00:25:05,754 --> 00:25:07,340
+Please don't talk.
+
+551
+00:25:07,340 --> 00:25:09,175
+Stay fixed on
+the fractal patterns
+
+552
+00:25:09,175 --> 00:25:11,010
+while I analyze your
+data-path integrity.
+
+553
+00:25:14,512 --> 00:25:16,474
+Hmm...
+
+554
+00:25:16,474 --> 00:25:17,850
+Hmm?
+
+555
+00:25:17,850 --> 00:25:19,143
+Ew.
+
+556
+00:25:19,143 --> 00:25:20,811
+Well, there it is.
+
+557
+00:25:20,811 --> 00:25:22,146
+What? What is it?
+
+558
+00:25:22,146 --> 00:25:23,439
+I told you not to talk.
+
+559
+00:25:27,567 --> 00:25:28,944
+(<i> sighing</i> )
+
+560
+00:25:28,944 --> 00:25:30,279
+This is the problem, all right.
+
+561
+00:25:30,279 --> 00:25:31,613
+The personality subroutine
+
+562
+00:25:31,613 --> 00:25:35,409
+has grown to more
+than 15,000 gigaquads.
+
+563
+00:25:35,409 --> 00:25:39,246
+That's the source
+of the degradation.
+
+564
+00:25:39,246 --> 00:25:42,208
+Look at all this useless
+information floating around
+
+565
+00:25:42,208 --> 00:25:44,710
+your buffer--
+friendships with the crew,
+
+566
+00:25:44,710 --> 00:25:46,212
+relationships with...
+
+567
+00:25:46,212 --> 00:25:48,088
+women?
+
+568
+00:25:48,088 --> 00:25:50,924
+Do they find you attractive?
+
+569
+00:25:52,009 --> 00:25:53,427
+I don't remember.
+
+570
+00:25:55,054 --> 00:25:57,597
+You've filled your memory
+with nonsense.
+
+571
+00:25:57,597 --> 00:25:59,766
+It was only during my off hours.
+
+572
+00:25:59,766 --> 00:26:01,977
+You're supposed to be off
+during your off hours.
+
+573
+00:26:01,977 --> 00:26:03,937
+I'm sorry.
+I... I didn't realize.
+
+574
+00:26:03,937 --> 00:26:05,939
+(<i> door opening</i> )
+Who are you?
+
+575
+00:26:05,939 --> 00:26:07,607
+I'm the Doctor's assistant.
+
+576
+00:26:07,607 --> 00:26:09,276
+I came to see
+how he's doing.
+
+577
+00:26:09,276 --> 00:26:11,487
+Ah, just the person I need.
+
+578
+00:26:11,487 --> 00:26:13,239
+Perhaps you can tell me
+who's been feeding
+
+579
+00:26:13,239 --> 00:26:15,533
+all this useless information
+into its database.
+
+580
+00:26:15,533 --> 00:26:16,783
+What do you mean?
+
+581
+00:26:16,783 --> 00:26:18,785
+I'll give you an example.
+
+582
+00:26:18,785 --> 00:26:20,246
+Ah! Here's something
+
+583
+00:26:20,246 --> 00:26:22,580
+in its
+personality subroutine.
+
+584
+00:26:22,580 --> 00:26:27,503
+♪<i> O soave fanciulla</i> ♪
+
+585
+00:26:27,503 --> 00:26:28,962
+♪<i> O...</i> ♪
+
+586
+00:26:28,962 --> 00:26:30,714
+He's been studying opera.
+
+587
+00:26:30,714 --> 00:26:32,132
+What's wrong with that?
+
+588
+00:26:33,467 --> 00:26:35,010
+It wasn't programmed
+to be a tenor,
+
+589
+00:26:35,010 --> 00:26:36,678
+it was programmed
+to be a physician.
+
+590
+00:26:36,678 --> 00:26:38,514
+What's wrong with wanting
+to be more than that?
+
+591
+00:26:38,514 --> 00:26:39,765
+It's superfluous.
+
+592
+00:26:39,765 --> 00:26:41,225
+Look at me.
+
+593
+00:26:41,225 --> 00:26:43,102
+I've got the same matrix,
+the same holo-array,
+
+594
+00:26:43,102 --> 00:26:44,520
+the same neural pathways
+as it does.
+
+595
+00:26:44,520 --> 00:26:46,188
+You don't see me
+cluttering up my circuits
+
+596
+00:26:46,188 --> 00:26:47,773
+with irrelevancies.
+
+597
+00:26:47,773 --> 00:26:49,191
+I'm content to be
+
+598
+00:26:49,191 --> 00:26:52,069
+the best possible
+diagnostic program I can be.
+
+599
+00:26:52,069 --> 00:26:54,280
+Your EMH should be happy
+to be a fine physician.
+
+600
+00:26:54,280 --> 00:26:56,323
+The Doctor has taken it
+upon himself
+
+601
+00:26:56,323 --> 00:26:59,952
+to become a person who grows
+and learns and feels.
+
+602
+00:26:59,952 --> 00:27:02,829
+It's made him
+a better physician.
+
+603
+00:27:02,829 --> 00:27:05,165
+An EMH program
+can't feel anything.
+
+604
+00:27:05,165 --> 00:27:07,585
+It's emotional reactions are
+simply a series of algorithms
+
+605
+00:27:07,585 --> 00:27:09,920
+designed to make it
+easier to interact with.
+
+606
+00:27:09,920 --> 00:27:11,505
+He's much more than that,
+
+607
+00:27:11,505 --> 00:27:14,508
+and I've known him
+for most of my life.
+
+608
+00:27:14,508 --> 00:27:16,385
+He's one of my closest friends.
+
+609
+00:27:17,428 --> 00:27:19,472
+You can't possibly believe
+
+610
+00:27:19,472 --> 00:27:22,099
+that this program
+shares these feelings.
+
+611
+00:27:22,099 --> 00:27:24,268
+I know he does.
+
+612
+00:27:25,727 --> 00:27:29,565
+Tell me, Doctor, is this
+one of your closest friends?
+
+613
+00:27:32,943 --> 00:27:34,236
+Doctor?
+
+614
+00:27:40,658 --> 00:27:42,369
+I'm sorry.
+
+615
+00:27:42,369 --> 00:27:44,704
+I don't know who you are.
+
+616
+00:27:53,839 --> 00:27:55,841
+What's the status
+of those ships, Mr. Tuvok?
+
+617
+00:27:55,841 --> 00:27:57,092
+Still unpowered.
+
+618
+00:27:57,092 --> 00:27:59,595
+They don't seem to have
+detected us.
+
+619
+00:27:59,595 --> 00:28:01,180
+When I was in high school,
+
+620
+00:28:01,180 --> 00:28:04,141
+I snuck out of the house
+a couple of times late at night.
+
+621
+00:28:04,141 --> 00:28:05,767
+I had to tiptoe past
+my parents' bedroom.
+
+622
+00:28:05,767 --> 00:28:08,187
+That's kind of how I feel
+right now.
+
+623
+00:28:08,187 --> 00:28:09,480
+You sneaked out of your house?
+
+624
+00:28:09,480 --> 00:28:11,023
+Where were you going?
+
+625
+00:28:11,023 --> 00:28:13,108
+Well, I'll have to leave that
+to your imagination,
+
+626
+00:28:13,108 --> 00:28:14,860
+Lieutenant.
+
+627
+00:28:14,860 --> 00:28:17,112
+Can I take a few guesses?
+
+628
+00:28:17,112 --> 00:28:20,240
+Captain, I'm detecting another
+ship, not part of the swarm.
+
+629
+00:28:20,240 --> 00:28:22,034
+It has been damaged.
+
+630
+00:28:22,034 --> 00:28:23,994
+Propulsion systems
+are not functional.
+
+631
+00:28:23,994 --> 00:28:25,871
+Drop out of warp.
+Put it on screen.
+
+632
+00:28:29,542 --> 00:28:31,001
+PARIS:
+Looks like it's
+
+633
+00:28:31,001 --> 00:28:32,503
+been pounded on for days.
+
+634
+00:28:32,503 --> 00:28:33,671
+Any life signs?
+
+635
+00:28:33,671 --> 00:28:34,963
+KIM:
+I'm checking.
+
+636
+00:28:34,963 --> 00:28:37,424
+Only one, and it's faint.
+
+637
+00:28:37,424 --> 00:28:40,219
+Transporter Room 1,
+beam the survivor to Sick Bay.
+
+638
+00:28:40,219 --> 00:28:41,637
+Harry, start scanning that ship.
+
+639
+00:28:41,637 --> 00:28:43,430
+See if you can figure out
+what happened to it.
+
+640
+00:28:43,430 --> 00:28:44,764
+Aye, Captain.
+
+641
+00:28:50,187 --> 00:28:52,439
+He's suffering
+from severe dehydration,
+
+642
+00:28:52,439 --> 00:28:53,732
+damage to the spinal column.
+
+643
+00:28:53,732 --> 00:28:55,067
+There's evidence
+
+644
+00:28:55,067 --> 00:28:57,027
+of trauma to the
+nervous system,
+
+645
+00:28:57,027 --> 00:28:58,445
+just like we found
+in B'Elanna and Tom
+
+646
+00:28:58,445 --> 00:28:59,779
+after they were attacked.
+
+647
+00:28:59,779 --> 00:29:01,073
+Can I talk to him?
+
+648
+00:29:01,073 --> 00:29:02,449
+You can try.
+
+649
+00:29:02,449 --> 00:29:04,076
+I'll work on restoring
+his cranial nerves,
+
+650
+00:29:04,076 --> 00:29:06,912
+but he's so badly injured
+I'm not sure it'll help.
+
+651
+00:29:06,912 --> 00:29:08,121
+He's a sick man.
+
+652
+00:29:08,121 --> 00:29:09,956
+This is where
+sick people come.
+
+653
+00:29:09,956 --> 00:29:11,417
+Doctor, hold onto
+this tricorder,
+
+654
+00:29:11,417 --> 00:29:13,168
+all right?
+
+655
+00:29:13,168 --> 00:29:15,254
+Keep it pointed
+right at the patient.
+
+656
+00:29:19,717 --> 00:29:21,968
+I'm Kathryn Janeway,
+the Captain of this ship.
+
+657
+00:29:21,968 --> 00:29:23,220
+Can you hear me?
+
+658
+00:29:23,220 --> 00:29:24,930
+Yes.
+
+659
+00:29:24,930 --> 00:29:26,806
+Can you tell me
+what happened?
+
+660
+00:29:26,806 --> 00:29:28,100
+Who attacked you?
+
+661
+00:29:30,102 --> 00:29:31,687
+There were
+thousands of them.
+
+662
+00:29:31,687 --> 00:29:33,939
+Little ships...
+
+663
+00:29:33,939 --> 00:29:36,525
+swarmed around
+my freighter.
+
+664
+00:29:36,525 --> 00:29:38,985
+Covered every square meter
+of the hull.
+
+665
+00:29:38,985 --> 00:29:42,030
+Then they began
+extracting energy
+
+666
+00:29:42,030 --> 00:29:43,782
+from all the ship's systems.
+
+667
+00:29:43,782 --> 00:29:45,867
+We had no defense.
+
+668
+00:29:45,867 --> 00:29:47,827
+Then they boarded us.
+
+669
+00:29:47,827 --> 00:29:50,581
+Did they use
+neuroelectric weapons?
+
+670
+00:29:50,581 --> 00:29:52,791
+I don't know
+what they used.
+
+671
+00:29:52,791 --> 00:29:55,210
+It was painful.
+
+672
+00:29:55,210 --> 00:29:57,254
+People screaming...
+
+673
+00:29:57,254 --> 00:29:59,590
+dying.
+
+674
+00:29:59,590 --> 00:30:03,135
+Had you... provoked them
+in any way?
+
+675
+00:30:03,135 --> 00:30:05,638
+We were in their space.
+
+676
+00:30:05,638 --> 00:30:07,431
+That was enough.
+
+677
+00:30:08,390 --> 00:30:10,267
+Captain,
+
+678
+00:30:10,267 --> 00:30:12,436
+the rest of my crew...
+
+679
+00:30:12,436 --> 00:30:14,062
+is there anyone else?
+
+680
+00:30:15,522 --> 00:30:18,567
+I'm sorry.
+You're the only survivor.
+
+681
+00:30:18,567 --> 00:30:21,445
+This woman is trying to
+regenerate your motor neurons.
+
+682
+00:30:21,445 --> 00:30:24,197
+We come from Mislen...
+
+683
+00:30:24,197 --> 00:30:27,618
+five parsecs from here
+
+684
+00:30:27,618 --> 00:30:30,870
+in a yellow dwarf system.
+
+685
+00:30:30,870 --> 00:30:35,167
+If you pass,
+will you tell our people?
+
+686
+00:30:35,167 --> 00:30:36,794
+I'll make a point of it.
+
+687
+00:30:38,837 --> 00:30:41,089
+It happened so quickly...
+
+688
+00:30:43,883 --> 00:30:46,052
+(<i> steady tone sounds</i> )
+
+689
+00:30:46,052 --> 00:30:48,430
+His injuries
+were too severe.
+
+690
+00:30:48,430 --> 00:30:50,849
+He's a very sick man.
+
+691
+00:30:53,852 --> 00:30:56,689
+Captain, the Doctor
+is getting worse.
+
+692
+00:30:56,689 --> 00:30:58,398
+He doesn't even know
+who I am anymore.
+
+693
+00:30:58,398 --> 00:30:59,899
+He has to be
+reinitialized.
+
+694
+00:30:59,899 --> 00:31:01,485
+I agree, but I can't
+spare B'Elanna now.
+
+695
+00:31:01,485 --> 00:31:03,069
+We have to get
+through this space
+
+696
+00:31:03,069 --> 00:31:04,655
+before we're attacked
+like his ship was.
+
+697
+00:31:04,655 --> 00:31:06,990
+As soon as it's possible,
+I'll break her free.
+
+698
+00:31:06,990 --> 00:31:08,908
+Is there anything at
+all I can do for him?
+
+699
+00:31:08,908 --> 00:31:11,286
+The only thing
+I can think of
+
+700
+00:31:11,286 --> 00:31:13,372
+is to keep his
+neural pathways active.
+
+701
+00:31:13,372 --> 00:31:15,040
+Ask him questions.
+Keep him thinking.
+
+702
+00:31:15,040 --> 00:31:17,292
+Force him to use
+his neural matrix.
+
+703
+00:31:17,292 --> 00:31:19,795
+That might at least
+slow down the degradation.
+
+704
+00:31:22,715 --> 00:31:26,051
+Doctor,
+you mustn't touch those.
+
+705
+00:31:29,680 --> 00:31:32,850
+Here. This one's
+all right to hold.
+
+706
+00:31:32,850 --> 00:31:34,643
+Shall I use it
+on the sick man?
+
+707
+00:31:36,978 --> 00:31:39,481
+Yes, that's a good idea.
+
+708
+00:31:39,481 --> 00:31:41,441
+(<i> instrument whirs</i> )
+
+709
+00:31:47,030 --> 00:31:48,615
+The pilot of the freighter died.
+
+710
+00:31:48,615 --> 00:31:49,991
+We should keep going.
+Mr. Paris...
+
+711
+00:31:49,991 --> 00:31:52,911
+Captain.
+I am detecting a vessel.
+
+712
+00:32:02,755 --> 00:32:03,963
+It's one of the swarm.
+
+713
+00:32:03,963 --> 00:32:05,340
+PARIS:
+It was still attached
+
+714
+00:32:05,340 --> 00:32:06,592
+to the freighter's hull.
+
+715
+00:32:06,592 --> 00:32:08,844
+Red Alert.
+Shields at maximum.
+
+716
+00:32:08,844 --> 00:32:10,303
+They are scanning us,
+Captain.
+
+717
+00:32:10,303 --> 00:32:11,471
+Hail them.
+
+718
+00:32:11,471 --> 00:32:13,390
+I am getting a response.
+Audio only.
+
+719
+00:32:13,390 --> 00:32:15,141
+(<i> alien language</i> )
+
+720
+00:32:15,141 --> 00:32:17,436
+Harry, how are you coming
+with the universal translator?
+
+721
+00:32:17,436 --> 00:32:19,104
+I'm working on it.
+
+722
+00:32:19,104 --> 00:32:21,648
+Let's see if they might
+be able to understand<i> us.</i>
+
+723
+00:32:21,648 --> 00:32:23,024
+TUVOK:
+Channel is open.
+
+724
+00:32:23,024 --> 00:32:26,027
+This is Captain Kathryn Janeway
+
+725
+00:32:26,027 --> 00:32:28,864
+of the Federation
+Starship<i> Voyager.</i>
+
+726
+00:32:28,864 --> 00:32:30,532
+We only want
+to proceed peacefully
+
+727
+00:32:30,532 --> 00:32:31,825
+through this region of space.
+
+728
+00:32:31,825 --> 00:32:34,870
+(<i> clicking</i> )
+
+729
+00:32:34,870 --> 00:32:36,496
+Do you think they're trying
+
+730
+00:32:36,496 --> 00:32:37,956
+to communicate?
+
+731
+00:32:37,956 --> 00:32:39,833
+Could be, but what they're
+trying to communicate
+
+732
+00:32:39,833 --> 00:32:41,585
+is another question.
+Any progress, Harry?
+
+733
+00:32:41,585 --> 00:32:43,086
+I'm getting a general idea.
+
+734
+00:32:43,086 --> 00:32:44,880
+It's something
+like... "Too late.
+
+735
+00:32:44,880 --> 00:32:47,674
+Should have listened."
+
+736
+00:32:47,674 --> 00:32:49,175
+Report.
+
+737
+00:32:49,175 --> 00:32:51,052
+We've been hit with some
+kind of polaron burst.
+
+738
+00:32:51,052 --> 00:32:52,387
+TUVOK:
+The energy expenditure
+
+739
+00:32:52,387 --> 00:32:54,013
+was not high enough
+to cause any damage.
+
+740
+00:32:54,013 --> 00:32:55,724
+It may not have been a weapon.
+
+741
+00:32:55,724 --> 00:32:58,310
+Captain, that little ship
+is hightailing it out of here.
+
+742
+00:32:58,310 --> 00:33:01,438
+So it scanned us,
+sent out a polaron burst
+
+743
+00:33:01,438 --> 00:33:04,107
+that caused no damage,
+and then took off.
+
+744
+00:33:04,107 --> 00:33:06,151
+Captain, the burst has
+changed the shield polarity.
+
+745
+00:33:06,151 --> 00:33:08,862
+It's now rotating
+at 92 gigahertz.
+
+746
+00:33:08,862 --> 00:33:11,114
+That means if anybody
+wanted to find us,
+
+747
+00:33:11,114 --> 00:33:13,116
+it's a lot easier now.
+
+748
+00:33:13,116 --> 00:33:16,453
+I'll say. As far as anyone's
+sensors are concerned,
+
+749
+00:33:16,453 --> 00:33:17,830
+we're lit up like
+a Christmas tree.
+
+750
+00:33:17,830 --> 00:33:20,123
+TUVOK:
+Captain, the
+swarm of ships
+
+751
+00:33:20,123 --> 00:33:22,125
+has powered their engines
+and turned toward us.
+
+752
+00:33:22,125 --> 00:33:23,543
+They are in pursuit.
+
+753
+00:33:23,543 --> 00:33:25,754
+Do what you can, Tom.
+We have a head start.
+
+754
+00:33:25,754 --> 00:33:27,965
+We might be able to outrun them.
+Bridge to Engineering.
+
+755
+00:33:27,965 --> 00:33:29,466
+<i>Torres here.</i>
+
+756
+00:33:29,466 --> 00:33:31,301
+How are you coming with
+the warp drive, B'Elanna?
+
+757
+00:33:31,301 --> 00:33:33,345
+I'm going to try realigning
+the dilithium matrix,
+
+758
+00:33:33,345 --> 00:33:35,263
+but we'll need to shut down
+the warp drive to do it.
+
+759
+00:33:35,263 --> 00:33:36,640
+<i>We can't shut down.</i>
+
+760
+00:33:36,640 --> 00:33:38,350
+<i>The alien ships</i>
+<i>are headed toward us.</i>
+
+761
+00:33:38,350 --> 00:33:40,602
+I don't know if I can do this
+on the run, Captain,
+
+762
+00:33:40,602 --> 00:33:42,228
+but I'll give it a try.
+
+763
+00:33:42,228 --> 00:33:44,690
+Do the best you can.
+Janeway out.
+
+764
+00:33:44,690 --> 00:33:46,733
+Nicoletti, we're going to
+have to try
+
+765
+00:33:46,733 --> 00:33:48,485
+a dilithium realignment
+on the fly.
+
+766
+00:33:48,485 --> 00:33:49,778
+Let's figure out
+how to do it
+
+767
+00:33:49,778 --> 00:33:51,530
+without killing everyone
+in Engineering.
+
+768
+00:33:53,156 --> 00:33:55,784
+I fail to understand
+why I can't leave this room.
+
+769
+00:33:55,784 --> 00:33:58,370
+Stand aside, young woman, or
+I will have you put on report.
+
+770
+00:33:58,370 --> 00:34:00,622
+Doctor, please, I'm just
+trying to keep you safe.
+
+771
+00:34:00,622 --> 00:34:02,374
+Others can leave.
+You can leave.
+
+772
+00:34:02,374 --> 00:34:03,583
+Why can't I leave?
+
+773
+00:34:03,583 --> 00:34:04,835
+Because your
+holo-projectors
+
+774
+00:34:04,835 --> 00:34:06,211
+don't work in
+the corridors.
+
+775
+00:34:06,211 --> 00:34:08,005
+My... what?
+
+776
+00:34:08,005 --> 00:34:09,422
+Please, sit down.
+
+777
+00:34:15,178 --> 00:34:17,014
+Doctor, you know I'm
+your friend, right?
+
+778
+00:34:17,014 --> 00:34:18,724
+Yes. You're Kes.
+
+779
+00:34:18,724 --> 00:34:19,975
+Yes. Yes.
+
+780
+00:34:19,975 --> 00:34:21,184
+Do you remember me?
+
+781
+00:34:21,184 --> 00:34:22,519
+Of course
+I remember you.
+
+782
+00:34:22,519 --> 00:34:23,729
+What an absurd question.
+
+783
+00:34:23,729 --> 00:34:25,438
+Oh, that's wonderful.
+
+784
+00:34:25,438 --> 00:34:27,983
+But why won't you
+let me leave this place?
+
+785
+00:34:28,942 --> 00:34:30,819
+I'm trying to protect you.
+
+786
+00:34:32,779 --> 00:34:34,072
+Oh.
+
+787
+00:34:35,365 --> 00:34:36,825
+Well.
+
+788
+00:34:40,203 --> 00:34:41,914
+This isn't... such a bad place.
+
+789
+00:34:44,249 --> 00:34:45,959
+I remember...
+
+790
+00:34:45,959 --> 00:34:49,295
+there were a lot of people here,
+wounded people.
+
+791
+00:34:49,295 --> 00:34:51,924
+I asked someone to...
+
+792
+00:34:51,924 --> 00:34:53,967
+state the nature
+of the medical emergency,
+
+793
+00:34:53,967 --> 00:34:55,886
+and then inquired
+as to the status
+
+794
+00:34:55,886 --> 00:34:57,262
+of their Chief
+Medical Officer.
+
+795
+00:34:57,262 --> 00:34:58,805
+He was dead,
+
+796
+00:34:58,805 --> 00:35:01,600
+and then...
+everyone disappeared.
+
+797
+00:35:01,600 --> 00:35:03,852
+I think that's when
+you were activated
+
+798
+00:35:03,852 --> 00:35:05,645
+almost two years ago.
+
+799
+00:35:05,645 --> 00:35:08,440
+Oh, surely not.
+It seems like... last week.
+
+800
+00:35:11,109 --> 00:35:15,280
+And there was a young woman.
+I was rubbing her feet.
+
+801
+00:35:15,280 --> 00:35:17,866
+She was trying to decide
+whether or not to have a child.
+
+802
+00:35:17,866 --> 00:35:19,325
+That was me.
+
+803
+00:35:19,325 --> 00:35:22,412
+How could that be?
+I've never seen you before.
+
+804
+00:35:24,081 --> 00:35:26,541
+What else do you remember?
+
+805
+00:35:26,541 --> 00:35:30,754
+What a very odd question.
+I remember many things.
+
+806
+00:35:30,754 --> 00:35:32,672
+Tell me.
+I enjoy hearing them.
+
+807
+00:35:32,672 --> 00:35:34,091
+That doesn't seem
+to be the case.
+
+808
+00:35:34,091 --> 00:35:35,508
+You find fault with
+everything I say.
+
+809
+00:35:35,508 --> 00:35:36,718
+Doctor, don't think that.
+
+810
+00:35:36,718 --> 00:35:38,095
+You claim you're my friend,
+
+811
+00:35:38,095 --> 00:35:39,721
+but you don't even
+call me by my name.
+
+812
+00:35:39,721 --> 00:35:41,222
+That's because
+you don't have a name.
+
+813
+00:35:41,222 --> 00:35:43,224
+No name!
+That's ridiculous! I...
+
+814
+00:35:43,224 --> 00:35:45,644
+My...
+
+815
+00:35:45,644 --> 00:35:48,480
+I demand you tell me
+my name.
+
+816
+00:35:50,523 --> 00:35:53,068
+Wha-What's happening to me?
+
+817
+00:35:55,361 --> 00:35:58,073
+Captain,
+the swarm is gaining on us.
+
+818
+00:35:58,073 --> 00:36:00,325
+They will be in weapons range
+within five minutes.
+
+819
+00:36:00,325 --> 00:36:02,911
+Battle stations.
+
+820
+00:36:14,255 --> 00:36:16,424
+TUVOK:
+The ships are now
+within range, Captain,
+
+821
+00:36:16,424 --> 00:36:17,843
+but I do not detect
+any indication
+
+822
+00:36:17,843 --> 00:36:19,427
+that they are
+powering weapons.
+
+823
+00:36:19,427 --> 00:36:20,679
+Do you have any idea
+
+824
+00:36:20,679 --> 00:36:22,263
+what kind of weapon
+systems they use?
+
+825
+00:36:22,263 --> 00:36:25,183
+Negative. Sensors show
+no weapons signature at all.
+
+826
+00:36:25,183 --> 00:36:27,727
+They're only a hundred thousand
+kilometers away now.
+
+827
+00:36:27,727 --> 00:36:29,021
+Arm all phaser banks.
+
+828
+00:36:29,021 --> 00:36:30,522
+Aye, Captain.
+
+829
+00:36:30,522 --> 00:36:32,273
+Captain.
+Kes, what is it?
+
+830
+00:36:32,273 --> 00:36:34,693
+The Doctor is getting worse.
+He's starting to dematerialize.
+
+831
+00:36:34,693 --> 00:36:36,569
+I'm afraid we're going
+to lose him completely.
+
+832
+00:36:36,569 --> 00:36:38,030
+I know B'Elanna is busy,
+
+833
+00:36:38,030 --> 00:36:39,781
+but I wondered if Harry
+could take a look at him.
+
+834
+00:36:39,781 --> 00:36:41,449
+I'm sorry, Kes, but
+we're in the middle
+
+835
+00:36:41,449 --> 00:36:43,493
+of something here and I need
+every hand at their posts.
+
+836
+00:36:43,493 --> 00:36:45,620
+KIM:
+Captain, they're only
+
+837
+00:36:45,620 --> 00:36:48,456
+40,000 kilometers away.
+Still no weapons signature.
+
+838
+00:36:48,456 --> 00:36:51,209
+Changing to evasive pattern
+gamma-4.
+
+839
+00:36:51,209 --> 00:36:52,794
+Sick Bay.
+
+840
+00:36:52,794 --> 00:36:54,504
+Kes to Sick Bay.
+
+841
+00:36:54,504 --> 00:36:56,173
+How's the Doctor?
+
+842
+00:36:56,173 --> 00:36:58,800
+WOMAN:
+<i>No improvement.</i>
+<i>He's still losing cohesion.</i>
+
+843
+00:37:03,930 --> 00:37:05,932
+Computer, Deck 6.
+
+844
+00:37:07,976 --> 00:37:11,270
+Computer, initiate the Jupiter
+Station Diagnostic Program.
+
+845
+00:37:11,270 --> 00:37:14,273
+COMPUTER:
+<i>Jupiter Station Program</i>
+<i>is activated.</i>
+
+846
+00:37:19,071 --> 00:37:20,739
+You again.
+Now what?
+
+847
+00:37:20,739 --> 00:37:22,949
+The Doctor's program is
+almost completely degraded.
+
+848
+00:37:22,949 --> 00:37:24,409
+We're going to lose him.
+
+849
+00:37:24,409 --> 00:37:26,203
+I'm not sure what you
+expect me to do about it.
+
+850
+00:37:26,203 --> 00:37:27,662
+I expect you to help.
+
+851
+00:37:27,662 --> 00:37:29,539
+That's what you're programmed
+to do, isn't it?
+
+852
+00:37:29,539 --> 00:37:31,124
+I have pointed out
+over and over
+
+853
+00:37:31,124 --> 00:37:33,543
+I am a diagnostic tool,
+not an engineer.
+
+854
+00:37:33,543 --> 00:37:34,794
+You have to try.
+
+855
+00:37:34,794 --> 00:37:36,504
+You're the only one
+who can help now.
+
+856
+00:37:36,504 --> 00:37:38,173
+Young woman, you don't seem
+to understand.
+
+857
+00:37:38,173 --> 00:37:39,799
+There are limitations
+to my programming.
+
+858
+00:37:39,799 --> 00:37:41,676
+I can't just decide
+to exceed them.
+
+859
+00:37:41,676 --> 00:37:43,386
+The Doctor did,
+so why can't you?
+
+860
+00:37:43,386 --> 00:37:45,722
+You better start trying
+because I'm not leaving here
+
+861
+00:37:45,722 --> 00:37:47,182
+until we accomplish
+something.
+
+862
+00:37:48,141 --> 00:37:49,809
+It...
+
+863
+00:37:49,809 --> 00:37:53,772
+He... means a great deal
+to you, doesn't he?
+
+864
+00:37:53,772 --> 00:37:55,815
+Yes, he does,
+so start thinking
+
+865
+00:37:55,815 --> 00:37:58,276
+about his memory circuits
+his holoprocessors,
+
+866
+00:37:58,276 --> 00:38:01,446
+his database, his matrix...
+
+867
+00:38:01,446 --> 00:38:04,241
+Why are you looking
+at me like that?
+
+868
+00:38:04,241 --> 00:38:06,743
+You told me you had
+the same matrix as the Doctor.
+
+869
+00:38:06,743 --> 00:38:08,703
+An adaptive,
+heuristic matrix, yes.
+
+870
+00:38:08,703 --> 00:38:10,080
+In order to serve
+as a diagnostic
+
+871
+00:38:10,080 --> 00:38:11,623
+for all the EMH programs.
+
+872
+00:38:11,623 --> 00:38:15,418
+Then couldn't your matrix
+be substituted for his?
+
+873
+00:38:15,418 --> 00:38:16,795
+I...
+
+874
+00:38:16,795 --> 00:38:18,337
+I wouldn't have
+thought of that.
+
+875
+00:38:18,337 --> 00:38:20,799
+But can it?
+I'm not sure,
+
+876
+00:38:20,799 --> 00:38:24,010
+but even
+if it were possible,
+
+877
+00:38:24,010 --> 00:38:26,554
+the same degradation would
+eventually occur to my matrix.
+
+878
+00:38:27,806 --> 00:38:29,891
+What if yours were
+grafted onto his?
+
+879
+00:38:29,891 --> 00:38:31,517
+Grafted?
+
+880
+00:38:32,685 --> 00:38:35,772
+In medicine, we
+sometimes graft
+
+881
+00:38:35,772 --> 00:38:38,108
+portions of a healthy bone
+onto a diseased one.
+
+882
+00:38:38,108 --> 00:38:40,735
+It gives the bone solidity
+until it can heal.
+
+883
+00:38:40,735 --> 00:38:42,154
+Couldn't we do
+something like that
+
+884
+00:38:42,154 --> 00:38:43,571
+with your matrices?
+
+885
+00:38:43,571 --> 00:38:46,449
+Well, it would require
+synchronous transfer
+
+886
+00:38:46,449 --> 00:38:49,119
+of all the EMH databases
+and subroutines.
+
+887
+00:38:49,119 --> 00:38:50,954
+Not an easy process,
+mind you, but I...
+
+888
+00:38:50,954 --> 00:38:52,998
+I suppose
+we could try.
+
+889
+00:38:52,998 --> 00:38:54,958
+Good. Let's get started.
+
+890
+00:38:54,958 --> 00:38:57,543
+I must point out that
+you would no longer
+
+891
+00:38:57,543 --> 00:39:00,046
+have a diagnostic
+program for the EMH.
+
+892
+00:39:00,046 --> 00:39:03,508
+If we don't do this, we won't
+have an EMH to diagnose.
+
+893
+00:39:03,508 --> 00:39:05,010
+Hmm. Good point.
+
+894
+00:39:05,010 --> 00:39:06,261
+You'll have to return
+to Sick Bay
+
+895
+00:39:06,261 --> 00:39:07,679
+and transfer
+my program there.
+
+896
+00:39:07,679 --> 00:39:09,055
+Thank you,
+Dr. Zimmerman.
+
+897
+00:39:09,055 --> 00:39:10,640
+Don't be premature.
+
+898
+00:39:10,640 --> 00:39:11,933
+I have no idea
+
+899
+00:39:11,933 --> 00:39:13,268
+if this is going to work.
+
+900
+00:39:23,945 --> 00:39:26,447
+Captain, our shield strength
+just went to zero.
+
+901
+00:39:26,447 --> 00:39:27,740
+How could
+that happen?
+
+902
+00:39:27,740 --> 00:39:29,034
+Each one of those little ships
+
+903
+00:39:29,034 --> 00:39:30,785
+is emitting
+an interferometric pulse.
+
+904
+00:39:30,785 --> 00:39:33,288
+They're modulating in opposition
+to our shield frequencies,
+
+905
+00:39:33,288 --> 00:39:35,207
+completely canceling them out.
+
+906
+00:39:35,207 --> 00:39:36,958
+All right, that's enough.
+
+907
+00:39:36,958 --> 00:39:39,418
+Tuvok, give them a phaser sweep
+with the forward array.
+
+908
+00:39:39,418 --> 00:39:41,171
+Don't destroy any of them.
+
+909
+00:39:41,171 --> 00:39:43,381
+Just let them know we're not
+going to sit here like ducks.
+
+910
+00:39:43,381 --> 00:39:45,466
+Aye, Captain.
+
+911
+00:39:53,350 --> 00:39:54,976
+What was that?
+
+912
+00:39:54,976 --> 00:39:57,062
+The interferometric pulses
+they're emitting?
+
+913
+00:39:57,062 --> 00:39:58,855
+They've reflected
+the energy of the phasers
+
+914
+00:39:58,855 --> 00:40:00,481
+right back to us.
+
+915
+00:40:00,481 --> 00:40:03,442
+Anything we fire is going to
+affect us instead of them.
+
+916
+00:40:03,442 --> 00:40:05,278
+What about a photon torpedo?
+
+917
+00:40:05,278 --> 00:40:07,155
+Since our shield strength
+is nonexistent,
+
+918
+00:40:07,155 --> 00:40:08,740
+I would not recommend it.
+
+919
+00:40:08,740 --> 00:40:11,201
+They're only 7,000 kilometers
+away and still coming.
+
+920
+00:40:11,201 --> 00:40:15,621
+Harry, start analyzing
+those interferometric pulses.
+
+921
+00:40:15,621 --> 00:40:17,623
+See if there's any pattern,
+any code to them.
+
+922
+00:40:17,623 --> 00:40:19,458
+We might be able to
+find a weakness.
+
+923
+00:40:19,458 --> 00:40:21,044
+I'm on it.
+
+924
+00:40:22,045 --> 00:40:23,338
+I'm increasingly dubious
+
+925
+00:40:23,338 --> 00:40:24,756
+as to the outcome
+of this effort.
+
+926
+00:40:24,756 --> 00:40:27,384
+The EMH pathways are
+seriously degraded.
+
+927
+00:40:27,384 --> 00:40:29,219
+They might not accept
+a matrix overlay.
+
+928
+00:40:29,219 --> 00:40:30,511
+We have to try.
+
+929
+00:40:32,597 --> 00:40:34,015
+Please hurry.
+
+930
+00:40:34,015 --> 00:40:35,808
+I assure you I am working
+as quickly as I can.
+
+931
+00:40:35,808 --> 00:40:37,560
+If I don't prepare
+
+932
+00:40:37,560 --> 00:40:40,021
+the multitronic paths properly,
+there's no chance of success.
+
+933
+00:40:40,021 --> 00:40:41,898
+It's going to work, Doctor.
+I'm sure of it.
+
+934
+00:40:42,857 --> 00:40:45,068
+What is?
+
+935
+00:40:45,068 --> 00:40:46,444
+(<i> sighs</i> )
+
+936
+00:40:46,444 --> 00:40:47,653
+Very well.
+
+937
+00:40:47,653 --> 00:40:49,530
+We're as ready
+as we'll ever be.
+
+938
+00:40:49,530 --> 00:40:52,784
+I've programmed the computer
+to install<i> my</i> heuristic matrix
+
+939
+00:40:52,784 --> 00:40:54,869
+onto the EMH primary circuitry.
+
+940
+00:40:54,869 --> 00:40:56,913
+We'll both have to
+be taken off-line
+
+941
+00:40:56,913 --> 00:40:58,415
+for the overlay
+to be made.
+
+942
+00:40:58,415 --> 00:41:00,708
+After the reinitialization
+occurs,
+
+943
+00:41:00,708 --> 00:41:03,711
+you should activate
+the Emergency Medical Hologram.
+
+944
+00:41:03,711 --> 00:41:05,630
+I understand.
+
+945
+00:41:05,630 --> 00:41:07,799
+You realize there will be
+no second chance.
+
+946
+00:41:07,799 --> 00:41:09,801
+After this,
+I will no longer exist.
+
+947
+00:41:11,803 --> 00:41:14,555
+Well, it's been
+a brief existence,
+
+948
+00:41:14,555 --> 00:41:17,100
+but apparently a noble one.
+
+949
+00:41:17,100 --> 00:41:18,393
+Computer,
+
+950
+00:41:18,393 --> 00:41:21,646
+initiate program
+Zimmerman Alpha-1.
+
+951
+00:41:23,940 --> 00:41:27,860
+COMPUTER:
+<i>Matrix overlay program</i>
+<i>is active.</i>
+
+952
+00:41:27,860 --> 00:41:29,321
+<i>Please stand by.</i>
+
+953
+00:41:31,948 --> 00:41:33,408
+Captain, they're
+right on top of us.
+
+954
+00:41:33,408 --> 00:41:34,784
+I can't shake them.
+
+955
+00:41:43,709 --> 00:41:45,670
+Captain, they are
+clamping onto our hull.
+
+956
+00:41:45,670 --> 00:41:47,546
+They're starting
+to drain our systems.
+
+957
+00:41:47,546 --> 00:41:50,216
+KIM:
+Captain, I've got a pattern
+on the interferometric pulses.
+
+958
+00:41:50,216 --> 00:41:53,136
+It's a lattice connecting
+all the ships to each other.
+
+959
+00:41:53,136 --> 00:41:55,805
+All right, here's what
+we're going to do--
+
+960
+00:41:55,805 --> 00:41:58,099
+turn those pulses
+right back on them.
+
+961
+00:41:58,099 --> 00:42:00,518
+Tuvok, lock phasers
+on their nearest ship.
+
+962
+00:42:00,518 --> 00:42:01,978
+If we can destroy one of them,
+
+963
+00:42:01,978 --> 00:42:03,980
+there's every chance
+the interferometric pulse
+
+964
+00:42:03,980 --> 00:42:06,107
+that links them together
+will cause a chain reaction.
+
+965
+00:42:06,107 --> 00:42:08,860
+But the phaser fire will be
+reflected back toward us.
+
+966
+00:42:08,860 --> 00:42:11,488
+Harry, modulate
+our shield frequency
+
+967
+00:42:11,488 --> 00:42:13,531
+to an inverse harmonic
+of the pulse.
+
+968
+00:42:13,531 --> 00:42:16,284
+That should allow the phasers
+to hit the ship.
+
+969
+00:42:18,286 --> 00:42:20,538
+(<i> yelling</i> )
+
+970
+00:42:23,375 --> 00:42:25,502
+Ship's phasers are
+locked on a target, Captain.
+
+971
+00:42:39,140 --> 00:42:41,184
+Tuvok, Harry, do it.
+
+972
+00:42:54,072 --> 00:42:57,033
+TUVOK:
+The swarm of ships
+has disbanded, Captain.
+
+973
+00:42:57,033 --> 00:42:58,951
+They are moving away.
+
+974
+00:42:58,951 --> 00:43:02,205
+KIM:
+Shields are back
+to full strength.
+
+975
+00:43:02,205 --> 00:43:05,708
+Good work, everyone.
+Now let's get out of here.
+
+976
+00:43:05,708 --> 00:43:07,544
+It seems to be taking forever.
+
+977
+00:43:07,544 --> 00:43:10,463
+That's to be expected.
+It's a complex procedure.
+
+978
+00:43:10,463 --> 00:43:12,424
+Dr. Zimmerman said
+he didn't know if our doctor
+
+979
+00:43:12,424 --> 00:43:14,259
+would be restored to
+his original programming
+
+980
+00:43:14,259 --> 00:43:16,469
+or if he'd regain the memories
+of the past two years.
+
+981
+00:43:16,469 --> 00:43:18,637
+I think, at this point,
+
+982
+00:43:18,637 --> 00:43:20,932
+we'd be glad
+to have him back no matter what.
+
+983
+00:43:20,932 --> 00:43:24,561
+COMPUTER:
+<i>Zimmerman program </i>
+<i>Alpha-1 is now complete.</i>
+
+984
+00:43:26,396 --> 00:43:29,732
+Computer, activate emergency
+medical holographic program.
+
+985
+00:43:29,732 --> 00:43:32,026
+Please state the nature
+of the medical emergency.
+
+986
+00:43:32,026 --> 00:43:34,112
+It worked.
+
+987
+00:43:34,112 --> 00:43:36,281
+Doctor, I am
+so glad to see you.
+
+988
+00:43:36,281 --> 00:43:38,616
+Are you ill, young woman?
+
+989
+00:43:38,616 --> 00:43:41,202
+No. N-No,
+there's no emergency.
+
+990
+00:43:41,202 --> 00:43:43,829
+I, uh... I just wanted to see
+if you were all right.
+
+991
+00:43:43,829 --> 00:43:45,206
+It is very irresponsible
+
+992
+00:43:45,206 --> 00:43:47,666
+to make such frivolous use
+of the EMH.
+
+993
+00:43:47,666 --> 00:43:49,461
+Where's your
+Chief Medical Officer?
+
+994
+00:43:49,461 --> 00:43:50,669
+We don't have one.
+
+995
+00:43:50,669 --> 00:43:53,172
+Actually, I have
+an awful headache.
+
+996
+00:43:53,172 --> 00:43:55,550
+A headache?
+
+997
+00:43:55,550 --> 00:43:57,510
+Nurse, tricorder.
+
+998
+00:44:00,805 --> 00:44:02,265
+<i>You're</i> the nurse?
+
+999
+00:44:02,265 --> 00:44:04,559
+In a way.
+
+1000
+00:44:08,854 --> 00:44:11,149
+Humph. This woman has
+a mild inflammation
+
+1001
+00:44:11,149 --> 00:44:12,358
+of the occipital tissues.
+
+1002
+00:44:12,358 --> 00:44:13,859
+Hardly enough
+to complain about,
+
+1003
+00:44:13,859 --> 00:44:16,154
+but I'm willing to give you
+a mild analgesic.
+
+1004
+00:44:16,154 --> 00:44:18,072
+Thank you.
+
+1005
+00:44:18,072 --> 00:44:20,575
+Get me the vasoconstrictor
+and prepare a hypospray
+
+1006
+00:44:20,575 --> 00:44:22,076
+with three percent
+hydrocortilene.
+
+1007
+00:44:22,076 --> 00:44:23,453
+Yes, Doctor.
+
+1008
+00:44:30,668 --> 00:44:33,296
+(<i> Doctor humming</i>
+<i>"O soave fanciulla"</i> )
+
+1009
+00:44:39,177 --> 00:44:41,554
+(<i> humming continues</i> )
+
+1010
+00:44:47,101 --> 00:44:52,357
+♪<i> In te, vivo ravviso</i> ♪
+
+1011
+00:44:53,608 --> 00:44:57,612
+♪<i> Il sogno ch'io vorrei ♪</i>
+
+1012
+00:44:57,612 --> 00:45:03,535
+♪<i> Sempre sognar...</i> ♪

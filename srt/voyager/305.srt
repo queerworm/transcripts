@@ -1,0 +1,4143 @@
+1
+00:00:02,210 --> 00:00:06,548
+JANEWAY:
+<i>Captain's Log,</i>
+<i>stardate 50074.3.</i>
+
+2
+00:00:06,548 --> 00:00:08,091
+<i>We have detected evidence</i>
+
+3
+00:00:08,091 --> 00:00:09,802
+<i>that a wormhole</i>
+<i>recently appeared</i>
+
+4
+00:00:09,802 --> 00:00:12,680
+<i>and then disappeared</i>
+<i>in a nearby solar system.</i>
+
+5
+00:00:12,680 --> 00:00:15,307
+<i>We're on our way there</i>
+<i>to investigate.</i>
+
+6
+00:00:15,307 --> 00:00:17,184
+Based on the residual
+neutrino levels,
+
+7
+00:00:17,184 --> 00:00:18,811
+I'd estimate it's been
+at least six months
+
+8
+00:00:18,811 --> 00:00:20,896
+since the wormhole's
+last appearance.
+
+9
+00:00:20,896 --> 00:00:23,190
+From the dispersal pattern
+of the interstellar plasma,
+
+10
+00:00:23,190 --> 00:00:25,108
+it looks like
+it isn't fixed.
+
+11
+00:00:25,108 --> 00:00:26,777
+It seems to be traveling
+through space.
+
+12
+00:00:26,777 --> 00:00:28,570
+It may not be fixed
+on this end,
+
+13
+00:00:28,570 --> 00:00:31,406
+but if it's shown up in the
+same location more than once,
+
+14
+00:00:31,406 --> 00:00:33,868
+it's possible its exit point
+is constant
+
+15
+00:00:33,868 --> 00:00:35,619
+and it's wagging
+around the Delta Quadrant
+
+16
+00:00:35,619 --> 00:00:36,537
+like the tail on a dog.
+
+17
+00:00:36,537 --> 00:00:38,163
+PARIS:
+Approaching
+
+18
+00:00:38,163 --> 00:00:40,290
+the last-known coordinates
+of the wormhole, Captain.
+
+19
+00:00:40,290 --> 00:00:43,669
+All stop. Mr. Kim, initiate
+continuous neutrino scans.
+
+20
+00:00:43,669 --> 00:00:44,753
+Aye, Captain.
+
+21
+00:00:44,753 --> 00:00:46,171
+Mr. Tuvok,
+scan the planets
+
+22
+00:00:46,171 --> 00:00:47,631
+in this system
+for life signs.
+
+23
+00:00:47,631 --> 00:00:49,090
+Maybe there's
+someone around here
+
+24
+00:00:49,090 --> 00:00:50,759
+who can give us
+some helpful information.
+
+25
+00:00:50,759 --> 00:00:52,887
+TUVOK:
+I am picking up
+an M-Class atmosphere
+
+26
+00:00:52,887 --> 00:00:54,013
+on the second planet.
+
+27
+00:00:54,013 --> 00:00:55,848
+Humanoid life signs.
+
+28
+00:00:55,848 --> 00:00:57,265
+However, metallurgic
+
+29
+00:00:57,265 --> 00:00:59,643
+analysis indicates
+a preindustrial civilization.
+
+30
+00:00:59,643 --> 00:01:02,229
+A Bronze-Age level
+of technology.
+
+31
+00:01:02,229 --> 00:01:04,064
+Curious, Captain.
+
+32
+00:01:04,064 --> 00:01:05,941
+What is?
+
+33
+00:01:05,941 --> 00:01:07,651
+I'm detecting evidence
+that these people
+
+34
+00:01:07,651 --> 00:01:10,111
+have had contact
+with the Alpha Quadrant.
+
+35
+00:01:10,111 --> 00:01:11,989
+What kind of evidence?
+
+36
+00:01:11,989 --> 00:01:13,532
+It is a modulated
+energy discharge
+
+37
+00:01:13,532 --> 00:01:16,952
+that appears to be consistent
+with the recent use...
+
+38
+00:01:16,952 --> 00:01:18,787
+of a replicator.
+
+39
+00:03:15,362 --> 00:03:16,822
+If they've got
+a replicator,
+
+40
+00:03:16,822 --> 00:03:18,824
+it could mean
+the wormhole leads
+
+41
+00:03:18,824 --> 00:03:20,159
+to the Alpha Quadrant
+
+42
+00:03:20,159 --> 00:03:21,743
+and that someone's
+traveled through it.
+
+43
+00:03:21,743 --> 00:03:23,745
+I appreciate
+your enthusiasm, Ensign,
+
+44
+00:03:23,745 --> 00:03:25,539
+but before we indulge
+in too much speculation,
+
+45
+00:03:25,539 --> 00:03:26,707
+let's see if
+we can back up
+
+46
+00:03:26,707 --> 00:03:28,542
+your assumptions
+with some facts.
+
+47
+00:03:28,542 --> 00:03:30,794
+Commander Chakotay,
+I want you and Lieutenant Paris
+
+48
+00:03:30,794 --> 00:03:32,629
+to go down to that planet
+and have a look around.
+
+49
+00:03:32,629 --> 00:03:34,589
+Launch a high-resolution
+reconnaissance probe
+
+50
+00:03:34,589 --> 00:03:36,133
+to gather information
+
+51
+00:03:36,133 --> 00:03:38,301
+about the local population's
+dress and appearance.
+
+52
+00:03:38,301 --> 00:03:39,511
+Aye, Captain.
+
+53
+00:03:39,511 --> 00:03:41,138
+In the meantime, Ensign,
+why don't you
+
+54
+00:03:41,138 --> 00:03:43,223
+and Lieutenant Torres
+get started on a phase profile
+
+55
+00:03:43,223 --> 00:03:46,309
+of this elusive wormhole's
+neutrino emissions.
+
+56
+00:03:46,309 --> 00:03:52,149
+Let's see if we can confirm that
+it leads to the Alpha Quadrant.
+
+57
+00:03:52,149 --> 00:03:56,737
+<i>Captain's Log,</i>
+<i>stardate 50074.5.</i>
+
+58
+00:03:56,737 --> 00:03:59,489
+<i>Based on information provided</i>
+<i>by the probe,</i>
+
+59
+00:03:59,489 --> 00:04:01,533
+<i>we have replicated local attire</i>
+
+60
+00:04:01,533 --> 00:04:03,994
+<i>for Commander Chakotay</i>
+<i>and Lieutenant Paris.</i>
+
+61
+00:04:03,994 --> 00:04:06,413
+<i>They have gone to the surface</i>
+<i>to investigate.</i>
+
+62
+00:04:26,183 --> 00:04:29,310
+This is where we picked up
+a replicator signature?
+
+63
+00:04:29,310 --> 00:04:30,854
+Hard to believe,
+isn't it?
+
+64
+00:04:32,480 --> 00:04:34,858
+"Oh, those many years ago,
+
+65
+00:04:34,858 --> 00:04:38,653
+"the people's hearts
+were sad and low,
+
+66
+00:04:38,653 --> 00:04:41,740
+"then the Sages
+to the city came.
+
+67
+00:04:41,740 --> 00:04:45,660
+"They came upon a burning flame.
+
+68
+00:04:45,660 --> 00:04:48,329
+"Just as the seer
+said they would,
+
+69
+00:04:48,329 --> 00:04:49,581
+"they lifted
+
+70
+00:04:49,581 --> 00:04:52,751
+Takar's blinding hood."
+
+71
+00:04:54,753 --> 00:04:55,921
+Well...
+
+72
+00:04:58,966 --> 00:05:01,051
+what did you think?
+
+73
+00:05:01,051 --> 00:05:02,510
+It was...
+
+74
+00:05:02,510 --> 00:05:04,263
+uh, very nice.
+
+75
+00:05:04,263 --> 00:05:05,889
+Nice?
+
+76
+00:05:05,889 --> 00:05:08,725
+I'll wager you've never heard
+"The Song of the Sages"
+
+77
+00:05:08,725 --> 00:05:13,230
+more beautifully
+or faithfully recited.
+
+78
+00:05:14,439 --> 00:05:16,441
+He's got a point.
+
+79
+00:05:16,441 --> 00:05:19,278
+We have never heard
+"The Song of the Sages"
+
+80
+00:05:19,278 --> 00:05:21,113
+more beautifully recited.
+
+81
+00:05:21,113 --> 00:05:24,324
+As you know,
+the first verse is free,
+
+82
+00:05:24,324 --> 00:05:26,952
+but the next verse will
+cost you three frangs.
+
+83
+00:05:26,952 --> 00:05:28,453
+I'm sorry. Not today.
+
+84
+00:05:28,453 --> 00:05:30,664
+But I need money...
+
+85
+00:05:30,664 --> 00:05:32,624
+for ointment for my eye.
+
+86
+00:05:32,624 --> 00:05:34,084
+Please, gentlemen...
+
+87
+00:05:34,084 --> 00:05:35,294
+Oh, go away, old man.
+
+88
+00:05:35,294 --> 00:05:36,335
+Can't you see?
+
+89
+00:05:36,335 --> 00:05:38,172
+These are men of commerce.
+
+90
+00:05:38,172 --> 00:05:41,633
+They have no business
+with your silly poems.
+
+91
+00:05:41,633 --> 00:05:45,971
+And may I say, gentlemen,
+you both have very fine shoes.
+
+92
+00:05:46,554 --> 00:05:47,931
+Excuse me?
+
+93
+00:05:47,931 --> 00:05:50,391
+Well, the Sages say
+you can tell a great deal
+
+94
+00:05:50,391 --> 00:05:52,102
+about a man from his shoes,
+
+95
+00:05:52,102 --> 00:05:55,522
+and I can tell from your shoes
+that you're men of refinement...
+
+96
+00:05:55,522 --> 00:05:57,691
+affluence.
+
+97
+00:05:57,691 --> 00:05:59,526
+We've really
+got to be going.
+
+98
+00:05:59,526 --> 00:06:01,320
+MALE:
+Well, you're obviously
+new in Takar.
+
+99
+00:06:01,320 --> 00:06:02,361
+Perhaps I could
+
+100
+00:06:02,361 --> 00:06:03,738
+interest you in some property.
+
+101
+00:06:03,738 --> 00:06:04,990
+No, thank you.
+
+102
+00:06:04,990 --> 00:06:06,992
+We're not planning
+on settling here.
+
+103
+00:06:06,992 --> 00:06:08,409
+What about some transportation?
+
+104
+00:06:08,409 --> 00:06:10,204
+The Sages say "time's an asset."
+
+105
+00:06:10,204 --> 00:06:13,498
+And you shouldn't
+waste your assets
+
+106
+00:06:13,498 --> 00:06:15,292
+walking everywhere you go.
+
+107
+00:06:15,292 --> 00:06:17,836
+You'd be wearing out
+those fine shoes of yours.
+
+108
+00:06:17,836 --> 00:06:19,254
+(<i> chuckles</i> )
+
+109
+00:06:19,254 --> 00:06:22,257
+I'm sorry, but we're
+really not interested.
+
+110
+00:06:22,257 --> 00:06:23,258
+Tom?
+
+111
+00:06:23,258 --> 00:06:25,010
+Excuse me.
+
+112
+00:06:27,595 --> 00:06:31,141
+I'm picking up a narrow-band
+EM dampening field
+
+113
+00:06:31,141 --> 00:06:32,267
+around that building.
+
+114
+00:06:32,267 --> 00:06:33,768
+It looks like
+some sort of temple.
+
+115
+00:06:33,768 --> 00:06:35,770
+Then I'd say the temple's
+where we ought to look.
+
+116
+00:06:35,770 --> 00:06:38,523
+Oh, thank the Sages
+I found you.
+
+117
+00:06:38,523 --> 00:06:41,360
+You can't enter the temple
+without wearing your ears.
+
+118
+00:06:41,360 --> 00:06:42,986
+Look, friend, I
+thought I told you...
+
+119
+00:06:42,986 --> 00:06:45,364
+What do you mean
+"wearing your ears?"
+
+120
+00:06:45,364 --> 00:06:47,074
+(<i> chuckles</i> )
+
+121
+00:06:47,074 --> 00:06:49,784
+You're really not Takarian,
+are you?
+
+122
+00:06:49,784 --> 00:06:50,994
+Nobody visits the temple
+
+123
+00:06:50,994 --> 00:06:53,914
+without displaying
+at least one ear.
+
+124
+00:07:00,795 --> 00:07:02,463
+It must be some
+sort of fetish.
+
+125
+00:07:02,463 --> 00:07:04,632
+If you're not wearing an ear,
+you could be fined,
+
+126
+00:07:04,632 --> 00:07:06,260
+even arrested.
+
+127
+00:07:06,260 --> 00:07:08,011
+Wouldn't want that to happen.
+
+128
+00:07:08,011 --> 00:07:09,304
+And let me guess.
+
+129
+00:07:09,304 --> 00:07:10,764
+It just so happens
+
+130
+00:07:10,764 --> 00:07:13,058
+that you could sell us
+a couple of these ears.
+
+131
+00:07:13,058 --> 00:07:15,185
+As a matter of fact...
+
+132
+00:07:15,185 --> 00:07:16,686
+I can.
+
+133
+00:07:30,825 --> 00:07:32,702
+<i>Captain's Log, supplemental.</i>
+
+134
+00:07:32,702 --> 00:07:35,038
+<i>I've been asked</i>
+<i>to join Lieutenant Torres</i>
+
+135
+00:07:35,038 --> 00:07:36,915
+<i>and Ensign Kim</i>
+<i>in the Science Lab</i>
+
+136
+00:07:36,915 --> 00:07:39,960
+<i>to hear what they've termed</i>
+<i>as "very exciting news."</i>
+
+137
+00:07:39,960 --> 00:07:41,502
+KIM:
+We've been able to confirm
+
+138
+00:07:41,502 --> 00:07:43,463
+that the wormhole does lead
+to the Alpha Quadrant.
+
+139
+00:07:43,463 --> 00:07:46,007
+The problem is
+that on this end,
+
+140
+00:07:46,007 --> 00:07:47,717
+it's jumping from point
+to point so quickly
+
+141
+00:07:47,717 --> 00:07:49,261
+that even at maximum warp,
+
+142
+00:07:49,261 --> 00:07:51,554
+by the time we got to
+its next probable location,
+
+143
+00:07:51,554 --> 00:07:52,639
+it would be gone.
+
+144
+00:07:52,639 --> 00:07:54,224
+So we were thinking
+
+145
+00:07:54,224 --> 00:07:56,101
+if you can't bring
+the ship to the wormhole,
+
+146
+00:07:56,101 --> 00:07:58,353
+bring the wormhole
+to the ship.
+
+147
+00:07:58,353 --> 00:08:01,856
+We've detected a subspace
+instability at our location
+
+148
+00:08:01,856 --> 00:08:03,942
+that's a result of the
+wormhole's last appearance here.
+
+149
+00:08:03,942 --> 00:08:07,487
+If we could somehow amplify
+and polarize that instability,
+
+150
+00:08:07,487 --> 00:08:10,407
+we might be able to get
+the wormhole to reappear.
+
+151
+00:08:10,407 --> 00:08:13,952
+Sort of like using a magnet
+to move a compass needle.
+
+152
+00:08:13,952 --> 00:08:15,162
+The question is:
+
+153
+00:08:15,162 --> 00:08:17,747
+how do we polarize
+the instability?
+
+154
+00:08:17,747 --> 00:08:20,459
+Uh, we haven't figured
+that part out yet.
+
+155
+00:08:24,254 --> 00:08:27,924
+Gentlemen, as the Sages say,
+your goods are now my goods.
+
+156
+00:08:27,924 --> 00:08:28,967
+And my feet
+
+157
+00:08:28,967 --> 00:08:29,968
+are now cold.
+
+158
+00:08:29,968 --> 00:08:31,386
+Perhaps I could
+
+159
+00:08:31,386 --> 00:08:34,514
+interest you in some
+discounted mining futures.
+
+160
+00:08:34,514 --> 00:08:35,974
+Don't push your luck.
+
+161
+00:08:35,974 --> 00:08:37,558
+You know, so far,
+
+162
+00:08:37,558 --> 00:08:39,519
+I can't say that I like
+this town very much.
+
+163
+00:08:39,519 --> 00:08:41,146
+(<i> loud clang</i> )
+
+164
+00:08:56,495 --> 00:08:58,246
+On the other hand...
+
+165
+00:09:06,587 --> 00:09:08,715
+My friends...
+
+166
+00:09:08,715 --> 00:09:10,175
+the Holy Sages.
+
+167
+00:09:27,442 --> 00:09:28,609
+Behold...
+
+168
+00:09:28,609 --> 00:09:30,237
+the Holy Icon.
+
+169
+00:09:33,740 --> 00:09:35,283
+(<i> crowd gasping</i> )
+
+170
+00:09:38,703 --> 00:09:40,830
+Greed is eternal.
+
+171
+00:09:40,830 --> 00:09:42,999
+ALL:
+Greed is eternal.
+
+172
+00:09:42,999 --> 00:09:45,752
+Greed is eternal.
+
+173
+00:09:45,752 --> 00:09:49,089
+Greed is eternal.
+
+174
+00:09:51,425 --> 00:09:54,969
+MALE:
+Now what other wisdom
+have you learned from the Sages?
+
+175
+00:09:54,969 --> 00:09:57,722
+"A wise man can hear
+profit in the wind."
+
+176
+00:09:57,722 --> 00:10:01,309
+ALL:
+A wise man
+can hear profit in the wind.
+
+177
+00:10:01,309 --> 00:10:02,685
+Chakotay to<i> Voyager.</i>
+
+178
+00:10:02,685 --> 00:10:04,145
+<i>Janeway here.</i>
+
+179
+00:10:04,145 --> 00:10:07,232
+We found the replicator,
+Captain.
+
+180
+00:10:07,232 --> 00:10:10,569
+ALL:
+A wise man can hear profit
+in the wind.
+
+181
+00:10:15,031 --> 00:10:17,992
+MALE:
+And now, dear friends,
+in our great beneficence,
+
+182
+00:10:17,992 --> 00:10:20,287
+we will allow you
+to come forward
+
+183
+00:10:20,287 --> 00:10:24,332
+to honor our greatness
+and glorify our generosity.
+
+184
+00:10:24,332 --> 00:10:27,252
+Approach the Holy Sages.
+
+185
+00:10:30,630 --> 00:10:33,758
+Approach your gods
+and speak your heart.
+
+186
+00:10:37,387 --> 00:10:39,222
+Ehh!
+
+187
+00:10:44,227 --> 00:10:45,770
+I am a sandal maker
+
+188
+00:10:45,770 --> 00:10:47,272
+from the poorest
+quarter of the city.
+
+189
+00:10:47,272 --> 00:10:48,731
+The laziest, you mean.
+
+190
+00:10:48,731 --> 00:10:51,025
+Speak, my friend.
+
+191
+00:10:51,025 --> 00:10:53,069
+What is your business
+with the Sages?
+
+192
+00:10:53,069 --> 00:10:55,029
+I am in need of assistance.
+
+193
+00:10:55,029 --> 00:10:56,990
+My sandal shop is failing.
+
+194
+00:10:56,990 --> 00:10:58,741
+I can no longer feed my family.
+
+195
+00:10:58,741 --> 00:11:00,285
+Same old song.
+
+196
+00:11:00,285 --> 00:11:01,953
+My wife,
+and her mother,
+
+197
+00:11:01,953 --> 00:11:05,373
+my five children, the baby.
+
+198
+00:11:05,373 --> 00:11:08,918
+That's seven employees--
+eight, if you count the infant.
+
+199
+00:11:08,918 --> 00:11:11,171
+How can your shop be failing?
+
+200
+00:11:11,171 --> 00:11:13,714
+You're not paying them, are you?
+
+201
+00:11:13,714 --> 00:11:15,509
+My mother-in-law is ill.
+
+202
+00:11:15,509 --> 00:11:17,636
+My children are very young.
+
+203
+00:11:17,636 --> 00:11:20,888
+Oh. Don't tell me
+none of them are working.
+
+204
+00:11:20,888 --> 00:11:23,350
+Ignorant, lobeless fools!
+
+205
+00:11:24,851 --> 00:11:28,938
+Exploitation begins at home.
+
+206
+00:11:28,938 --> 00:11:32,233
+ALL:
+Exploitation begins at home.
+
+207
+00:11:33,568 --> 00:11:37,822
+Exploitation begins at home.
+
+208
+00:11:37,822 --> 00:11:40,450
+Exploitation begins at home.
+
+209
+00:11:46,873 --> 00:11:48,707
+I understand my mistake
+
+210
+00:11:48,707 --> 00:11:50,751
+and I promise
+to begin exploiting my family
+
+211
+00:11:50,751 --> 00:11:52,420
+before the end of the day,
+
+212
+00:11:52,420 --> 00:11:56,675
+but could I have some food
+and some medicine?
+
+213
+00:11:56,675 --> 00:11:58,092
+Ohh!
+
+214
+00:11:58,092 --> 00:12:00,011
+Until my business improves.
+
+215
+00:12:00,011 --> 00:12:03,682
+You shall have something
+far more valuable--
+
+216
+00:12:03,682 --> 00:12:06,725
+one copy
+of The Rules of Acquisition.
+
+217
+00:12:06,725 --> 00:12:08,603
+Cheapest binding possible.
+
+218
+00:12:21,949 --> 00:12:24,285
+That'll be ten frangs.
+
+219
+00:12:24,285 --> 00:12:26,037
+But I...
+
+220
+00:12:33,920 --> 00:12:37,006
+That's all for today.
+You may return tomorrow.
+
+221
+00:12:39,926 --> 00:12:42,303
+<i>Captain's Log, supplemental.</i>
+
+222
+00:12:42,303 --> 00:12:43,722
+<i>The away team has returned</i>
+
+223
+00:12:43,722 --> 00:12:45,599
+<i>with some</i>
+<i>very disturbing observations</i>
+
+224
+00:12:45,599 --> 00:12:47,975
+<i>about the situation</i>
+<i>on the planet.</i>
+
+225
+00:12:47,975 --> 00:12:49,768
+CHAKOTAY:
+It seems the people
+have a myth--
+
+226
+00:12:49,768 --> 00:12:52,731
+an epic poem called
+"The Song of the Sages,"
+
+227
+00:12:52,731 --> 00:12:54,399
+which predicts the arrival
+
+228
+00:12:54,399 --> 00:12:56,901
+of two demigods
+from the sky, the Sages,
+
+229
+00:12:56,901 --> 00:12:59,904
+who would rule over the people
+as benevolent protectors.
+
+230
+00:12:59,904 --> 00:13:02,490
+But these Ferengi are
+anything but benevolent.
+
+231
+00:13:02,490 --> 00:13:04,451
+What they've done is co-opt
+the local mythology
+
+232
+00:13:04,451 --> 00:13:07,161
+by using advanced technology
+like the replicator
+
+233
+00:13:07,161 --> 00:13:08,663
+to convince the people
+
+234
+00:13:08,663 --> 00:13:10,540
+that they're the two Sages
+spoken of in the poem.
+
+235
+00:13:10,540 --> 00:13:12,250
+Of course,
+being Ferengi,
+
+236
+00:13:12,250 --> 00:13:14,127
+they haven't just
+co-opted the mythology.
+
+237
+00:13:14,127 --> 00:13:16,963
+They've cornered
+the market... on everything.
+
+238
+00:13:16,963 --> 00:13:18,548
+It's disgusting, Captain.
+
+239
+00:13:18,548 --> 00:13:20,799
+The two Ferengi live
+in a palatial temple,
+
+240
+00:13:20,799 --> 00:13:23,303
+while the people are lucky to
+have a roof over their heads.
+
+241
+00:13:23,303 --> 00:13:24,262
+Apparently, it wasn't
+
+242
+00:13:24,262 --> 00:13:25,513
+always like that.
+
+243
+00:13:25,513 --> 00:13:27,181
+According to the
+people that we met,
+
+244
+00:13:27,181 --> 00:13:28,807
+before the
+Ferengi came,
+
+245
+00:13:28,807 --> 00:13:30,518
+the society may have
+been primitive,
+
+246
+00:13:30,518 --> 00:13:31,810
+but it was flourishing.
+
+247
+00:13:31,810 --> 00:13:33,313
+What I'd like to know
+
+248
+00:13:33,313 --> 00:13:36,232
+is how two Ferengi got
+to the Delta Quadrant.
+
+249
+00:13:36,232 --> 00:13:38,109
+We've been looking
+into that. Mr. Tuvok.
+
+250
+00:13:38,109 --> 00:13:40,570
+According to Starfleet
+computer records,
+
+251
+00:13:40,570 --> 00:13:42,113
+approximately seven years ago,
+
+252
+00:13:42,113 --> 00:13:45,074
+the Federation Starship
+<i>Enterprise</i> hosted negotiations
+
+253
+00:13:45,074 --> 00:13:47,410
+for ownership
+of the Barzan wormhole.
+
+254
+00:13:47,410 --> 00:13:50,079
+Included among the bidding
+parties were two Ferengi--
+
+255
+00:13:50,079 --> 00:13:53,040
+minor functionaries
+known as Arridor and Kol.
+
+256
+00:13:53,040 --> 00:13:55,251
+And this Barzan wormhole--
+
+257
+00:13:55,251 --> 00:13:57,671
+it's the same one
+we've discovered now?
+
+258
+00:13:57,671 --> 00:13:59,380
+Apparently,
+but we've confirmed
+
+259
+00:13:59,380 --> 00:14:01,174
+what nobody knew
+at the time.
+
+260
+00:14:01,174 --> 00:14:04,135
+The wormhole is fixed
+in the Alpha Quadrant,
+
+261
+00:14:04,135 --> 00:14:05,844
+but in the Delta Quadrant,
+it jumps around.
+
+262
+00:14:05,844 --> 00:14:07,846
+It turned out
+to be worthless.
+
+263
+00:14:07,846 --> 00:14:09,932
+But the Ferengi
+were not aware of that,
+
+264
+00:14:09,932 --> 00:14:11,267
+and during a nefarious attempt
+
+265
+00:14:11,267 --> 00:14:13,311
+to secure
+the wormhole for themselves,
+
+266
+00:14:13,311 --> 00:14:16,314
+they were pulled into it and
+deposited in the Delta Quadrant.
+
+267
+00:14:16,314 --> 00:14:18,775
+Now that we've found them, what
+are we going to do with them?
+
+268
+00:14:18,775 --> 00:14:20,694
+Well, I certainly don't intend
+to leave them here
+
+269
+00:14:20,694 --> 00:14:23,029
+to continue exploiting
+an innocent society.
+
+270
+00:14:23,029 --> 00:14:24,531
+How are you two
+coming with getting
+
+271
+00:14:24,531 --> 00:14:26,658
+the wormhole back here
+and reopened?
+
+272
+00:14:26,658 --> 00:14:29,410
+We've been bombarding the area
+of the subspace instability
+
+273
+00:14:29,410 --> 00:14:30,787
+with verteron particles.
+
+274
+00:14:30,787 --> 00:14:33,080
+So far, everything is going
+according to plan,
+
+275
+00:14:33,080 --> 00:14:34,541
+but it's tricky.
+
+276
+00:14:34,541 --> 00:14:36,042
+There are a hundred factors
+
+277
+00:14:36,042 --> 00:14:37,627
+that could deflect
+it from this sector--
+
+278
+00:14:37,627 --> 00:14:39,128
+a gravimetric shift,
+a solar flare...
+
+279
+00:14:39,128 --> 00:14:40,839
+And even if we're lucky
+enough to get it here,
+
+280
+00:14:40,839 --> 00:14:42,382
+it won't be around
+for long.
+
+281
+00:14:42,382 --> 00:14:44,258
+We'll have a very short
+window of opportunity
+
+282
+00:14:44,258 --> 00:14:45,593
+to get through.
+
+283
+00:14:45,593 --> 00:14:47,679
+Well, if we can get
+the wormhole here,
+
+284
+00:14:47,679 --> 00:14:50,682
+we'll be taking two additional
+passengers with us.
+
+285
+00:14:50,682 --> 00:14:53,100
+We'll turn them over to Ferengi
+authorities when we get there.
+
+286
+00:14:53,100 --> 00:14:55,186
+TUVOK:
+Captain,
+I must remind you
+
+287
+00:14:55,186 --> 00:14:57,355
+that the Ferengi are not
+members of the Federation.
+
+288
+00:14:57,355 --> 00:14:59,899
+They are not bound
+by the Prime Directive,
+
+289
+00:14:59,899 --> 00:15:01,776
+nor would it seem
+that the Prime Directive
+
+290
+00:15:01,776 --> 00:15:03,110
+would allow us to interfere
+
+291
+00:15:03,110 --> 00:15:05,405
+with the internal affairs
+of this society,
+
+292
+00:15:05,405 --> 00:15:08,324
+as much as we may disapprove
+of what the Ferengi are doing.
+
+293
+00:15:11,077 --> 00:15:13,705
+The Federation did host
+the negotiations,
+
+294
+00:15:13,705 --> 00:15:16,332
+and if it weren't
+for those negotiations,
+
+295
+00:15:16,332 --> 00:15:19,043
+the Ferengi wouldn't be here.
+
+296
+00:15:19,043 --> 00:15:21,421
+So one could say...
+
+297
+00:15:21,421 --> 00:15:24,257
+without being unreasonable,
+I think,
+
+298
+00:15:24,257 --> 00:15:28,261
+that the Federation is partially
+responsible for what's happened
+
+299
+00:15:28,261 --> 00:15:32,223
+and therefore, duty bound
+to correct the situation.
+
+300
+00:15:34,851 --> 00:15:38,772
+That is a most logical
+interpretation, Captain.
+
+301
+00:15:38,772 --> 00:15:41,649
+FERENGI:
+143...
+
+302
+00:15:41,649 --> 00:15:43,651
+144...
+
+303
+00:15:43,651 --> 00:15:46,237
+145...
+
+304
+00:15:46,237 --> 00:15:48,489
+146...
+
+305
+00:15:48,489 --> 00:15:52,034
+147, 148...
+
+306
+00:15:56,456 --> 00:16:00,000
+Profits from the Ga'nah Province
+are down.
+
+307
+00:16:00,000 --> 00:16:01,502
+Hmm?
+
+308
+00:16:01,502 --> 00:16:03,504
+Are you listening to me?
+
+309
+00:16:03,504 --> 00:16:07,508
+I said profits from the Ga'nah
+Province are down.
+
+310
+00:16:07,508 --> 00:16:08,551
+Down?!
+
+311
+00:16:08,551 --> 00:16:10,595
+Profits are down?
+
+312
+00:16:10,595 --> 00:16:12,513
+Hey, both of you
+leave me alone.
+
+313
+00:16:12,513 --> 00:16:16,559
+Can't you see I'm trying
+to conduct business here?
+
+314
+00:16:16,559 --> 00:16:18,269
+I'm... sorry...
+
+315
+00:16:19,145 --> 00:16:21,355
+Arridor.
+It's just that...
+
+316
+00:16:21,355 --> 00:16:23,817
+they can't get enough
+of my lobes.
+
+317
+00:16:23,817 --> 00:16:25,401
+Where were we?
+
+318
+00:16:25,401 --> 00:16:27,946
+Oh, yeah.
+Profits are down?
+
+319
+00:16:27,946 --> 00:16:31,198
+And what are we going to do
+about it?
+
+320
+00:16:31,198 --> 00:16:32,575
+What are you looking at me for?
+
+321
+00:16:32,575 --> 00:16:34,243
+Ask that idiot Kafar.
+
+322
+00:16:34,243 --> 00:16:37,705
+He's in charge of collections
+in the Ga'nah Province.
+
+323
+00:16:37,705 --> 00:16:38,998
+Kafar!
+
+324
+00:16:40,583 --> 00:16:42,752
+You called, Great Sage?
+
+325
+00:16:42,752 --> 00:16:45,797
+What is the 95th Rule
+of Acquisition?
+
+326
+00:16:45,797 --> 00:16:47,131
+Huh!
+
+327
+00:16:47,131 --> 00:16:49,717
+"Expand or die"?
+
+328
+00:16:49,717 --> 00:16:52,345
+He knows the rules
+better than you do.
+
+329
+00:16:52,345 --> 00:16:53,638
+He does not.
+
+330
+00:16:53,638 --> 00:16:54,931
+And where is it
+
+331
+00:16:54,931 --> 00:16:57,851
+we've been trying
+to expand... this month?
+
+332
+00:16:57,851 --> 00:17:00,311
+Into the Ga'nah
+Province, Great Sage.
+
+333
+00:17:00,311 --> 00:17:03,439
+And who is in charge
+of collections
+
+334
+00:17:03,439 --> 00:17:04,941
+in the Ga'nah Province?
+
+335
+00:17:04,941 --> 00:17:06,484
+I am, Great Sage.
+
+336
+00:17:06,484 --> 00:17:08,945
+Then why are profits down,
+you idiot?!
+
+337
+00:17:08,945 --> 00:17:10,404
+Where's our money?!
+
+338
+00:17:10,404 --> 00:17:12,114
+Please forgive me,
+Lesser Sage.
+
+339
+00:17:12,114 --> 00:17:15,409
+Oh, I told you to stop
+calling me...
+
+340
+00:17:43,980 --> 00:17:45,690
+Who are you?
+
+341
+00:17:45,690 --> 00:17:47,066
+Captain Kathryn Janeway
+
+342
+00:17:47,066 --> 00:17:49,527
+of the Federation
+starship<i> Voyager.</i>
+
+343
+00:17:49,527 --> 00:17:51,195
+The Federation?
+
+344
+00:17:51,195 --> 00:17:53,113
+♪Shut up, Kol.
+Let me handle this.
+
+345
+00:17:58,160 --> 00:18:00,120
+What, may I ask
+
+346
+00:18:00,120 --> 00:18:03,249
+is the Federation doing
+in the Delta Quadrant?
+
+347
+00:18:03,249 --> 00:18:05,251
+It's a long story,
+but suffice it to say,
+
+348
+00:18:05,251 --> 00:18:07,962
+we've been stranded here
+for the past two years.
+
+349
+00:18:07,962 --> 00:18:10,840
+We're on our way back
+to the Alpha Quadrant
+
+350
+00:18:10,840 --> 00:18:12,759
+and we're taking
+you with us.
+
+351
+00:18:12,759 --> 00:18:14,010
+This is an outrage.
+
+352
+00:18:14,010 --> 00:18:16,429
+We won't allow you
+to tr...
+
+353
+00:18:16,429 --> 00:18:18,264
+You're crazy.
+
+354
+00:18:18,264 --> 00:18:20,516
+It would take decades
+to get back from here.
+
+355
+00:18:20,516 --> 00:18:22,685
+Show them,
+Mr. Tuvok.
+
+356
+00:18:24,645 --> 00:18:26,230
+We have been bombarding
+
+357
+00:18:26,230 --> 00:18:28,900
+a local subspace instability
+with verteron particles.
+
+358
+00:18:28,900 --> 00:18:30,693
+If all goes
+according to plan,
+
+359
+00:18:30,693 --> 00:18:32,152
+the Barzan wormhole
+
+360
+00:18:32,152 --> 00:18:34,238
+should reopen
+at our present location
+
+361
+00:18:34,238 --> 00:18:35,656
+in a matter
+of hours.
+
+362
+00:18:35,656 --> 00:18:37,867
+And if all doesn't go
+according to plan?
+
+363
+00:18:37,867 --> 00:18:41,454
+One way or another,
+you're coming with us.
+
+364
+00:18:41,454 --> 00:18:43,497
+We've been kidnapped.
+
+365
+00:18:43,497 --> 00:18:45,291
+Snatched...
+
+366
+00:18:45,291 --> 00:18:48,294
+from the embrace of bliss.
+
+367
+00:18:48,294 --> 00:18:50,046
+It's all over.
+
+368
+00:18:50,046 --> 00:18:53,173
+No more limitless profits...
+
+369
+00:18:53,173 --> 00:18:56,094
+no more unquestioning adulation
+
+370
+00:18:56,094 --> 00:18:57,511
+of the masses...
+
+371
+00:18:57,511 --> 00:18:59,138
+no more
+
+372
+00:18:59,138 --> 00:19:01,808
+quadruple lobe rubs.
+
+373
+00:19:01,808 --> 00:19:05,686
+If I'm not mistaken, Captain,
+the Federation has rules,
+
+374
+00:19:05,686 --> 00:19:07,187
+and those rules forbid you
+
+375
+00:19:07,187 --> 00:19:09,690
+to interfere
+with indigenous cultures.
+
+376
+00:19:09,690 --> 00:19:11,275
+What about
+your interference?
+
+377
+00:19:11,275 --> 00:19:12,986
+You've taken
+these people's religion
+
+378
+00:19:12,986 --> 00:19:15,780
+and manipulated it
+for your own selfish purposes,
+
+379
+00:19:15,780 --> 00:19:18,365
+pretended to be their Sages.
+
+380
+00:19:18,365 --> 00:19:20,994
+Who's to say we aren't
+their Sages, Captain?
+
+381
+00:19:20,994 --> 00:19:22,536
+Don't be ridiculous.
+
+382
+00:19:22,536 --> 00:19:26,582
+The song is sung of Sages
+who can perform miracles,
+
+383
+00:19:26,582 --> 00:19:29,919
+which, thanks to
+our replicator, we do.
+
+384
+00:19:29,919 --> 00:19:32,171
+The song is sung of men
+
+385
+00:19:32,171 --> 00:19:35,174
+coming from the sky
+on a burning flame--
+
+386
+00:19:35,174 --> 00:19:37,301
+when we crash-landed
+our shuttle
+
+387
+00:19:37,301 --> 00:19:39,512
+in their quaint
+little town square,
+
+388
+00:19:39,512 --> 00:19:41,347
+trailing behind us
+
+389
+00:19:41,347 --> 00:19:46,268
+a roaring ribbon
+of burning plasma.
+
+390
+00:19:46,268 --> 00:19:48,855
+You mean we really
+are the Sages?
+
+391
+00:19:52,566 --> 00:19:53,985
+The point is, Captain,
+
+392
+00:19:53,985 --> 00:19:55,402
+that these people
+
+393
+00:19:55,402 --> 00:19:57,363
+have believed
+for centuries
+
+394
+00:19:57,363 --> 00:19:59,740
+that gods,
+known as the Sages,
+
+395
+00:19:59,740 --> 00:20:01,868
+would deliver them
+from their strife.
+
+396
+00:20:01,868 --> 00:20:03,953
+To them...
+
+397
+00:20:06,122 --> 00:20:09,291
+we are those Sages.
+
+398
+00:20:09,291 --> 00:20:12,211
+What happens to a people
+when they lose their gods?
+
+399
+00:20:13,629 --> 00:20:14,922
+Despair...
+
+400
+00:20:14,922 --> 00:20:15,923
+Mm-hmm.
+
+401
+00:20:15,923 --> 00:20:16,924
+Fear...
+
+402
+00:20:16,924 --> 00:20:17,925
+Mmm...
+
+403
+00:20:17,925 --> 00:20:20,219
+Confusion.
+
+404
+00:20:20,219 --> 00:20:21,804
+And how can you...
+
+405
+00:20:22,722 --> 00:20:25,141
+as a moral people,
+
+406
+00:20:25,141 --> 00:20:28,310
+blithely tear down
+the spiritual structure
+
+407
+00:20:28,310 --> 00:20:30,312
+that has supported a community
+
+408
+00:20:30,312 --> 00:20:33,566
+since before their gods
+were flesh?
+
+409
+00:20:33,566 --> 00:20:36,569
+What would you
+be leaving them with?
+
+410
+00:20:36,569 --> 00:20:38,779
+Tell us, Arridor,
+tell us.
+
+411
+00:20:38,779 --> 00:20:40,156
+Darkness...
+
+412
+00:20:41,240 --> 00:20:43,617
+Doubt...
+
+413
+00:20:43,617 --> 00:20:45,995
+Hopelessness.
+
+414
+00:20:45,995 --> 00:20:49,040
+That was beautiful.
+
+415
+00:20:53,586 --> 00:20:55,295
+Mr. Tuvok...
+
+416
+00:20:57,506 --> 00:20:59,508
+transport them back
+to the surface.
+
+417
+00:21:06,640 --> 00:21:08,308
+We did it, Arridor.
+
+418
+00:21:08,308 --> 00:21:09,476
+We won.
+
+419
+00:21:27,620 --> 00:21:29,329
+We can't just leave
+the Ferengi there
+
+420
+00:21:29,329 --> 00:21:31,207
+to continue exploiting
+those poor people.
+
+421
+00:21:31,207 --> 00:21:32,416
+But Arridor is right.
+
+422
+00:21:32,416 --> 00:21:34,293
+We can't kidnap
+their gods either.
+
+423
+00:21:34,293 --> 00:21:37,421
+What other option is there?
+
+424
+00:21:37,421 --> 00:21:40,340
+What if the gods
+didn't just disappear
+
+425
+00:21:40,340 --> 00:21:42,843
+suddenly and inexplicably?
+
+426
+00:21:42,843 --> 00:21:45,721
+What if they left
+voluntarily? Gracefully?
+
+427
+00:21:45,721 --> 00:21:48,474
+The gods would be gone, but
+people would be prepared for it,
+
+428
+00:21:48,474 --> 00:21:51,102
+and they might accept it as
+a natural, ordained occurrence.
+
+429
+00:21:51,102 --> 00:21:52,186
+Exactly.
+
+430
+00:21:52,186 --> 00:21:53,729
+But how do we get
+two Ferengi
+
+431
+00:21:53,729 --> 00:21:56,065
+to just walk away
+from a monopoly
+
+432
+00:21:56,065 --> 00:21:57,691
+on an entire economy?
+
+433
+00:21:57,691 --> 00:21:59,568
+What motivates a Ferengi?
+
+434
+00:21:59,568 --> 00:22:00,861
+Profit.
+
+435
+00:22:00,861 --> 00:22:02,155
+Then we must find
+a way to make it
+
+436
+00:22:02,155 --> 00:22:03,990
+more profitable
+for them to leave.
+
+437
+00:22:03,990 --> 00:22:06,325
+Or less profitable to stay.
+
+438
+00:22:06,325 --> 00:22:08,452
+How do we do that?
+
+439
+00:22:08,452 --> 00:22:10,746
+We have to out-Ferengi...
+
+440
+00:22:10,746 --> 00:22:13,332
+the Ferengi.
+
+441
+00:22:16,502 --> 00:22:18,171
+Mmm.
+
+442
+00:22:18,171 --> 00:22:19,672
+There we are.
+
+443
+00:22:19,672 --> 00:22:22,967
+I've reconfigured
+the matter/antimatter generator
+
+444
+00:22:22,967 --> 00:22:25,052
+to produce an ionic
+disruption field
+
+445
+00:22:25,052 --> 00:22:26,553
+around the temple square.
+
+446
+00:22:26,553 --> 00:22:28,681
+No more
+unexpected beam-outs.
+
+447
+00:22:28,681 --> 00:22:30,683
+Let's see how smart
+those humans
+
+448
+00:22:30,683 --> 00:22:32,101
+think they are now.
+
+449
+00:22:32,101 --> 00:22:34,270
+(<i> loud knock at door</i> )
+
+450
+00:22:34,270 --> 00:22:35,313
+Kafar!
+
+451
+00:22:36,981 --> 00:22:38,691
+You called, Great Sage?
+
+452
+00:22:38,691 --> 00:22:40,860
+Find out who
+has the audacity
+
+453
+00:22:40,860 --> 00:22:42,736
+to disturb us in
+our Divine Vault.
+
+454
+00:22:42,736 --> 00:22:44,322
+Uh...
+
+455
+00:22:44,322 --> 00:22:45,572
+And make it quick.
+
+456
+00:22:48,951 --> 00:22:51,162
+Who has the audacity
+to disturb the Holy Sages
+
+457
+00:22:51,162 --> 00:22:53,247
+in their Divine Vault?
+
+458
+00:22:57,584 --> 00:22:59,377
+Grand Nagus!
+Grand Nagus!
+
+459
+00:23:01,839 --> 00:23:04,633
+Not the Grand Nagus.
+
+460
+00:23:04,633 --> 00:23:06,760
+I'm his official messenger--
+
+461
+00:23:06,760 --> 00:23:08,637
+the Grand Proxy.
+
+462
+00:23:13,726 --> 00:23:17,188
+But, Grand Proxy,
+how did you...?
+
+463
+00:23:17,188 --> 00:23:18,939
+Through the Barzan wormhole.
+
+464
+00:23:18,939 --> 00:23:21,192
+The humans stabilized it
+
+465
+00:23:21,192 --> 00:23:22,902
+temporarily,
+and were kind enough
+
+466
+00:23:22,902 --> 00:23:24,486
+to send a probe through
+
+467
+00:23:24,486 --> 00:23:29,700
+informing us of your...
+impressive operation.
+
+468
+00:23:32,203 --> 00:23:34,538
+Well, of course
+the Grand Nagus,
+
+469
+00:23:34,538 --> 00:23:36,456
+or his official messenger
+
+470
+00:23:36,456 --> 00:23:38,667
+the Grand Proxy,
+is always
+
+471
+00:23:38,667 --> 00:23:40,586
+welcome in our
+little world--
+
+472
+00:23:40,586 --> 00:23:43,714
+our rather poverty-stricken
+little world--
+
+473
+00:23:43,714 --> 00:23:46,008
+and we're thrilled he
+has taken an interest
+
+474
+00:23:46,008 --> 00:23:48,719
+in our very modest operation.
+
+475
+00:23:48,719 --> 00:23:50,721
+If I were you,
+
+476
+00:23:50,721 --> 00:23:54,350
+I'd save the groveling
+for the Nagus himself.
+
+477
+00:23:54,350 --> 00:23:58,062
+Y-You mean, the Grand Nagus
+is coming here, too?
+
+478
+00:23:58,062 --> 00:24:01,690
+Of course not, you idiot.
+
+479
+00:24:01,690 --> 00:24:03,567
+You two are
+going to him.
+
+480
+00:24:03,567 --> 00:24:06,444
+You've been recalled.
+
+481
+00:24:06,444 --> 00:24:08,446
+Recalled?
+We're ruined.
+
+482
+00:24:08,446 --> 00:24:10,408
+GRAND PROXY:
+You will be leaving immediately.
+
+483
+00:24:10,408 --> 00:24:12,993
+This is not a time
+to lose one's lobes.
+
+484
+00:24:12,993 --> 00:24:14,536
+I'll think of something.
+
+485
+00:24:21,961 --> 00:24:25,172
+Perhaps the Grand Nagus
+doesn't understand
+
+486
+00:24:25,172 --> 00:24:29,051
+that profits in this market
+depend upon our presence.
+
+487
+00:24:29,051 --> 00:24:34,390
+You see, to these people,
+we're, well... gods, actually.
+
+488
+00:24:34,390 --> 00:24:37,517
+Without us to make the fools
+cower in submission,
+
+489
+00:24:37,517 --> 00:24:39,686
+there will be
+no profits to be had.
+
+490
+00:24:39,686 --> 00:24:43,357
+The Grand Nagus knows
+all about your little scheme--
+
+491
+00:24:43,357 --> 00:24:45,567
+"The Song of the Sages"
+and all the rest of it.
+
+492
+00:24:45,567 --> 00:24:46,819
+Very clever.
+
+493
+00:24:46,819 --> 00:24:49,029
+But he wants you
+and all your acquisitions
+
+494
+00:24:49,029 --> 00:24:50,448
+back on Ferenginar
+
+495
+00:24:50,448 --> 00:24:52,325
+before the wormhole
+closes again.
+
+496
+00:24:52,325 --> 00:24:55,661
+I'm sure the Grand Nagus
+wouldn't want to lose
+
+497
+00:24:55,661 --> 00:24:58,998
+such a lucrative
+revenue stream.
+
+498
+00:24:58,998 --> 00:25:02,251
+The wormhole seems to open
+and close on its own
+
+499
+00:25:02,251 --> 00:25:03,752
+every seven or eight years.
+
+500
+00:25:03,752 --> 00:25:06,839
+We would be willing
+to forward a fair share
+
+501
+00:25:06,839 --> 00:25:09,300
+of the profits
+every time it does.
+
+502
+00:25:09,300 --> 00:25:11,344
+Say, hmm... 20 percent?
+
+503
+00:25:13,304 --> 00:25:14,972
+That's coming out
+of your half.
+
+504
+00:25:14,972 --> 00:25:16,223
+Shut up.
+
+505
+00:25:16,223 --> 00:25:18,351
+The Grand Nagus
+has no intention
+
+506
+00:25:18,351 --> 00:25:21,687
+of losing profits
+from this market.
+
+507
+00:25:21,687 --> 00:25:23,689
+That's why he's already
+got a team of scientists
+
+508
+00:25:23,689 --> 00:25:26,359
+investigating
+the human's technology--
+
+509
+00:25:26,359 --> 00:25:29,487
+to see if we can find a way
+to open and close the wormhole
+
+510
+00:25:29,487 --> 00:25:31,364
+whenever we want.
+
+511
+00:25:31,364 --> 00:25:33,073
+Then perhaps
+the Grand Nagus
+
+512
+00:25:33,073 --> 00:25:34,950
+could simply
+recall one of us
+
+513
+00:25:34,950 --> 00:25:36,369
+and leave the other behind
+
+514
+00:25:36,369 --> 00:25:38,037
+to administer
+the operation.
+
+515
+00:25:38,037 --> 00:25:40,456
+You could take Kol
+back with you.
+
+516
+00:25:40,456 --> 00:25:42,166
+Hey, wait a minute!
+I don't think that...
+
+517
+00:25:42,166 --> 00:25:43,709
+That's enough!
+
+518
+00:25:43,709 --> 00:25:46,212
+The Grand Nagus
+has recalled you both.
+
+519
+00:25:46,212 --> 00:25:48,047
+It's nonnegotiable.
+
+520
+00:25:48,047 --> 00:25:50,716
+Of course, the Nagus
+
+521
+00:25:50,716 --> 00:25:53,593
+doesn't want to upset
+the local population.
+
+522
+00:25:53,593 --> 00:25:56,222
+He may want to send others
+in your place.
+
+523
+00:25:56,222 --> 00:25:58,932
+That's why he wants you
+to make a little speech
+
+524
+00:25:58,932 --> 00:26:01,394
+telling the people that their
+Holy Sages have been recalled
+
+525
+00:26:01,394 --> 00:26:02,769
+to the Divine Treasury,
+
+526
+00:26:02,769 --> 00:26:05,147
+or whatever it is the people
+around here call it.
+
+527
+00:26:05,147 --> 00:26:07,733
+Then he wants you
+to tell them not to worry--
+
+528
+00:26:07,733 --> 00:26:09,818
+that everything
+will be all right without you.
+
+529
+00:26:09,818 --> 00:26:13,947
+Then he wants you to thank them
+for their generosity.
+
+530
+00:26:13,947 --> 00:26:15,491
+Thank them?
+
+531
+00:26:15,491 --> 00:26:18,994
+The 299th Rule of Acquisition--
+
+532
+00:26:18,994 --> 00:26:22,748
+"Whenever you exploit someone,
+it never hurts to thank them.
+
+533
+00:26:22,748 --> 00:26:26,252
+That way, it's easier
+to exploit them the next time."
+
+534
+00:26:26,252 --> 00:26:27,545
+Wait a minute.
+
+535
+00:26:27,545 --> 00:26:31,924
+There's only 285
+Rules of Acquisition.
+
+536
+00:26:31,924 --> 00:26:34,634
+You've been gone
+a very long time.
+
+537
+00:26:38,055 --> 00:26:39,723
+Oh...
+
+538
+00:26:39,723 --> 00:26:43,894
+By the way, did I mention
+that the Nagus is appropriating
+
+539
+00:26:43,894 --> 00:26:44,937
+all your holdings?
+
+540
+00:26:44,937 --> 00:26:46,730
+What?
+All?
+
+541
+00:26:46,730 --> 00:26:48,441
+All.
+
+542
+00:26:48,441 --> 00:26:50,568
+The least you can
+do is let us keep
+
+543
+00:26:50,568 --> 00:26:52,528
+the females.
+
+544
+00:26:52,528 --> 00:26:57,116
+I'll be back in 20 minutes
+to approve your speech.
+
+545
+00:26:57,116 --> 00:26:58,700
+I suggest you start writing.
+
+546
+00:27:02,246 --> 00:27:03,372
+You!
+
+547
+00:27:03,372 --> 00:27:04,498
+Come with me!
+
+548
+00:27:04,498 --> 00:27:07,334
+Of course,
+Greater Sage.
+
+549
+00:27:11,380 --> 00:27:14,508
+What are we going to do?
+
+550
+00:27:14,508 --> 00:27:18,720
+What a Ferengi always does
+in a situation this grave.
+
+551
+00:27:18,720 --> 00:27:21,974
+Panic?
+No, you idiot!
+
+552
+00:27:21,974 --> 00:27:25,394
+He goes to the Rules
+of Acquisition.
+
+553
+00:27:25,394 --> 00:27:26,395
+Oh.
+
+554
+00:27:26,395 --> 00:27:28,355
+Unabridged
+and fully annotated
+
+555
+00:27:28,355 --> 00:27:30,608
+with all 47 commentaries,
+
+556
+00:27:30,608 --> 00:27:32,776
+all 900 major
+and minor judgments,
+
+557
+00:27:32,776 --> 00:27:35,904
+all 10,000
+considered opinions.
+
+558
+00:27:35,904 --> 00:27:40,576
+There is a Rule
+for every conceivable situation.
+
+559
+00:27:42,495 --> 00:27:47,416
+Looks like Neelix is pulling off
+quite a performance.
+
+560
+00:27:47,416 --> 00:27:49,667
+There you are.
+Don't push.
+
+561
+00:27:49,667 --> 00:27:51,669
+There's plenty to go around.
+
+562
+00:27:51,669 --> 00:27:53,589
+Oh, you're quite welcome.
+
+563
+00:27:56,716 --> 00:27:58,594
+Is he another Sage?
+
+564
+00:27:58,594 --> 00:28:00,887
+Have you ever seen
+a Sage give away money?
+
+565
+00:28:03,432 --> 00:28:06,185
+"Grand proxy, avoidance of..."
+
+566
+00:28:06,185 --> 00:28:08,145
+Mm-mm.
+
+567
+00:28:08,145 --> 00:28:11,357
+"Grand proxy, censure by..."
+
+568
+00:28:14,109 --> 00:28:16,612
+"Grand proxy,
+encounters with..."
+
+569
+00:28:17,655 --> 00:28:20,574
+"See 'hopeless situation.'"
+
+570
+00:28:20,574 --> 00:28:22,618
+I told you there was no rule.
+
+571
+00:28:22,618 --> 00:28:23,701
+Then it's time
+
+572
+00:28:23,701 --> 00:28:26,455
+to invoke the unwritten rule.
+
+573
+00:28:26,455 --> 00:28:28,499
+The unwritten rule?
+
+574
+00:28:28,499 --> 00:28:30,917
+When no appropriate
+rule applies...
+
+575
+00:28:30,917 --> 00:28:32,378
+make one up.
+
+576
+00:28:32,378 --> 00:28:33,504
+(<i> chuckles</i> )
+
+577
+00:28:33,504 --> 00:28:35,130
+That's a very good rule.
+
+578
+00:28:35,130 --> 00:28:36,840
+Now, let's see...
+
+579
+00:28:36,840 --> 00:28:38,551
+What should it be?
+
+580
+00:28:40,386 --> 00:28:44,390
+The Grand Proxy is the Nagus's
+official messenger, right?
+
+581
+00:28:45,932 --> 00:28:48,268
+I've got it.
+
+582
+00:28:48,268 --> 00:28:51,397
+When the messenger comes
+to appropriate your profits...
+
+583
+00:28:53,357 --> 00:28:55,734
+kill the messenger.
+
+584
+00:28:55,734 --> 00:28:57,903
+(<i> chuckling</i> )
+
+585
+00:28:57,903 --> 00:29:01,156
+(<i> laughing gleefully</i> )
+
+586
+00:29:01,156 --> 00:29:03,242
+Thank you!
+Thank you!
+
+587
+00:29:22,886 --> 00:29:23,887
+Arridor!
+
+588
+00:29:23,887 --> 00:29:25,681
+Kol!
+
+589
+00:29:25,681 --> 00:29:27,391
+Show yourselves!
+
+590
+00:29:27,391 --> 00:29:30,519
+We can't keep
+the Grand Nagus waiting!
+
+591
+00:29:30,519 --> 00:29:33,439
+If you say so.
+
+592
+00:29:33,439 --> 00:29:35,023
+What is the meaning of this?
+
+593
+00:29:35,023 --> 00:29:38,193
+You're not very bright
+for a Grand Proxy.
+
+594
+00:29:38,193 --> 00:29:41,363
+Ex-Grand Proxy.
+
+595
+00:29:41,363 --> 00:29:43,823
+But the Grand Nagus...
+
+596
+00:29:43,823 --> 00:29:46,076
+Is on the other side
+of the galaxy.
+
+597
+00:29:46,076 --> 00:29:47,494
+(<i> yells</i> )
+
+598
+00:29:52,040 --> 00:29:54,585
+(<i> grunting</i> )
+
+599
+00:30:00,758 --> 00:30:01,800
+Wait!
+
+600
+00:30:01,800 --> 00:30:02,968
+I'm not...
+
+601
+00:30:02,968 --> 00:30:05,220
+I'm not the Grand Proxy.
+
+602
+00:30:05,220 --> 00:30:07,889
+Oh, no?
+Who are you then?
+
+603
+00:30:07,889 --> 00:30:11,184
+Stop! My name is Neelix.
+
+604
+00:30:11,184 --> 00:30:17,816
+Neelix? That's not
+a Ferengi name.
+
+605
+00:30:17,816 --> 00:30:18,900
+Wait!
+
+606
+00:30:18,900 --> 00:30:21,111
+I'm not Ferengi.
+
+607
+00:30:21,111 --> 00:30:22,279
+What?
+
+608
+00:30:23,405 --> 00:30:26,241
+I've never even met
+the Grand Nagus.
+
+609
+00:30:26,241 --> 00:30:28,076
+A likely story.
+
+610
+00:30:28,076 --> 00:30:29,286
+It's true.
+
+611
+00:30:29,286 --> 00:30:30,663
+I'm wearing a disguise.
+
+612
+00:30:30,663 --> 00:30:33,666
+I'm really a Talaxian,
+a crewman on<i> Voyager.</i>
+
+613
+00:30:34,874 --> 00:30:37,377
+If you're not Ferengi,
+prove it!
+
+614
+00:30:37,377 --> 00:30:39,463
+I'm not sure how.
+
+615
+00:30:44,843 --> 00:30:46,679
+Doesn't that hurt?
+
+616
+00:30:46,679 --> 00:30:48,054
+I can't feel a thing.
+
+617
+00:30:51,558 --> 00:30:54,311
+He really isn't a Ferengi.
+
+618
+00:30:56,480 --> 00:30:57,773
+On your feet.
+
+619
+00:30:59,941 --> 00:31:01,443
+All right,
+
+620
+00:31:01,443 --> 00:31:02,902
+Talaxian,
+
+621
+00:31:02,902 --> 00:31:05,197
+back to your ship.
+
+622
+00:31:05,197 --> 00:31:06,865
+And tell those humans
+
+623
+00:31:06,865 --> 00:31:08,908
+to keep their hands
+out of our pockets...
+
+624
+00:31:08,908 --> 00:31:10,619
+or else.
+
+625
+00:31:11,911 --> 00:31:13,580
+And stay out!
+
+626
+00:31:25,050 --> 00:31:26,051
+We won.
+
+627
+00:31:26,051 --> 00:31:27,427
+We won!
+
+628
+00:31:27,427 --> 00:31:29,137
+No, my friend.
+
+629
+00:31:29,137 --> 00:31:31,056
+Not exactly.
+
+630
+00:31:31,056 --> 00:31:32,683
+To be precise...
+
+631
+00:31:32,683 --> 00:31:34,434
+we won again.
+
+632
+00:31:34,434 --> 00:31:36,687
+(<i> laughs</i> )
+
+633
+00:31:57,082 --> 00:31:58,500
+What happened?
+
+634
+00:31:58,500 --> 00:31:59,835
+Suffice it to say,
+
+635
+00:31:59,835 --> 00:32:02,212
+they know I'm not
+the Grand Proxy.
+
+636
+00:32:02,212 --> 00:32:03,505
+Oh, great.
+
+637
+00:32:03,505 --> 00:32:05,799
+Let's get to the shuttle.
+
+638
+00:32:07,133 --> 00:32:08,927
+Who<i> are</i> you?
+
+639
+00:32:08,927 --> 00:32:10,095
+I'm... uh...
+
+640
+00:32:10,095 --> 00:32:11,346
+well...
+
+641
+00:32:11,346 --> 00:32:13,766
+You are another Holy One,
+aren't you?
+
+642
+00:32:14,683 --> 00:32:16,810
+That's right.
+
+643
+00:32:16,810 --> 00:32:18,478
+Uh... another Holy One.
+
+644
+00:32:18,478 --> 00:32:20,564
+Then you'll appreciate this.
+
+645
+00:32:20,564 --> 00:32:23,066
+"The Sages in the sky did dwell
+
+646
+00:32:23,066 --> 00:32:25,527
+"upon white clouds
+that held them well,
+
+647
+00:32:25,527 --> 00:32:27,613
+"until the sentry rang the bell,
+
+648
+00:32:27,613 --> 00:32:31,784
+the Holy Sages never fell."
+
+649
+00:32:31,784 --> 00:32:34,035
+That'll be three frangs, please.
+
+650
+00:32:34,035 --> 00:32:36,413
+But we didn't ask
+you to recite it.
+
+651
+00:32:36,413 --> 00:32:38,123
+You heard it, didn't you?
+
+652
+00:32:38,123 --> 00:32:40,459
+CHAKOTAY:
+Your poem's very nice,
+but we're in a hurry.
+
+653
+00:32:40,459 --> 00:32:41,919
+No, please, sir.
+
+654
+00:32:41,919 --> 00:32:43,462
+My eye.
+
+655
+00:32:43,462 --> 00:32:46,924
+Look, friend, I'm sorry
+about your eye, really, but...
+
+656
+00:32:46,924 --> 00:32:48,550
+Wait a minute.
+
+657
+00:32:48,550 --> 00:32:52,846
+Wasn't your patch...
+on the other side?
+
+658
+00:32:52,846 --> 00:32:54,640
+Oh.
+
+659
+00:32:56,308 --> 00:32:58,351
+Sir?
+
+660
+00:32:58,351 --> 00:32:59,519
+We've got to go.
+
+661
+00:32:59,519 --> 00:33:00,854
+Wait, please.
+
+662
+00:33:00,854 --> 00:33:03,398
+I'll throw in
+another verse gratis.
+
+663
+00:33:03,398 --> 00:33:05,818
+"But when the ringing
+called them here,
+
+664
+00:33:05,818 --> 00:33:08,612
+from the sky
+they did appear..."
+
+665
+00:33:08,612 --> 00:33:10,489
+Tell me something.
+
+666
+00:33:10,489 --> 00:33:13,283
+What happens to the Sages
+at the end of the song?
+
+667
+00:33:13,283 --> 00:33:14,993
+Oh... let me see now.
+
+668
+00:33:14,993 --> 00:33:17,370
+The final verse.
+
+669
+00:33:17,370 --> 00:33:21,875
+It's been a very long time,
+you know.
+
+670
+00:33:21,875 --> 00:33:24,628
+Um...
+
+671
+00:33:24,628 --> 00:33:27,046
+Those are very handsome shoes
+you have, sir.
+
+672
+00:33:29,842 --> 00:33:31,969
+Ah, yes.
+
+673
+00:33:31,969 --> 00:33:34,053
+It's coming
+back to me now.
+
+674
+00:33:34,053 --> 00:33:37,933
+"And there amid
+the eastern lights,
+
+675
+00:33:37,933 --> 00:33:41,603
+"three new stars
+appeared that night
+
+676
+00:33:41,603 --> 00:33:44,731
+"and with the ringing
+of the bell,
+
+677
+00:33:44,731 --> 00:33:47,693
+"the Sages knew
+where they must dwell.
+
+678
+00:33:47,693 --> 00:33:51,571
+"The Holy Pilgrim led them back,
+
+679
+00:33:51,571 --> 00:33:55,158
+"high into the sky of black
+
+680
+00:33:55,158 --> 00:33:59,371
+"and riding
+on the wings of fire,
+
+681
+00:33:59,371 --> 00:34:02,749
+the holy men
+rose higher and higher..."
+
+682
+00:34:05,126 --> 00:34:07,253
+Wait a minute.
+
+683
+00:34:07,253 --> 00:34:09,381
+I know who you are.
+
+684
+00:34:37,075 --> 00:34:39,661
+I am the Holy Pilgrim.
+
+685
+00:34:41,580 --> 00:34:44,082
+(<i> insects chirping</i> )
+
+686
+00:34:52,591 --> 00:34:54,092
+(<i> clears throat</i> )
+
+687
+00:34:54,092 --> 00:34:55,093
+Did you hear that?
+
+688
+00:34:55,093 --> 00:34:56,469
+The Holy Pilgrim.
+
+689
+00:34:56,469 --> 00:34:58,346
+The Holy Pilgrim?
+PARIS: The Holy Pilgrim!
+
+690
+00:34:58,346 --> 00:35:01,808
+CHAKOTAY:
+The Holy Pilgrim!
+The Holy Pilgrim!
+
+691
+00:35:07,355 --> 00:35:10,609
+(<i> crowd exclaiming outside</i> )
+
+692
+00:35:14,153 --> 00:35:16,782
+I have come
+to fulfill the destiny
+
+693
+00:35:16,782 --> 00:35:19,659
+that is prophesied
+in "The Song of the Sages."
+
+694
+00:35:19,659 --> 00:35:20,994
+What in the name
+
+695
+00:35:20,994 --> 00:35:24,289
+of eternal destitution
+is going on here?
+
+696
+00:35:24,289 --> 00:35:25,624
+Ah, there you are.
+
+697
+00:35:25,624 --> 00:35:28,001
+Do you not recognize me?
+
+698
+00:35:28,001 --> 00:35:30,503
+I am the Holy Pilgrim.
+
+699
+00:35:30,503 --> 00:35:31,964
+The Holy Pilgrim?
+
+700
+00:35:31,964 --> 00:35:33,339
+Who's the Holy Pilgrim?
+
+701
+00:35:33,339 --> 00:35:35,050
+Quiet, you idiot.
+
+702
+00:35:35,050 --> 00:35:38,386
+This man is no Holy Pilgrim.
+
+703
+00:35:38,386 --> 00:35:40,221
+He's a Talaxian!
+
+704
+00:35:40,221 --> 00:35:42,682
+ALL:
+Talaxian?
+
+705
+00:35:42,682 --> 00:35:45,560
+Oh, no, Great Sage.
+You are mistaken.
+
+706
+00:35:45,560 --> 00:35:48,021
+I am indeed
+the Holy Pilgrim
+
+707
+00:35:48,021 --> 00:35:50,899
+and just as "The Song
+of the Sages" promises,
+
+708
+00:35:50,899 --> 00:35:53,610
+"I have come
+to lead you back,
+
+709
+00:35:53,610 --> 00:35:56,195
+high into the sky
+of black."
+
+710
+00:35:56,195 --> 00:35:58,364
+(<i> startled murmuring</i> )
+
+711
+00:35:58,364 --> 00:36:00,617
+I have prayed
+for this day to come.
+
+712
+00:36:00,617 --> 00:36:02,911
+Lead them back.
+
+713
+00:36:02,911 --> 00:36:04,663
+CROWD (<i> chanting</i> ):
+Lead them back.
+
+714
+00:36:04,663 --> 00:36:07,707
+Lead them back. Lead them back.
+
+715
+00:36:07,707 --> 00:36:10,752
+Lead them back.
+Lead them back.
+
+716
+00:36:10,752 --> 00:36:12,253
+What do they mean,
+lead us back?
+
+717
+00:36:12,253 --> 00:36:15,465
+I don't know. It must be
+part of the song.
+
+718
+00:36:15,465 --> 00:36:17,425
+I told you we should've
+listened to the whole thing.
+
+719
+00:36:17,425 --> 00:36:19,094
+Well, it looks
+as though you two
+
+720
+00:36:19,094 --> 00:36:21,596
+will be heading off to see
+the Grand Nagus after all.
+
+721
+00:36:21,596 --> 00:36:24,016
+We'll see about that.
+
+722
+00:36:24,016 --> 00:36:25,767
+This man...
+
+723
+00:36:25,767 --> 00:36:28,478
+This man?
+
+724
+00:36:28,478 --> 00:36:30,563
+Is a false pilgrim.
+
+725
+00:36:30,563 --> 00:36:33,525
+(<i> crowd exclaiming</i> )
+
+726
+00:36:33,525 --> 00:36:35,443
+He's come to steal
+your profits.
+
+727
+00:36:35,443 --> 00:36:36,528
+(<i> shocked exclamations</i> )
+
+728
+00:36:36,528 --> 00:36:38,947
+I'm not a false pilgrim
+
+729
+00:36:38,947 --> 00:36:40,615
+and I'll prove it.
+
+730
+00:36:40,615 --> 00:36:41,992
+That's our cue.
+
+731
+00:36:41,992 --> 00:36:43,368
+Chakotay to<i> Voyager.</i>
+
+732
+00:36:43,368 --> 00:36:44,828
+On my mark.
+
+733
+00:36:44,828 --> 00:36:47,039
+Stand by to initiate
+the photon burst, Mr. Kim.
+
+734
+00:36:47,039 --> 00:36:48,247
+Aye, Captain.
+
+735
+00:36:48,247 --> 00:36:50,333
+Captain, I am still unable
+to penetrate
+
+736
+00:36:50,333 --> 00:36:52,127
+the Ferengi dampening field.
+
+737
+00:36:52,127 --> 00:36:53,962
+If the away team
+experiences difficulties,
+
+738
+00:36:53,962 --> 00:36:55,672
+we will be unable
+to beam them out.
+
+739
+00:36:55,672 --> 00:36:56,715
+Keep working on it.
+
+740
+00:36:56,715 --> 00:36:58,008
+In the meantime,
+
+741
+00:36:58,008 --> 00:36:59,634
+we'll just have to rely
+on their ingenuity
+
+742
+00:36:59,634 --> 00:37:01,761
+to get themselves out of there
+if trouble arises.
+
+743
+00:37:03,596 --> 00:37:06,641
+The song says that
+
+744
+00:37:06,641 --> 00:37:10,645
+"Amid the eastern lights,
+three new stars
+
+745
+00:37:10,645 --> 00:37:12,147
+appeared that night."
+
+746
+00:37:12,147 --> 00:37:13,398
+(<i> all agreeing</i> )
+
+747
+00:37:13,398 --> 00:37:15,567
+Look, my friends.
+
+748
+00:37:15,567 --> 00:37:16,568
+Look.
+
+749
+00:37:16,568 --> 00:37:17,569
+Right up there.
+
+750
+00:37:17,569 --> 00:37:18,611
+Now.
+
+751
+00:37:18,611 --> 00:37:19,905
+Initiating photon bursts.
+
+752
+00:37:22,199 --> 00:37:24,034
+(<i> all gasping</i> )
+
+753
+00:37:26,244 --> 00:37:28,413
+(<i> gasping</i> )
+
+754
+00:37:28,413 --> 00:37:30,540
+It's a trick.
+
+755
+00:37:30,540 --> 00:37:32,084
+He's a fraud, I tell you.
+
+756
+00:37:32,084 --> 00:37:34,377
+Kafar, arrest this man.
+
+757
+00:37:35,837 --> 00:37:37,547
+Well, arrest him!
+
+758
+00:37:41,342 --> 00:37:42,385
+(<i> yelling</i> )
+
+759
+00:37:42,385 --> 00:37:45,430
+Ow! Stop!
+
+760
+00:37:45,430 --> 00:37:46,556
+My ears!
+
+761
+00:37:46,556 --> 00:37:48,349
+What do you think
+you're doing?!
+
+762
+00:37:48,349 --> 00:37:51,644
+Like the song says,
+<i>Lesser Sage...</i>
+
+763
+00:37:51,644 --> 00:37:53,939
+"With the ringing of the bell,
+
+764
+00:37:53,939 --> 00:37:57,316
+the Sages knew
+where they must dwell."
+
+765
+00:37:57,316 --> 00:37:59,277
+(<i> yelling</i> )
+
+766
+00:37:59,277 --> 00:38:01,738
+Ow!
+
+767
+00:38:03,823 --> 00:38:05,951
+Like the song says,
+
+768
+00:38:05,951 --> 00:38:08,912
+you Sages, it's time for you
+
+769
+00:38:08,912 --> 00:38:10,747
+to go back where
+you came from.
+
+770
+00:38:10,747 --> 00:38:12,373
+MALE:
+Yes! Yes!
+
+771
+00:38:12,373 --> 00:38:13,792
+To the sky!
+
+772
+00:38:13,792 --> 00:38:14,793
+And they must go
+
+773
+00:38:14,793 --> 00:38:17,629
+on wings of fire!
+
+774
+00:38:17,629 --> 00:38:19,881
+ALL:
+Wings of fire! Wings of fire!
+
+775
+00:38:19,881 --> 00:38:23,051
+Wings of fire!
+Wings of fire!
+
+776
+00:38:23,051 --> 00:38:24,427
+Wings of fire!
+
+777
+00:38:24,427 --> 00:38:27,013
+(<i> crowd yelling</i> )
+
+778
+00:38:30,683 --> 00:38:32,310
+We are your gods!
+This is outrageous!
+
+779
+00:38:34,729 --> 00:38:36,397
+Look, we are your gods.
+I am your god.
+
+780
+00:38:36,397 --> 00:38:37,941
+We're the Sages.
+
+781
+00:38:37,941 --> 00:38:39,734
+Hands off of your god.
+
+782
+00:38:43,196 --> 00:38:44,489
+No. No.
+
+783
+00:38:44,489 --> 00:38:45,907
+Wait a minute, people.
+
+784
+00:38:45,907 --> 00:38:48,451
+There's no reason to interpret
+
+785
+00:38:48,451 --> 00:38:51,579
+"The Song of the Sages"
+so literally.
+
+786
+00:38:51,579 --> 00:38:52,705
+Kafar!
+
+787
+00:38:52,705 --> 00:38:54,373
+Kafar! Stop them!
+
+788
+00:38:54,373 --> 00:38:57,335
+We are fulfilling
+the destiny of the Sages.
+
+789
+00:38:57,335 --> 00:39:00,046
+I am the Holy Pilgrim
+and I have come to tell you
+
+790
+00:39:00,046 --> 00:39:03,300
+that there's another verse
+to the song.
+
+791
+00:39:03,300 --> 00:39:04,509
+It's uh, uh...
+
+792
+00:39:04,509 --> 00:39:06,761
+Please, don't burn
+the Holy Ones.
+
+793
+00:39:06,761 --> 00:39:08,805
+I am sorry,
+Holy Pilgrim,
+
+794
+00:39:08,805 --> 00:39:10,182
+but that's not
+part of the song.
+
+795
+00:39:12,350 --> 00:39:14,727
+CROWD (<i> chanting</i> ):
+Wings of fire! Wings of fire!
+
+796
+00:39:14,727 --> 00:39:16,813
+Wings of fire!
+
+797
+00:39:16,813 --> 00:39:19,899
+Commander, I think now
+would be a very good time
+
+798
+00:39:19,899 --> 00:39:21,109
+for that beam-out.
+
+799
+00:39:25,989 --> 00:39:28,407
+CROWD:
+Wings of fire! Wings of fire!
+
+800
+00:39:28,407 --> 00:39:31,536
+Wings of fire!
+Wings of fire!
+
+801
+00:39:31,536 --> 00:39:33,579
+Wings of fire! Wings of fire!
+
+802
+00:39:33,579 --> 00:39:35,165
+We've got to disable
+the dampening field,
+
+803
+00:39:35,165 --> 00:39:36,415
+so they can beam us
+out of here.
+
+804
+00:39:36,415 --> 00:39:37,375
+Where's the generator?
+
+805
+00:39:37,375 --> 00:39:38,835
+BOTH:
+In the vault!
+
+806
+00:39:38,835 --> 00:39:41,296
+CROWD:
+Wings of fire!
+Wings of fire!
+
+807
+00:39:41,296 --> 00:39:45,925
+Wings of fire!
+Wings of fire! Wings of fire!
+
+808
+00:39:45,925 --> 00:39:50,805
+(<i> chanting continues</i> )
+
+809
+00:39:50,805 --> 00:39:53,683
+We still cannot establish
+a transporter lock, Captain.
+
+810
+00:39:53,683 --> 00:39:56,144
+Boosting power to
+the annular confinement beam.
+
+811
+00:40:09,366 --> 00:40:10,992
+Arridor?
+
+812
+00:40:10,992 --> 00:40:12,369
+What is it now?
+
+813
+00:40:12,369 --> 00:40:15,955
+We had seven years
+of pure profit.
+
+814
+00:40:15,955 --> 00:40:18,666
+We did, didn't we?
+
+815
+00:40:20,793 --> 00:40:22,503
+I can't shut it down.
+
+816
+00:40:24,881 --> 00:40:26,383
+Stand back.
+
+817
+00:40:39,771 --> 00:40:42,315
+The Holy Ones have ascended!
+
+818
+00:40:42,315 --> 00:40:44,192
+(<i> crowd cheering</i> )
+
+819
+00:40:44,192 --> 00:40:46,403
+JANEWAY:
+<i>Is everyone okay down there,</i>
+<i>Commander?</i>
+
+820
+00:40:46,403 --> 00:40:47,820
+We're all here
+in one piece, Captain.
+
+821
+00:40:47,820 --> 00:40:49,447
+<i>Good work.</i>
+
+822
+00:40:49,447 --> 00:40:52,033
+Report to the Bridge as soon
+as everything is in order.
+
+823
+00:40:52,033 --> 00:40:54,786
+We'll be entering the wormhole
+in approximately seven minutes.
+
+824
+00:40:54,786 --> 00:40:55,870
+Acknowledged.
+
+825
+00:40:57,372 --> 00:40:59,958
+We're not going
+through any wormhole
+
+826
+00:40:59,958 --> 00:41:01,667
+without our possessions.
+
+827
+00:41:01,667 --> 00:41:03,586
+Listen, friend, you're
+lucky to be alive.
+
+828
+00:41:03,586 --> 00:41:05,546
+We beamed your shuttle
+to the shuttle bay.
+
+829
+00:41:05,546 --> 00:41:06,923
+As for the rest
+of your possessions,
+
+830
+00:41:06,923 --> 00:41:08,549
+they're back in the
+hands of the people
+
+831
+00:41:08,549 --> 00:41:09,759
+you stole them from.
+
+832
+00:41:09,759 --> 00:41:12,511
+Ensign Murphy,
+escort these men
+
+833
+00:41:12,511 --> 00:41:13,471
+to secured quarters.
+
+834
+00:41:13,471 --> 00:41:15,473
+This is outrageous.
+
+835
+00:41:15,473 --> 00:41:17,767
+I'll hold you
+personally responsible
+
+836
+00:41:17,767 --> 00:41:19,644
+for any losses we suffer.
+
+837
+00:41:19,644 --> 00:41:21,062
+We'll sue!
+
+838
+00:41:25,608 --> 00:41:27,193
+Shield status, Mr. Tuvok.
+
+839
+00:41:27,193 --> 00:41:28,445
+Shields are optimal.
+
+840
+00:41:28,445 --> 00:41:30,155
+Mr. Paris,
+engage maneuvering thrusters
+
+841
+00:41:30,155 --> 00:41:31,197
+and ease us into position.
+
+842
+00:41:31,197 --> 00:41:32,449
+Aye, Captain.
+
+843
+00:41:32,449 --> 00:41:34,075
+DOCTOR:
+<i>Sick Bay to Lieutenant Tuvok.</i>
+
+844
+00:41:34,075 --> 00:41:35,576
+Go ahead, doctor.
+
+845
+00:41:35,576 --> 00:41:38,330
+Ensign Murphy was just found
+unconscious on Deck 2.
+
+846
+00:41:38,330 --> 00:41:39,831
+It's a severe concussion.
+
+847
+00:41:39,831 --> 00:41:40,915
+We suspect foul play.
+
+848
+00:41:40,915 --> 00:41:42,625
+Murphy was escorting
+the Ferengi
+
+849
+00:41:42,625 --> 00:41:44,043
+to their quarters.
+
+850
+00:41:44,043 --> 00:41:45,503
+TUVOK:
+Captain, security
+
+851
+00:41:45,503 --> 00:41:47,046
+has been breached
+in the shuttle bay.
+
+852
+00:41:47,046 --> 00:41:48,465
+Seal that airlock,
+Mr. Tuvok.
+
+853
+00:41:51,134 --> 00:41:53,178
+The Ferengi have phasered
+the shuttle bay door.
+
+854
+00:41:53,178 --> 00:41:54,637
+They are exiting the ship.
+
+855
+00:41:54,637 --> 00:41:57,182
+Activating emergency
+containment field.
+
+856
+00:42:01,644 --> 00:42:03,604
+They're setting a course
+for the planet, Captain.
+
+857
+00:42:03,604 --> 00:42:05,564
+Lock a tractor beam
+on to that shuttle.
+
+858
+00:42:05,564 --> 00:42:07,317
+The gravitational effects
+of the wormhole
+
+859
+00:42:07,317 --> 00:42:08,401
+are refracting the beam.
+
+860
+00:42:08,401 --> 00:42:09,610
+I can't get a lock.
+
+861
+00:42:09,610 --> 00:42:11,363
+The Ferengi are hailing us,
+Captain.
+
+862
+00:42:11,363 --> 00:42:13,572
+On screen.
+
+863
+00:42:13,572 --> 00:42:17,869
+<i>Thank you for all your</i>
+<i>assistance, humans.</i>
+
+864
+00:42:17,869 --> 00:42:21,580
+<i>It was lovely</i>
+<i>doing business with you.</i>
+
+865
+00:42:21,580 --> 00:42:23,958
+<i>We'll be heading</i>
+<i>back into orbit</i>
+
+866
+00:42:23,958 --> 00:42:27,212
+<i>to transport our</i>
+<i>acquisitions aboard.</i>
+
+867
+00:42:27,212 --> 00:42:30,215
+(<i> both laughing</i> )
+
+868
+00:42:30,215 --> 00:42:31,674
+JANEWAY:
+Beam those men back
+
+869
+00:42:31,674 --> 00:42:34,302
+now, Mr. Kim.
+
+870
+00:42:34,302 --> 00:42:37,096
+I'm trying, but the targeting
+scanners are out of phase.
+
+871
+00:42:37,096 --> 00:42:38,390
+Try setting the scanners
+
+872
+00:42:38,390 --> 00:42:40,683
+to a narrow-band
+subspace frequency.
+
+873
+00:42:41,684 --> 00:42:43,769
+(<i> alarm beeps</i> )
+What is it?
+
+874
+00:42:43,769 --> 00:42:46,523
+They're trying to beam us
+back to their ship again.
+
+875
+00:42:46,523 --> 00:42:50,109
+They're using some sort
+of subspace carrier wave.
+
+876
+00:42:50,109 --> 00:42:51,069
+Do something!
+
+877
+00:42:51,069 --> 00:42:52,695
+Shields to maximum.
+
+878
+00:42:52,695 --> 00:42:54,739
+Shields are at maximum!
+
+879
+00:42:54,739 --> 00:42:58,117
+Send out a high-energy
+graviton pulse.
+
+880
+00:42:58,117 --> 00:43:01,413
+Let's see their transporter
+signal cut through that.
+
+881
+00:43:01,413 --> 00:43:03,373
+Captain, the Ferengi
+are emitting
+
+882
+00:43:03,373 --> 00:43:04,999
+a graviton pulse.
+
+883
+00:43:04,999 --> 00:43:07,502
+It's throwing the targeting
+scanners off again.
+
+884
+00:43:07,502 --> 00:43:10,838
+Not only that, it's
+destabilizing the wormhole.
+
+885
+00:43:13,007 --> 00:43:14,967
+Captain, a gravitational eddy
+from the wormhole
+
+886
+00:43:14,967 --> 00:43:16,511
+is attracting
+the Ferengi shuttle.
+
+887
+00:43:16,511 --> 00:43:18,221
+They're being pulled in.
+
+888
+00:43:21,599 --> 00:43:23,309
+Reverse thrusters!
+
+889
+00:43:23,309 --> 00:43:25,103
+They're off-line!
+
+890
+00:43:25,103 --> 00:43:27,646
+(<i> both screaming</i> )
+
+891
+00:43:31,943 --> 00:43:34,904
+Follow them in before that
+wormhole collapses, Mr. Paris.
+
+892
+00:43:34,904 --> 00:43:36,072
+PARIS:
+Aye, Captain.
+
+893
+00:43:36,072 --> 00:43:37,282
+Resetting
+the coordinates.
+
+894
+00:43:39,367 --> 00:43:43,121
+Captain, the entrance
+to the wormhole is moving.
+
+895
+00:43:43,121 --> 00:43:44,497
+The Ferengi graviton pulse
+
+896
+00:43:44,497 --> 00:43:46,665
+must have increased
+its rotational momentum.
+
+897
+00:43:46,665 --> 00:43:49,085
+Adjusting course to follow.
+
+898
+00:43:49,085 --> 00:43:50,086
+(<i> console buzzing</i> )
+
+899
+00:43:50,086 --> 00:43:51,212
+(<i> sighs</i> )
+
+900
+00:43:51,212 --> 00:43:52,338
+It's too fast for us, Captain.
+
+901
+00:43:52,338 --> 00:43:54,257
+I need more speed.
+
+902
+00:43:54,257 --> 00:43:57,469
+Mr. Tuvok, divert auxiliary
+power to the thrusters.
+
+903
+00:43:57,469 --> 00:43:58,844
+It's not enough.
+
+904
+00:43:58,844 --> 00:44:01,764
+Initiate a high intensity
+impulse burst.
+
+905
+00:44:06,269 --> 00:44:09,355
+Mr. Kim, reinitiate
+the verteron field.
+
+906
+00:44:09,355 --> 00:44:11,023
+Maybe we can attract
+the wormhole back.
+
+907
+00:44:11,023 --> 00:44:12,984
+The Ferengi graviton pulse
+knocked the wormhole
+
+908
+00:44:12,984 --> 00:44:15,528
+completely off
+its subspace axis.
+
+909
+00:44:15,528 --> 00:44:18,114
+It's jumping erratically
+now on both ends.
+
+910
+00:44:18,114 --> 00:44:20,741
+Options?
+
+911
+00:44:26,705 --> 00:44:28,249
+There are none.
+
+912
+00:44:33,963 --> 00:44:38,801
+Mr. Paris, reset a course
+for the Alpha Quadrant.
+
+913
+00:44:38,801 --> 00:44:41,262
+Warp 6.
+
+914
+00:44:41,262 --> 00:44:42,721
+Aye, Captain.
+
+915
+00:44:56,653 --> 00:44:58,488
+Look.
+
+916
+00:44:58,488 --> 00:45:01,032
+KAFAR:
+The Holy Ones are going home!
