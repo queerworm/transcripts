@@ -1,10 +1,15 @@
 import 'dart:convert';
 import 'dart:io';
 
-main() async {
+/// Usage:
+/// dart srt2html.dart - Builds the entire website from scratch
+/// dart srt2html.dart <show ids>... - Rebuilds only the given IDs
+main(List<String> args) async {
   var build = Directory('build');
-  if (await build.exists()) {
-    await build.delete(recursive: true);
+  if (args.isEmpty) {
+    if (await build.exists()) {
+      await build.delete(recursive: true);
+    }
   }
   await build.create();
   await Directory('build/assets').create();
@@ -17,17 +22,28 @@ main() async {
   await for (var item in Directory('srt').list()) {
     if (item is Directory) {
       var showId = item.path.split('/').last;
-      await Directory('build/$showId').create();
+      var showBuild = Directory('build/$showId');
+      if (args.isEmpty) {
+        await showBuild.create();
+      } else if (args.contains(showId)) {
+        if (await showBuild.exists()) await showBuild.delete(recursive: true);
+        await showBuild.create();
+      } else {
+        continue;
+      }
       manifests[showId] = Manifest.fromFile(File('srt/$showId/manifest.json'));
     }
   }
-  var indexTemplate = await File('templates/index.html').readAsString();
-  await File('build/index.html').writeAsString(indexTemplate.replaceAll(
-      '{{shows}}',
-      [
-        for (var entry in manifests.entries.toList()..sort(compareTitles))
-          "<li><a href='${entry.key}'>${entry.value.title}</a></li>"
-      ].join('\n  ')));
+
+  if (args.isEmpty) {
+    var indexTemplate = await File('templates/index.html').readAsString();
+    await File('build/index.html').writeAsString(indexTemplate.replaceAll(
+        '{{shows}}',
+        [
+          for (var entry in manifests.entries.toList()..sort(compareTitles))
+            "<li><a href='${entry.key}'>${entry.value.title}</a></li>"
+        ].join('\n  ')));
+  }
 
   var template = await File('templates/transcript.html').readAsString();
   var showTemplate = await File('templates/show.html').readAsString();
