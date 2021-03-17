@@ -15,7 +15,7 @@ class RipCommand extends Command {
 
   Stream<String> getSubtitles(Stream<String> urls) async* {
     await for (var url in urls) {
-      yield (await http.get(Uri.parse(url))).body;
+      yield utf8.decode((await http.get(Uri.parse(url))).bodyBytes);
     }
   }
 
