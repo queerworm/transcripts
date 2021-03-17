@@ -6,9 +6,13 @@ environment:
 
 dependencies:
   args: ^2.0.0
+  http: ^0.13.0
+  shelf: ^1.0.0
+  shelf_static: ^1.0.0
   xml: ^5.0.2
 
 publish_to: none
+
 
 executables:
   build: 

@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'package:args/command_runner.dart';
 
-class Build extends Command {
+class BuildCommand extends Command {
   final name = "build";
   final description = "Builds the website (or part of it)";
 
@@ -77,6 +77,8 @@ class Build extends Command {
           .replaceAll('{{episodes}}', _makeEpisodeList(manifest, available));
       await File('build/$showId/index.html').writeAsString(index);
     }
+
+    print('Build successful');
   }
 
   final manifests = <String, _Manifest>{};
