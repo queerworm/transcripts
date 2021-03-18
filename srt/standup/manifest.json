@@ -1,0 +1,21 @@
+{
+  "title": "Standup Specials",
+  "netflix": "",
+  "episodes": {
+    "newintown": {
+      "season": "John Mulaney",
+      "title": "New in Town (2012)",
+      "netflix": "70298251"
+    },
+    "comebackkid": {
+      "season": "John Mulaney",
+      "title": "The Comeback Kid (2015)",
+      "netflix": "80058424"
+    },
+    "kidgorgeous": {
+      "season": "John Mulaney",
+      "title": "Kid Gorgeous at Radio City (2018)",
+      "netflix": "80238110"
+    }
+  }
+}
