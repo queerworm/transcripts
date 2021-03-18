@@ -154,8 +154,16 @@ class BuildCommand extends Command {
       var season = entry.key;
       html += '<h4>$season</h4>\n';
       for (var episode in entry.value) {
-        var text = 'Episode ${episode.episode}';
-        if (episode.title != null) text += ' - ${episode.title}';
+        String text;
+        if (episode.episode == null && episode.title == null) {
+          throw Exception(
+              'All episodes must have an episode number and/or a title.');
+        } else if (episode.episode == null) {
+          text = episode.title!;
+        } else {
+          text = 'Episode ${episode.episode}';
+          if (episode.title != null) text += ' - ${episode.title}';
+        }
         if (available.contains(episode.code)) {
           text = '<a href="${episode.code}.html">$text</a>';
         }
@@ -190,7 +198,7 @@ class _Episode {
   final String code;
   final String? title;
   final String season;
-  final int episode;
+  final int? episode;
   final String netflixId;
   final int netflixOffset;
 
@@ -200,7 +208,8 @@ class _Episode {
   factory _Episode(String code, dynamic json, int globalOffset) {
     var season =
         json['season'] ?? 'Season ${code.substring(0, code.length - 2)}';
-    int episode = json['episode'] ?? int.parse(code.substring(code.length - 2));
+    int? episode =
+        json['episode'] ?? int.tryParse(code.substring(code.length - 2));
     return _Episode._(code, json['title'], season, episode, json['netflix'],
         json['netflix_offset'] ?? globalOffset);
   }

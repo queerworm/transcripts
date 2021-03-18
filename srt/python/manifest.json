@@ -184,38 +184,32 @@
     },
     "different": {
       "season": "Films and Live Shows",
-      "episode": 1971,
-      "title": "And Now for Something Completely Different",
+      "title": "And Now for Something Completely Different (1971)",
       "netflix": ""
     },
     "grail": {
       "season": "Films and Live Shows",
-      "episode": 1975,
-      "title": "Monty Python and the Holy Grail",
+      "title": "Monty Python and the Holy Grail (1975)",
       "netflix": "771476"
     },
     "brian": {
       "season": "Films and Live Shows",
-      "episode": 1979,
-      "title": "Monty Python's Life of Brian",
+      "title": "Monty Python's Life of Brian (1979)",
       "netflix": "699257"
     },
     "bowl": {
       "season": "Films and Live Shows",
-      "episode": 1982,
-      "title": "Monty Python Live at the Hollywood Bowl",
+      "title": "Monty Python Live at the Hollywood Bowl (1982)",
       "netflix": "80236778"
     },
     "life": {
       "season": "Films and Live Shows",
-      "episode": 1983,
-      "title": "Monty Python's The Meaning of Life",
+      "title": "Monty Python's The Meaning of Life (1983)",
       "netflix": ""
     },
     "mostly": {
       "season": "Films and Live Shows",
-      "episode": 2014,
-      "title": "Monty Python Live (Mostly): One Down, Five to Go",
+      "title": "Monty Python Live (Mostly): One Down, Five to Go (2014)",
       "netflix": "80017240"
     }
   }
