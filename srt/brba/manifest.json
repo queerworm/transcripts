@@ -1,0 +1,259 @@
+{
+  "title": "Breaking Bad",
+  "netflix": "70143836",
+  "episodes": {
+    "101": {
+      "title": "Pilot",
+      "netflix": "70196252"
+    },
+    "102": {
+      "title": "The Cat's in the Bag",
+      "netflix": "70196253"
+    },
+    "103": {
+      "title": "And the Bag's in the River",
+      "netflix": "70196254"
+    },
+    "104": {
+      "title": "Cancer Man",
+      "netflix": "70196255"
+    },
+    "105": {
+      "title": "Gray Matter",
+      "netflix": "70196256"
+    },
+    "106": {
+      "title": "Crazy Handful of Nothin'",
+      "netflix": "70196257"
+    },
+    "107": {
+      "title": "A No-Rough-Stuff-Type Deal",
+      "netflix": "70196258"
+    },
+    "201": {
+      "title": "Seven Thirty-Seven",
+      "netflix": "70196259"
+    },
+    "202": {
+      "title": "Grilled",
+      "netflix": "70196260"
+    },
+    "203": {
+      "title": "Bit by a Dead Bee",
+      "netflix": "70196261"
+    },
+    "204": {
+      "title": "Down",
+      "netflix": "70196262"
+    },
+    "205": {
+      "title": "Breakage",
+      "netflix": "70196263"
+    },
+    "206": {
+      "title": "Peekaboo",
+      "netflix": "70196264"
+    },
+    "207": {
+      "title": "Negro y Azul",
+      "netflix": "70196265"
+    },
+    "208": {
+      "title": "Better Call Saul",
+      "netflix": "70196266"
+    },
+    "209": {
+      "title": "4 Days Out",
+      "netflix": "70196267"
+    },
+    "210": {
+      "title": "Over",
+      "netflix": "70196268"
+    },
+    "211": {
+      "title": "Mandala",
+      "netflix": "70196269"
+    },
+    "212": {
+      "title": "Phoenix",
+      "netflix": "70196270"
+    },
+    "213": {
+      "title": "ABQ",
+      "netflix": "70196271"
+    },
+    "301": {
+      "title": "No Más",
+      "netflix": "70196272"
+    },
+    "302": {
+      "title": "Caballo Sin Nombre",
+      "netflix": "70196273"
+    },
+    "303": {
+      "title": "I.F.T.",
+      "netflix": "70196274"
+    },
+    "304": {
+      "title": "Green Light",
+      "netflix": "70196275"
+    },
+    "305": {
+      "title": "Mas",
+      "netflix": "70196276"
+    },
+    "306": {
+      "title": "Sunset",
+      "netflix": "70196277"
+    },
+    "307": {
+      "title": "One Minute",
+      "netflix": "70196278"
+    },
+    "308": {
+      "title": "I See You",
+      "netflix": "70196279"
+    },
+    "309": {
+      "title": "Kafkaesque",
+      "netflix": "70196280"
+    },
+    "310": {
+      "title": "Fly",
+      "netflix": "70196281"
+    },
+    "311": {
+      "title": "Abiquiu",
+      "netflix": "70196282"
+    },
+    "312": {
+      "title": "Half Measures",
+      "netflix": "70196283"
+    },
+    "313": {
+      "title": "Full Measure",
+      "netflix": "70196284"
+    },
+    "401": {
+      "title": "Box Cutter",
+      "netflix": "70236035"
+    },
+    "402": {
+      "title": "Thirty-Eight Snub",
+      "netflix": "70236036"
+    },
+    "403": {
+      "title": "Open House",
+      "netflix": "70236037"
+    },
+    "404": {
+      "title": "Bullet Points",
+      "netflix": "70236038"
+    },
+    "405": {
+      "title": "Shotgun",
+      "netflix": "70236039"
+    },
+    "406": {
+      "title": "Cornered",
+      "netflix": "70236040"
+    },
+    "407": {
+      "title": "Problem Dog",
+      "netflix": "70236041"
+    },
+    "408": {
+      "title": "Hermanos",
+      "netflix": "70236042"
+    },
+    "409": {
+      "title": "Bug",
+      "netflix": "70236043"
+    },
+    "410": {
+      "title": "Salud",
+      "netflix": "70236044"
+    },
+    "411": {
+      "title": "Crawl Space",
+      "netflix": "70236045"
+    },
+    "412": {
+      "title": "End Times",
+      "netflix": "70236046"
+    },
+    "413": {
+      "title": "Face Off",
+      "netflix": "70236047"
+    },
+    "501": {
+      "title": "Live Free Or Die",
+      "netflix": "70236412"
+    },
+    "502": {
+      "title": "Madrigal",
+      "netflix": "70236413"
+    },
+    "503": {
+      "title": "Hazard Pay",
+      "netflix": "70236414"
+    },
+    "504": {
+      "title": "Fifty-One",
+      "netflix": "70236415"
+    },
+    "505": {
+      "title": "Dead Freight",
+      "netflix": "70236416"
+    },
+    "506": {
+      "title": "Buyout",
+      "netflix": "70236417"
+    },
+    "507": {
+      "title": "Say My Name",
+      "netflix": "70236418"
+    },
+    "508": {
+      "title": "Gliding Over All",
+      "netflix": "70236419"
+    },
+    "509": {
+      "title": "Blood Money",
+      "netflix": "70236421"
+    },
+    "510": {
+      "title": "Buried",
+      "netflix": "70236422"
+    },
+    "511": {
+      "title": "Confessions",
+      "netflix": "70236423"
+    },
+    "512": {
+      "title": "Rabid Dog",
+      "netflix": "70236424"
+    },
+    "513": {
+      "title": "To'hajiilee",
+      "netflix": "70236425"
+    },
+    "514": {
+      "title": "Ozymandias",
+      "netflix": "70236426"
+    },
+    "515": {
+      "title": "Granite State",
+      "netflix": "70236427"
+    },
+    "516": {
+      "title": "Felina",
+      "netflix": "70236428"
+    },
+    "film": {
+      "season": "Film",
+      "title": "El Camino: A Breaking Bad Movie (2019)",
+      "netflix": "81078819"
+    }
+  }
+}
